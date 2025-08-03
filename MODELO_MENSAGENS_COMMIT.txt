@@ -1,0 +1,48 @@
+
+📘 Modelo de mensagens de commit para o projeto IAVS_PROJETO
+
+Use mensagens claras e objetivas. Sempre que possível, inicie com um emoji para facilitar a identificação visual. Abaixo estão sugestões por tipo de mudança:
+
+🚀 NOVAS FUNCIONALIDADES OU SCRIPTS
+- ✨ Adiciona script de limpeza de texto por OCR
+- ✨ Inclui rotina de normalização para arquivos CSV
+- ✨ Cria estrutura de diretórios padrão para o projeto
+
+🐛 CORREÇÕES DE ERROS
+- 🐛 Corrige falha na leitura de PDFs com layout incompleto
+- 🐛 Ajusta encoding para evitar erro em acentos
+- 🐛 Corrige nome de coluna incorreto no merge
+
+📝 DOCUMENTAÇÃO
+- 📝 Atualiza README com instruções de uso
+- 📝 Adiciona lembrete sobre uso do Git na pasta
+- 📝 Documenta estrutura de arquivos e pastas
+
+🔄 ATUALIZAÇÕES GERAIS
+- 🔄 Atualiza scripts com novos parâmetros
+- 🔄 Sincroniza pasta com alterações locais
+- 🔄 Atualiza nomenclatura de arquivos corrigidos
+
+🧹 LIMPEZA E ORGANIZAÇÃO
+- 🧹 Remove arquivos temporários do processamento
+- 🧹 Reorganiza scripts por etapa do fluxo
+- 🧹 Padroniza nomes de arquivos .txt
+
+🗑️ REMOÇÃO
+- 🗑️ Remove scripts antigos e obsoletos
+- 🗑️ Exclui arquivos duplicados de testes
+- 🗑️ Apaga logs intermediários desnecessários
+
+📊 DADOS
+- 📊 Adiciona novos arquivos brutos para análise
+- 📊 Atualiza tabela de controle com status recentes
+- 📊 Corrige inconsistências nos nomes de variáveis
+
+💡 OUTROS EXEMPLOS
+- 🔧 Ajusta parâmetros do corretor ortográfico
+- ⚙️ Altera configuração de caminho no script principal
+- 🧪 Testa script de geração de perguntas automáticas
+
+---
+
+📌 DICA: use `git commit -m "sua mensagem"` para registrar.

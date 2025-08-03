@@ -1,0 +1,38 @@
+
+📌 Como atualizar o repositório Git (passo a passo)
+
+Sempre que você adicionar, alterar ou remover arquivos na pasta IAVS_PROJETO, siga os passos abaixo para garantir que o repositório no GitHub fique sincronizado com seu computador:
+
+✅ 1. Verifique o que mudou
+No terminal (cmd ou VS Code), entre na pasta do projeto e digite:
+
+    git status
+
+✅ 2. Adicione as mudanças ao Git
+Inclua todos os arquivos alterados, adicionados ou removidos com:
+
+    git add -A
+
+✅ 3. Faça um commit com mensagem descritiva
+Crie um “marco” no histórico do projeto, explicando o que foi alterado:
+
+    git commit -m "🔄 Atualização geral: novos scripts e ajustes"
+
+(Substitua a mensagem pelas suas alterações reais)
+
+✅ 4. Envie para o GitHub
+
+    git push
+
+✅ Exemplo completo:
+
+    cd "C:\Users\isisi\Documents\IAVS_PROJETO"
+    git status
+    git add -A
+    git commit -m "✨ Adicionei análise de dados da Etapa 4"
+    git push
+
+💡 Observações:
+- Nada é enviado automaticamente. Você precisa executar esses comandos sempre que quiser atualizar o GitHub.
+- Arquivos removidos manualmente da pasta local só sairão do GitHub após o `git add -A` + `commit` + `push`.
+- Sempre escreva mensagens de commit que ajudem você a lembrar o que foi feito.
