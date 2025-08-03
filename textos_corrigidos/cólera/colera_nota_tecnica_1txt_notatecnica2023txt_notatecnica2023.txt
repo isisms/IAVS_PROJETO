@@ -1,0 +1,144 @@
+1.1. Comunicar e esclarecer sobre o caso de cólera autóctone confirmado
+das VE-DDA e VE-cólera.
+2. CONTEXTUALIZAÇÃO
+2.1. Foi confirmado laboratorialmente um caso de cólera autóctone no
+Brasil, no município de Salvador, na Bahia, com a identificação do agente Vibrio
+cholerae O1 Ogawa (toxigênico). O indivíduo não tem histórico de deslocamento
+para países com ocorrência de casos confirmados, nem de contato com outro
+caso suspeito ou confirmado da doença. Entretanto, o caso foi detectado por
+meio de vigilância ativa laboratorial. Trata-se de um homem de 60 anos,
+residente no município de Salvador, que apresentou um desconforto abdominal
+e diarreia aquosa, em março de 2024. Duas semanas antes ele havia feito uso
+de antibiótico para tratamento de outra patologia.
+2.2. Trata-se de um caso isolado, tendo em vista que não foram
+identificados outros casos, após a investigação epidemiológica realizada pelas
+equipes de saúde locais junto às pessoas que tiveram contato com o paciente.
+após a infecção, mas que para as investigações epidemiológicas, no Brasil, está
+padronizado o período de transmissibilidade de até 20 dias por uma margem de
+segurança, o paciente não transmite mais o agente etiológico desde o dia
+3. CENÁRIO EPIDEMIOLÓGICO
+3.1. No Brasil, os últimos casos autóctones ocorreram em Pernambuco
+entre os anos de 2004 e 2005, com 21 e cinco casos confirmados,
+respectivamente. A partir de 2006, não houve casos de cólera autóctones,
+apenas importados: um de Angola, notificado no Distrito Federal (2006); um
+proveniente da República Dominicana, em São Paulo (2011); um de
+Moçambique, no Rio Grande do Sul (2016); e um da Índia, no Rio Grande do
+Norte (2018).
+3.2. De acordo com a Organização Mundial da Saúde (OMS), de janeiro a
+março de 2024, 31 países registraram casos ou declararam surto de cólera.
+Seguindo a classificação da OMS, a Região Africana foi a mais afetada, com 18
+países. Nas Américas há surtos declarados apenas no Haiti e na República
+Dominicana.
+3.3. O Ministério da Saúde mantém atualizações periódicas sobre a
+A - Z - Cólera — Ministério da Saúde (www.gov.br).
+3.4. Diante do cenário de casos de cólera no mundo, salienta-se a
+situação epidemiológica de doença, à detecção de casos, à investigação
+epidemiológica e às medidas de prevenção e controle.
+4. DETECÇÃO DE CASOS
+4.1. A cólera é causada pela enterotoxina do Vibrio cholerae O1 ou O139
+e compõe as doenças diarreicas agudas (DDA)[1]. A grande maioria das pessoas
+infectadas permanece assintomática (aproximadamente 75%) e, daquelas que
+desenvolvem a doença, a maioria apresenta sintomas leves ou moderados, e
+apenas de 10% a 20% desenvolvem a forma severa, que, se não for tratada
+prontamente, pode levar a graves complicações e ao óbito.
+4.2. Cabe ressaltar que o Vibrio cholerae pode ser encontrado no
+ambiente aquático, pois faz parte da microbiota marinha e fluvial e pode se
+apresentar de forma livre ou associado a crustáceos, moluscos, peixes, algas,
+aves aquáticas, entre outros, incluindo superfícies abióticas.
+4.3. Os profissionais de saúde devem conhecer a doença e as definições
+de caso suspeito de cólera, conforme estabelecido no Guia de Vigilância em
+Saúde, do Ministério da Saúde (MS) e descritos a seguir:
+Figura 1 - Características da cólera.
+Fonte: GT-DTHA/CGZV/DEDT/SVSA
+[1] As DDA caracterizam-se pela diminuição na consistência das fezes, pelo aumento da
+frequência (mínimo de 3 episódios em 24 horas) por até 14 dias, podendo ser
+acompanhada de febre, náusea, vômitos.
+4.4. Definição de caso suspeito
+4.4.1. Em áreas SEM surto declarado de cólera, são considerados casos
+suspeitos:
+Indivíduo, proveniente de áreas com ocorrência de casos confirmados de
+cólera, que apresente doenças diarreicas agudas (DDA) até o décimo dia de
+sua chegada.
+Indivíduo com mais de 5 anos de idade que apresente diarreia súbita,
+líquida e abundante. A presença de desidratação grave, acidose e colapso
+circulatório reforça a suspeita.
+apresente DDA em até dez dias após o contato, independentemente da
+faixa etária. É importante que o contato tenha ocorrido durante o período
+de transmissibilidade, ou seja, em no máximo 20 dias do início dos
+sintomas do caso primário (suspeito ou confirmado).
+4.4.2. Em áreas COM surto declarado de cólera, é considerado suspeito:
+ou confirmado de cólera, independentemente da faixa etária.
+4.5. Outra estratégia para detectar casos oportunamente é a realização
+do monitoramento sistemático das doenças diarreicas agudas por meio da VE-
+DDA. O MS disponibiliza, no link:
+epidemiológica pelos municípios e estados.
+4.6. Dessa forma, é importante que as VE, especialmente as locais,
+estejam atentas às alterações de padrão epidemiológico dos casos de DDA,
+entre os casos e com locais em que há surtos declarado de cólera, como viagens
+realizadas, a fim de, caso haja suspeita de cólera, dispare a investigação
+epidemiológica específica para identificar sua etiologia e, caso confirmado,
+quebrar a cadeia de transmissão conforme NOTA TÉCNICA Nº 68/2023-
+CGZV/DEDT/SVSA/MS (0033677502).
+5. INVESTIGAÇÃO EPIDEMIOLÓGICA
+5.1. A investigação epidemiológica tem como objetivo identificar a fonte
+de infecção e o modo de transmissão, confirmar o diagnóstico, identificar
+fatores de risco, identificar populações vulneráveis e grupos expostos a maior
+risco, determinar as principais características epidemiológicas e orientar quanto
+às medidas de prevenção e controle. A investigação (Figura 2) deve ser iniciada
+imediatamente após a notificação do caso suspeito ou confirmado, utilizando-se
+a Ficha de Investigação de Cólera.
+Figura 2 - Fluxograma de investigação de casos suspeitos de cólera
+Fonte: DEDT/SVSA/MS - Guia de Vigilância em Saúde
+6. MEDIDAS DE PREVENÇÃO E CONTROLE
+6.1. A prevenção e controle das DDA, incluindo a cólera, dependem de
+condições adequadas de saneamento básico, hábitos de higiene pessoal e
+manipulação segura de alimentos. Ações de educação em saúde devem
+enfatizar a importância da lavagem das mãos e cuidados com alimentos. Em
+áreas sem infraestrutura de água e esgoto, é crucial orientar sobre desinfecção
+da água e manejo de resíduos.
+6.2. Dessa forma, para prevenção e controle das DDA, incluindo a cólera,
+orienta-se a realização das seguintes ações:
+Figura 3 - Medidas de prevenção.
+Fonte: GT-DTHA/CGZV/DEDT/SVSA
+7. CONCLUSÃO
+7.1. Os achados da investigação epidemiológica realizada até o momento
+indicam se tratar de um caso isolado, localizado e sem evidências de
+ocorrência de outros casos. Considerando o período de transmissibilidade da
+doença, o paciente não transmite mais o agente etiológico desde o dia
+10/04/2024.
+7.2. O Ministério da Saúde tem acompanhado a situação e apoiado,
+conjuntamente com a Secretaria Estadual de Saúde da Bahia, às secretarias
+minimizar os possíveis impactos à saúde da população.
+7.3. As orientações constantes nesta nota técnica deverão ser
+epidemiológica, sanitária e ambiental; da Atenção Primária à Saúde (APS); das
+sensibilizar sobre a suspeição, notificação, investigação, prevenção e controle
+de cólera.
+7.4. Para informações adicionais, contatar a Coordenação-Geral de
+Vigilância de Zoonoses e Doenças de Transmissão Vetorial- CGZV, pelo e-mail
+colera@saude.gov.br.
+Atenciosamente,
+Coordenador-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+De acordo,
+De acordo,
+De acordo,
+do Departamento de Doenças Transmissíveis, em 19/04/2024, às
+15:44, conforme horário oficial de Brasília, com fundamento no § 3º, do art.
+4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria
+nº 900 de 31 de Março de 2017.
+Lima Junior, Coordenador(a)-Geral de Vigilância de Zoonoses e
+Doenças de Transmissão Vetorial, em 19/04/2024, às 15:47, conforme
+horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº
+10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+Santana, Usuário Externo, em 19/04/2024, às 18:22, conforme horário
+oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543,
+de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de
+2017.
+Secretário(a) de Vigilância em Saúde e Ambiente, em 19/04/2024, às
+18:26, conforme horário oficial de Brasília, com fundamento no § 3º, do art.
+4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria
+nº 900 de 31 de Março de 2017.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+Referência: Processo nº 25000.056009/2024-81 SEI nº 0040218983
+SRTVN Quadra 701, Via W5 Norte Edifício PO700, 6º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+Site - saude.gov.br

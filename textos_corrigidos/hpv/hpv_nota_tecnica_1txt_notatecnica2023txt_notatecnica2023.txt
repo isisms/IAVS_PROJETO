@@ -1,0 +1,172 @@
+1.1. Esta nota técnica apresenta à descrição da estrutura e do funcionamento
+da Rede de Imunobiológicos para Pessoas com Situações Especiais (RIE), com o
+imunobiológicos especiais no sistema de saúde.
+2. CONTEXTUALIZAÇÃO
+2.1. A vacinação para pessoas com condições clínicas específicas vai além da
+proteção individual contra doenças imunopreveníveis, constituindo um pilar
+fundamental para a manutenção da sua saúde, da qualidade de vida e da inclusão
+social.
+2.2. Indivíduos com imunodeficiências, doenças crônicas, transplantados,
+pacientes oncológicos, vivendo com HIV, entre outras condições específicas,
+complicações dessas doenças. Seus sistemas imunológicos podem estar
+tratamentos, tornando-os mais suscetíveis a infecções que, em indivíduos
+saudáveis, seriam facilmente combatidas.
+2.3. Recentemente, a Portaria GM/MS Nº 6.623, DE 14 DE FEVEREIRO DE
+(RIE). Essa mudança representa um marco importante, pois visa ampliar e aprimorar
+o acesso a imunobiológicos para pessoas com condições clínicas específicas,
+Saúde (SUS).
+2.4. A RIE é composta pelos Centros de Referência em Imunobiológicos
+Especiais (CRIE), pelos Centros Intermediários de Imunobiológicos Especiais (CIIE) e
+pelas Unidades Básicas de Saúde (UBS).
+3. JUSTIFICATIVA
+3.5. A padronização dos processos e sua implementação são essenciais
+para garantir a uniformidade e a qualidade do cuidado em toda a RIE. Diretrizes
+claras e bem definidas permitem otimizar o fluxo de atendimento, garantir a
+segurança de pacientes e profissionais, além de promover a eficiência no uso dos
+recursos disponíveis.
+4. IMUNIZAÇÃO ESPECIAL
+4.1. É a aplicação de imunobiológicos (vacinas, soros ou imunoglobulinas)
+Nacional de Vacinação.
+5. AVALIAÇÃO E VALIDAÇÃO CLÍNICA
+5.2. Existem situações em que a imunização especial não precisa de
+avaliação ou validação clínica. Por exemplo, basta que um usuário de profilaxia pré-
+exposição ao HIV (PrEP) apresente uma receita do medicamento para ter o acesso à
+vacinação contra o HPV ou Hepatite A. Mas algumas imunizações especiais
+precisarão de avaliação ou validação clínica. Tais situações ocorrem normalmente
+quando envolvem soros, imunoglobulinas ou vacinas que não estão no Calendário
+Nacional de Vacinação.
+5.3. Algumas unidades de saúde terão autonomia para realizar a avaliação
+ou validação clínica. Essa atribuição deverá ser formalizada em resolução da
+Comissão Intergestores Bipartite (CIB) e indicada na composição da RIE estadual.
+5.4. A autonomia para avaliação e validação clínica depende da presença de
+profissionais de saúde de nível superior, capacitados para avaliar a indicação de
+imunização especial. Por isso, todos os CRIES deverão ter essa autonomia.
+5.5. Os CIIES que tiverem equipe com os profissionais descritos acima,
+poderão ter essa autonomia para avaliação e validação clínica reconhecida em CIB.
+5.6. A imunização especial que necessitar de avaliação e validação clínica,
+poderá ser feita em qualquer sala de vacina pública, através da validação a
+distância.
+5.7. A validação a distância deverá ser feita por via eletrônica (e-mail ou
+sistema de informação específico), por profissionais de saúde de nível superior
+referência com competência para a referida validação, indicado pela CIB.
+⚠️ ALERTA
+para validação externa e os locais que ficarão responsáveis por essa validação.
+‼️ IMPORTANTE
+6. SOBRE OS COMPONENTES DA RIE
+6.1. RIE é composta por três níveis de estrutura para o acesso aos
+imunobiológicos especiais: CRIE, CIIE e salas de vacina do SUS.
+6.2. De acordo com portaria GM/MS Nº 6.623, de 14 de fevereiro de 2025, o
+Programa Nacional de Imunizações (PNI) reconhece as salas de vacina existentes em
+hospitais e ambulatórios especializados-como, por exemplo, hospitais que tratam
+câncer ou centros de referência em infecções sexualmente transmissíveis (IST/AIDS).
+clínica.
+6.3. Qualquer sala de vacina do SUS, incluindo aquelas localizadas nas
+unidades de atenção primária, poderá realizar a imunização especial. Entretanto,
+nos casos que dependem de avaliação clínica, será necessário solicitar a
+avaliação/validação a distância e envio do imunobiológico especial.
+6.4. O CRIE precisará ter uma cobertura territorial pactuada em CIB.
+️ ⚠️ ALERTA
+e que os municípios com menos de 50.000 habitantes tenham uma (1) unidade que
+concentrem esse tipo de vacinação.
+6.5. O quadro 1 descreve suas definições, requisitos mínimos de
+funcionamento de cada tipo de sala de vacina na RIE.
+Quadro 1 - Componentes da rede de oferta de imunobiológicos especiais:
+Base territorial pactuada em CIB.
+Estabelecimentos de Saúde (CNES) conforme
+a normativa vigente.
+federal, estadual ou municipal.
+sala de vacina, rede de frio, registro de doses
+vacinação.
+Funcionar, no mínimo, 8 horas por dia.
+Manter registros individuais dos pacientes,
+respectivo prontuário clínico.
+situações de risco,
+graves.
+superior, capacitados para avaliar a indicação
+de imunobiológicos e eventos adversos.
+liberar o imunobiológico especial.
+especial.
+Estabelecimentos de Saúde (CNES) conforme
+a normativa vigente.
+condições clínicas especiais.
+especiais, mas que
+(ANVISA).
+pela Comissão Inter especial.
+(CIB).
+saúde (como
+Saúde - UBS,
+(ANVISA).
+hospitais etc.)
+DO SUS Estabelecimentos de Saúde (CNES) conforme
+a normativa vigente.
+população, seguindo
+de Imunizações (PNI)
+Saúde.
+Fonte: BRASIL. Ministério da Saúde. Institui a Rede de Imunobiológicos para Pessoas com
+Situações Especiais - RIE. Portaria GM/MS nº 6.623, de 14 de fevereiro de 2025. Brasília, DF, 2025.
+Disponível em:Portaria GM/MS Nº 6.623, DE 14 DE FEVEREIRO DE 2025. Acesso em: 10/04/2025.
+7. PROCEDIMENTOS PARA IMPLEMENTAÇÃO DA RIE NO NÍVEL ESTADUAL
+7.1. É recomendado que os estados em conjunto com os Conselhos de
+Secretários Municipais de Saúde (Consems) realizem um inventário das unidades de
+saúde federais, estaduais e municipais que serão classificados como CRIE ou CIIE,
+conforme os critérios estabelecidos na portaria GM/MS Nº 6.623, de 14 de fevereiro
+de 2025. A figura I, apresenta a proposta de planilha para o inventario das unidades
+da RIE. A figura II, apresenta a planilha para listar os locais de avaliação e/ou
+validação a distância.
+Figura I - Proposta de planilha para inventário de unidades da RIE:
+Figura II - Local de avaliação e/ou validação a distância de Imunização especial:
+7.2. A equipe responsável pela avaliação e/ou validação externa poderá
+discutir a conduta dos casos mais complexos com a equipe do Ministério da Saúde,
+por meio do e-mail: rie@saude.gov.br.
+7.3. Uma vez elencadas as unidades CRIE e CIIE, definidos os locais de
+avaliação e/ ou validação externa, bem como o fluxo e as ferramentas para sua
+realização, a RIE poderá ser pactuada na CIB.
+7.4. A RIE poderá agregar novas unidades ou estabelecer novos fluxos ao
+longo do tempo, desde que as mudanças sejam devidamente pactuadas em CIB.
+8. CONSIDERAÇÕES FINAIS
+8.1. A análise dos componentes da Rede de Imunobiológicos para Pessoas
+com Situações Especiais (RIE) - abrangendo os CRIE, CIIE e as salas de vacina do
+SUS, revela uma estrutura hierárquica de atendimento com níveis crescentes de
+complexidade operacional.
+8.2. O CRIE, enquanto centro de referência, exige infraestrutura avançada e
+autonomia técnica para a avaliação e liberação de imunobiológicos especiais.
+8.3. O CIIE, configura-se como um elo intermediário, com especialização
+compatível à sua função, podendo atuar com validação a distância quando não
+possuir estrutura plena.
+8.4. As salas de vacina do SUS, embora aptas a atender casos especiais em
+circunstâncias específicas, requerem em alguns casos a validação a distância do
+imunobiológico especial por um profissional ou serviço de referência.
+8.5. Essa diferenciação funcional é essencial para garantir o acesso seguro e
+eficaz aos imunobiológicos, atendendo à diversidade das demandas clínicas e
+respeitando a capilaridade da rede de saúde pública.
+8.6. Reitera-se que a efetividade da RIE depende da integração e da
+articulação entre seus diferentes pontos, assegurando que os pacientes recebam o
+imunobiológico adequado no momento oportuno.
+9. REFERÊNCIAS
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 6.623, de 14 de fevereiro de 2025.
+Institui a Rede de Imunobiológicos para Pessoas com Situações Especiais - RIE. Diário Oficial da
+União: seção 1, Brasília, DF, 14 de fevereiro de 2025, página 152 e 153. Disponível em: Portaria
+GM/MS Nº 6.623, DE 14 DE FEVEREIRO DE 2025. Acesso em: 08/04/2025.
+BRASIL. Manual dos Centros de Referência para Imunobiológicos Especiais. Ministério da
+Saúde: Secretaria de Vigilância em Saúde e Ambiente. Brasília: 2023. Disponível em:
+manuais/2024/manual-dos-centros-de-referencia-para-imunobiologicos-especiais-6a-edicao/view
+. Acesso em: 09/04/2025.
+BRASIL. Ministério da Saúde. Manual de normas e procedimentos para vacinação. Brasília:
+conteudo/publicacoes/guias-e-manuais/2024/manual-de-normas-e-procedimentos-para-
+vacinacao.pdf/view. Acesso em: 25 abr. 2025.
+Coordenadora-Geral
+11:25, conforme horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do
+Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31
+de Março de 2017.
+Coordenador(a)-Geral de Incorporação Científica e Imunização, em
+30/04/2025, às 11:26, conforme horário oficial de Brasília, com fundamento no §
+3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+Secretário(a) de Vigilância em Saúde e Ambiente, em 30/04/2025, às 12:43,
+conforme horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto
+nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código
+Referência: Processo nº 25000.062731/2025-36 SEI nº 0047501777
+SRTVN 701, Via W5 Norte Edifício PO700, 6º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+Site - saude.gov.br

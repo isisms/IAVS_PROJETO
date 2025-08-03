@@ -1,0 +1,1613 @@
+Apresentação | 7
+1 Introdução | 9
+2 Espectro clínico | 11
+2.1 FASE FEBRIL | 12
+2.2 FASE CRÍTICA | 12
+2.2.1 Dengue com sinais de alarme | 12
+2.2.2 Dengue grave | 13
+2.3 FASE DE RECUPERAÇÃO | 18
+2.4 ASPECTOS CLÍNICOS NA CRIANÇA | 18
+2.5 ASPECTOS CLÍNICOS NA GESTANTE | 19
+3 Diagnóstico diferencial | 20
+4.1 ANAMNESE | 23
+4 Atendimento ao paciente com suspeita
+de dengue | 23
+4.2 EXAME FÍSICO GERAL | 24
+5 Classificação de risco para prioridade
+no atendimento | 25
+6.1 GRUPO A | 28
+6.1.1 Caraterização | 28
+6.1.2 Conduta | 28
+6 Estadiamento clínico e conduta | 28
+6.2 GRUPO B | 31
+6.2.1 Caracterização | 31
+6.2.2 Conduta | 31
+6.3 GRUPO C | 32
+6.3.1 Caracterização | 32
+6.3.2 Conduta | 33
+6.4 GRUPO D | 35
+6.4.1 Caracterização | 35
+6.4.2 Conduta | 36
+6.5 CONSIDERAÇÕES IMPORTANTES PARA OS GRUPOS C E D | 39
+6.6 CORREÇÃO ESPECÍFICA DE OUTROS DISTÚRBIOS
+ELETROLÍTICOS E METABÓLICOS | 41
+6.7 DISTÚRBIOS DE COAGULAÇÃO (HEMORRAGIAS E USO DE
+HEMODERIVADOS) | 42
+6.8 ÓBITO POR DENGUE | 42
+6.9 INDICAÇÕES PARA INTERNAÇÃO HOSPITALAR | 43
+6.10 CRITÉRIOS DE ALTA HOSPITALAR | 43
+7 Tratamento da hipertensão arterial
+durante a infecção por dengue | 44
+8 Hidratação venosa em pacientes
+adultos cardiopatas com dengue | 46
+9 Gestação e dengue | 52
+10.1 CASO SUSPEITO DE DENGUE | 55
+10.2 CASO SUSPEITO DE DENGUE COM SINAIS DE ALARME | 55
+10 Classificação dos casos de dengue | 55
+10.3 CASO SUSPEITO DE DENGUE GRAVE | 56
+10.4 CASO CONFIRMADO DE DENGUE | 56
+11.1 ANTIAGREGANTES PLAQUETÁRIOS | 58
+11.1.1 Pacientes tratados com dupla antiagregação
+plaquetária - DAPT: AAS e clopidogrel | 58
+11 Uso de antiagregantes plaquetários
+adultos com dengue | 58
+11.1.2 Pacientes em uso de ácido acetilsalicílico - AAS | 59
+11.2 ANTICOAGULANTES | 61
+11.2.1 Uso de varfarina sódica | 61
+11.2.2 Uso de inibidores de trombina ou de
+antifator Xa | 62
+11.2.3 Suspensão dos antiagregantes
+e anticoagulantes | 63
+Referências | 64
+Bibliografia | 65
+Apêndices | 69
+APÊNDICE A - COMPARAÇÃO ENTRE CHOQUE DA DENGUE
+E CHOQUE SÉPTICO | 70
+APÊNDICE B - FÓRMULA DO PESO APROXIMADO
+PARA CRIANÇAS | 71
+APÊNDICE C - PARÂMETROS DA FREQUÊNCIA CARDÍACA (FC)
+EM CRIANÇAS POR FAIXA ETÁRIA | 72
+APÊNDICE D - PARÂMETROS DE FREQUÊNCIA RESPIRATÓRIA
+POR MINUTO | 73
+APÊNDICE E - PARÂMETROS DA PRESSÃO ARTERIAL SISTÓLICA
+(PAS) E DIASTÓLICA (PAD), SEGUNDO FAIXA ETÁRIA | 74
+APÊNDICE F - TAMANHO DA BOLSA DE LÁTEX DO MANGUITO
+PARA CRIANÇAS, SEGUNDO FAIXA ETÁRIA | 75
+APÊNDICE G - PROVA DO LAÇO | 76
+APÊNDICE H - USO DE MEDICAMENTOS PARA DENGUE | 77
+APÊNDICE I - VALORES DE REFERÊNCIA DO ERITROGRAMA | 78
+Anexo | 79
+DE DENGUE | 80
+Dengue: diagnóstico e manejo clínico - adulto e criança é uma
+publicação do Ministério da Saúde (MS) que há mais de 20 anos se
+evidências. A partir do trabalho articulado de suas áreas técnicas,
+instituições e especialistas, o material disponibilizado tem apoiado
+profissionais de saúde.
+da literatura recente, de diretrizes publicadas pela Organização
+Mundial da Saúde/Organização Pan-Americana da Saúde (OMS/Opas)
+e do Ministério da Saúde, além da expertise acumulada do
+dessas décadas.
+A edição atual enfatiza a importância dos grupos de riscos,
+incorporando outras comorbidades e, em especial, destaca os
+idosos como grupo de maior vulnerabilidade para desfechos fatais.
+Além disso, foram revisadas as orientações sobre a hidratação
+intravenosa, o manejo em adultos cardiopatas e as orientações em
+usuários de anticoagulantes e antiagregantes. Por fim, atualizou
+o diagnóstico diferencial de dengue em relação a chikungunya,
+Zika e outras doenças.
+Na última década, as epidemias de dengue no Brasil vêm aumen-
+tando em frequência e em magnitude, sendo observado um número
+importante de casos graves e óbitos, além dos casos crescentes
+de chikungunya e Zika. Nesse cenário, o diagnóstico precoce e o
+tratamento oportuno tornam-se ainda mais desafiadores.
+A Secretaria de Vigilância em Saúde e Ambiente (SVSA), ao
+disponibilizar a 6ª edição da publicação Dengue: diagnóstico
+e manejo clínico - adulto e criança, endossa seu compromisso
+com a qualidade técnica e científica das condutas diagnósticas,
+assistenciais e terapêuticas, com o intuito de auxiliar os profissionais
+de saúde no atendimento adequado aos pacientes com dengue,
+reduzindo o agravamento da doença e evitando os óbitos.
+1 Introdução
+A dengue é endêmica no Brasil - com a ocorrência de casos
+durante o ano todo - e tem um padrão sazonal, coincidente com
+períodos quentes e chuvosos, quando são observados o aumento
+do número de casos e um risco maior para epidemias.
+Do ponto de vista clínico, um grande desafio está na suspeita
+adequada e precoce do paciente com dengue, que é aspecto
+importante para sua evolução favorável.
+dengue, o Brasil adotou em 2014 a atual classificação de casos,
+revisada pela Organização Mundial da Saúde (OMS). Além de ser
+mais simples de ser aplicada, auxilia nas decisões médicas acerca
+de onde tratar o paciente e de como dimensionar o tratamento.
+Nessa perspectiva, o reconhecimento dos sinais de alarme da
+dengue é muito importante, uma vez que norteiam os profissionais
+de saúde no momento da triagem, no monitoramento minucioso
+necessária.
+Esses sinais advertem sobre o extravasamento de plasma e/ou
+hemorragias, que podem levar o paciente ao choque grave e ao
+óbito. Em função disso, é fundamental a identificação oportuna, para
+auxiliarem os médicos a prevenirem a gravidade do quadro clínico.
+A dengue é uma doença febril aguda, sistêmica e dinâmica, que
+pode apresentar amplo espectro clínico, podendo parte dos
+pacientes evoluir para formas graves, e inclusive levar a óbito.
+De um modo geral, os óbitos por dengue ocorrem em pacientes
+com dengue grave em que o choque está presente. Este, por sua
+vez, é resultante do extravasamento plasmático, complicado por
+sangramento e/ou sobrecarga hídrica. Por isso, a observação
+cuidadosa e o uso racional de líquidos intravenosos são essenciais.
+hemorragias graves e o comprometimento de órgãos-alvo.
+dengue é a organização dos serviços de saúde, especialmente em
+epidemias. Além do acolhimento, a triagem com classificação de
+risco é de suma importância, para que o correto estadiamento
+de alarme e para os casos graves.
+Sendo assim, este manual é uma ferramenta importante para lidar
+com casos de dengue, desde o nível primário em saúde até as
+unidades de maior complexidade, com a principal finalidade de
+evitar mortes pela doença.
+2 Espectro clínico
+A infecção pelo vírus dengue (DENV) pode ser assintomática
+ou sintomática. Quando sintomática, causa uma doença sistêmica
+e dinâmica de amplo espectro clínico, variando desde formas
+oligossintomáticas até quadros graves, podendo evoluir para
+o óbito. Pode apresentar três fases clínicas: febril, crítica e de
+recuperação, conforme Figura 1.
+Figura 1 Evolução e evidências clínicas, segundo fases da dengue
+Fonte: World Health Organization (2009), com adaptações.
+2.1 FASE FEBRIL
+A primeira manifestação é a febre, que tem duração de dois a sete
+dias, geralmente alta (39oC a 40oC). É de início abrupto, associada
+a cefaleia, adinamia, mialgias, artralgias e à dor retro-orbitária.
+Anorexia, náuseas e vômitos podem estar presentes, assim como
+a diarreia que cursa de três a quatro evacuações por dia, cursando
+com fezes pastosas, o que facilita o diagnóstico diferencial com
+gastroenterites por outras causas.
+O exantema ocorre aproximadamente em 50% dos casos, é predo-
+minantemente do tipo maculopapular, atingindo face, tronco
+e membros de forma aditiva, incluindo plantas de pés e palmas de
+mãos. Pode se apresentar sob outras formas com ou sem prurido,
+frequentemente no desaparecimento da febre.
+Após a fase febril, grande parte dos pacientes se recupera progres-
+sivamente, com melhora do estado geral e retorno do apetite.
+2.2 FASE CRÍTICA
+Pode estar presente em alguns pacientes, sendo capaz de evoluir
+para as formas graves. Por essa razão, medidas diferenciadas de
+manejo clínico e observação devem ser adotadas imediatamente.
+Tem início com a defervescência (declínio) da febre, entre três
+e sete dias do início da doença. Os sinais de alarme, quando
+presentes, surgem nessa fase da doença.
+2.2.1 Dengue com sinais de alarme
+e valorizados, assim como os pacientes orientados a procurar a
+assistência médica na ocorrência deles.
+:eugneD
+permeabilidade vascular, que marca o início da deterioração
+extravasamento plasmático. O Quadro 1 apresenta os sinais
+de alarme.
+Quadro 1 Sinais de alarme da dengue
+Dor abdominal intensa (referida ou à palpação) e contínua.
+Vômitos persistentes.
+Acúmulo de líquidos (ascite, derrame pleural, derrame
+pericárdico).
+Hipotensão postural ou lipotimia.
+Hepatomegalia >2 cm abaixo do rebordo costal.
+Sangramento de mucosa.
+Letargia e/ou irritabilidade.
+Fonte: World Health Organization (2009).
+2.2.2 Dengue grave
+ou acúmulo de líquidos com desconforto respiratório, em função
+do severo extravasamento plasmático.
+O derrame pleural e a ascite podem ser clinicamente detectáveis,
+excessiva de fluidos infundidos. O extravasamento plasmático
+também pode ser percebido pelo aumento do hematócrito (quanto
+maior a elevação, maior a gravidade), pela redução dos níveis de
+albumina e por exames de imagem.
+e o comprometimento de órgãos como o coração, os pulmões, os
+rins, o fígado e o sistema nervoso central (SNC). O quadro clínico
+é variável, de acordo com o mecanismo de acometimento de cada
+um desses órgãos e sistemas, que será detalhado mais adiante.
+2.2.2.1 CHOQUE
+extravasamento ou sangramento, o que geralmente ocorre entre
+o quarto ou quinto dia de doença, com intervalo entre o terceiro
+e sétimo, geralmente precedido por sinais de alarme.
+O período de extravasamento plasmático e choque leva de 24 a
+48 horas, devendo a equipe assistencial estar atenta às rápidas
+:eugneD
+ausente (fase inicial)
+(fase tardia)
+(se o paciente não
+Claro e lúcido for tocado, o choque
+consciência (agitação/
+agressividade)
+detectado)
+(≤2 segundos) (>5 segundos,
+capilar (3 a 5 segundos)
+pele mosqueada)
+Extremidades normal e Frias úmidas, pálidas
+sistólica (PAS normal, Hipotensão
+mas pressão arterial (ver a seguir) arterial a idade
+diastólica (PAD)
+(≤20 mmHg), <10 mmHg
+(PAM em a idade
+adultos) hipotensão postural Pressão não
+metabólica,
+Fonte: Pan American Health Organization (2016) com adaptações.
+CONSIDERA-SE HIPOTENSÃO: pressão arterial sistólica menor que
+90 mmHg ou pressão arterial média menor que 70 mmHg em
+adultos, ou diminuição da pressão arterial sistólica maior que
+40 mmHg ou menor que 2 desvios-padrão abaixo do intervalo
+normal para a idade. Pressão de pulso ≤20 mmHg. Em adultos,
+é muito significativa a diminuição da PAM associada à taquicardia.
+Em crianças de até 10 anos de idade, o quinto percentil para
+pressão arterial sistólica (PAS) pode ser determinado pela fórmula:
+70 + (idade x 2) mmHg.
+O choque na dengue é de rápida instalação e tem curta duração.
+Pode levar o paciente ao óbito em um intervalo de 12 a 24 horas
+ou à sua recuperação rápida, após terapia antichoque apropriada.
+Quando prolongado, o choque leva à hipoperfusão de órgãos,
+resultando no comprometimento progressivo destes, acidose
+metabólica e coagulação intravascular disseminada (CIVD).
+Consequentemente, pode levar a hemorragias graves, causando
+diminuição de hematócrito e agravando-o ainda mais. As principais
+ser consultadas no Apêndice A.
+Podem ocorrer alterações cardíacas graves, que se manifestam
+com quadros de insuficiência cardíaca e miocardite (associados
+à depressão miocárdica), redução da fração de ejeção e choque
+cardiogênico. Síndrome da angústia respiratória aguda (SARA),
+desconforto respiratório.
+:eugneD
+2.2.2.2 HEMORRAGIAS GRAVES
+Em alguns casos, a hemorragia massiva pode ocorrer sem choque
+prolongado, sendo esta um dos critérios de gravidade. Se for
+no aparelho digestivo, será mais frequente seu surgimento em
+pacientes com histórico de úlcera péptica ou gastrites, assim como
+da ingestão de ácido acetilsalicílico (AAS), anti-inflamatórios não
+esteroides (Aine) e anticoagulantes. Esses casos não estão obriga-
+toriamente associados à trombocitopenia e à hemoconcentração.
+2.2.2.3 DISFUNÇÕES GRAVES DE ÓRGÃOS
+O comprometimento grave de órgãos, como hepatites, encefalites
+ou miocardites, pode ocorrer sem o concomitante extravasamento.
+alterações do ritmo cardíaco (taquicardias e bradicardias),
+inversão da onda T e do segmento ST, com disfunções ventriculares
+(diminuição da fração da ejeção do ventrículo esquerdo), podendo
+ter elevação das enzimas cardíacas.
+até 50% dos pacientes, podendo, nas formas graves, evoluir para
+normal, associado à elevação do valor do tempo de protrombina.
+Alguns pacientes podem ainda apresentar manifestações neuro-
+lógicas, como convulsões e irritabilidade.
+período febril ou, mais tardiamente, na convalescença, e tem sido
+relatado com diferentes formas clínicas: meningite linfomonocítica,
+encefalite, síndrome de Reye, polirradiculoneurite, polineuropatias
+(síndrome de Guillain-Barré) e encefalite.
+com pior prognóstico.
+2.3 FASE DE RECUPERAÇÃO
+Nos pacientes que passaram pela fase crítica, haverá reabsorção
+gradual do conteúdo extravasado, com progressiva melhora clínica.
+É importante atentar-se às possíveis complicações relacionadas
+à hiper-hidratação. Nessa fase, o débito urinário normaliza-se
+ou aumenta. Podem ocorrer ainda bradicardia e mudanças no
+eletrocardiograma.
+Alguns pacientes podem apresentar rash (exantema) cutâneo,
+acompanhado ou não de prurido generalizado.
+no final do curso clínico. Tais infecções em determinados pacientes
+podem ter um caráter grave, contribuindo para o óbito.
+2.4 ASPECTOS CLÍNICOS NA CRIANÇA
+A dengue na criança pode ser assintomática, apresentar-se como
+inespecíficos, como adinamia, sonolência, recusa da alimentação
+e de líquidos, vômitos, diarreia ou fezes amolecidas.
+Em menores de 2 anos de idade, os sinais e sintomas de dor podem
+se manifestar por choro persistente, adinamia e irritabilidade,
+infecciosos febris, próprios da faixa etária.
+pode ser identificado como a primeira manifestação clínica.
+No geral, o agravamento é súbito, diferentemente do que ocorre no
+adulto, em que os sinais de alarme são mais facilmente detectados.
+:eugneD
+2.5 ASPECTOS CLÍNICOS NA GESTANTE
+dengue e necessitam de vigilância, independentemente da
+gravidade. O médico deve atentar-se aos riscos para a mãe e o feto.
+Em relação à mãe infectada, os riscos estão principalmente
+e às alterações fisiológicas da gravidez, que podem interferir nas
+manifestações clínicas da doença.
+Gestantes com sangramento, independentemente do período
+gestacional, devem ser questionadas quanto à presença de febre
+ou ao histórico de febre nos últimos sete dias.
+3 Diagnóstico diferencial
+Devido às características da dengue, pode-se destacar seu
+diagnóstico diferencial em síndromes clínicas:
+a. Síndromes febris: enteroviroses, influenza, covid-19 e outras
+viroses respiratórias. Hepatites virais, malária, febre tifoide,
+chikungunya e outras arboviroses (oropouche, Zika).
+b. Síndromes exantemáticas febris: rubéola, sarampo, escar-
+latina, eritema infeccioso, exantema súbito, enteroviroses,
+mononucleose infecciosa, parvovirose, citomegalovirose,
+farmacodermias, doença de Kawasaki, púrpura de Henoch-
+-Schonlein (PHS), Zika e outras arboviroses.
+c. Síndromes hemorrágicas febris: hantavirose, febre amarela,
+leptospirose, riquetsioses (febre maculosa) e púrpuras.
+d. Síndromes dolorosas abdominais: apendicite, obstrução
+intestinal, abscesso hepático, abdome agudo, pneumonia,
+infecção urinária, colecistite aguda, entre outras.
+e. Síndromes de choque: meningococcemia, septicemia, febre
+purpúrica brasileira, síndrome do choque tóxico e choque
+cardiogênico (miocardites).
+f. Síndromes meníngeas: meningites virais, meningite bacte-
+riana e encefalite.
+As arboviroses urbanas, por compartilharem sinais clínicos seme-
+lhantes, podem, em algum grau, dificultar a adoção de manejo
+clínico adequado e, consequentemente, predispor à ocorrência
+de formas graves, levando eventualmente a óbito. Algumas
+:eugneD
+clínica/laboratorial
+(>38°C) (≤38°C) (>38°C)
+(duração)
+2-7 dias 1-2 dias 2-3 dias
+3º ao 6º dia 1º ao 2º dia 2º ao 5º dia
++++ ++ ++
+(frequência)
++ ++ +++
+(frequência)
+Artralgia Leve/ Moderada/
+(intensidade) moderada intensa
+(frequência)
+(intensidade) a intenso
+50% a 90%
+Conjuntivite Rara 30%
+Cefaleia +++ ++ ++
+Linfoadenomegalia + +++ ++
+++ Ausente +
++ +++ ++
+Leucopenia +++ ++ ++
+Trombocitopenia +++ + ++
+Fonte: Brito e Cordeiro (2016), adaptado.
+Durante os primeiros dias da doença - quando se torna tênue
+a diferenciação da dengue em relação às outras viroses -,
+recomenda-se a adoção de medidas para manejo clínico de
+dengue, já que a doença apresenta elevado potencial de com-
+plicações e morte.
+4 Atendimento ao paciente com
+4.1 ANAMNESE
+a. Pesquisar a presença de febre - referida ou aferida -, incluindo
+o dia anterior à consulta. Da mesma forma, preconiza-se
+conhecer a data de início da febre e de outros sintomas.
+b. Investigar a presença de sinais de alarme (item 2.2).
+c. Verificar a presença de alterações gastrointestinais, como
+náuseas, vômitos, diarreia, gastrite, entre outras.
+d. Investigar a existência de alterações do estado da consciência,
+como irritabilidade, sonolência, letargia, lipotimia, tontura,
+convulsão e vertigem.
+e. Em relação à diurese, indagar a respeito da frequência nas
+últimas 24 horas, do volume e da hora da última micção.
+f. Pesquisar se existem familiares com dengue ou dengue
+na comunidade, assim como história de viagem recente
+para áreas endêmicas de dengue (14 dias antes do início
+dos sintomas).
+g. Condições preexistentes: lactentes (<24 meses), adultos
+>65 anos, gestantes, obesidade, asma, diabetes mellitus,
+hipertensão, entre outras.
+4.2 EXAME FÍSICO GERAL
+a. Valorizar e registrar os sinais vitais de temperatura, qualidade
+e pressão de pulso, frequência cardíaca, pressão arterial
+média (PAM) e frequência respiratória.
+b. Avaliar o estado de consciência com a escala de Glasgow.
+c. Verificar o estado de hidratação.
+d. Verificar o estado hemodinâmico por meio do pulso e da
+pressão arterial (determinar a PAM e a pressão de pulso ou
+pressão diferencial e o enchimento capilar).
+e. Investigar a presença de efusão pleural, taquipneia, respiração
+de Kussmaul.
+f. Pesquisar a presença de dor abdominal, ascite e hepatomegalia.
+g. Investigar a presença de exantema, petéquias ou sinal de
+Herman (mar vermelho com ilhas brancas).
+h. Buscar manifestações hemorrágicas espontâneas ou indu-
+zidas, como a prova do laço, sendo esta frequentemente
+negativa em caso de obesidade e durante o choque.
+A partir da anamnese, do exame físico e dos resultados laboratoriais
+(hemograma completo), os médicos devem ser capazes de responder
+às seguintes perguntas:
+a. É um caso de dengue?
+b. Se sim, em que fase (febril/crítica/recuperação) o paciente
+se encontra?
+c. Há a presença de sinal(is) de alarme?
+d. Qual é o estado hemodinâmico e de hidratação? Está em choque?
+e. Existem condições preexistentes com maior risco de gravidade?
+f. Em qual grupo de estadiamento (A, B, C ou D) o paciente
+se encontra?
+g. O paciente requer hospitalização? Se sim, em leito de obser-
+vação ou de Unidade de Terapia Intensiva (UTI)?
+5 Classificação de risco para
+O paciente que busca a unidade de saúde deve ser acolhido e,
+a seguir, submetido à triagem classificatória de risco.
+A classificação de risco do paciente com dengue é específica,
+a assistência prestada ao paciente. Para essa classificação, foram
+utilizados os critérios da Política Nacional de Humanização (PNH)
+do Ministério da Saúde e o estadiamento da doença, conforme
+apresentado no Quadro 2.
+fazer esse estadiamento e orientar as medidas terapêuticas cabíveis.
+Quadro 2 Classificação de risco de acordo com os sinais e sintomas
+AZUL Grupo A Atendimento conforme horário de chegada.
+VERDE Grupo B Prioridade não urgente.
+AMARELO Grupo C Urgência, atendimento o mais rápido possível.
+Emergência, paciente com necessidade de
+atendimento imediato.
+Fonte: Brasil (2009).
+apresentado determina as decisões clínicas, laboratoriais, de
+hospitalização e terapêuticas, pois o paciente, durante a evolução
+da doença, pode passar de um grupo a outro em curto período.
+precoce dos sinais de alarme, do contínuo acompanhamento,
+volêmica. Com isso, torna-se necessária a revisão da história
+clínica, acompanhada de exame físico completo a cada reavaliação
+do paciente.
+pacientes de dengue é o fluxograma apresentado na Figura 2,
+condução do caso clínico.
+- ocinílc ojenam e
+:eugneD
+Figura 2 Fluxograma do manejo clínico de dengue
+Relato de febre, usualmente entre dois e sete dias de duração, e duas ou mais das seguintes manifestações: náusea, vômitos; exantema; mialgia, artralgia; cefaleia,
+dor retro-orbital; petéquias;
+usualmente entre dois e sete dias de duração, e sem foco de infecção aparente.
+Tem sinal de alarme ou gravidade?
+Pesquisar sangramento espontâneo de pele ou induzido (prova do laço, Grupo C Grupo D
+condição clínica especial, risco social ou comorbidades). Sinais de alarme presentes e sinais de gravidade ausentes Dengue grave
+• • Extravasamento grave de plasma, levando ao choque
+Não Sim • • V A ô cú m m it u o l s o p d e e r s lí i q st u e i n d t o e s s ( . a scite, derrame pleural, derrame peri- evidenciado por taquicardia; extremidades distais frias;
+cárdico). segundos); pressão arterial convergente (< 20 mm Hg);
+• taquipneia; oliguria (< 1,5 ml/kg/h ); hipotensão arterial
+Grupo A Grupo B* • • H Sa e n p g a r t a o m m e e n g t a o l i d a e m m a u io c r o d s o a. q ue 2 cm abaixo do rebordo costal. (fase tardia do choque); cianose (fase tardia do choque);
+Dengue sem sinais de alarme, sem condição Dengue sem sinais de alarme, com condição es- • Letargia e/ou irritabilidade. • Sangramento grave.
+especial, sem risco social e sem comorbidades. pecial, ou com risco social e com comorbidades. • Aumento progressivo do hematócrito. •
+Hidratação oral para pacientes dos grupos A e B. Hidratação venosa para pacientes dos grupos C e D.
+Ambulatorial. Em leito de observação até resultado de exames e reavaliação clínica. Em leito de internação até estabilização - mínimo de 48h. Em leito de UTI até estabilização - mínimo de 48h.
+• Obrigatórios: hemograma completo, dosagem de albumina sérica e transaminases.
+Iniciar reposição volêmica imediata (10ml/kg de soro Reposição volêmica (adulto e criança). Iniciar ime-
+Exames diatamente fase de expansão rápida parenteral, com
+complementares atenção, independente do nível e complexidade,
+A critério médico. He E m xa o m gra e m s a c c o o m mp p le le to m : o e b n ri t g a at r ó e r s io . mes R m e o a n v a a au li s a ê ç n ã ci o a d c e l í e n xa ic m a e s a c p o ó m s p 1 le h m entares. e e v m e m n q t e u u s a a m l l q t o u r a n e n r a s n a fe í u v r s e ê ê l n n d c c e i i a a c p d o a e m r e a p x u le a m m xi a d e a u s d n c e o id , m a in d p c e l l e u d m s e iv e r e n e t f d e a u r r e ê ra s n n . c t ia e ,
+Conduta Conduta (Adulto e crianças) Reavaliação clínica a cada 15-30 minutos e
+Hid A rt d aç u ã l o to o ral Conduta Apó P s A u , m av a a h li o a r r a d : i r u e r a e v s a e l i - a r d o e s p e a j c á i v e e n l t 1 e m (si l n /k a g is / h v ) it . ais, A d re e a e v x a p li a a n çã s d ã o e o d . h e E e v s m e te a a s t c ó p o c a n r c t it i e e o c n e e t r m e a s p 2 p ó h re s . c c i a s d a a m e s t e a r p a
+60 ml/Kg/dia, sendo Hidratação oral (conforme Grupo A) até o resultado a 0,9%) na segunda hora. Até avaliação do hema-
+i 1 d
+/ r
+a 3
+o dos exames tócrito (que de r v e e p r o á s o iç c ã o o r r v e o r l ê e m m i c a a té ). duas horas da Retor M na e r lh p o a r r a a c f l a ín se ic d a e e e d x e p h a e n m sã a o t ó d c o r g it r o u . po C.
+maior. Para os 2/3 Reavaliação clínica e laboratorial após Resposta inadequada caracterizada pela
+e 0
+, e
+. g r
+) d
+( )
+p ;
+r .
+a )
+a 0
+ç . - n d r a . l ã
+e o a n o n d a 5 t e o º a M la p * b a ó R r n o
+l s ( t o t i õ ã a
+i 8 p c o c f
+. r i e
+) s
+a .
+. l
+o e .
+c ial • • I P m S P s n e e a r
+• •
+• e n a
+f , l c
+a i : :
+m 2
+r 2 s u ( a r
+s 5 m 5 z a
+e b g i ) e
+r o / é o í / u
+r : p n
+2 s í m ç f g m
+m a d r 4 ) ã
+6 e d 8 h i
+l o .
+. b o a r
+o (
+ã 8
+C c s c d g • •
+( c s
+2 a o
+o 0
+n u , r u
+b ,
+a i , q n c n
+t , c p
+) m
+. d
+- i i . e
+, s
+: -
+a a u )
+2 ;
+ç 5 t 0 p
+a ã % % r
+S c a - c f e ( T n s n c g t 1
+, (
+r 1 r
+e e u n r , a ã
+o 1 e
+5 a
+s m 5 a
+r 5
+r ,
+( m r t o /
+o o n s c d 1 s t
+r r s e o a e 0 v e t
+/ a d l
+e l d e i o e i / e n
+u h t , n p e
+p c ) 5 g i t e ,
+t o a . l o o r e ) h d s a r
+- i . q
+q e e 1 c
+p o 0 I s i
+, d á k t a c
+i d e p . c e s g
+) > s
+. i t
+e i a r e p m ( m u a a
+d s 1 e - e
+: o a K 0 -
+o ad u u l c to o s m >6 o 5 r b an id os a , d h e ip s e : r l t a e c n t s e ã n o t e a s r ( t < e 2 r 4 ia l m o e u s o es u ) t , r g a e s s d t o an e t n e ç s a , s • • M He e m lh a o t r ó a c v ri i t s o ív n e o l d rm o q al u e a d e r s o tá c v l e ín l i p c o o r . 24 horas. Se resposta adequada, tratar como grupo C.
+cardiovasculares graves, diabetes mellitus, doença pulmonar • Plaquetas em elevação. Interromper ou reduzir a infusão de líquidos
+obstrutiva crônica (DPOC), asma, obesidade, doenças à velocidade mínima necessária se:
+h p e é m pt a ic t a o , l ó h
+o .
+. ,
+, l
+. h s
+e n to.
+• •
+• • •
+. c
+a ,
+Fonte: SVSA/MS.
+6 Estadiamento clínico e conduta
+6.1 GRUPO A
+6.1.1 Caraterização
+a. Caso suspeito de dengue.
+b. Ausência de sinais de alarme.
+c. Sem comorbidades, grupo de risco ou condições clínicas
+especiais.
+6.1.2 Conduta
+a. Exames laboratoriais complementares a critério médico.
+b. Prescrever paracetamol e/ou dipirona, conforme orientações
+do Apêndice H.
+c. Não utilizar salicilatos ou anti-inflamatórios não esteroides
+e corticosteroides.
+d. Orientar repouso e prescrever dieta e hidratação oral, conforme
+orientações (Quadro 3).
+e. Orientar o paciente a não se automedicar e a procurar ime-
+diata mente o serviço de urgência, em caso de sangramentos
+ou surgimento de sinais de alarme.
+f. Agendar o retorno para reavaliação clínica no dia de melhora
+da febre, em função do possível início da fase crítica. Caso
+não haja defervescência, retornar no quinto dia da doença.
+g. Preencher o cartão de acompanhamento da dengue e liberar
+o paciente para o domicílio com orientações.
+:eugneD
+h. Orientar em relação às medidas de eliminação de criadouros
+do Aedes aegypti, conforme cenário entomológico local.
+i. Reforçar o uso de repelentes em pacientes sintomáticos
+suspeitos de dengue, pois na viremia podem ser fonte do
+vírus para o mosquito e contribuir com a transmissão.
+j. Esclarecer ao paciente que exames específicos para a confir-
+mação não são necessários para a conduta terapêutica.
+epidemiológica local.
+k. Notificar o caso de dengue, na hipótese de ser a primeira
+unidade de saúde em que o paciente tenha sido assistido.
+Quadro 3 Orientações para a hidratação oral
+Iniciada ainda na sala de espera, enquanto os pacientes
+» ADULTOS
+• 60 mL/kg/dia, sendo 1/3 com sais de reidratação oral (SRO)
+e com volume maior no início. Para os 2/3 restantes, orientar
+a ingestão de líquidos caseiros (água, suco de frutas, soro
+caseiro, chás, água de coco, entre outros), utilizando os meios
+mais adequados à idade e aos hábitos do paciente.
+• Especificar o volume a ser ingerido por dia. Por exemplo, para
+um adulto de 70 kg, orientar a ingestão de 60 mL/kg/dia,
+totalizando 4,2 litros/dia. Assim, serão ingeridos, nas primeiras
+4 a 6 horas, 1,4 litros, e os demais 2,8 litros distribuídos nos
+outros períodos.
+» CRIANÇAS (<13 anos de idade)
+• Orientar o paciente e o cuidador para hidratação por via oral.
+• Oferecer 1/3 na forma de SRO, e os 2/3 restantes por meio da
+oferta de água, sucos e chás.
+• Considerar o volume de líquidos a ser ingerido, conforme
+recomendação a seguir (baseado na regra de Holliday-Segar,
+acrescido de reposição de possíveis perdas de 3%):
+• até 10 kg: 130 mL/kg/dia;
+• acima de 10 kg a 20 kg: 100 mL/kg/dia;
+• acima de 20 kg: 80 mL/kg/dia.
+• Nas primeiras 4 a 6 horas do atendimento, considerar a oferta
+de 1/3 do volume.
+• Especificar, em receita médica ou no cartão de
+acompanhamento da dengue, o volume a ser ingerido.
+• A alimentação não deve ser interrompida durante a
+paciente.
+A amamentação dever ser mantida e estimulada.
+e por até 24 a 48 horas, após a defervescência da febre.
+Fonte: Protocolo para Atendimento aos Pacientes com Suspeita de Dengue (2013), adaptado.
+:eugneD
+6.2 GRUPO B
+6.2.1 Caracterização
+a. Caso suspeito de dengue.
+b. Ausência de sinais de alarme.
+c. Com sangramento espontâneo de pele ou induzido.
+6.2.2 Conduta
+a. Solicitar exames complementares.
+b. Hemograma completo é obrigatório para todos os pacientes.
+c. Nos pacientes com comorbidades de difícil controle ou
+descompensada - relatada ou percebida ao exame clínico -,
+realizar exames específicos, de acordo com situação clínica.
+d. Colher amostras no momento do atendimento.
+e. Liberar o resultado em até duas horas ou, no máximo, em
+quatro horas.
+f. Avaliar a hemoconcentração.
+g. Outros exames deverão ser solicitados, de acordo com a
+condição clínica associada ou a critério médico.
+h. O paciente deve permanecer em acompanhamento e
+observação, até o resultado dos exames solicitados.
+i. Prescrever hidratação oral conforme recomendado para o
+Grupo A, até o resultado dos exames.
+j. Prescrever paracetamol ou dipirona (Apêndice H).
+k. Seguir conduta segundo reavaliação clínica e resultados
+laboratoriais:
+l. Hemoconcentração ou surgimento de sinais de alarme:
+conduzir o paciente como Grupo C.
+m. Hematócrito normal: i) o tratamento é ambulatorial com
+reavaliação diária; ii) agendar o retorno para reclassificação
+do paciente, com reavaliação clínica e laboratorial diárias,
+até 48 horas após a queda da febre ou imediata se na
+presença de sinais de alarme; iii) orientar o paciente a não se
+automedicar, permanecer em repouso e procurar o imediata-
+sinais de alarme.
+n. Preencher o cartão de acompanhamento da dengue e liberar
+o paciente para o domicílio com orientações.
+o. Orientar em relação às medidas de eliminação de criadouros
+do Aedes aegypti, conforme cenário entomológico local.
+p. Reforçar acerca do uso de repelentes em pacientes sinto-
+máticos suspeitos de dengue, pois na viremia podem ser fonte
+de vírus para o mosquito e contribuir com a transmissão.
+q. Esclarecer ao paciente que exames específicos para a
+confirmação não são necessários para a conduta terapêutica.
+epidemiológica.
+r. Notificar o caso de dengue, se porventura for a primeira
+unidade de saúde em que o paciente for assistido.
+6.3 GRUPO C
+6.3.1 Caracterização
+a. Caso suspeito de dengue.
+b. Presença de algum sinal de alarme: dor abdominal intensa
+(referida ou à palpação) e contínua; vômitos persistentes;
+acúmulo de líquidos (ascite, derrame pleural, derrame
+pericárdico); hipotensão postural e/ou lipotímia; hepato-
+megalia >2 cm abaixo do rebordo costal; sangramento de
+mucosa; letargia e/ou irritabilidade; aumento progressivo
+do hematócrito.
+:eugneD
+6.3.2 Conduta
+a. Iniciar a reposição volêmica imediata, em qualquer ponto
+de atenção, independentemente do nível de complexidade,
+referência (mesmo na ausência de exames complementares),
+conforme descrito a seguir:
+ࡿ reposição volêmica: 10 mL/kg de soro fisiológico a 0,9%
+na primeira hora;
+ࡿ pacientes devem permanecer em acompanhamento em
+leito de internação até estabilização (mínimo 48 horas).
+b. Realizar exames complementares obrigatórios:
+ࡿ hemograma completo;
+ࡿ dosagem de albumina sérica e transaminases.
+c. Os exames de imagem recomendados são radiografia de tórax
+(PA, perfil e incidência de Hjelm-Laurell) e ultrassonografia
+de abdômen. O exame ultrassonográfico é mais sensível para
+diagnosticar derrames cavitários.
+d. Outros exames poderão ser realizados conforme necessidade,
+como glicemia, ureia, creatinina, eletrólitos, gasometria,
+tempo de atividade de protrombina (Tpae) e ecocardiograma.
+e. Proceder a reavaliação clínica após a primeira hora, consi-
+derando os sinais vitais, PA, e avaliar diurese (desejável
+1 mL/kg/h).
+f. Manter a hidratação de 10 mL/kg/hora na segunda hora até
+a avaliação do hematócrito, que deverá ocorrer em duas
+horas após a etapa de reposição volêmica. O total máximo
+de cada fase de expansão é de 20 mL/kg em duas horas,
+para garantir administração gradativa e monitorada.
+g. Se não houver melhora do hematócrito ou dos sinais
+hemodinâmicos, repetir a fase de expansão até três vezes.
+Seguir a orientação de reavaliação clínica (sinais vitais, PA
+e avaliar diurese) após uma hora, e de hematócrito a cada
+duas horas, após a conclusão de cada etapa.
+h. Se houver melhora clínica e laboratorial após a(s) fase(s) de
+expansão, iniciar a fase de manutenção:
+ࡿ primeira fase: 25 mL/kg em 6 horas - se houver melhora,
+iniciar segunda fase;
+ࡿ segunda fase: 25 mL/kg em 8 horas com soro fisiológico.
+i. Pacientes estadiados nesse grupo precisam de avaliação
+contínua; se necessário, pela equipe de enfermagem. Havendo
+sinal de agravamento ou choque, a reavaliação médica deve
+ser imediata.
+Se não houver melhora clínica e laboratorial, conduzir como
+Grupo D.
+Apesar do risco maior de complicações e choque, pacientes
+desse grupo correm um risco maior de sobrecarga de fluidos,
+em parte pela presença de comorbidades, pelo maior risco
+de lesão renal e redução da função miocárdica. A hidratação
+deve ser minuciosmanete acompanhada, na busca de sinais
+de edema pulmonar (crepitação à ausculta).
+j. Exames para confirmação de dengue são obrigatórios, mas
+não são essenciais para conduta terapêutica. Na coleta de
+sangue, atentar para o perído de adequado, observando
+ainda a necessidade de volume de amostra e acondiciona-
+mento adequados.
+ࡿ volume da amostra biológica: recomendam-se 5 mL
+(criança) e 10 mL (adulto) de sangue total sem anti-
+coagulante;
+ࡿ período de coleta: até o quinto dia de início de sintomas,
+realizar coleta para a detecção viral por e RT-PCR
+antígeno NS1 ou isolamento viral. A partir do sexto dia
+de início de sintomas, o soro obtido a partir do sangue
+total possibilitará a realização da sorologia;
+:eugneD
+ࡿ acondicionamento: até o quinto dia de início de sintomas,
+a menos 70°C; e a partir do sexto dia de início de sintomas,
+a menos 20°C.
+k. Prescrever paracetamol e/ou dipirona (Apêndice H).
+l. Após preencher os critérios de alta (item 6.10), o retorno
+orientações, segundo o preconizado para o Grupo B.
+m. Preencher o cartão de acompanhamento da dengue.
+n. Reforçar acerca do uso de repelentes em pacientes
+sintomáticos suspeitos de dengue, pois na viremia podem
+com a transmissão.
+o. Orientar em relação à eliminação de criadouros do Aedes
+aegypti e à importância do retorno para reavaliação clínica.
+p. Notificar o caso de dengue, na hipótese de ser a primeira
+unidade de saúde em que o paciente tenha sido assistido.
+até estabilização e atender os critérios de alta, por um período
+mínimo de 48 horas.
+6.4 GRUPO D
+6.4.1 Caracterização
+a. Caso suspeito de dengue.
+b. Presença de sinais de choque, sangramento grave ou
+disfunção grave de órgãos.
+• Taquicardia.
+• Extremidades distais frias.
+• Pulso fraco filiforme.
+• Enchimento capilar lento (>2 segundos).
+• Pressão arterial convergente (<20 mmHg).
+• Taquipneia.
+• Oligúria (<1,5 mL/kg/h).
+• Hipotensão arterial (fase tardia do choque).
+• Cianose (fase tardia do choque).
+6.4.2 Conduta
+a. Reposição volêmica: iniciar imediatamente a fase de
+expansão rápida parenteral com soro fisiológico a 0,9%
+(20 mL/kg em até 20 minutos) em qualquer nível de comple-
+xidade, inclusive durante eventual transferência para uma
+unidade de referência, mesmo na ausência de exames
+complementares. Caso necessário, repetir a reposição por
+até três vezes, conforme avaliação clínica.
+Apesar do risco maior de complicações e choque, pacientes
+desse grupo correm maior risco de sobrecarga de fluidos,
+em parte pela presença de comorbidades, pelo maior risco
+de lesão renal e redução da função miocárdica. A hidratação
+deve ser minuciosamente acompanhada, na busca de sinais
+de edema pulmonar (crepitação à ausculta).
+b. Reavaliação clínica a cada 15 a 30 minutos e de hematócrito
+a cada 2 horas. Esses pacientes necessitam de monitora-
+mento contínuo.
+:eugneD
+c. Repetir fase de expansão até três vezes. Se houver melhora
+clínica e laboratorial após a fase de expansão, retornar
+recomendada.
+leito de UTI até estabilização (mínimo de 48 horas) e, após
+estabilização, devem permanecer em leito de internação.
+d. Realizar exames complementares obrigatórios:
+ࡿ hemograma completo;
+ࡿ dosagem de albumina sérica e transaminases.
+e. Os exames de imagem recomendados são radiografia de tórax
+(PA, perfil e incidência de Hjelm-Laurell) e ultrassonografia
+de abdômen. O exame ultrassonográfico é mais sensível para
+diagnosticar derrames cavitários.
+f. Outros exames poderão ser realizados conforme necessidade:
+glicemia, ureia, creatinina, eletrólitos, gasometria, tempo de
+protrombina e atividade enzimática (Tpae) e ecocardiograma.
+g. Exames para confirmação de dengue são obrigatórios, mas
+não são essenciais para conduta terapêutica. Na coleta de
+sangue, atentar para o perído de adequado, observando ainda
+adequados.
+ࡿ volume da amostra biológica: recomendam-se 5 mL
+(criança) e 10 mL (adulto) de sangue total sem anti-
+coagulante;
+ࡿ período de coleta: até o quinto dia de início de sintomas,
+realizar coleta para a detecção viral por e RT-PCR
+antígeno NS1 ou isolamento viral. A partir do sexto dia
+de início de sintomas, o soro obtido a partir do sangue
+total possibilitará a realização da sorologia;
+ࡿ acondicionamento: até o quinto dia de início de sintomas,
+a menos 70°C; a partir do sexto dia de início de sintomas,
+a menos 20°C.
+h. Acompanhamento preferencial em leito de terapia intensiva.
+Caso este não esteja acessível, instituir imediatamente as
+medidas de manejo e monitoramento.
+i. No caso de resposta inadequada, caracterizada pela
+persistência do choque, deve-se avaliar:
+ࡿ se o hematócrito estiver em ascensão, após a reposição
+volêmica adequada, utilizar expansores plasmáticos
+(albumina 0,5 g/kg a 1 g/kg); preparar solução de albumina
+a 5% (para cada 100 mL dessa solução, usar 25 mL
+de albumina a 20% e 75 mL de soro fisiológico a 0,9%).
+Na falta dela, utilizar coloides sintéticos (10 mL/kg/hora);
+ࡿ se o hematócrito estiver em queda e houver persis-
+tência do choque, investigar hemorragias e avaliar a
+coagulação;
+ࡿ na presença de hemorragia: transfundir concentrado de
+hemácias (10 a 15 mL/kg/dia);
+ࡿ na presença de coagulopatia: avaliar a necessidade de
+uso de plasma fresco (10 mL/kg), vitamina K endovenosa
+e crioprecipitado (1 U para cada 5 kg a 10 kg);
+ࡿ considerar a transfusão de plaquetas nas seguintes
+condições:
+• sangramento persistente não controlado, após
+correção dos fatores de coagulação e do choque;
+• trombocitopenia e INR >1,5 vezes o valor normal.
+j. Se o hematócrito estiver em queda com resolução do
+choque, ausência de sangramentos, mas com o surgimento
+de outros sinais de gravidade, observar:
+:eugneD
+ࡿ sinais de desconforto respiratório, sinais de insuficiência
+cardíaca congestiva e investigar hiper-hidratação;
+ࡿ deve-se tratar com redução da infusão de líquido, uso
+de diuréticos e drogas inotrópicas, quando necessário.
+k. A infusão de líquidos deve ser interrompida ou reduzida
+à velocidade mínima necessária, se:
+ࡿ houver término do extravasamento plasmático;
+ࡿ normalização da pressão arterial, do pulso e da perfusão
+periférica;
+ࡿ diminuição do hematócrito na ausência de sangramento;
+ࡿ diurese normalizada;
+ࡿ resolução dos sintomas abdominais.
+l. Após preencher os critérios de alta, o retorno para reavaliação
+clínica e laboratorial segue orientação conforme grupo B.
+m. Preencher cartão de acompanhamento de dengue.
+n. Orientar o retorno após a alta.
+o. Notificar o caso, se porventura for a primeira unidade de
+saúde em que o paciente for assistido.
+6.5 CONSIDERAÇÕES IMPORTANTES PARA
+ Oferecer O2 em todas as situações de choque (cateter, da
+máscara, CPAP nasal, ventilação não invasiva, ventilação
+mecânica), definindo a escolha em função da tolerância e da
+gravidade.
+ Podem apresentar edema subcutâneo generalizado e derrames
+cavitários pela perda capilar, que não significam em princípio
+ser hiper-hidratação, mas que podem aumentar após hidratação
+satisfatória. O acompanhamento da reposição volêmica é feito
+pelo hematócrito, por diurese e sinais vitais.
+ Evitar procedimentos invasivos desnecessários, como toraco-
+centese, paracentese, pericardiocentese. No tratamento do
+choque compensado, é aceitável cateter periférico de grande
+calibre. Nas formas iniciais de reanimação, o acesso venoso
+deve ser obtido o mais rapidamente possível.
+ A via intraóssea em crianças pode ser escolhida caso o acesso
+vascular não seja rapidamente obtido, para administração de
+(RCP) ou tratamento do choque descompensado.
+ No contexto de parada cardíaca ou respiratória, quando não se
+estabelece a via aérea por intubação orotraqueal, por excessivo
+sangramento de vias aéreas, o uso de máscara laríngea pode
+ser uma alternativa.
+ Monitorização hemodinâmica não invasiva como a oximetria
+de pulso é desejável. No entanto, em pacientes graves,
+descompensados e de difícil manuseio, os benefícios de
+monitorização invasiva como pressão arterial média (PAM),
+pressão venosa central (PVC), saturação venosa central de
+oxigêncio (Svc02) podem superar os riscos.
+ O choque com disfunção miocárdica pode necessitar da
+administração de medicamentos inotrópicos; tanto na fase de
+extravasamento como na fase de reabsorção plasmática, lembrar
+que na primeira fase existe necessidade de reposição hídrica,
+enquanto na segunda fase há restrição hídrica. As seguintes
+drogas inotrópicas podem ser administradas: dopamina (5 a
+10 microgramas/kg/min), dobutamina (5 a 20 microgramas/kg/
+min) e milrinona (0,5 a 0,8 microgramas/kg/min).
+:eugneD
+6.6 CORREÇÃO ESPECÍFICA DE OUTROS
+quanto em adultos são:
+Hiponatremia: corrigir após tratar a desidratação ou o choque,
+quando sódio (Na) <120 mEq/L ou na presença de sintomas
+neurológicos. Usar a fórmula de correção de hiponatremia grave:
+ࡿ (130 - Na atual) x peso x 0,6 = mEq de NaCl a 3% a repor
+em mL (1 mL de NaCl a 3% possui 0,51 mEq de Na);
+ࡿ solução prática: 100 mL de NaCl a 3% são utilizados 85 mL
+de água destilada + 15 mL de NaCl a 20%;
+ࡿ a velocidade de correção varia de 0,5 a 2 mEq/kg/dia ou
+1 a 2 mL/kg/h. Após correção, dosar sódio sérico.
+Hipocalemia: corrigir via endovenosa em casos graves e com
+potássio sérico <2,5 mEq/L. Usar a fórmula de correção: 0,2 a
+0,4 mEq/kg/h na concentração máxima de 4 mEq/100 mL de solução.
+Acidose metabólica: deve-se corrigir primeiramente o estado
+de desidratação ou choque. Só administrar bicarbonato (NaHCO3)
+em valores <10 e ou ph <7,20. Usar a fórmula: Bic Desejado
+(15 a 22) - Bic Encontrado x 0,4 x P.
+Em pacientes adultos com choque, que não respondem a duas
+de gasometria, a acidose metabólica poderá ser minimizada com
+a infusão de 40 mL de NaHCO3 8,4%, durante a terceira tentativa
+de expansão.
+6.7 DISTÚRBIOS DE COAGULAÇÃO
+(HEMORRAGIAS E USO DE HEMODERIVADOS)
+alterações vasculares, plaquetopenia e coagulopatia de consumo.
+atividade de protrombina (TAP), tempo de tromboplastina parcial
+(TTPa), plaquetometria, produtos de degradação da fibrina (PDF),
+fibrinogênio e exame de dímeros-D.
+frequência aos sangramentos importantes. A reposição volêmica
+fenômenos hemorrágicos, principalmente ligados a coagulopatia
+de consumo.
+6.8 ÓBITO POR DENGUE
+como consequência da dengue. Quanto a pacientes com dengue
+doença, a causa básica do óbito dever ser considerada a dengue.
+Choque refratário grave, coagulação intravascular disseminada
+(CIVD), síndrome do desconforto respiratório agudo (SDRA),
+insuficiência hepática, insuficiência cardíaca, encefalite, meningite,
+síndrome da disfunção múltipla de órgãos (SDMO) podem levar
+ao óbito por dengue.
+(SHF), uma complicação de falência multiorgânica, causada
+por reação hiperimune e progressiva citopenia. O tratamento
+recomendado inclui imunomodulação (corticoide, imunoglobulina,
+imunoquimioterapia) e plasmaférese, que são medidas salvadoras.
+:eugneD
+No entanto, os óbitos por dengue são em sua maioria evitáveis,
+com a adoção de medidas de baixa densidade tecnológica.
+6.9 INDICAÇÕES PARA INTERNAÇÃO
+a. Presença de sinais de alarme ou de choque, sangramento
+grave ou comprometimento grave de órgão (Grupos C e D).
+b. Recusa à ingestão de alimentos e líquidos.
+c. Comprometimento respiratório: dor torácica, dificuldade
+respiratória, diminuição do murmúrio vesicular ou outros
+sinais de gravidade.
+d. Impossibilidade de seguimento ou retorno à unidade de
+saúde por condições clínicas ou sociais.
+e. Comorbidades descompensadas ou de difícil controle,
+como diabetes mellitus, hipertensão arterial, insuficiência
+cardíaca, uso de dicumarínicos, crise asmática e anemia
+falciforme.
+f. Outras situações a critério clínico.
+6.10 CRITÉRIOS DE ALTA HOSPITALAR
+Os pacientes precisam atender a todos os cinco critérios a seguir:
+a. Estabilização hemodinâmica durante 48 horas.
+b. Ausência de febre por 24 horas.
+c. Melhora visível do quadro clínico.
+d. Hematócrito normal e estável por 24 horas.
+e. Plaquetas em elevação.
+7 Tratamento da hipertensão arterial
+importante no Brasil. Como consequência, pode-se inferir que,
+em pacientes com dengue que possuem essa condição, um
+anti-hipertensivos.
+crítico de hemoconcentração e extravasamento vascular.
+Betabloqueadores Propranolol, atenolol, metoprolol, bisoprolol
+Ação central Clonidina, alfametildopa
+Diuréticas Hidroclorotiazina, furosemida, espironolactona
+enzima conversora Captopril, lisinopil, fusinopril
+Fonte: elaboração própria.
+:eugneD
+Pacientes hipertensos podem desenvolver sinais de choque, com
+níveis pressóricos mais elevados. Nesses casos, atentar para outros
+sinais de gravidade, a exemplo da redução da perfusão periférica
+e oligúria. A redução de 40% em relação aos níveis pressóricos
+anteriores pode significar hipotensão arterial. Nessas situações,
+pacientes classificados como “dengue grave com importante
+extravasamento plasmático”.
+normais devem manter as medicações habituais, com atenção
+especial aos betabloqueadores e à clonidina, cuja retirada deve
+ser ponderada pelo risco de hipertensão rebote.
+Na condição de desidratação e hipovolemia, necessitando de
+ressuscitação venosa, principalmente indivíduos com sinais
+de alarme, devem-se suspender em princípio os diuréticos e
+vasodilatadores, durante o período em que o paciente estiver
+internado em observação. Deve-se ponderar sobre o risco de
+suspensão dos betabloqueadores e a clonidina, pelo risco de
+hipertensão rebote.
+8 Hidratação venosa em pacientes
+No caso específico da insuficiência cardíaca congestiva, no
+transcorrer da hidratação, devem ser acompanhados os seguintes
+parâmetros fisiológicos: pressão arterial, débito urinário, perfusão
+periférica e presença de congestão pulmonar. O resumo desses
+parâmetros encontra-se na Figura 3.
+:eugneD
+Figura 3 Pacientes com dengue e insuficiência cardíaca
+Hipoperfusão Com Sem ≤ 0,55 ≥ 0.5
+< 100 mmHg ≥ 100 mmHg Normal
+periférica congestão congestão mL/kg/h mL/kg/h
+Fonte: elaboração própria.
+ Pressão arterial: se possível avaliada a cada uma a quatro
+horas, conforme a gravidade do paciente. Para fins práticos,
+(PAS) <100 mmHg, medida no esfigmomanômetro.
+ Perfusão periférica: a redução é caracterizada por pulso
+rápido e fino, extremidades frias, sudorese fria, redução do
+enchimento capilar >2 segundos e, em casos mais graves,
+alteração do nível de consciência.
+ Congestão pulmonar: presença de dispneia, ortopneia e uso de
+musculatura respiratória acessória, juntamente com estertores
+pulmonares crepitantes ao exame físico. Na radiografia de
+tórax, são visualizados infiltrado pulmonar (intersticial ou
+alveolar) e linhas de Kerley.
+ Débito urinário: pode ser mensurado a cada quatro a seis horas
+e o valor total indexado por hora e pelo peso ideal. Pacientes
+considerados críticos pela dengue (hematócrito em queda,
+choque) ou pelo grave comprometimento da doença de base
+(insuficiência respiratória, edema agudo de pulmão) devem ter
+catéter vesical de demora e aferição horária da diurese.
+Quadro 4 Resumo do protocolo de hidratação e ressucitação volêmica
+Oligúria Amina vasoativa / volume*
+Amina vasoativa / volume
+*Na dependência da presença ou não de congestão pulmonar"
+Fonte: elaboração própria.
+:eugneD
+Em relação à hidratação e à ressuscitação volêmica, o protocolo
+encontra-se resumido no Quadro 4.
+A hidratação é a administração rápida de volume - cristaloide
+ou coloide - em período que varia de 30 a 60 minutos. Por outro
+lado, a ressuscitação volêmica é a administração de volume
+predeterminado, em período de 12 a 24 horas, aqui definindo
+como manutenção.
+individualizada, conforme a classe funcional do Quadro 5.
+Quadro 5 Estágios da insuficiência cardíaca
+ASSOCIATION (NYHA)
+1. CLASSE I - assintomático: sem limitações para atividade física.
+Atividades usuais não causam fadiga inapropriada, palpitação
+ou dispneia.
+2. CLASSE II - leve: limitação discreta das atividades. Confortável
+em repouso, mas atividades físicas usuais resultam em fadiga,
+palpitações ou dispneia.
+3. CLASSE III - moderada: limitação marcante da atividade
+física. Confortável em repouso, mas atividades mais leves que as
+usuais geram fadiga, palpitações e dispneia.
+4. CLASSE IV - grave: incapaz de fazer quaisquer atividades
+físicas sem desconforto. Sintomas de insuficiência cardíaca no
+repouso. Quando é iniciada qualquer atividade física, agrava o
+desconforto.
+Fonte: NYHA, 2018.
+Os pacientes classe funcional I devem ser hidratados, conforme
+descrito neste manual. Aqueles classe funcional IV serão
+pacientes críticos.
+Nos pacientes classe funcional II, será administrado soro fisiológico
+a 0,9% ou Ringer simples, na dose de 15 mL/kg de peso, idealmente
+em 30 minutos, repetindo-se essa etapa até três vezes, sob rigorosa
+observação clínica.
+Em pacientes classe funcional III, será administrado soro fisiológico
+a 0,9% ou Ringer simples, na dose de 10 mL/kg de peso, idealmente
+em 30 minutos, repetindo-se essa etapa até três vezes, sob rigorosa
+observação clínica. Pacientes oligúricos sem congestão pulmonar
+indicação de expansão volêmica.
+de hipoperfusão periférica - especialmente com pressão sistólica
+<100 mmHg -, assim como em pacientes oligúricos hipotensos e
+congestos, utilizam-se aminas vasoativas de acordo com o Quadro 6.
+Quadro 6 Aminas vasoativas segundo dose e efeito
+Dopamina 10 a 20 mcg/kg/min
+Dobutamina 2,5 a 20 mcg/kg/min
+Adrenalina 0,01 a 0,3 mcg/kg/min
+Noradrenalina 0,01 a 0,5 mcg/kg/min
+Fonte: elaboração própria.
+Pacientes hipotensos, congestos com prévia disfunção cardíaca
+ventricular esquerda, em que se queira utilizar dobutamina, no
+geral também se beneficiarão de dopamina ou noradrenalina.
+:eugneD
+As doses das aminas do Quadro 5 são individualizadas e têm
+>100 mmHg.
+arterial devem receber ressuscitação volêmica, juntamente com
+dopamina ou noradrenalina, com o intuito de evitar congestão
+e hiper-hidratação.
+da volemia, sendo iniciada após a melhora do débito urinário e da
+pressão arterial. A dose situa-se entre 15 mL/kg e 25 mL/kg de soro
+fisiológico a 0,9% ou Ringer simples, a cada 12 horas, atentando-se
+para sinais de congestão pulmonar.
+9 Gestação e dengue
+mesmo para gestantes e não gestantes. Com relação ao binômio
+materno-fetal, na transmissão vertical há o risco de abortamento
+no primeiro trimestre e de trabalho de parto prematuro, quando a
+infecção for adquirida no último trimestre. Há também incidência
+dengue durante a gravidez.
+Quanto mais próximo ao parto a mãe for infectada, maior será
+a chance de o recém-nato apresentar quadro de infecção por
+dengue. Gestantes com infecção sintomática têm risco aumentado
+para ocorrência de morte fetal e nascimento de prematuro.
+Com relação à mãe, podem ocorrer hemorragias tanto no aborta-
+mento quanto no parto ou no pós-parto.
+parto cesáreo, sendo que neste último as complicações são mais
+graves e a indicação da cesariana deve ser bastante criteriosa.
+A letalidade por dengue entre as gestantes é superior à da popu-
+lação de mulheres em idade fértil não gestantes, com maior risco
+no terceiro trimestre gestacional.
+fisiológicas que o adaptam ao ciclo gestacional, como:
+:eugneD
+ Aumento do volume sanguíneo total em aproximadamente 40%,
+assim como aumento da frequência cardíaca (FC) e do débito
+cardíaco (DC).
+ Queda do hematócrito por hemodiluição, apesar do aumento
+do volume eritrocitário.
+ Declínio da resistência vascular periférica e da pressão sanguínea.
+ Hipoproteinemia por albuminemia.
+ Leucocitose sem interferência na resposta a infecções.
+ Aumento dos fatores de coagulação.
+Quando ocorre o extravasamento plasmático, as manifestações
+como taquicardia, hipotensão postural e hemoconcentração
+serão percebidas numa fase mais tardia, uma vez que podem ser
+confundidas com as alterações fisiológicas da gravidez.
+igual àquele prescrito aos demais pacientes, de acordo com o
+estadiamento clínico. Durante a reposição volêmica, deve-se ter
+cuidado para evitar a hiper-hidratação.
+orientação para os demais pacientes.
+contraindicadas na gestação. A ultrassonografia abdominal pode
+auxiliar na avaliação de líquido livre na cavidade.
+Importante lembrar que o aumento do volume uterino, a partir
+da 20ª semana de gestação, leva à compressão da veia cava.
+Toda gestante, quando deitada, deve ficar em decúbito lateral
+preferencialmente esquerdo.
+O diagnóstico diferencial de dengue na gestação, principalmente
+nos casos de dengue grave, deve incluir pré-eclâmpsia, síndrome
+de HELLP e sepse, que não só podem mimetizar seu quadro clínico,
+como também estarem presentes de forma concomitante.
+Na eventualidade de parada cardiorrespiratória com mais de 20
+semanas de idade gestacional, a reanimação cardiopulmonar (RCP)
+deve ser realizada com o deslocamento do útero para a esquerda,
+para descompressão da veia cava inferior.
+Considerar a realização de cesárea depois de 4 a 5 minutos de
+RCP, se não houver reversão da parada, com a finalidade principal
+de aliviar os efeitos da compressão do útero sobre a veia cava.
+De acordo com a viabilidade do feto, poderá haver também a
+possibilidade de sua sobrevida. O melhor tratamento para o feto
+é o adequado tratamento materno.
+10 Classificação dos casos de dengue
+A dengue é uma doença de notificação compulsória, sendo
+vigilâncias locais, seja de um caso suspeito ou confirmado. Essa
+informação, quando recebida de forma oportuna, permite a adoção
+de medidas de prevenção e controle.
+10.1 CASO SUSPEITO DE DENGUE
+Pessoa que viva em área onde se registram casos de dengue, ou
+que tenha viajado nos últimos 14 dias para área com ocorrência
+de transmissão de dengue (ou presença de Aedes aegypti).
+Deve apresentar febre, usualmente entre dois e sete dias, e duas
+ou mais das seguintes manifestações: náuseas, vômitos, exantema,
+mialgias, artralgias, cefaleia, dor retro-orbital, petéquias, prova do
+laço positiva e leucopenia.
+Também pode ser considerado caso suspeito toda criança prove-
+niente de (ou residente em) área com transmissão de dengue,
+com quadro febril agudo, entre dois e sete dias, e sem foco de
+infecção aparente.
+10.2 CASO SUSPEITO DE DENGUE COM SINAIS
+É todo caso de dengue que, no período de defervescência da
+febre, apresenta um ou mais dos seguintes sinais de alarme: dor
+abdominal intensa (referida ou à palpação) e contínua; vômitos
+persistentes; acúmulo de líquidos (ascite, derrame pleural, derrame
+pericárdico); hipotensão postural e/ou lipotimia; hepatomegalia
+>2 cm abaixo do rebordo costal; sangramento de mucosa; letargia
+e/ou irritabilidade; aumento progressivo do hematócrito.
+10.3 CASO SUSPEITO DE DENGUE GRAVE
+condições:
+a. Choque ou desconforto respiratório em função do extra-
+vasamento grave de plasma; choque evidenciado por
+taquicardia, pulso débil ou indetectável, taquicardia,
+extremidades frias e tempo de perfusão capilar >2 segundos
+e pressão diferencial convergente <20 mmHg, indicando
+hipotensão em fase tardia.
+b. Sangramento grave segundo a avaliação do médico (exemplos:
+hematêmese, melena, metrorragia volumosa e sangramento
+do SNC).
+c. Comprometimento grave de órgãos, a exemplo de dano
+hepático importante (AST/ALT >1.000), do sistema nervoso
+central (alteração de consciência), do coração (miocardite)
+e de outros órgãos.
+10.4 CASO CONFIRMADO DE DENGUE
+laboratorial ou por vínculo clínico-epidemiológico. Portanto, dados
+apresentadas, sendo complementados por demais informações de
+prontuário médico, poderão subsidiar a vigilância epidemiológica
+oficial de informação.
+:eugneD
+dos seguintes testes laboratoriais e seus respectivos resultados:
+a. Detecção da proteína NS1 reagente.
+b. Isolamento viral positivo.
+c. RT-PCR detectável (até o quinto dia de início de sintomas
+da doença).
+d. Detecção de anticorpos IgM ELISA (a partir do sexto dia de
+início de sintomas da doença).
+e. Aumento ≥4 vezes nos títulos de anticorpos no PRNT ou teste
+IH, utilizando amostras pareadas (fase aguda e convalescente
+com ao menos 14 dias de intervalo).
+Os vírus dengue (DENV) e Zika (ZIKV) são flavivírus, o que favorece
+a reação cruzada nos testes sorológicos, gerando um resultado
+laboratorial inconclusivo.
+específica ou para casos com resultados laboratoriais inconclu-
+sivos, deve-se considerar a confirmação por vínculo epidemiológico
+com um caso confirmado laboratorialmente, após avaliação da
+distribuição espacial dos casos confirmados.
+11 Uso de antiagregantes plaquetários
+11.1 ANTIAGREGANTES PLAQUETÁRIOS
+com dengue, sobretudo ácido acetilsalicílico (AAS) e a dupla
+antiagregação plaquetária (DAPT), permanece controversa. Porém
+que o risco de sangramento, mesmo em pacientes com a doença
+e trombocitopenia, sendo preciso, portanto, determinar aqueles
+em que a manutenção dessas drogas se faz necessária.
+11.1.1 Pacientes tratados com dupla antiagregação
+plaquetária - DAPT: AAS e clopidogrel
+- se possível - manter a utilização durante a infecção.
+No caso de plaquetometria acima de 50x109/L, não haverá neces-
+sidade de admissão, e a contagem de plaquetas será avaliada
+diariamente, conforme protocolo da dengue para o Grupo B.
+Para plaquetas entre 30x109/L e 50x109/L, os pacientes deverão
+ser admitidos em leitos de observação, com controle diário da
+contagem de plaquetas.
+:eugneD
+Quando a contagem plaquetária for abaixo de 30x109/L, pacientes
+admitidos em leito de observação até elevação acima de 50x109/L,
+anteriormente.
+Em casos de sangramentos, estará indicada transfusão de
+plaquetas, além das medidas específicas para interrupção
+da hemorragia.
+11.1.2 Pacientes em uso de ácido acetilsalicílico - AAS
+convencionais há mais de um mês, assim como aqueles
+cerebrovascular, deverão utilizar apenas AAS, desde que o número
+de plaquetas aferido seja superior a 30x109/L.
+Quando o valor da plaquetometria for entre 30x109/L e 50x109/L,
+os pacientes deverão ser monitorados em leitos de observação.
+Caso o número de plaquetas seja inferior a 30x109/L, deverá ser
+admitidos para observação, até que o número de plaquetas seja
+superior a 50x109/As Figuras 4 e 5 resumem as condutas descritas
+anteriormente.
+Figura 4 Pacientes tratados com dupla antiagregação
+Stent farmacológico <6 meses
+ou stent convencional <1 mês
+em uso de DAPT (AAS e clopidogrel)
+de 50x109/L 30x109/L e 50x109/L de 30x109/L
+• Manter o AAS • Manter o AAS • Suspender o AAS
+e o cloridogrel. e o cloridogrel. e o cloridogrel.
+• Realizar contagem • Admitir em leito • Admitir em leitos
+diária de plaquetas, de observação e de observação e
+de grupo B. diária de plaquetas. diária de plaquetas.
+Fonte: elaboração própria.
+Figura 5 Pacientes tratados com o AAS
+Stent farmacológico > 6 meses
+ou stent convencional > 1 mês
+de 50x109/L 30x109/L e 50x109/L de 30x109/L
+• Manter o AAS. • Manter o AAS. • Suspender o AAS.
+• Realizar contagem • Admitir em leito de • Admitir em leitos de
+de grupo B. plaquetas. plaquetas.
+Fonte: elaboração própria.
+:eugneD
+11.2 ANTICOAGULANTES
+11.2.1 Uso de varfarina sódica
+A complicação principal no uso de anticoagulante oral, espe-
+cialmente a varfarina sódica, é o sangramento em diversos graus.
+hemorrágicas a intensidade do efeito anticoagulante - medido
+(TAP) -, características inerentes ao paciente e uso concomitante
+de medicações ou condições que interfiram com a hemostasia.
+Pacientes com dengue e plaquetopenia quando em uso anti-
+há alterações em etapas da coagulação sanguínea.
+No entanto, em situações em que o risco trombótico é maior, o
+de próteses cardíacas metálicas, nos casos de fibrilação atrial com
+alto risco de fenômenos tromboembólicos, na embolia pulmonar
+e nas síndromes trombofílicas.
+Pacientes com plaquetometria acima de 50x109/L devem realizar
+dosagem ambulatorial do TAP e do número de plaquetas.
+No caso de contagem de plaquetas situada entre 30x109/L e 50x109/L,
+indica-se a internação para substituição do anticoagulante oral
+para heparina venosa não fracionada, assim que o TAP atinja níveis
+subterapêuticos. Em geral, pode-se iniciar a heparina quando o TAP
+se situar com INR abaixo de 2,0.
+Se a contagem de plaquetas for inferior a 30x109/L, há necessidade
+coagulação, com medidas diárias de TAP e contagem de plaquetas.
+Não se deve reverter a anticoagulação, exceto quando há sangramento.
+| edúaS
+A Figura 6 resume as condutas adotadas descritas anteriormente.
+Figura 6 Paciente em uso de varfarina sódica
+> 50x109/L 30x109/L e 50x109/L < 30x109/L
+• Admissão do paciente • Suspender varfarina.
+• Controle para controle da • Admissão do
+ambulatorial do TAP. anticoagulação. paciente e realização
+• Contagem diária • Suspender varfarina de contagem de
+de plaquetas. e trocar por heparina plaquetas e TAP
+não fracionada. diárias.
+Fonte: elaboração própria.
+11.2.2 Uso de inibidores de trombina ou de antifator Xa
+Essas duas classes de medicamentos, diferentemente da varfarina,
+não permitem avaliar por meio de um teste a eficácia da anti-
+coagulação, portanto acabam refletindo na conduta adotada em
+relação aos pacientes com dengue. Por isso, a possibilidade de
+deve ser analisada com cautela.
+Pacientes com alto risco de eventos tromboembolíticos, a exemplo
+do anticorpo antifosfolipídeo (SAF), não devem utilizar tais
+medicamentos.
+Na situação em que a suspensão não for a opção, pacientes com
+dengue e plaquetometria ≥50x109/L devem continuar com a
+terapia prescrita.
+:eugneD
+Nos casos em que a plaquetometria seja <50x109/L, a internação
+não fracionada venosa após 24 horas da última dose ou quando
+decorrido o período de 2 vezes a meia-vida dos medicamentos,
+conforme descrito a seguir:
+Meia-vida Intervalo proposto
+(horas) (horas)
+Dabigatrana 12 a 17 24
+Rivaroxabana 5 a 9 24
+Apixabana 8 a 15 24
+Edoxabano 10 a 14 24
+Fonte: elaboração própria.
+11.2.3 Suspensão dos antiagregantes e anticoagulantes
+Em caso de sangramento moderado ou grave, as medicações
+antiagregantes e anticoagulantes devem ser suspensas, como
+parte de suas abordagens.
+No caso da dupla antiagregação plaquetária, indica-se transfusão
+de plaquetas na dose de 1 unidade para cada 10 kg de peso.
+Nos pacientes em uso de varfarina e com sangramento grave,
+deve-se administrar plasma fresco congelado na dose de 15 mL/kg
+(até que o INR esteja inferior a 1,5) e vitamina K na dose de 10 mg
+via oral ou endovenosa.
+grave, não há uma opção de terapia específica disponível e
+incorporada no Sistema Único de Saúde (SUS). Dessa forma, devem
+ser utilizadas medidas adequadas para cada causa específica.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+para prevenção e controle de epidemias de dengue. Brasília, DF:
+MS, 2009.
+BRITO, C. A.; CORDEIRO, M. T. One year after the Zika virus
+outbreak in Brazil: from hypotheses to evidence. Rev. Soc. Bras.
+Med. Trop., Uberaba, v. 49, n. 5, p. 537-543, set./out. 2016. DOI
+br/scielo.php?script=sci_arttext&pid=S0037-86822016000500537.
+Acesso em: 29 jan.2019.
+NEW YORK HEART ASSOCIATION. NYHA Classification - The Stages
+of Heart Failure. In: THE JOINT COMISSION. Specifications Manual
+for Joint Commission National Quality Measures (v2018A).
+jointcommission.org/releases/TJC2018A/DataElem0439.html.
+Acesso em: 26 jan. 2024.
+PAN AMERICAN HEALTH ORGANIZATION. Tool for diagnosis and
+care of patients with suspected arboviral disease. Washington,
+D.C.: PAHO, 2016.
+WORLD HEALTH ORGANIZATION. Dengue: guidelines for the
+diagnosis, treatment, prevention and control. 9. ed. Geneva, 2009.
+ALEXANDER, N. et al. Multicentre Prospective Study on Dengue
+classification in Four Sout-east Asian and Three Latin American
+Countries. Tropical Medicine & International Health, Malden,
+MA, v. 16, n. 8, p. 936- 948, 2011.
+ALVARENGA, C. F. et al. Dengue during Pregnancy: a study of
+thirteen cases. American Journal of Infectious Diseases, New York,
+v. 5, n. 4, p. 298-303, 2009.
+BARNIOL, J. et al. Usefulness and applicability of revised dengue
+case classification by disease: multi-centre study in 18 countries.
+BMC Infectious Diseases, London, v. 11, p. 106, 2011.
+BASURKO, C. et al. Maternal and foetal consequences of
+dengue fever during pregnancy. European Journal of obstetrics
+Gynecology and Reproductive Biology, [S. l.], v. 147, p. 29-32, 2009.
+BELO HORIZONTE. Secretaria Municipal de Saúde. Protocolo para
+atendimento aos pacientes com suspeita de dengue - 2014.
+Belo Horizonte: Secretaria Municipal de Saúde, 2013. Disponível
+dengue_14082014.pdf. Acesso: 26 jan. 2024.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Serviços. Guia de Vigilância em Saúde. 3. ed. Brasília, DF: MS, 2019.
+guia_vigilancia_saude_3ed.pdf. Acesso em: 26 jan. 2024.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Dengue: diagnóstico e manejo clínico: adulto e criança. 5. ed.
+br/bvs/publicacoes/dengue_manejo_adulto_crianca_5ed.pdf.
+Acesso em: 26 jan. 2024.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Relatório de investigação de óbitos por dengue. Brasília, DF: MS,
+[2013?]. No prelo.
+BRITO, C.; BRITO, R.; MAGALHAES, M. Dengue e febre hemorrágica
+da dengue. In: FILGUEIRA, N. A. et al. Condutas em clínica médica.
+4. ed. Rio de Janeiro: Guanabara Koogan, 2007. v. 1. p. 613-623.
+CARVALHO, W. B.; HIRSCHHEIMER, M. R.; MATSUMOTO, T. Terapia
+intensiva pediátrica. 3. ed. São Paulo: Atheneu, 2006.
+DIAZ-QUIJANO, F. A.; VILLAR-CENTENO, L. A.; MARTINEZ-VEGA,
+R. A. Predictors of spontaneous bleeding in patients with acute
+febrile syndrome from a dengue endemic area. Journal of
+Clinical Virology, [S. l.], v. 49, n. 1, p. 11-15, set. 2010.
+EL-QUSHAYRI, A. E. et al. Does dengue and COVID-19 co-infection
+have worse outcomes? A systematic review of current evidence.
+Rev. Med. Virol., [S. l.], v. 32, n. 5, 2022.
+FERREIRA, R. A. X. et al. Predictive factors of dengue severity
+in hospitalized children and adolescents in Rio de Janeiro,
+Brazil. Rev. Soc. Bras. Med. Trop., v. 51, n. 6, p. 753-760, 2018.
+FIGUEIRÓ, A. C. et al. Óbito por dengue como evento sentinela
+para avaliação da qualidade assistência: estudo de caso em
+dois municípios da Região Nordeste, Brasil, 2008. Cadernos
+de Saúde Pública, Rio de Janeiro, v. 27, n. 12, p. 2373-2385, 2011.
+GUBLER, D. J.; KUNO, G. (ed.) Dengue and dengue hemorrhagic
+fever. New York: CABI Publishing, 2001.
+:eugneD
+GUO, C. et al. Global Epidemiology of Dengue Outbreaks in
+1990-2015: A Systematic Review and Meta-Analysis. Front. Cell.
+Infect. Microbiol. [S. l.], v. 7, n. 317, 2017.
+ISMAIL, N. A. M. et al. Dengue in pregnancy. The Southeast Asian
+Journal of Tropical Medicine and Public Health, [S. l.], v. 37, n. 4,
+681- 683, jul. 2006.
+KARIYAWASAN, S.; SENANAYAKE, H. Dengue infections during
+pregnancy: case series from a tertiary care hospital in Sri lanka.
+The Journal of Infection in Developing Countries, [S. l.], v. 4, n.11,
+p. 767- 775, 2010.
+LEE, I. K.; LIU, J. W.; YANG, K. D. Clinical and laboratory
+characteristics, and risk factors for fatality in elderly patients
+with dengue hemorrhagic fever. Tropical Medicine and Hygiene,
+[S. l.], v. 79, n. 2, p. 149-153, 2008.
+LEO, Y. S. et al. Confirmed adult dengue deaths in Singapore:
+5-year multi-center retrospective study. BMC Infectious
+Diseases, London, v. 11, p. 123, 2011.
+MARTINEZ-TORRES, M. E. Dengue hemorrágico em crianças:
+editorial. Havana: José Marti, 1990. 180p.
+NASCIMENTO, L. B et al. Dengue em gestantes: caracterização
+dos casos no Brasil, 2007-2015. Revista Epidemiologia e Serviços
+de Saúde, Brasília, v. 26, n.3, p. 433-442, jul./set. 2017.
+NASCIMENTO, L. B et al. Symptomatic dengue infection during
+pregnancy and live birth outcomes in Brazil, 2007-13: a
+retrospective observational cohort study. The Lancet Infectious
+Diseases, v. 17, n. 9, p.949-956, set. 2017
+ORGANIZACIÓN PANAMERICANA DE LA SALUD. Dengue: Guías
+de atención para enfermos em la región de las Américas. 2. ed.
+[S. l.]: OPS, 2015.
+PAIXÃO, E. S et al. Symptomatic dengue infection during
+pregnancy and the risk of stillbirth in Brazil, 2006-12: a matched
+case-control study. The Lancet Infectious Diseases, v. 17, n. 9,
+p. 957-64, 2017.
+PAN AMERICAN HEALTH ORGANIZATION. Dengue: guidelines
+for patient care in the Region of the Americas. 2.ed. Washington,
+D.C.: PAHO, 2017.
+WADERGE, R. et al. Dengue infections during pregnancy: a case
+series from Sri Lanka and review of the literature. Journal of
+Clinical Virology, [S. l.], v. 37, p. 27-33, 2006.
+| edúaS
+Temporalidade clássica: choque Comprometimento
+• Predomínio de resistência
+vascular sistêmica (RVS) é • RVS ê/ extravasamento vascular
+(choque frio) / extravasamento • RVS é/ extravasamento vascular
+• Débito cardíaco (DC) ê
+• Débito cardíaco (DC) êê (taquicardia) =
+(bradicardia) = débito cardíaco
+• Hipotensão: PA diferencial
+• Hipotensão
+convergente <20 mmHg
+• Pressão de pulso ampla
+• Pressão de pulso estreita
+• Hematócrito é • Hematócrito ê
+• Plaquetas ê • Plaquetas é
+• Leucócitos ê • Leucócitos é
+• Evolução e recuperação mais
+• Evolução e recuperação mais lentas rápidas
+• Não tem diferença de mortalidade
+• Não tem diferença de mortalidade
+• Maior necessidade de ventilação
+• Menor necessidade de ventilação
+mecânica (VM) e drogas vasoativas mecânica (VM) e drogas vasoativas
+• Maior síndrome da resposta
+• Menor síndrome da resposta
+inflamatória sistêmica (SIRS)
+inflamatória sistêmica (SIRS)
+Fonte: elaborado a partir de Ranjit et al. (2007)1.
+1RANJIT, S. et al. Early differentiation between dengue and septic shock by
+comparison of admission hemodynamic, clinical, and laboratory variables:
+a pilot study. Pediatric Emergency Care, v. 23, n. 6, p. 368- 375, June 2007.
+LACTENTES (3 A 12 MESES): P = idade x 0,5 + 4,5
+CRIANÇAS (1 A 8 ANOS): P = idade x 2,0 + 8,5
+Fonte: elaborado a partir de American Heart Association (2005)2; Murahovschi (2003)3.
+2AMERICAN HEART ASSOCIATION. Part 12: Pediatric Advanced Life Support. In:
+AMERICAN HEART ASSOCIATION. 2005 American Heart Association Guidelines
+for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+Circulation, [S. l.], v. 112, n. 24, dez. 2005. Supl.
+3MURAHOVSCHI, J. Pediatria: diagnóstico e tratamento. 6. ed. São Paulo:
+Sarvier, 2003.
+(FC) EM CRIANÇAS POR FAIXA ETÁRIA
+0 a 2 meses 85-205 140 80-160
+3 a 23 meses 100-190 130 75-160
+2 a 10 anos 60-140 80 60-90
+>10 anos 60-100 75 50-90
+Fonte: elaborado a partir de American Heart Association (c2024)4.
+4AMERICAN HEART ASSOCIATION. AHA Pediatric Training for Healthcare Providers.
+and-kits/healthcare-professional/pediatric. Acesso em: 26 jan. 2024.
+< 2 MESES = até 60 rpm
+2 MESES A 1 ANO = até 50 rpm
+1 A 5 ANOS = até 40 rpm
+5 A 8 ANOS = até 30 rpm
+ADULTOS = 12 rpm a 20 rpm
+Fonte: elaborado a partir do AIDPI Atenção Integrada às Doenças Prevalentes na
+Infância (Brasil; Organização Mundial da Saúde; Organização Pan-Americana da Saúde,
+2003)5.
+5BRASIL. Ministério da Saúde; ORGANIZAÇÃO MUNDIAL DA SAÚDE; ORGANIZAÇÃO
+PAN-AMERICANA DA SAÚDE. AIDPI Atenção Integrada às Doenças Prevalentes
+na Infância: curso de capacitação: tratar a criança: módulo 4. 2. ed. rev., 1.
+ufmg.br/biblioteca/imagem/0066.pdf. Acesso em: 26 jan. 2024.
+SISTÓLICA (PAS) E DIASTÓLICA (PAD),
+(mmHg) (mm Hg)
+Recém-nascido 60-70 20-60
+Lactente 87-105 53-66
+Pré-escolar 95-105 53-66
+Escolar 97-112 57-71
+Fonte: adaptado de Jyh; Nóbrega; Souza (2007)6.
+6JYH, J. H.; NÓBREGA, R. F.; SOUZA, R. L. Atualizações em terapia intensiva
+pediátrica. São Paulo: Atheneu, 2007.
+MANGUITO PARA CRIANÇAS, SEGUNDO
+0 a 1 mês 3 cm
+2 a 23 meses 5 cm
+2 a 4 anos 7 cm
+5 a 10 anos 12 cm
+>10 anos 18 cm
+Fonte: elaborado a partir de Behrman; Kliegman; Jenson (2000)7.
+7BEHRMAN, R.; KLIEGMAN, R.; JENSON, H. Nelson textbook of pediatrics. 16. ed.
+Philadelphia: WB Sauders Company, 2000.
+Por muito tempo, a prova do laço vem sendo recomendada
+no estadiamento da dengue. No entanto, revisão sistemática
+publicada em 2022 pela Organização Pan-Americana da Saúde/
+Organização Mundial da Saúde (Opas/OMS) identificou 217 estudos
+graves e critério de hospitalização. Para essas circunstâncias, sua
+realização pode trazer discordância na condução dos casos.
+(PAS+PAD) / 2.
+Exemplo: PA 100x 60 mmHg. É igual a (100+60) / 2, que resulta em
+160/2 = 80. Então a média da PA é 80 mmHg.
+minutos, em adultos, e três minutos em crianças.
+Desenhar um quadrado com 2,5 cm de lado no antebraço e contar
+o número de petéquias formadas dentro dele.
+PROVA POSITIVA:
+• Adultos: se houver 20 ou mais petéquias.
+• Crianças: se houver 10 ou mais petéquias.
+o antebraço, dorso das mãos e nos dedos.
+Fonte: Bethell et al. (2001)8.
+8BETHELL, D. B. et al. Noninvasive Measurement of Microvascular Leakage in
+Patients with Dengue Hemorrhagic Fever. Clinical Infectious Diseases, [S. l.],
+v. 32, n. 2, p. 243-253, jan. 2001.
+Dipirona - adultos 20 gotas ou 1 comprimido (500 mg) até de
+6/6 horas.
+Dipirona - crianças 10 mg/kg/dose até de 6/6 horas (respeitar
+a dose máxima por peso e idade).
+Gotas500 mg/ml (1 mL = 20 gotas).
+Solução oral50 mg/mL.
+Solução injetável500 mg/mL.
+Comprimidos500 mg por unidade.
+Paracetamol - adultos40 gotas ou 1 comprimido (500 mg)
+de 4/4horas, podendo ser 60 gotas ou 2 comprimidos (500 mg) até
+de 6/6horas (não exceder a dose de 4 g no período de 24 horas).
+Paracetamol - crianças10 mg/kg/dose até de 6/6 horas
+(respeitar dose máxima para peso e idade). Não utilizar doses
+maiores que a recomendada, considerando que doses elevadas
+são hepatotóxicas.
+Gotas200 mg/mL (1 mL = 20 gotas).
+Comprimidos500 mg por unidade.
+Idade 1° dia 3° dia 15 dias
+Eritrócitos (M/µL) 5,1 ± 1,0 5,6 ± 1,0 5,5 ± 1,0 5,2 ± 0,8
+16,8 ± 3,5 18,8 ± 3,5 17,5 ± 3,5 17,0 ± 3,0
+(g/dL)
+Hematócrito (%) 54 ± 10 58 ± 10 56 ± 10 52 ± 8
+VCM (fL) 106 ± 5 103 ± 6 102 ± 6 98 ± 6
+Idade 3 meses 6 meses 1 a 2 anos 5 anos
+Eritrócitos (M/µL) 4,5 ± 0,5 4,5 ± 0,5 4,5 ± 0,5 4,5 ± 0,5
+11,5 ± 1,5 11,3 ± 1,5 11,8 ± 1,2 12,3 ± 1,2
+(g/dL)
+Hematócrito (%) 37 ± 4 35 ± 4 36 ± 4 37 ± 4
+82 ± 6 76 ± 6
+VCM (fL)
+78 ± 6 80 ± 6
+Idade 10 anos >70 anos**
+adultas** adultos**
+Eritrócitos (M/µL) 4,6 ± 0,5 4,7 ± 0,7 5,3 ± 0,8 4,6 ± 0,7
+13,2 ± 1,5 13,6 ± 2,0 15,3 ± 2,5 13,5 ± 2,5
+(g/dL)
+Hematócrito (%) 40 ± 4 42 ± 6 46 ± 7 41 ± 6
+VCM* (fL) 87 ± 7 89 ± 9 89 ± 9 89 ± 9
+Fonte: Failace (2003)9, com adaptações.
+* VCM: entre 1 e 15 anos, pode ser estimado pela fórmula 76 + (0,8 x idade).
+** Adultos caucasoides; 5% abaixo em negros.
+9FAILACE, R. Hemograma: manual de interpretação. 4. ed. Porto Alegre: Artmed, 2003.
+SINAIS DE ALARME: COM SUSPEITA DE DENGUE
+• Diminuição repentina da febre • Diminuição do volume de urina
+• Dor muito forte e continua na barriga • Tontura quando muda de posição (deita/senta/levanta)
+• • S Vô an m g i r t a o m s f e r n e t q o u d e e n t n e a s r iz e boca • • D Ag ifi it c a u ç l ã d o a d o e u d m e u r i e ta sp s i o ra n r o lência Nome (completo):
+• Hemorragias importantes • Suor frio
+Nome da mãe:
+RECOMENDAÇÕES:
+• Tomar muito líquido: água, suco de frutas, soro caseiro, sopas, leite, chá e água de coco.
+• Permanecer em repouso. Data de Nascimento: _/ _/ _ Comorbidade ou risco social ou condição
+• As mulheres com dengue devem continuar a amamentação. clínica especial? ( ) Sim ( ) Não
+2ª Coleta de exames
+H P 1 D ª l A e a T C m q A o u a l D e t e ó E t t a c a I s r N d i t e Í e o C m I e e O : x m a D : m O _ _ e _ S _ s _ _ S _ _ I _ _ N / / T _ _ O _ _ _ M _ _ _ A _ _ S _ _ / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / _ _ _ _ _ _ _ R R _ e e _ s s _ u u _ l lt t / a a _ d d _ o o _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ N _ _ _ O _ _ . T 0 _ I 0 F _ 0 I _ C m _ A % m ÇÃ 3 O( ) Sim ( ) Não P L S H e o l e a u r m q o c u ó l a o e t c g ó t it i a c a o s r s i e t e o e m m m e : : m : : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / / / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / / / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ R R R R e e e e s s s s u u u u l l l l t t t t a a a a d d d d o o o o _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . . 0 0 _ _ 0 0 _ _ 0 0 _ _ m m _ _% _ m m3 3
+L S e o u ro có lo c g it ia o s e e m m : : _ _ _ _ _ _ _ _ _ _ / / _ _ _ _ _ _ _ _ _ _ _ _ / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ R R e e s s u u l l t t a a d d o o_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .0 _ 0 _ 0 _ m _ m3 3ª Coleta de exames
+CON m T m P R A H O G LE SINAIS VITAIS P L S H e o l e a u r m q o c u ó l a o e t c g ó t it i a c a o s r s i e t e o e m m m e : : m : : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / / / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / / / / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ R R R R e e e e s s s s u u u u l l l l t t t t a a a a d d d d o o o o _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . . 0 0 _ _ 0 0 _ _ 0 0 _ _ m m _ _% _ m m 3 3
+(em pé)
+(deitado)
+Temp. axiliar
+Fonte: Ministério da Saúde (Brasil, [20-])10.
+10BRASIL. Ministério da Saúde. Cartão de acompanhamento do paciente
+com suspeita de Dengue. Brasília, DF: MS, [202-]. Disponível em: https://
+www.gov.br/saude/pt-br/composicao/svsa/resposta-a-emergencias/coes/
+arboviroses/publicacoes/cartao-de-acompanhamento-do-paciente-com-
+suspeita-de-dengue. Acesso em: 23 jan. 2024.
+bvsms.saude.gov.br
