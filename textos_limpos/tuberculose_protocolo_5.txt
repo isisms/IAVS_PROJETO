@@ -1,0 +1,2884 @@
+1 Fotocromogênicas2 M. marinum M. asiaticum
+M. simiae
+M. scrofulaceum
+2 Escotocromogênicas3 M. szulgai
+M. gordonae
+Complexo M. terrae
+Complexo M. avium
+M. malmoense
+M. mucogenicum
+3 Não cromogênicas4 M. genavense
+M. haemophilum
+M. xenopi
+M. ulcerans
+M. nonchromogenicum
+M. abscessus
+M. peregrinum
+M. fortuitum
+Rápido5 4 M. smegmatis
+M. chelonae
+M. vaccae
+M. franklinii
+Fonte: DCCI/SVS/MS.
+1 Saprófitas: podem ser isoladas em material clínico, mas há necessidade de novos isolamentos para confirmar infecção;
+2 Fotocromogênicas: produzem pigmento amarelo-laranja apenas na presença de luz; 3 Escotocromogênicas: produzem
+pigmento amarelo-laranja, independentemente de serem cultivados no escuro ou na luz; 4 Não cromogênicas: nunca
+produzem pigmento, independentemente das condições da cultura; 5 Crescimento rápido: apresentam colônias visíveis
+em meio sólido até sete dias.
+4.3.1 Micobactérias de crescimento lento – MCL
+sólido, partindo de um inóculo padronizado, após sete dias de incubação.
+Complexo Mycobacterium avium – MAC
+Composto pelas espécies M. avium, M. avium subespécie paratuberculosis, M. avium
+subsp. hominissuis, M. intracellulare, M. arosiense, M. bouchedurhonense, M. chimaera,
+M. colombiense, M. marseillense, M. timonense, M. vulneris e M. yongonense.10 O MAC,
+em especial M. avium e M. intracellulare, são as MNT mais isoladas, principalmente em
+pessoas imunocomprometidas.
+Com o MAC, M. kansasii é uma das espécies mais isoladas, responsável por causar uma
+micobacteriose que se assemelha clinicamente à TB, o que leva à necessidade de con-
+firmação microbiológica. A espécie é caracterizada pela formação de colônias amarelas
+quando expostas à luz, resultante de uma reação que gera a deposição de betacaroteno
+e é chamado de fotocromogenicidade10. Outra característica diferencial importante é o
+aspecto microscópico de M. kansasii, que aparece como longos bacilos com coloração
+intermitente, denominada no inglês de cross-barred.
+As análises moleculares dessa espécie puderam identificar cinco subtipos, dos quais os
+tipos 1 e 2 são responsáveis pela maioria das infecções humanas e os demais são encon-
+trados no meio ambiente.11
+contaminada que tenham qualquer tipo de trauma. Essas infecções são observadas com
+mais frequência em profissionais de aquarismo e aquacultura, uma vez que o habitat
+natural de M. marinum é aquático.10 Quando existe suspeita de infecção por M. marinum
+incubação seja garantida, visto que esse agente cresce melhor em temperaturas entre
+30°C e 32°C.
+4.3.2 Micobactérias de crescimento rápido – MCR
+De maneira oposta às MCL, as MCR apresentam crescimento visível em menos de sete dias.
+As espécies desse complexo são as MCR mais isoladas, causando mais de 80% das infecções
+pulmonares. Com base em análises de genoma, em 2016,12 foram definidas as seguintes
+subespécies: M. abscessus subespécie abscessus, M. abscessus subespécie bolletii e M. abs-
+cessus subespécie massiliense. A divisão em subespécies é baseada na elevada similaridade
+aos macrolídeos.
+Essa espécie é uma das MCR mais frequentes e causa, comumente, doença de pele, ossos e
+tecidos moles. Até 1992, a espécie era dividida em duas subespécies, a saber, M. chelonae
+subsp. abscessus e M. chelonae subsp. Chelonae.4 Após estudos moleculares comprovando
+4 MICOBACTÉRIAS
+a diferença entre ambos organismos, M. abscessus foi elevado a espécie e separado de M.
+chelonae.13
+Descrito por da Costa Cruz em 1938,14 essa MCR foi primeiramente isolada de um abs-
+cesso pós-injeção de um paciente no Rio de Janeiro. Apesar de a doença pulmonar não
+ser uma das infecções mais comuns para essa espécie, frequentemente causam infecções
+pós-traumáticas e são responsáveis por quase 60% das infecções localizadas em tecidos
+moles. A principal fonte de infecção é o contato com água contaminada ou equipamentos
+microrganismos.
+4.4 Considerações sobre critérios para diagnóstico de doença causada
+O diagnóstico de doença por MNT exige muita cautela, pois o seu isolamento a partir de
+espécimes clínicos não estéreis pode significar colonização transitória ou contaminação.
+base em uma série de critérios bacteriológicos, clínicos e radiológicos.3 Por essa razão, a
+correlação clínico-laboratorial é de fundamental importância para o estabelecimento do
+diagnóstico de doença por MNT e para determinação da estratégia terapêutica.15
+1. COLLINS, C. H.; GRANGE, J. M.; YATES, M. D. Tuberculosis Bacteriology: Organization
+and Practice. 2. ed. Oxford: Butterworth & Co (publ.), 1997.
+2. GUPTA, R. S; LO, B.; SON, J. Phylogenomics and Comparative Genomic Studies
+Mycobacterium and Four Novel Genera. Front. Microbiol., v. 9, p. 67, fev. 2018.
+3. GRIFFITH, D. E. et al. An official ATS/IDSA statement: diagnosis, treatment, and
+prevention of nontuberculous mycobacterial diseases. Am. J. Respir. Crit. Care Med., v.
+175, p. 367-416, 2007.
+4. BROWN-ELLIOTT, B. A.; WALLACE JUNIOR, R. J. Clinical and taxonomic status of
+pathogenic nonpigmented or late-pigmenting rapidly growing mycobacteria. Clin.
+Microbiol. Rev., v. 15, p. 716-746, 2002.
+5. JANKOVIC, M. et al. Microbiological criteria in non-tuberculous mycobacteria
+pulmonar disease: a tool for diagnosis and epidemiology. Int. J. Tuberc. Lung. Dis., v. 20,
+n. 7, p. 934-940, 2016.
+6. BANULS, A. L. et al. Mycobacterium tuberculosis: ecology and evolution of a human
+bacterium. J. Med. Microbiol., v. 64, n. 11, p. 1261-1269, 2015.
+7. KOECK, J. L.; et al. Clinical characteristics of the smooth tubercle bacilli
+Mycobacterium canettii infection suggest the existence of an environmental reservoir.
+Clin. Microbiol. Infect., v. 17, n. 7, p. 1013-1019, 2011.
+8. RUNYON, E. H. Identification of mycobacterial pathogens utilizing colony
+characteristics. Am. J. Clin. Pathol., v. 54, p. 578-586, 1970.
+9. DEVULDER, G.; PEROUSE, M. M.; FLANDROIS, J. P. A multigene approach to
+phylogenetic analysis using the genus Mycobacterium as a model. Int. J. Syst. Evol.
+Microbiol., v. 55, p. 293-302, 2005.
+10. SIMNER, P. J.; WOODS, G. L.; WENGENACK, N. L. Mycobacteria. Microbiol. Spectr., v.
+4, n. 4, 2016.
+11. JOHNSTON, J. C.; CHIANG, L.; ELWOOD, K. Mycobacterium kansasii. Microbiol.
+Spectrum., v. 5, n. 1, 2017.
+12. TORTOLI, E. et al. Emended description of Mycobacterium abscessus, Mycobacterium
+abscessus subsp. abscessus, Mycobacterium abscessus subsp. bolletii and designation of
+Mycobacterium abscessus subsp. massiliense comb. nov. Int. J. Syst. Evol. Microbiol., v.
+66, p. 4471-4479, 2016.
+13. KUSUNOKI, S.; EZAKI, T. Proposal of Mycobacterium peregrinum sp. nov., nom. rev.,
+and elevation of Mycobacterium chelonae subsp. abscessus (Kubica et al.) to species
+status: Mycobacterium abscessus comb. nov. Int. J. Syst. Bacteriol. v. 42, p. 240-245, 1992.
+14. COSTA CRUZ, J. C. Mycobacterium fortuitum: um novo bacilo ácido-resistente
+patogênico para o homem. Acta Med., Rio de Janeiro, v. 1, p. 298-301, 1938.
+15. AGENCIA NACIONAL DE VIGILANCIA SANITARIA (Brasil). Nota Técnica Conjunta n.º
+01/2009 – SVS/MS e Anvisa. Infecções por micobactérias de crescimento rápido: Fluxo
+de notificações, diagnósticos clinico, microbiológico e tratamento. Brasília, DF: Anvisa,
+2009. Disponível em: https://www.ribeiraopreto.sp.gov.br/files/ssaude/pdf/ci-notatecnica-
+conjunta-012009-svsms-anvisa.pdf. Acesso em: 15 ago.ORGANIZAÇÃO E
+9 TESTE DE SENSIBILIDADE
+9.1 Introdução
+O TS pode ser genotípicos ou fenotípicos. O TS fenotípico é um exame laboratorial, in
+vitro, que avalia a capacidade de um fármaco inibir o crescimento de bactérias em meio
+de cultura, determinando a resistência ou a sensibilidade do microrganismo diante de um
+antimicrobiano. O TS em isolados de M. tuberculosis é realizado para detectar a resistência
+ou a sensibilidade aos fármacos utilizados no tratamento da TB.
+Para M. tuberculosis, duas categorias diferentes são utilizadas para elucidar os resultados:1
+1. “Concentração crítica”
+a. A concentração crítica é definida como a menor concentração de um fármaco antiTB
+que inibirá in vitro o crescimento de 99% (90% no caso da pirazinamida) de isolados
+fenotipicamente sensíveis.
+2. “Concentração inibitória mínima”
+a. A CIM ou MIC mínima é definida como a concentração acima da concentração crítica,
+que separa os isolados que, provavelmente, responderão ao tratamento daqueles que
+não responderão.
+Os fármacos antiTB têm sido usados há décadas, e isolados resistentes a um ou mais fár-
+macos utilizados já foram encontrados e documentados em todos os países pesquisados.
+A resistência aos fármacos antiTB surge quando eles são usados inadequadamente, seja
+por prescrição incorreta pelos profissionais de saúde, seja pelo uso de medicamentos de
+baixa qualidade ou pela interrupção prematura do tratamento pelos pacientes.2,3
+Os casos de pacientes com TB infectados com bacilos resistentes aos fármacos têm aumen-
+tado nos últimos anos. De acordo com a OMS, um total global de 206.030 pessoas com TB
+MDR ou com resistência à rifampicina (TB-RR) foram detectadas e notificadas em 2019,
+um aumento de 10% em relação aos 186.883 casos em 2018, sendo que 177.099 pessoas
+iniciaram tratamento, superior aos 156.205 em 2018.4
+Nas últimas duas décadas, uma melhor compreensão da base molecular da resistência
+para a detecção rápida da sensibilidade e resistência aos fármacos antiTB. Além da rapidez
+do diagnóstico, os testes moleculares têm vantagens adicionais, como a possibilidade de
+ser utilizado diretamente em amostras clínicas, sem a necessidade de isolamento inicial
+da cepa em meio de cultura sólido ou líquido, em amostras que contenham bactérias
+não viáveis, por exemplo, bactérias mortas por inativação química ou por calor, e possui
+potencial de alta produtividade, devido ao ganho de tempo com a eliminação da etapa
+de cultura, além da diminuição de requisitos de biossegurança nos laboratórios.
+Em 2008, a OMS endossou, para a detecção rápida de TB MDR, o uso do teste de hibridação
+com sonda em linha (LPA – do inglês Line Probre Assay), que identifica bactérias do CMTB
+e detecta simultaneamente a resistência e/ou a sensibilidade à rifampicina e à isoniazida.5
+fragmento de 81 pares de bases da subunidade β da RNA polimerase, codificada pelo gene
+rpoB, que codifica a enzima-alvo do fármaco. As mutações pontuais ou inserções no gene
+katG, responsável pela ativação da enzima catalase/peroxidase, causam resistência à iso-
+niazida, sendo que as mutações no códon 315 têm sido mais frequentemente encontradas
+(cerca de 64,2% dos isolados resistentes).6,7,8,9,10
+As mutações pontuais na região promotora do gene inhA, que sintetiza a proteína-car-
+readora enoil-acil redutase dependente de nicotinamida adenina dinucleotídeo (NADH),
+também resultam em resistência à isoniazida.11,12,13,14
+segunda linha para tratamento de TB foi o GenoType® MTBDRsl versão 1.0, desenvolvido
+há uma década. Esse teste faz a identificação molecular do CMTB e da resistência às fluoro-
+quinolonas (ofloxacino, levofloxacino e moxifloxacino) e/ou aminoglicosídeos/peptídeos
+cíclicos (antibióticos injetáveis como a amicacina) e/ou etambutol, de amostras cultivadas
+ou amostras clínicas pulmonares. A identificação da resistência às fluoroquinolonas é ba-
+seada na detecção das mutações mais significativas associadas ao gene gyrA, que codifica
+a subunidade A da DNA girase. Para a detecção da resistência aos aminoglicosídeos/peptí-
+deos cíclicos é examinado o gene 16S rRNA (rrs), e para a detecção da resistência ao etam-
+butol, o gene embB que, com os genes embA e embC, codifica a arabinosil transferase.15,16
+Em 2015, foi disponibilizada a versão 2.0 do teste, que é capaz de detectar as mutações as-
+sociadas à resistência à fluoroquinolona e aos medicamentos injetáveis de segunda linha,
+também detectada pela primeira versão, porém, com adição de novas mutações. Uma vez
+que o diagnóstico de TB MDR/RR tenha sido estabelecido, um LPA para os fármacos de
+segunda linha pode ser usado para detectar resistência adicional a esses medicamentos.17
+9.2 Mecanismo de resistência
+genes cromossomais relacionados às proteínas-alvo dos fármacos, durante o processo
+de multiplicação, principalmente em ambientes com condições favoráveis de nutrição,
+oxigenação e cuja frequência varie de 106 a 108 mutações por geração micobacteriana.18
+A resistência aos fármacos antiTB também pode ocorrer por resistência inata ou intrínseca,
+que são estruturas existentes na célula micobacteriana que impedem a ação do fármaco,
+ou mecanismos que inativam o fármaco ou modificam a molécula-alvo do fármaco.19 Os
+principais mecanismos de resistência inata do CMTB são:
+I. bombas de efluxo: são proteínas capazes de expulsar os fármacos do meio intracelular
+para o meio extracelular dos microrganismos;20,21
+II. modificação de alvos: ocorre modificação na molécula-alvo do fármaco, que pode levar à
+alteração da ligação do fármaco na molécula e consequente diminuição da sua atividade;19
+III. modificação de antibióticos: a bactéria é capaz de produzir enzimas que transferem gru-
+moléculas-alvo, como a enzima aminoglicosídeo N-acetiltransferase, que causa a resistên-
+cia aos aminoglicosídeos;21 e
+9 TESTE DE SENSIBILIDADE
+IV. degradação enzimática de antibióticos: a bactéria é capaz de produzir enzimas que de-
+gradam os fármacos, como a β-lactamase, codificada pelo gene blaC de M. tuberculosis,
+que possui atividade de degradar anéis β-lactâmicos, incluindo os membros da família dos
+antibióticos carbapenêmicos, que são degradados lentamente.21
+De acordo com o padrão de resistência bacteriana, ela pode ser classificada em:22
+I. monorresistência: resistência a somente um fármaco antiTB;
+II. polirresistência: resistência a dois ou mais fármacos antiTB, exceto à associação rifampici-
+na e isoniazida;
+III. TB-RR: resistência à rifampicina identificada por meio do TRM-TB exclusivamente (ainda
+sem teste de sensibilidade, sem outras resistências conhecidas);
+IV. TB-MDR: resistência a pelo menos rifampicina e isoniazida, os dois mais importantes
+fármacos para o tratamento da TB; e
+V. resistência extensiva (TB-XDR): resistência à rifampicina e à isoniazida acrescida de resis-
+tência à fluoroquinolona (qualquer delas) e à linezolida ou à bedaquilina.
+Durante a infecção, encontra-se cerca de 107 a 109 bacilos nas cavidades pulmonares,
+principal sítio de infecção. Todos os bacilos que formam uma colônia, apesar de se ori-
+ginarem de uma única célula, não apresentam comportamento homogêneo diante de
+todos os fármacos antiTB. Em toda a população de bacilos sensíveis existe uma pequena
+proporção de bacilos (cerca de um a cada 108 bacilos, por geração), que sofreram mutações
+espontâneas e se comportam como resistentes a algum dos fármacos.14,23
+As mutações que levam à resistência no bacilo M. tuberculosis ocorrem espontaneamente
+e ao acaso, sendo, portanto, importante conhecer a proporção de mutantes que se espera
+obter numa população de bacilos e a taxa de mutação para os fármacos usados no tra-
+tamento da TB para uma melhor interpretação dos testes laboratoriais de sensibilidade.
+As mutações genéticas do bacilo M. tuberculosis que levam à resistência à rifampicina
+ocorrem em uma taxa de 10-10 mutações por divisão celular e levam a uma prevalência
+estimada de uma em cada 108 bacilos, em ambiente sem a presença do fármaco. A taxa
+para isoniazida é de aproximadamente 10-7 a 10-9, resultando em resistência em 1 a cada
+106 bacilos. Portanto, as mutações espontâneas ocorrem mesmo na ausência da exposi-
+ção antimicrobiana. A presença de antimicrobianos fornece uma pressão seletiva para
+os organismos resistentes tornarem-se predominantes, especialmente em pacientes com
+grande carga de bacilos. Assim, a resistência aos fármacos na TB é a resultante de uma
+inter-relação do fenômeno da mutação espontânea e da seleção de população predomi-
+nantemente resistente, como consequência de tratamento irregular e/ou inadequado.14
+Os esquemas de tratamento da TB no Brasil22 são padronizados e constituídos por uma
+associação de fármacos para diminuir a probabilidade de seleção de bacilos resistentes.
+Os fármacos utilizados para os tratamentos são classificados de primeira e segunda linha.
+Os fármacos de primeira linha compõem o esquema básico de tratamento da TB e atu-
+almente é utilizado para o tratamento de casos novos de TB sem suspeita de resistência,
+sendo dividido em duas fases:
+» intensiva (dois meses): rifampicina, isoniazida, pirazinamida e o etambutol, todas
+combinadas em um só comprimido, recebendo a denominação de dose fixa combi-
+nada (DFC); e
+» manutenção (quatro meses): rifampicina e isoniazida, comprimidos em DFC.
+Esses fármacos são administrados via oral; possuem melhor eficácia contra M. tuberculosis
+e apresentam, em geral, reações adversas toleráveis, o que faz com que não seja necessá-
+rio interromper esse esquema de tratamento para substituição dos fármacos.22,24
+Já os de segunda linha, orais ou injetáveis, são utilizados em casos de resistências ou
+intolerância aos fármacos de primeira linha. Possuem uma atividade moderada contra M.
+tuberculosis e, em geral, apresentam mais efeitos colaterais, além de possuírem um tempo
+de tratamento maior, variando de 9 a 24 meses.2,22,24
+9.3 Critérios para realização do teste de sensibilidade
+pessoa com TB são sensíveis ou resistentes aos fármacos de primeira e/ou de segunda
+linha utilizados no tratamento da doença. Nos casos de sensibilidade, os pacientes devem
+responder ao tratamento e, nos casos de resistência, o esquema terapêutico deve ser
+reavaliado.
+Em maio de 2014, a OMS aprovou a nova Estratégia Global de TB pós-2015, com metas
+ambiciosas. A estratégia visa acabar com a epidemia global de TB, cujas metas visam
+reduzir as mortes por TB em 95%, reduzir em 90% os casos novos entre 2015 e 2035, e
+TB. Nessa estratégia a OMS também recomenda o acesso universal ao TS rápido, pelo
+menos à rifampicina, para todos os pacientes com confirmação bacteriológica.25
+O Brasil recomenda que seja realizada cultura e TS nas seguintes situações:
+» em todas as amostras biológicas, de casos novos ou retratamento, cujo diagnóstico
+inicial foi realizado por baciloscopia, independentemente do resultado do teste;
+» em todas as amostras biológicas de casos novos que tiverem o resultado detectado
+no TRM-TB;
+» em todas as amostras de crianças (<10 anos), PVHIV, TB extrapulmonar e casos de
+retratamento, independentemente do resultado do TRM-TB;
+» para amostras de acompanhamento dos casos em tratamento, se a amostra for
+positiva na baciloscopia no segundo mês de tratamento; e
+» em casos de suspeita de resistência ou falência ao tratamento realizado.
+Recomenda-se a repetição da cultura a cada três meses. O TS deve ser repetido so-
+um dos fármacos de primeira linha.
+9 TESTE DE SENSIBILIDADE
+9.4 Métodos de teste de sensibilidade
+9.4.1 Métodos fenotípicos
+A sensibilidade do bacilo M. tuberculosis aos fármacos pode ser avaliada em meio sólido,
+como o método das proporções e teste da redução do nitrato, e também em meio líqui-
+do, por método automatizado. Esses são considerados os principais métodos clássicos ou
+convencionais para TS de M. tuberculosis.
+9.4.1.1 Métodos das proporções
+Os métodos padronizados e validados para investigar a sensibilidade de M. tuberculosis
+aos fármacos de primeira linha quantificam a proporção de microrganismos resistentes, a
+cada um dos fármacos que está infectando o paciente. Esses métodos alcançam eficiência
+de 97% e 99% para determinar a atividade da isoniazida e da rifampicina, respectiva-
+mente, e em torno de 92% para etambutol e estreptomicina. No entanto, para assegurar
+essa eficiência é importante observar todas as etapas com muito cuidado e atenção, desde
+a aquisição dos fármacos, qualidade, conservação, pesagem, preparação dos meios de
+cultura, padronização do inóculo, preparação das diluições, semeadura, observação do
+tempo de leitura do teste até o cálculo da proporção de colônias resistentes.
+9.4.1.1.1 Método das proporções em meio Löwenstein Jensen – LJ
+Este método foi descrito por Canetti e colaboradores em 196326 e, em 1969, o teste inicial
+foi simplificado.27 A versão simplificada do teste, com apenas uma concentração dos fár-
+macos, é a mais utilizada.
+de M. tuberculosis diante de uma concentração de cada fármaco que seja capaz de inibir
+o crescimento dos bacilos sensíveis, mas não o dos resistentes (concentração crítica). Para
+bacilar, igual ou acima da qual a amostra é considerada resistente – “proporção crítica.”
+No Quadro 35 estão as concentrações críticas para cada fármaco (concentração final no
+meio de cultura) e a proporção crítica, que estipula o critério para definição do isolado
+bacteriano como resistente ou sensível ao fármaco.
+Quadro 35 – Critérios de resistência de M. tuberculosis aos fármacos no meio LJ
+FÁRMACOS PROPORÇÃO CRÍTICA (%)
+(µG/ML)
+Isoniazida 0,2 1
+Rifampicina 40 1
+Etambutol 2 1
+Estreptomicina 4 1
+Fonte: Autoria própria.
+Desse modo, considera-se que um fármaco de primeira linha não tem atividade no tra-
+tamento da TB quando é testado diante de um isolado de M. tuberculosis e que contém
+mais de 1% de bacilos resistentes na concentração crítica determinada para o fármaco,
+previamente estabelecida.28,29
+baciloscopia ou TRM-TB (teste direto) ou a partir do isolado bacteriano (teste indireto).
+realizado em isolados bacterianos identificados como M. tuberculosis. É mais demorado
+do que o direto, com a vantagem de apresentar menor risco de contaminação.
+descontaminação. Deve-se diluir o material homogeneizado antes de inocular nos meios
+de cultura, de acordo com o resultado da baciloscopia.
+O método das proporções em meios de cultura sólidos à base de ovos (LJ) é o mais utilizado
+e os fármacos são incorporados antes da coagulação. Os fármacos utilizados no TS são
+as do esquema de tratamento de primeira linha (isoniazida, rifampicina, etambutol e
+estreptomicina).
+dois fármacos para identificação de micobactérias, que não são utilizadas no tratamento
+(PNB e TCH).30, 31 O método das proporções também pode ser realizado em meios de
+cultura sólidos à base de ágar Middlebrook 7H10.32
+Para o método das proporções, emprega-se o meio LJ sem fármaco e com fármaco. O
+meio sem fármaco permite conhecer o número total de bacilos semeados, e, o meio com
+fármaco, o número de mutantes resistentes ao fármaco correspondente.
+Os cuidados com a qualidade dos fármacos e seu manuseio são fundamentais para asse-
+gurar resultados confiáveis do TS.33
+Para a preparação da solução estoque, o cálculo da quantidade a ser pesada de cada
+fármaco, tendo em conta a sua potência, é:
+𝑐𝑐𝑃𝑃𝑐𝑐𝑐𝑐𝑃𝑃𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐çã𝑃𝑃 µ𝑚𝑚⁄𝑚𝑚𝑙𝑙 ×𝑣𝑣𝑃𝑃𝑙𝑙𝑣𝑣𝑚𝑚𝑃𝑃 𝑚𝑚𝑙𝑙
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑚𝑚𝑚𝑚 =
+𝑃𝑃𝑃𝑃𝑐𝑐ê𝑐𝑐𝑐𝑐𝑛𝑛𝑐𝑐 µ𝑚𝑚⁄𝑚𝑚𝑚𝑚
+» Exempl𝑃𝑃o𝑃𝑃 1𝑃𝑃:ê s𝑛𝑛e𝑛𝑛n𝑛𝑛d𝑛𝑛o= a 𝑝𝑝p𝑝𝑝o𝑝𝑝t𝑝𝑝ê𝑝𝑝n𝑛𝑛ci ×a 𝑓𝑓d𝑝𝑝a𝑛𝑛 Dçãi-𝑃𝑃h i𝑛𝑛d𝑃𝑃r𝑛𝑛o𝑎𝑎e𝑛𝑛s t×re1pt−om𝑛𝑛𝑃𝑃ic𝑛𝑛i𝑃𝑃n𝑝𝑝aú s𝑑𝑑u𝑃𝑃lf 𝑑𝑑a𝑝𝑝to á =𝑔𝑔 𝑝𝑝8𝑛𝑛00 mg de estrep-
+tomicina ativa por grama, calcular:
+10.000 ×10
+𝑥𝑥 =
+Pesar 125 mg do fármaco e dissolver e𝑥𝑥m= 101 2m5l 𝑚𝑚de𝑚𝑚 água destilada estéril para obter uma
+solução estoque, na concentração de 10.000 µg/ml de estreptomicina.
+» Exemplo 2: sendo a potência da isoniazida = 1.000 mg de isoniazida ativa por gra-
+ma, calcular:
+9 TESTE DE SENSIBILIDADE
+10.000 ×10
+𝑥𝑥 =
+1000
+Pesar 100 mg do fármaco e dissolver em 10 ml de água destilada estéril para obter uma
+𝑥𝑥 = 100 𝑚𝑚𝑚𝑚
+solução estoque na concentração de 10.000 µg/ml de isoniazida.
+Considerando a potência de cada lote dos fármacos e fazendo os ajustes, quando ne-
+cessário, é preciso preparar uma solução estoque de 10.000 µg/ml em 10 ml de água
+destilada estéril, etilenoglicol, propilenoglicol ou outro diluente. Essas soluções podem
+ser aliquotadas e congeladas em temperatura de -20°C ou menos. Essa prática pode ser
+adotada se houver garantia da estabilidade da rede de frios do laboratório.
+No dia de preparação do lote de meio com fármacos, a solução de uso de cada um é
+preparada a partir da solução estoque. Deve-se desprezar o residual da solução estoque
+descongelada que não for utilizada no dia.
+É importante garantir a precisão das diluições da solução de uso utilizando pipetas gradu-
+adas e de volume compatível com o desejado, além de ter o cuidado de sempre trocar de
+pipeta após transferir o volume necessário para o tubo seguinte, antes de homogeneizar.
+Para incorporação no meio LJ, cada fármaco requer uma maneira diferente de preparo,
+com uma, duas ou sem diluições.
+O Quadro 36 resume as concentrações de cada fármaco, a quantidade a ser incorporada
+ao meio de cultura e a concentração final.
+Quadro 36 – Preparação do fármaco para incorporar ao meio LJ
+(10.000 µg/ NA ÚLTIMA 200 mL DE MEIO MEIO (µg/ml)
+ml) DILUIÇÃO (µg/ml) LJ (ml)
+Isoniazida Duas 1:10 100 0,4 0,2
+Rifampicina ou N,N- Nenhuma 10.000 0,8 40
+Etambutol Uma 1:10 1.000 0,4 2
+Estreptomicina* Uma 1:10 1.000 0,8 4
+TCH Uma 1:10 1.000 0,4 2
+PNB ** Nenhuma 10.000 10 500
+Fonte: Autoria própria.
+* Usar a Di-hidroestreptomicina por ser um fármaco mais estável e a técnica é padronizada para o uso desta formulação.
+** Para a preparação do PNB seguir as recomendações do anexo deste Capítulo.
+LJ: Löwenstein-Jensen; PNB: ácido β-nitrobenzoico; TCH: Ácido tiofeno-2-carboxílico
+de uso de cada fármaco, a preparação dos meios com fármacos e os formulários para o
+CIQ dessas preparações. O tempo de validade do meio LJ com fármacos é, no máximo, de
+dois meses sob refrigeração.28
+» Método das proporções em LJ – teste indireto
+consiste em se realizar o TS a partir de um isolado de M. tuberculosis.
+Realizar os procedimentos utilizando os cuidados de biossegurança, como as BPL e o uso
+de equipamentos de proteção individual (EPIs) adequados, conforme descrito no capítulo
+de crescimento logarítmica (média de 21 dias). Deve-se evitar realizar TS em culturas com
+mais de 60 dias.
+Observação: o preparo do meio LJ e da escala 1 de McFarland estão descritos nos anexos
+do capítulo 7. O preparo da solução de álcool a 70% e solução de fenol a 5% estão
+descritos no capítulo 3.
+Equipamentos:
+» CSB.
+» agitador mecânico;
+» estufa bacteriológica a 36°C ± 1°C; e
+» pipetador automático ou manual.
+Reagentes:
+» água destilada estéril;
+» solução de álcool a 70%;
+» NaClO a 2%; e
+» solução de fenol a 5%.
+Insumos:
+» papel-absorvente (papel de filtro ou papel toalha) para forrar a bancada;
+» gaze estéril em pedaços;
+» estante para os tubos de ensaio estéril 20 x 150 mm;
+» alça bacteriológica descartável e estéril;
+» tubos de ensaio 20 x 150 mm, de paredes reforçadas, com tampa de rosca, conten-
+do dez pérolas de vidro, estéreis;
+9 TESTE DE SENSIBILIDADE
+» tubos de ensaio 20 x 150 mm para as diluições;
+» pipetas estéreis de 1 e 10 ml;
+» recipiente de vidro ou metal, fundo e de boca larga, para descarte de material a ser
+descontaminado por autoclave e lavado;
+» bandeja de polipropileno com furos para a circulação do ar e incubação dos tubos
+semeados. De preferência, uma bandeja para cada conjunto de tubos de uma mes-
+ma amostra;
+» saco plástico autoclavável para acondicionamento dos recipientes de descarte;
+» para cada amostra: seis tubos de meios LJ sem fármaco e dois tubos de meios LJ com
+os fármacos (isoniazida, rifampicina, etambutol, estreptomicina) e um tubo para a
+TCH e o PNB;
+» cepas de referência para CQ do TS (cepa sensível e cepa resistente): sugerimos que
+essas cepas sejam preparadas com as amostras a serem testadas. O CIQ do TS está
+descrito no item 9.7 desse capítulo; e
+» escala 1 de McFarland.
+Realizar os procedimentos de 1 a 3 fora da CSB
+1. Identificar o número da cultura no tubo de ensaio com pérolas, para a suspensão bacteriana.
+2. Identificar a diluição e o número da cultura nos tubos de ensaio para as diluições, de
+acordo com o seguinte: para cada amostra para as cepas controle: tubos 10-1, 10-2, 10-3,
+10-4, 10-5 e 10-6.
+3. Identificar o número da cultura nos tubos de meios LJ sem e com fármaco para a semea-
+dura do TS, de acordo com o seguinte (para cada amostra):
+a. 1ª série, rotulados 10-3: dois tubos de meio LJ sem fármaco (controle), os demais tubos
+de meio LJ contendo cada um o fármaco correspondente;
+b. 2ª série, rotulados 10-5: dois tubos de meio LJ sem fármaco (controle), os demais tubos
+de meio LJ contendo cada um o fármaco correspondente; e
+c. 3ª série, rotulados 10-6: dois tubos de meio LJ sem fármaco (controle).
+Observação: a diluição 10-6 nem sempre utilizada facilita a leitura do TS quando o
+inóculo estiver muito turvo (espesso) e a contagem das colônias ficou prejudicada
+nas outras diluições.
+4. Preparar a CSB conforme descrito no capítulo 13.
+Realizar os procedimentos de 4 a 5 dentro da CSB
+5. Organizar os materiais que serão utilizados em um dos lados da bancada da CSB e colocar
+os recipientes de descarte, conforme descrito no capítulo 3.
+6. Forrar a bandeja de metal com papel-absorvente e colocá-la na bancada da CSB à sua frente.
+7. Para acompanhar a realização do teste indireto do método das proporções em LJ, obser-
+var o item A do Anexo C desse capítulo.
+Etapa 1 – Suspensão bacteriana (inóculo)
+Realizar os procedimentos de 1 a 5 dentro da CSB
+1. Transferir, com alça bacteriológica descartável estéril, o maior número possível de colônias
+de uma cultura em meio sólido para um tubo de ensaio com pérolas e 0,5 ml de água
+destilada estéril.
+2. Homogeneizar em agitador mecânico por 20 a 30 segundos.
+3. Manter em repouso por dez minutos.
+4. Acrescentar aproximadamente 2 ml de água destilada estéril.
+5. Deixar em repouso por dez minutos para sedimentar as partículas maiores.
+Etapa 2 – Diluições seriadas
+Realizar os procedimentos de 6 a 11 dentro da CSB
+6. Ajustar a turbidez de cada suspensão com a turbidez da escala 1 de McFarland utilizando
+água destilada estéril, gota a gota.
+7. A partir dessa suspensão padronizada, efetuar seis novas diluições em escala decimal.
+8. Colocar 9 ml de água destilada estéril em cada um dos tubos.
+9. Transferir 1 ml da suspensão-padrão para o tubo 10-1; depois, agitar no agitador mecânico.
+10. Trocar a pipeta e seguir as diluições, transferindo 1 ml para o tubo 10-2, e assim sucessiva-
+mente até o tubo 10-6. Para cada diluição utilizar novas pipetas estéreis.
+11. As diluições 10-3 (1/1.000), 10-5 (1/100.000) e 10-6 (1/1.000.000) serão as diluições semeadas
+nos meios LJ com e sem fármaco.
+Etapa 3 – Semeadura nos meios de cultura
+Realizar os procedimentos de 12 a 13 dentro da CSB
+12. Inocular 0,1 ml das diluições 10-3, 10-5 em cada tubo de meio de cultura com fármaco e sem
+fármaco, já identificado e 0,1 ml da diluição 10-6 em dois tubos de meio LJ sem fármaco.
+Trocar a pipeta para semear cada diluição.
+13. Fechar os tubos de meio de cultura, sem rosquear a tampa até o fim, e colocá-los na
+estante.
+Realizar os procedimentos de 14 a 15 fora da CSB
+14. Retirar os tubos de meios de cultura semeados da estante e movimentar cada um deles
+colônias separadas para a contagem.
+15. Acondicionar os tubos de meios inoculados em bandeja de polipropileno, inclinados de
+voltada para cima. Cuidar para que os tubos não rolem, pois isso propicia crescimento nas
+bordas do meio de cultura impossibilitando a contagem das colônias.
+9 TESTE DE SENSIBILIDADE
+16. Incubar em estufa bacteriológica a 36°C ± 1°C por 48 horas e, após esse período, fechar as
+tampas completamente (somente quando o inóculo tiver sido absorvido totalmente); se
+ainda permanecer úmido manter a tampa frouxa por mais 24 ou 48 horas.
+17. Realizar a limpeza, a descontaminação da bancada e o descarte do material contaminado,
+conforme descrito no capítulo 3.
+» Método das proporções em LJ – teste direto
+pelo método da baciloscopia, cujo objetivo é abreviar o tempo do diagnóstico, principal-
+mente nos casos de paciente com falência de tratamento, cujas amostras de escarro têm
+grande número de bacilos. Quando o resultado não for conclusivo, repete-se o teste.
+de EPI adequados, conforme descrito no capítulo 3.
+Observação: os procedimentos de fluidificação e descontaminação do escarro seguem os
+descritos no capítulo 7.
+Equipamentos:
+» CSB.
+» agitador mecânico;
+» estufa bacteriológica a 36°C ± 1°C; e
+» pipetador automático ou manual.
+Reagentes:
+» água destilada estéril;
+» solução de álcool a 70%;
+» NaClO a 2%; e
+» solução de fenol a 5%.
+Insumos:
+» papel-absorvente (papel de filtro ou papel-toalha) para forrar a bancada;
+» gaze estéril em pedaços;
+» estante para os tubos de ensaio estéril 20 x 150 mm;
+» alça bacteriológica descartável e estéril;
+» tubos de ensaio 20 x 150 mm para as diluições;
+» pipetas estéreis de 1 e 10 ml;
+» recipiente de vidro ou metal, fundo e de boca larga, para descarte de material a ser
+autoclavado e lavado;
+» bandeja de polipropileno com furos para a circulação do ar, para incubação dos
+tubos semeados. De preferência, uma bandeja para cada conjunto de tubos de uma
+mesma amostra;
+» saco plástico autoclavável para acondicionamento dos recipientes de descarte; e
+» para cada amostra: controles: seis tubos de meios LJ sem fármaco. Testes: uma bate-
+bateria de um tubo de meio LJ para os fármacos TCH e PNB.
+capítulo 6. O Quadro 37 mostra as diluições a serem realizadas e semeadas nos meios LJ
+com e sem fármaco, conforme o número de cruzes da baciloscopia.
+Quadro 37 – Diluições semeadas de acordo com o resultado da baciloscopia
+(+) Não diluído, 10-2 e 10-3 Não diluído e 10-2
+(++) 10-1, 10-3 e 10-4 10-1 e 10-3
+(+++) 10-2, 10-4 e 10-5 10-2 e 10-4
+Fonte: Autoria própria.
+Realizar a baciloscopia de cada escarro conforme descrito no capítulo 6 para conhecer o
+resultado. Realizar também a etapa da fluidificação e descontaminação, conforme descri-
+to no capítulo 7, e utilizar o sedimento.
+Realizar os procedimentos 1 e 2 fora da CSB
+1. Identificar o número da cultura nos tubos de ensaio para as diluições, de acordo com o
+seguinte:
+a. escarro (+): 10-1; 10-2; 10-3;
+b. escarro (++): 10-1; 10-2; 10-3; 10-4; e
+c. escarro (+++): 10-1; 10-2; 10-3; 10-4; 10-5.
+2. Identificar o número da cultura nos tubos de meios LJ sem e com fármaco para a semea-
+dura do TS, de acordo com o seguinte (para cada amostra):
+a. escarro (+): seis tubos controles (meios LJ sem fármaco): dois tubos para semear o
+sedimento não diluído e dois tubos para cada uma das diluições 10-2 e 10-3. Testes
+(meio LJ com fármaco): uma bateria contendo um tubo de meio LJ para cada um
+dos fármacos (isoniazida, rifampicina, etambutol, estreptomicina, TCH e PNB) para
+semear o sedimento não diluído e outra bateria (isoniazida, rifampicina, etambutol e
+estreptomicina) para semear a diluição 10-2;
+9 TESTE DE SENSIBILIDADE
+b. escarro (++): seis tubos controles (meio LJ sem fármaco): dois tubos para semear cada
+uma das diluições 10-1, 10-3 e 10-4. Testes (meio LJ com fármaco): uma bateria contendo
+um tubo de meios LJ para cada um dos fármacos (isoniazida, rifampicina, etambutol,
+estreptomicina, TCH e PNB) para semear a diluição 10-1 e outra bateria (isoniazida,
+rifampicina, etambutol e estreptomicina) para semear a diluição 10-3; e
+c. Escarro (+++): seis tubos controles (meio LJ sem fármaco): dois tubos para semear cada
+uma das diluições 10-2, 10-4 e 10-5. Testes (meio LJ com fármacos): uma bateria contendo
+um tubo de meio LJ para cada um dos fármacos (isoniazida, rifampicina, etambutol,
+estreptomicina, TCH e PNB) para semear a diluição 10-2 e outra bateria (isoniazida,
+rifampicina, etambutol e estreptomicina) para semear a diluição 10-4.
+Realizar os procedimentos 3 e 4 dentro da CSB
+3. Organizar os materiais que serão utilizados em um dos lados da bancada da CSB e colocar
+os recipientes de descarte, conforme descrito no capítulo 3.
+4. Forrar a bandeja de metal com papel-absorvente e colocá-la na bancada da CSB à sua
+frente.
+Observação: para acompanhar a realização do teste direto do método das proporções em
+LJ, observar o item B do Anexo C desse capítulo.
+Realizar os procedimentos de 5 a 10 dentro da CSB
+Escarro (+)
+5. Colocar 9 ml de água destilada estéril nos tubos de ensaio já identificados para fazer as
+diluições de acordo com o item 1 (10-1 a 10-3).
+6. Transferir 1 ml do sedimento tratado não diluído para o tubo 10-1 e misturar bem. Trocar a
+pipeta e transferir 1 ml para o tubo 10-2 e assim sucessivamente até o tubo 10-3. Para cada
+diluição utilizar novas pipetas estéreis.
+7. Inocular 0,1 ml do sedimento tratado não diluído nos tubos LJ controle e nos tubos de
+meio LJ com fármacos (isoniazida, rifampicina, etambutol, estreptomicina, TCH, PNB)
+correspondentes.
+8. Inocular 0,1 ml da diluição 10-2 nos tubos LJ controle e nos tubos de meio LJ com fármacos
+(isoniazida, rifampicina, etambutol e estreptomicina) correspondentes.
+9. Inocular 0,1 ml da diluição 10-3 nos tubos LJ controle correspondentes.
+10. Fechar os tubos de meio de cultura, sem rosquear a tampa até o fim, e colocá-los na
+estante.
+Escarro (++)
+5. Colocar 9 ml de água destilada estéril nos tubos de ensaio já identificados para fazer as
+diluições, de acordo com o item 1 (10-1 a 10-4).
+6. Transferir 1 ml do sedimento tratado para o tubo 10-1 e misturar bem. Trocar a pipeta e
+transferir 1 ml para o tubo 10-2 e assim sucessivamente até o tubo 10-4. Para cada diluição
+utilizar novas pipetas estéreis.
+7. Inocular 0,1 ml do da diluição 10-1 nos tubos LJ controle e nos tubos de meio LJ com
+fármacos (isoniazida, rifampicina, etambutol, estreptomicina, TCH, PNB) correspondentes.
+8. Inocular 0,1 ml da diluição 10-3 nos tubos LJ controle e nos tubos de meio LJ com fármaco
+(isoniazida, rifampicina, etambutol e estreptomicina) correspondentes.
+9. Inocular 0,1 ml da diluição 10-4 nos tubos LJ controle correspondentes.
+10. Fechar os tubos de meio de cultura, sem rosquear a tampa até o fim, e colocá-los na
+estante.
+Escarro (+++)
+5. Colocar 9 ml de água destilada estéril nos tubos de ensaio já identificados para fazer as
+diluições, de acordo com o item 1 (10-1 a 10-5).
+6. Transferir 1 ml do sedimento tratado para o tubo 10-1 e misturar bem. Trocar a pipeta e
+transferir 1 ml para o tubo 10-2 e assim sucessivamente até o tubo 10-5. Para cada diluição
+utilizar novas pipetas estéreis.
+7. Inocular 0,1 ml da diluição 10-2 nos tubos LJ controle e nos tubos de meio LJ com fármaco
+(isoniazida, rifampicina, etambutol, estreptomicina, TCH, PNB) correspondentes.
+8. Inocular 0,1 ml da diluição 10-4 nos tubos LJ controle e nos tubos de meio LJ com fármaco
+(isoniazida, rifampicina, etambutol, estreptomicina) correspondentes.
+9. Inocular 0,1 ml da diluição 10-5 nos tubos LJ controle correspondentes.
+10. Fechar os tubos de meio de cultura, sem rosquear a tampa até o fim, e colocá-los na
+estante.
+Realizar os procedimentos de 11 a 14 fora da CSB
+Os procedimentos de 11 a 14 são válidos para as três situações de escarro:
+11. Retirar os tubos de meios de cultura semeados da estante e movimentar cada um deles
+colônias separadas para a contagem.
+12. Acondicionar os tubos de meios inoculados em bandeja de polipropileno, inclinados de
+voltada para cima. Cuidar para que os tubos não rolem, pois isso propicia crescimento nas
+bordas do meio de cultura, impossibilitando a contagem das colônias.
+13. Incubar em estufa bacteriológica a 36°C ± 1°C por 48 horas e, após esse período, fechar as
+tampas completamente (somente se o inóculo estiver sido absorvido totalmente); se ainda
+permanecer úmido manter a tampa frouxa por mais 24 ou 48 horas.
+14. Realizar a limpeza, a descontaminação da bancada e o descarte do material contaminado,
+conforme descrito no capítulo 3.
+9.4.1.1.2 Incubação do TS em meio LJ
+contaminação, em torno de 48 horas, fechar bem as tampas dos tubos e deixar incubando
+na estufa bacteriológica a 36°C ± 1°C.
+9 TESTE DE SENSIBILIDADE
+9.4.1.1.3 Leitura e interpretação do TS em meio LJ
+simultaneamente:
+I. crescimento suficiente (mais de 100 colônias) no tubo controle (LJ sem fármaco) semeado
+com a diluição mais concentrada (10-3), para que seja possível detectar mutantes resisten-
+tes que estejam em menor porcentagem (cerca de 1%) entre os bacilos inoculados;
+II. colônias separadas e contáveis no tubo controle (LJ sem fármaco) semeado com a diluição
+menos concentrada (10-5). Essa condição é indispensável quando aparecem colônias resis-
+tentes cuja proporção deve ser determinada (cálculo da porcentagem); e
+III. boa correlação entre o número de colônias desenvolvidas em cada um dos meios se-
+meados com as suspensões, de acordo com o fator de diluição aplicado, para que sejam
+válidas as quantificações que se aplicam com base na série de diluições.
+Com 28 dias de incubação, fazer a primeira leitura e observar se houve desenvolvimento
+de colônias suficiente para interpretar os resultados, sendo que a maioria dos isolados
+bacterianos resistentes à isoniazida e à rifampicina (mais de 95%) pode ser detectada
+nesse período. Se houver crescimento de bacilos nos meios com resistência e número de
+colônias suficiente para interpretar o resultado, ele pode ser emitido nesse período. Se
+não houver crescimento no meio com os fármacos (os bacilos são sensíveis), aguardar a
+segunda leitura ao final de 42 dias. Essa precaução é para assegurar o aparecimento tardio
+de colônias mutantes resistentes.29
+A leitura dos tubos semeados deve ser realizada em bancada bem iluminada, próxima à
+janela ou com foco de luz próximo (luminária). Se possível, utilizar lupa para melhorar a
+visualização das colônias pequenas.
+Para acompanhar a leitura, observar o fluxograma de leitura e interpretação dos resulta-
+dos do TS em LJ descritos no item C do Anexo C deste capítulo.
+Para que os cálculos sejam válidos, as diluições devem ser realizadas com suspensões
+homogêneas e com muita precisão, trocando as pipetas toda vez que passar de uma
+suspensão concentrada para outra mais diluída, e que o volume semeado em cada tubo
+seja exatamente o mesmo.
+1. Quantificar o inóculo contando e fazendo a média das colônias desenvolvidas nos tubos
+de meio LJ controle (sem fármaco). Se o número de colônias da diluição 10-3 for incontável,
+deve-se contar o número de colônias da diluição 10-5 ou 10-6, de maneira que seja possível
+contar colônias separadas.
+2. Fazer a média entre os tubos da mesma diluição. A partir dessa média, pode-se inferir o
+número de UFC desenvolvidas nos controles semeados com diluições mais concentradas,
+multiplicando pelo fator de diluição correspondente.
+3. Quantificar o número de UFC nos tubos contendo cada um dos fármacos. Da mesma ma-
+neira, procurar o tubo onde as colônias estejam separadas e contáveis.
+4. Calcular a porcentagem de UFC desenvolvidas na presença de cada fármaco com relação
+à média de UFC dos tubos controles. Se essa proporção for maior do que 1%, o isolado
+bacteriano deve ser considerado resistente ao fármaco em questão. Se a proporção for
+menor do que 1%, o isolado bacteriano deve ser considerado sensível.
+» Exemplo: leitura do TS:
+10-3 Incontáveis Incontáveis Incontáveis Incontáveis 1 0
+10-5 6 3 2 3 0 0
+Tubos controle:
+10-3 = incontáveis
+10-5 =
+6+3
+𝑚𝑚é𝑑𝑑𝑑𝑑𝑑𝑑=
+Pode-se inferir que na diluição 10-3 tem 450 UFC.
+𝑚𝑚é𝑑𝑑𝑑𝑑𝑑𝑑 = 4,5 𝑈𝑈𝑈𝑈𝑈𝑈
+Tubo isoniazida:
+10-3 = incontáveis
+10-5 = 2 UFC
+Fazendo a proporção (regra de três):
+4,5 100% 2 𝑥𝑥
+Sendo a proporção crítica para a isoniazida = 1%, o isolado bacteriano com 44% é
+resisten𝑥𝑥te=. 44%
+Tubo rifampicina:
+10-3= incontáveis
+10-5= 3 UFC
+Fazendo a proporção (regra de três):
+4,5 100% 3 𝑥𝑥
+Sendo a proporção crítica para a rifampicina =1%, o isolado bacteriano com 67% é
+resisten𝑥𝑥te=. 67%
+Tubo estreptomicina:
+10-3 = 1 UFC e
+10-5 = nenhuma
+A leitura é feita na diluição 10-3
+Fazendo a proporção (regra de três):
+450 100% 1 𝑥𝑥
+9 TESTE DE SENSIBILIDADE
+Sendo a proporção crítica para a estreptomicina = 1%, o isolado bacteriano é sensível.
+𝑥𝑥 = 0,2%
+Tubo etambutol:
+10-3 e 10-5= nenhuma
+O isolado bacteriano é sensível.
+9.4.1.2 Método da redução do nitrato (nitratase) em LJ34
+Trata-se de um método baseado na capacidade do M. tuberculosis em reduzir o nitrato
+(NO -), presente no meio de cultura, em nitrito (NO -), pela ação da enzima nitrato-reduta-
+3 2
+se, cuja detecção é realizada por meio de uma reação colorimétrica, realizado em isolados
+ou diretamente do escarro.
+Realizar os procedimentos utilizando os cuidados de biossegurança, como as BPL e o uso
+de EPI adequados, conforme descrito no capítulo 3.
+Equipamentos:
+» CSB.
+» agitador mecânico;
+» estufa bacteriológica a 36°C ± 1°C; e
+» pipetador automático ou manual.
+Reagentes:
+» meio LJ com 1 mg/ml de KNO ;
+» fármacos (isoniazida, rifampicina, etambutol e estreptomicina); e
+» água destilada estéril.
+Insumos:
+» papel-absorvente (papel de filtro ou papel-toalha) para forrar a bancada;
+» gaze estéril em pedaços;
+» estante para os tubos de ensaio estéril 20 x 150 mm;
+» alça bacteriológica descartável e estéril;
+» tubos de ensaio 20 x 150 mm para as diluições;
+» pipetas estéreis de 1 e 10 ml;
+» recipiente de vidro ou metal, fundo e de boca larga, para descarte de material a ser
+autoclavado e lavado;
+» bandeja de polipropileno com furos para a circulação do ar, para incubação dos
+tubos semeados. De preferência, uma bandeja para cada conjunto de tubos de uma
+mesma amostra;
+» saco plástico autoclavável para acondicionamento dos recipientes de descarte; e
+» para cada amostra:
+› controles: três tubos de meios LJ sem fármaco.
+› testes: um tubo para cada um dos fármacos de primeira linha.
+No dia da preparação do lote de meio com fármacos, a solução de uso de cada um é
+preparada a partir da solução estoque, que, caso não seja utilizada no dia, deverá ser
+desprezada. É importante garantir a precisão das diluições da solução de uso utilizando
+pipetas graduadas e de volume compatível com o desejado, além de ter o cuidado de
+sempre trocar de pipeta depois de transferir o volume necessário para o tubo seguinte,
+antes de homogeneizar. Para incorporação no meio LJ, cada fármaco requer uma maneira
+diferente de preparo, com uma, duas ou sem diluições.
+O Quadro 38 resume as concentrações de cada fármaco, a quantidade a ser incorporada
+ao meio de cultura e a concentração final.
+Quadro 38 – Preparação do fármaco para incorporar ao meio LJ
+ÚLTIMA DILUIÇÃO 200 mL DE MEIO MEIO (µg/ml)
+(10 .000 µg/ml) REALIZAR
+(µg/ml) LJ (ml)
+Isoniazida destilada Duas 1:10 100 0,4 0,2
+Rifampicina Metanol Nenhuma 10.000 0,8 40
+Etambutol destilada Uma 1:10 1.000 0,4 2
+Estreptomicina destilada Nenhuma 10.000 10 500
+Fonte: Autoria própria.
+LJ: Löwenstein-Jensen.
+de uso de cada medicamento e os reagentes do método nitratase.
+Etapa 1 – Suspensão bacteriana (inóculo)
+Realizar os procedimentos de 1 a 5 dentro da CSB
+9 TESTE DE SENSIBILIDADE
+1. Transferir, com alça bacteriológica descartável estéril, o maior número possível de colônias
+de uma cultura em meio sólido para um tubo de ensaio com pérolas e 0,5 ml de água
+destilada estéril.
+2. Homogeneizar em agitador mecânico por 20 a 30 segundos.
+3. Manter em repouso por dez minutos.
+4. Acrescentar aproximadamente 2 ml de água destilada estéril.
+5. Deixar em repouso por dez minutos para sedimentar as partículas maiores.
+Etapa 2 – Diluições seriadas
+Realizar os procedimentos de 6 a 11 e 14 dentro da CSB
+6. Ajustar a turbidez de cada suspensão com a turbidez da escala 1 de McFarland utilizando
+água destilada estéril, gota a gota.
+7. A partir dessa suspensão padronizada, efetuar uma diluição 1:10 em água destilada estéril.
+Etapa 3 – Semeadura nos meios de cultura
+8. Inocular 0,2 ml da diluição 1:10 em cada um dos três tubos de meio de cultura sem fárma-
+co, já identificados, e 0,2 ml da suspensão não diluída nos tubos de meio de cultura com
+fármacos. Trocar a pipeta para semear cada diluição.
+9. Fechar os tubos de meio de cultura, sem rosquear a tampa até o fim, e colocá-los na
+estante.
+10. Retirar os tubos de meios de cultura semeados da estante e movimentar cada um deles
+colônias separadas para a contagem.
+11. Acondicionar os tubos de meios inoculados em bandeja de polipropileno, inclinados de
+voltada para cima. Cuidar para que os tubos não rolem, pois isso propicia crescimento nas
+bordas do meio de cultura, impossibilitando a contagem das colônias.
+12. Incubar em estufa bacteriológica a 36°C ± 1°C por sete dias. Após 48 horas de incubação,
+fechar as tampas completamente (somente quando o inóculo tiver sido absorvido total-
+mente); se ainda permanecer úmido manter a tampa frouxa por mais 24 ou 48 horas.
+13. Realizar a limpeza, a descontaminação da bancada e o descarte do material contaminado,
+conforme descrito no capítulo 3.
+14. Após sete dias, adicionar 0,5 ml do reagente de revelação A em um dos tubos controle:
+a. se ocorrer alteração de cor, adicionar o reagente A nos tubos com fármacos; ou
+b. se não ocorrer mudança de cor, descartar esse tubo e reincubar os restantes. Esse pro-
+cedimento será repetido no dia 10, usando o segundo tubo controle, e, se necessário,
+também no dia 14, usando o terceiro tubo controle.
+do que a do tubo controle.
+9.4.1.3 Método da redução do nitrato (nitratase) em escarro
+Realizar os procedimentos utilizando os cuidados de biossegurança, como as BPL e o uso
+de EPI adequados, conforme descrito no capítulo 3.
+Petroff, conforme descrito no capítulo 7. A baciloscopia será feita a partir do centrifuga-
+do feito para a cultura. A coloração será feita pelo método de Ziehl-Neelsen, conforme
+capítulo 6.
+Equipamentos:
+» CSB;
+» agitador mecânico;
+» estufa bacteriológica a 36°C ± 1°C; e
+» pipetador automático ou manual.
+Reagentes:
+» meio LJ com 1 mg/ml de KNO ;
+» fármacos (isoniazida, rifampicina, etambutol e estreptomicina); e
+» água destilada estéril.
+Insumos:
+» papel-absorvente (papel de filtro ou papel-toalha) para forrar a bancada;
+» gaze estéril em pedaços;
+» estante para os tubos de ensaio estéril 20 x 150 mm;
+» alça bacteriológica descartável e estéril;
+» tubos de ensaio 20 x 150 mm para as diluições;
+» pipetas estéreis de 1 e 10 ml;
+» recipiente de vidro ou metal, fundo e de boca larga, para descarte de material a ser
+autoclavado e lavado;
+» bandeja de polipropileno com furos para a circulação do ar, para incubação dos
+tubos semeados. De preferência, uma bandeja para cada conjunto de tubos de uma
+mesma amostra;
+» saco plástico autoclavável para acondicionamento dos recipientes de descarte; e
+» para cada amostra:
+› controles: três tubos de meios LJ sem fármaco; e
+› testes: um tubo para cada um dos fármacos de primeira linha.
+9 TESTE DE SENSIBILIDADE
+capítulo 6. O Quadro 39 mostra as diluições a serem realizadas e semeadas nos meios LJ
+com e sem fármaco, conforme o número de cruzes da baciloscopia.
+Quadro 39 – Diluições semeadas de acordo com a baciloscopia
+(+) Não diluído, 10-2 e 10-3 Não diluído e 10-2
+(++) 10-1, 10-3 e 10-4 10-1 e 10-3
+(+++) 10-2, 10-4 e 10-5 10-2 e 10-4
+Fonte: Autoria própria.
+LJ: Löwenstein-Jensen.
+No dia de preparação do lote de meio com fármacos, a solução de uso de cada um é
+preparada a partir da solução estoque, que, caso não seja utilizada no dia, deverá ser
+posteriormente desprezada.
+É importante garantir a precisão das diluições da solução de uso utilizando pipetas gra-
+duadas e de volume compatível com o desejado, além de ter o cuidado de sempre trocar
+de pipeta depois de transferir o volume necessário para o tubo seguinte, antes de homo-
+geneizar. Para incorporação no meio LJ, cada fármaco requer uma maneira diferente de
+preparo, com uma, duas ou sem diluições.
+O Quadro 40 resume as concentrações de cada fármaco, a quantidade a ser incorporada
+ao meio de cultura e a concentração final.
+Quadro 40 – Preparação do fármaco para incorporar ao meio LJ
+(10 .000 µg/ ÚLTIMA DILUIÇÃO EM 200 ml DE MEIO (µg/ml)
+ml) (µg/ml) MEIO LJ (ml)
+Rifampicina Metanol Nenhuma 10.000 0,8 40
+Fonte: Autoria própria.
+LJ: Löwenstein-Jensen.
+Nos anexos desse capítulo estão descritas a preparação das soluções estoques, soluções de
+uso e reagentes do método nitratase.
+Realizar os procedimentos de 1 a 3 dentro da CSB
+1. Após confirmada a descontaminação do escarro pelo método Petroff, diluir uma parte do
+sedimento em água destilada 1:10.
+2. Semear 0,2 ml do sedimento descontaminado em cada um dos três tubos de meio de
+cultura sem fármaco, já identificados, e 0,2 ml da suspensão não diluída em um tubo de
+meio de cultura com fármaco. Trocar a pipeta para semear cada diluição.
+3. Fechar os tubos, sem rosquear a tampa até o fim, e colocá-los na estante.
+Realizar os procedimentos de 4 a 7 fora da CSB
+4. Retirar os tubos de meios de cultura semeados da estante e movimentar cada um deles
+colônias separadas para a contagem.
+5. Acondicionar os tubos de meios inoculados em bandeja de polipropileno, inclinados de
+voltada para cima. Cuidar para que os tubos não rolem, pois isso propicia crescimento nas
+bordas do meio de cultura, impossibilitando a contagem das colônias.
+6. Incubar em estufa bacteriológica a 36°C ± 1°C por dez dias. Após 48 horas de incubação,
+fechar as tampas completamente (somente quando o inóculo tiver sido absorvido total-
+mente); se ainda permanecer úmido manter a tampa frouxa por mais 24 ou 48 horas.
+7. Realizar a limpeza, a descontaminação da bancada e o descarte do material contaminado
+conforme descrito no capítulo 3.
+8. Após dez dias, adicionar 0,5 ml do reagente de revelação A em um dos tubos controle.
+9. Se aparecer a cor, revelar, da mesma maneira, o tubo com droga:
+a. tubo controle (+) e tubo com fármaco (+): resistência à rifampicina; e
+b. tubo controle (+) e tubo com fármaco (–): incubar novamente os tubos e no 20º dia
+fazer a revelação do segundo tubo com fármaco droga e um outro tubo controle:
+i. após os 20 dias de incubação – tubo controle (+) e tubo com droga (+) = cepa
+resistente à rifampicina; e
+ii. após os 20 dias de incubação – tubo controle (+) e tubo com droga (-) = cepa
+sensível à rifampicina.
+10. Se não houver mudança de cor, descartar o tubo e reincubar os outros. Esse procedimento
+será repetido no dia 15º dia de incubação usando o segundo tubo controle, e, se necessá-
+rio, também no dia 20º dia usando o terceiro tubo controle.
+9.4.1.4 Sistemas comerciais automatizados de TS
+Um dos sistemas automatizados comercializados (BD BACTEC™ MGIT™) utiliza tubos de
+cultura que contêm no fundo um composto fluorescente, embebido em silicone, que é
+sensível à presença do oxigênio dissolvido no meio. Quando o microrganismo cresce no
+meio de cultura e consome o oxigênio do meio ocasiona a emissão da fluorescência, que
+é detectada pelo leitor do equipamento. As leituras da fluorescência são realizadas de
+maneira contínua e simultânea a cada 60 minutos.
+O TS para M. tuberculosis pode ser realizado a partir de culturas em meios sólidos ou líquidos
+para os seguintes fármacos: estreptomicina, isoniazida, rifampicina e etambutol (Kit SIRE).
+Os resultados são interpretados e liberados automaticamente entre 4 e 42 dias. O teste
+é baseado no crescimento de M. tuberculosis em tubos contendo cada fármaco, sendo
+9 TESTE DE SENSIBILIDADE
+comparado ao tubo sem fármaco (controle de crescimento). A análise da fluorescência no
+que determina os resultados dos TS, sendo realizados automaticamente pelo equipamen-
+to. Após essa análise, ele interpreta os resultados utilizando algoritmo específico e libera
+o TS como S (sensível) ou R (resistente).
+Esses sistemas comerciais seguem o mesmo princípio do método das proporções, utilizando
+resistentes.
+A seguir serão descritas as etapas para a realização do TS no sistema automatizado atual-
+mente comercializado no Brasil.35
+9.4.1.4.1 Procedimentos do TS em sistema automatizado
+de EPI adequados, conforme descrito no Capítulo 3.
+Observação: o preparo de criotubos com miçangas e meio líquido Sauton (ou Middlebrook
+7H9 com OADC) com 10% de glicerol para manutenção dos isolados bacterianos está
+descrito no capítulo 11.
+Equipamentos:
+» CSB classe II B2;
+» equipamento automatizado BACTEC™ MGIT™;
+» estufa bacteriológica a 36°C ± 1°C;
+» freezer -20°C;
+» freezer -70°C;
+» refrigerador;
+» micropipeta automática com capacidade de 10 a 100 µl; e
+» micropipeta automática com capacidade de 100 a 1.000 µl.
+Reagentes:
+» água destilada estéril;
+» solução de álcool a 70%;
+» solução de fenol a 5%; e
+» escala 1 de McFarland.
+Vidrarias:
+» frasco 1: frasco de vidro transparente contendo pérolas de vidro, com capacidade
+de 5 ml ou mais, com tampa de rosca e autoclavável ou resistentes à esterilização
+em forno a 160°C a 180°C por duas horas;
+» frasco 2: tubo de ensaio de 12 x 120 mm de vidro transparente;
+» frasco 3: frascos de vidro transparente, com capacidade de 7 ml ou mais, com tampa
+de rosca e autoclavável ou resistentes à esterilização em forno a 160°C a 180°C por
+duas horas; e
+» frasco 4: frascos com capacidade de 15 ml ou mais, com tampa de rosca e autoclavá-
+vel ou resistentes à esterilização em forno a 160°C a 180°C por duas horas.
+Insumos:
+» papel-absorvente (papel de filtro ou papel-toalha) para forrar a bancada;
+» bandejas quadriculadas de alumínio;
+» estantes de metal;
+» estantes de acrílico compatíveis com o equipamento (AST Set Carrier);
+» estante de metal para transporte das estantes AST;
+» canetas para marcar vidro, com ponta fina e comum;
+» alça bacteriológica descartável estéril;
+» criotubos com seis miçangas estéreis;
+» tubo 12 x 120 mm com tampa de silicone estéril;
+» frasco de vidro com tampa de rosca, capacidade para cerca de 10 ml;
+» frasco de vidro com tampa de rosca, capacidade para cerca de 30 ml;
+» pipeta Pasteur descartável estéril;
+» dispensador com seringa plástica de volume específico;
+» ponteiras com capacidade de 10 a 100 µl;
+» ponteiras com capacidade de 100 a 1.000 µl;
+» gaze estéril em pedaços;
+» BD BBL™ MGIT™ – Tubo de meio de cultura com indicador do crescimento de mi-
+cobactérias (Tubo MGIT);
+» kit SIRE (S – estreptomicina, I – isoniazida, R – Rifampicina e E – etambutol):
+› BACTEC®:
+– estreptomicina (MGIT-S): 83 µg/ml;
+– isoniazida (MGIT-I): 8,3 µg/ml;
+– rifampicina (MGIT-R): 83 µg/ml;
+– etambutol (MGIT-E): 415 µg/ml; e
+– enriquecimento OADC.
+» tubo com meio de cultura com TSA ou similar;
+» solução estoque de PNB;
+» meio Sauton com 10% de glicerol;
+» enriquecimento OADC (para uso no tubo de meio com PNB);
+» lâmina para microscopia;
+» recipiente plástico de boca larga para o material ser autoclavado e descartado; e
+9 TESTE DE SENSIBILIDADE
+» saco plástico autoclavável para acondicionamento dos recipientes de descarte.
+Preparação dos meios:
+1. Adicionar 4 ml de água destilada estéril em cada frasco com os fármacos SIRE, conforme
+indicações do fornecedor.
+2. Assepticamente, utilizando uma micropipeta, adicionar 0,8 ml de suplemento SIRE em
+cada tubo MGIT (5 tubos para cada teste com os fármacos).
+3. Assepticamente, utilizando uma micropipeta, pipetar o volume indicado de cada fármaco
+(SIRE) em quatro tubos para cada teste.
+Observações: a concentração crítica de rifampicina é 0,5 µg/ml.
+4. Um tubo sem fármaco será usado como controle de crescimento bacteriano (CC) e deverá
+conter a identificação do isolado.
+5. Colocar os tubos no AST Set Carrier na seguinte sequência: CC, S, I, R, E e incubar no
+equipamento MGIT.
+Para preparo do meio com PNB 36:
+» Assepticamente, utilizando uma micropipeta, adicionar 0,8 ml de OADC em cada
+tubo MGIT (um tubo para cada teste). Assepticamente, utilizando uma micropipe-
+ta, pipetar 168 µl da solução estoque PNB (25 mg/ml) em cada tubo MGIT.
+9.4.1.4.2 Preparação do inóculo
+a. A partir de crescimento em meio líquido de MGIT.
+Conforme recomendações do fabricante.
+b. A partir de crescimento em meio líquido de MGIT após seis dias de positividade
+Protocolo modificado 37 (observar o item item E do Anexo C).
+1. Para os isolados em meio líquido, recepcionados nos laboratórios, aspirar com uma pipeta
+Pasteur aproximadamente 3 ml do sedimento e dispensar 2 ml no frasco 1, com pérolas de
+vidro e sem água, e 0,5 ml no criotubo com miçanga de vidro.
+2. No frasco 1, agitar vigorosamente até a obtenção de uma suspensão homogênea de
+bactérias.
+3. Deixar a suspensão em repouso por cinco minutos (para decantar).
+4. Com uma pipeta Pasteur, transferir cerca de 1 ml do sobrenadante para o frasco 2 (cuida-
+do para não misturar com o sedimento).
+5. Com a mesma pipeta, retirar todo o meio líquido do criotubo com miçanga de vidro.
+6. Com outra pipeta Pasteur ajustar a turbidez da suspensão para a escala 1 de McFarland,
+adicionando água destilada estéril, gota a gota.
+7. Com micropipeta, diluir 1 ml da suspensão acima em 4 ml de água destilada estéril, que
+deverá estar no frasco 3 (suspensão 1:5).
+8. Com micropipeta diluir 0,1 ml da suspensão 1:5 em 10 ml de água destilada estéril, que
+deverá estar no frasco 3 (suspensão 1:100).
+Observações: suspensão 1:5 = inóculo para uso nos meios com fármacos, no PNB e uma
+gota no TSA ou similar.
+Suspensão 1:100 = inóculo para uso no meio controle.
+c. A partir de crescimento em meio sólido
+Para acompanhar a preparação do inóculo a partir de crescimento em meio sólido, obser-
+var o item item F do Anexo C desse capítulo.
+Frasco 1 – para fazer a suspensão:
+» utilizar um frasco com tampa de rosca, com capacidade para cerca de 3 ml;
+» colocar aproximadamente seis pérolas de vidro;
+» esterilizar em estufa a 180°C por duas horas; e
+» distribuir, assepticamente, 2 ml de água destilada estéril com pipeta graduada, em
+cada um dos frasquinhos.
+Frasco 2 – para fazer a diluição 1/5:
+» utilizar um frasco com tampa de rosca, com capacidade para cerca de 10 ml;
+» esterilizar os frascos a 180°C por duas horas; e
+» assepticamente, distribuir 4 ml de água destilada estéril.
+Frasco 3 – para fazer a diluição 1/100:
+» utilizar um frasco com tampa de rosca, com capacidade para cerca de 30 ml;
+» esterilizar os frascos a 180°C por duas horas;
+» assepticamente, distribuir 10 ml de água destilada estéril;
+» bandeja: preparar uma bandeja de alumínio com divisões colocando um frasco 1,
+um frasco 2 e um criotubo contendo ou não miçangas (capítulo 11). Numerar todos
+os tubos com o número de cada isolado a ser testado. Para os criotubos marcar
+o número do isolado bacteriano no corpo e na tampa dos tubos, com etiqueta
+própria para congelamento; numerar o frasco 3 com os números de cada isolado
+bacteriano a ser testado – colocar os frascos 3 em bandeja separada; e
+» preparar uma listagem com o número dos isolados a serem testados.
+1. Colocar a estante com os isolados bacterianos, a bandeja de alumínio com divisões com
+um frasco 1, um frasco 2 e um criotubo contendo ou não miçanga (capítulo 11), e a ban-
+deja com os frascos 3 dentro da CSB.
+2. Com alça bacteriológica descartável estéril, retirar uma boa porção da massa bacteriana
+que está sobre o meio (buscar não retirar o meio). Procurar tocar em todas as colônias
+para ter uma boa representatividade da amostra.
+3. Abrir o frasco 1, colocar a alça sobre as pérolas e fazer uma suspensão homogênea de
+bactérias.
+9 TESTE DE SENSIBILIDADE
+4. Pegar mais massa bacilar com alça e fazer o mesmo no criotubo contendo ou não miçanga
+(capítulo 11).
+5. Descartar a alça no saco autoclavável.
+6. Repetir esse procedimento até que todas as suspensões dos isolados bacterianos e da cepa
+controle (M. tuberculosis H37Rv) estejam prontas.
+7. Deixar a suspensão em repouso por 15 minutos, para decantar as partículas maiores e
+evitar dispersão de aerossóis.
+8. Com uma pipeta Pasteur, retirar cerca de 1 ml do sobrenadante e gotejar pela parede do
+tubo, ajustando a turvação da suspensão com escala 1 de McFarland.
+9. Com a mesma pipeta, retirar todo o meio líquido do criotubo, se estiver usando o criotubo
+com miçangas; essa etapa não é realizada se estiver utilizando o criotubo sem miçangas.
+10. Realizar os procedimentos 8 e 9 para todas os isolados bacterianos, utilizando uma pipeta
+para cada isolado.
+11. Com micropipeta automática, diluir 1 ml da suspensão acima em 4 ml de água destilada
+estéril (frasco 2) – suspensão 1:5.
+12. Com micropipeta automática, diluir 0,1 ml da suspensão preparada no item 8, em 10 ml
+de água destilada estéril (frasco 3) – suspensão 1:100.
+Observações: Suspensão 1:5 = inóculo para uso nos meios com fármacos e no TSA.
+Suspensão 1:100 = Inóculo para uso no meio controle.
+13. Guardar os isolados bacterianos originais na geladeira até a liberação dos resultados dos testes.
+9.4.1.4.3 Preparação dos meios MGIT
+Para a preparação dos meios de cultura MGIT para TS utilizados no sistema automatizado,
+seguir as instruções do fabricante, consistindo em preparar um tubo de MGIT com PNB
+(opcional) e quatro tubos com os fármacos SIRE.
+a. Preparação do meio MGIT com PNB
+1. Assepticamente, adicionar 0,8 ml de OADC em cada tubo MGIT (um tubo para cada
+teste). Esse OADC não deve ser retirado do kit SIRE, pois esse kit é utilizado para o
+preparo dos meios com fármaco estreptomicina, isoniazida, rifampicina e etambutol.
+2. Assepticamente, utilizando uma micropipeta automática, pipetar 168 µl da solução
+estoque PNB em cada tubo MGIT.
+3. Marcar os tubos com o símbolo na cor padronizada pelo laboratório.
+Exemplo: símbolo – dois traços em X na cor preta.
+b. Preparação do meio MGIT com fármacos SIRE
+1. Para o preparo da solução estoque dos fármacos SIRE, adicionar 4 ml de água destilada
+estéril em cada frasco com os fármacos SIRE, conforme orientações do fornecedor.
+2. Assepticamente, adicionar 0,8 ml de suplemento SIRE (OADC) em cada tubo MGIT (5
+tubos para cada teste).
+3. Assepticamente, utilizando uma micropipeta automática, pipetar a quantidade indica-
+da de cada fármaco (SIRE) em cada tubo marcado (um tubo para cada fármaco).
+Observação: a concentração crítica de rifampicina para o MGIT é de 0,5 µg/ml.
+4. Marcar os tubos com o símbolo na cor padronizada pelo laboratório.
+Exemplo: símbolo = um traço inclinado, cores: vermelha = estreptomicina, preta =
+isoniazida, azul = rifampicina e verde = etambutol.
+5. Um tubo sem fármaco será usado como controle de crescimento bacteriano (CCB).
+9.4.1.4.4 Inoculação da suspensão bacteriana nos tubos
+Para acompanhar a inoculação da suspensão bacteriana, observar o item F do Anexo C
+desse capítulo.
+1. Colocar o tubo controle de crescimento e um tubo de cada fármaco em uma estante
+seguindo a ordem SIRE, o tubo de PNB e o de TSA.
+2. Identificar com o número do isolado bacteriano o tubo CC, o tubo PNB e tubo TSA.
+1. Inocular o tubo CC: com micropipeta automática, inocular 0,5 ml da suspensão 1:100 no
+tubo MGIT CC.
+2. Inocular os tubos contendo fármacos: com micropipeta automática, inocular 0,5 ml da
+suspensão 1:5 em cada um dos tubos contendo fármacos estreptomicina (S), isoniazida (I),
+rifampicina (R), etambutol (E) e ácido p-nitrobenzoico (PNB).
+3. Rosquear e homogeneizar bem cada um dos tubos, para não prejudicar a leitura.
+4. Inocular um tubo com TSA ou similar: com micropipeta automática inocular 0,5 ml da suspensão.
+5. Após a inoculação de todos os testes, realizar a limpeza, a descontaminação da CSB e da
+bancada e o descarte do material contaminado, conforme descrito no capítulo 3.
+9.4.1.4.5 Incubação no sistema automatizado
+1. Dispor cinco tubos (CC e SIRE) na estante AST Set Carrier, na seguinte sequência: (CC, S, I, R, E).
+2. Incubar sistema de incubação BACTEC™ MGIT™.
+3. Antes de incubar cada estante, verificar o número do isolado bacteriano e localizá-lo na
+listagem de cepas. Na coluna posição, anotar letra e números da gaveta na qual a estante
+será incubada.
+4. Após a incubação de todas as estantes repetir o procedimento para os tubos MGIT PNB.
+5. Antes de incubar cada tubo, verificar o número do isolado bacteriano e anotar a letra e o
+número da gaveta que o tubo será incubado.
+6. Após o término, aguardar cerca de dois minutos para verificar se ocorreu algum erro no
+momento da incubação.
+7. No caso de erro, acenderá o botão (!) da gaveta onde estiver o problema. Consultar o
+manual de instruções do instrumento BACTEC™ MGIT™.
+8. Incubar o tubo com TSA ou similar em estufa bacteriológica a 36°C ± 1°C. Verificar após
+48 horas. Se houver contaminação com outros microrganismos, anotar o resultado de
+contaminação.
+9 TESTE DE SENSIBILIDADE
+9.4.1.4.6 Leitura e registro dos resultados no sistema automatizado
+1. Verificar diariamente a indicação de resultados finalizados no equipamento BACTEC™
+MGIT™, que fornecerá os resultados de resistência ou sensibilidade dos fármacos a cada
+isolado bacteriano testado.
+2. Imprimir os resultados dos testes finalizados.
+3. Registrar o resultado para o Formulário de Leitura do TS Automatizado – MGIT (item C do
+Anexo B desse capítulo), para o registro de cultura e TS, e para o livro de registro, e liberar
+o resultado utilizando os laudos padronizados de cada laboratório.
+4. Antes da liberação dos resultados os laudos devem ser conferidos por duas pessoas quanto
+ao número da cultura, nome e resultado.
+5. Anotar os testes que apresentarem erro e tomar as providências devidas, descritas pelo
+fabricante.
+Discordância entre os resultados do TS – Entre o isolado bacteriano recebido anterior-
+mente e o isolado atual:
+a. repetir novamente o TS dos dois isolados e no caso de manter a discordância soltar o
+resultado com uma carta explicativa.
+1. Acompanhar o tubo PNB de acordo com o protocolo de leitura dos meios com fármaco,
+ou seja, resultado positivo ou erro. O teste com PNB finaliza e será interpretado como
+negativo três dias após a finalização de todos os TS.
+2. Anotar os resultados do PNB no livro de registro. Os testes PNB (+) serão concluídos após
+preparação de lâmina e confirmação da presença de BAAR ou outras bactérias:
+a. PNB negativo = isolado bacteriano identificado como do CMTB;
+b. PNB positivo: lâmina com presença de BAAR = provável MNT. Utilizar o isolado bacte-
+riano original e encaminhar para realizar a identificação de micobactérias; e
+c. PNB positivo: lâmina não BAAR = PNB contaminado. Verificar o resultado do meio de TSA:
+» se o meio de TSA tiver crescimentos de bactérias não BAAR, considerar o re-
+(contaminado) e liberar esse resultado finalizando o teste; e
+» se o TSA estiver negativo, a contaminação foi localizada no tubo do PNB;
+fazer lâmina do tubo controle e dos tubos com fármacos que estiverem (+). Se
+na lâmina o resultado for presença de BAAR sem contaminação, o teste pode
+seguir até a finalização.
+9.4.1.4.7 TS aos fármacos de 2ª linha no BACTEC™ MGIT™
+Ajuste da potência dos fármacos dos quais não possuam 100% dela, utilizando a seguinte
+fórmula:
+𝑐𝑐𝑃𝑃𝑐𝑐𝑐𝑐𝑃𝑃𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐çã𝑃𝑃 µ𝑚𝑚⁄𝑚𝑚𝑙𝑙 ×𝑣𝑣𝑃𝑃𝑙𝑙𝑣𝑣𝑚𝑚𝑃𝑃 𝑚𝑚𝑙𝑙
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑚𝑚𝑚𝑚 =
+𝑃𝑃𝑃𝑃𝑐𝑐ê𝑐𝑐𝑐𝑐𝑛𝑛𝑐𝑐 µ𝑚𝑚⁄𝑚𝑚𝑚𝑚
+𝑃𝑃𝑃𝑃𝑃𝑃ê𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛 = 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑛𝑛 ×𝑓𝑓𝑝𝑝𝑛𝑛çã𝑃𝑃 𝑛𝑛𝑃𝑃𝑛𝑛𝑎𝑎𝑛𝑛 × 1−𝑛𝑛𝑃𝑃𝑛𝑛𝑃𝑃𝑝𝑝ú𝑑𝑑𝑃𝑃 𝑑𝑑𝑝𝑝 á𝑔𝑔𝑝𝑝𝑛𝑛
+ATENÇÃO: para a obtenção da informação da potência de qualquer fármaco são ne-
+cessários o código e o lote do produto. Com essas informações em mãos, entrar no
+site do fabricante para a impressão do certificado de análise onde estará a informa-
+ção da potência.
+Fazer uma solução estoque de cada fármaco na concentração desejada e dissolver em 10
+ml de água destilada estéril ou outro diluente (Quadro 41). Alguns fármacos possuem
+potência inferior a 100%, por isso deve-se fazer o ajuste utilizando a fórmula anterior.
+1. Aliquotar em criotubos 500 µl a 1 ml.
+2. Armazenar a –20°C por seis meses.
+Quadro 41 – Solventes para o preparo das soluções de estoque, de trabalho e final dos
+Etionamida Dimetilsulfóxido (DMSO) ou etilenoglicol
+Levofloxacino ½ volume de água e ½ volume de NaOH 0,1 mol/L (gota a gota)
+Ácido β-aminossalicílico Água destilada estéril
+Rifampicina Dimetilsulfóxido (DMSO)
+Fonte: CLSI, Clinical and Laboratory Standards Institute.
+Pesagem, dissolução e diluição dos fármacos
+1. Concentração final por tubo = 1 µg/ml em 8,4 ml
+[7 ml de MGIT + 0,8 ml de OADC + 0,1 ml de fármaco + 0,5 ml do inóculo]
+2. Solução estoque: 8,4 mg/ml em 10 ml
+Exemplo: Potência 754 (Observação: entrar no site e imprimir o certificado de análise)
+9 TESTE DE SENSIBILIDADE
+3. Aplicar a fórmula:
+8.400 µ𝑚𝑚⁄𝑚𝑚𝑙𝑙 ×10 𝑚𝑚𝑙𝑙
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑚𝑚𝑚𝑚 =
+754 µ𝑚𝑚⁄𝑚𝑚𝑚𝑚
+4. Pesar𝑃𝑃 0𝑃𝑃,𝑃𝑃1𝑃𝑃1 1 𝑚𝑚g 𝑚𝑚do =fár1m1a1c,4o0 e 𝑚𝑚 di𝑚𝑚ssolver em 10 ml de água destilada estéril
+[8,4 mg/ml de solução estoque]
+5. A partir dessa concentração, fazer duas diluições de 1:10:
+a. primeira diluição de 1:10 = 0,84 mg/ml; e
+b. segunda diluição de 1:10 = 0,084 mg/ml = 84 µg/ml = 8,4 µg em 100 µl (por tubo).
+6. Para dez testes (100 µl x 10 = 1.000 µl):
+a. primeira diluição: 100 µl da solução estoque + 900 µl de água destilada estéril = 1.000 µl;
+b. segunda diluição: 100 µl da solução diluída de 1:10 + 900 µl de água destilada estéril
+= 1.000 µl (Essa é a solução de trabalho); e
+c. colocar 100 µl em cada tubo de MGIT com OADC.
+1. Concentração final por tubo = 1 µg/ml em 8,4 ml
+[7 ml de MGIT + 0,8 ml de OADC + 0,1 ml de fármaco + 0,5 ml do inóculo].
+2. Solução estoque: 8,4 mg/ml em 10 ml
+Exemplo: potência 100% (observação: entrar no site e imprimir o certificado de análise).
+3. Pesar 0,084 g do fármaco e dissolver em 10 ml de água destilada estéril
+[8,4 mg/mL de solução estoque].
+ATENÇÃO: em agitação, colocar 5 ml de água destilada estéril, gotejar NaOH 2,5 mo-
+lar, agitando até dissolver o fármaco. Após dissolução total, completar o volume para
+10 ml com água destilada estéril.
+4. A partir dessa concentração, fazer duas diluições de 1:10:
+a. primeira diluição de 1:10 = 0,84 mg/ml; e
+b. segunda diluição de 1:10 = 0,084 mg/ml = 84 µg/ml = 8,4 µg em 100 µl (por tubo).
+3. Para 10 testes (100 µl x 10 = 1.000 µl):
+a. primeira diluição: 100 µl da solução estoque + 900 µl de água destilada estéril = 1.000 µl;
+b. segunda diluição: 100 µl da solução diluída de 1:10 + 900 µl de água destilada estéril
+= 1.000 µl (Essa é a solução de trabalho); e
+c. colocar 100 µl em cada tubo de MGIT com OADC.
+1. Assepticamente, utilizando uma micropipeta, adicionar 0,8 ml de suplemento OADC em
+cada tubo MGIT (quatro tubos para cada teste com os fármacos amicacina – A, levofloxa-
+cino – L, moxifloxacino - M).
+2. Assepticamente, utilizando uma micropipeta, pipetar 100 µl de cada fármaco em três tu-
+bos para cada teste.
+3. Marcar os tubos com a sigla de cada fármaco padronizada no laboratório.
+Observação: um tubo sem fármaco será usado como controle de crescimento bacte-
+riano (CC).
+1. Assepticamente, utilizando uma micropipeta, adicionar 0,8 ml de OADC em cada tubo
+MGIT (um tubo para cada teste).
+2. Assepticamente, utilizando uma micropipeta, pipetar 168 µl da solução estoque PNB (25
+mg/ml) em cada tubo MGIT.
+3. Marcar os tubos com o símbolo na cor padronizada no laboratório.
+Exemplo: um X na cor preta.
+Frasco 1 – para fazer a suspensão:
+» colocar aproximadamente seis pérolas de vidro no frasco 1;
+» colocar na estufa e esterilizar a 180°C por duas horas;
+» distribuir, dentro da CSB, 2 ml de água destilada estéril para as culturas em meio
+sólido com pipeta graduada, em cada um dos frasquinhos; e
+» frascos de pérolas sem água para as culturas em meio líquido.
+Frasco 2 – para fazer a diluição 1/5:
+» esterilizar os frascos a 160°C a 180°C por duas horas; e
+» assepticamente, distribuir 4 ml de água destilada estéril em um frasco para cada
+teste, com pipeta graduada.
+Frasco 3 ou 4 – para fazer a diluição 1/100:
+» esterilizar os frascos em autoclave a 121°C por 15 minutos; e
+» assepticamente, distribuir 10 ml de água destilada estéril em um frasco para cada
+teste, com pipeta graduada.
+1. Colocar em uma bandeja de alumínio com divisões um frasco 1, um frasco 2 e um criotubo
+com miçanga para cada teste a ser realizado.
+2. Enumerar todos os frascos com o número da cepa a ser testada. Para os criotubos, marcar
+o número da cepa no corpo e na tampa dos tubos.
+3. Enumerar os frascos 3 com os números de cada cepa a ser testada e colocá-los em bandeja
+plástica.
+4. Enumerar os frascos 4 e colocar na bandeja de inox.
+9 TESTE DE SENSIBILIDADE
+Figura 24 – Sequência de montagem dos testes nas estantes para inoculação e incubação
+Fonte: Autoria própria.
+1. Identificar, com o número da cepa, o tubo controle de crescimento e no tubo com PNB
+paciente/exame.
+2. Os tubos que compuserem os testes serão colocados em uma estante apropriada e incuba-
+dos no aparelho BACTEC™ MGIT™, utilizando a opção “drogas desconhecidas.”
+3. Quando o tubo controle de cada teste atingir o índice de crescimento (IC) 400 (quatro a
+13 dias após a incubação), o aparelho encerrará o teste emitindo o relatório com o IC de
+cada tubo contendo fármaco, demonstrando a sensibilidade do isolado quando IC≤100 ou
+resistência quando IC>100.
+» Crescimento nos fármacos: resistente.
+» Não crescimento nos fármacos: sensível.
+9.5 Teste de hibridação de sonda em linha
+consideráveis para a identificação de M. tuberculosis e na detecção da resistência aos
+fármacos utilizados no tratamento da TB, oferecendo um diagnóstico mais rápido e pro-
+movendo melhor vigilância da doença e da resistência aos medicamentos.
+com resistência à isoniazida têm sido recomendados pela OMS desde 2008. Esses testes
+incluem o TRM-TB (ver no capítulo 10) e os testes de hibridação de sonda em linha.
+Em 2016, a OMS recomendou o uso de testes de hibridação de sonda em linha, entre eles
+o GenoType® MTBDRplus v2.0. Ele utiliza a metodologia da hibridização reversa e é um
+teste qualitativo para a identificação de M. tuberculosis e da resistência à rifampicina e/
+ou à isoniazida, a partir de espécimes pulmonares clínicos com baciloscopia positiva ou
+negativa e em isolados.
+O procedimento completo é dividido basicamente em três etapas: i) extração de DNA; ii)
+amplificação por PCR com iniciadores biotinilados; e iii) hibridação reversa com sondas
+específicas imobilizadas em tiras de membranas de nitrocelulose.
+Equipamentos e vidraria:
+» CSB classe II;
+» TwinCubator (Hain Lifescience);
+» termobloco/banho-maria;
+» centrífuga;
+» termociclador;
+» água destilada;
+» tubos para PCR, livres de DNase/RNase;
+» hipoclorito a 1%;
+» tubos cônicos graduados estéreis de 15 ml;
+» papel-absorvente;
+» cronômetro;
+» pipetas automáticas: P10 na sala de pré-amplificação; P10, P200 no laboratório de
+processamento; P1000, P200 na sala de pós-amplificação; e
+» pipetas Pasteur descartáveis.
+Armazenar todos os constituintes do componente 1 dos kits GenoType® MTBDRplus v2.0
+e GenoType® MTBDRsl v2.0 entre 2°C e 8°C, e todos os constituintes do componente 2 dos
+kits a -20°C. Evitar contaminar o DNA. Não usar os reagentes além do prazo de validade.
+» kit Genolyse de extração de DNA:
+› tampão de lise (A-LYS); e
+› tampão de neutralização (A-NB).
+» tiras de membrana revestidas com sondas específicas (STRIPS);
+» misturas de amplificação A e B (AM-A e AM-B);
+» solução de desnaturação (DEN) pronta para uso, contém < 2% de NaOH, corante;
+» tampão de hibridização (o HYB1 pronto para usar contém 8%-10% de tensoativo
+aniônico, corante);
+» solução de lavagem rigorosa (STR) pronta para uso, contém >25% de um composto
+de amônio quaternário, < 1% de corante aniônico, corante;
+» solução de lavagem (RINse Solution) pronta para uso, contém tampão, < 1% NaCl,
+<1% de tensoativo aniônico;
+» conjugado Concentrado (CON-C) contém fosfatase alcalina conjugada com estrep-
+tavidina, corante;
+» o tampão conjugado (CON-D) contém tampão, reagente bloqueador a 1%, < 1%
+de NaCl;
+» substrato concentrado (SUB-C) contém Dimetil Sulfóxido, solução de substrato; e
+» o tampão de substrato (SUB-D1) contém tampão < 1% MgCl , < 1% NaCl.
+9 TESTE DE SENSIBILIDADE
+As etapas do ensaio – como a extração de DNA a partir de cultura sólida ou líquida,
+preparação da master mix, amplificação e hibridação – devem ser realizadas conforme
+recomendações do fabricante.
+9.5.1 Garantia da validade dos resultados
+As fitas possuem duas sondas que servem como controle do conjugado (CtC) e da amplifi-
+cação (AC). Os genes pesquisados pela fita possuem, cada um, uma banda de controle que
+deve estar presente para que os resultados possam ser considerados válidos. Além disso,
+a cada lote de extração de DNA é incluído um controle negativo.
+9.5.2 Relato de resultados e laudo de ensaio/exame
+» Ler os resultados alinhando as bandas das fitas com o gabarito fornecido com o kit.
+» Para que os resultados sejam válidos, as bandas CtC e AC devem aparecer para cada
+amostra. A presença da banda TUB indica que o CMTB está presente na amostra.
+» Uma mutação no gene analisado (e resistência ao fármaco correspondente) é in-
+terpretada por uma banda do tipo selvagem ausente e/ou pela presença de uma
+banda mutante para cada grupo de genes.
+» Os genes possuem, cada um, uma banda de controle que deve estar presente para
+interpretar os resultados.
+» No ensaio MTBDRplus, o gene rpoB prediz a resistência à rifampicina; o katG prediz
+resistência de alto nível à isoniazida; e o inhA prediz resistência à etionamida e de
+baixo nível à isoniazida.38.
+» No ensaio MTBDRsl, os genes gyrA e gyrB predizem resistência às fluoroquinolonas;
+o rrs aos aminoglicosídeos e peptídeos cíclicos; o eis prediz baixa resistência à ca-
+namicina; e a mutação C-14T do gene eis também prediz resistência à amicacina.38
+» Para que os resultados sejam válidos, as bandas devem ter intensidade igual ou
+maior que a intensidade da banda AC.
+» Para que um lote de resultados seja válido, a fita de controle negativo deve ter as
+bandas CtC e AC presentes, mas nenhuma outra banda deve estar visível.
+» Se um resultado positivo for obtido com o controle negativo, os resultados de todo
+o lote devem ser repetidos e medidas devem ser tomadas para remover a contami-
+nação de todas as salas e dos equipamentos.
+9.6 Controle interno da qualidade do teste de sensbilidade
+As recomendações gerais quanto à limpeza da vidraria, assim como a qualidade e a con-
+servação dos meios de cultura, são descritas com detalhes no capítulo 7.
+Verificar se os TS estão sendo realizados a partir de amostras de pacientes que tenham al-
+gum fator de risco de resistência aos fármacos, seguindo os critérios estabelecidos pelo MS.
+9.6.1 Controle interno da qualidade dos fármacos utilizados
+Os cuidados com a qualidade, a conservação, a atividade e a precisão na pesagem dos
+fármacos são fundamentais para assegurar resultados confiáveis dos TS.33 Por esse motivo,
+é conveniente que o laboratório de referência se responsabilize pela compra centralizada,
+pesagem e distribuição desses fármacos. Ele também será responsável por prover a rede
+meios de cultura.28
+Para a aquisição comercial dos fármacos deve-se ter em conta a sua qualidade e confiabi-
+lidade. O fabricante deve fornecer, impresso no rótulo, o nome genérico do fármaco, bem
+como potência, data de validade e condições de conservação.
+de peso total do produto. Nem todo fármaco é apresentado em sua forma pura pelo
+fabricante, e uma porção do seu peso pode ser devido a impurezas ou a algum radical que
+compõe a molécula. A potência de cada lote de fabricação do fármaco deve vir impressa
+no rótulo do produto ou no seu certificado de qualidade, e deve ser ajustada, se for o
+caso, cada vez que for adquirida.
+Observar estritamente as recomendações do fabricante (no rótulo ou no certificado de
+qualidade) quanto às condições de conservação, pois alguns fármacos necessitam ser
+mantidos em congelador; já outros, sob refrigeração. Manter sempre o fármaco no frasco
+original e dentro de um dessecador para evitar a absorção de umidade.
+Quando descongelar as alíquotas da solução-mãe do fármaco, para preparar a solução de
+uso, após utilizar o volume necessário, descartar o volume que sobrou. Nunca congelar
+novamente o fármaco depois de haver descongelado.
+calibração válido.
+9.6.2 CIQ dos meios LJ com fármacos
+capítulo 7, como os aspectos macroscópicos (cor, consistência textura e volume, controle
+de esterilidade e microbiológico). É importante observar que, se os meios de cultura com
+fármacos não são bem conservados, os fármacos incorporados podem perder sua atividade.
+para que o fármaco seja realmente incorporado em todo o volume de meio e, ao mesmo
+tempo, suave, para não produzir bolhas de ar e prejudicar a distribuição do meio nos tubos.
+Para controlar a qualidade dos meios de cultura LJ com fármacos, com relação ao desem-
+penho em demonstrar a resistência aos fármacos da micobactérias, cada lote produzido
+9 TESTE DE SENSIBILIDADE
+outra cepa resistente.15
+As cepas de referência recomendadas para demonstrar sensibilidade são M. tuberculosis
+H37Rv ATCC 27294 e M tuberculosis H37Ra ATCC 25177. Ambas são sensíveis a todos os
+fármacos testados, sendo a cepa H37Ra considerada avirulenta.33
+Para monitorar possíveis erros nos meios produzidos com fármacos (por exemplo, excesso
+de fármaco), o que leva a resultados sensíveis, é importante o uso das cepas resistentes.
+Por outro lado, sabemos que o uso de cepa resistente na rotina do laboratório aumenta o
+risco biológico, não sendo recomendado o uso de uma cepa resistente a todos os fármacos.
+Sugerimos que seja utilizada uma combinação de cepas, cada uma resistente a um dos
+fármacos testados, principalmente isoniazida e rifampicina.
+Os procedimentos para realizar esse controle microbiológico seguem o descrito no capí-
+tulo 7. Para facilitar, sugere-se que o controle de cada lote do TS seja preparado junto, no
+mesmo lote, com as amostras a serem testadas.
+formulários descritos no anexo desse capítulo. Se for detectado resultados não esperados,
+recomenda-se anular os resultados de todo o lote e repeti-los com um novo lote de meios.
+9.6.3 CIQ do processamento do TS
+» Deve-se organizar todo o material necessário antes de iniciar os testes. A área de
+trabalho na CSB não deve ter acúmulo de materiais, uma vez que a técnica requer
+o uso de uma quantidade muito grande de materiais, ao mesmo tempo.
+» Cultura primária em meio sólido:
+› sempre que possível, dar preferência para realizar o TS a partir do crescimento
+primário, desde que contenha 20 ou mais colônias. Para preparar o inóculo,
+deve-se raspar o maior número de colônias possível.
+» Nas culturas em que o número de colônias é menor que 20, não se recomenda
+a realização do TS, pois essa amostra pode não ser representativa da população
+bacilar na lesão. Nesse caso, não é recomendado realizar um subcultivo do isolado
+bacteriano para aumentar o número de colônias, pois isso não significa aumentá-
+-las, mas apenas aumentar o volume da massa bacilar.
+» Verificar se a cultura está pura, se as colônias têm a mesma morfologia e, caso isso
+não ocorra, não realizar o TS antes de tratar e descontaminar a cultura.
+» No caso de existir água de condensação nos tubos de meio de cultura que serão
+inoculados, ela deve ser desprezada sobre gaze ou papel de filtro, estéreis, para
+facilitar a absorção do inóculo semeado.
+» Qualidade do inóculo:
+› a preparação das diluições é fundamental para assegurar que todos os tubos
+recebam o mesmo inóculo e que os cálculos da proporção de mutantes re-
+sistentes tenham significado. Para isso, é importante ter um bom padrão de
+turvação (escala McFarland), recém-preparada, sem precipitações. A suspensão
+deve ser homogênea, deixando-a decantar durante alguns minutos para que
+os grumos se depositem; quando a alíquota for retirada, ela não deve tocar no
+fundo do tubo. É preciso assegurar a precisão da medida do volume inoculado,
+que deve ser sempre o mesmo em todos os tubos semeados, e garantir a troca
+de pipetas durante as diluições seriadas.
+» Verificar a completa absorção do inóculo antes do fechamento das tampas. Nesse
+momento, havendo presença de contaminação, descartar o teste e repeti-lo.
+9.6.4 CIQ da leitura e resultados do TS
+No momento da primeira leitura (28 dias) de incubação, verificar se o inóculo está adequado:
+» morfologia das colônias são características de M. tuberculosis;
+» colônias contáveis nos tubos controles semeados com a diluição 10-5;
+» presença de pelo menos 100 colônias nos tubos controles semeados com a diluição
+10-3; e
+» quantidade de colônias com a diluição 10-5 de, aproximadamente, 100 vezes menor
+do que a obtida com a diluição 10-3.
+Se essas condições não são atendidas, repetir o teste imediatamente. Se estiverem ade-
+quadas e se for detectada resistência a algum fármaco, em uma proporção acima de 1%
+em relação ao controle, deve-se informar imediatamente a resistência detectada para
+agilizar a orientação de tratamento adequado. Se não aparecer resistência, aguardar até
+completar 42 dias de incubação, tendo em vista que o resultado definitivo é emitido após
+a leitura do TS completar esse tempo incubado.
+Deve-se conciliar os resultados do teste de um paciente com resultados anteriores obtidos
+para o mesmo paciente. No caso de observar incoerências ou discordâncias entre os resul-
+tados, repetir o teste partindo, de preferência, do isolamento primário.
+9.6.5 CIQ do sistema automatizado – MGIT
+Para descartar uma possível contaminação bacteriana ou fúngica, deve-se semear cada
+suspensão bacteriana a ser testada em um tubo de meio de cultura TSA:
+» incubar a 36°C ± 1°C e realizar a leitura após 48 horas de incubação; e
+» utilizar uma cepa de referência M. tuberculosis H37Rv a cada lote novo de fármacos
+a serem testadas. Essa cepa controle é sensível a todos os fármacos de primeira
+linha na concentração utilizada na técnica.
+9.7 Avaliação Externa da Qualidade do Teste de Sensibilidade
+Desde 1994, a OMS criou uma Rede de Laboratórios Supranacionais (RLSN) que norma-
+liza e coordena a supervisão externa indireta do TS no mundo, também chamado de
+ensaio de proficiência.39 Atualmente, o laboratório coordenador da RLSN é o Instituto de
+Medicina Tropical da Bélgica. Essa rede está conformada por 20 laboratórios supranacio-
+em alguma região.
+9 TESTE DE SENSIBILIDADE
+de referência, seja nacional, seja regional, e esses devem ser avaliados por um laboratório
+supranacional (LSN). Em cada país, o LRN deve coordenar um programa de CQ para os
+laboratórios da sua rede que realizam TS. No Brasil, como foi descrito no capítulo 7 para
+o AEQ da Cultura, o LRN deve executar esse programa em conjunto com os LRR.
+O ensaio de proficiência consiste no envio de um painel de cepas com fenótipo de resis-
+tência selecionado para poder avaliar, em cada laboratório, a precisão dos resultados do
+TS frente aos fármacos de primeira e segunda linha. O número de cepas que compõe o
+painel é duplicado e recebe um código sorteado ao acaso, que, assim como os resultados
+dos testes, somente o laboratório, que está coordenando o programa, conhece.
+O laboratório coordenador realiza os TS de cada cepa do painel e os replica, em número
+suficiente, para enviar aos laboratórios da rede que serão supervisionados. Os painéis
+material de risco biológico.
+Os laboratórios supervisionados realizam os TS às cegas, utilizando o método recomenda-
+do e aplicado na rotina de trabalho.
+Os resultados informados de cada laboratório são comparados com o “resultado consenso”
+(acordado pela maioria dos laboratórios supranacionais), e cada resultado é classificado
+em: i) verdadeiro resistente; ii) falso resistente; iii) falso sensível; e iv) verdadeiro sensível.
+Para cada fármaco, são calculadas a sensibilidade, especificidade, eficiência e reprodutibi-
+lidade. A sensibilidade avalia o acerto na detecção da resistência; a especificidade, o acerto
+na determinação da ausência de resistência; e a eficiência, o acerto no total de resultados.
+A reprodutibilidade avalia a consistência dos resultados produzidos pelo laboratório.
+incrementar a qualidade dos laboratórios. Como meta de desempenho para os labora-
+tórios, espera-se uma eficiência de 92% para estreptomicina e etambutol, de 97% para
+isoniazida e de 99% para rifampicina. Os limites de aceitabilidade de eficiência estabele-
+cidos classificam como não aceitáveis as eficiências menores que 80% para estreptomicina
+e etambutol; 89% para isoniazida; e 95% para rifampicina.39
+Após análise dos resultados, cada laboratório participante deve ser informado dessa ava-
+liação. No caso de serem observados resultados imprecisos, em especial à isoniazida e à
+rifampicina, deverá ser identificada a causa da imprecisão, assim como sugestões para
+reverter essa situação. Como consequência, pode ser oferecido treinamento, se for o caso,
+e assim é enviado novo painel ao laboratório, desenhado especialmente de acordo com
+o problema detectado. Até que se verifique que o laboratório recuperou a qualidade do
+seu trabalho, os TS da rotina do laboratório deverão ser realizados pelo LRN. É importante
+sucessivos controles.
+1. WORLD HEALTH ORGANIZATION. Technical manual for drug susceptibility testing of
+medicines used in the treatment of tuberculosis. Genebra: WHO, 2018. Disponível em:
+em: 15 jul.TESTE RÁPIDO
+TUBERCULOSE –
+TRM-TB
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE
+– TRM-TB
+10.1 Introdução
+Os métodos moleculares apresentam diversas vantagens no manejo laboratorial da TB,
+principalmente no que diz respeito à velocidade para a emissão dos resultados, à padro-
+nização dos testes e aos requisitos reduzidos de biossegurança exigidos nos laboratórios,
+quando comparado a exames como cultura, tanto em meio líquido quanto meio sólido.
+por meio de PCR, em tempo real, e têm sido desenvolvidos para o diagnóstico rápido da
+TB e para TS aos fármacos, sendo implementados em diversos países.
+e promover a equidade e integralidade do cuidado às pessoas com TB, uma vez que a
+detecção rápida e adequada da doença possibilita o tratamento correto de forma precoce,
+o que favorece o controle da TB.
+Um exemplo desses testes é o utilizado no sistema GeneXpert®, que foi lançado em 2004
+e teve como objetivo a simplificação dos testes moleculares, pois integrou e automatizou
+tempo real (preparação da amostra, amplificação e detecção). O sistema consiste em um
+equipamento, um computador, um leitor de código de barras e um software; e utiliza
+um cartucho que contém os reagentes liofilizados, tampões e soluções. A detecção e
+caracterização do alvo são realizadas em tempo real, usando um dispositivo a laser de
+detecção de seis cores.1,2,3
+Os cartuchos utilizados para o diagnóstico da TB detectam o CMTB, assim como as mutações
+que conferem a resistência à rifampicina, usando primers específicos e sondas moleculares
+únicas, que garantem um alto grau de sensibilidade e especificidade. O ensaio fornece
+resultados, diretamente de amostras biológicas, entre 65 a 77 minutos.1,2,3 O teste é espe-
+cífico para detecção do CMTB, não detectando MNT1,2,3. O MS adotou a terminologia de
+TRM-TB para indicar o teste com o cartucho Xpert® MTB/RIF Ultra.
+10.2 Teste rápido molecular para o diagnóstico da TB pulmonar 1-7
+O TRM-TB é considerado um importante avanço na luta contra a TB. Pela primeira vez,
+um teste molecular é, suficientemente, simples e robusto para ser usado em laboratórios
+básicos que utilizam a baciloscopia como método diagnóstico.
+A OMS recomenda que o TRM-TB seja utilizado como o teste diagnóstico inicial (em vez da
+baciloscopia e da cultura) em todos os adultos e as crianças com sinais e sintomas de TB.
+É importante enfatizar que crianças com suspeita de TB, que tiveram um único resultado
+negativo, devem ter seus casos investigados utilizando o sistema de escore estabelecido
+no Manual de Recomendações para o Controle da Tuberculose no Brasil,8 e aqueles que
+de tratamento, mesmo com um resultado de TRM-TB negativo.
+O TRM-TB pode ser usado diretamente em amostras de escarro ou a partir do sedimento
+de preparação para inoculação da amostra em meios de cultura. Além disso, deve ser usa-
+da apenas uma amostra de escarro, pois o processamento de múltiplas amostras, apesar
+de aumentar a sensibilidade do teste, ocasiona um gasto de recursos que pode inviabilizar
+a utilização ideal do teste como diagnóstico.
+A baciloscopia e a cultura permanecem como ferramentas essenciais para o monitora-
+mento do tratamento e para a realização de TS aos fármacos de primeira e segunda linha.
+As amostras que podem ser usadas para o diagnóstico da TB pulmonar no TRM-TB são:
+escarro, escarro induzido, LBA e lavado gástrico.
+10.3 Teste rápido molecular para diagnóstico de TB extrapulmonar 16
+O TRM-TB pode ser usado para diagnóstico nos seguintes materiais extrapulmonares:
+» LCR;
+» linfonodos (punção ou macerado);
+» macerados de tecidos;
+» líquido sinovial;
+» líquido peritoneal;
+» líquido pericárdio;
+» líquido pleural; e
+» urina.
+É importante enfatizar que indivíduos com suspeita de terem TB extrapulmonar que tive-
+ram um único resultado negativo no TRM-TB devem ter seus casos investigados por outros
+métodos diagnósticos, e aqueles que tiverem alta suspeita clínica de TB (especialmente
+crianças) devem ser tratados mesmo com um resultado de TRM-TB negativo.
+Para amostras de LCR, o TRM-TB deve ser usado, preferencialmente a cultura, se o volume
+fazer um diagnóstico rápido. Se o material tiver um volume suficiente é preferível usar o
+método de concentração da amostra para aumentar a recuperação de bacilos, e inocular
+em meios de cultura e em um cartucho.
+O líquido pleural não é a amostra ideal para a confirmação bacteriológica de TB pleu-
+ral, independentemente do método utilizado. Recomenda-se o uso de biópsia pleural.
+A sensibilidade do TRM-TB em líquido pleural é muito baixa. No entanto, um indivíduo
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+com resultado positivo no TRM-TB deve ser tratado para TB pleural; e aqueles com um
+resultado negativo no TRM-TB devem ter outros testes realizados.
+10.4 Vantagens e desvantagens do TRM-TB
+O TRM-TB apresenta muitas vantagens em relação aos métodos convencionais, como:
+» teste diagnóstico inicial que fornece o resultado de resistência ou sensibilidade à
+rifampicina, substituindo a baciloscopia;
+» maior sensibilidade em relação à baciloscopia;
+» na sua versão atual em uso (Ultra) possui sensibilidade semelhante à da cultura;
+» menor tempo de execução quando comparado à baciloscopia, à cultura e ao TS;
+» baixo risco biológico;
+» menor custo em relação à cultura e ao TS;
+» menos trabalho e tempo despendido pelo técnico de laboratório; e
+» menor incidência de erros laboratoriais, por ser praticamente automatizado e ter,
+portanto, a influência de erro humano reduzida.
+Como desvantagens, pode-se ressaltar:
+» não poder ser empregado para controle de tratamento;
+» custo elevado quando comparado à baciloscopia; e
+» exigências mínimas de infraestrutura laboratorial: refrigeração, fornecimento con-
+tínuo de energia, nobreak, biossegurança e local adequado para armazenamento
+dos cartuchos.
+10.5 Método de execução do teste rápido molecular para tuberculose 1,6,7
+A metodologia descrita a seguir é para amostras de escarro. Para outras amostras pulmo-
+nares (escarro induzido, lavado brônquico, LBA, aspirado transtraqueal e lavado gástrico),
+deve-se realizar o pré-tratamento da amostra de acordo com o Quadro 14 do capítulo 7.
+Precaução:
+» realizar os procedimentos utilizando os cuidados de biossegurança, tais como as
+BPL e o uso de EPI adequado, conforme descrito no capítulo 3;
+» abrir um pote de cada vez e com cuidado para evitar a formação de aerossóis;
+» procurar utilizar a porção mais purulenta do escarro; e
+» realizar, no máximo, oito amostras de cada vez e manter a área de trabalho com
+iluminação adequada e organizada para evitar a troca de amostras.
+Equipamento:
+» sistema GeneXpert® (equipamento GeneXpert, computador e leitor de código de
+barras);
+» nobreak;
+» CSB (desejável, mas não obrigatório) ou bico de Bunsen;
+» geladeira;
+Reagentes:
+» kit Xpert® MTB/RIF Ultra para dez ou 50 testes;
+» solução de álcool a 70%; e
+» solução de NaClO a 1%.
+As fórmulas e o preparo dos reagentes acima estão descritos nos anexos do capítulo 3.
+Insumos:
+» pipeta Pasteur estéril, descartável;
+» tubo Falcon de 15 ml;
+» cronômetro;
+» papel-absorvente (papel de filtro ou papel-toalha) para forrar a bancada;
+» bandejas de metal (opcional);
+» caneta marcadora;
+» gaze estéril em pedaços;
+» respiradores N95;
+» aventais de laboratório;
+» luvas descartáveis; e
+» recipiente de vidro ou metal, fundo e de boca larga, para descarte de material a ser
+autoclavado e lavado.
+Conservação e manuseio:
+» conservar os kits a 2°C-28°C;
+» não utilizar reagentes ou cartuchos fora do prazo de validade;
+» não abrir a tampa do cartucho até o momento de adicionar a amostra;
+» utilizar o cartucho nos 30 minutos seguintes à abertura da sua tampa;
+» o cartucho é estável até sete dias após a abertura da embalagem metalizada;
+» não utilizar um cartucho que caiu ou que foi agitado depois da amostra tratada ter
+sido adicionada;
+» não utilizar um cartucho se ele parecer úmido ou se o lacre da tampa estiver partido; e
+» não utilizar um cartucho que tenha o tubo de reação danificado.
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+1. Forrar a bancada (ou CSB) com papel-absorvente que tenha capacidade de absorver
+respingos.
+2. Providenciar e organizar na bancada (ou CSB) os materiais necessários para realização do
+teste.
+3. Organizar tudo de forma a assegurar um fluxo de trabalho lógico e seguro. Manter o pa-
+pel-absorvente e o frasco com solução desinfetante à mão, na bancada, para desinfecção
+se houver respingos, conforme descrito no capítulo 3.
+4. Forrar a bandeja de metal com papel-absorvente e colocá-la na bancada (ou CSB) à sua
+frente.
+5. Colocar as amostras clínicas de acordo com o número de ordem de registro, sobre a área
+de trabalho forrada.
+6. Identificar cada cartucho com o número de registro de cada amostra clínica.
+7. Ligar o instrumento GeneXpert e, em seguida, o computador.
+8. O software GeneXpert DX deve ser carregado automaticamente na tela do computador.
+Caso isso não aconteça, fazer duplo clique, no ambiente de trabalho Windows, no ícone
+de atalho do GeneXpert DX.
+9. Iniciar a sessão no software do sistema GeneXpert utilizando o nome de login e senha
+(padrão da Cepheid®).
+Procedimento de realização: preparo das amostras pulmonares (escarro, escarro induzido,
+lavado gástrico e LBA)
+1. Processar, um de cada vez, apenas as amostras suficientes para os módulos disponíveis
+para a execução do teste no sistema GeneXpert.
+ATENÇÃO: o volume mínimo de escarro para a preparação é de 1 ml.
+2. Retirar, lentamente, a tampa do pote de escarro para evitar a formação de aerossóis.
+3. Deixar a amostra no pote de coleta do escarro.
+4. Adicionar ao pote de escarro o reagente de amostra na seguinte proporção: dois volumes
+de reagente para um volume de amostra (2:1).
+5. Agitar vigorosamente de dez a 20 vezes (ou usar o agitador mecânico). Um movimento
+para cima e para baixo corresponde a uma agitação.
+ATENÇÃO: o volume 2:1 de reagente e amostra não necessita ser exato, mas como
+exemplo: para 1 ml de amostra adicione 2 ml de reagente; 2 ml de amostra – 4 ml de
+reagente.
+6. Incubar durante dez minutos a temperatura ambiente.
+7. Agitar vigorosamente de dez a 20 vezes (ou use o agitador mecânico).
+8. Incubar mais cinco minutos a temperatura ambiente.
+9. Verificar se as amostras estão totalmente liquefeitas, sem qualquer viscosidade. Caso não
+estejam totalmente liquefeitas, agitar novamente e deixar em temperatura ambiente por
+mais cinco, no máximo dez minutos. A etapa de descontaminação e liquefação não deve
+ultrapassar 35 minutos no total.
+Não tocar no tubo de reação do cartucho.
+1. Identificar cada cartucho com o número da amostra (escreva nos lados do cartucho ou
+afixe uma etiqueta de código de barras). Não coloque a etiqueta na tampa do cartucho
+nem obstrua o código de barras 2D existente na frente do cartucho.
+2. Abrir a tampa do cartucho.
+3. Usando a pipeta de transferência esterilizada fornecida, aspirar a amostra liquefeita para
+a pipeta de transferência até o menisco estar acima da marca presente na pipeta. Não
+prosseguir com o processamento da amostra no caso de o volume ser insuficiente. É muito
+importante que seja inserido no cartucho 2 ml ou mais da amostra processada.
+4. Transferir a amostra para o orifício localizado ao lado direito da parte superior do cartu-
+cho, que aparece quando se levanta a tampa (Figura 25). Dispensar a amostra lentamente
+para evitar a formação de aerossóis e bolhas.
+Figura 25 – Esquematização da adição da amostra no cartucho de TRM-TB
+Fonte: Cepheid, 2017.
+5. Fechar a tampa do cartucho. Certificar-se de que a tampa fique bem encaixada. O restante
+da amostra preparada pode ser conservado até 12 horas a 2°C-8°C, caso seja necessário
+repetir o teste.
+6. Colocar os cartuchos na bandeja de metal e levar até o equipamento.
+ATENÇÃO: nunca coloque a amostra no orifício central do cartucho. Após inserir a
+amostra no cartucho, mantê-lo sempre na vertical e nunca o deitar.
+Importante: certificar-se de que o teste seja iniciado 30 minutos após a preparação do
+cartucho. Esse é o procedimento ideal, porém, se necessário, o cartucho (com a amostra
+preparada) pode permanecer até quatro horas à temperatura ambiente antes do início
+do teste.
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+1. Na janela do sistema GeneXpert DX, clicar em Create Test (Criar teste). Será apresentada a
+caixa de diálogo “Scan Cartridge Barcode” (Ler código de barras do cartucho).
+2. Com o cartucho sobre a bancada, ler o código de barras do cartucho. Utilizando as in-
+formações do código de barras, o software vai preencher automaticamente as caixas dos
+campos seguintes: Select Assay (Selecionar ensaio), Reagent Lot ID (ID do lote de reagente),
+Cartridge SN (No de série do cartucho) e Expiration Date (Prazo de validade do cartucho).
+3. Na caixa Sample ID (ID da amostra), ler com código de barras ou digitar a ID da amostra.
+Certificar-se de que introduziu a ID correta da amostra.
+4. A ID da amostra estará associada aos resultados do teste e será apresentada na janela
+View Results (Ver resultados) e em todos os relatórios.
+5. Clicar em Start test (Iniciar teste). Na caixa de diálogo apresentada (Login), introduza
+login e senha.
+6. Abrir a porta do módulo do instrumento, que estará com a luz verde piscando, e posicio-
+nar o cartucho.
+7. Fechar a porta do módulo. O teste iniciará e a luz verde vai parar de piscar. Quando o teste
+terminar, a luz se apagará.
+8. Ao finalizar o teste, antes de abrir a porta do módulo e retirar o cartucho, aguardar até
+que o sistema desbloqueie a porta.
+9. Descartar os cartuchos usados nos coletores adequados para resíduos biológicos, de acor-
+do com as práticas de biossegurança da instituição.
+10.6 Preparo de amostras pulmonares ou extrapulmonares para execu-
+ção, em conjunto, do TRM-TB e da cultura 1,6,7
+pulmonares, de acordo com os algoritmos recomendados pelo MS:
+» preparar a amostra usando os métodos de descontaminação (Petroff ou NALC),
+conforme descrito no capítulo 7;
+» após obter o sedimento (pós-centrifugação), inocular os tubos de meio de cultura;
+» do restante do sedimento, separar 0,5 ml em um tubo Falcon de 15 ml;
+» adicionar 1,5 ml do reagente da amostra ao tubo Falcon;
+» agitar vigorosamente de dez a 20 vezes (ou use o agitador mecânico para tubos);
+» incubar durante 15 minutos à temperatura ambiente;
+» transferir, com auxílio da pipeta fornecida no kit, no mínimo 2 ml para o cartucho; e
+» iniciar o teste.
+10.7 Método de execução do TRM-TB para amostras
+extrapulmonares1,6,7,18
+A cultura para micobactérias e TS deve ser sempre realizada para todas as amostras extra-
+pulmonares, independentemente do resultado do TRM-TB.
+10.7.1 Líquido cefalorraquidiano – LCR
+Procedimento de realização:
+O processamento é realizado de acordo com o volume da amostra.
+Mais de 5 ml
+1. Transferir toda a amostra para um tubo cônico e centrifugar a 3.000 x g por 15 minutos.
+2. Desprezar o sobrenadante.
+3. Ressuspender o sedimento a um volume final de 2 ml com o reagente de amostra.
+4. Com a pipeta de transferência, transferir os 2 ml para o cartucho.
+5. Iniciar o teste.
+Entre 1 e 5 ml
+1. Adicionar um volume igual do reagente de amostra à amostra.
+2. Adicionar 2 ml da mistura diretamente ao cartucho.
+3. Iniciar o teste.
+Entre 0,1 e 1 ml
+1. Ressuspender o LCR a um volume final de 2 ml adicionando o reagente de amostra.
+2. Adicionar 2 ml da mistura diretamente ao cartucho.
+3. Iniciar o teste.
+Menos do que 0,1 ml
+1. Amostra insuficiente para a realização do TRM-TB.
+10.7.2 Linfonodos (macerado de tecido ou aspirado) e outros tecidos
+Procedimento de realização:
+1. Picotar o espécime em pequenos pedaços, com bisturi estéril, em um cadinho estéril.
+2. Adicionar 2 ml de tampão fosfato (PBS).
+3. Macerar o tecido com PBS usando um pistilo até que uma suspensão homogênea seja
+obtida.
+4. Com auxílio da pipeta de transferência, transferir a suspensão homogênea a um tubo
+cônico estéril de 50 ml.
+5. Adicionar quantidade igual de NaOH 4%.
+6. Agitar no agitador mecânico para tubos (vortex).
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+7. Deixar em temperatura ambiente por 15 minutos.
+8. Completar o tubo (até 2 cm da tampa) com PBS.
+9. Centrifugar a 3.000 x g por 15 minutos.
+10. Desprezar o sobrenadante, com cuidado.
+11. Ressuspender o sedimento em 1-2 ml de PBS.
+12. Com outra pipeta estéril, inocular o sedimento no meio líquido ou sólido já identificados.
+13. Identificar o cartucho.
+14. Com auxílio de uma pipeta estéril, transferir aproximadamente 0,7 ml da suspensão ho-
+mogênea a um tubo cônico para ser usado para o TRM-TB – EVITAR TRANSFERIR GRUMOS.
+15. Com outra pipeta de transferência, adicionar o dobro do volume de reagente da amostra ao tubo.
+16. Agitar vigorosamente o tubo (10 a 20 x) ou com o auxílio de um agitador mecânico (mí-
+nimo dez segundos).
+17. Incubar dez minutos à temperatura ambiente. Agitar novamente e aguardar mais cinco
+minutos à temperatura ambiente.
+18. Com uma pipeta nova, transferir 2 ml ao cartucho.
+19. Iniciar o teste.
+10.7.3 Urina 18
+Procedimento de realização:
+1. Obter 2 ml de urina não diluída e não processada.
+2. Transferir para um tubo cônico e centrifugar a 3.000 x g por 15 minutos.
+3. Desprezar o sobrenadante.
+4. Ressuspender o sedimento em 0,75 ml de solução salina tamponada com fosfato.
+5. Adicione o reagente de amostra em uma razão de 2:1 ao sedimento de urina.
+6. Agitar vigorosamente ou no agitador mecânico para tubos (vortex).
+7. Incubar, à temperatura ambiente, por 7-8 minutos.
+8. Misturar a amostra vigorosamente ou no agitador mecânico uma segunda vez.
+9. Incubar novamente, à temperatura ambiente, por 7-8 minutos, até 15 minutos de incubação total.
+10. Com a pipeta de transferência, transferir os 2 ml para o cartucho.
+11. Iniciar o teste.
+10.8 Cartucho Xpert® MTB/RIF Ultra 9-13
+Quando os resultados do TRM-TB e da cultura e TS fenotípico são comparados, podem
+ocorrer algumas discordâncias. As possíveis causas são:
+» problema operacional ocasionado por erro técnico ou por inibidores na amostra;
+» mutações silenciosas;
+» erro na concentração do fármaco no TS fenotípico; e
+» heterorresistência.
+O desenvolvimento do teste Xpert® MTB/RIF foi um grande avanço para a melhoria global
+do diagnóstico de TB e da detecção da resistência à rifampicina. Se, por um lado, o Xpert®
+MTB/RIF apresenta um desempenho melhor do que muitos outros testes diagnósticos de
+TB, por outro, sua sensibilidade é limitada, especialmente em baciloscopias negativas e
+TB associada ao HIV. Algumas limitações também persistem quanto à determinação da
+resistência à rifampicina.
+O cartucho Xpert® MTB/RIF Ultra foi desenvolvido para superar essas limitações, usando a
+mesma plataforma GeneXpert®. O cartucho Ultra usa dois diferentes alvos de amplifica-
+ção multicópias (IS6110 e IS1081) e tem uma câmara de reação de PCR maior (50 µl no Ultra
+comparado com 25 µl no Xpert MTB/RIF). Isso levou a um limite menor de detecção para
+o Ultra comparado ao Xpert® MTB/RIF: 16 unidades formadoras de colônias por mililitro
+(UFC/ml) e 131 UFC/ml, respectivamente.
+Em determinadas populações, o cartucho Ultra pode ter um desempenho melhor para a
+detecção do CMTB, principalmente daquelas de indivíduos cujas amostras são frequente-
+mente paucibacilares. O cartucho Ultra mostrou melhor desempenho para detecção do
+CMTB em amostras com baciloscopia negativa, cultura positiva, de população pediátrica,
+extrapulmonares, (especialmente em LCR) e de PVHIV, com uma acurácia igual ao Xpert®
+MTB/RIF para detecção de resistência à rifampicina.
+Uma das consequências da redução discreta da especificidade do cartucho Ultra, em cerca
+de 1%, quando comparadas ao Xpert® MTB/RIF, é o aumento no número de resultados
+falso-positivos na detecção do CMTB. A consequência adversa disso é que pacientes sem
+TB podem ser classificados erroneamente como sendo portadores de TB (falso-positivos),
+mais frequentes em locais com baixa prevalência da doença.
+Considera-se que a especificidade reduzida, nesses locais, possa ser causada pela confirma-
+ção inadequada do histórico de TB, de uma possível cura espontânea (i.e., uma TB inicial
+que tenha sido curada sem tratamento), e, também, provavelmente, de um resultado das
+limitações do exame-padrão (cultura) usado para comparar as duas versões dos cartuchos.
+A especificidade reduzida do Ultra é uma compensação entre resultados falso-positivos e
+o aumento na detecção de mais casos, principalmente em pacientes com TB paucibacilar,
+tal como em PVHIV, crianças menores de 10 anos e pessoas com TB extrapulmonar.
+As recomendações atuais da OMS para o uso do cartucho Xpert® MTB/RIF também se apli-
+cam para o uso do Ultra, como teste diagnóstico inicial para adultos e crianças com sinais e
+sintomas de TB e em amostras extrapulmonares selecionadas (LCR; linfonodos; macerados
+de tecidos; líquidos sinovial, peritoneal, pericárdio, pleural; urina). A interpretação dos
+resultados do Ultra para a detecção do CMTB são as mesmas anteriormente utilizadas,
+com exceção do resultado “MTB detectado traços.”
+» Os critérios para a interpretação do “MTB detectado traços” foram desenvolvidos
+resultado falso-positivo e os benefícios potenciais dos números aumentados dos
+pacientes de TB corretamente diagnosticados, bem como a diminuição da mortali-
+dade associada à TB.
+» Como o resultado “MTB detectado traços” não fornece informação sobre resistên-
+cia à rifampicina, exames adicionais, como cultura e TS fenotípico ou molecular, são
+necessários para confirmar ou excluir a resistência à rifampicina.
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+Resultados discordantes podem acontecer, geralmente quando se comparam testes baseados em
+cultura com testes moleculares. Cada resultado discordante deverá ser investigado caso a caso.
+O cartucho Ultra segue as mesmas categorias semiquantitativas usadas no anterior (alta,
+média, baixa e muito baixa), assim como a nova categoria “traço”, que corresponde à
+carga bacilar mais baixa para detecção do CMTB.
+Em pacientes com histórico recente de tratamento de TB, resultados falso-positivos podem
+surgir devido à persistência de bacilos não viáveis que podem ser detectados pelo Ultra.
+Para evitar o consequente excesso de tratamento, sugere-se a realização de teste apenas
+para avaliação da resistência à rifampicina, sendo necessários testes confirmatórios subse-
+quentes para o manejo do paciente, a depender do seu histórico recente de tratamento.
+Além disso, quando o resultado for traços, a resistência à rifampicina não é avaliada
+devido à pouca quantidade de DNA na amostra, fornecendo resultado indeterminado da
+resistência à rifampicina. Nesse caso, a recomendação da OMS é de realizar a coleta de
+produzirem resultados “traços’’.
+Quando a análise pelo TRM-TB for realizada em amostra de PVHIV, de crianças e em
+amostras extrapulmonares, um resultado MTB detectando traços confirma TB, recomen-
+dando-se iniciar o tratamento imediatamente. Em caso de um resultado “traços” repetido,
+o paciente deve ser solicitado a fornecer uma amostra adicional, que será encaminhada
+para cultura e TS para determinar a resistência à rifampicina.
+Já a recomendação no Brasil é que não seja repetido o teste e que o resultado “traços” seja
+considerado inconclusivo, exceto para PVHIV, crianças (<10 anos) e em casos de suspeita de
+TB extrapulmonar, em que o resultado traços é tido como positivo, devendo seguir para
+avaliação de resistência por TS.14
+Até que haja mais evidência disponível, um novo teste de repetição deve ser realizado em
+uma nova amostra de indivíduos que sejam inicialmente resistentes à rifampicina (RR) e
+que tenham baixo risco para TB resistente à rifampicina (exemplo: novos casos de TB sem
+histórico anterior de tratamento de TB, em países onde menos de 5% dos casos novos têm
+TB resistente à rifampicina). Em casos de detecção de resistência à rifampicina em pessoas
+em retratamento, não há necessidade de repetição do teste, assim como nos casos de
+falência clínica ou suspeita de resistência.
+fusão, em vez da análise de PCR em tempo real, como no Xpert® MTB/RIF. Essa análise
+por temperatura de fusão permite a melhor diferenciação das mutações silenciosas, tais
+como Q513Q ou F514F.
+da repetição dos testes e o encaminhamento de amostras para testes confirmatórios. O
+monitoramento de rotina dos indicadores de qualidade que incluem proporção e resulta-
+dos dos testes de repetição, bem como a proporção de pacientes encaminhados para TS,
+quando necessário, devem ser estabelecidos e revisados regularmente.
+Como o limite de detecção do cartucho Ultra é semelhante ao da cultura líquida, um
+resultado “traços” indica que há muito pouco bacilo na amostra. O número de bacté-
+rias presentes em uma amostra de um paciente de TB varia de amostra para amostra.
+Indicações para realização do TRM-TB
+a. Para PVHIV e crianças (<10 anos) que estão sendo diagnosticadas para TB pulmonar e
+para pessoas sendo diagnosticadas para TB extrapulmonar, usando LCR, linfonodos,
+amostras de tecido ou urina:
+i. o resultado detectado “traço”, obtido com a primeira amostra, deve ser considera-
+do como confirmação bacteriológica de TB (i.e. resultados verdadeiros positivos) e
+utilizados para decisões clínicas; e
+ii. exames adicionais, tais como cultura e TS fenotípicos, são necessários para confir-
+mar ou excluir a resistência à rifampicina, se o segundo teste do Ultra não fornecer
+informação sobre resistência.
+b. Para adultos sendo diagnosticados para TB e que não tenham HIV:
+i. considerar a possibilidade de TB diagnosticada clinicamente (i.e. TB sem confirma-
+ção bacteriológica);
+ii. considerar testes adicionais com o teste Ultra se houver uma alta suspeita clínica
+de TB. Fazer o teste em uma segunda amostra, que também pode conter poucos
+bacilos, em alguns casos, e gerar um resultado de “MTB não detectado”;
+iii. se o resultado do segundo teste do Ultra for “MTB detectado”, o que inclui “alto”,
+“moderado”, “baixo” ou “muito baixo”, deve-se seguir o algoritmo do Xpert MTB/
+RIF Ultra;14
+iv. se o segundo resultado do teste Ultra for “traços”:
+» para adultos cujo histórico de tratamento prévio de TB possa ser excluído
+de forma confiável, esse resultado pode ser considerado como confirmação
+bacteriológica de TB e usado para decisões clínicas, quando sinais e sinto-
+mas sugestivos de TB persistirem na avaliação; e
+» para adultos com um histórico de tratamento recente de TB, deve-se con-
+siderar a possibilidade de os dois resultados do teste Ultra serem falso-po-
+sitivos devido à presença de bacilos não viáveis. O paciente deve ser reava-
+a resistência à rifampicina, porque resultados de “traços” não fornecem
+informações sobre resistência à rifampicina. A decisão sobre tratar ou não
+sintomas sugestivos de TB, assim como outros exames complementares.
+Quadro 42 – Características do cartucho Xpert® MTB/RIF Ultra
+Equipamento GeneXpert® (6 cores)
+Incubação da amostra 15 minutos com o reagente de amostra
+1 sonda de controle de processamento de amostra
+Sondas 4 sondas que se ligam na região do rpoB
+2 sondas que se ligam às sequências IS1081 e IS6110
+Sequências de inserção (IS6110 e IS1081)
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+Curva de temperatura de melting: quatro sondas de regiões
+Volume do escarro O volume mínimo de escarro para um teste é de 1 ml
+Volume da PCR 50 µl
+65 minutos – resultado “não detectado”
+77 minutos – resultado “detectado”
+Limite de detecção 16 UFC/ml
+2°C a 28°C
+Fonte: Cepheid, 2017.17
+PCR: reação em cadeia da polimerase; UFC: Unidade Formadora de Colônia
+O procedimento do teste TRM-TB Ultra continua o mesmo. Entretanto, o tempo de
+execução é reduzido comparado com o do MTB/RIF (65-77 minutos comparado com 112
+minutos). Isso significa que os laboratórios podem realizar uma série de testes adicionais
+por dia de trabalho, se for compatível com o fluxo de trabalho, os recursos humanos
+disponíveis e as horas de trabalho. De qualquer forma, o consumo do teste real deve ser
+cuidadosamente revisto em cada laboratório, para evitar a subutilização dos instrumentos
+devido à falta de demanda de exames.
+Além disso, a emissão e a interpretação de resultados são diferentes nos resultados “tra-
+ços”. Assim, os POPs do laboratório devem ser atualizados. Os procedimentos atualizados
+logo disponíveis nos laboratórios. Todos os profissionais envolvidos na execução dos exa-
+mes devem receber treinamento sobre os procedimentos atualizados. Os procedimentos
+de garantia de qualidade existentes, inclusive os testes de proficiência, podem ser usados
+para o TRM-TB.
+O mesmo conjunto de equipamentos (plataforma GeneXpert, computador, monitor, te-
+clado, leitor de código de barras) pode ser usado para o cartucho Ultra. Uma “Pasta de
+Definição de Ensaio” específico (PDE) será incluída com o pacote dos cartuchos do TRM-TB
+Ultra pelo fabricante (Cepheid) e, uma vez instalado, o instrumento GeneXpert poderá ser
+usado para executar o teste TRM-TB Ultra.
+Se o instrumento GeneXpert já tiver sido usado para executar o teste Xpert® MTB/RIF
+com um PDE instalado, os cartuchos do Xpert® MTB/RIF podem continuar a ser usados.
+Inclusive, é possível utilizar um cartucho Xpert® MTB/RIF em um módulo enquanto se
+usa, simultaneamente, um cartucho do TRM-TB Ultra em um módulo diferente do mesmo
+instrumento.
+10.9 Controle de qualidade do TRM-TB15
+10.9.1 Controle interno da qualidade do TRM-TB
+A cada recebimento de novos lotes, os cartuchos devem ser testados usando-se uma amos-
+tragem (geralmente um cartucho por lote) e pelo menos uma amostra positiva e uma
+negativa, para garantir que estejam com o desempenho esperado.
+» O CQ pode ser centralizado no Lacen ou em um laboratório de referência antes de
+os cartuchos serem distribuídos aos locais.
+» Além desse CQ, o laboratório executor do teste deve realizar o monitoramento
+mensal dos indicadores de desempenho do teste, incluindo taxas de erros, tipos
+de resultados obtidos, módulos com defeito, entre outros. Tal avaliação é essencial
+para a detecção precoce de qualquer problema na execução do teste.
+10.9.2 Avaliação externa da qualidade do TRM-TB15
+processos pré-analíticos, analíticos e pós-analíticos que ocorram no local do teste.
+» Um painel de amostras é enviado para o laboratório da rede uma vez por ano.
+» O laboratório realiza o TRM-TB das amostras do painel como faria com amostras de
+pacientes de rotina e informa os resultados.
+» O LRN avalia os resultados de cada laboratório da rede e emite um relatório com
+aprovação no teste de proficiência ou medidas corretivas e preventivas necessárias.
+» Os resultados indicam a qualidade do desempenho dos profissionais e dos procedi-
+mentos da técnica de cada laboratório.
+» Os resultados são comparados aos resultados esperados e com os resultados obti-
+dos pelos outros laboratórios.
+Os resultados são monitorados para traçar tendências com o passar do tempo:
+» O relatório do TP deve ser fornecido de maneira oportuna para os laboratórios
+participantes e para o laboratório supervisor.
+» É necessário um relatório rápido para que se possa adotar rapidamente as medidas
+corretivas.
+» Enquanto as visitas e o monitoramento rotineiro dos indicadores de qualidade são
+os componentes mais importantes da GQ, TP ajuda a identificar não conformidades
+desempenho.
+10.9.3 Indicadores de desempenho laboratorial do TRM-TB
+O monitoramento rotineiro de indicadores de qualidade (indicadores de desempenho) é
+um elemento decisivo para a garantia de qualidade para qualquer teste diagnóstico, além
+de ser também um requisito da ISO.
+» Cada local de teste deve coletar e analisar os indicadores de qualidade mensalmente.
+» Qualquer mudança inexplicada nos indicadores de qualidade (tais como aumento
+das taxas de erro, mudança na taxa de positividade do CMTB ou na taxa de resis-
+tência à rifampicina ou mudança significativa no volume de testes realizados) deve
+ser documentado e se tornar a origem de uma análise a ser realizada.
+» Taxas de erro maiores do que um limiar predeterminado, no caso do TRM-TB de
+5%, devem ser investigadas.
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+» Os indicadores de qualidade devem ser revisados pelo gerente do laboratório e
+inesperados.
+» Deve ser estabelecido um sistema para emissão centralizada de indicadores de
+qualidade.
+» É exigência do sistema de garantia de qualidade que haja documentação das ações
+corretivas e subsequentes melhorias/normalização dos indicadores do laboratório
+após a adoção da ação corretiva.
+de indicadores para avaliar seu uso adequado:
+» número de testes realizados por mês;
+» número e porcentagem de MTB detectado, resistência à RIF não detectada;
+» número e porcentagem de MTB detectado, resistência à RIF detectada;
+» número e porcentagem de MTB detectado, resistência à RIF indeterminada;
+» número e porcentagem de MTB detectado “traços”, resistência à RIF indeterminada;
+» número e porcentagem de MTB não detectado;
+» número e porcentagem de testes realizados para acompanhamento;
+» número e porcentagem por tipo de erro;
+» número e porcentagem de resultados inválidos;
+» número e porcentagem de ausência de resultados;
+» número de cartuchos perdidos; e
+» número de módulos com defeito.
+Os resultados positivos do TRM-TB devem ser comparados com os resultados de cultura
+e TS, e os seguintes indicadores devem ser calculados pelos Lacen, que informarão os
+resultados ao LRN:
+» MTB detectado – cultura positiva;
+» MTB detectado – cultura negativa;
+» MTB detectado – cultura contaminada;
+» MTB detectado – cultura não realizada;
+» MTB detectado rifampicina resistente – TS fenotípico RR;
+» MTB detectado rifampicina resistente – TS fenotípico rifampicina sensível;
+» MTB detectado rifampicina resistente – TS fenotípico – rifampicina contaminado;
+» MTB detectado rifampicina resistente – TS fenotípico – não realizado;
+» MTB detectado traços – cultura positiva;
+» MTB detectado traços – cultura negativa;
+» MTB detectado traços – cultura contaminada;
+» MTB detectado traços – cultura não realizada;
+» MTB detectado traços – TS fenotípico resistência detectada (por fármaco);
+» MTB detectado traços – TS fenotípico resistência não detectada (por fármaco); e
+» MTB detectado traços – TS fenotípico – não realizado.
+Os dados devem ser coletados separados por grupo de população testada (HIV positivo,
+risco de MDR, outros).
+10.9.4 Indicadores de desempenho laboratorial do TRM-TB Ultra
+Além dos indicadores de qualidade laboratoriais já utilizados para os exames de TB, os indi-
+cadores para os resultados “traços” e as repetições de testes devem ser monitorados pelos la-
+boratórios e devem ser compilados em nível regional e nacional para determinar tendências.
+Os indicadores laboratoriais adicionais recomendados incluem:
+» número e proporção dos resultados “traços”, separado por grupo de pacientes;
+» número e proporção de pacientes cuja primeira amostra produz um resultado “tra-
+ços” e que têm uma repetição de teste, separado por grupo de pacientes; e
+» número e proporção de pacientes que têm uma repetição de teste, cuja segunda
+amostra dá um resultado para detecção de MTB e resistência à rifampicina, separa-
+do por grupo de pacientes.
+10.9.5 Solução de problemas
+Identificar o número e tipo dos vários erros pode ajudar na solução de problemas, uma
+vez que determinados erros podem estar associados com o processamento, o instrumento
+ou as condições ambientais.
+Podem-se realizar as seguintes análises:
+» o número de erros que ocorre por módulo de instrumento:
+› se um determinado módulo produz mais erros com o tempo, comparado com
+outros módulos, ele pode necessitar reparo.
+» o número de erros que ocorre por usuário:
+› se um determinado usuário comete um número incomum de erros, é necessá-
+ria uma investigação adicional dos tipos específicos de erro, uma vez que essa
+amostras.
+» o número de testes perdidos devido à interrupção ou variações de energia; e
+» o número, a duração e as causas das interrupções rotineiras do TRM-TB no
+laboratório:
+› causas comuns são cartuchos fora de estoque ou fora da validade, profissionais
+não disponíveis ou quebra do instrumento/computador.
+Problemas que podem ocorrer durante o processamento da amostra:
+» luz vermelha intermitente no módulo:
+› indica que o módulo pode estar falhando;
+› na janela do sistema GeneXpert Dx, clicar em "Manutenção" na barra de ferra-
+mentas e selecionar "Executar autoteste"; e
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+› caso o problema persista, contatar o suporte técnico do fabricante.
+» cartucho preso dentro do módulo:
+› solução 1: verificar se a porta do módulo está fechada.
+Tentar abrir lentamente a porta do módulo.
+› solução 2: na janela do sistema GeneXpert Dx, clicar em "Manutenção" na bar-
+ra de ferramentas e selecionar "Abrir porta do módulo ou atualizar EEPROM".
+› solução 3: encerrar o software e voltar a reiniciá-lo.
+Quando o software for reiniciado, o módulo iniciará colocando a válvula e o
+êmbolo na posição correta. Isso pode ajudar a abrir a porta.
+› solução 4: desligar o sistema e reiniciar o instrumento e o software.
+› solução 5: na janela do sistema GeneXpert Dx, clicar em "Manutenção" na
+barra de ferramentas e selecionar "Executar autoteste".
+› solução 6: se nenhuma das soluções anteriores funcionarem, REMOVA
+MANUALMENTE o cartucho.
+Atenção: isso deve ser executado pelo supervisor do laboratório ou por outro
+técnico qualificado seguindo as orientações do manual do fabricante.
+» Erros de análise pós-execução:
+› erros 5006/5007/5008: o controle de verificação da sonda falhou e o teste foi
+interrompido antes da amplificação; e
+possíveis causas:
+– amostra muito viscosa e/ou volume de amostra incorreto adicionados ao
+cartucho; tubo de reação do cartucho preenchido de forma inadequada;
+contém bolhas; ou apresenta problemas com a integridade da sonda; e
+– após 15 (10 + 5) minutos de descontaminação, se a amostra ainda permane-
+cer viscosa, não a coloque no cartucho. Aguarde até dez minutos adicionais
+até a amostra ficar completamente liquefeita e, em seguida, transfira-a
+para o cartucho utilizando uma pipeta descartável nova. O volume transfe-
+rido para o cartucho deve estar entre os 2 e 4 ml no máximo.
+› erro 5011: detectada perda de sinal na curva de amplificação:
+– sinal de fluorescência muito elevado que interfere na leitura por outro
+canal;
+– perda da pressão do tubo devido ao tubo do cartucho não estar vedado
+corretamente ou devido ao funcionamento incorreto da válvula; e
+– repita o teste utilizando um novo cartucho. Se o erro persistir, pode estar
+relacionado com o módulo, isso é, a fluídica do módulo pode não estar
+funcionando. Contate o suporte técnico do fabricante.
+› erro 2008: a pressão excede a pressão máxima permitida:
+– a amostra é demasiado viscosa; e
+– solução: igual a dos erros 5006/5007/5008.
+› erro 2127: foi detectada a perda de comunicação do módulo:
+– problema com a fonte de alimentação (flutuação/falha no fornecimento
+de energia principal ou na UPS);
+– desligue e volte a ligar o cabo de Ethernet entre o computador e o instru-
+mento. Desligue e volte a ligar o cabo de comunicação entre a placa de
+gateway e o equipamento. Reinicie o sistema e verifique a temperatura
+ambiente (deve estar abaixo dos 30ºC); e
+– verifique o funcionamento da UPS e instale uma proteção contra
+sobretensão.
+› erro 2037: teste da integridade do cartucho:
+– na parte inicial de um teste, o equipamento verifica a pressão no interior
+do tubo. Se a pressão não estiver correta, o software vai parar o teste devi-
+do ao cartucho não estar vedado corretamente. Tente fechar a tampa e, se
+não for isso, descarte esse cartucho.
+› Erro 2014/ 3074/ 3075/ 1011: problema no aquecedor/temperatura:
+– causas: temperatura elevada no módulo; avaria do componente do aque-
+cedor, ventoinha partida; pó no filtro junto à ventoinha;
+– este erro afetou algum módulo? É sempre o mesmo?
+– na janela do sistema GeneXpert Dx, clique em "Manutenção" na barra de
+menus e selecione “Relatórios de módulo" para verificar as temperaturas
+do módulo.
+» Resultado inválido – Falha no controle de processamento da amostra (SPC):
+– PCR foi inibido devido às partículas alimentares ou sangue na amostra;
+– prevenção: antes de misturar com o reagente da amostra (RA) para descon-
+taminação, verifique se a amostra contém partículas alimentares ou sangue.
+Após a descontaminação, deixe que as partículas alimentares assentem na
+parte inferior da amostra antes de adicioná-la ao cartucho.
+– se necessário, recolha outra amostra.
+» Sem resultado: o teste não pode ser concluído e foram recolhidos dados insuficien-
+tes. O software parou de trabalhar antes do teste ter terminado devido a:
+– bloqueio do Windows ou software;
+– falha de energia; e
+– a função PARAR TESTE foi ativada (acidental ou deliberadamente).
+– Para resolver, ligue a fonte de alimentação, reinicie a máquina e repita o
+teste com um novo cartucho. Contate o suporte técnico do fabricante se o
+problema persistir.
+» Outros problemas com hardware, software ou reagentes:
+– procure o número do erro no manual do fabricante e execute as medidas
+corretivas recomendadas;
+– contacte o seu fornecedor local ou o suporte técnico do fabricante; e
+– se possível, continue a realizar testes em outros módulos enquanto resolve
+qualquer problema do módulo específico.
+10 TESTE RÁPIDO MOLECULAR PARA TUBERCULOSE – TRM-TB
+1. WORLD HEALTH ORGANIZATION. Policy statement: automated real time nucleic acid
+rifampicin resistance: Xpert MTB/RIF system. Genebra: WHO, 2011.
+2. WORLD HEALTH ORGANIZATION. Rapid implementation of the Xpert MTB/RIF
+diagnostic test: technical and operational, “How-to”; practical considerations. Genebra:
+WHO, 2011. Disponível em: http://whqlibdoc.who.int/publications/2011/9789241501569_
+eng.pdf. Acesso em: 20 ago.ORGANIZAÇÃO E
+13 USO E MONITORAMENTO DE EQUIPAMENTOS
+13.1 Introdução
+dos exames realizados. O mau uso, a constante utilização ou até mesmo o uso não peri-
+ódico fazem com que o padrão de desempenho seja perdido. Por esse motivo, é muito
+importante o monitoramento dos equipamentos. Isso implica executar um conjunto de
+procedimentos que registrem o desempenho de um determinado equipamento. O pro-
+fissional de laboratório é responsável não só pela técnica correta de uso, como também
+rotina laboratorial.
+São recomendações gerais para a instalação e o uso dos equipamentos de laboratório:1
+» realizar o aterramento da rede elétrica;
+» utilizar uma tomada para cada equipamento;
+» anotar a voltagem das tomadas e dos cabos de cada equipamento;
+» treinar os profissionais nos POP e na limpeza dos equipamentos;
+» seguir as instruções de instalação contidas nos manuais;
+» manter em local acessível o manual de cada equipamento;
+» disponibilizar POP dos procedimentos a serem realizados;
+» evitar o uso de capas plásticas na proteção dos equipamentos, quando eles não
+estão sendo usados. Elas favorecem a condensação de umidade, resultando na oxi-
+dação dos componentes elétricos/eletrônicos, bem como o crescimento de fungos.
+esse fim;
+» desligar os equipamentos da rede elétrica antes de qualquer procedimento de
+limpeza;
+» desinfetar os equipamentos antes de enviá-los à manutenção;
+» fazer contrato de assistência técnica sempre que possível; e
+» registrar todos os equipamentos no programa de manutenção preventiva do
+laboratório.
+Conforme o método de diagnóstico, os equipamentos necessários estão apresentados no
+Quadro 45.
+Quadro 45 – Equipamentos utilizados conforme métodos de diagnóstico de tuberculose
+CULTURA, IDENTIFICAÇÃO FENOTÍPICA E CONSERVAÇÃO DE CEPAS
+Banho-maria Cabine de segurança biológica Capela de exaustão
+Fonte: Autoria própria.
+13.2 Equipamentos
+13.2.1 Agitador mecânico
+Usado para promover a agitação e a homogeneização de soluções em tubos (ensaio ou
+centrífuga) ou microtubos.
+Condutas:
+» verificar sempre a presença de fissuras nos tubos de ensaio de vidro ou plástico
+antes de efetuar a agitação; e
+» verificar sempre as condições da borracha do receptáculo de tubo.
+Uso:
+» selecionar a chave de “agitação contínua” ou “agitação periódica”. No uso da
+contínua, regular a velocidade desejada girando o potenciômetro e colocar o tubo
+ou frasco para agitação. Na periódica, o aparelho permanece desligado e, para
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+colocá-lo em funcionamento, basta pressionar o receptáculo de borracha com o
+próprio tubo a ser agitado.
+Monitoramento:
+» enviar à assistência técnica credenciada, anualmente, para realização de aferição
+e ajuste.
+13.2.2 Autoclave
+A autoclave é um equipamento utilizado para esterilização de materiais e, no caso de ser
+uma autoclave vertical, não deve estar dentro do laboratório, mas sim o mais próximo
+possível dele.2 O ideal para o laboratório de TB é a instalação de uma autoclave horizon-
+tal (com duas portas), para que o material utilizado na área contaminada seja colocado
+diretamente na autoclave e, depois de autoclavado, seja retirado pela outra porta para
+uma área não contaminada.
+eliminado do interior da autoclave, e que o vapor úmido penetre em todo material a ser
+autoclavado.3 Por isso, é importante que não seja colocado material em excesso.
+Os microrganismos patogênicos são mortos mais rapidamente pelo calor úmido (o vapor
+saturado desnatura as suas proteínas) do que pelo calor seco.3 A temperatura mínima deve
+ser de 121°C e mantida por 15 a 20 minutos, em 1 ATM acima da pressão atmosférica.
+Porém, alguns equipamentos automatizados operam a 134°C por três a cinco minutos.2
+Condutas:
+utilizar pelo menos duas autoclaves, uma para esterilizar reagentes e meios de cultura e
+outra para descontaminar o material infeccioso, antes de encaminhá-lo para a coleta de
+lixo hospitalar/laboratorial2 ou para o local de reciclagem, no caso de vidros;
+ATENÇÃO: verificar periodicamente as borrachas de vedação da autoclave e substi-
+tuí-las, se necessário, para assegurar a vedação hermética e evitar o escape do vapor
+de água.
+» instruir todos os usuários para o correto uso da autoclave;
+» manter o cesto e a câmara de autoclavação sempre limpos, lavando periodicamen-
+te com esponja de aço e sabão e retirando os resíduos com bastante água1; e
+» trocar a água da câmara de autoclavação pelo menos uma vez por semana.
+Uso:
+» verificar se a autoclave está desligada, com o manômetro zerado e sem indício de
+produção de vapores;
+» abrir a tampa e verificar o nível de água. Se necessário, acrescentar água até o nível
+de trabalho, ou seja, a resistência deve estar submersa;
+» distribuir os materiais no cesto de autoclavação, de forma que a circulação de vapor
+não seja prejudicada;
+» fechar a tampa. Encaixar e apertar as garras de fechamento firmemente;
+» ligar a chave do equipamento no máximo. Deixar a válvula de exaustão de vapor
+aberta;
+» aguardar a saída de vapor úmido pela válvula de exaustão. Manter a válvula de
+exaustão aberta por pelo menos cinco minutos após o início da fervura da água,
+o que garante a eliminação total do ar residual. Fechar a válvula de exaustão de
+vapor;
+» aguardar a autoclave atingir 121°C. Mudar a chave para médio ou mínimo para
+que seja mantida a temperatura de autoclavação. Marcar o tempo;
+» ao término do tempo, desligar a chave do equipamento e aguardar o seu esfria-
+mento ou a queda total da pressão interna;
+» abrir a válvula de exaustão para garantir a saída de toda pressão interna;
+» desrosquear as garras de fechamento, abrir a tampa e retirar o material autoclava-
+do; e
+» deixar esfriar e fechar a tampa.
+Monitoramento:
+» a eficiência do processo de autoclavação pode ser avaliada por controle biológi-
+co. Nas esterilizações por vapor úmido pode ser utilizada qualquer apresentação
+comercial de Bacillus stearothermophilus,1 que deve ser submetida à autoclavação
+e, posteriormente, o seu conteúdo semeado em meio de cultura apropriado para
+verificação de desenvolvimento. Caso haja desenvolvimento do bacilo, deve-se soli-
+citar calibração por assistência técnica credenciada. Esse controle biológico deve ser
+realizado pelo menos uma vez ao mês, preferencialmente quando o equipamento
+estiver com a carga máxima de sua capacidade; e
+» o ajuste da autoclave deve ser realizado por assistência técnica credenciada pelo
+menos uma vez ao ano.
+13.2.3 Balanças
+As balanças podem ser mecânicas ou eletrônicas1 e são usadas para pesar as substâncias
+que compõem os reagentes e as soluções. Para a quantidade máxima de 200 g deve ser
+utilizada balança analítica, com intervalo de leitura de 0,0001 g. Acima dessa quantidade,
+deve-se utilizar balança semianalítica, com intervalo de leitura de 0,1 g, 0,01 g ou 0,001 g.
+instalada. Para instalação ou uso devem ser observados os seguintes critérios:
+Condutas:
+» instalar em bancadas de alvenaria, com tampo de concreto, mármore ou granito,
+em paredes;1
+» nivelar a balança antes do uso e da aferição;
+» limpar delicadamente a balança após o uso, com auxílio de um pincel de cerdas
+macias;
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+» não fazer pesagens diretamente sobre o prato da balança. Usar papel ou recipientes
+próprios para pesagem.4 Esses não podem reagir com a substância a ser pesada; e
+» determinadas substâncias requerem o uso de EPI para serem manipuladas durante
+a pesagem.
+Uso da balança mecânica:1
+» tarar (zerar) a balança;
+» pesar o papel ou recipiente de pesagem. Anotar o peso;
+» somar o peso do papel ao peso da substância a ser pesada. O valor encontrado é o
+total a ser pesado;
+» travar a balança, marcar ou adicionar o peso correspondente ao valor final; e
+» destravar a balança e adicionar a substância até que a escala da balança atinja o
+valor total determinado.
+Uso da balança eletrônica:1
+» ligar a balança e aguardar pelo menos 30 minutos para estabilizá-la;
+» colocar o papel ou recipiente de pesagem no prato da balança;
+» tarar a balança, descontando, dessa forma, o peso do papel ou recipiente de pesa-
+gem; e
+» adicionar a substância a ser pesada até alcançar o valor desejado.
+Monitoramento:
+» deve ser realizado pela pesagem de um “peso-padrão” – objeto de aferição, com
+uma carga determinada e conhecida. As balanças que indicarem peso diferente ao
+do “peso-padrão” devem ser encaminhadas para ajuste em uma assistência técnica
+credenciada.
+13.2.4 Banho-maria
+Os banhos-maria são equipamentos utilizados em alguns testes bioquímicos de identifica-
+ção de micobactérias. São projetados para trabalhar na temperatura requerida, por deter-
+minada técnica, e possuem tampa para evitar a perda de calor e a evaporação excessiva
+da água. Essas tampas devem ser inclinadas para que a água da condensação não goteje
+sobre o que está sendo incubado.3
+Condutas:
+» no uso primário ou após a limpeza, encher o reservatório com água destilada;
+» desligar o banho-maria da tomada sempre que realizar a limpeza e nunca fazê-la
+diretamente sob a água corrente. Mensalmente ou sempre que houver depósitos
+ou incrustações, lavar as partes metálicas com esponja de aço e sabão neutro enxa-
+guando com bastante água; e1
+» ter cuidado com toques involuntários durante a limpeza da bancada ou uso do
+próprio equipamento para não alterar a posição do termostato.1
+Uso:
+» verificar se o nível de água está cobrindo a resistência e o sensor do termômetro;
+» caso seja necessário, acrescentar água destilada ou deionizada até o nível de
+trabalho;
+» ajustar o termostato para a temperatura desejada, sempre observando o limite da
+temperatura de trabalho do equipamento;
+» utilizar o equipamento somente quando a temperatura estiver estabilizada; e
+» manter sempre o banho-maria tampado durante o uso para evitar variação da tem-
+peratura e evaporação da água.
+Monitoramento:
+» durante o uso, verificar a temperatura antes e durante o processo de incubação,
+utilizando um termômetro de leitura pontual ou instantânea; e
+» após pernoite ligado e sem uso, medir a temperatura antes do processo de incuba-
+ção e anotar o resultado no “Formulário de Monitoramento – Banho-maria,” cujo
+modelo é apresentado no anexo I-A desse capítulo.
+13.2.5 Cabine de Segurança Biológica – CSB
+e a identificação de Mycobacterium tuberculosis. As CSB foram projetadas para evitar a
+dispersão de aerossóis de materiais perigosos para o ambiente de trabalho. A CSB Classe II,
+tipos B2 ou B3, é ideal para o uso em laboratórios de microbiologia – micobactérias, pois
+oferece proteção ao técnico, ao ambiente e ao produto manipulado.3 Nessa, o ar filtrado
+da área de trabalho da CSB forma uma “cortina” ou barreira de ar na janela frontal, que
+de aerossóis de dentro da CBS para o ambiente do laboratório.2
+Condutas:
+» instalar a CSB em um local distante da entrada principal do laboratório, já que o
+de ar da janela frontal. A mesma situação pode ocorrer quando a CSB está próxima
+ar,3 exemplo: centrífugas; e
+» não utilizar bico de Bunsen no interior da CSB devido ao risco de interferência no
+fluxo de ar interno e danos ao filtro HEPA.
+Uso:
+» desinfetar as paredes internas e a superfície da área de trabalho com gaze, papel-
+-toalha ou pano umedecido com solução de álcool a 70%;
+» cobrir a bancada com papel de filtro ou outro papel-absorvente, cuidando para
+não obstruir os orifícios do fluxo de ar;
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+» colocar somente o material necessário no interior da CSB. O excesso de material
+contaminação cruzada;
+» ligar a CSB e a lâmpada germicida UV pelo menos 20 minutos antes de iniciar seu
+uso;
+» desligar a lâmpada UV e ligar a lâmpada fluorescente. Introduzir as mãos e ante-
+braços na CSB, aguardar pelo menos 60 segundos e dar início às manipulações;
+» evitar a manipulação dos materiais com gestos bruscos para não alterar o fluxo de
+ar;
+» manter um saco plástico autoclavável no interior da CSB para o descarte de ma-
+terial contaminado. Ao término do trabalho, adicionar pequena quantidade de
+água (para assegurar a geração de calor úmido durante a autoclavação) e fechá-lo
+hermeticamente;
+» esperar cinco minutos após o término das manipulações para desligar a CSB e pro-
+ceder aos passos seguintes;
+» abrir a janela de vidro frontal. Retirar todo o material. Desinfetar as paredes inter-
+nas e a superfície da área de trabalho com gaze, papel-toalha ou pano umedecido
+com solução de álcool a 70%. Ligar a lâmpada UV por 30 minutos; e
+» desligar a lâmpada UV, desligar a CSB e registrar o uso no formulário de uso da
+CSB. O modelo de “Formulário de Registro de Uso – Cabine de Segurança Biológica
+(CSB)” é apresentado no anexo II-A desse capítulo.
+Monitoramento:
+» deve ser executado pelo fabricante ou pela assistência técnica credenciada. Inclui
+testes de velocidade do ar, perda de pressão dos filtros HEPA, contagem de partícu-
+las e eficiência dos filtros;
+» a troca do filtro deve ser realizada quando houver o acionamento do alarme de
+saturação ou após 18-24 meses de uso; e
+» antes de qualquer procedimento da assistência técnica, é necessário realizar a de-
+sinfecção do filtro HEPA,2 que deverá ser efetuado pelo técnico do fabricante ou da
+assistência técnica. Ou então, se o filtro HEPA for do tipo bag in/bag out, o técnico
+credenciado fará a troca sem necessidade da desinfecção.
+13.2.6 Capela de Exaustão – CE
+A Capela de Exaustão (CE) é usada para a manipulação segura de reagentes químicos
+voláteis, protegendo o manipulador dos vapores tóxicos produzidos. É importante que a
+CE tenha uma exaustão suficiente para a geração de pressão negativa em seu interior, não
+permitindo o escape de vapores tóxicos para o ambiente do laboratório.
+Condutas:
+» planejar e instalar a CE em local amplo e arejado; e
+» evitar o armazenamento de produtos químicos na CE, mesmo aqueles que são uti-
+lizados mais frequentemente.
+Uso:
+» colocar somente o material necessário e produtos químicos a serem utilizados no
+interior da CE. O excesso de material ou produtos em seu interior pode aumentar
+as chances de acidentes;
+» ligar a CE e a iluminação interna. Verificar a presença de pressão negativa;
+» fechar a janela frontal deixando espaço apenas para a introdução das mãos e dos
+antebraços;
+» evitar a manipulação dos produtos químicos com gestos bruscos;
+» manter a CE ligada por cinco minutos após o término das manipulações para que o
+em suspensão;
+» abrir a janela de vidro frontal. Retirar todos os materiais e produtos químicos;
+» desligar a CE e registrar o uso. O “Formulário de Registro de Uso – Cabine de
+Exaustão (CE)” para registro é apresentado no anexo II-B desse capítulo; e
+» limpar as paredes internas e a superfície da área de trabalho com gaze, papel-toa-
+lha ou pano umedecido com água.
+Monitoramento:
+» contatar o fabricante ou assistência técnica credenciada caso haja a perda da
+funcionamento.
+13.2.7 Centrífuga e microcentrífuga
+A centrífuga ou microcentrífuga é utilizada, principalmente, para concentrar os bacilos
+ou seus DNA. É recomendado que as centrífugas tenham rotor de ângulo fixo, o qual
+permite a centrifugação de tubos ou microtubos, com pequena diferença de peso, sem
+causar vibração excessiva e ruptura dos tubos.3
+13.2.7.1 Centrífuga
+Para a cultura, a centrífuga deve, preferencialmente, ser refrigerada e capaz de atingir
+pelo menos 3.000 x g, caso contrário, muitas micobactérias permanecerão em suspensão
+e serão descartadas com o sobrenadante.3 É imprescindível que as centrífugas tenham
+caçapas seladas, que evitam a dispersão de aerossol caso haja a quebra de algum tubo
+durante a centrifugação. Os equipamentos que possuem rotor de ângulo móvel requerem
+um balanceamento mais preciso dos tubos.
+ATENÇÃO: g é a força centrífuga relativa (FCR), o que é diferente de rotações por
+minuto (RPM).
+Em alguns equipamentos pode-se selecionar diretamente a FCR desejada, de modo que
+a centrifugação tenha o máximo de rendimento. Entretanto, a maioria das centrífugas
+indica apenas as RPM que o equipamento alcança. Para calcular a RPM correspondente a
+3.000 x g utilizar a seguinte fórmula:
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+! 𝐹𝐹𝐹𝐹𝑅𝑅
+𝑅𝑅𝑅𝑅𝑅𝑅 = 10 𝑥𝑥
+1,118 𝑥𝑥 𝑅𝑅"á$ %"
+Em que é o raio da centrífuga, correspondente à medida da distância (em cm), em
+linha reta e perpendicular, do centro do rotor até o fundo do recipiente onde é colocado
+o tubo de !ceán#trífuga.
+ATENÇÃO: em centrífugas com rotor de ângulo móvel, a medida do é reali-
+zada com a centrífuga parada e levantando-se o recipiente de tubos até a posição
+horizontal.
+Condutas:
+» lubrificar as partes móveis da centrífuga de acordo com o manual de instruções;
+» lavar as caçapas das centrífugas semanalmente com água e sabão, quando for pos-
+sível, separá-las do rotor; e
+» desinfetar, mensalmente, a parte interna da centrífuga e o rotor com um pano
+umedecido com solução de álcool a 70%. Em alguns modelos de centrífuga, o equi-
+e das caçapas que podem ser, inclusive, autoclavados.
+Uso:
+» balancear, dentro da CSB, os tubos a serem centrifugados, ou seja, deixá-los com o
+mesmo volume. Se possível, utilizar uma balança para tarar tubos;
+» encaixar, dentro da CSB, os tubos nas caçapas, de modo que aqueles que possuem
+o mesmo volume fiquem em posição diametralmente oposta. Selar as caçapas com
+as tampas antiaerossol;
+» acondicionar as caçapas seladas no rotor, fechar a tampa da centrífuga. Selecionar
+a FCR ou as RPM desejadas, o tempo de centrifugação e a temperatura5 aconselha-
+da de 4°C a 7°C;
+» esperar a parada completa da centrífuga para abrir a sua tampa;
+» retirar as caçapas e levá-las para o interior da CSB; e
+» abrir as caçapas, retirar os tubos de centrífuga e colocá-los em suporte adequado.
+Monitoramento:
+» pelo menos uma vez ao ano ou após qualquer serviço de manutenção, enviar à
+assistência técnica credenciada. Nas centrífugas não refrigeradas deve ser feita
+a aferição da rotação, do temporizador e do tacômetro (se houver). Nas centrí-
+fugas refrigeradas, além dos itens citados, deve ser feita também a aferição do
+termômetro.
+13.2.7.2 Microcentrífuga
+É utilizada para os testes moleculares de identificação. Pode ou não ser refrigerada, po-
+rém, deve ter um rotor de ângulo fixo devido à elevada FCR, que pode alcançar acima
+de 12.000 x g. Como na centrífuga convencional, em alguns modelos pode-se selecionar
+diretamente a FCR desejada; nas que indicam apenas RPM, ela pode ser calculada de
+acordo com a fórmula apresentada no item 13.2.7.1.
+Condutas:
+» lubrificar as partes móveis da microcentrífuga de acordo com o manual de instruções;
+» desinfetar, mensalmente, a parte interna do equipamento e o rotor com um pano
+umedecido com solução de álcool a 70%. A preparação e o “Formulário de Controle
+da Preparação da Solução de Álcool à 70%” estão descritos no capítulo 3. Em al-
+guns modelos de microcentrífuga, há indicação automática para a realização da
+desinfecção do rotor que pode ser, inclusive, autoclavado; e
+» deixar sempre a tampa do rotor rosqueada ou travada. Isso evitará danos ao rotor
+se ele for acionado acidentalmente.
+Uso:
+» ligar a microcentrífuga. Se for refrigerada, ligá-la pelo menos 15 minutos antes da
+primeira centrifugação, selecionando a temperatura desejada;
+» balancear os microtubos a serem centrifugados, ou seja, deixá-los com o mesmo
+volume;
+» acondicionar os microtubos no rotor, de modo que aqueles que possuem o mesmo
+volume fiquem em posição diametralmente oposta. Tampar o rotor;
+» fechar a tampa da microcentrífuga. Selecionar a FCR e o tempo de centrifugação.
+Acionar o rotor;
+» esperar a parada completa da microcentrífuga para abrir a tampa e retirar os mi-
+crotubos; e
+» fechar a tampa da microcentrífuga e desligá-la. Se for refrigerada, deixar a tampa
+na câmara interna.
+Monitoramento:
+» pelo menos uma vez ao ano, ou após qualquer serviço de manutenção, enviar à as-
+sistência técnica credenciada, para ser feita a aferição da rotação, do temporizador,
+do termômetro e do tacômetro (se houver).
+13.2.8 Coagulador de meio de cultura
+Utilizado na preparação de meios de cultura à base de ovo, deve alcançar e manter um
+calor úmido constante de 80°C a 85°C por 45 minutos. As prateleiras para acomodação
+dos tubos devem permitir a livre circulação de calor, bem como a inclinação dos tubos no
+ângulo correto (entre 5° e 10°).
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+Condutas:
+» instalar o coagulador em local próximo à rede hidráulica e de esgoto, que servirá
+para o abastecimento da caldeira de vapor e drenagem, respectivamente;
+» acertar a inclinação correta das prateleiras ou racks com auxílio de um tubo de cultura
+contendo água no mesmo volume de meio de cultivo, antes de ligar o coagulador; e
+» retirar todas as prateleiras ou racks onde serão acomodados os tubos antes de ligar
+o equipamento.
+Uso:
+» certificar que todos os interruptores do coagulador estejam desligados;
+» verificar o nível de água da caldeira de vapor. Se necessário acrescente água até o
+nível de trabalho;
+» ligar o interruptor “Geral” do equipamento. Os mostradores de “Temperatura” e
+“Set Point” entrarão em funcionamento;
+» ligar o interruptor “Circulação de ar”. Se ele estiver desligado não haverá aquecimento;
+» ligar o interruptor “Temperatura interna”;
+» ligar o interruptor “Temperatura vapor”; e
+» aguardar a estabilização das temperaturas para colocação das prateleiras ou racks
+contendo os tubos com meio de cultura já distribuído.
+Monitoramento:
+» buscar a presença de vazamentos tanto na alimentação de água quanto na drena-
+gem da caldeira de vapor;
+» verificar a estabilidade das temperaturas interna e do vapor. Solicitar assistência
+técnica credenciada para aferição dos termostatos e seus sensores sempre que ne-
+cessário ou anualmente; e
+» realizar o CIQ e AEQ dos meios produzidos, conforme descrito no capítulo 7.
+13.2.9 Cuba e fonte de eletroforese
+nucleicos em um gel de agarose submerso. Por questões de segurança, a indicada é aquela
+a tampa fechada. Dessa forma, quando a fonte estiver ligada, o operador não corre o risco
+de entrar em contato com o tampão de corrida da cuba e sofrer um choque elétrico. Os
+conectores da cuba devem ser compatíveis com a fonte e vice-versa, porém, caso não se-
+jam, podem ser utilizados adaptadores para os diferentes conectores. Por serem utilizadas
+de forma acoplada, as condutas, o uso e o monitoramento são descritos conjuntamente.
+Condutas:
+» utilizar uma tomada aterrada para cada equipamento;
+» instalar e sempre manter a cuba e a fonte de eletroforese em área pós-PCR para
+evitar a dispersão de produtos amplificados;
+» lavar todos os componentes da cuba com detergente neutro e uma esponja (de
+espuma) antes de iniciar e ao término da eletroforese. Enxaguar com água desti-
+lada e deixar secar a temperatura ambiente. Nunca usar esponja de aço, acetona,
+ésteres, álcool (acima de 30%) ou ácidos (acima de 25%) para limpeza da cuba,
+para não riscar ou tornar o acrílico opaco. Nunca autoclavar ou aquecer acima de
+50°C qualquer componente da cuba; e
+» ajustar o nivelamento da cuba.
+Uso:
+» posicionar a bandeja com a agarose solidificada na cuba de eletroforese. O volume
+de gel de agarose e a concentração são dependentes da metodologia utilizada.
+Aplicar as amostras;
+» fechar a tampa da cuba, conectar os fios dela à fonte de eletroforese e programar
+os parâmetros da corrida eletroforética;
+» certificar se as conexões dos polos entre a cuba e a fonte de eletroforese estão
+corretas antes de ligar a fonte. A inversão dos polos fará com que as amostras
+aplicadas migrem para o polo incorreto;
+» ligar o interruptor geral da fonte da eletroforese. Ligar o interruptor da corrida
+eletroforética e observar nos minutos iniciais da eletroforese, caso a migração das
+amostras de DNA esteja na direção do polo correto;
+» deixar ocorrer a migração das amostras, conforme tempo previsto na técnica; e
+» desligar o interruptor da eletroforese após o tempo previsto. Desligar o interruptor
+geral da fonte e desconectar os fios entre a fonte e a cuba. Abrir a tampa e retirar
+o suporte com a agarose.
+Monitoramento:
+» procurar a presença de fissuras no acrílico, incrustações nos plugues (eletrodos) ou
+de modo esperado; e
+» encaminhar a cuba e/ou a fonte de eletroforese para assistência técnica se essa
+necessitar de substituições de componentes como plugues, fios de platina ou de
+contenção de vazamentos.
+13.2.10 Destilador de água
+No destilador, a água sofre ebulição, vaporização e condensação que, teoricamente, tor-
+na-a isenta de qualquer impureza. O equipamento deve possuir desligamento automático
+na falta de fornecimento de água.
+Condutas:
+» instalar o destilador em local próximo à rede hidráulica e elétrica; e
+» mensalmente, ou sempre que houver depósitos ou incrustações, lavar o recipiente
+de evaporação e a resistência com esponja de aço, água e sabão neutro. Enxaguar
+com bastante água para retirar o resíduo de sabão.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+Uso:
+» confirmar se há fornecimento de água e ligar a torneira que abastece de água o
+destilador;
+» aguardar a saída de água pelo dreno de resfriamento do condensador;
+» ligar a chave elétrica geral do equipamento e aguardar a saída da água destilada
+pelo respectivo dreno;
+» acondicionar a água destilada em recipiente apropriado;
+» desligar a chave elétrica geral do destilador ao término do processo;
+» deixar a torneira, que abastece o destilador, aberta até o resfriamento do conden-
+sador; e
+» desligar o fornecimento de água.
+Monitoramento:
+» a cada uso, verificar a presença de obstrução ou vazamentos no circuito de abaste-
+cimento de água; e
+» verificar sempre as condições das instalações elétricas.
+13.2.11 Estufas bacteriológicas
+É aconselhável que as estufas bacteriológicas tenham o maior tamanho possível, uma
+aberta. Nas situações em que a temperatura de incubação é menor que a temperatura
+ambiente, por exemplo, na incubação de provas bioquímicas, deve ser utilizada uma es-
+tufa bacteriológica com sistema refrigerado incluso.2
+Conduta:
+» evitar sobrecarregar o interior da estufa para assegurar a circulação de ar e a ma-
+nutenção da temperatura interna;
+» abrir a porta somente o necessário; e
+» instalar as estufas em locais bem ventilados, distantes de fontes de calor e de água.
+Uso:
+» organizar todo material a ser incubado para abrir a estufa uma única vez;
+» distribuir os materiais nos diversos compartimentos e fechar corretamente a porta;
+» verificar se a porta ficou devidamente fechada; e
+» realizar os mesmos passos ao retirar o material incubado.
+Monitoramento:1
+deve ser realizado diariamente, ao início da rotina do laboratório, com duas leituras de
+temperatura: uma utilizando um termômetro de leitura pontual e outra com o termôme-
+tro de máxima e mínima;
+» realizar outra leitura no horário de maior uso do equipamento, com termômetro
+de leitura pontual; e
+» registrar os dados de cada leitura no “Formulário de Monitoramento – Estufa
+Bacteriológica”. O modelo do formulário é apresentado no anexo I-B desse capítulo.
+13.2.12 Freezer e refrigerador
+horizontal e a sua temperatura ideal é de -20°C. Já a temperatura ideal para o refrigerador
+é de 4°C, com variação aceitável de 2°C a 8°C.
+ATENÇÃO: os equipamentos que não formam gelo (frost free) provocam evaporação
+excessiva de líquidos em frascos não fechados hermeticamente.
+Condutas:
+» instalar o refrigerador e o freezer em locais bem ventilados, ou distantes de fonte
+de calor, deixando a distância mínima de 10 cm entre cada equipamento ou da
+parede.
+Uso:
+» evitar o acondicionamento do excesso de material e não forrar as prateleiras para
+não interferir na refrigeração interna1; e
+» organizar todo o material a ser armazenado para abrir a porta uma única vez.
+Monitoramento:
+» fazer uma verificação periódica das borrachas de vedação;
+» descongelar freezer e refrigerador mensalmente. Inicialmente, deve-se transferir
+todo conteúdo para outro local refrigerado. Desligar os equipamentos e, após o
+degelo, desinfetar internamente com um pano umedecido com solução de álcool
+a 70%, e depois com água e detergente neutro. A preparação e o Formulário de
+Controle da Preparação da Solução de Álcool a 70% estão descritos no capítulo 3; e
+» realizar diariamente controle de temperatura,1 no início da rotina do laborató-
+rio, com o termômetro de máxima e mínima, exclusivo para cada equipamento,
+e no horário de maior uso do equipamento. Registrar os dados de cada leitura no
+“Formulário de Monitoramento – Refrigerador e Freezer”. O modelo é apresenta-
+do no anexo I-C desse capítulo.
+ATENÇÃO: no uso de termômetro eletrônico, o mostrador deve ser fixado externa-
+mente, já que a simples abertura da porta pode alterar a leitura da temperatura.
+13.2.13 Medidor de pH
+Equipamento utilizado para determinação de pH, por meio do método eletromagnético,
+com compensação automática de temperatura.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+Condutas:
+» antes de ligar, verificar se o equipamento e a rede elétrica estão na mesma volta-
+gem; e
+» ao término de cada medição ou calibração manter a chave seletora em repouso
+(standby).
+Uso:
+» para ligar o aparelho, acionar a chave geral liga-desliga;
+» manter o aparelho ligado por, no mínimo, 30 minutos, para aquecer e estabilizar
+os componentes eletrônicos;
+» conectar bem o eletrodo e o sensor de temperatura ao aparelho;
+» lavar bem o eletrodo com água destilada e secar com papel-absorvente macio sem
+esfregar a membrana;
+» mergulhar o eletrodo e o sensor de temperatura na solução tampão de valor pH a
+25°C e ajustar com o potenciômetro “Potenciômetro de ajuste do tampão pH 7 e
+do potencial mV relativo – Calibração”. Medir a temperatura da solução (ver tabela
+pH/t inscrita no frasco da solução tampão que acompanha o aparelho) e ajustar o
+valor exato do pH de acordo com a temperatura;
+» retirar o eletrodo e o sensor afixados no suporte da solução. Enxaguar ambos com
+água destilada, secar com papel-absorvente e macio;
+» para medir na faixa ácida, mergulhar o eletrodo e o sensor de temperatura na
+solução tampão pH 4.01, ajustar com o potenciômetro “Potenciômetro de ajuste
+do (SLOPE), declive, ou do tampão diferente de pH 7,” para exatamente o valor da
+solução tampão de acordo com a temperatura da solução, da mesma forma como
+foi descrito para ajustar tampão pH 7. Para as medições de rotina na faixa alcalina,
+realizar o mesmo procedimento, porém, com a solução tampão de valor pH 9,18
+ou pH 10,01;
+» ao terminar esses procedimentos, o medidor de pH está calibrado e pronto para ser
+usado nas medições de rotina;
+» retirar o eletrodo e o sensor da última solução tampão usada. Lavar com água
+destilada, secar com papel-absorvente macio para não arranhar a membrana de
+vidro gelatinoso, antes de introduzi-los na amostra a ser medida;
+» mergulhar o eletrodo e o sensor na amostra. O valor que aparecer no visor é o pH
+da amostra;
+» para desligar, lavar o eletrodo com água destilada e seguir as instruções para ma-
+nutenção e conservação dos eletrodos descritas a seguir; e
+» desligar a chave geral liga-desliga e a tomada do sensor de temperatura.
+Monitoramento:
+» depois de usar o eletrodo, lavar e colocar a proteção da membrana com solução de
+repouso (solução de KCl 3M), para mantê-lo úmido;
+» quando o eletrodo de referência não estiver em uso, deve ficar imerso na solução
+de repouso;
+» caso o eletrodo seque ou fique parado por um longo período, deixar imerso em
+solução e em repouso por seis horas;
+» a umidade e os agentes corrosivos danificam o aparelho; caso o medidor de pH
+apresente leituras instáveis, limpar o conector (plug) do eletrodo e a tomada do
+aparelho, com álcool etílico ou acetona.
+ATENÇÃO: quando o pH da água destilada for medido e o aparelho indicar o valor
+na faixa ácida, e essa leitura ficar instável, é necessário utilizar um par combinado de
+eletrodo especial que tenha a junção tipo “luva” e, então, deverão ser adicionadas,
+na água, algumas gotas de KCl para aumentar a condutividade. Aguardar 24 horas
+para fazer a medição.
+» Para a preparação da solução KCl 3M, deve-se pesar 223,68 g de KCl, dissolver em 1
+litro de água destilada e deionizada. Armazenar a solução em frasco de polietileno,
+entre 2°C a 8°C. A sua estabilidade é de seis meses, sob refrigeração.
+13.2.14 Micropipetadores
+conjuntamente “ponteiras”. As micropipetas podem ser de volume fixo ou variável, mo-
+nocanal ou multicanal, dependendo da metodologia a ser empregada.
+Condutas:1
+» utilizar preferencialmente ponteiras com barreira ou filtro antiaerossol;
+» evitar a reutilização de ponteiras, já que os procedimentos de lavagem não garan-
+tem a remoção completa dos resíduos;
+» manter as micropipetas sempre na posição vertical; e
+» limpar externamente a micropipeta com solução de álcool a 70%, antes e após o
+uso. A preparação e o Formulário de Controle da Preparação da Solução de Álcool
+a 70% estão descritos no capítulo 3.
+Uso:
+» selecionar a micropipeta e o volume de acordo com as soluções a serem pipetadas;
+» acoplar a ponteira à micropipeta;
+» pressionar o êmbolo da micropipeta até o primeiro estágio;
+» introduzir a ponteira abaixo da superfície do líquido, aproximadamente 5 mm;
+» soltar o êmbolo gradativamente, aspirando ao líquido;
+» dispensar o líquido, pressionando o êmbolo até o segundo estágio;
+» soltar o êmbolo lentamente até a sua posição original; e
+» descartar as ponteiras em recipiente contendo NaClO 2% ou em saco plástico
+autoclavável.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+Monitoramento:
+» verificar a presença de algum componente quebrado, dificuldade no acionamento
+do êmbolo ou vazamento no sistema;
+» Realizar o teste hidrostático1 para detectar vazamento no sistema. Proceder confor-
+me descrito a seguir:
+› fixar a ponteira na micropipeta;
+› aspirar água destilada até o primeiro estágio;
+› tampar a extremidade inferior da ponteira com um dedo;
+› para micropipetas de menos de 1 ml:
+– pressionar o êmbolo até o segundo estágio, permanecendo assim por 20
+segundos;
+› para micropipetas de mais de 1 ml:
+– pressionar o êmbolo até o ponto médio entre os dois estágios da micropipeta.
+› liberar o êmbolo lentamente até a posição original;
+› retirar o dedo da extremidade da ponteira e verificar se há deslocamento da
+água. Se houver, a micropipeta deve ser encaminhada para manutenção e ajus-
+te; e
+› os micropipetadores devem fazer parte do programa de manutenção preventi-
+pelo método gravimétrico.
+13.2.15 Microscópio
+O microscópio deve ser binocular, possuir um bom conjunto óptico, ser ergonômico e
+possuir objetiva de imersão planocromática.
+Condutas:
+» instalar longe de equipamentos que causem vibrações, de reagentes químicos ou
+da rede hidráulica e em sala limpa, bem ventilada ou que tenha ar-condicionado
+para evitar a proliferação de fungos no sistema óptico;1,4
+» evitar que o microscópio fique sem as objetivas ou oculares para impedir a entrada
+de poeira;
+» coibir a desmontagem do microscópio para não desalinhar o conjunto óptico; e
+» carregar sempre com as duas mãos, uma segurando firmemente o braço do micros-
+cópio e a outra, a base.4
+Uso:
+» impedir o uso de papel-toalha comum ou gaze para evitar riscos nas lentes;
+» nunca use detergente, xilol, etanol 96% ou outro solvente para a limpeza das len-
+tes. Esses produtos podem retirar a cola que fixa as lentes aos corpos das objetivas
+e oculares; e1
+» verificar os procedimentos de uso do microscópio no capítulo 6 desse Manual.
+Monitoramento:
+» efetuar mensalmente a limpeza geral do microscópio,1 executando os seguintes
+passos:
+› retirar a poeira agregada aos mecanismos de movimentação da platina, do
+condensador e do ajuste de foco com um pincel de cerdas macias;
+› realizar a limpeza geral com um pano limpo umedecido com solução de álcool
+a 70%, com exceção do conjunto óptico (objetivas e oculares). A preparação
+e o Formulário de Controle da Preparação da Solução de Álcool a 70% estão
+descritos no capítulo 3; e
+› executar a limpeza das objetivas e oculares com papel-absorvente macio
+umedecido em uma solução contendo 60% de etanol e 40% de éter etílico.
+A limpeza da objetiva de imersão deverá ser feita com um papel-absorvente
+macio para a retirada do excesso de óleo, seguida da aplicação da solução de
+álcool-éter.
+13.2.16 Termociclador
+O termociclador é utilizado nas técnicas moleculares para amplificar ácidos nucleicos.
+de biologia molecular e da metodologia a ser utilizada, sendo que cada modelo apresenta
+manuais. De modo geral, as condutas, o uso e o monitoramento são a seguir apresentados.
+Condutas:
+» instalar o termociclador em sala isolada ou distante das áreas de pré-PCR e pós-PCR;
+» utilizar uma tomada aterrada e, se possível, conectar o termociclador a um nobre-
+ak; e
+» evitar o seu funcionamento durante o período noturno, sempre que possível, para
+incrementar a vida útil do equipamento, especialmente em regiões onde ocorre
+interrupção no fornecimento de energia elétrica.
+Uso:
+» ligar o termociclador;
+» inserir o programa de PCR a ser utilizado. Caso já esteja inserido, selecioná-lo entre
+os programas armazenados;
+» colocar os microtubos no bloco de amostras;
+» fechar a tampa do equipamento;
+» iniciar o programa escolhido; e
+» verificar periodicamente o andamento do programa.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+Monitoramento:
+» limpar o bloco de amostras e a tampa do termociclador pelo menos uma vez por
+mês ou sempre que necessário. Usar uma haste de algodão ou swab embebida com
+álcool isopropílico;
+» realizar mensalmente o “autoteste” ou teste de desempenho do sistema, para ve-
+rificar a necessidade ou não de encaminhar o equipamento para manutenção; e
+» encaminhar anualmente para a assistência técnica credenciada para realizar a ma-
+nutenção geral do equipamento.
+13.2.17 Termômetros
+Nos laboratórios, os termômetros são instrumentos imprescindíveis para o controle da
+temperatura em vários ensaios, na conservação de substâncias e microrganismos, no pró-
+prio ambiente de trabalho e no monitoramento de alguns equipamentos. Os mais utili-
+zados são os termômetros de máxima e mínima e os de leitura pontual ou instantânea.1
+em um momento ou para o monitoramento de equipamentos. Eles são de tipo eletrônico
+e possuem as resoluções padrões de 0,5°C e 0,1°C, respectivamente.1
+Os termômetros de máxima e mínima mostram as temperaturas extremas ocorridas duran-
+te um determinado período. Possuem duas colunas de mercúrio, sendo uma para indicar
+a temperatura mínima e outra para a máxima. São utilizados para o monitoramento
+de equipamentos como freezer, geladeiras e estufas, além do controle da temperatura
+ambiente do laboratório. Eles acusam se houve a interrupção temporária de fornecimento
+de energia elétrica ou o mau funcionamento de um equipamento.1
+Condutas:
+» guardar o termômetro em sua embalagem original para evitar a quebra, quando
+não estiver em uso;
+» no termômetro eletrônico, retirar a bateria do seu compartimento e ter sempre
+uma sobressalente; e
+» posicionar os termômetros de modo que os sensores fiquem localizados mediana-
+mente no espaço interno do equipamento. Não os posicionar muito próximo às
+resistências de estufa, banho-maria ou da ventilação interna do refrigerador e do
+freezer, sob o risco de realizar uma leitura equivocada.
+Uso do termômetro de leitura pontual:
+» colocar os sensores dos termômetros de leitura pontual em um frasco contendo
+uma solução de glicerol a 10% em água, para manter a temperatura estável.1
+Lacrar o frasco e acondicioná-lo no compartimento interno do equipamento a ser
+controlado. Aguardar pelo menos um pernoite para realizar a primeira leitura; e
+» realizar a leitura:
+› termômetro eletrônico: ler a temperatura indicada no mostrador externo e
+anotá-la no respectivo mapa de controle.
+Uso do termômetro de máxima e mínima:
+» colocar o termômetro no compartimento interno do equipamento a ser controla-
+do. Aguardar pelo menos um pernoite para realizar a primeira leitura;
+» abrir a porta do equipamento e, imediatamente, verificar as temperaturas máxima
+e mínima, anotando-as no respectivo mapa de controle; e
+» recolocar o termômetro no interior do equipamento.
+Monitoramento:
+» verificar se os termômetros utilizados no laboratório exibem a mesma leitura de
+Metrologia, Qualidade e Tecnologia (Inmetro).
+1. BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em
+unidades hemoterápicas e laboratórios de saúde pública. Brasília, DF: MS, 1998. (Série
+TELELAB).
+2. COLLINS, C. H.; GRANGE, J. M.; YATES, M. D. Tuberculosis bacteriology – Organization
+and Practice. Oxford: Butterworth-Heinemann, 1997.
+3. SELVAKUMAR, N. et al. Processing sputum specimens in a refrigerated centrifuge does
+not increase the rate of isolation of Mycobacterium tuberculosis. Journal of Clinical
+Microbiology, v. 41, p. 469-471, 2003.
+4. WORLD HEALTH ORGANIZATION. Laboratory services in tuberculosis control: Part III:
+Culture. Genebra: WHO, 1998.
+5. WORLD HEALTH ORGANIZATION. Laboratory services in tuberculosis control: Part II:
+Microscopy. Genebra: WHO, 1998.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+ANEXO A – Formulário de monitoramento
+A) Banho-maria
+Formulário de monitoramento –
+Banho-maria
+Marca: Modelo:
+N.º patrimônio: Sala:
+Mês: Ano:
+Nível de água: Depósitos e contaminações: Intervenções:
+1 – Limpeza 4 – Ajuste do
+1 – Adequado S – Sim
+2 – Manutenção termostato
+2 – Baixo N – Não
+3 – Acréscimo de água 5 – Outros (Indicar)
+Irregularidades/ocorrências:
+Ações corretivas ou preventivas:
+Fonte: adaptado de BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades hemoterápi-
+cas e laboratórios de saúde pública. Brasília: Série TELELAB,1998, 76 p.
+B) Estufa bacteriológica
+Formulário de monitoramento –
+Marca: Modelo:
+N.º patrimônio: Sala:
+Mês: Ano:
+A – Hora do início da rotina B – Hora do maior uso do equipamento
+Irregularidades/ocorrências:
+Ações corretivas ou preventivas:
+Data:
+Desinfecção mensal: Técnico:
+___/___/_____
+Fonte: adaptado de BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades hemoterápi-
+cas e laboratórios de saúde pública. Brasília: Série TELELAB,1998, 76 p.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+C) Refrigerador e freezer
+Formulário de monitoramento –
+Marca: Modelo:
+N.º patrimônio: Sala:
+Mês: Ano:
+A – Hora do início da rotina B – Hora do maior uso do equipamento
+Irregularidades/ocorrências:
+Ações corretivas ou preventivas:
+Data:
+Desinfecção mensal: Técnico:
+___/___/_____
+Fonte: adaptado de BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades hemoterápi-
+cas e laboratórios de saúde pública. Brasília: Série TELELAB,1998, 76 p.
+ANEXO B – Formulário de registro de uso
+A) Cabine de Segurança Biológica – CSB
+Formulário de registro de uso – Cabine de
+Segurança Biológica (CSB)
+Marca: Modelo:
+N.º patrimônio: Sala:
+Mês: Ano:
+HORA INICIAL PRÉ-USO DA LÂMPADA UV (20 A PÓS-USO DA LÂMPADA
+DE USO 30 MINUTOS) UV (20 A 30 MINUTOS)
+Irregularidades/ocorrências:
+Ações corretivas ou preventivas:
+Data:
+Desinfecção mensal: Técnico:
+___/___/_____
+Fonte: adaptado de BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades hemoterápi-
+cas e laboratórios de saúde pública. Brasília: Série TELELAB,1998, 76 p.
+13 USO E MONITORAMENTO DE EQUIPAMENTOS BÁSICOS
+B) Cabine de Exaustão – CE
+Formulário de registro de uso –
+Cabine de Exaustão (CE)
+Marca: Modelo:
+N.º patrimônio: Sala:
+Mês: Ano:
+Irregularidades/ocorrências:
+Ações corretivas ou preventivas:
+Data:
+Desinfecção mensal: Técnico:
+___/___/_____
+Fonte: adaptado de BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades hemoterápi-
+cas e laboratórios de saúde pública. Brasília: Série TELELAB,1998, 76 p.
+Conte-nos o que pensa sobre esta publicação.
+QR Code abaixo:
+bvsms.saude.gov.br

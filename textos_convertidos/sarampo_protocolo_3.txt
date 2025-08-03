@@ -1,0 +1,934 @@
+Secretaria Estadual de Saúde de Pernambuco
+Protocolo de intervenção
+para enfrentamento do
+surto de sarampo em
+Pernambuco
+Secretaria Executiva de Vigilância em Saúde
+2013
+Eduardo Henrique Accioly Campos
+Governador de Pernambuco
+Antônio Carlos Figueira
+Secretário Estadual de Saúde
+Eronildo Felisberto
+Secretaria Executiva de Vigilância em Saúde
+Patrícia Ismael de Carvalho
+Diretora Geral de Vigilância Epidemiológica e Ambiental
+Roselene Hans
+Diretora Geral de Controle de Doenças e Agravos
+Luciana Carolline Albuquerque
+Diretora Geral de Promoção, Monitoramento e Avaliação da Situação de Saúde
+Ovídio Araripe
+Diretora Geral de Laboratórios de Saúde Pública
+Jaime Brito
+Gerente Geral da Agencia Pernambucana de Vigilância Sanitária
+Tereza Campos
+Secretaria Executiva de Atenção à Saúde
+Ana Catarina de Melo
+Programa Estadual de Imunização
+Afra Suassuna
+Assessora da Secretaria executiva de Atenção à Saúde
+SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO. SECRETARIA EXECUTIVA DE VIGILÂNCIA EM
+SAÚDE. Protocolo de Intervenção para Enfrentamento do Surto de Sarampo em Pernambuco.
+Versão Preliminar. Pernambuco, novembro de 2013. 1º edição – Pernambuco, 2013.
+1. Vigilância Epidemiológica 2. Imunização 3. Sarampo
+Elaboração
+Secretaria Executiva de Vigilância em Saúde
+Romildo Assunção
+Patrícia Lima
+Ana Antunes
+Roselene Hans
+Laboratório Central de Saúde Pública - LACEN
+Maria José Couto
+Secretaria Executiva de Atenção à Saúde
+Maria José Bezerra Guimarães
+Ana Catarina de Melo
+Sumário
+1. Introdução ................................................................................................................................. 6
+2. Vigilância Epidemiológica do Sarampo ..................................................................................... 6
+2.1 Definição de caso suspeito de sarampo .............................................................................. 6
+2.2 Detecção e notificação ........................................................................................................ 7
+2.3 Investigação de Casos ......................................................................................................... 9
+2.3.1 Vigilância ativa de casos suspeitos de sarampo ......................................................... 10
+2.3.2 Procedimentos para verificar e precisar o período de exposição, transmissibilidade e
+de possível aparecimento de casos secundários para cada caso ....................................... 12
+2.4 Coleta de Amostras ........................................................................................................... 18
+2.5 Classificação dos casos ...................................................................................................... 19
+2.6 Digitação e encerramento dos casos no Sistema de Informação de Agravos de
+Notificação (Sinan) .................................................................................................................. 20
+2.7 Manejo dos casos .............................................................................................................. 20
+Sarampo - Fluxograma de Atendimento de Casos Suspeitos.............................................. 21
+2.8 Seguimento dos casos suspeitos ...................................................................................... 23
+2.9 Seguimento dos contatos .................................................................................................. 23
+3 Vacinação em casos de surtos .................................................................................................. 24
+3.1 Vacinação na rotina ........................................................................................................... 24
+3.2 Orientações para vacinação .............................................................................................. 24
+3.2.1 Vacina sarampo, caxumba, rubéola - Tríplice Viral .................................................... 24
+3.2.2 Vacina sarampo, caxumba, rubéola e varicela - Tetra Viral ....................................... 25
+3.3 Estratégias de vacinação frente a casos suspeitos de sarampo ........................................ 26
+3.3.1 Vacinação de bloqueio ................................................................................................... 26
+3.3.1.1 Orientações para vacinação de bloqueio .................................................................... 26
+3.4 Estratégias de vacinação frente a um caso confirmado ou surto ..................................... 27
+Registro de Dados ................................................................................................................... 27
+Informações sobre bloqueios vacinais .................................................................................... 28
+Referências .................................................................................................................................. 29
+Anexo A - Ficha de Investigação Epidemiológica das Doenças Exantemáticas ........................... 31
+Anexo A - Ficha de Investigação Epidemiológica das Doenças Exantemáticas ........................... 32
+Anexo B - Procedimentos de coleta, acondicionamento e conservação das amostras para o
+diagnóstico das doenças exantemáticas: Sarampo e Rubéola ................................................... 33
+Anexo C - Formulário para busca ativa institucional de casos suspeitos de sarampo ................ 35
+Anexo D -Formulário para busca ativa de casos suspeitos encontrados na busca ativa
+institucional ................................................................................................................................. 36
+Anexo E - Classificação final dos casos de sarampo .................................................................... 37
+Anexo F - Lista de Casos Suspeitos - Mapa Diário ....................................................................... 38
+Anexo G – Modelo de informe geral para acompanhamento .................................................... 39
+do surto de sarampo ................................................................................................................... 39
+Protocolo de Intervenção para Enfrentamento do Surto de Sarampo em Pernambuco
+1. Introdução
+O sarampo é uma doença infecciosa aguda, de natureza viral, grave, transmissível e
+extremamente contagiosa, muito comum na infância. A viremia, causada pela infecção,
+provoca uma vasculite generalizada, responsável pelo aparecimento das diversas
+manifestações clínicas, inclusive pelas perdas consideráveis de eletrólitos e proteínas, gerando
+o quadro espoliante característico da infecção. Além disso, as complicações infecciosas
+contribuem para a gravidade do sarampo, particularmente em crianças desnutridas e menores
+de 1 ano de idade.
+2. Vigilância Epidemiológica do Sarampo
+Os três principais componentes do sistema de vigilância do sarampo, são:
+a) a detecção e notificação dos casos suspeitos;
+b) a investigação, incluídas a busca ativa de casos, a obtenção oportuna de uma amostra de
+sangue, de secreção oro nasofaríngeo e urina (isolamento viral e detecção do genótipo viral);
+c) a classificação final do caso.
+2.1 Definição de caso suspeito de sarampo
+• A suspeita e notificação oportuna de casos suspeitos são essenciais para ativar e
+implementar medidas de resposta. A partir da suspeita, deve-se investigar
+apropriadamente cada caso e seus contatos.
+• A realização de ações de notificação, vacinação e controle devem ser realizadas, de
+forma imediata, a partir da suspeita sem esperar o resultado do laboratório.
+• Com base na informação clínica, epidemiológica e de laboratório deve-se estabelecer a
+classificação final de cada caso no âmbito estadual, mesmo que se confirme o
+descarte.
+Um caso suspeito de sarampo é aquele que cumpre com a seguinte definição:
+Caso suspeito de sarampo
+Toda pessoa com febre e exantema, acompanhada de tosse e/ou coriza e/ou
+conjunvite, independente da idade ou situação vacinal.
+2.2 Detecção e notificação
+• Os estabelecimentos de saúde deverão selecionar um “apoiador”, no qual será
+responsável pela busca ativa, envio de notificação imediata (até 24 horas da suspeita
+diagnóstica) de cada caso suspeito à Secretaria Municipal de Saúde e realizar a sua
+correspondente investigação e seguimento, com apoio técnico da Vigilância
+Epidemiológica da Secretaria Municipal de Saúde.
+• As Secretarias Municipais de Saúde deverão selecionar um “apoiador”, responsável
+pela coordenação das ações de vigilância e controle do sarampo junto aos diversos
+setores de saúde - públicos e privados -, detectando, investigando e monitorando o
+seguimento de cada caso suspeito oportunamente.
+• Na detecção de um caso suspeito de sarampo, o estabelecimento de saúde deverá
+notificar imediatamente à Secretaria Municipal de Saúde e ao Centro de Informações
+Estratégicas de Vigilância em Saúde (CIEVS-PE) da Secretaria de Saúde do Estado de
+Pernambuco (Figuras 1 e 2).
+• É obrigatório o envio da notificação negativa de casos, diariamente, até às 12 horas,
+para os municípios com casos suspeitos e/ou confirmados de sarampo. Os demais
+municípios deverão enviar a notificação negativa semanalmente.
+Fluxo da informação para a vigilância do sarampo
+Comunicação imediata da informação
+Além da comunicação à Secretaria Municipal de Saúde do município de ocorrência, é
+importante notificar também ao Centro de Informações Estratégicas de Vigilância em Saúde -
+SES/PE como forma de redundância da informação.
+Figura 1. Canais de comunicação do Centro de Informações Estratégicas de Vigilância em
+Saúde.
+Figura 2 . Ações, instrumentos e periodicidade para vigilância do sarampo por esfera de
+governo
+2.3 Investigação de Casos
+Todos os casos suspeitos de sarampo devem ser investigados imediatamente (em até
+48 horas), realizando as seguintes ações (Figura 3):
+• Observar as coberturas e a homogeneidade de vacinação contra o sarampo (primeira e
+segunda doses) do município e área onde procede o caso.
+• Organizar e realizar as atividades de busca ativa de susceptíveis e contatos ou novos
+casos e proceder imediatamente vacinação de bloqueio (em até 72 horas). Na
+impossibilidade de realizar bloqueio vacinal oportuno (até 72 horas), proceder com o
+bloqueio tardio, como estratégia para implementar a cobertura vacinal da área.
+• Realizar visita de campo ao domicílio, comunidade, local de trabalho e/ou lugares
+visitados pelo caso suspeito, nas primeiras 48 horas posteriores à detecção para o
+completar a lista de outros contatos e outros casos suspeitos não identificados
+imediatamente a partir da notificação.
+• Visitar todas as casas existentes em um raio de 200 metros partindo do domicílio do
+caso e seguindo a direção horária dos ponteiros do relógio (procura de casos
+suspeitos, contatos e realização do bloqueio vacinal).
+• Preencher a Ficha de Investigação Epidemiológica (FIE) para doenças exantemáticas
+preenchendo-a de forma completa e enviar imediatamente à Secretaria Municipal de
+Saúde e ao CIEVS/PE (Anexo A).
+• Intensificar a Vigilância Epidemiológica nos estabelecimentos de saúde (público e
+privado) da área do caso, comunidade e lugares ao redor do domicílio do caso para
+detectar mais casos.
+• Descrever resumo da evolução clínica e exame físico, incluindo detalhe do exantema,
+bem como registrar as datas das doses de vacina tríplice viral (1º e 2º doses) segundo
+cartão de imunização do caso suspeito.
+• Registrar no campo observação da FIE a história vacinal da mãe, quando o caso
+suspeito for em crianças com idade inferior a seis meses.
+• Determinar a fonte de infecção e estabelecer e identificar a cadeia de transmissão.
+• Obter amostra de sangue, secreção de oro e nasofaringe (swab) e urina do caso
+suspeito e enviar ao Laboratório de Saúde Pública – Lacen/Pernambuco, segundo
+procedimentos estabelecidos (Anexo B).
+• Identificar e realizar a lista de lugares visitados pelo caso suspeito (7 a 18 dias antes do
+exantema) e os contatos. Se um contato cumpre com a definição de caso suspeito,
+deve-se preencher a FIE, coletar amostras de sangue, swab oro nasofaríngeo e urina, e
+iniciar uma nova investigação em torno deste novo casos suspeito.
+• Identificar contatos, orientá-los quanto ao aparecimento de sintomas e monitorá-los
+por 21 dias.
+• Produzir relatórios diários com informações sobre o caso e notificação negativa
+(Anexos G e H).
+• Inserir a notificação/investigação no Sinan em até 7 dias a partir da data da
+notificação.
+Figura 3. Roteiro para investigação dos casos suspeitos de sarampo.
+2.3.1 Vigilância ativa de casos suspeitos de sarampo
+É a busca de casos suspeitos de sarampo nos estabelecimentos de saúde (público e
+privado) e na comunidade por meio de monitoramento específico que incorporam uma ação
+pró-ativa de busca, que permite conhecer o registro e notificação de casos.
+(cid:1) Ações Gerais
+1. A vigilância ativa se desenvolve em dois âmbitos:
+A) Institucional (em qualquer nível de atenção à saúde) por meio da busca de informação
+através da revisão dos registros dos pacientes que consultaram o estabelecimento de saúde
+(hospital. Estratégia de Saúde da Família - ESF, entre outros);
+Metodologia para busca ativa institucional (hospital, ESF, entre outros) de casos suspeitos de
+sarampo:
+• Revisar as fontes de informação identificando todos os casos de doença febril
+exantemática, por meio de: registros diários de serviços de emergência e ambulatório
+(fichas de atendimento); registros diários de consultas (ESF e Unidades Médicas);
+Sistema de Informação Hospitalar - SIH; registro de egresso hospitalar e pela
+declaração de óbito (DO).
+• Os diagnósticos e códigos da Classificação Internacional de Doenças - CID 10
+correspondentes a doenças febris exantemáticas (compatíveis com sarampo) devem
+ser incluídas na revisão, tais como:
+Diagnóstico CID - 10
+Sarampo B05
+Rubéola B06
+Doença de Kawasaki M30.3
+Escarlatina A38
+Dengue (com rash) A90
+Mononucleose B27
+Roséola ou exantema súbito B08.2
+Eritema Infeccioso B08.3
+Estomatite vesicular devida a entervírus B08.4
+com exantema (sínd.mão-pé-boca)
+Infecções virais especificadas,
+caracterizadas por lesões na pele
+e membranas mucosas B08.8
+Infecções virais não especificadas,
+caracterizadas por lesões na pele
+e membranas mucosas B09
+Erupção febril Sem código
+Doença exantemática - Sífilis
+Secundária A51.4
+• Verificar se todos os casos encontrados cumprem com a definição de caso suspeito de
+sarampo, revisando as fichas de atendimento e se tem sido notificado, investigado e
+classificado.
+• Com todos os casos encontrados e revisados preencher os formulários da busca ativa
+(Anexo C e D).
+• Se encontrar um caso que não foi notificado proceder da seguinte maneira:
+(cid:1) Notificá-lo e ingressá-lo no Sistema de Informação de Agravos de Notificação
+(Sinan), devendo preencher a FIE de doença exantemática;
+(cid:1) Manejá-lo segundo as recomendações para um caso suspeito de sarampo,
+realizando a investigação comunitária (busca ativa comunitária), coletando
+amostras de sangue, secreção oro nasofaríngea e urina, tomando medidas de
+controle (bloqueio vacinal em até 72 horas ou tardio) e realizando a
+classificação final do caso em conjunto com a Coordenação de Doenças
+Imunopreveníveis da SES;
+(cid:1) Registrar as informações do caso em formulário específico (Anexo F);
+(cid:1) Se o caso não puder ser classificado com amostra de laboratório
+(ultrapassando o prazo máximo de coleta - de até 30 dias do início do
+exantema), este caso será submetido a classificação por um comitê de
+expertos.
+B) Comunitária que se refere a investigação de campo sobre casos atuais encontrados ou por
+meio de indagação comunitária sobre o aparecimento de casos no passado recente.
+Metodologia para busca ativa comunitária de casos suspeitos de sarampo:
+A busca ativa comunitária se inicia a partir da:
+• Notificação, por meio do sistema de vigilância regular, de um caso suspeito ou
+confirmado de doença exantemática febril em uma área específica, para
+qual se realizam os procedimentos de intervenção rotineira normatizadas
+diante de um caso suspeito de sarampo;
+• Busca ativa institucional, quando se identifica um caso suspeito não notificado,
+portanto, deve ser notificado, investigado como um caso suspeito de
+sarampo;
+• Identificação de um município prioritário como de risco para sarampo
+(município com silêncio epidemiológico), utilizando metodologia apropriada
+para busca ativa comunitária em municípios prioritários.
+2.3.2 Procedimentos para verificar e precisar o período de exposição, transmissibilidade e de
+possível aparecimento de casos secundários para cada caso
+A identificação desses períodos faz parte do processo de investigação e torna-se
+importante para detecção de novos casos.
+Por exemplo, se um caso suspeito de sarampo apresentou o exantema em 10 de
+outubro de 2013. Identificar o período de infecção, transmissibilidade e de possível
+aparecimento de casos secundários:
+A. Período de infecção
+Período de incubação
+Geralmente, dura 10 dias (variando de 7 a 18 dias), desde a data da exposição à fonte de
+infecção até o aparecimento da febre, e cerca de 14 dias até o início do exantema.
+1º Passo: Calcular o período de infecção
+• Para o exemplo acima o período de infecção vai de 22 de setembro a 3 de outubro, com
+maior probabilidade o dia 22/09/2013.
+• Neste período o investigador deve listar os lugares onde esteve o paciente, bem como os
+contatos e se estes tiveram febre e exantema e/ou tosse e/ou conjuntivite e/ou coriza.
+Perguntar se esteve no exterior ou se recebeu visitas (identificar se veio do exterior e de
+que país). É importante indagar sobre o período (datas da entrada e saída) em que esteve
+no país, caso de ter viajado para o exterior. Descrever todos os deslocamentos e rotas
+realizadas neste período e levantar antecedentes de vacinação e respectivas datas de
+vacinação contra o sarampo.
+2º Passo: Listar lugares visitados, visitas recebidas, deslocamentos e transporte utilizado,
+antecedente e datas de vacinação contra o sarampo, utilizando o modelo abaixo.
+Identificar nome da pessoa com quem esteve em contato
+Em que lugar e se alguém apresentou febre e exantema e/ou tosse
+Data esteve? e/ou conjuntivite e/ou coriza
+22/09
+23/09
+24/09
+25/09
+26/09
+27/09
+28/09
+30/09
+01/10
+02/10
+03/10
+04/10
+05/10
+06/10
+07/10
+08/10
+09/10
+11/10
+12/10
+13/10
+B. Período de transmissibilidade
+Período de Transmissibilidade
+De 4 a 6 dias antes do aparecimento do exantema até 4 dias após. O período de maior
+transmissibilidade ocorre 2 dias antes e 2 dias após o início do exantema.
+1º Passo: Calcular o período de transmissibilidade
+• Para o exemplo acima o período de infecção vai de 5 a 10 outubro;
+• Realizar neste momento as seguintes ações:
+1. Investigar: lugares visitados, visitas recebidas, deslocamentos e tipo de transporte
+utilizado.
+2. Localizar: pessoas com quem esteve em contato e vacinar imediatamente as pessoas com
+risco de contágio, de acordo com as indicações preconizadas pelo Programa Estadual de
+Imunizações (observar mais adiante no item sobre de vacinação).
+2º Passo: Listar todos os contatos, detalhando o nome e as características de todos os
+contatos para realizar a vacinação e o seguimento durante todo o período de possível
+aparecimento de casos secundários, visando à identificação de sintomatologia para sarampo.
+Pessoa identificada como contato do paciente
+Data Em que lugar esteve? suspeito
+05/10
+06/10
+07/10
+08/10
+09/10
+10/10
+11/10
+12/10
+13/10
+14/10
+15/10
+16/10
+17/10
+18/10
+19/10
+20/10
+21/10
+22/10
+23/10
+24/10
+25/10
+C. Período de aparecimento dos possíveis casos secundários
+Aparecimento dos possíveis casos secundários
+Este período se inicia logo após o período de transmissibilidade e o contato deve ser
+seguido por até 21 dias.
+1º passo: Calcular o período provável de aparecimento de casos secundários
+• Considerando o exemplo acima, é importante monitorar todos os contatos (listados
+durante o período de transmissibilidade) neste período que vai de 12 de outubro a 01 de
+novembro de 2013, observando se um deles apresenta febre e exantema acompanhado
+de tosse ou conjuntivite ou coriza. Caso seja reconhecido um caso, este deve ser isolado e
+se reiniciará o mesmo procedimento a fim de interromper a cadeia de transmissão.
+Nome do contato direto do paciente Apresenta febre e exantema , tosse e/ou conjuntivite
+Data suspeito ou coriza
+Recomenda-se também realizar as seguintes ações:
+• Realizar a visita de seguimento no domicílio, fixando data e horário, visando examinar
+familiares e outras pessoas para verificar se apresentam sintomatologia para sarampo;
+• Realizar busca ativa de casos suspeitos no âmbito hospitalar/Estratégia Saúde da Família e
+na comunidade (casa-a-casa) para identificar lugares onde esteve o indivíduo durante o
+período de transmissibilidade.
+• Implementar a vacinação de acordo com as recomendações do Programa Estadual de
+Imunizações.
+2.4 Coleta de Amostras
+• Para todo caso suspeito de sarampo coletar, conforme as recomendações contidas no
+Anexo B, amostras de:
+o Sangue - de preferência a partir do 5º dia do início do exantema, até o 30º dias.
+Na impossibilidade de aguardar o 5º dia, coletar no primeiro contato com o caso
+(Pesquisa de Anticorpos virais).
+o Secreção de oro e nasofaringe (Swab) - do primeiro contato com o caso até o 30º
+dia do início do exantema, de preferência até o 5º dia (Reação de PCR e
+Genotipagem Viral).
+o Urina - do primeiro contato com o caso até o 30º dia do início do exantema, de
+preferência até o 5º dia ( Reação de PCR e Genotipagem Viral).
+• Todas as amostras deverão ser enviadas para seu processamento no Laboratório de
+Saúde Pública de Pernambuco – Lacen/PE, seguindo as normas estabelecidas e
+assegurando um adequado acondicionamento e transporte, como descrito no Anexo
+B.
+Laboratório de Saúde Pública de Pernambuco – Lacen
+Endereço: Rua João Fernandes Vieira, S/N - Boa Vista - Recife/PE
+Telefone: 81 - 31816416
+• Todas as amostras devem ser cadastradas no Sistema de Gerenciamento de Ambiente
+Laboratorial (GAL) e enviadas com uma cópia da Ficha de Investigação Epidemiológica
+de Doença Exantemática, com todos os campos devidamente preenchidos. Destaca-se
+a importância do preenchimento da data de início do exantema e da coleta da
+amostra e o estado vacinal, uma vez que são indispensáveis para interpretação dos
+resultados.
+• O Lacen/PE lançará os resultados no Sistema de Gerenciamento de Ambiente
+Laboratorial (GAL) em um tempo de até quatro dias.
+2.5 Classificação dos casos
+Em geral os casos de sarampo devem ser classificados dentro de duas semanas,
+considerando a data do início do exantema, exceto: quando a IgM tem resultado negativo
+(quando a primeira amostra for coletada durante os cinco primeiros dias do início do
+exantema), inconclusivo ou quando o IgM for reagente para sarampo e dengue.
+• Caso suspeito: toda pessoa com febre e exantema, acompanhada de tosse e/ou coriza
+e/ou conjuntivite, independente da idade e situação vacinal.
+• Caso confirmado por laboratório: caso suspeito de sarampo que tem resultados de
+laboratório positivo (sangue ou swab oro e nasofaríngeo ou urina);
+• Caso confirmado por vínculo epidemiológico: caso suspeito de sarampo com vínculo
+epidemiológico com um caso confirmado laboratorialmente;
+• Caso confirmado clinicamente: caso suspeito com insuficiente investigação de
+laboratório e falta de evidência de qualquer outra etiologia. Estes casos só podem ser
+encerrados após discussão com a Coordenação Estadual de Doenças
+Imunopreveníveis/SES-PE;
+• Caso importado: caso confirmado que segundo as provas epidemiológicas e/ou
+virológicas, esteve exposto ao vírus do sarampo fora das Américas durante os 7 a 21
+dias anteriores ao início do exantema;
+• Caso relacionado com importação: caso confirmado que, segundo as provas
+epidemiológicas e/ou virológicas, esteve exposto localmente ao vírus do sarampo e
+forma parte de uma cadeia de transmissão iniciada por um caso importado;
+• Caso adquirido no país: caso confirmado que se identifica como derivado dos casos
+secundários, diretamente conectados com o caso primário.
+• Caso endêmico: caso confirmado que, segundo as provas epidemiológicas e/ou
+virológicas, forma parte de uma cadeia de transmissão endêmica, significando que o
+vírus isolado já está circulando nas Américas por um período maior ou igual a 12
+meses;
+• Caso de fonte desconhecida: caso confirmado em que não se pode detectar a fonte de
+infecção;
+• Caso descartado: caso suspeito com investigação completa e com resultados de
+laboratório negativos.
+2.6 Digitação e encerramento dos casos no Sistema de Informação de Agravos de
+Notificação (Sinan)
+Os casos suspeitos ou confirmados de doenças exantemáticas (sarampo e rubéola)
+deverão ser registrados no Sinan no prazo máximo de 7 (sete) dias, a partir da data de
+notificação, conforme Portaria GM/MS Nº 104 de 25 de Janeiro de 2011.
+O encerramento deve se dar no prazo de 60 dias a partir da data da notificação. Será
+considerado caso encerrado aquele que tenha as informações do diagnóstico final e data do
+encerramento preenchidos.
+2.7 Manejo dos casos
+O manejo do paciente com sarampo inclui:
+• No caso de internamento hospitalar isolar o caso suspeito de sarampo até 5 dias após
+o exantema;
+• Recomendar isolamento domiciliar por até 5 dias após o exantema, em casos sem
+complicações;
+• É importante encaminhar ao hospital apenas os casos complicados:
+Hospital de Referência
+Hospital Universitário Oswaldo Cruz - HUOC
+Endereço: Rua Arnóbio Marques, 310 - Santo Amaro -Recife/PE
+Telefone: 81- 31841200
+• Nos hospitais, os casos suspeitos de sarampo devem ser mantidos em isolamento
+respiratório desde o começo dos sintomas até o quinto dia do exantema. Os casos
+suspeitos de sarampo não devem ser hospitalizados, salvo que seja absolutamente
+necessário;
+• Vacinar todo o trabalhador da saúde que entrou em contato direto com pacientes
+suspeitos com sarampo que não apresentem a Caderneta de Vacinação comprovando
+o registro de que já foi vacinado contra o sarampo. Salienta-se que esta intervenção
+deve ser realizada sem esperar a presença de um caso suspeito;
+• Os contatos do caso suspeito de sarampo devem ser vacinados conforme as
+recomendações estabelecidas pelo Programa Estadual de Imunizações;
+• Todo contato que apresentar febre deve ser isolado de imediato até que passe o
+período provável de transmissibilidade e deve realizar o seguimento para detectar o
+aparecimento do exantema.
+Sarampo - Fluxograma de Atendimento de Casos Suspeitos
+Hospital de Referência
+Hospital Universitário Oswaldo Cruz - HUOC
+Endereço: Rua Arnóbio Marques, 310 - Santo Amaro -
+Recife/PE - fone: 81- 31841200
+
+2.8 Seguimento dos casos suspeitos
+• Visitar imediatamente o paciente. Se o paciente foi detectado em um lugar diferente de
+seu domicílio (escola, creche, quartel, etc.), a Vigilância Epidemiológica deverá
+acompanhar o paciente e localizá-lo no lugar onde se realizará seu isolamento (casa,
+quartel, etc.);
+• Informar aos contatos do caso suspeito sobre a possibilidade de aparecimento de casos
+secundários, assinalando o momento em que se esperaria o possível aparecimento de
+sintomas nos contatos, e que deverá procurar a unidade de saúde mais próxima de sua
+residência;
+• Recomendar que o caso suspeito não deve comparecer a escola, creches, trabalho ou a
+outros locais como igreja, teatros, clubes, entre outros, quando presente febre e
+exantema e/ou coriza e/ou tosse e/ou conjuntivite;
+• Realizar visita diária ao paciente e a todos os contatos durante o tempo em que se espera
+o aparecimento de casos secundários (até 21 dias depois do exantema);
+• Realizar a segunda amostra de sangue quando a primeira amostra com IgM inconclusivo e
+naquelas coletadas durante os cinco primeiros dias do início do exantema, e com
+resultado IgM negativo. A segunda coleta deve ser realizada o mais breve possível, entre o
+6º e 30º dia do início do exantema;
+• A Vigilância Epidemiológica municipal deverá buscar e atualizar, diariamente, a lista
+detalhada de casos suspeitos, incluindo informação clínica, epidemiológica e de
+laboratório. Esta informação deve ser enviada diariamente à SES/PE, até às 12 horas,
+independentemente dos resultados laboratoriais.
+2.9 Seguimento dos contatos
+Contato
+É toda pessoa que convive ou compartilha outros espaços fechados com o caso suspeito
+durante o período de transmissibilidade, desde 4 dias antes e 4 dias depois do início do
+exantema.
+• Os contatos devem ser seguidos por meio de visita domiciliar, durante 21 dias
+contados a partir da data do exantema do caso suspeito, visando à identificação e
+determinação se está ocorrendo mais casos;
+• Listar os lugares frequentados pelos contatos, para a vacinação em antecipação ao
+aparecimento de novos casos depois do período de incubação, visando priorizar a
+vacinação em áreas onde se localizam os contatos dos contatos;
+• Se o contato se transforma em casos suspeito, deve-se seguir as recomendações
+descritas anteriormente para esses casos.
+3 Vacinação em casos de surtos
+A vacina é a única forma de prevenir a ocorrência do sarampo na população. O risco da
+doença para indivíduos suscetíveis permanece, em função da circulação do vírus do sarampo
+em várias regiões do mundo, e da facilidade em viajar por esses lugares.
+É necessário, portanto, manter um alto nível de imunidade na população, por meio de
+coberturas vacinais elevadas, iguais ou superiores a 95%, o que reduz a possibilidade da
+ocorrência do sarampo, permitindo a eliminação da transmissão do vírus, uma vez que, não
+encontrando suscetíveis, não é mantida a cadeia de transmissão.
+3.1 Vacinação na rotina
+É a atividade realizada de forma contínua na rede de serviços de saúde, em todo o
+território nacional. O objetivo é vacinar todas as crianças aos 12 meses, a fim de manter alta a
+imunidade de grupo, sendo necessário, para isso, alcançar e manter coberturas vacinais iguais
+ou superiores a 95%, em todas as localidades e municípios. O calendário nacional de vacinação
+indica a segunda dose da vacina tetra viral (sarampo, rubéola, caxumba e varicela) para
+crianças com 15 meses de idade, para corrigir possível falha vacinal primária e vacinar aqueles
+que porventura não tenham sido vacinados anteriormente.
+3.1.1 Vacinação Extra Muro
+Além da vacinação na rotina é necessário identificar locais com populações de risco
+expostas ao adoecimento, como trabalhadores de portos, aeroportos , hotéis e
+trabalhadores da saúde de serviços que poderão receber possíveis casos .
+3.2 Orientações para vacinação
+3.2.1 Vacina sarampo, caxumba, rubéola - Tríplice Viral
+Esquema:
+• Para indivíduos de 12 meses a 19 anos de idade: administrar 2 (duas) doses, conforme
+situação vacinal encontrada.
+• Administrar a 1ª dose aos 12 meses de idade com a vacina tríplice viral e a 2ª dose, aos
+15 meses de idade com a vacina tetra viral, para as crianças que já tenham recebido a
+1ª dose da vacina tríplice viral. Detalhamento no tópico da vacina tetra viral.
+• Considerar vacinada a pessoa (12 meses a 19 anos) que comprovar 2 (duas) doses de
+vacina com os componentes sarampo, caxumba e rubéola.
+• Para indivíduos de 20 a 49 anos de idade: administrar 1 (uma) dose, conforme situação
+vacinal encontrada. Considerar vacinada a pessoa que comprovar 1 (uma) dose de
+vacina com componente sarampo, caxumba e rubéola ou sarampo e rubéola.
+Dose: 0,5mL via subcutânea.
+Particularidades:
+• Esta vacina é contraindicada para gestantes e imunodeprimidos.
+• Mulheres em idade fértil devem evitar a gravidez até 1 ( um) mês após a vacinação.
+• Em situação de bloqueio vacinal em crianças menores de 12 meses, administrar 1
+(uma) dose entre 6 (seis) meses e 11 meses de idade e manter o esquema vacinal.
+• Em caso de esquema vacinal incompleto completar o esquema, de acordo com a faixa
+etária.
+• Não administrar simultaneamente com a vacina febre amarela (atenuada),
+estabelecendo o intervalo mínimo de 30 dias, salvo em situações especiais que
+impossibilitem manter o intervalo indicado.
+3.2.2 Vacina sarampo, caxumba, rubéola e varicela - Tetra Viral
+Esquema:
+• Administrar 1 (uma) dose aos 15 meses de idade, em crianças que já tenham recebido
+a 1ª dose da vacina tríplice viral (corresponde a uma dose de varicela e a 2ª dose da
+tríplice viral).
+Dose: 0,5mL, subcutânea.
+Particularidades:
+• A partir de 01 de setembro de 2013, a vacina tetra viral foi disponibilizada,
+exclusivamente, para as crianças que completarem 15 meses de idade a partir desta
+data, ou seja, para as crianças nascidas a partir de 01 de junho de 2012.
+Portanto, deverá ser considerada para a vacinação com a vacina tetra viral a coorte de
+crianças nascidas a partir de 01 de junho de 2012 e que atendam aos seguintes critérios:
+a. A tetra viral deve ser administrada nas crianças que completaram 15 meses de idade a
+partir 01 de setembro de 2013, desde que tenham recebido a 1ª dose da vacina tríplice viral;
+b. As crianças dessa coorte que não foram vacinadas oportunamente por ocasião da
+introdução da vacina tetra viral, poderão receber essa vacina, até completarem 23 meses e
+29 dias de idade (menores de 2 anos);
+c. As crianças dessa coorte que foram vacinadas com duas doses da tríplice viral poderão
+receber a vacina tetra viral até completarem 23 meses e 29 dias de idade (menores de 2
+anos);
+d. As crianças dessa coorte que já receberam uma dose com a varicela monovalente ou tetra
+viral aos 12 meses, poderão receber a vacina tetra viral até completarem 23 meses e 29
+dias de idade (menores de 2 anos).Para esta situação, serão consideradas as crianças que
+foram vacinadas nos CRIES, em áreas indígenas e nos serviços privados.
+3.3 Estratégias de vacinação frente a casos suspeitos de sarampo
+3.3.1 Vacinação de bloqueio
+Fundamenta-se no fato de que a vacina consegue imunizar o suscetível, em prazo
+menor, que o período de incubação da doença. Em função disso, a vacina deve ser
+administrada, de preferência, até 72 horas após a exposição.
+Porém, é de suma importância que a vacina seja administrada, mesmo que este
+prazo tenha sido ultrapassado, como estratégia para implementar a cobertura vacinal da
+área.
+A vacinação de bloqueio deve abranger todas as pessoas que tiveram contato com
+o caso suspeito no período de transmissibilidade, ou seja: pessoas do mesmo domicílio,
+vizinhos próximos, familiares e/ou amigos, creches e/ou escolas e/ou local de trabalho
+(pessoas da mesma sala de aula, do mesmo quarto de alojamento ou da sala de trabalho),
+pacientes que estiveram em unidades de saúde no mesmo período do caso, etc. Seguindo
+sempre o percurso deste individuo.
+3.3.1.1 Orientações para vacinação de bloqueio
+(cid:1) Em situação de bloqueio vacinal em crianças entre 6 a 11 meses, administrar 1 dose da
+vacina Tríplice viral, registrar na caderneta como dose de bloqueio e manter o
+esquema vacinal preconizado, orientando a mãe para vaciná-lo quando completar 1
+ano.
+(cid:1) Para a população a partir de 1 ano de idade a vacinação é seletiva seguindo a
+orientação do esquema básico de vacinação.
+(cid:1) Para todos entre 1 e 19 anos de idade assegurar duas doses com os componentes
+sarampo, caxumba e rubéola com intervalo mínimo de 30 dias entre as doses.
+(cid:1) Para a população entre 20 e 49 anos de idade assegurar uma dose com a vacina tríplice
+ou dupla viral.
+(cid:1) A vacinação de bloqueio, portanto, deve ser realizada quando ocorre um ou mais casos
+suspeitos de Sarampo.
+(cid:1) Para outras faixas, acima dos 49 anos de idade, a vacina só é indicada com base na
+análise da situação epidemiológica.
+(cid:1) Essa vacinação é utilizada de forma seletiva.
+3.4 Estratégias de vacinação frente a um caso confirmado ou surto
+Intensificação Vacinal: frente a um caso confirmado ou surto, a conduta indicada é a
+realização da intensificação vacinal, com o objetivo de interromper a cadeia de
+transmissão do vírus do sarampo, numa área geográfica determinada.
+A intensificação vacinal implica na busca exaustiva de todos os suscetíveis mediante a
+vacinação casa-a-casa, incluindo os domicílios e os estabelecimentos coletivos, como por
+exemplo, escolas, creches, orfanatos, canteiros de obras etc.
+A intensificação vacinal deve abranger:
+(cid:2) Os locais frequentados pelo caso suspeito/confirmado: residência, escola, creche,
+cursinhos, faculdade, alojamento, local de trabalho e outros estabelecimentos
+coletivos; ou
+Todo o município, quando indicado.
+Registro de Dados
+O registro deverá ser feito no boletim diário de doses aplicadas no campo correspondente
+da dose administrada. E registrar no API WEB e ou SI PNI, e planilha bloqueio vacinal.
+IMPORTANTE! A QUANTIDADE DE DOSES ADMINISTRADAS EM UM BLOQUEIO
+VACINAL E INTENSIFICAÇÃO VACINAL DEVERÃO SER ENCAMINHADAS PARA A
+COORDENAÇÃO DO PROGRAMA ESTADUAL DE IMUNIZAÇÃO.
+Informações sobre bloqueios vacinais
+Município:
+Número de casos notificados:
+Dos casos confirmados, quantos tiveram bloqueio vacinal oportuno?
+Números de bloqueios vacinais realizados:
+Número de bloqueios vacinais oportunos:
+Vacinados no bloqueio Sexo
+Vacinados
+Faixa etária 1ª dose 2ª dose Fem Mas anteriormente
+< 1 ano
+1 ano
+2 anos
+3 anos
+4 anos
+5 a 6 anos
+7 a 11 anos
+12 anos
+13 a 14 anos
+15 a 16 anos
+17 a 19 anos
+20- 24 anos
+25-29 anos
+30 - 34 anos
+35- 39 anos
+40-44 anos
+45- 49 anos
+50- 59 anos
+60 anos e mais
+Total
+Referências
+1. Brasil. Ministério da Saúde. Guia de Vigilância Epidemiológica. 7ª ed. Brasília, DF: MS/SVS,
+2009.
+2. España. Sociedad Española de Epidemiología (Coordenadores: Àngela Domínguez García y
+Eva Borràs López. El sarampión - 7ª Monografia de la Sociedad Española de Epidemiologia.
+2. Organización Panamericana de la Salud (OPS/OMS). Eliminación del Sarampión: Guia
+Práctica. 2ª ed. Washington, DC: OPS, 2007.
+3. Organización Panamericana de la Salud (OPS/OMS). El control de las enfermidades
+transmissibiles. 19ª ed. Washington, DC: OPS, 2011.
+4. Organización Panamericana de la Salud (OPS/OMS). Representación Ecuador. El brote de
+Sarampión en Ecuador. 30ª ed. Ecuador: OPS/OMS, enero a julio, 2012.
+5. Organización Panamericana de la Salud (OPS/OMS). Representación Ecuador. El brote de
+Sarampión en Ecuador - 2dda. parte. 31ª ed. Ecuador: OPS/OMS, marzo, 2012.
+ANEXOS
+Anexo A - Ficha de Investigação Epidemiológica das Doenças Exantemáticas
+Anexo A - Ficha de Investigação Epidemiológica das Doenças Exantemáticas
+Anexo B - Procedimentos de coleta, acondicionamento e conservação das amostras
+para o diagnóstico das doenças exantemáticas: Sarampo e Rubéola
+SECRETARIA DE SAÚDE DO ESTADO DE PERNAMBUCO - SES
+SECRETARIA EXECUTIVA DE VIGILÂNCIA EM SAÚDE
+LABORATÓRIO CENTRAL DE SAÚDE PÚBLICA / LACEN-PE
+“Dr. Milton Bezerra Sobral”
+Procedimentos de coleta, acondicionamento e conservação das amostras para o
+diagnóstico das doenças exantemáticas: Sarampo e Rubéola
+1. INTRODUÇÃO
+Dentre as doenças exantemáticas de interesse em saúde pública, o sarampo e a
+rubéola estão entre as de maior importância. O sarampo é uma doença exantemática,
+extremamente contagiosa, cujo agente etiológico é o vírus do sarampo, pertencente ao gênero
+Morbillivirus e a família Paramyxoviridae. No campo das doenças infecto-contagiosas, é uma
+das principais causas de morbimortalidade entre as crianças menores de 5 anos, sobretudo as
+desnutridas e as que vivem nos países subdesenvolvidos. A implementação do Plano de
+Erradicação do Sarampo no país, a partir de 1999, impulsionou a vigilância e o controle do
+sarampo.
+A Rubéola é uma doença exantemática aguda, de etiologia viral, que apresenta alta
+contagiosidade, acometendo principalmente crianças. Doença de curso benigno, sua
+importância epidemiológica está relacionada ao risco de abortos, natimortos, e malformações
+congênitas, como cardiopatias, catarata e surdez. É denominada síndrome da rubéola
+congênita (SRC), quando a infecção ocorre durante a gestação.
+2. COLETA, ACONDICIONAMENTO E CONSERVAÇÃO
+METODOLOGIA TIPO DE PERÍODO DA RECIPIENTE/
+MATERIAL/ COLETA CONSERVAÇÃO
+QUANTIDADE
+Sorologia Coletar de 5 a 10 mL de * Até 28 dias do Tubo de polipropileno.
+(Ensaios sangue venoso de forma início do exantema. As amostras de soro podem ser
+Imunoenzimáticos) asséptica, sem armazenadas até 48 horas na
+anticoagulante; temperatura de 4ºC - 8ºC na
+Nos casos suspeitos parte inferior da geladeira (não
+Quando se tratar de de Síndrome da colocar no congelador da
+criança muito pequena e Rubéola Congênita geladeira). Enviar ao LACEN no
+não for possível coletar o (SRC), coletar o prazo máximo de 2 dias. Caso
+volume estabelecido, sangue logo após a não seja possível enviar o soro
+coletar, no mínimo, 3 mL suspeita da até 2 dias, colocá-lo no freezer –
+de sangue. Síndrome. 20ºC até o momento do
+transporte.
+Isolamento viral e Podem ser coletados 3 O ideal é que seja 1.Frasco coletor de secreção para
+detecção de ácidos tipos de material: coletado até o 5º dia o caso de aspirado de
+nucléicos do início do nasofaringe;
+1. Aspirado de naso exantema*.
+faringe com frasco 2.Tubo de polipropileno com
+coletor de secreção; Quanto mais meio de cultura estéril fornecido
+próximo do início do pelo LACEN e swabs de rayon, no
+exantema as caso de coleta de swab
+2. Swab combinado de
+amostras forem combinado de nasofaringe e
+nasofaringe e orofaringe;
+coletadas e quanto orofaringe;
+Coletar 3 amostras de
+mais rapidamente
+swab, uma amostra de
+cada narina e uma da chegarem ao 3.Tubo coletor de
+garganta com o uso de laboratório, maiores urocultura(tubo estéril), para o
+fricção para obter as serão as caso de coleta de urina;
+possibilidades de
+células de mucosa, uma
+isolamento viral e
+vez que o vírus está As amostras clínicas deverão ser
+detecção dos ácidos
+estreitamente ligado às encaminhadas imediatamente ao
+nucléicos por
+células. Colocar os 3 LACEN.
+técnicas de biologia
+swabs em um tubo Caso isso não seja possível, deixar
+molecular.
+contendo 3 mL de meio na parte inferior da geladeira,
+fornecido pelo onde poderão ficar
+laboratório. acondicionadas até no máximo,
+24-48 h.
+3. Urina: Coletar em (não congelar )
+recipiente estéril, da
+mesma maneira como
+para a realização de
+urocultura
+Atenção: Não é necessário que o paciente esteja em jejum. Toda coleta deverá ser feita com o
+acompanhamento da ficha de investigação devidamente preenchida.
+* Na situação de surto, o período máximo para coleta das amostras clínicas é até 30 dias.
+TRANSPORTE
+• Acondicionar os tubos de forma que evite derramamento ou vazamento durante o
+manuseio, processamento, armazenamento ou transporte, na posição vertical em sacos
+plásticos individuais em caixa térmica de paredes rígidas e tampa, sob refrigeração (com
+gelo reciclável). Usar suporte para conter derramamentos (estante e papel absorvente ou
+papel toalha). Encaminhar o material com a Ficha de Investigação de Agravos de
+Notificação – SINAN, devidamente preenchida e protegida do contato direto com as
+amostras, para o LACEN e já cadastrado no sistema GAL.
+• A unidade de saúde deve trazer a caixa para transporte com gelo reciclável ao receber o
+meio de cultura do LACEN no setor de Virologia.
+Fonte – Manual de coleta do LACEN
+Anexo C - Formulário para busca ativa institucional de casos suspeitos de sarampo
+SECRETARIA DE SAÚDE DO ESTADO DE
+PERNAMBUCO
+SECRETARIA EXECUTIVA DE VIGILÂNCIA
+EM SAÚDE
+DIRETORIA GERAL DE CONTROLE DE
+DOENÇAS E AGRAVOS
+FO RMULÁRIO PARA BUSCA ATIVA INSTITUCIONAL DE CASOS SUSPEITOS DE SARAMPO
+Município:
+__________________________ Nome do responsável pela busca ativa:_____________________________ Cargo:_______________________
+Unidade de Saúde
+__________________________
+Tipo de Serviço Tipo de Local da Busca Nº de
+Atendimento Casos que Nº de Nº de Casos Nº de
+Período atenderam Entrevistas Suspeitos Visitas da Total de a definição realizadas de Encontrados Domiciliares revisão Revisões de caso caso triado (por (Definição do Guia realizadas
+(mês/Ano) triado telefone ou de VE - atende a de caso
+(mais domiciliar) tríade) suspeito
+ampla)
+ocilbúP odavirP sortuO atlusnoC lairotalubmA /aicnêgremE oãçavresbO oãçanretnI ed
+orviL
+ortsigeR oiráutnorP ametsiS odazitamrofnI EMAS HIA
+Anexo D -Formulário para busca ativa de casos suspeitos encontrados na busca ativa institucional
+SECRETARIA DE SAÚDE DO ESTADO DE PERNAMBUCO
+SECRETARIA EXECUTIVA DE VIGILÂNCIA EM SAÚDE
+DIRETORIA GERAL DE CONTROLE DE DOENÇAS E AGRAVOS
+Lista de casos suspe itos encontrados na busca ativa ins titucional ( que ate nde a de finição de caso da tríade )
+Unidade de Saúde: __________________________________________ Período da busca: _____________________________
+Presença de:
+Data Diagnóstico
+Data início Diagnóstico
+Nº do início Data de Final
+Nome Idade Endereço Telefone do Clínico
+Prontuário da Coleta (conclusão
+exantema (suspeita) febre do caso) essot aziroc
+etivitnujnoc ed
+sahcnam
+kilpoK
+Anexo E - Classificação final dos casos de sarampo
+Critérios Definição
+Confirmado por laboratório
+Detecção de anticorpo IgM específicos contra o sarampo em amostra de
+sangue obtida adequadamente
+Isolamento do vírus do sarampo com determinação do genótipo viral (PCR)
+Confirmado por vínculo
+epidemiológico Vínculo epidemiológico a outro caso confirmado laboratorialmente.
+Vínculo epidemiológico - Se ocorrer qualquer contato entre o caso suspeito
+e o caso confirmado no laboratório, no qual o exantema se iniciou entre 7-
+18 dias antes do caso atual.
+Confirmado clinicamente
+Caso suspeito que, por qualquer motivo, não se tenha investigação
+adequadamente.
+Critérios de inclusão para esta situação:
+Se o paciente morrer antes de concluir investigação; Se não pode se
+localizar o caso; Se perdeu sua pista durante o seguimento; Se somente
+recebeu um diagnóstico clínico de um profissional de saúde, sem provas de
+laboratório. Esta situação revela o processo de falha do sistema de
+vigilância nestes casos.
+Caso descartado
+Deve-se analisar os sintomas e o diagnóstico clínico inicial de todos os casos
+descartados. Caso que tenha sido objeto de uma investigação completa,
+incluída a obtenção de amostra de sangue em momento oportuno.
+Apresentar provas sorológicas negativas (IgM não reagente), dentro dos 30
+dias posteriores ao início do exantema
+A existência de resultados laboratoriais que confirmem outra infecção
+associada com febre e exantema, como a dengue, serve para corroborar a
+decisão.
+Caso relacionado à vacina Levar em conta o quadro clínico, o tempo transcorrido entre a vacinação e o
+inicio da doença e entre esta e a obtenção da amostra e a informação
+epidemiológica.
+Um caso suspeito de sarampo pode classificar-se como descartado e ser
+relacionado à vacina se satisfizer os cincos critérios seguintes (OMS, 2005):
+1. O paciente teve a doença exantemática, com ou sem febre porém o não
+apresentou tosse ou outros sintomas respiratórios que acompanham o
+exantema.
+2. O exantema apareceu 7 a 14 dias depois da vacinação contra sarampo.
+3. A amostra de sangue que contém anticorpos IgM específicos foi obtida
+entre 8 e 56 dias depois da vacinação.
+4. Uma minuciosa investigação sobre a área não identificar um caso índice
+ou caso secundário.
+5. A investigação prática e de laboratório não pode estabelecer outras
+causas (e tampouco se pode detectar o vírus selvagem do sarampo
+mediante cultivo).
+OBS.: Nos casos sem detecção do genótipo vacinal, identificados no
+contexto de um surto ou com histórico de viagem a áreas com ocorrência
+de casos, deverão ser confirmados por laboratório.
+Anexo F - Lista de Casos Suspeitos - Mapa Diário
+MUNICÍPIO:
+RESPONSÁVEL:
+DATA:
+Lista de Casos Suspeitos - Mapa Diário
+Data Contato Outros sintomas (Sim/Não) Classificação Final Número de
+Nº de Data da
+com outro Data do doses
+Nº de Data da doses de Febre coleta da
+Nome caso início do aplicadas em
+ordem notificação vacina (Sim/Não) amostra
+1ª 2ª confirmado exantema Confirmado Confirmado bloqueio
+recebidas Tosse Coriza Conjuntivite de sangue Descartado
+dose dose (Sim/Não) laboratório clinicamente vacinal
+Anexo G – Modelo de informe geral para acompanhamento
+do surto de sarampo
+MUNICÍPIO:
+RESPONSÁVEL:
+DATA:
+INFORME GERAL SOBRE O SURTO DE SARAMPO
+1. Dados de vigilância do sarampo
+Nº de casos suspeitos notificados
+Nº de casos confirmados por laboratório
+Nº de casos confirmado clinicamente
+Nº de casos descartados
+2. Quem está adoecendo (Pessoa)?
+Caso Índice (Primeiro caso identificado)
+Nome do caso índice: __________________________________ Nº Sinan: ___________________
+Endereço: ___________________________________________ Município: __________________
+Antecedentes vacinais: ________________________________________________________________
+Número de casos segundo a idade
+Critério/Idade < 6 meses 6-11 meses 1-4 anos 5-9 anos 10-14 anos 15-19 anos ≥ 20 anos Total
+Suspeitos
+Confirmados
+Antecedentes de vacinação dos pacientes
+Casos confirmados de sarampo
+Antecedentes de vacinação comprovados
+Idade (anos) Sem vacinação 1 dose 2 doses 3 doses Não sabe Total
+< 1
+1-2
+3-4
+5-9
+10-14
+15-19
+≥ 20
+Total
+Cobertura vacinal por Localidade Cobertura vacinal do Munícipio
+Mais de uma Idade (anos) Mais de uma dose (%)
+Localidade Idade (anos)
+dose (%)
+< 1
+< 1 1-2
+1-2 3-4
+3-4 5-9
+5-9 10-14
+10-14 15-19
+15-19 ≥ 20
+≥ 20 Total
+Total
+3. Onde está adoecendo (Lugar)?
+Em que lugares estão circulando o vírus do sarampo (Descrever e colocar mapas)?
+Data do início do exantema
+Localidade
+Primeiro Caso Último Caso
+4. Quando está adoecendo (Tempo)?
+Número de casos suspeitos e confirmados de sarampo, por semana epidemiológica
+Semana Epidemiológica
+1 2 3 4
+Localidade Suspeito Confirmado Suspeito Confirmado Suspeito Confirmado Suspeito Confirmado
+Curva Epidêmica/Histograma (casos suspeitos e confirmados por sarampo)
+5. Medidas de Controle
+Vacinação para o controle do surto (Vacinação de Bloqueio)
+Data do início ____/____/____
+Data do término ____/____/____
+Nº de casas visitadas ____________
+Nº de bloqueios vacinais realizados ____________
+Nº de bloqueios vacinais oportunos ______________
+Nº de doses administradas
+Vacinados no bloqueio Sexo Vacinados
+Faixa etária
+1ª dose 2ª dose Fem Mas anteriormente
+< 1 ano
+1 ano
+2 anos
+3 anos
+4 anos
+5 a 6 anos
+7 a 11 anos
+12 anos
+13 a 14 anos
+15 a 16 anos
+17 a 19 anos
+20- 24 anos
+25-29 anos
+30 - 34 anos
+35- 39 anos
+40-44 anos
+45- 49 anos
+50- 59 anos
+60 anos e mais
+Total
+Anexo H - Boletim de Notificação Semanal (Positiva ou Negativa)
+Município de notificação:
+Geres de Notificação:
+Notificação Notificação
+Negativa Positiva Total Unidades Que Casos Suspeitos Casos Confirmados Descartados
+Nº de Oportuno Não Pendentes
+Semana Unidades Notificaram
+Implantadas
+Oportuna Oportuna Sarampo Rubéola Sarampo Rubéola
+Sarampo Susp. Import.* Rubéola Total
+N.º % N.º % N.º % N.º % Lab Clin Total Lab Clin Total Lab Clin Total Lab Clin Total Sarampo Rubéola

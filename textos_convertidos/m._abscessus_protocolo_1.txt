@@ -1,0 +1,3695 @@
+MINISTÉRIO DA SAÚDE
+RECOMENDAÇÕES
+PARA O DIAGNÓSTICO
+E TRATAMENTO DAS
+DOENÇAS CAUSADAS
+POR MICOBACTÉRIAS
+NÃO TUBERCULOSAS
+NO BRASIL
+Brasília – DF
+2021
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis
+Recomendações para o
+Diagnóstico e Tratamento das
+Doenças Causadas por
+Micobactérias não
+Tuberculosas no Brasil
+Brasília – DF
+2021
+2021 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não Comercial
+– Compartilhamento pela mesma licença 4.0 Internacional. É permitida a reprodução parcial ou
+BY SA total desta obra, desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde: bvsms.
+saude.gov.br.
+Tiragem: 1ª edição – 2021 – versão eletrônica
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis
+Coordenação-Geral de Vigilância das Doenças de
+Transmissão Respiratória de Condições Crônicas
+SRTVN 701, Via W5 Norte, Ed. PO 700, 5º andar
+CEP: 70719-040 – Brasília/DF
+Tel: (61) 3315-2787
+Site: www.saude.gov.br/tuberculose
+E-mail: tuberculose@saude.gov.br
+Coordenação-geral: Revisão ortográfica:
+Angélica Espinosa Barbosa Miranda Angela Gasperin Martinazzo
+Gerson Fernando Mendes Pereira
+Projeto gráfico e Diagramação:
+Organização: Carlos Eduardo Meneses de Souza Costa – Quiz Design
+Andressa Veras de Oliveira
+Fernanda Dockhorn Costa Fotografias da capa:
+Sylvia Luisa Pincherle Cardoso Leão Freepik
+Unsplash
+Colaboração:
+Andressa Veras de Oliveira Normalização:
+Artemir Coelho de Brito Daniela Ferreira Barros da Silva – Editora MS/CGDI
+Daniele Gomes Dell’Orti
+Daniele Maria Pelissari
+Erica Chimara Silva
+Fernanda Carvalho de Queiroz Mello
+Fernanda Dockhorn Costa
+Gisela Unis
+Jorge Luiz da Rocha
+Kleydson Bonfim Andrade
+Layana Costa Alves
+Liliana Romero Veja
+Margareth Pretti Dalcolmo
+Maria Cristina da Silva Lourenço
+Maria de Lourdes Viude Oliveira
+Patrícia Bartholomay Oliveira
+Rimarcs Gomes Ferreira
+Rodrigo Neves Ferreira
+Sandra Jungblut Schuh
+Sidney Bombarda
+Sylvia Luisa Pincherle Cardoso Leão
+Ficha Catalográfica
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis.
+Recomendações para o diagnóstico e tratamento das doenças causadas por micobactérias não tuberculosas no Brasil
+[recurso eletrônico] / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de Condições
+Crônicas e Infecções Sexualmente Transmissíveis. Brasília : Ministério da Saúde, 2021.
+93 p. : il.
+Modo de acesso: World Wide Web: http://bvsms.saude.gov.br/bvs/publicacoes/recomendacoes_diagnostico_
+micobacterias_tuberculosas_Brasil.pdf
+ISBN 978-65-5993-125-5
+1. Micobactérias não tuberculosas. 2. Infecções por micobactérias não tuberculosas. 3. Agravos à saúde. I. Título.
+CDU 616-002.5
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2021/00241
+Título para indexação:
+Recommendations for diagnosis and treatment of diseases caused by non-tuberculous mycobacteria in Brazil
+LISTA DE FIGURAS
+Figura 1 – Algoritmo para indicação de tratamento em imunocompetentes 45
+LISTA DE QUADROS
+Quadro 1 – Profilaxia para infecções por CMA em PVHIV 18
+Quadro 2 – Número de amostras para diagnóstico de casos novos e
+retratamentos 22
+Quadro 3 – Número de amostras para acompanhamento dos casos 22
+Quadro 4 – Fármacos e pontos de corte para teste de suscetibilidade contra
+espécies do CMA 35
+Quadro 5 – Fármacos e pontos de corte para teste de suscetibilidade
+contra M. kansasii 36
+Quadro 6 – Fármacos e pontos de corte para teste de suscetibilidade contra
+MCL diferentes de MAC e M. kansasii 36
+Quadro 7 – Fármacos e pontos de corte para teste de suscetibilidade
+contra MCR 37
+Quadro 8 – Tratamento de doença por espécies do CMA 47
+Quadro 9 – Tratamento de doença por M. kansasii 48
+Quadro 10 – Tratamento de doença por bactérias do grupo M. abscessus 49
+Quadro 11 – Tratamento de doença por bactérias do Complexo M. fortuitum
+e do grupo M. chelonae 49
+Quadro 12 – Reações adversas e respectivos manejos 50
+Quadro 13 – Interações medicamentosas e recomendações 53
+Quadro 14 – Bloco de informações e variáveis da ficha de notificação e do
+boletim de acompanhamento dos casos de MNT do SITE-TB 65
+LISTA DE SIGLAS E ABREVIATURAS
+ALT Alanina aminotransferase
+Am Amicacina
+Anvisa Agência Nacional de Vigilância Sanitária
+AST Aspartato aminotransferase
+ATS/IDSA American Thoracic Society/Infectious Diseases Society of America (EUA)
+Az Azitromicina
+BAAR Bacilo Álcool-Ácido Resistente
+CDC Centers for Disease Control and Prevention (EUA)
+CEF Cefoxitina
+Cfz Clofazimina
+Cla Claritromicina
+CLSI Clinical and Laboratory Standards Institute (EUA)
+CMA Complexo Mycobacterium avium
+CMTB Complexo Mycobacterium tuberculosis
+Cpx Ciprofloxacina
+Dox Doxiciclina
+DPOC Doença Pulmonar Obstrutiva Crônica
+E Etambutol
+ECG Eletrocardiograma
+EPI Equipamentos de proteção individual
+Ert Ertapenem
+H Isoniazida
+H&E Hematoxilina e eosina
+Imp Imipenem
+IP Inibidores de protease
+ITS Região interna transcrita entre os genes 16S rDNA e 23S rDNA
+LBA Líquido broncoalveolar
+Lfx Levofloxacina
+Lzd Linezolida
+MAO Monoamino oxidase
+MCL Micobactérias de crescimento lento
+MCR Micobactérias de crescimento rápido
+Mfx Moxifloxacina
+MIC Minimal inhibitory concentration
+Min Minociclina
+MNT Micobactérias não tuberculosas
+Mpm Meropenem
+NB2 Biossegurança nível 2
+NB3 Biossegurança nível 3
+OMS Organização Mundial da Saúde
+PAS Ácido periódico de Schiff
+PCR Reação em cadeia da polimerase
+PVHIV Pessoas vivendo com HIV
+R Rifampicina
+Rfb Rifabutina
+RH Rifampicina e isoniazida em dose fixa combinada
+RT-PCR PCR em tempo real
+S Estreptomicina
+SIM Sistema de Informações sobre Mortalidade
+Sinan Sistema de Informação de Agravos de Notificação
+SITE-TB Sistema de Tratamentos Especiais de Tuberculose
+SMT/TMP Sulfametoxazol-trimetoprima
+TARV Terapia antirretroviral
+TB Tuberculose
+Tbm Tobramicina
+TC Tomografia computadorizada
+Tgc Tigeciclina
+TGO Transaminase oxalacética
+TGP Transaminase glutâmico pirúvica
+TP Tempo de protrombina
+TRM-TB Teste Rápido Molecular para Tuberculose
+TS Teste de suscetibilidade
+TTPa Tempo de tromboplastina parcial ativada
+SUMÁRIO
+APRESENTAÇÃO 9
+1 INTRODUÇÃO 10
+1.1 A família Mycobacteriaceae 10
+1.2 Ecologia das micobactérias 12
+1.3 Importância médica das micobactérias 12
+1.4 Epidemiologia 13
+1.5 Micobacterioses no mundo 13
+1.6 Micobacterioses no Brasil 14
+2 DIAGNÓSTICO CLÍNICO 15
+2.1 Situações especiais 17
+2.1.1 Crianças 17
+2.1.2 Fibrose cística 17
+2.1.3 Aids 18
+3 AVALIAÇÃO INICIAL 19
+3.1 Fatores importantes a serem considerados na avaliação inicial 20
+3.2 Condições imunossupressoras que acarretam maior risco para MNT 20
+4 DIAGNÓSTICO LABORATORIAL 21
+4.1 Coleta de amostras 21
+4.1.1 Quantos mL de escarro são recomendados para a
+realização dos exames? 22
+4.1.2 Quantas amostras de escarro são necessárias para a
+realização dos exames? 22
+4.1.3 Quais são as orientações para a coleta da 1ª amostra de
+escarro na unidade de saúde? 23
+4.1.4 Quais são as orientações para a coleta da segunda
+amostra no domicílio? 25
+4.2 Amostras de outras origens 26
+4.3 Fibrobroncoscopia 27
+4.4 Investigação laboratorial de micobacteriose 27
+4.5 Métodos de diagnóstico 28
+4.5.1 Baciloscopia 28
+4.5.2 Cultura 29
+4.5.3 Identificação de MNT 30
+4.5.4 Teste de suscetibilidade (TS) 34
+5 DIAGNÓSTICO POR IMAGEM 38
+5.1 Lesões acometendo predominantemente vias aéreas 38
+5.2 Alterações de aspecto fibrocavitário 39
+5.3 Forma disseminada 39
+5.4 Outras formas 39
+6 DIAGNÓSTICO HISTOPATOLÓGICO 40
+6.1 Características histopatológicas das doenças por MNT 40
+7 TRATAMENTO 42
+7.1 Critérios necessários para iniciar o tratamento de
+doença pulmonar por MNT 43
+7.1.1 Clínicos e radiológicos (ambos requeridos) 43
+7.1.2 Microbiológicos 43
+7.2 Fatores para decidir sobre o tratamento em imunocompetentes 44
+7.3 Fatores para decidir sobre o tratamento em imunodeprimidos 46
+7.4 Fatores para decidir sobre o tratamento em casos de
+hipersensibilidade 46
+7.5 Tratamento medicamentoso 46
+7.5.1 Considerações iniciais 46
+7.5.2 Esquemas terapêuticos para as espécies de MNT
+mais frequentes no Brasil 47
+7.5.3 Reações adversas aos medicamentos utilizados
+no tratamento das MNT e os respectivos manejos 50
+7.5.4 Interações medicamentosas 52
+7.5.5 Critérios para internação 58
+7.5.6 Critérios para cirurgia (avaliação de possibilidade de ressecção) 58
+7.5.7 Abordagens não medicamentosas 58
+7.5.8 Outras espécies e infecções mistas 58
+7.6 Seguimento do tratamento 58
+7.6.1 Seguimento clínico 58
+7.6.2 Seguimento laboratorial 59
+7.6.3 Seguimento radiológico 59
+7.6.4 Seguimento pós interrupção do tratamento 60
+8 BIOSSEGURANÇA 61
+8.1 Laboratorial 61
+8.2 Administrativa 62
+8.3 Do profissional de saúde 62
+8.4 Dos contatos 62
+8.5 Cuidados com espirômetros, fibrobroncoscópios e instrumentais 63
+9 SISTEMA DE INFORMAÇÕES DE TRATAMENTOS
+ESPECIAIS DE TUBERCULOSE (SITE-TB) 64
+9.1 Definição de MNT para notificação no SITE-TB 64
+9.2 Notificação dos casos 64
+9.3 Tipos de entrada 66
+9.4 Acompanhamento dos casos e gerenciamento dos
+medicamentos 67
+9.5 Tipos de encerramento 68
+REFERÊNCIAS 69
+BIBLIOGRAFIA CONSULTADA 78
+GLOSSÁRIO 80
+ANEXOS 81
+Anexo A – Principais espécies de MNT de acordo com sua
+velocidade de crescimento, produção de pigmento e
+patogenicidade 81
+Anexo B – Número de casos novos de MNT, segundo local de
+residência e espécie de micobactéria. Brasil, 2013-2019 82
+Anexo C – Principais métodos usados no diagnóstico laboratorial
+de micobactérias 83
+Anexo D – Características macroscópicas de tuberculose pulmonar
+e doença pulmonar por MNT 84
+Anexo E – Caraterísticas microscópicas na tuberculose pulmonar e
+na doença pulmonar por MNT 85
+Anexo F – Quadro posológico dos medicamentos para tratamento
+das doenças por MNT 87
+Anexo G – Segurança dos fármacos em gestantes 88
+Anexo H – Segurança dos fármacos em lactantes 88
+Anexo I – Ajuste dos medicamentos em nefropatas 89
+Anexo J – Ficha de Notificação de MNT utilizada para notificar o
+caso no SITE-TB 90
+9
+APRESENTAÇÃO
+Este manual tem como objetivo auxiliar no diagnóstico, abordagem inicial e
+seguimento de pessoas com doença ou suspeita de doença causada por micobactérias
+não tuberculosas (MNT).
+O texto foi elaborado por um grupo de especialistas, em parceria com a
+Coordenação-Geral de Vigilância das Doenças de Transmissão Respiratória de
+Condições Crônicas (CGDR) do Departamento de Doenças de Condições Crônicas
+e Infecções Sexualmente Transmissíveis (DCCI) da Secretaria de Vigilância em
+Saúde (SVS), com base em revisão da literatura existente e parecer de outros
+especialistas consultados.
+Serão abordadas doenças pulmonares e disseminadas, além de casos especiais
+de infecção por MNT. Não serão consideradas neste texto a tuberculose (TB) e a
+hanseníase. Também não se abordarão infecções iatrogênicas e nosocomiais, como
+abscessos subcutâneos ou intramusculares em locais de injeções, acupuntura,
+cirurgias laparoscópicas e de implantes de mama, entre outras.
+Saiba mais!
+Doenças relacionadas a procedimentos invasivos foram objeto de outros documentos
+publicados pelo Ministério da Saúde do Brasil e pela Anvisa, disponíveis em
+http://portal.anvisa.gov.br/.
+A taxonomia das micobactérias foi recentemente alterada, com separação das
+espécies em cinco gêneros distintos. Porém, como ainda não se sabe exatamente
+como isso afetará a prática clínica, o presente manual manterá a nomenclatura
+conhecida em nosso meio – Mycobacterium – e este documento será atualizado
+quando for pertinente.
+10
+1 1
+INTRODUÇÃO
+As MNT encontram-se distribuídas no meio ambiente e apresentam patogenicidade
+variável, ao contrário das espécies que compõem o Complexo Mycobacterium
+tuberculosis (CMTB) e Mycobacterium leprae, que são qualificadas como
+estritamente patogênicas e que raramente são encontradas no meio ambiente. Por
+exemplo, Mycobacterium gordonae raras vezes causa doença, diferentemente de
+Mycobacterium kansasii, que em geral é considerada patogênica.
+As doenças causadas por MNT são mundialmente consideradas emergentes, fato
+que tem sido relacionado à melhoria dos métodos diagnósticos, ao envelhecimento
+populacional e à presença de doenças imunossupressoras associadas, como a
+infecção pelo HIV. Também é importante salientar que, nos últimos anos, aumentou
+a conscientização dos profissionais da área médica sobre essas doenças.
+Elas não são de notificação obrigatória na maioria dos países, inclusive no Brasil,
+exceto quando ocorrem após procedimentos invasivos. A partir da implantação
+do Sistema de Tratamentos Especiais da Tuberculose (SITE-TB), em 2013, iniciou-se
+a notificação de casos de doença por MNT, para os quais foram disponibilizados
+medicamentos pelo Ministério da Saúde. Estão notificados no SITE-TB apenas os
+casos de MNT com diagnóstico diferencial da TB em tratamento medicamentoso.
+1.1 A família Mycobacteriaceae
+A família Mycobacteriaceae pertence à ordem Actinomycetales. As bactérias dessa
+família são bacilos retos ou ligeiramente curvos, imóveis, aeróbios, não esporulados.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+11
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Sua parede é rica em lipídios complexos, como ácidos micólicos de cadeia longa,
+lipoarabinomanano, peptidioglicolipídeos e glicolipídios fenólicos. São álcool-ácido
+resistentes e possuem, com exceção de Mycobacterium leprae, um conteúdo de
+guanina e citosina (G+C) no DNA de 61-71 mol%.
+MNT são todas as espécies que não pertencem ao CMTB e que são diferentes de
+M. leprae.
+Saiba mais!
+O site oficial de taxonomia de procariotos enumera 192 espécies oficialmente validadas
+de micobactérias. Acesse: https://www.bacterio.net/genus/mycobacterium (acesso em
+outubro/2020).
+As MNT dividem-se em dois grupos, de acordo com a velocidade de crescimento:
+micobactérias de crescimento rápido (MCR), que formam colônias em meio sólido
+em até sete dias, e micobactérias de crescimento lento (MCL), que demoram mais
+de sete dias para formar colônias em meio sólido. Essa divisão entre MCR e MCL tem
+respaldo em árvores filogenéticas construídas a partir da análise de sequências de
+diferentes genes (1). Existe uma relação entre padrões clínicos de doença e os grupos
+MCR e MCL. Infecções pulmonares e de linfonodos são causadas principalmente
+por MCL, enquanto que infecções de pele, tecidos moles, ossos e articulações são
+causadas mais frequentemente por MCR. Além disso, os dois grupos diferem em
+relação à suscetibilidade a antimicrobianos (2).
+As MNT também podem ser classificadas, quanto à sua capacidade de produzir
+pigmentos, em fotocromógenas, quando produzem pigmentos apenas na presença
+de luz, escotocromógenas, que produzem pigmentos tanto na presença como na
+ausência de luz, e acromógenas, que não produzem pigmentos. A classificação de
+Runyon, criada em 1959 (3) leva em consideração a velocidade de crescimento das
+micobactérias associada à capacidade de produzir pigmentos (Anexo A).
+A taxonomia da família Mycobacteriaceae tem sofrido frequentes atualizações, com
+a inclusão/exclusão ou a reordenação de gêneros e espécies. Em 2018, uma alteração
+foi proposta por Gupta et al. (4) e foi validada em julho de 2018 em uma publicação
+do International Journal of Systematic and Evolutionary Microbiology (5). Os autores
+propuseram a divisão do gênero Mycobacterium em cinco gêneros diferentes, como
+se segue:
+12 MINISTÉRIO DA SAÚDE
+• Mycobacterium – espécies do clado Tuberculosis-Simiae, que inclui quase todas
+as espécies de crescimento lento e os principais patógenos humanos, como os
+Complexos tuberculosis e avium e as espécies leprae e ulcerans;
+• Mycolicibacterium gen. nov. – Espécies do clado Fortuitum-Vaccae, que inclui a
+maioria das espécies de crescimento rápido;
+• Mycolicibacter gen. nov. – Espécies do clado Terrae, que inclui as espécies do
+Complexo terrae;
+• Mycolicibacillus gen. nov. – Espécies do clado Triviale, que inclui as espécies
+trivialis, koreensis e parakoreensis;
+• Mycobacteroides gen. nov. – Espécies do clado Abscessus-Chelonae, que inclui
+as espécies do Complexo chelonae-abscessos.
+Apesar de a nova nomenclatura ter sido oficialmente validada, para facilitar o
+entendimento, neste manual será usado o termo Mycobacterium em referência ao
+gênero a que pertencem todas as espécies mencionadas.
+1.2 Ecologia das micobactérias
+As MNT podem ser saprófitas, comensais e simbiontes em solo e fontes de água,
+esgoto e poeira, água doce e salgada, compartilhando esses habitats com humanos
+e animais. Podem estar presentes em redes de distribuição de água, encanamentos
+e sistemas de água de hospitais, centros de hemodiálise, centros cirúrgicos e
+consultórios dentários, criando possíveis fontes de contaminação e doença em
+humanos.
+A hidrofobicidade das micobactérias facilita a formação de aerossóis, o que leva
+à exposição recorrente às MNT durante atos simples como beber água, nadar ou
+banhar-se. Essa hidrofobicidade também está associada à capacidade de formar
+biofilmes, contribuindo para a sua permanência em determinados ambientes
+e a resistência a desinfetantes e antimicrobianos. Falhas em procedimentos de
+esterilização possibilitam sua presença em soluções de uso médico, instrumentais
+e equipamentos.
+1.3 Importância médica das micobactérias
+Antes do início da epidemia de aids, doenças causadas por MNT eram principalmente
+pulmonares, ou restritas a linfonodos ou pele. Tal quadro foi alterado dramaticamente
+com a emergência dessa epidemia. Após as primeiras descrições de infecções
+disseminadas por MNT relacionadas à aids em 1982, estimou-se que entre 25% e 50%
+das pessoas com HIV nos Estados Unidos e Europa estavam infectadas por micobactérias
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+13
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+(6). Com a introdução dos coquetéis para controle do HIV, a incidência de infecções por
+MNT nessa população diminuiu (7). Entretanto, essa diminuição foi contrabalançada
+pela emergência de infecções em imunocomprometidos por outros motivos, como
+transplantes de órgãos, tratamentos de câncer e doenças autoimunes (8).
+Além disso, infecções iatrogênicas e nosocomiais causadas por MNT estão se tornando
+mais frequentes, como abscessos subcutâneos ou intramusculares em locais de
+injeções e vacinas, mesoterapia, lipoaspiração e lipoescultura, acupuntura, cirurgias
+de implantes de mama, cirurgias laparoscópicas e artroscópicas e procedimentos
+cirúrgicos oftalmológicos para correção de problemas de refração, entre outros
+(9,10). O desenvolvimento de técnicas invasivas e o seu uso cada vez mais frequente
+têm uma correlação positiva com a característica emergente dessas infecções.
+Quase todas as espécies de micobactérias são capazes de causar infecções de pele e
+tecido subcutâneo após a inoculação, mas as espécies de crescimento rápido são as
+mais comumente envolvidas (11).
+1.4 Epidemiologia
+O achado de MNT em isolados clínicos pode ter três significados: ou a bactéria é
+responsável pela ocorrência de uma micobacteriose, ou é um contaminante,
+ou um simples colonizador (12). A diferenciação entre essas três possibilidades
+se baseia na análise dos dados clínicos, e a ocorrência de micobacteriose está
+associada ao isolamento da mesma micobactéria em amostras consecutivas da
+mesma pessoa, no caso de espécimes obtidos de sítios não estéreis, ou a um
+único isolamento de sítio estéril (13,14). Um estudo recente realizado na Dinamarca
+mostrou que, entre 1.282 adultos estudados (com 2.666 espécimes positivos para
+micobactérias), 26% deles tinham doença confirmada, 19% doença possível e 55%
+apenas colonização (15).
+1.5 Micobacterioses no mundo
+Em todo o mundo tem-se observado o aumento na prevalência e incidência de doença
+pulmonar causada por MNT, embora sua magnitude não seja totalmente compreendida,
+vez que a doença não é de notificação obrigatória na maioria dos países.
+Uma análise sistemática recente mostrou que, em diferentes países ocidentais, o
+decréscimo na prevalência de TB se acompanhou de um aumento proporcional na
+prevalência das infecções causadas por MNT (16). Nos Estados Unidos, a prevalência de
+doença pulmonar por MNT aumentou de 8,2 para 16 por 100.000 habitantes entre 1994
+e 2014 (17). Em países orientais, o mesmo fenômeno tem sido observado. No Japão, em
+14 MINISTÉRIO DA SAÚDE
+2007 foram detectados 5,7 casos de doença pulmonar por MNT por 100.000 habitantes
+e, em 2014, esse índice subiu para 14,7 casos por 100.000 habitantes, excedendo em
+muito a incidência de TB (18). Na Coreia do Sul, a prevalência de doença pulmonar
+causada por MNT aumentou de 9,4 (2009) para 36,1 (2016) por 100.000 habitantes,
+enquanto a prevalência de TB diminuiu de 106,5 para 74,4 no mesmo período (19).
+Em um recente estudo para analisar a tendência de testagem para micobactérias nos
+Estados Unidos no período de 2009 a 2015, foi detectado um aumento anual de 4,5% na
+prevalência de MNT (20). Os autores atribuem o crescimento da prevalência de doença
+pulmonar por MNT no país à combinação de vários fatores: o real aumento da doença,
+os novos métodos de detecção e identificação e a ampliação da testagem.
+1.6 Micobacterioses no Brasil
+As doenças causadas por MNT podem ser consideradas doenças emergentes no
+Brasil, a exemplo do que ocorreu em vários países mais desenvolvidos, como Canadá
+e Estados Unidos (21).
+Um estudo realizado no Centro de Referência Professor Hélio Fraga, no Rio de
+Janeiro, detectou 174 pessoas com doença pulmonar por MNT entre 1993 e
+2011. Entre 1993 e 2005, foram identificados cinco a sete casos por ano. Em 2006,
+detectaram-se aproximadamente 20 casos por ano, e esse número se manteve entre
+20 e 40 casos por ano até o final do período de estudo (22).
+Em outro estudo, com 1.812 amostras de escarro obtidas de 1.301 indivíduos, no
+estado de Rondônia, 75 (16%) cultivos de 45 indivíduos foram positivos para MNT.
+Destes, 19 casos foram confirmados por mais de um cultivo positivo (23).
+Estudos de pessoas com doença pulmonar por MNT realizados na Bahia, Pará e Rio Grande
+do Sul mostraram que espécies do Complexo Mycobacterium avium (CMA), Mycobacterium
+kansasii e Mycobacterium abscessus foram as MNT mais prevalentes (24-26).
+De acordo com dados do SITE-TB, de 2013 a 2019 foram notificados 2.731 casos
+novos de doença pulmonar por MNT. A micobactéria com maior incidência no
+período foi M. kansasii, com 622 casos, seguida de espécies do CMA e do Complexo
+M. abscessos, com 612 e 339 casos, respectivamente.
+A região Sudeste teve o maior número de notificações, com 1.555 casos novos
+notificados no período, sendo que os estados de São Paulo e do Rio de Janeiro
+notificaram 914 e 465 casos novos, respectivamente. Já a região Sul notificou 461
+casos novos no período, sendo o estado do Rio Grande do Sul responsável por 213
+casos novos. As regiões Nordeste, Norte e Centro-Oeste, notificaram 374, 215 e 126
+casos novos de MNT, respectivamente (27) (Anexo B).
+15
+2 2
+DIAGNÓSTICO CLÍNICO
+A forma de apresentação das doenças causadas por MNT e a presença de fatores de
+risco definem diferentes abordagens diagnósticas e de tratamento dessas doenças.
+A apresentação clínica mais frequente é a doença pulmonar, que pode variar de
+acordo com fatores do hospedeiro e com a espécie de micobactéria, manifestando-se
+predominantemente em adultos. Entre os fatores de risco que favorecem o
+adoecimento, estão a presença de lesão estrutural pulmonar e/ou a presença de
+imunodeficiência. Entre as lesões estruturais pulmonares, incluem-se a doença
+pulmonar obstrutiva crônica (DPOC), as bronquiectasias, as pneumoconioses,
+as sequelas de TB e a fibrose cística, entre outras mais raras (14). No que tange a
+alterações da imunidade, destaca-se a presença da infecção pelo HIV e as alterações
+da resposta imune do hospedeiro, como o comprometimento da ação de interferon
+e interleucina 12 (14).
+Os principais sintomas incluem: tosse produtiva, dispneia, hemoptise, febre, perda
+de peso e fadiga. Esses sintomas podem ser confundidos com os de doenças
+pulmonares estruturais preexistentes.
+As apresentações pulmonares podem ser distintas, sendo mais tradicional aquela
+relacionada à presença de lesão apical fibrocavitária ao exame radiológico.
+Como a apresentação clínica é por vezes semelhante à da TB pulmonar e a baciloscopia
+não diferencia as espécies de micobactérias, é possível que muitos casos de doença
+pulmonar por MNT sejam diagnosticados como TB. Ademais, como as alterações
+radiológicas também podem ser semelhantes às da TB pulmonar, a doença por MNT
+16 MINISTÉRIO DA SAÚDE
+deve ser sempre considerada, especialmente nas situações em que a resposta ao
+tratamento da TB não for efetiva (28). Atualmente, com a disponibilidade do teste
+rápido molecular para TB (TRM-TB), na suspeita de TB, se o resultado do TRM-TB for
+negativo e a baciloscopia for positiva, ou se os sintomas, sinais e imagens radiológicas
+forem compatíveis, deve-se considerar a possibilidade da presença de MNT.
+É relatada também uma síndrome clínica relacionada ao CMA, que ocorre mais
+frequentemente em mulheres após a menopausa, sem imunodepressão conhecida,
+com bronquiectasias, predominando no lobo médio e língula. Posteriormente, essa
+apresentação foi descrita também na doença pulmonar causada por M. kansasii.
+Nas pessoas que apresentam a forma bronquiectásica nodular, detectou-se maior
+incidência de mutações de genes para fibrose cística (29).
+Uma forma clínica mais rara, relacionada predominantemente ao CMA em pessoa
+imunocompetente, é a pneumonite por hipersensibilidade, também conhecida por
+alveolite alérgica extrínseca. Trata-se de uma síndrome pulmonar imunologicamente
+mediada, causada por repetidas exposições e sensibilização a antígenos orgânicos
+encontrados em água aquecida de piscinas, banheiras ou chuveiros domésticos.
+As pessoas com suspeita de MNT apresentam dispneia, tosse e febre de instalação
+subaguda.
+Há relatos de doença pulmonar por MNT associada à aspergilose broncopulmonar
+alérgica e/ou à identificação de Aspergillus spp. no escarro ou líquido bronco-
+alveolar (LBA).
+Espécies do CMA e M. kansasii foram isolados em casos de linfadenite,
+predominantemente cervical, principalmente em crianças e pessoas vivendo com
+HIV (PVHIV).
+A doença causada por MNT pode estar associada à presença de distúrbios
+gastroesofágicos, além dos fatores de risco já descritos.
+As MCR são descritas como causadoras de doença cutânea, subcutânea e óssea,
+além de ceratite, após procedimentos cirúrgicos.
+M. gordonae é frequentemente considerada agente de contaminação em
+laboratórios, sendo isolada de reagentes e equipamentos. Todavia, há relatos de
+casos de doença pulmonar progressiva e de doença disseminada em PVHIV. Portanto,
+imunodeprimidos, como os portadores de HIV/aids, podem adoecer por qualquer
+espécie de MNT, inclusive as menos patogênicas.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+17
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+2.1 Situações especiais
+2.1.1 Crianças
+Em crianças, as MNT causam linfadenites, infecções cutâneas e de tecidos moles e
+ocasionalmente doença pulmonar ou disseminada.
+2.1.1.1 Linfadenite localizada (cervical)
+É a manifestação mais frequente em crianças imunocompetentes, indistinguível
+clinicamente da linfadenite por M. tuberculosis, que sempre deve ser considerada
+no diagnóstico diferencial. O diagnóstico diferencial na linfonodopatia unilateral
+inclui infecção estreptocócica, ou por Bartonella, Brucella e Toxoplasma, assim
+como linfoma. Os patógenos mais comuns são as espécies do CMA e Mycobacterium
+haemophilum.
+2.1.1.2 Doença pulmonar
+Raramente descrita em crianças saudáveis sem predisposição pulmonar. Espécies
+do CMA e M. abscessus são os agentes mais encontrados em crianças com fibrose
+cística, embora outras espécies possam ser isoladas nesses casos.
+2.1.1.3 Doença disseminada
+Crianças imunodeprimidas podem apresentar uma combinação de febre, perda de
+peso, diarreia, osteomielite ou artrite, linfadenite generalizada, abscesso subcutâneo
+ou dermatite e hepatoesplenomegalia.
+2.1.2 Fibrose cística
+Indivíduos com curso estável de fibrose cística devem realizar, anualmente, cultura
+para micobactérias no escarro espontâneo.
+Não é incomum que mais de uma espécie de MNT seja isolada em um indivíduo
+com fibrose cística. Nesse caso, o seguimento de culturas deve ser realizado para
+determinar qual espécie é persistentemente positiva, sendo esta a mais provável
+causadora da doença.
+18 MINISTÉRIO DA SAÚDE
+Sabe-se que na fibrose cística pode-se utilizar azitromicina (Az) como parte do
+tratamento e seguimento. Todavia, pessoas em investigação para MNT devem
+suspender a azitromicina em uso, pois ela pode mascarar o resultado dos exames.
+É possível que a monoterapia com macrolídeo determine a seleção de resistência.
+Ainda assim, o macrolídeo pode ser incluído no tratamento multidroga, se forem
+preenchidos os critérios de doença por MNT, considerando-se ideal realizar teste de
+suscetibilidade nessa situação.
+Todas as pessoas com fibrose cística candidatas a transplante pulmonar devem ser
+avaliadas quanto à presença de doença pulmonar por MNT. Entretanto, a doença
+por MNT não exclui a possibilidade de transplante.
+2.1.3 Aids
+Micobacterioses disseminadas podem ocorrer, principalmente, em PVHIV com
+contagem de linfócitos T CD4+ inferior a 50 células/mm3 (14).
+Nessa situação, deve-se realizar quimioprofilaxia com Az ou claritromicina (Cla).
+A terapia deve ser descontinuada quando o CD4+ for superior a 100 células/mm3
+por três meses consecutivos, em profilaxia primária (PVHIV que nunca teve doença
+causada por MNT) ou por seis meses consecutivos quando a profilaxia for secundária
+(PVHIV que já teve doença por MNT) (30), conforme o Quadro 1.
+Quadro 1 – Profilaxia para infecções por CMA em PVHIV (30)
+Tipo de profilaxia Primeira opção Segunda opção Critérios de suspensão
+Boa resposta à terapia
+antirretroviral (TARV)
+Primária
+com manutenção de
+(evitar o primeiro episódio
+CD4+ >100 células/ mm3
+da doença) Az 1.200-1.500mg/
+Cla 500mg 2x/dia por mais de 3 meses
+semana
+Iniciar se CD4+ <50 células/
+Reintroduzir profilaxia
+mm3
+se CD4+ <50 células/
+mm3
+Após um ano de
+tratamento para CMA,
+Cla 500mg
+na ausência de sintomas
+2x/dia + etambutol Az 500mg 1x/dia +
+Secundária e CD4+ >100 células/
+(E) 15mg/kg/dia E15mg/kg/dia (máx.
+Manter após infecção por mm3 por mais de 6
+(máx. 1.200mg/ 1.200mg/dia)
+CMA meses
+dia)
+Reintroduzir se CD4+
+<100 células/mm3
+19
+3 3
+AVALIAÇÃO INICIAL
+Na avaliação inicial das pessoas com suspeita de doença causada por MNT, deve-se
+realizar anamnese completa, incluindo a investigação sobre doenças subjacentes que
+levem ao comprometimento da resposta imune e sobre o uso de medicamentos
+imunossupressores nos meses anteriores, além de história prévia de doença
+pulmonar estrutural, como bronquiectasias, DPOC ou tratamento prévio para TB.
+Deve-se realizar exame físico detalhado, com avaliação de peso e altura para
+caracterizar o estado nutricional. Além disso, solicitar radiografia de tórax e teste
+diagnóstico para HIV.
+Na presença de lesões que acometem as vias aéreas não adequadamente avaliadas
+por meio da radiografia de tórax, ou na ausência de cavidades, a tomografia
+computadorizada de tórax sem contraste deve ser realizada.
+Outros exames podem ser necessários para definir o início de uso de fármacos ou
+identificar eventuais efeitos adversos: dosagens séricas de aspartato aminotransferase
+ou transaminase oxalacética (AST ou TGO) e alanina aminotransferase ou
+transaminase glutâmico pirúvica (ALT ou TGP), bilirrubinas, ureia e creatinina, além
+de eletrocardiograma (ECG) e audiometrias.
+Considerar a realização do TRM-TB para diagnóstico diferencial imediato.
+O resultado positivo confirma o diagnóstico de TB. Entretanto, se existirem fortes
+indícios de infecção por MNT, deve-se suspeitar de infecção mista e realizar cultura
+com identificação de espécie. Se o resultado do TRM-TB for negativo, pode indicar
+MNT, mas também pode se tratar de uma amostra paucibacilar de TB e o diagnóstico
+definitivo deve ser confirmado por cultura com identificação da espécie.
+20 MINISTÉRIO DA SAÚDE
+3.1 Fatores importantes a serem considerados na avaliação
+inicial
+• Comorbidades:
+– Doença pulmonar subjacente;
+– Necessidade de tratamento presente ou futuro (imunossupressores,
+transplante pulmonar).
+• Gravidade da doença.
+3.2 Condições imunossupressoras que acarretam maior
+risco para MNT
+• Aids;
+• Malignidade hematológica ou linfoproliferativa;
+• Transplante de órgão sólido ou de medula óssea;
+• Doenças inflamatórias tratadas com imunobiológicos;
+• Uso de corticoide inalatório em pessoas com doenças respiratórias crônicas,
+especialmente DPOC e asma (31);
+• Outras imunodeficiências herdadas ou adquiridas.
+21
+4
+DIAGNÓSTICO LABORATORIAL
+O diagnóstico de doença por MNT exige muita cautela, porque o isolamento de MNT
+de espécimes clínicos não estéreis também pode significar colonização transitória
+ou contaminação e não confirma, obrigatoriamente, a doença. É fundamental a
+correlação clínico-laboratorial para o estabelecimento do diagnóstico de doença
+ativa por MNT e posterior definição das indicações de tratamento.
+Considerações importantes sobre as amostras de espécimes clínicos (32):
+• Um mínimo de duas amostras de escarro, coletadas em dias diferentes (intervalo
+máximo de sete dias), devem ser enviadas para cultura de micobactérias;
+• A identificação da mesma espécie de MNT em duas ou mais amostras reforça a
+evidência de doença;
+• A identificação de MNT em amostra considerada estéril ou nobre, como biópsia
+de tecidos, LBA, sangue, líquor e líquido de serosas, deve ser valorizada para
+confirmação diagnóstica.
+4.1 Coleta de amostras
+O diagnóstico laboratorial das doenças causadas por MNT é realizado, na maioria
+dos casos, por meio de exames de escarro. A qualidade e quantidade da amostra
+são aspectos pré-analíticos fundamentais para obtenção de resultados confiáveis.
+O acondicionamento das amostras em embalagem apropriada para o transporte é
+uma condição crítica para assegurar a qualidade da amostra.
+A coleta de escarro adequada também é muito importante no acompanhamento
+dos casos, pois a realização de baciloscopias mensais permite avaliar a eficácia do
+tratamento adotado. Quando o resultado da baciloscopia é positivo após o segundo
+mês de tratamento, deve-se solicitar cultura, identificação de espécie e teste de
+suscetibilidade (TS).
+22 MINISTÉRIO DA SAÚDE
+4.1.1 Quantos mL de escarro são recomendados para a realização
+dos exames?
+Devem ser coletados pelo menos 3 a 5mL de escarro (33). Quando esse volume não
+é alcançado, a realização dos exames e seu desempenho podem ficar prejudicados.
+Vale lembrar que uma boa amostra de escarro é a que provém da árvore brônquica,
+obtida após esforço de tosse, e não a que se obtém da faringe ou por aspiração de
+secreções nasais, nem tampouco a que contém somente saliva. O aspecto ideal da
+amostra é mucopurulento.
+Amostras liquefeitas, com resíduos de alimentos, aspecto de saliva ou sanguinolentas
+interferem na sensibilidade e, consequentemente, no resultado dos testes.
+4.1.2 Quantas amostras de escarro são necessárias para a realização
+dos exames?
+Quadro 2 – Número de amostras para diagnóstico de casos
+novos e retratamentos
+Exame Nº de amostras Quando coletar?
+• 1ª amostra – na 1ª consulta ou na visita domiciliar
+• 2ª amostra – preferencialmente na manhã do dia
+Baciloscopia Duas
+seguinte à consulta ou visita ou no máximo em até
+7 dias
+Cultura Duas Semelhante às amostras da baciloscopia
+Isolado de cultura (duas
+Identificação da
+de sítio não estéril ou Isolado proveniente da cultura
+espécie
+uma de sítio estéril)
+Fonte: CGDR/DCCI/SVS/MS.
+Quadro 3 – Número de amostras para acompanhamento dos casos
+Exame Nº de amostras Quando coletar?
+Uma a cada mês de No dia da consulta mensal de acompanhamento, em
+Baciloscopia
+tratamento casa ou na unidade de saúde
+Controle a cada mês
+até negativação da
+Cultura Semelhante à baciloscopia
+cultura, posteriormente
+trimestral
+Fonte: CGDR/DCCI/SVS/MS.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+23
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Esse número de amostras somente será suficiente se o volume de material obedecer
+às recomendações descritas anteriormente. Caso o volume seja insuficiente, mais
+amostras serão necessárias para a realização dos exames de baciloscopia e cultura
+para micobactéria.
+Para o acompanhamento dos casos, as solicitações de exames bacteriológicos
+devem ser:
+• Baciloscopias de escarro: mensalmente, até o encerramento do tratamento;
+• Cultura de escarro: mensalmente, até negativação (conversão bacteriológica);
+em seguida, realizar trimestralmente até o encerramento do tratamento.
+Vale salientar que, no caso de piora clínica e/ou radiológica, novos exames e/ou
+amostras de escarro podem ser necessários.
+4.1.3 Quais são as orientações para a coleta da 1ª amostra de es-
+carro na unidade de saúde?
+4.1.3.1 Acolhimento para coleta
+O acolhimento adequado dos usuários é fundamental. É recomendado dirigir-se à
+pessoa com suspeita de MNT pelo nome, mantendo fisionomia receptiva e contato
+visual – atitudes que demonstram interesse para que a pessoa realize o procedimento
+de forma correta, garantindo uma etapa importante na coleta do escarro. A pessoa deve
+ser orientada, de maneira simples e objetiva, sobre o passo a passo para a coleta.
+Após explicar o procedimento a ser realizado, verifique se a pessoa entendeu todas
+as orientações. Caso necessário, repita a explicação, modificando a linguagem e
+deixando o usuário à vontade para fazer perguntas. A compreensão das instruções
+pela pessoa pode influenciar na qualidade da amostra coletada.
+4.1.3.2 Local de coleta
+As coletas devem ser realizadas em locais abertos, preferencialmente ao ar livre,
+onde o usuário disponha de privacidade. Quando não houver um espaço adequado
+para coleta de escarro na área externa do serviço de saúde, esta pode ser realizada
+dentro da unidade, desde que o ambiente possua condições adequadas de
+biossegurança (boa ventilação e fluxo de ar corretamente direcionado, o que pode
+demandar o uso de exaustores, ventiladores, entre outros).
+24 MINISTÉRIO DA SAÚDE
+4.1.3.3 Pote de coleta
+Para a coleta de escarro, recomenda-se o uso de pote descartável de plástico
+transparente com capacidade de 35 a 50mL, altura mínima de 40mm, de boca larga
+e com tampa rosqueável de 50mm de diâmetro.
+Identifique o pote com uma etiqueta contendo o nome da pessoa e a data da coleta,
+e fixe essa etiqueta na parte externa do pote, num local que não comprometa a
+observação da graduação do volume do recipiente. Ou seja, nunca fixe a etiqueta
+sobre a escala de volume, nem sobre a tampa do pote.
+A marca de 10mL deve ser reforçada com caneta de retroprojetor (marcador
+permanente) para facilitar a visualização pela pessoa.
+4.1.3.4 Orientações para coleta
+Antes de iniciar as orientações, certifique-se de que os seguintes elementos
+estão disponíveis e são de fácil acesso: água (para ingestão durante a coleta, se
+necessário); pote de escarro fechado, devidamente identificado e com o mecanismo
+de rosqueamento funcionando corretamente; papel-toalha ou guardanapos (para
+higienização durante a coleta).
+Dentro da unidade de saúde, durante todo o período de atendimento de sintomáticos
+respiratórios ou de casos que ainda têm baciloscopia positiva, o profissional deve usar
+máscara de proteção respiratória (N95 ou PFF2).
+Peça que a pessoa lave as mãos e higienize a cavidade oral com água (sem utilizar creme
+dental ou soluções antissépticas para gargarejo) antes de lhe entregar o pote. Caso a
+pessoa use próteses dentárias, ela deverá retirá-las antes de higienizar a cavidade oral.
+Oriente o usuário quanto aos seguintes procedimentos:
+• Inspirar profundamente, reter o ar por alguns segundos e expirar. Após repetir
+esses procedimentos três vezes, tossir;
+• Imediatamente após o ato da tosse produtiva, abrir o pote e expectorar a
+secreção dentro dele sem tocar em qualquer local do pote com os lábios e/ou
+com os dedos, para evitar risco de contaminação da amostra;
+• Logo após, fechar novamente o frasco, rosqueando firmemente a tampa;
+• Se necessário, repetir os procedimentos para expectoração até que o volume
+de 3 a 5mL seja atingido. A espuma não deve ser levada em consideração para
+atingir esse volume.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+25
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+4.1.4 Quais são as orientações para a coleta da segunda amostra no
+domicílio?
+Informe à pessoa a importância da coleta da segunda amostra, quando indicado para
+a investigação diagnóstica, e reforce a necessidade de coletar pelo menos 3 a 5mL
+de escarro. Se não for possível coletar a segunda amostra no dia seguinte à primeira,
+a coleta da segunda não deve ultrapassar sete dias.
+Entregue à pessoa o pote coletor (devidamente identificado e com a marca de 10mL
+sinalizada) e também um saco plástico transparente, dentro do qual o pote deverá
+ser devolvido.
+Oriente o usuário a ingerir o maior volume possível de água durante a noite anterior
+ao dia da coleta. É permitida ingestão de água durante o período do jejum. É
+importante ter água disponível para beber durante a coleta da amostra.
+Na amostra, não deve haver resíduos alimentares e/ou de medicamentos e/
+ou substâncias químicas, pois eles prejudicam a análise. Por isso, as seguintes
+recomendações devem ser respeitadas:
+• Coletar o escarro preferencialmente em jejum, pela manhã, ao acordar (para
+evitar resíduos alimentares na amostra de escarro);
+• Higienizar as mãos com água e sabão antes de manipular o pote;
+• Higienizar a cavidade oral suavemente com escova umedecida com água (sem
+creme dental ou soluções antissépticas), após retirar as próteses dentárias, caso
+faça uso destas;
+• Seguir as demais instruções de coleta do item anterior.
+Ao término da coleta, a pessoa deve colocar o pote no saco plástico transparente,
+fechá-lo com um nó e transportar o pote com o escarro no saco plástico até a
+unidade de saúde ou laboratório (conforme orientação), protegido da luz solar, de
+preferência até duas horas do momento da coleta. Na impossibilidade de levar a
+amostra em até duas horas, acondicionar o material na geladeira até a entrega na
+unidade de saúde ou laboratório, preferencialmente no mesmo dia da coleta.
+Na unidade de saúde, identifique corretamente o pote e certifique-se de que este está
+bem fechado e que não houve extravasamento da amostra. Guarde o pote em geladeira
+(2°C a 8°C) específica para materiais biológicos até o seu transporte ao laboratório.
+Acondicione os potes em caixas térmicas com gelo reciclável e as envie o mais rapidamente
+possível ao laboratório. No laboratório, as amostras devem ser processadas tão logo
+sejam recebidas.
+26 MINISTÉRIO DA SAÚDE
+4.2 Amostras de outras origens
+As MNT também podem causar infecções em sítios diferentes, com manifestações
+clínicas diversas. Para o diagnóstico dessas micobacterioses, outros materiais
+clínicos, que não o escarro, devem ser coletados.
+As principais amostras de sítios não respiratórios são: urina, material de lesões cutâneas
+e líquidos cavitários (líquido cefalorraquidiano, pleural, pericárdico, sinovial e ascítico).
+Especial atenção deve ser dada à suspeita de micobacteriose disseminada, pois, nesse
+caso, as amostras serão provenientes de sítios estéreis, como sangue, aspirado de
+medula óssea, biópsias de gânglios linfáticos, baço e fígado. Observar as condições de
+assepsia da coleta e o acondicionamento em frasco estéril, pois a semeadura será feita
+diretamente em meio de cultura, sem passar pela etapa de descontaminação.
+• Secreção brônquica: coletar de 2 a 5mL. Para amostras de LBA, recomenda-se
+a coleta de 20 a 40mL.
+• Lavado gástrico: indicado para crianças. Coletar cedo de manhã, enquanto o
+usuário está com o estômago vazio. Adicionar 100mg de bicarbonato de potássio
+para neutralizar a amostra coletada e encaminhá-la imediatamente ao laboratório.
+• Urina: devido à microbiota associada, o processamento deve ser executado o
+mais rapidamente possível. Deve-se coletar toda a urina da primeira micção da
+manhã em frasco estéril, de boca larga, após higiene íntima com água e sabão
+neutro. Utiliza-se um número mínimo de três e máximo de seis amostras,
+coletadas em dias consecutivos. A amostra deve ser transportada à temperatura
+ambiente num período máximo de duas horas.
+• Líquido corporal asséptico (pleural, peritoneal, sinovial, ascítico e pericárdico):
+esses materiais devem ser coletados assepticamente, no maior volume possível
+e colocados em frascos estéreis. O transporte deve ser realizado num período de
+até 15 minutos, em temperatura ambiente.
+• Líquido cefalorraquidiano: deve ser coletado por punção lombar, assepticamente,
+em um volume mínimo de 5mL (volumes menores comprometem o rendimento da
+baciloscopia e da cultura) e transportados em temperatura ambiente.
+• Fragmentos de tecidos (biópsias): os materiais obtidos por dissecção, ou seja,
+fragmentos de tecidos (biópsias cutâneas, de órgãos e de ossos), secreções
+ganglionares e nódulos são coletados assepticamente, em frascos com água destilada
+(ou solução salina) estéril. Para a realização da cultura, não devem ser utilizados
+conservantes ou fixadores como formol. Na suspeita de micobacteriose pleural, o
+fragmento de pleura deve ser coletado e transportado, sempre que possível, em
+temperatura ambiente, num período de até 15 minutos. Os raspados de pele ou de
+lesões superficiais secas têm pouco valor no diagnóstico de micobacterioses, com
+rendimento pouco satisfatório para isolamento de MNT, e devem ser considerados
+somente em última instância. Para o diagnóstico de micobacteriose cutânea, utiliza-
+se a biópsia cutânea profunda, pois as micobactérias estão localizadas na hipoderme.
+• Sangue: a pesquisa de micobactérias no sangue está indicada nos casos com suspeita
+de bacteremia. O sangue deverá ser coletado sem anticoagulante, pois os meios de
+cultura líquidos já contêm anticoagulante na sua formulação. Na impossibilidade de
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+27
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+usar os meios de cultura no momento da coleta, o sangue deverá ser coletado com
+anticoagulante (com exceção do EDTA) e transportado em temperatura ambiente.
+• Medula óssea: deve ser coletado o maior volume possível, em seringa ou frasco
+estéril, preferencialmente com anticoagulante, evitando o EDTA. No caso de
+fragmento, este deve ser coletado e guardado em frasco com soro fisiológico
+ou água destilada estéril. Em ambos os casos, não se deve usar conservante ou
+fixador. Transportar em temperatura ambiente e nunca refrigerar. Recomenda-se
+a semeadura direta no meio de cultura.
+• Secreções purulentas, aspirado de gânglios e de tumores: secreções
+purulentas de pele, nariz, ouvido, olhos e garganta também podem ser utilizadas
+para isolamento de micobactérias. Esses materiais, quando provenientes de
+cavidades fechadas, deverão ser coletados por punção e semeados diretamente
+em meio de cultura. Quando o material for de cavidade aberta, deverá ser
+coletado com suabe, como alternativa, embora a recuperação do microrganismo
+possa estar comprometida caso não haja abundância de material. O suabe deve
+ser imerso em água destilada ou solução salina estéreis e transportado em
+temperatura ambiente num período inferior a duas horas.
+• Fezes: a coleta desse tipo de amostra não é recomendada. No entanto, pode ser
+uma opção para pessoas imunocomprometidas.
+4.3 Fibrobroncoscopia
+A realização de fibrobroncoscopia está indicada em indivíduos com suspeita de
+doença pulmonar causada por MNT quando os resultados laboratoriais obtidos
+com amostras de escarro são repetidamente negativos, ou quando não foi possível
+eliminar escarro. Nessas situações, indica-se a fibrobroncoscopia para coleta de
+LBA para cultura de micobactérias, em equipamento devidamente esterilizado com
+substâncias ativas contra micobactérias.
+4.4 Investigação laboratorial de micobacteriose
+Reforçando o que já foi dito anteriormente, a presença de MNT em um espécime
+clínico não significa obrigatoriamente que esses microrganismos estejam causando
+doença. Como as MNT são bactérias ambientais, elas podem ser responsáveis por
+contaminações ou colonizações transitórias.
+O isolamento de uma micobactéria pode ser considerado como sugestivo de
+doença (critério bacteriológico) quando, em um único isolado de sítio estéril, for
+identificada uma espécie potencialmente patogênica, ou quando a mesma espécie
+for identificada em dois ou mais isolados da mesma pessoa, de sítio não estéril,
+colhidos em dias diferentes (34).
+Diferentes testes podem ser usados para investigação laboratorial de uma
+micobacteriose. A seleção do teste mais adequado para o caso depende de alguns
+fatores, a saber:
+28 MINISTÉRIO DA SAÚDE
+• Técnicas validadas nos laboratórios: nem todas as técnicas desenvolvidas em
+pesquisa podem ser realizadas na rotina para diagnóstico. Para isso, o laboratório
+precisa ter as condições adequadas para realizar o método e validar o processo
+em situação controlada.
+• Material clínico disponível: as metodologias são validadas para análise de
+determinados materiais clínicos. É muito importante saber qual a melhor
+metodologia para análise do material disponível.
+• Qualidade do material clínico: a coleta e transporte do material são etapas
+fundamentais para assegurar a qualidade do exame. Caso o material chegue
+ao laboratório em condições inadequadas para análise, o exame pode ser
+prejudicado e o laboratório deve mencionar essa limitação por ocasião da
+liberação do resultado (normativa ABNT 15189).
+• Nenhum teste possui 100% de efetividade. A opção por um determinado teste
+depende do fluxo laboratorial, da capacidade técnico-analítica do laboratório e
+da epidemiologia local.
+4.5 Métodos de diagnóstico
+4.5.1 Baciloscopia
+A baciloscopia permite a visualização de bacilos álcool-ácido resistentes (BAAR) após
+a realização da coloração pelos métodos de Ziehl-Neelsen ou auramina-rodamina.
+O detalhamento desses métodos foge do objetivo deste manual, mas algumas
+considerações importantes serão mencionadas aqui:
+• São necessários 1.000 bacilos por mL de escarro para se conseguir alguma
+positividade na baciloscopia e entre 5.000 a 10.000 bacilos por mL para garantia
+de positividade;
+• Como em todas as técnicas para detecção de micobactérias, o volume e a qualidade
+do material a ser analisado têm papel importante na positividade do teste;
+• A baciloscopia pode ser feita diretamente a partir do material clínico ou após
+o processo de descontaminação, com a utilização do sedimento. Nesse caso, o
+volume ideal é de, no mínimo, 5mL;
+• O procedimento completo demora, em média, 30 minutos. É aceitável que a
+• leitura de uma lâmina seja feita em dez minutos e o resultado disponibilizado no
+prazo de 48 horas à partir do recebimento da amostra no laboratório;
+• A sensibilidade da baciloscopia pode variar de 20% a 80% (35), sendo, portanto, baixa;
+• Não é possível distinguir as bactérias do CMTB das MNT com essa técnica;
+• A baciloscopia também permite a visualização de outros microrganismos álcool-
+ácido resistentes, como as bactérias dos gêneros Nocardia e Rhodoccocus (36);
+• O método não permite avaliar a viabilidade dos microrganismos. Como
+consequência, uma baciloscopia positiva não obrigatoriamente se correlacionará
+a uma cultura positiva;
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+29
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+• Pessoas em tratamento podem ter baciloscopia positiva e cultura negativa;
+• Pessoas em uso do esquema básico para TB ou tratamento de uma micobacteriose
+com baciloscopias persistentemente positivas precisam ser acompanhadas com
+cultura e identificação;
+• Micobactérias ditas fastidiosas, que necessitam meios especiais de cultivo,
+também podem gerar resultados positivos de baciloscopia e culturas negativas,
+quando estas forem realizadas em meios comuns para micobactérias. Nessa
+situação, o clínico deve informar os dados epidemiológicos na requisição,
+para que o laboratório possa direcionar a análise utilizando a metodologia
+mais adequada;
+• É importante que o laboratório sempre inclua controles positivos e negativos em
+todos os procedimentos.
+4.5.2 Cultura
+A cultura até hoje é considerada o padrão ouro para o diagnóstico de doença por MNT.
+Possui grande sensibilidade, podendo ser positiva em amostras que apresentem de
+10 a 100 bacilos por mL.
+Existem diversos métodos para o cultivo desses microrganismos, que devem ser
+precedidos de uma etapa de descontaminação, cujo objetivo é eliminar a microbiota
+anfibiôntica e permitir o crescimento da micobactéria, quando presente. Os métodos
+de descontaminação, em sua maioria, estão fundamentados na característica da
+resistência álcool-ácido e possuem etapas de tratamento que podem demorar cerca
+de uma hora, as quais incluem digestão e descontaminação, além de centrifugação.
+Após o processo de descontaminação, o espécime tratado pode ser inoculado
+em meio sólido ou líquido. Em nosso país, o meio sólido de Löwenstein-Jensen é
+o mais utilizado. O tempo necessário para detecção varia conforme a carga bacilar e
+o tempo de crescimento da micobactéria. Em média, com 20 dias pode-se observar
+o crescimento inicial da colônia. O resultado negativo só deve ser liberado após
+60 dias.
+Métodos automatizados favorecem o isolamento de MNT. Esses métodos empregam
+meios líquidos com suplementos enriquecedores e antibióticos que não interferem
+no crescimento das micobactérias para a inoculação inicial, além de um sistema de
+leitura dos frascos que detecta o crescimento. A positividade pode se dar, em média,
+em 14 dias para o CMTB e outras MNT de crescimento lento, sendo que espécimes
+com grande carga bacilar podem resultar positivas em apenas três dias. O resultado
+final negativo é disponibilizado em 42 dias para o CMTB.
+Para o isolamento de MNT, o solicitante deve informar sempre a suspeita clínica
+e caracterizar adequadamente o tipo de amostra, se possível com algum dado
+epidemiológico, como no exemplo: “envio de uma biópsia de lesão cutânea em
+polegar direito proveniente de corte com anzol”. Isso direciona o laboratório a
+30 MINISTÉRIO DA SAÚDE
+incubar o material em duas temperaturas diferentes (30°C e 37°C) e suspeitar de
+Mycobacterium marinum.
+A realização da cultura é um pré-requisito básico para empregar as técnicas fenotípicas
+de identificação e de suscetibilidade aos fármacos. Para se decidir o tratamento
+adequado, é necessária a identificação da espécie, já que cada qual exibe um padrão
+específico de suscetibilidade aos fármacos utilizados no tratamento. A relação entre
+o diagnóstico e a terapêutica das MNT é um grande desafio, pois, na ausência do
+diagnóstico correto, a pessoa com MNT poderá ser tratada com o esquema básico
+para TB, que muitas vezes não é efetivo (37).
+4.5.3 Identificação de MNT
+Existem várias técnicas, tanto fenotípicas como genotípicas, para a diferenciação
+das espécies de MNT. Os testes fenotípicos baseiam-se no crescimento in vitro
+em presença de diversas substâncias, na morfologia das colônias, na produção de
+pigmentos e em atividades metabólicas (38,39). Testes genotípicos podem ser
+realizados a partir de amostras clínicas não cultivadas ou de culturas.
+Algumas técnicas de identificação permitem suspeitar da presença de mais de
+uma espécie de MNT na amostra clínica e, nesses casos, é necessário realizar uma
+nova cultura, em meio sólido, para individualizar colônias e repetir as provas de
+identificação a partir de colônias isoladas. Infecções mistas não são comuns, mas é
+muito importante detectá-las para poder ajustar o tratamento.
+4.5.3.1 Testes fenotípicos convencionais e testes rápidos
+Após o crescimento em cultivos, um passo importante na rotina laboratorial é
+separar as MNT das micobactérias pertencentes ao CMTB. Esse resultado preliminar
+fornece o primeiro apoio ao clínico e, com ele, é possível determinar o tratamento
+mais adequado, visto que muitas MNT possuem resistência intrínseca aos fármacos
+utilizados no esquema de tratamento para a TB. Os testes tradicionais mais utilizados
+para essa finalidade são: detecção da catalase, produção de niacina, redução do
+nitrato e sensibilidade à hidrazida do ácido tiofeno-2-carboxílico (TCH) e ao ácido
+p-nitrobenzoico (PNB). Todos necessitam de longos períodos de incubação e boa
+massa celular, o que pode levar em média 25 dias.
+A identificação fenotípica das MNT é então iniciada com a determinação da velocidade de
+crescimento em cultivo e a observação da produção de pigmento, usando a classificação
+de Runyon como parâmetro (Anexo A). Em seguida, observam-se características
+morfológicas das colônias e realizam-se testes para detecção de metabólitos celulares
+e verificação do crescimento na presença de inibidores. Esses testes apresentam
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+31
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+a vantagem de ser facilmente executados, porém requerem um longo tempo de
+incubação para obtenção de crescimento adequado para leitura e fornecem resultados
+com características gerais que, muitas vezes, não elucidam a espécie.
+As principais desvantagens da identificação fenotípica consistem na demora para a
+obtenção do resultado, no resultado variável que algumas espécies podem apresentar e
+na dificuldade de diferenciação entre as diversas espécies, visto que as tabelas utilizadas
+para leitura foram elaboradas na década de 1980, e muitas das espécies descritas após
+esse período não passaram pelos testes para determinação de seu perfil fenotípico.
+Um avanço na identificação fenotípica foi o teste imunocromatográfico MPT64. O
+antígeno é uma proteína secretada exclusivamente por bactérias pertencentes ao
+CMTB durante o crescimento bacteriano. Trata-se de um teste de exclusão de TB
+(40). O resultado, quando positivo, indica a presença de bactérias do CMTB e, quando
+negativo, sugere a presença de MNT. O tempo de execução é de 15 minutos. Em
+um estudo de metanálise, verificou-se que a sensibilidade do teste pode variar de
+96% a 97%, e a especificidade, de 98% a 99% (41). Alguns isolados do CMTB podem
+apresentar mutações no gene MPT64 e, dessa forma, poderão produzir um resultado
+falso-negativo (42).
+Estima-se que a identificação fenotípica convencional possa levar até três meses
+para conclusão; daí o forte apelo, em nossos dias, para o uso de técnicas moleculares
+de identificação.
+4.5.3.2 Espectrofotometria de massa (MALDI-TOF MS)
+Esse método é empregado há vários anos na análise de moléculas e, mais
+recentemente, na identificação de microrganismos. Para essa última finalidade, são
+analisadas as proteínas ribossômicas, que se conservam.
+A técnica de MALDI-TOF MS possui a vantagem de ser realizada com células
+intactas de um microrganismo, retiradas diretamente da placa de cultivo, obtendo-
+se o resultado da identificação em minutos. Todavia, para microrganismos que
+apresentam composição de parede celular complexa, como as micobactérias, fungos
+filamentosos e nocardias, a obtenção de espectros proteicos diretamente do isolado
+é inviável, havendo necessidade de uma etapa prévia de extração de proteínas.
+Algumas publicações confirmaram que essa técnica pode servir como um sistema
+efetivo de identificação de micobactérias, vez que permite diferenciar as espécies e
+apresenta boa reprodutibilidade (43,44). Entretanto, o custo do equipamento é alto,
+sendo necessária a validação da metodologia em cada laboratório e a elaboração de
+um amplo banco de espectros para as numerosas espécies de micobactérias.
+32 MINISTÉRIO DA SAÚDE
+4.5.3.3 Métodos moleculares
+Os métodos baseados na análise de material genético (DNA ou RNA) permitem uma
+identificação mais rápida e precisa do que aquela obtida com os métodos fenotípicos.
+Existem vários métodos moleculares disponíveis, comerciais ou não.
+Um dos primeiros métodos comerciais desenvolvido para identificação de
+micobactérias foi o teste Accu-Probe (Gen-Probe Incorporated, San Diego, USA).
+O resultado pode ser obtido em duas horas após a detecção do crescimento em
+cultura, sem a necessidade de amplificação do material genético. A grande limitação
+dessa metodologia é o número reduzido de sondas de DNA disponíveis, restringindo
+a identificação às espécies do CMTB e CMA, M. kansasii e M. gordonae (45,46).
+Testes de hibridação reversa com sondas foram posteriormente desenvolvidos e
+comercializados, os quais se baseiam na amplificação de uma região específica do
+genoma micobacteriano e subsequente hibridização em fase sólida com sondas
+de DNA imobilizadas em tiras de nitrocelulose. A hibridização torna-se evidente
+utilizando um processo enzimático (47). Em média, os resultados podem ser obtidos
+em um dia e meio, com dedicação exclusiva do técnico ao método.
+O teste INNO-LiPA Mycobacteria (Innogenetics, Ghent, Bélgica) utiliza amplificação da
+região interna transcrita entre os genes 16S-23S rRNA (ITS) e permite detectar e identificar o
+gênero Mycobacterium e 16 diferentes espécies de micobactérias (Anexo C).
+O teste Geno-Type Mycobacterium (Hain Lifescience GmbH, Nehren, Alemanha) tem
+três formatos diferentes e se baseia na amplificação do gene 23S rRNA e hibridação
+reversa. O formato CM (Common Mycobacteria) permite a identificação do CMTB
+e de 27 espécies de MNT, e o formato AS (Additional Species) identifica outras 19
+espécies de MNT, ambos a partir de material cultivado. Já o último formato, CM
+Direct, permite a identificação do CMTB e de 20 espécies de MNT diretamente da
+amostra clínica (Anexo C).
+O teste SpeedOligo Mycobacteria (Vircell, Granada, Espanha) utiliza a amplificação
+do gene 16S rRNA (para detecção do gênero) e da região ITS (para identificação
+das espécies), permitindo a identificação do CTMB e de 14 espécies de MNT (46-48)
+(Anexo C).
+Os testes de hibridação reversa comerciais possibilitam identificar as espécies mais
+frequentemente isoladas em laboratórios clínicos e têm a vantagem de permitir a
+detecção simultânea de diferentes espécies nos casos de culturas mistas.
+Entre os testes moleculares não comerciais mais usados está o método PRA-hsp65
+(38,49,50), que utiliza a amplificação de um fragmento de 441 pares de bases
+do gene hsp65, seguida da digestão enzimática do produto amplificado com
+duas enzimas de restrição, BstEII e HaeIII, separadamente. Os tamanhos e a
+quantidade de fragmentos digeridos são espécie-específicos e a identificação
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+33
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+é obtida comparando os padrões de restrição a um algoritmo, como o que está
+disponível na página eletrônica PRAsite http://app.chuv.ch/prasite/index.html (38).
+O resultado final pode ser disponibilizado em dois dias. As limitações desse teste são:
+não é automatizado, depende de interpretação subjetiva e gera perfis semelhantes
+para espécies diferentes. Portanto, em muitas situações é necessário utilizar técnicas
+complementares.
+A tecnologia de reação em cadeia da polimerase em tempo real (RT-PCR) emprega
+a PCR combinada à detecção dos produtos amplificados e quantificação por
+fluorescência. Esse método permite que os processos de amplificação, detecção e
+quantificação de DNA sejam realizados em uma única etapa, obtendo resultados
+mais rápidos e com menor risco decorrente de possíveis contaminações. A maioria
+das técnicas de RT-PCR para detectar e identificar espécies de MNT são desenvolvidas
+in house e ainda estão restritas ao âmbito da pesquisa. O kit comercial MeltPro®
+Mycobacteria Identification Kit (Zeesan Biotech, Xiamen, China) possibilita a
+identificação de 19 espécies de MNT por PCR em tempo real, mas ainda não possui
+registro no Brasil (51) (Anexo C).
+O ensaio GeneXpert MTB/RIF (Xpert Assay Cepheid, Sunnyvale, EUA) é um dos
+métodos mais avançados e rápidos para detecção de tuberculose. É baseado em RT-
+PCR da região central de 81 pb do gene rpoB para a detecção do CMTB e de resistência
+a rifampicina (R), simultaneamente. É totalmente automatizado e realizado em
+cartuchos selados, nos quais se deposita o material clínico não cultivado (52). No
+entanto, esse teste não detecta o DNA das MNT. Um teste GeneXpert negativo
+em uma pessoa com sinais e sintomas sugestivos de TB ou micobacteriose gera a
+necessidade de realização de nova coleta de amostra para cultivo e identificação.
+Essa situação não mudou com a introdução da versão Xpert MTB/RIF Ultra (53).
+O sequenciamento de DNA é considerado hoje o padrão ouro na identificação de
+micobactérias. Os alvos mais utilizados no sequenciamento são o gene da subunidade
+ribossomal 16S rDNA, a região ITS, o gene hsp65 e o gene rpoB (54-57) e a identificação
+se dá por comparação da sequência obtida com sequências depositadas em bancos
+de dados como o GenBank (https://www.ncbi.nlm.nih.gov/genbank/). O alvo mais
+utilizado é o gene 16S rRNA, embora muitos laboratórios utilizem adicionalmente o
+sequenciamento de outros alvos, como hsp65 ou rpoB, como suporte na identificação
+de micobactérias de crescimento lento e rápido, respectivamente. O percentual de
+similaridade com as sequências depositadas em bancos de dados deve ser de pelo
+menos 99% e, idealmente, de 99,5% para que a identificação seja confirmada (47).
+Com o aprimoramento de métodos de sequenciamento de genomas completos,
+pode-se esperar o uso dessas técnicas para identificação de micobactérias nos
+próximos anos. Um estudo recente, comparando o desempenho do sequenciamento
+do genoma total com Geno-Type Mycobacterium, mostrou concordância de
+resultados de 96% (58).
+34 MINISTÉRIO DA SAÚDE
+Nenhum dos testes moleculares mencionados é capaz de identificar todas as
+espécies de micobactérias, porque existem variações internas e também porque
+o número de espécies descritas tem aumentado de forma exponencial. Em razão
+dessas limitações, os laboratórios, de modo geral, usam uma combinação de
+métodos fenotípicos e moleculares (38,59).
+Em situações de surtos e outras investigações epidemiológicas, além da identificação
+da espécie, usa-se a genotipagem para diferenciar clones dentro de uma determinada
+espécie. Entre os diferentes métodos de genotipagem já descritos para MNT, estão
+a eletroforese de DNA em campo pulsado (PFGE – Pulsed Field Gel Electrophoresis),
+a tipagem por sequenciamento multi-locus (MLST – Multi Locus Sequence Typing) e a
+análise de polimorfismos de fragmentos de restrição (RFLP – Restriction Fragment
+Length Polymorphisms), entre outros. É importante salientar que esses métodos não são
+úteis para identificação de espécies.
+4.5.4 Teste de suscetibilidade (TS)
+O método para a determinação da concentração inibitória mínima – do inglês,
+minimal inhibitory concentration (MIC) – tem sido a técnica de escolha para avaliar a
+suscetibilidade das MNT aos antimicrobianos. Pode ser realizada em macrodiluição
+ou microdiluição, utilizando-se uma placa com 96 pequenos poços. A primeira
+recomendação de uso desse teste com micobactérias, pelo National Committee
+for Clinical Laboratory Standards (NCCLS), hoje Clinical and Laboratory Standards
+Institute (CLSI), se deu em 2003. Uma segunda recomendação revisada foi publicada
+em 2011 (60) e uma terceira edição surgiu em novembro de 2018 (61), sendo este,
+até o momento, o manual mais aceito no mundo.
+A recomendação do CLSI define critérios para o teste de suscetibilidade e estabelece
+orientações para fármacos a serem testados, bem como seus pontos de corte, ou seja, a
+partir de que concentração pode-se considerar um isolado como sensível, resistente ou
+intermediário. O documento foi elaborado com base em dados clínicos, distribuição dos
+microrganismos na população e a experiência de especialistas em doenças causadas por
+MNT. Tem sido utilizado em quase todo o mundo, inclusive no Brasil, como referência.
+A padronização feita pelo CLSI não abrange todas as micobactérias conhecidas. Apenas
+as espécies incluídas no documento são passíveis de serem testadas com os fármacos
+recomendados, para os quais foram estabelecidos pontos de corte, a fim de assegurar uma
+melhor relação clínico-laboratorial. Em outras palavras, o teste pode predizer o desfecho ao
+tratamento. No entanto, já foram descritas na literatura discrepâncias entre a atividade do
+fármaco in vitro e in vivo, sendo o valor desses testes ainda incerto (62,63).
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+35
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Os testes recomendados pelo CLSI seguem as diretrizes estabelecidas pela publicação
+conjunta da American Thoracic Society/Infectious Diseases Society of America (ATS/
+IDSA) (64). Com relação às MCL, os testes são aplicáveis para as espécies do CMA e
+M. kansasii (Quadros 4 e 5). Não existem dados consistentes para que os mesmos
+critérios interpretativos possam ser utilizados para outras espécies de MCL. No
+entanto, algumas espécies pertencentes ao Complexo Mycobacterium terrae,
+Mycobacterium xenopi, Mycobacterium celatum, Mycobacterium malmoense
+e Mycobacterium simiae, quando em casos confirmados, podem ser testadas
+utilizando-se os critérios usados para M. kansasii mostrados no Quadro 6. Para
+as micobactérias fastidiosas, como Mycobacterium haemophilum, Mycobacterium
+genavense e Mycobacterium ulcerans, o teste não é recomendado. Para as MCR, há
+uma padronização pelo CLSI, que deve ser usada apenas quando houver significado
+clínico (Quadro 7) (61,65).
+A MIC é expressa em µg/mL e não é um valor absoluto, mas um valor próximo do
+“valor verdadeiro”. O valor final estará entre a mais baixa concentração do fármaco
+que inibe o crescimento visível e a próxima concentração inferior a esta. Por exemplo:
+se um poço da placa inoculada com a concentração de 4µg/mL está, aparentemente,
+sem crescimento, a MIC verdadeira é algo entre 4 e 2µg/mL, uma vez que o fator de
+diluição dos fármacos é 2, por exemplo: 1, 2, 4, 8, 16 e 32µg/mL (61).
+Quadro 4 – Fármacos e pontos de corte para teste de suscetibilidade
+contra espécies do CMA (61)
+Fármacos de
+MIC, µg/mL
+primeira linha
+Comentários
+Sensível Intermediário Resistente
+Cla é o representante da
+Cla ≤8 16 ≥32 classe, o único macrolídeo
+que precisa ser testado
+Amicacina (Am) ≤16 32 ≥64 _
+Am lipossomal (para
+≤64 - ≥128 _
+inalação)
+Fármacos de
+MIC, µg/mL Comentários
+segunda linha
+Moxifloxacina (Mfx) ≤1 2 ≥4 A efetividade desses
+fármacos para o
+tratamento ainda não está
+Linezolida (Lzd) ≤8 16 ≥32
+comprovada
+36 MINISTÉRIO DA SAÚDE
+Quadro 5 – Fármacos e pontos de corte para teste de suscetibilidade
+contra M. kansasii (61)
+Fármacos de
+MIC, µg/mL
+primeira linha
+Comentários
+Sensível Intermediário Resistente
+Cla é o representante da classe, o único
+Cla ≤8 16 ≥32
+macrolídeo que precisa ser testado
+Para PVHIV em uso de inibidores de
+R ≤1 - ≥2 protease, R sensível pode-se aplicar
+também para rifabutina (Rfb)
+Fármacos de
+MIC, µg/mL Comentários
+segunda linha
+Am ≤16 32 ≥64 _
+Cpx e levofloxacina (Lfx) são
+Ciprofloxacina
+≤1 2 ≥4 equivalentes quanto a MIC, mas são
+(Cpx)
+menos ativos “in vitro” do que a Mfx
+Doxiciclina
+≤1 2-4 ≥8 _
+(Dox)
+Lzd ≤8 16 ≥32 _
+Minociclina
+≤1 2-4 ≥8 _
+(Min)
+Mfx ≤1 2 ≥4 _
+Rfb ≤2 - ≥4 _
+Sulfametoxazol-
+trimetoprima ≤2/38 - ≥4/76 _
+(SMT/TMP)
+Quadro 6 – Fármacos e pontos de corte para teste de suscetibilidade
+contra MCL diferentes de MAC e M. kansasii (61)
+Fármacos MIC, µg/mL Comentários
+Sensível Intermediário Resistente
+Am ≤16 32 ≥64 _
+Cpx ≤1 2 ≥4 _
+Cla ≤8 16 ≥32 _
+Dox ≤1 2-4 ≥8 _
+Lzd ≤8 16 ≥32 _
+Min ≤1 2-4 ≥8 _
+Mfx ≤1 2 ≥4 _
+Rfb ≤2 - ≥4 _
+R ≤1 - ≥2 _
+SMT/TMP ≤2/38 - ≥4/76 _
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+37
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Quadro 7 – Fármacos e pontos de corte para teste de
+suscetibilidade contra MCR (61,65)
+Fármacos MIC, µg/mL Comentários
+Sensível Intermediário Resistente
+Am ≤16 32 ≥64 _
+Cefoxitina (Cef) ≤16 32-64 ≥128 _
+Cpx e Lfx são equivalentes
+quanto à MIC, mas são menos
+Cpx ≤1 2 ≥4
+ativos “in vitro” do que as novas
+fluoroquinolonas
+Cla é o representante da classe, o
+Cla ≤2 4 ≥8 único macrolídeo que precisa ser
+testado
+Dox ≤1 2-4 ≥8
+As amostras dos complexos M.
+fortuitum, M. smegmatis e M.
+mucogenicum costumam ser
+sensíveis ao Imp, segundo dados
+Imipenem (Imp) ≤4 8-16 ≥32
+clínicos. O resultado para Imp não
+se aplica ao meropenem (Mpm)
+e ao ertapenem (Ert). “In vitro” o
+Imp é mais ativo que o Mpm e Ert
+Lzd ≤8 16 ≥32 _
+Mpm ≤4 8-16 ≥32 _
+Mfx ≤1 2 ≥4 _
+A MIC indica inibição de 80% do
+SMT/TMP ≤2/38 - ≥4/76
+crescimento
+Não há dados para estabelecer
+a correlação entre o resultado
+Tigeciclina (Tgc) - - - do teste e a resposta clínica.
+Somente o valor da MIC pode ser
+reportado, quando necessário
+Indicada principalmente para
+Tobramicina (Tbm) ≤2 4 ≥8
+tratar M. chelonae
+38
+5 5
+DIAGNÓSTICO POR IMAGEM
+Métodos de imagem são ferramentas importantes na investigação diagnóstica
+das doenças do tórax. O exame radiográfico, pelo seu custo reduzido, ampla
+disponibilidade e baixa dose de radiação, é a primeira etapa na investigação das
+doenças respiratórias, entre as quais as infecções por MNT.
+As formas de apresentação radiológica das lesões variam conforme a imunidade, a
+virulência da micobactéria e a estrutura pulmonar de base, a exemplo de presença
+de cicatriz de TB ou bronquiectasias.
+A tomografia computadorizada (TC), apesar do custo mais alto, tem maior
+sensibilidade e pode ser necessária na investigação e acompanhamento das pessoas
+com MNT. A maioria das tomografias realizadas para avaliação de doenças infecciosas
+do parênquima pulmonar dispensa o uso de meio de contraste endovenoso.
+A tomografia de tórax está indicada quando a radiografia de tórax for normal
+ou apresentar alterações de difícil caracterização, como, por exemplo, doença
+acometendo predominantemente as vias aéreas (bronquiectasias e opacidades
+centrolobulares com aspecto de árvore em brotamento).
+A solicitação dos exames radiológicos necessita conter informações clínicas e o
+usuário deve ser orientado a levar radiografias e tomografias anteriores para que
+o radiologista emita laudo comparativo e avalie o caráter evolutivo das alterações.
+Os estudos de imagem não firmam o diagnóstico, mas o conjunto de características
+das alterações permite ao médico radiologista sugerir a patologia mais provável.
+Alterações causadas por diferentes doenças granulomatosas infecciosas podem ter
+apresentação semelhante, como TB e doença por MNT ou por fungos. Geralmente,
+não é possível, por características radiológicas, distinguir entre a infecção causada
+por TB e as infecções causadas por diferentes espécies de MNT.
+Existem algumas formas de apresentação mais características de pessoas com
+doença pulmonar por MNT (66,67), a seguir descritas.
+5.1 Lesões acometendo predominantemente vias aéreas
+• Forma bronquiectásica nodular (síndrome de Lady Windermere): doença que
+ocorre predominantemente em mulheres brancas, na pós-menopausa, sem
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+39
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+história de doença pulmonar preexistente, frequentemente causada por espécies
+do CMA e associada a bronquiectasias, nódulos centrolobulares agrupados com
+aspecto de árvore em brotamento, nódulos e/ou consolidações. As alterações
+predominam no lobo médio e língula. Essas pessoas têm maior prevalência de
+anormalidades da caixa torácica, incluindo pectus excavatum e escoliose. As lesões
+podem ter comportamento indolente, não sofrendo modificações significativas,
+ou evoluir lentamente. Pessoas com alterações mais extensas podem apresentar
+pequenas cavidades. Essa síndrome também é passível de ocorrer em homens e
+pode ser causada por outras micobactérias.
+• Também comum em pessoas com bronquiectasias préexistentes, a exemplo de
+pessoas com fibrose cística ou bronquiectasias em zona de pneumonite actínica.
+5.2 Alterações de aspecto fibrocavitário
+Na maioria dos casos, têm aspecto indistinguível daquele da TB. Essas lesões evoluem de
+forma crônica, com piora progressiva quando não tratadas. Alguns autores descrevem a
+presença de cavidades com paredes finas na doença por espécies do CMA e M. kansasii.
+• Em cicatriz de TB ou em bolhas de enfisema: lesões cavitárias com
+consolidações, estrias fibroatelectásicas e opacidades centrolobulares,
+predominando na metade superior dos pulmões, semelhantes às da TB ativa. Em
+pessoas com cicatrizes de TB, as alterações relacionadas a MNT podem não ser
+reconhecidas em meio ao desarranjo arquitetural pulmonar.
+• Semelhantes às da TB em pulmão previamente normal: cavidades, consolidações
+e estrias fibroatelectásicas predominando na metade superior dos pulmões.
+5.3 Forma disseminada
+• Em pessoa imunodeprimida: a presença da doença disseminada raramente
+envolve doença pulmonar exuberante e a radiografia de tórax pode ser normal.
+A doença manifesta-se por linfonodomegalias mediastinais e retroperitoniais,
+hepatoesplenomegalia, além de derrame pleural e opacidades parenquimatosas
+difusas. A doença por MNT pode estar associada à síndrome de reconstituição imune
+relacionada ao uso de medicamentos antirretrovirais, manifestada por exacerbação
+das lesões.
+5.4 Outras formas
+• Nódulos ou massas parenquimatosas pulmonares.
+• Reação de hipersensibilidade: nódulos centrolobulares mal definidos, opacidade
+em vidro fosco e lóbulos secundários hiperinsuflados. As características
+tomográficas das lesões podem auxiliar no diagnóstico.
+40
+6
+DIAGNÓSTICO
+HISTOPATOLÓGICO
+Para a análise histopatológica, depois de separado o material para cultura, as amostras
+teciduais adquiridas por biópsias devem ser fixadas em formol a 10% e encaminhadas a
+um laboratório de anatomia patológica. A coloração utilizada para a análise morfológica
+é a de hematoxilina e eosina (H&E), além de técnicas especiais de colorações como
+Ziehl-Neelsen e ácido periódico de Schiff (PAS) para visualização dos bacilos. A pesquisa
+de DNA também pode ser realizada nas amostras mesmo após anos, em tecidos
+armazenados em blocos de parafina, o que é importante para estudos retrospectivos.
+Os tecidos em que mais se realiza o diagnóstico de infecção por MNT são os dos pulmões
+e linfonodos. No entanto, lesões características também podem ser evidenciadas em
+estômago, fígado, baço, intestino grosso, bexiga, pele e partes moles.
+Diferenças histopatológicas observadas entre infecções tuberculosas e não
+tuberculosas são úteis para o diagnóstico diferencial (Ver Anexos D e E). Técnicas
+moleculares, juntamente com os achados clínico-patológicos, podem ajudar no
+diagnóstico preciso de infecções causadas por MNT (14,68).
+6.1 Características histopatológicas das doenças por MNT
+A infecção por MNT manifesta-se como nódulos pulmonares em pessoas
+imunocompetentes, caracterizados por inflamação granulomatosa necrosante contendo
+BAAR, e o quadro histológico resultante é distinto daquele da TB (69,70). Porém, os
+granulomas necrosantes também podem ocorrer em pessoas imunocomprometidas
+(71). Esses granulomas necrosantes da doença pulmonar por MNT geralmente mostram
+necrose suja, devido ao extravasamento do conteúdo celular para o tecido adjacente,
+também conhecida como necrose caseosa. Podem apresentar, além disso, necrose
+supurativa e vasculite com células gigantes multinucleadas proeminentes, imitando
+granulomatose com poliangite (Wegener) (72).
+A maioria dos achados associados às infecções por MNT em indivíduos
+imunocomprometidos, que frequentemente têm doença disseminada, especialmente
+aquelas causadas por espécies do CMA, apresentam histiócitos com inúmeras
+micobactérias intracitoplasmáticas, que podem se apresentar em aglomerados.
+Nesses casos, os granulomas geralmente são ausentes ou malformados (73).
+Nas amostras citológicas, a semelhança de células fortemente infectadas por MNT
+com células de Gaucher levou ao apelido de “células pseudogaucher” (74). Na técnica
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+41
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+de Romanovsky ou Diff-Quick, as células podem conter “imagens negativas”, isto é,
+organismos semelhantes a bastonetes que se destacam no citoplasma porque não se
+coram (75). A alta carga de organismos nos histiócitos, a ausência de granulomas e a
+associação com estado imunocomprometido e doença disseminada é semelhante, em
+muitos aspectos, a formas de doenças fúngicas, como a histoplasmose disseminada (76).
+A infecção por M. kansasii no pulmão pode se manifestar com necrose e inflamação
+granulomatosa (77). Foi observado que a necrose nos casos com granulomas
+geralmente mostra detritos nucleares proeminentes e neutrófilos. Em pessoas com
+aids, camadas de histiócitos têm sido descritas como idênticas às observadas na
+infecção por espécies do CMA (75).
+A recuperação de MNT de uma biópsia pulmonar é significativa para confirmação do
+diagnóstico (69). A demonstração histológica de BAAR em granulomas é ainda mais
+significativa do que a positividade da cultura de tais amostras, uma vez que fornece
+prova de que os organismos estão presentes em lesão com áreas associadas à resposta
+inflamatória esperada. Assim, a importância da demonstração histológica de BAAR
+dentro da necrose e da inflamação granulomatosa não deve ser desconsiderada.
+Dessa forma, deve-se considerar como forte evidência (14,78):
+• A presença de inflamação granulomatosa em biópsia pulmonar, mesmo sem
+demonstração de BAAR, com cultura positiva;
+• Cultura positiva para MNT de uma biópsia pulmonar e inflamação granulomatosa,
+com ou sem BAAR.
+Um equívoco comum é considerar que a presença de BAAR em granulomas
+necrosantes justifica o diagnóstico de tuberculose. Esse conceito é impreciso, pois
+BAAR também são encontrados em granulomas necrosantes na doença pulmonar
+causada por MNT (69,79). A descoberta de micobactérias em pseudotumores de
+células fusiformes ou de macrófagos repletos de organismos é mais representativa
+de doença por CMA do que de TB (79).
+Não há evidências de que diferenças de morfologia, tamanho, espessura
+ou distribuição em lençol dos bacilos distingam de maneira confiável M.
+tuberculosis de MNT na coloração para BAAR, em preparações de tecido fixado
+em formalina e embebido em parafina. Achados de morfologia bacteriana
+distinta em aglomerados álcool-ácido resistentes foram principalmente
+observados em pequenas séries de infecções por MNT (causadas principalmente
+por M. kansasii), sem uma comparação cega com M. tuberculosis (77). Alguns
+estudos que observaram diferenças morfológicas na reação tecidual (como tipo
+de necrose ou células gigantes) geralmente incluíram apenas casos de doença
+por MNT em hospedeiros imunocomprometidos (71).
+Em conclusão, a distinção definitiva entre M. tuberculosis e MNT é clinicamente
+desejável. Porém, dependendo da relação clínico-epidemiológica, deve-se obter e
+submeter o tecido fresco para análise de culturas. Alternativamente, a PCR pode ser
+realizada em tecido fixado em formalina, nos casos em que a amostra não é viável (80).
+42
+7 7
+TRATAMENTO
+Muitas pessoas com doença por MNT são inicialmente tratadas para tuberculose,
+devido à presença de BAAR no escarro ou LBA ou por teste terapêutico para TB,
+pela semelhança do quadro clínico e das lesões pulmonares aos exames de imagem.
+A decisão de iniciar o tratamento medicamentoso para MNT deve levar em
+consideração a apresentação da doença, a possibilidade de colonização e o risco
+versus benefício do tratamento, considerando a condição clínica apresentada, o
+tempo de tratamento, a possibilidade de cura e a toxicidade dos fármacos.
+Pessoas imunocompetentes costumam apresentar doença lentamente progressiva,
+o que frequentemente permite aguardar a identificação da espécie para início do
+tratamento específico. Por outro lado, pessoas severamente imunodeprimidas, com
+doença disseminada e de padrão tomográfico compatível com MNT, necessitam
+imediata instituição de esquema terapêutico para a micobacteriose, inclusive
+tratamento empírico.
+Para a escolha do tratamento mais adequado, é necessária a identificação da espécie
+e a realização de TS. Porém, é importante ressaltar que o valor clínico do TS aos
+fármacos para as MNT ainda é incerto, muitas vezes não havendo correlação entre
+os resultados in vivo e in vitro (ver capítulos sobre diagnóstico).
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+43
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+7.1 Critérios necessários para iniciar o tratamento de
+doença pulmonar por MNT
+7.1.1 Clínicos e radiológicos (ambos requeridos)
+Sintomas pulmonares e opacidades nodulares ou cavitárias à radiografia de tórax,
+ou TC de tórax com opacidades nodulares centrolobulares e/ou bronquiectasias
+e
+Exclusão apropriada de outros diagnósticos
+7.1.2 Microbiológicos
+Resultados positivos de cultura de pelo menos duas amostras diferentes de escarro
+expectorado. Se os resultados não forem diagnósticos, considerar repetir baciloscopias
+e culturas
+ou
+Resultado de cultura positiva de pelo menos um escovado brônquico ou LBA
+ou
+Biópsia transbrônquica ou pulmonar com achados histopatológicos compatíveis
+(inflamação granulomatosa ou visualização de BAAR) e cultura positiva para MNT no
+material da biópsia ou biópsia com achados histopatológicos compatíveis e uma ou mais
+amostras de escarro ou escovado brônquico com cultura positiva para MNT
+Quando a MNT encontrada é infrequente ou decorre de contaminação ambiental,
+recomenda-se consultar especialista em unidade de referência ou médicos
+validadores para tomada da decisão sobre a necessidade ou não de tratamento.
+Indivíduos imunocompetentes com suspeita de doença pulmonar por MNT sem
+critérios diagnósticos devem ser seguidos até que o diagnóstico seja firmemente
+estabelecido ou excluído.
+Estabelecido o diagnóstico de doença pulmonar por MNT, não há necessidade
+absoluta de instituição de terapia, que é uma decisão baseada nos potenciais riscos
+e benefícios do tratamento para cada pessoa.
+44 MINISTÉRIO DA SAÚDE
+7.2 Fatores para decidir sobre o tratamento em
+imunocompetentes
+Os critérios clínicos e microbiológicos para o diagnóstico de doença pulmonar por
+MNT elaborados e revisados em 2020 pela ATS/IDSA são utilizados para decidir sobre
+o tratamento das doenças causadas por MNT. Em pessoas HIV negativas, a doença
+geralmente tem progressão lenta e há tempo suficiente para coletar material clínico
+adequado de duas amostras de escarro, necessárias para o diagnóstico. Os critérios
+da ATS/IDSA foram baseados na experiência com patógenos respiratórios comuns e
+bem descritos, como MAC, M. kansasii e M. abscessus (64).
+Existe a possibilidade de colonização do trato respiratório por MNT, sem doença
+evolutiva. Essas pessoas devem ser seguidas para confirmação ou refutação do
+diagnóstico de doença pulmonar por MNT. O tratamento de patologias subjacentes
+deve ser otimizado antes de se tomar a decisão sobre o tratamento de MNT.
+Outra possibilidade é a MNT isolada ser proveniente de contaminação ambiental
+no próprio laboratório, incluindo contaminação da amostra clínica. Por isso a
+necessidade de mais de uma cultura positiva para MNT em amostra não estéril.
+Em pessoas com sintomas clássicos e achados radiológicos para doença pulmonar
+nodular bronquiectásica, mas incapazes de produzir escarro para exame, uma
+amostra obtida por fibrobroncoscopia é considerada adequada para diagnóstico.
+Há circunstâncias em que a pessoa com suspeita de MNT preenche os critérios para
+doença pulmonar por MNT, mas não apresenta doença progressiva ou suficientemente
+grave para justificar terapia medicamentosa, como quando há repetidos isolamentos de
+MNT de baixa virulência ou espécies associadas com contaminação.
+Em imunocompetentes que apresentam lesão por MNT semelhante à da TB,
+acompanhada de critérios clínicos e laboratoriais, o tratamento não deve ser postergado.
+Em imunocompetentes com forma bronquiectásica nodular, o risco de progressão
+da doença e indicação de iniciar do tratamento devem ser considerados, avaliando
+os seguintes aspectos:
+• Aumento da frequência de culturas positivas x negativas;
+• Achados de TC de tórax indicando progressão da doença, como aumento das
+lesões e surgimento de cavidades.
+Na Figura 1 apresenta-se o algoritmo para indicação de tratamento das doenças
+por MNT em imunocompetentes. Considerar duas amostras em escarro como o
+procedimento mais adequado para o diagnóstico das micobacterioses.
+)23(
+setnetepmoconumi
+me
+otnematart
+ed
+oãçacidni
+arap
+omtiroglA
+–
+1
+arugiF
+ed
+acinílc
+atiepsuS
+ranomlup
+TNM
+saud
+ed
+arutluC
+orracse
+ed
+sartsoma
+sartsoma)b(
+artsoma)a(
+sartsomA
+SAVITISOP
+AVITISOP
+SAVITAGEN
+uo
+xarót
+ed
+afiargoidaR
+uo
+xarót
+ed
+afiargoidaR
+uo
+xarót
+ed
+afiargoidaR
+?TNM
+ed
+atiepsus
+)a(CT
+?TNM
+ed
+atiepsus
+)a(CT
+?TNM
+ed
+atiepsus
+)a(CT
+MIS
+OÃN
+OÃN
+MIS
+MIS
+OÃN
+avon
+rateloC
+avon
+rateloC
+métnaM
+raredisnoC
+a
+raunitnoC
+a
+raunitnoC
+)b(artsoma
+)b(artsoma
+?samotnis
+otnematart
+oãçagitsevni
+oãçagitsevni
+ahnetnam
+osac
+ahnetnam
+osac
+samotnis
+)c(samotnis
+artsomA
+artsomA
+artsomA
+artsomA
+MIS
+OÃN
+AVITAGEN
+AVITISOP
+AVITISOP
+AVITAGEN
+e
+oãçagitsevni
+a
+raunitnoC
+raredisnoC
+raredisnoC
+adíulcxE
+a
+raunitnoC
+adíulcxE
+)c(otnematart
+raredisnoc
+otnematart
+otnematart
+TNM
+oãçagitsevni
+TNM
+.adazirodatupmoc
+afiargomot
+:CT
+)a(
+.ocinílc
+oirétirc
+a
+sartsoma
+sartuo
+ed
+edadissecen
+a
+railavA
+.)artsoma
+amu(
+ABL
+moc
+aipocsocnorb
+uo
+)sartsoma
+saud(
+odizudni
+orracsE
+)b(
+.)ocitsóngaid
+ed
+solutípac
+rev(
+acigóloidar
+e
+acinílc
+oãçulove
+ad
+e
+TNM
+ed
+eicépse
+ad
+odnedneped
+otnematart
+raredisnoC
+)c(
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+45
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+46 MINISTÉRIO DA SAÚDE
+Observações:
+• Indivíduos imunocompetentes com suspeita de doença pulmonar por MNT cujas
+amostras de escarro são repetidamente negativas em cultura para micobactérias
+devem fazer broncoscopia com coleta de LBA, enviando-se o líquido para cultura
+de micobactérias.
+• A broncoscopia é indicada para indivíduos com suspeita de doença pulmonar por
+MNT que não conseguem expectorar o escarro.
+• As biópsias transbrônquicas não devem ser realizadas rotineiramente em
+indivíduos com suspeita de doença pulmonar por MNT.
+7.3 Fatores para decidir sobre o tratamento em
+imunodeprimidos
+No imunodeprimido com doença disseminada, o tratamento deve ser iniciado
+prontamente. A condição imunossupressora deve ser eliminada quando possível (p.
+ex., uso de imunobiológico).
+Nas pessoas com aids sem confirmação diagnóstica, deve ser dada cobertura tanto
+para TB como CMA, quando houver necessidade de tratamento empírico.
+7.4 Fatores para decidir sobre o tratamento em casos
+de hipersensibilidade
+No caso de lesão por hipersensibilidade, a necessidade de tratamento varia de
+acordo com a gravidade do caso. A pessoa com pneumonite de hipersensibilidade
+deve evitar a fonte de exposição, quando conhecida.
+Nessa situação, apesar de a radiografia de tórax demonstrar as lesões, a TC de tórax
+permite melhor detalhamento para diagnóstico e seguimento.
+7.5 Tratamento medicamentoso
+7.5.1 Considerações iniciais
+Este manual contém as recomendações de esquemas terapêuticos para as espécies
+de MNT mais prevalentes em nosso meio, frequentemente relacionadas à doença
+pulmonar e/ou extrapulmonar.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+47
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Para as espécies de MNT de menor prevalência, considerar como base de tratamento,
+para MCL, as recomendações terapêuticas para CMA (Quadro 8) e, para MCR, as
+recomendações terapêuticas para M. abscessus (Quadro 10).
+Em vista da falta de evidências científicas por ensaios clínicos controlados,
+recomenda-se a consulta aos guias internacionais de referência (14,32,64) para
+verificar as especificidades terapêuticas para as MNT de menor prevalência.
+Quando o diagnóstico da doença for altamente sugestivo de MNT, principalmente
+em imunodeprimidos com doença disseminada, indica-se empregar o esquema
+básico para TB com acréscimo de Cla, até que o diagnóstico seja confirmado com
+exames bacteriológicos (TRM-TB, baciloscopia, cultura, identificação da espécie).
+Dessa forma, o tratamento cobrirá M. tuberculosis e MCL. Manter R, H, E e Cla após
+a fase de ataque até confirmação do diagnóstico.
+7.5.2 Esquemas terapêuticos para as espécies de MNT mais fre-
+quentes no Brasil
+Apresenta-se a seguir o tratamento para as espécies de MNT mais frequentes no
+Brasil. Consultar o Anexo F para a dose posológica dos medicamentos, os Anexos G
+e H para a segurança em gestantes e lactantes e o Anexo I para o ajuste das doses
+dos medicamentos em nefropatas.
+Quadro 8 – Tratamento de doença por espécies do CMA(a)
+Apresentação da doença Tratamento recomendado Tempo de tratamento
+Cla
+R ou R + H em dose fixa
+Geral, sem complicações
+combinada (RH)
+12 meses após a conversão
+E
+bacteriológica ou 18 meses de
+tratamento, quando houver
+Am (entre 3 a 6 meses,
+impossibilidade de coleta de
+dependendo da evolução clínica)
+escarro
+Formas graves e cavitárias Cla
+R ou RH
+E
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Espécies: M. avium, M. intracellulare, M. chimaera, M. colombiense, M. arosiense, M. vulneris, M. bouchedurhonense, M.
+timonense, M. marseillense, M. yongonense, M. paraintracellulare e M. lepraemurium) (81).
+Observações:
+• Considerar o uso de RH quando houver indisponibilidade de R isolada.
+• Utilizar Az 500mg quando houver intolerância a Cla ou em casos de fibrose cística.
+48 MINISTÉRIO DA SAÚDE
+• Outros medicamentos para a composição de esquemas individualizados, em
+caso de intolerância, alergia ou falência: clofazimina (Cfz), Lzd e Mfx. Nessas
+situações, recomenda-se estabelecer o esquema de tratamento juntamente com
+os validadores do SITE-TB.
+• Em PVHIV, quando houver incompatibilidade da utilização de R com os
+antirretrovirais, utilizar Rfb.
+• Na indicação de uso de Am, se houver dificuldade de administração de medicação
+injetável, considerar a utilização inalatória com nebulizador e uso diário. Antes
+da nebulização, utilizar boncodilatador. Diluir um frasco de Am em 5mL de soro
+fisiológico 0,9%.
+• Em pessoas acima de 60 anos ou com comorbidades que possam comprometer
+a função renal, usar meia dose de Am.
+Quadro 9 – Tratamento de doença por M. kansasii
+Apresentação da doença Tratamento recomendado Tempo de tratamento
+Geral, sem complicações RH
+(quando sensível a R) E
+H
+Geral, sem complicações
+E
+(quando resistente a R) 12 meses após a conversão
+Cla
+bacteriológica ou 18
+Geral, sem complicações RH meses de tratamento,
+(na ausência de teste de E quando houver
+suscetibilidade) Cla impossibilidade de coleta
+de escarro
+Am (entre 3 e 6 meses, dependendo
+da evolução clínica)
+Formas graves e cavitárias RH
+E
+Cla
+Fonte: CGDR/DCCI/SVS/MS.
+Observações:
+• Na apresentação geral, quando a cepa for sensível a R, na impossibilidade de
+utilizar H, substituí-la por Cla.
+• Outros medicamentos para a composição de esquemas individualizados, em
+caso de intolerância, alergia ou falência: Az, estreptomicina (S), Mfx, Cpx/Lfx,
+Rfb (somente em casos resistentes a R e sensíveis à Rfb, pela alta resistência
+cruzada) e SMT/TMP. Nessas situações, recomenda-se estabelecer o esquema de
+tratamento juntamente com os validadores do SITE-TB.
+• Em PVHIV, quando houver incompatibilidade da utilização de R com os
+antirretrovirais, utilizar Rfb.
+• Na indicação de uso de Am, se houver dificuldade de administração injetável,
+considerar a utilização inalatória com nebulizador com uso diário.
+• Em pessoas acima de 60 anos ou com comorbidades que possam comprometer
+a função renal, usar meia dose de Am.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+49
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Quadro 10 – Tratamento de doença por bactérias do grupo M. abscessus(a)
+Apresentação da doença Tratamento recomendado Tempo de tratamento
+Fase de ataque:
+Am injetável (3x/semana)
+Entre 1 a 3 meses
+Tgc
+(dependendo da evolução
+Imp ou Ert
+clínica)
+Cla
+Comum a todas as apresentações Cfz
+Fase de manutenção: 12 meses após a conversão
+Am inalatória bacteriológica ou 18 meses
+Cla de tratamento, quando
+Cfz houver impossibilidade de
+Mfx coleta de escarro
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Subespécies: M. abscessus abscessus, M. abscessus massiliense e M. abscessus bolletii (82).
+Observações:
+• Em caso de esquemas individualizados, recomenda-se estabelecer o esquema de
+tratamento juntamente com os validadores do SITE-TB.
+• Quando a cepa for resistente a Cla, avaliar individualmente o esquema de
+tratamento, juntamente com o validador do caso no SITE-TB.
+• Em pessoas acima de 60 anos ou com comorbidades que possam comprometer
+a função renal, usar meia dose de Am.
+Quadro 11 – Tratamento de doença por bactérias do Complexo
+M. fortuitum(a) e do grupo M. chelonae(b)
+Apresentação da doença Tratamento recomendado Tempo de tratamento
+Fase de ataque:
+Am injetável (3x/semana)
+3 meses
+Cla
+Mfx
+Comum a todas as apresentações
+12 meses após a conversão
+Fase de manutenção: bacteriológica ou 18 meses
+Cla de tratamento, quando
+Mfx houver impossibilidade de
+coleta de escarro
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Espécies: M. fortuitum, M. peregrinum, M. senegalense, M. porcinum, M. neworleansense, M. boenickei, M. houstonense, M.
+brisbanense, M. septicum, e M. setense (83).
+(b) Subsepécies: M. chelonae chelonae, M. chelonae bovis e M. chelonae gwanakae (57).
+50 MINISTÉRIO DA SAÚDE
+Observações:
+• Considerar a utilização de Tbm em substituição a Am, quando disponível.
+• Em pessoas acima de 60 anos ou com comorbidades que possam comprometer
+a função renal, usar meia dose de Am.
+Para outras MNT não descritas, o esquema de tratamento deverá ser avaliado
+individualmente, juntamente com o validador do caso no SITE-TB.
+7.5.3 Reações adversas aos medicamentos utilizados no trata-
+mento das MNT e os respectivos manejos
+Quadro 12 – Reações adversas e respectivos manejos
+Medicamento Reações adversas Manejo
+Am (IM ou EV) • Monitorar a função renal, duas vezes
+Nefrotoxicidade
+ao mês, nos primeiros dois meses de
+Ototoxicidade
+tratamento. Considerar a continuidade do
+Hipocalemia
+monitoramento se houver evidências de
+Hipomagnesemia
+disfunção renal
+Hipocalcemia
+• Audiometria
+Am inalatória Broncoespasmo (as reações • Considerar o monitoramento da função
+descritas acima são menos renal e a audiometria em pessoas acima
+frequentes com essa de 60 anos ou com fatores de risco para
+apresentação) disfunção renal
+Az Rash cutâneo
+Náuseas e vômitos
+Artralgia • Eletrocardiograma inicial e sequencial,
+Tontura, cefaleia, poliartralgia se houver uso concomitante de outros
+Deficiência visual medicamentos que possam prolongar o
+Prolongamento do intervalo QT intervalo QT
+Síndrome de Stevens-Johnson • Considerar a realização de audiometria, caso
+Pancitopenia haja fatores de risco para ototoxicidade
+Hepatotoxicidade • Monitorar a função hepática
+Colite pseudomembranosa
+Zumbido
+Cla • Eletrocardiograma inicial e sequencial,
+se houver uso concomitante de outros
+medicamentos que possam prolongar o
+Náuseas e vômitos intervalo QT
+Cefaleia • Considerar a realização de audiometria, caso
+Prolongamento do intervalo QT haja fatores de risco para ototoxicidade
+Síndrome de Stevens-Johnson • Monitorar a função hepática
+Ototoxicidade • Usar com cautela em PVHIV em uso de
+antirretrovirais pela possibilidade de
+redução ou aumento da concentração
+plasmática desse medicamento
+continua
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+51
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+continuação
+Medicamento Reações adversas Manejo
+Cfz Hiperpigmentação cutânea • Eletrocardiograma inicial e sequencial,
+Ictiose se houver uso concomitante de outros
+Náuseas e vômitos medicamentos que possam prolongar o
+Obstrução intestinal intervalo QT
+Hemorragia digestiva • Considerar a realização de audiometria, caso
+Depressão haja fatores de risco para ototoxicidade
+Prolongamento do intervalo QT • Monitorar a função hepática
+SMT/TMP Rash cutâneo
+Náuseas, vômitos, dispepsia
+Hipercalemia
+Cefaleia
+Síndrome de Stevens-Johnson
+Hiponatremia • Monitorar função hepática, hemograma
+Pancitopenia completo, a critério clínico
+Colite pseudomembranosa
+Convulsão
+Hepatotoxicidade
+Nefrotoxicidade
+Pneumonia por hipersensibilidade
+E • Avaliação da acuidade visual e da capacidade
+de discriminar as cores verde e vermelha,
+inicialmente e se aparecerem sintomas
+Hiperuricemia
+visuais
+Náuseas e vômitos
+• Avaliar função renal e possíveis ajustes em
+Neurite óptica
+caso de disfunção
+• Cautela no uso em crianças menores de 10
+anos
+Imp Rash cutâneo
+Náuseas, vômitos, dispepsia
+Colite por Clostridium difficile
+• Monitorar função hepática e renal, a critério
+Pancitopenia
+clínico
+Tontura
+Nefrotoxicidade
+Hepatotoxicidade
+H Neuropatia periférica • Monitorar a função hepática, principalmente
+Aumento das transaminases em pessoas com histórico de hepatopatia
+Rash cutâneo prévia
+Pancitopenia • Atenção em PVHIV, diabéticos e alcoolismo,
+Hepatotoxicidade pelo risco aumentado de neuropatia
+Artralgia periférica
+Rabdomiólise • Considerar o uso de piridoxina profilática
+Lzd Acidose láctica • Monitorar a acuidade visual e a ocorrência
+Síndrome de Stevens-Johnson de neuropatia periférica. Considerar o uso
+Mielossupressão de piridoxina profilática
+Neuropatia periférica • Monitorar a função hepática e hemograma
+Neurite óptica completo, a critério clínico
+Mfx Prolongamento do intervalo QT
+• Eletrocardiograma inicial e sequencial,
+Síndrome de Stevens-Johnson
+se houver uso concomitante de outros
+Pancitopenia
+medicamentos que possam prolongar o
+Hepatotoxicidade
+intervalo QT
+Hipocalemia
+• Monitorar a glicemia (risco de hipoglicemia)
+Inflamação de tendões
+e função hepática
+Alveolite alérgica extrínseca
+continua
+52 MINISTÉRIO DA SAÚDE
+conclusão
+Medicamento Reações adversas Manejo
+Rfb Urina de cor avermelhada
+Náuseas e vômitos
+Aumento das transaminases
+• Monitorar rotineiramente a função hepática
+Uveíte
+Rash cutâneo
+Pancitopenia
+R • Monitorar rotineiramente a função hepática
+Urina de cor avermelhada
+• Cautela em pessoas em uso de
+Náuseas e vômitos
+antirretrovirais, hipoglicemiantes
+Aumento de transaminases
+orais, anticoncepcionais hormonais,
+Síndrome viral
+corticosteroides, diuréticos e
+Pancitopenia
+anticoagulantes, pelo risco de redução ou
+Hepatotoxicidade
+aumento das concentrações plasmáticas
+Nefrite intersticial
+destes
+Tgc Rash cutâneo
+Náuseas, vômitos, dispepsia
+Dor abdominal, diarreia
+Aumento do tempo de
+protrombina (TP) e tempo de
+tromboplastina parcial ativada • Monitoramento das funções hepática e
+(TTPa) pancreática, inicialmente e rotineiramente
+Pancreatite • Monitorar TP e TTPa
+Hipoglicemia
+Cefaleia e tontura
+Hepatoxicidade
+Colite pseudomembranosa
+Hipertensão intracraniana
+Fonte: CGDR/DCCI/SVS/MS.
+7.5.4 Interações medicamentosas
+A presença de comorbidades e a utilização de outros medicamentos em associação
+àqueles usados no tratamento das doenças causadas por MNT podem gerar a
+necessidade de solicitar exames laboratoriais com maior frequência, levando em
+consideração as interações medicamentosas complexas entre esses medicamentos
+e aqueles de uso rotineiro (84,85).
+Pessoas acima de 60 anos geralmente têm dificuldade em tolerar a terapia combinada.
+Além disso, podem ter comorbidades médicas e necessitar de terapias adicionais,
+que podem acarretar interações medicamentosas adversas com o tratamento de
+MNT (86).
+Diante dos desafios do tratamento, devem ser feitos esforços tanto no hospital
+como na comunidade para limitar, na medida do possível, a exposição a esses
+patógenos.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+53
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Quadro 13 – Interações medicamentosas e recomendações
+Interação
+Medicamento Efeito da interação Recomendação
+medicamentosa
+Am • Evitar uso concomitante
+• Se necessário, cuidado com o
+Diuréticos de alça: Potencializa a
+ajuste das doses, principalmente
+Furosemide ototoxicidade
+em pessoas com insuficiência
+Bumetamide Toxicidade vestibular
+renal
+Ácido etacrínico (dependente da dose)
+• Monitorar a ototoxicidade
+(audiometria)
+Bloqueadores
+neuromusculares Depressão respiratória • Evitar uso concomitante
+não despolarizantes: pela potencialização da • Se necessário, dosar bloqueador
+Pancuronium ação despolarizante neuromuscular e monitorar de
+Atraconium perto função neuromuscular
+Tubocurarina
+Agentes nefrotóxicos:
+Anfotericina B
+Cefalosporina
+Polimixina B
+Cidofovir Potencialização da ação
+• Evitar uso concomitante
+Foscarnet nefrotóxica
+• Monitorar função renal
+Imunossupressores:
+Ciclosporinas
+Tacrolimus
+Sirolimus
+Az R
+Prolongamento do
+• Eletrocardiograma inicial e
+Imunossupressores: intervalo QT
+sequencial
+Ciclosporinas
+Tacrolimus
+Sirolimus
+• Não deve ser administrado
+concomitantemente
+Aumento do risco de • Em caso de administração
+Hidroxicloroquina
+arritmias cardíacas necessária, monitorar com
+eletrocardiograma inicial e
+sequencial
+Amiodarona
+Aumento do risco de • Não deve ser administrado
+Ciclosporinas
+toxicidade concomitantemente
+Digoxina
+• Não deve ser administrado
+Potencialização da concomitantemente
+Varfarina ação anticoagulante da • Em caso de administração
+varfarina necessária, monitorar os tempos
+de coagulação
+Aumento do risco • Não deve ser administrado
+Atorvastatina de lesão muscular concomitantemente
+(rabdomiólise)
+continua
+54 MINISTÉRIO DA SAÚDE
+continuação
+Interação
+Medicamento Efeito da interação Recomendação
+medicamentosa
+Cla R
+Prolongamento do
+intervalo QT • Eletrocardiograma inicial e
+Imunossupressores:
+Potencialização da ação sequencial
+Ciclosporinas
+nefrotóxica • Monitorar função renal
+Tacrolimus
+Sirolimus
+Aumento da
+concentração de Cla no • Não deve ser administrado
+Lovastatina ou
+sangue e do risco de concomitantemente
+sinvastatina
+miopatia, incluindo a
+rabdomiólise
+Cfz Diminuição da taxa de • Não deve ser administrado
+R
+absorção da R concomitantemente
+Aumento do nível sérico
+e da concentração
+• Avaliar risco e benefício do uso
+H urinária da Cfz; redução
+concomitante
+da concentração da
+droga na pele
+Redução da absorção • Não deve ser administrado
+Suco de laranja
+da Cfz concomitantemente
+Imunossupressores:
+Pele seca • Aumentar a hidratação
+Ciclosporinas
+Prolongamento do • Eletrocardiograma inicial e
+Tacrolimus
+intervalo QT sequencial
+Sirolimus
+SMT/TMP Imunossupressores:
+Potencial de toxicidade • Monitorar função renal
+Ciclosporinas
+renal • Hemograma completo, a critério
+Tacrolimus
+Citopenia clínico
+Sirolimus
+E Contêm compostos de
+alumínio e bicarbonato • Evitar uso concomitante
+Antiácidos
+de sódio que reduzem a
+absorção do E
+Exacerbação dos efeitos • Evitar uso concomitante
+Etionamida
+tóxicos do E
+Imp • Considerar terapia alternativa
+Diminuição dos efeitos
+Ácido valproico de antibiótico ou de
+anticonvulsivantes
+anticonvulsivante
+Aumento da toxicidade
+Teofilina • Evitar uso concomitante
+da teofilina
+Diminuição do
+metabolismo das
+Ciclosporinas • Evitar uso concomitante
+ciclosporinas; aumento
+dos seus níveis séricos
+continua
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+55
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+continuação
+Interação
+Medicamento Efeito da interação Recomendação
+medicamentosa
+H Redução da absorção
+Derivados imidazólicos • Evitar uso concomitante
+de H
+Redução da absorção
+Antiácidos • Evitar uso concomitante
+de H
+Fenil-hidantoína Aumento da
+• Evitar uso concomitante
+hepatotoxicidade
+Aumento da
+Acetaminofen • Evitar uso concomitante
+hepatotoxicidade
+Potencialização • Monitorar sintomas e
+Benzodiazepínicos do efeito dos considerar redução de dose do
+benzodiazepínicos benzodiazepínico
+Indução de toxicidade • Se possível, evitar uso
+Carbamazepina
+neurológica concomitante
+Cicloserina/terizidona Maior neurotoxicidade • Monitorar sintomas
+Corticoide Maior metabolismo da H • Monitorar sintomas
+Inibição da monoamino
+Queijos e vinhos • Evitar uso concomitante
+oxidase (MAO)
+• Monitorar sintomas e enzimas
+R Maior hepatotoxicidade
+hepáticas
+• Evitar uso concomitante
+Sulfonilureia Hipoglicemia • Caso necessário, ajustar a dose
+das sulfonilureias
+Lzd Antidepressivos Potencialização do efeito
+tricíclicos: amitriptilina inibidor da MAO. Pode
+Agentes adrenérgicos e ocorrer síndrome da
+• Evitar uso concomitante
+serotoninérgicos serotonina (palpitações,
+Consumo de tiramina cefaleia e crise
+>100 mg/dia hipertensiva)
+Aumento dos efeitos
+• Se os sinais de pressão arterial
+anti-hipertensivos
+não forem monitorados
+Dopamina e dobutamina A Lzd, por possuir ação
+adequadamente, está
+como inibidor MAO,
+contraindicada essa associação
+pode ter efeito aditivo
+Potencialização do efeito
+Queijos e vinhos • Evitar uso concomitante
+inibidor da MAO
+Mfx Antiácidos:
+Redução da absorção
+Sais de alumínio, • Não deve ser usado
+(subdosagem das
+magnésio, cálcio e sódio concomitantemente
+fluoroquinolonas)
+Sucralfate
+Antiarrítmicos:
+Quinidina
+• Não deve ser usado
+Amiodarona Bradiarritmia
+concomitantemente
+Procainamida
+Sotalol
+Aumento do nível sérico
+das quinolonas em 50%
+Probenecide • Evitar uso concomitante
+por interferência na
+secreção tubular
+Redução da absorção
+Vitaminas e sais minerais: • Não deve ser usado
+(subdosagem das
+zinco e ferro trivalente concomitantemente
+fluoroquinolonas)
+ontinua
+56 MINISTÉRIO DA SAÚDE
+continuação
+Interação
+Medicamento Efeito da interação Recomendação
+medicamentosa
+Rfb Diminuição da
+Anticoncepcionais de
+eficiência dos fármacos • Evitar uso concomitante
+natureza hormonal
+anticoncepcionais
+A Rfb age como
+indutora das enzimas
+Teofilina
+hepáticas e pode afetar
+Sulfonamidas • Monitorar rotineiramente a
+a farmacocinética desses
+Fluconazol função hepática
+medicamentos, pelo
+Cimetidina
+processo biometabólico
+similar
+Imunossupressores: • Monitorar rotineiramente a
+Hepatotoxicidade
+Ciclosporinas função hepática
+Leucopenia
+Tacrolimus • Hemograma completo, a critério
+Sirolimus clínico
+R(a) Redução dos níveis • Ajustar dose dos analgésicos, se
+Analgésicos
+séricos dos analgésicos necessário
+Antiácidos Redução da absorção da R • Evitar uso concomitante
+Redução do nível sérico
+Anticoagulantes orais • Evitar uso concomitante
+do anticoagulante
+• Evitar uso concomitante e
+Anticoncepcionais Redução do nível sérico
+considerar uso de outros
+dos anticoncepcionais
+métodos contraceptivos
+Redução do nível sérico • Avaliar necessidade de ajuste de
+Barbitúricos
+dos barbitúricos dose
+Redução do nível sérico
+Beta-agonistas • Evitar uso concomitante
+dos beta-agonistas
+• Considerar uso de outros agentes
+A R reduz o nível sérico
+terapêuticos ou
+de ambos, ao mesmo
+Cetoconazol e fluconazol • Espaçar em até 12h o intervalo
+tempo em que aumenta
+de administração entre os
+a hepatotoxicidade
+medicamentos
+Redução do nível sérico • Avaliar necessidade de ajuste de
+Corticoides
+do corticoide dose do corticoide
+Redução do nível sérico • Avaliar necessidade de reajuste
+Digitálicos
+dos digitálicos de dose
+Redução do nível sérico
+Enalapril • Evitar uso concomitante
+do enalapril
+• Monitorar sintomas e enzimas
+Etionamida Maior hepatotoxicidade
+hepáticas
+• Monitorar sintomas e enzimas
+Fenil-hidantoína Maior hepatotoxicidade
+hepáticas
+Redução do nível sérico
+• Monitorar níveis glicêmicos e
+Hipoglicemiantes orais dos hipoglicemiantes
+considerar uso de insulina
+orais
+Inibidores de protease
+(IP) • Evitar uso concomitante ou
+Inibidores de Redução dos níveis • Podem-se utilizar efavirenz ou
+transcriptase reversa séricos dos IP saquinavir com ritonavir, sem a
+não análogos de necessidade de suspensão da R
+nucleosídeos
+• Monitorar sintomas e enzimas
+H Maior hepatotoxicidade
+hepáticas
+Redução do nível sérico • Avaliar ajuste de dose e evitar uso
+Metadona
+da metadona concomitante
+continua
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+57
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+conclusão
+Interação
+Medicamento Efeito da interação Recomendação
+medicamentosa
+R(a) • Monitorar sintomas e enzimas
+Maior hepatotoxicidade; hepáticas
+Pirazinamida menor excreção de • Orientar dieta hipopurínica
+ácido úrico e medicar com alopurinol ou
+colchicina, se necessário
+Redução do nível sérico
+Propafenona • Evitar uso concomitante
+da propafenona
+Redução do nível sérico
+Quinidina • Evitar uso concomitante
+da quinidina
+• Monitorar sintomas e enzimas
+Sulfas Maior hepatotoxicidade
+hepáticas
+Redução do nível sérico
+Teofilina • Evitar uso concomitante
+da teofilina
+Imunossupressores:
+• Monitorar rotineiramente a
+Ciclosporinas Hepatotoxicidade
+função hepática
+Tacrolimus Leucopenia
+• Hemograma completo, a critério
+Sirolimus
+clínico
+Anticoagulante:
+Redução do nível sérico
+Varfarina • Monitorar TP e TTPa
+do anticoagulante
+Diminuição da
+Anticoncepcionais de
+eficiência dos fármacos • Evitar uso concomitante
+natureza hormonal
+anticoncepcionais
+• Monitorar as concentrações
+Inibidores de Aumento nas
+séricas do inibidor de
+calcineurina: Tacrolimus concentrações séricas
+calcineurina, durante o
+Imunossupressores: mínimas dos inibidores
+Interação tratamento com Tgc, para evitar a
+Medicamento Ciclosporinas deE cfaeliction eduar iinnateração Recomendação
+medicamentosa toxicidade do medicamento
+Tgc Anticoagulante:
+Redução do nível sérico
+Varfarina • Monitorar TP e TTPa
+do anticoagulante
+Diminuição da
+Anticoncepcionais de
+eficiência dos fármacos • Evitar uso concomitante
+natureza hormonal
+anticoncepcionais
+• Monitorar as concentrações
+Inibidores de Aumento nas
+séricas do inibidor de
+calcineurina: Tacrolimus concentrações séricas
+calcineurina, durante o
+Imunossupressores: mínimas dos inibidores
+tratamento com Tgc, para evitar a
+Ciclosporinas de calcineurina
+toxicidade do medicamento
+Fonte: CGDR/DCCI/SVS/MS.
+(a) A possibilidade das interações medicamentosas com a R requer uma anamnese terapêutica rigorosa em relação aos medicamentos em uso.
+58 MINISTÉRIO DA SAÚDE
+7.5.5 Critérios para internação
+• Hemoptise;
+• Complicações clínicas, incluindo insuficiência respiratória;
+• Uso de medicamentos endovenosos. Nesse caso, considerar a colocação de PICC
+(cateter central de inserção periférica) ou portocath para facilitar a aplicação do
+medicamento.
+7.5.6 Critérios para cirurgia (avaliação de possibilidade de ressec-
+ção)
+• Preferencialmente doença unilateral;
+• Prova de função pulmonar que permita a ressecção (espirometria e cintilografia
+perfusional e inalatória);
+• Ausência de comorbidades significativas, que comprometam o prognóstico;
+• Possibilidade de ressecção parcial: lobectomia ou bilobectomia.
+7.5.7 Abordagens não medicamentosas
+• Reabilitação pulmonar (fisioterapia respiratória, suporte nutricional,
+comportamental, terapia ocupacional e oxigenioterapia)
+7.5.8 Outras espécies e infecções mistas
+Doenças causadas por outras espécies menos comuns de MNT devem ser avaliadas
+caso a caso com especialistas.
+Infecções mistas são infrequentes. Os resultados laboratoriais devem ser revisados.
+Na associação TB e MNT, o esquema deve contemplar as drogas do esquema
+básico por seis meses, associadas às drogas específicas pelo tempo previsto para o
+tratamento da MNT.
+7.6 Seguimento do tratamento
+7.6.1 Seguimento clínico
+A adesão ao tratamento é fundamental para o sucesso terapêutico. Recomendam-se
+consultas mensais para otimizar a adesão, verificar a tolerância aos medicamentos e
+acompanhar a resposta clínica.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+59
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+A fluidificação da secreção brônquica, a fisioterapia respiratória e o aporte nutricional,
+além de exercícios e condicionamento cardiovascular, devem ser considerados
+no tratamento e acompanhamento posterior. Tratar fatores associados e/ou
+predisponentes, em especial o controle de diabetes e tabagismo.
+Em caso de imunodeprimido com doença disseminada, a condição imunossupressora
+deve ser eliminada, como o uso de imunobiológicos, ou controlada, como nas PVHIV
+em uso de antirretrovirais.
+Em pessoas com pneumonite de hipersensibilidade, evitar a fonte de exposição,
+quando conhecida. A necessidade e a resposta ao tratamento variam de acordo com
+a gravidade do caso. Não há necessidade de acompanhamento posterior.
+7.6.2 Seguimento laboratorial
+Exames de rotina durante tratamento:
+• Baciloscopia e cultura para micobactérias mensais até conversão bacteriológica;
+depois desse período, culturas trimestrais, quando for possível obter escarro
+espontâneo. Não há necessidade de indução de escarro ou de coleta de LBA
+quando a pessoa não conseguir expectorar escarro;
+• Provas de função hepática e renal para controle de drogas nefro e hepatotóxicas,
+a critério clínico;
+• Exames podem ser solicitados em intervalos mais curtos, quando uma resposta
+clínica satisfatória não é observada ou a critério clínico.
+7.6.3 Seguimento radiológico
+Será realizada radiografia de tórax em todas as pessoas com colonização ou doença por
+MNT pulmonar.
+Pessoas cujas formas de apresentação não são satisfatoriamente avaliadas pela
+radiografia poderão realizar TC de tórax. Na maioria dos casos, é necessário realizar TC
+de tórax apenas no início e no final do tratamento. Intercorrências durante o tratamento
+podem ser avaliadas por radiografia.
+60 MINISTÉRIO DA SAÚDE
+A forma semelhante à TB ou lesões identificadas pela radiografia de tórax podem ser
+acompanhadas apenas por esse método de imagem. Em pessoas com evolução clínica
+favorável, é possível obter radiografia no início do tratamento e semestralmente.
+Observa-se manifestação de boa evolução radiológica, com regressão ou redução e
+posterior estabilidade das lesões.
+A radiografia de tórax pode ser normal ou com poucas alterações na forma disseminada
+relacionada à imunodepressão e na forma como ocorre em imunocompetentes,
+envolvendo predominantemente as vias aéreas (forma bronquiectásica nodular),
+sendo necessário realizar TC de tórax no início e final do tratamento. Durante o
+curso do tratamento, sugere-se realizar radiografia de tórax semestral.
+A resposta terapêutica satisfatória na forma da lesão das vias aéreas se apresenta
+como redução nas opacidades em árvore em brotamento, mas as bronquiectasias
+costumam ser irreversíveis.
+Na forma disseminada, a resolução das adenomegalias e a regressão da lesão
+pulmonar também são melhor avaliadas por TC de tórax.
+Após a alta dos casos com critérios de cura, exames radiológicos somente serão
+necessários se houver recrudescimento dos sintomas.
+7.6.4 Seguimento pós interrupção do tratamento
+O seguimento posterior será determinado pela doença de base. Pessoas com fibrose
+cística mantêm acompanhamento no serviço de origem. Os demais casos devem ser
+reavaliados a cada seis meses por pelo menos dois anos, com retorno precoce se
+houver recrudescimento de sintomas.
+Após resolvida a imunodepressão, não é necessário o acompanhamento
+permanente. Nos casos de pneumonite de hipersensibilidade, não há necessidade
+de acompanhamento posterior.
+61
+8
+BIOSSEGURANÇA
+8.1 Laboratorial
+A biossegurança no trabalho laboratorial deve estar baseada em três pontos,
+a saber: 1) práticas de trabalho seguras para minimizar a criação de aerossóis, 2)
+infraestrutura e fluxo de trabalho que favoreçam o trabalho seguro e 3) estruturas
+prediais que atendam aos laboratórios e suas atividades (87).
+As recomendações de biossegurança sempre foram muito discutidas, mas na
+última década elas têm se fundamentado no alinhamento entre risco e atividade. A
+associação de um determinado organismo a um grupo de risco baseia-se na virulência,
+transmissibilidade, riscos inerentes à sua manipulação e tratamentos disponíveis.
+No trabalho em laboratório, como não é possível distinguir, antes das análises, as
+amostras que contêm MNT, as quais são classificadas como microrganismos classe
+2, todas as etapas de coleta, processamento e descarte devem ser realizadas com
+procedimentos técnicos que protejam os profissionais da exposição a gotículas
+infectantes que possam conter, além das MNT, bacilos de M. tuberculosis (48,88).
+O risco envolvido no processamento dessas amostras é avaliado de acordo com a
+capacidade de geração de aerossóis e a carga bacilar. Segundo o documento de
+referência da OMS (89), são classificados como laboratórios de baixo risco aqueles
+que manipulam apenas amostras de esfregaços para pesquisa de BAAR, com ou
+sem o uso de um ensaio molecular; esses laboratórios podem utilizar as condições
+e práticas de nível de biossegurança 2 (NB2). Laboratórios que processam amostras
+para isolamento e teste de suscetibilidade diretamente são classificados como risco
+moderado, para os quais se recomenda utilizar as condições de NB2 e práticas de NB3.
+Já os laboratórios de alto risco são considerados aqueles que realizam identificação
+e teste de suscetibilidade a partir de culturas positivas, com a recomendação de
+utilização de estrutura de NB3 (48).
+A depender do risco envolvido, esses processos requerem boas práticas de laboratório,
+dispositivos de segurança, equipamentos de proteção individual – EPI (máscara N95/
+PFF2, luvas, jaleco, touca, pro-pé), descontaminação e descarte adequados do lixo
+62 MINISTÉRIO DA SAÚDE
+biológico e o uso de caixas específicas para materiais perfuro-cortantes (48), além da
+existência obrigatória de dispositivos de segurança e de sistema de pressão negativa
+para exaustão e filtração do ar do interior do laboratório. Os colaboradores devem
+usar EPI e roupas de proteção específicas para cada área. Para mais detalhes sobre
+esses procedimentos, consultar os manuais de biossegurança vigentes (87,90,91).
+Outra importante medida de controle, de acordo com as diretrizes dos Centers
+for Disease Control and Prevention (CDC) para boas práticas de trabalho em
+laboratórios de micobacteriologia, publicadas em 2012, trata da desinfecção química
+dos resíduos antes serem retirados da cabine de segurança biológica, assim como
+da instalação de uma autoclave de barreira para que os resíduos gerados possam
+ser esterilizados antes de serem descartados. Caso isso não seja possível, todos os
+resíduos do laboratório de micobacteriologia devem estar contidos em recipientes
+estanques, a serem empacotados de forma que a parte externa do recipiente possa
+ser desinfetada antes de sair do laboratório (48,88).
+8.2 Administrativa
+Recomenda-se que os dias e/ou turnos de atendimento das pessoas portadoras de
+doenças causadas por MNT sejam realizados em ambientes diferentes daqueles em
+que se realiza o atendimento das pessoas com TB.
+É importante fornecer EPI aos profissionais e usuários dos serviços e orientar seu
+correto uso.
+8.3 Do profissional de saúde
+Os profissionais de saúde, além de obedecerem às boas práticas de higienização,
+devem utilizar máscara N95/PFF2 como EPI, já que, durante a investigação, não é
+possível saber se o usuário tem ou não TB.
+8.4 Dos contatos
+Não é conhecida a transmissão de MNT entre pessoas. Em tese, não é necessária a
+proteção dos familiares em relação à pessoa doente.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+63
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Entretanto, estudos recentes relataram transmissão potencial de M. abscessus
+subsp. massiliense entre pessoas com fibrose cística (92-94). Destaca-se que toda
+doença infecciosa pulmonar é passível de produzir gotículas infectantes. Portanto,
+assim como no caso de pessoas com doença causada por M. tuberculosis, espécies
+como M. kansasii têm potencial para serem transmitidas por via aérea.
+8.5 Cuidados com espirômetros, fibrobroncoscópios e
+instrumentais
+Em caso de pessoas com doenças por micobactérias que necessitem realizar
+espirometria, uma alternativa é utilizar espirômetros de turbina com bocal
+descartável, sistema aberto e a seco.
+A hidrofobicidade das micobactérias está associada à capacidade de formar
+biofilmes, contribuindo para a sua permanência em determinados ambientes
+e resistência a desinfetantes e antimicrobianos. Falhas em procedimentos de
+esterilização possibilitam sua presença em soluções de uso médico, instrumentais
+e equipamentos. Essas falhas foram verificadas em diferentes situações que
+proporcionaram a ocorrência de surtos de infecções ou pseudoinfecções por MNT.
+Portanto, é recomendada limpeza mecânica (escovação dos materiais utilizados
+em exames e cirurgias), desinfecção com substâncias químicas ativas contra
+micobactérias e desinfecção térmica.
+64
+9
+SISTEMA DE INFORMAÇÕES
+DE TRATAMENTOS ESPECIAIS
+DE TUBERCULOSE (SITE-TB)
+As manifestações clínicas das doenças causadas por MNT são semelhantes ao quadro
+clínico da TB, dificultando o diagnóstico da doença e, consequentemente, gerando
+tratamentos prolongados e muitas vezes sem cura. Em grande parte das vezes, o
+diagnóstico de MNT só ocorre após o insucesso no tratamento para TB.
+Apesar de as doenças causadas por MNT não serem de notificação compulsória,
+elas apresentam importância do ponto de vista da saúde pública, já que, ao serem
+confundidas com a TB, acabam por gerar retratamentos por recidiva e muitas vezes
+sequelas pulmonares irreversíveis e irreparáveis.
+Desse modo, todo caso que tenha sido identificado a partir do diagnóstico diferencial
+de TB, com teste de cultura e identificação da espécie, deve ser notificado no SITE-
+TB (http://sitetb.saude.gov.br/) para fins de acompanhamento, bem como para
+liberação dos medicamentos necessários ao tratamento.
+9.1 Definição de MNT para notificação no SITE-TB
+• Casos com identificação de MNT pelos métodos laboratoriais e cultura para
+micobactéria com identificação de espécie, que foram identificados como
+diagnóstico diferencial de TB.
+9.2 Notificação dos casos
+As referências secundárias e terciárias são responsáveis por diagnosticar, tratar
+e acompanhar os casos de doença por MNT, dispensar medicamentos e fornecer
+orientações para seu tratamento.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+65
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Os casos de infecção por MNT identificados a partir do diagnóstico diferencial da
+TB devem ser notificados no SITE-TB (http://sitetb.saude.gov.br/). Os casos de MNT
+não devem ser notificados no Sistema de Informação de Agravos de Notificação
+(Sinan). No entanto, se isso ocorrer, eles devem ser encerrados como “mudança de
+diagnóstico” no Sinan antes de serem notificados no SITE-TB (Anexo J). A liberação
+dos medicamentos para tratamento de casos de MNT está vinculada à notificação e
+à validação do caso no sistema.
+A ficha de notificação divide-se nos seguintes blocos: identificação do indivíduo,
+dados de residência, dados de notificação, populações especiais, doenças e agravos
+associados, tratamentos anteriores para TB e MNT, exames complementares,
+tratamento e consulta atual. O boletim de acompanhamento compreende os
+seguintes blocos: identificação do indivíduo, exames complementares, consulta,
+tratamento e encerramento (Quadro 14).
+Quadro 14 – Bloco de informações e variáveis da ficha de notificação e do
+boletim de acompanhamento dos casos de MNT do SITE-TB (27)
+Nome de registro, nome social, data de nascimento, sexo,
+Identificação do
+gestante, raça/cor, escolaridade (anos de estudo), cartão
+indivíduo
+nacional de saúde, nome da mãe e telefone
+UF de origem, município de origem, unidade de saúde de
+origem, tipo de entrada (em caso de mudança de esquema,
+Dados de residência destacar o motivo), identificação da espécie (tipo de
+exame, data de coleta e do resultado), peso, altura, forma
+clínica e data do diagnóstico
+Profissional de saúde, pessoa privada de liberdade,
+Populações especiais
+imigrante e pessoa em situação de rua
+Aids, abuso de álcool, diabetes, hepatites virais (B/C),
+insuficiência renal/hemodiálise, neoplasia, silicose,
+Doenças e agravos tabagismo, transplantado(a) de medula óssea,
+associados transplantado(a) de órgão sólido, uso de corticoterapia
+Ficha de prolongada, uso de drogas ilícitas, uso de imunobiológicos,
+Notificação doença estrutural do pulmão, fibrose cística, outra(o)
+Histórico dos tratamentos anteriores para TB ou MNT; se sim,
+Tratamentos
+informar a data do início do tratamento, por mês e ano, os
+anteriores
+medicamentos utilizados e os resultados dos tratamentos
+Exame de baciloscopia e cultura (material, data da coleta
+e do resultado), teste rápido molecular (data da coleta
+Exames e do resultado), teste de suscetibilidade (descreve a
+complementares sensibilidade ou resistência por fármaco testado), RX (data
+do RX), tomografia computadorizada (data da tomografia),
+HIV e TARV
+UF, município de tratamento, unidade de saúde de
+Tratamento atual tratamento, data de início do tratamento e regime de
+tratamento
+Data da consulta atual, data da próxima consulta, nome do
+Consulta atual
+profissional, função e observações
+continua
+66 MINISTÉRIO DA SAÚDE
+conclusão
+Nome do registro, nome social, unidade de saúde
+Dados do caso
+de tratamento, número no SITE-TB, telefone
+Exame de baciloscopia e cultura (material, data da
+Exames coleta e resultado), RX (data do RX), tomografia
+complementares computadorizada (data da tomografia), HIV e
+TARV
+Data da consulta atual e da próxima consulta,
+evolução clínica, peso, altura, se endereço
+Consulta atual diferente da notificação (município, UF,
+logradouro, número, bairro, complemento,
+regional de saúde do município e CEP
+Aids, abuso de álcool, diabetes, hepatites virais
+(B/C), insuficiência renal/hemodiálise, neoplasia,
+silicose, tabagismo, transplantado(a) de medula
+Doenças e agravos
+óssea, transplantado(a) de órgão sólido, uso de
+Boletim de associados
+corticoterapia prolongada, uso de drogas ilícitas,
+Acompanhamento
+uso de imunobiológicos, doença estrutural do
+pulmão, fibrose cística, outra(o)
+Acidose lática, artralgia incapacitante, colite
+pseudomembranosa, deficiência visual, exantema
+ou hipersensibilidade grave, hepatotoxicidade,
+mielotoxicidade, alveolite alérgica extrínseca,
+broncoespasmo, convulsão, depressão,
+hemorragia digestiva, hipertensão intracraniana,
+Reações adversas nefrite intersticial, nefrotoxicidade, neurite
+maiores periférica grave, ototoxicidade, pancreatite,
+prolongamento do intervalo QT, rash cutâneo,
+sintomas psicóticos e depressão, uveíte, neurite
+ótica, obstrução intestinal, pancitopenia,
+pneumonia por hipersensibilidade, rabdomiólise,
+síndrome de Stevens Johnson, tendinite grave e
+rotura de tendão do calcâneo (tendão de Aquiles).
+Todos as pessoas que atenderem à definição de caso devem ser notificadas no SITE-
+TB, independentemente do número de vezes que tenham sido diagnosticadas.
+Para fins de vigilância, segue a classificação do tipo de entrada do caso ao ser
+notificado no SITE-TB.
+9.3 Tipos de entrada
+• Caso novo de MNT: qualquer pessoa que nunca se submeteu a tratamento para
+MNT ou o fez por menos de 30 dias. Casos que tenham sido tratados para MNT
+e posteriormente diagnosticados novamente com outra espécie de MNT devem
+ser notificados como caso novo;
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+67
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+• Mudança de esquema: caso de MNT que necessitou alterar o esquema de
+tratamento devido à presença de comorbidades ou efeitos adversos;
+• Após abandono de tratamento de MNT: caso de MNT tratado anteriormente
+para MNT que deixou de tomar os medicamentos por 30 dias consecutivos ou
+mais;
+• Recidiva de MNT: caso de MNT tratado anteriormente para MNT e que recebeu
+alta por cura comprovada ou por ter completado o tratamento;
+• Falência ao tratamento: caso de MNT que apresentou falência ao tratamento
+para MNT.
+9.4 Acompanhamento dos casos e gerenciamento dos
+medicamentos
+O SITE-TB também possibilita o acompanhamento e o gerenciamento dos
+medicamentos utilizados no tratamento de MNT. As informações do caso, tais
+como resultados laboratoriais e consultas, devem ser preenchidas no mínimo
+trimestralmente, e as dispensações dos medicamentos, mensalmente, para que os
+dados estejam atualizados no momento da realização do pedido de medicamentos.
+Esse procedimento é continuamente realizado até o encerramento do caso. É
+importante manter atualizadas as notificações e o acompanhamento dos casos de
+MNT nesse sistema, a fim de possibilitar o cálculo adequado das quantidades de
+cada medicamento a serem enviadas aos serviços de referência.
+Recomenda-se verificar os esquemas, datas de início e fim do tratamento, dose,
+frequência semanal e concentração de cada medicamento prescrito antes de realizar
+o pedido no sistema, que deve ser feito pelo profissional responsável pela gestão de
+medicamentos da unidade. Há necessidade de nova solicitação quando o estoque de
+qualquer medicamento atingir a quantidade para 30 dias de duração.
+No SITE-TB, em situações de transferência de casos entre unidades de referência,
+não há necessidade de notificar novamente o indivíduo. A unidade de referência
+que transfere o caso deve selecionar a opção “transferência” e indicar o nome
+da referência de destino (situação somente possível entre referências/hospitais
+cadastrados no sistema). Além disso, essa unidade também pode realizar a
+transferência de medicamentos, se necessário.
+A unidade de saúde receptora deverá aceitar a transferência do caso e, se necessário,
+dos medicamentos, e dar continuidade ao tratamento. Em caso de transferência dos
+medicamentos, é necessário remover a medicação do estoque atual e transferi-la para
+o serviço que irá receber a pessoa em tratamento. Após o término do tratamento,
+os casos de pessoas com doenças causadas por MNT devem ser encerrados por um
+dos critérios a seguir.
+68 MINISTÉRIO DA SAÚDE
+9.5 Tipos de encerramento
+• Cura: neste manual, considera-se o achado de pelo menos duas culturas negativas,
+com intervalo de 30 dias, sem amostras positivas da espécie causadora, após a
+conversão da cultura até o final da terapia antimicobacteriana (12 meses após
+conversão);
+• Tratamento completo: indivíduo que completou o tempo estipulado para o
+tratamento, com evolução clínica e radiológica favoráveis;
+• Abandono: indivíduo que interrompeu o tratamento por 30 dias consecutivos
+ou mais;
+• Falência: indivíduo com MNT com duas culturas positivas em meses consecutivos,
+ou com persistência de culturas positivas da espécie causadora por período igual
+ou superior a 12 meses de tratamento antimicobacteriano, enquanto ainda
+estiver em tratamento;
+• Óbito por MNT: indivíduo cujo óbito foi causado por MNT, ocorrido durante
+o tratamento. A causa do óbito deve estar de acordo com as informações do
+Sistema de Informações sobre Mortalidade (SIM);
+• Óbito por outra causa: indivíduo cujo óbito deveu-se a causas diferentes de
+MNT, ocorrido durante o tratamento. A causa do óbito deve estar de acordo com
+as informações do SIM;
+• Transferência para outro país: indivíduo que é transferido para outro país. Casos
+transferidos para outros serviços de saúde no Brasil não devem ser encerrados
+como transferência;
+• Mudança de esquema: indivíduo com MNT que necessita alterar o esquema já
+adotado, devido à presença de comorbidades ou efeitos adversos. A alteração
+de dois ou mais medicamentos (exceto piridoxina) é considerada mudança de
+esquema;
+• Mudança de diagnóstico: indivíduo cujo diagnóstico foi elucidado no sentido de
+que não se tratava de doença causada por MNT;
+• Abandono primário: indivíduo que fez uso de medicamento por menos de 30
+dias e o interrompeu 30 dias consecutivos ou mais, ou quando diagnosticado não
+iniciou o tratamento.
+69
+REFERÊNCIAS
+1. DEVULDER, G.; PEROUSE DE MONTCLOS, M.; FLANDROIS, J. P. A multigene
+approach to phylogenetic analysis using the genus Mycobacterium as a model.
+International Journal of Systematic and Evolutionary Microbiology, Reading,
+Inglaterra, v. 55, p. 293-302, Jan. 2005. Pt. 1.
+2. TORTOLI, E. Clinical manifestations of nontuberculous mycobacteria infections.
+Clinical Microbiology and Infection, Oxford, Inglaterra, v. 15, n. 10, p. 906-910,
+Oct. 2009.
+3. RUNYON, E. H. Anonymous mycobacteria in pulmonary disease. Medical Clinics
+of North America, Philadelphia, Pa., v. 43, n. 1, p. 273-290, Jan. 1959.
+4. GUPTA, R. S.; LO, B.; SON, J. Phylogenomics and comparative genomic studies
+robustly support division of the genus Mycobacterium into an emended genus
+Mycobacterium and four novel genera. Frontiers in Microbiology, Lausanne, v. 9,
+p. 67, Feb. 2018.
+5. OREN, A.; GARRITY, G. M. Notification of changes in taxonomic opinion
+previously published outside the IJSEM. International Journal of Systematic and
+Evolutionary Microbiology, Reading, Inglaterra, v. 68, n. 7, p. 2137-2138, July 2018.
+6. FALKINHAM, J. O. 3rd. Epidemiology of infection by nontuberculous
+mycobacteria. Clinical Microbiology Reviews, Washington, US, v. 9, n. 2, p. 177-
+215, Apr. 1996.
+7. KAPLAN, J. E. et al. Epidemiology of human immunodeficiency virus-
+associated opportunistic infections in the United States in the era of highly active
+antiretroviral therapy. Clinical Infectious Diseases, Chicago, Ill., v. 30, p. S5-14,
+Apr. 2000. Supplement 1.
+8. TORTOLI, E. The new mycobacteria: an update. FEMS Immunology and Medical
+Microbiology, Amsterdam, v. 48, n. 2, p. 159-178, Nov. 2006.
+9. SAMPAIO, J. L. et al. An outbreak of keratitis caused by Mycobacterium
+immunogenum. Journal of Clinical Microbiology, Washington, US, v. 44, n. 9, p.
+3201-3207, Sept. 2006.
+10. LEÃO, S. C. et al. Epidemic of surgical-site infections by a single clone of rapidly
+growing mycobacteria in Brazil. Future Microbiology, London, v. 5, n. 6, p. 971-
+980, June 2010.
+70 MINISTÉRIO DA SAÚDE
+11. BROWN-ELLIOTT, B. A.; WALLACE JUNIOR, R. J. Nontuberculous mycobacteria.
+In: MAYHALL, C. G. (ed.). Hospital Epidemiology and Infection Control. 4th ed.
+Philadelphia: Lippincott Williams & Wilkins, 2012. p. 593-608.
+12. LEÃO, S. C. et al. Practical handbook for the phenotypic and genotypic
+identification of mycobacteria. Brugges: Vanden Broelle, 2004.
+13. CENTRO DE VIGILÂNCIA EPIDEMIOLÓGICA “PROF. ALEXANDRE VRANJAC”
+(SP). Recomendações para o diagnóstico e tratamento das micobacterioses
+não tuberculosas no Estado de São Paulo. São Paulo: CVE, 2005. Disponível em:
+https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/
+areas-de-vigilancia/tuberculose/doc/tb11_3mntsb.pdf. Acesso em: 19 out. 2021.
+14. GRIFFITH, D. E. et al. An official ATS/IDSA statement: diagnosis, treatment,
+and prevention of nontuberculous mycobacterial diseases. American Journal of
+Respiratory and Critical Care Medicine, New York, v. 175, n. 4, p. 367-416, Feb. 2007.
+15. ANDREJAK, C. et al. Nontuberculous pulmonary mycobacteriosis in Denmark:
+incidence and prognostic factors. American Journal of Respiratory and Critical
+Care Medicine, New York, v. 181, n. 5, p. 514-521, Mar. 2010.
+16. BRODE, S. K.; DALEY, C. L.; MARRAS, T. K. The epidemiologic relationship
+between tuberculosis and non-tuberculous mycobacterial disease: a systematic
+review. The International Journal of Tuberculosis and Lung Disease, Paris, v. 18,
+n. 11, p. 1370-1377, Nov. 2014.
+17. DONOHUE, M. J. Increasing nontuberculous mycobacteria reporting rates and
+species diversity identified in clinical laboratory reports. BMC Infectious Diseases,
+London, v. 18, n. 1, p. 163, Apr. 2018.
+18. NAMKOONG, H. et al. Epidemiology of pulmonary nontuberculous
+mycobacterial disease, Japan. Emerging Infectious Diseases, Atlanta, Ga., v. 22,
+n. 6, p. 1116-1117, June 2016.
+19. YOON, H. J.; CHOI, H. Y.; KI, M. Nontuberculosis mycobacterial infections
+at a specialized tuberculosis treatment centre in the Republic of Korea. BMC
+Infectious Diseases, London, v. 17, n. 1, p. 432, 2017.
+20. DEAN, S. G. et al. Mycobacterial Testing Trends, United States, 2009-2015.
+Emerging Infectious Diseases, Atlanta, Ga., v. 26, n. 9, p. 2243-2246, Sept. 2020.
+21. PREVOTS, D. R. et al. Nontuberculous mycobacterial pulmonary disease: an
+increasing burden with substantial costs. The European Respiratory Journal,
+Copenhagen, DK, v. 49, n. 4, p. 1700374, Apr. 2017.
+22. MELLO, K. G. de et al. Clinical and therapeutic features of pulmonary
+nontuberculous mycobacterial disease, Brazil, 1993-2011. Emerging Infectious
+Diseases, Atlanta, Ga., v. 19, n. 3, p. 393-399, Mar. 2013.
+23. LIMA, C. A. et al. Nontuberculous mycobacteria in respiratory samples from
+patients with pulmonary tuberculosis in the state of Rondonia, Brazil. Memórias
+do Instituto Oswaldo Cruz, Rio de Janeiro, v. 108, n. 4, p. 457-462, June 2013.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+71
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+24. MATOS, E. D. et al. Nontuberculosis mycobacteria at a multiresistant
+tuberculosis reference center in Bahia: clinical epidemiological aspects. Brazilian
+Journal of Infectious Diseases, Salvador, v. 8, n. 4, p. 296-304, Aug. 2004.
+25. COSTA, A. R. F. da et al. Occurrence of nontuberculous mycobacterial
+pulmonar infection in an endemic area of tuberculosis. PLoS Neglected Tropical
+Diseases, [s. l.], v. 7, n. 7, p. e2340, July 2013.
+26. CARNEIRO, M. D. S. et al. Nontuberculous mycobacterial lung disease in a
+high tuberculosis incidence setting in Brazil. Jornal Brasileiro de Pneumologia,
+Brasília, DF, v. 44, n. 2, p. 106-111, Mar./Apr. 2018.
+27. BRASIL. Ministério da Saúde. SITE-TB: Sistema de informação de tratamentos
+especiais de tuberculose. Brasília, DF: MS: 2021. Disponível em: http://sitetb.saude.
+gov.br/. Acesso em: 5 out. 2021.
+28. BOMBARDA, S. et al. Recomendações para o diagnóstico e tratamento das
+micobacterioses não tuberculosas no Estado de São Paulo. São Paulo: Centro
+de Vigilância Epidemiológica “Prof. Alexandre Vranjac”, 2019. Disponível em: http://
+www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-
+vigilancia/tuberculose/doc/tb11_3mntsb.pdf. Acesso em: 5 out. 2021.
+29. KIM, R. D. et al. Pulmonary nontuberculous mycobacterial disease: prospective
+study of a distinct preexisting syndrome. American Journal of Respiratory and
+Critical Care Medicine, New York, v. 178, n. 10, p. 1066-1074, 2008.
+30. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento
+de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do
+HIV/Aids e das Hepatites Virais. Protocolo Clínico e Diretrizes Terapêuticas para
+Manejo da Infecção pelo HIV em Adultos. Brasília, DF: MS, 2018.
+31. HENKLE, E.; WINTHROP, K. L. Nontuberculous mycobacteria infections in
+immunosuppressed hosts. Clinics in Chest Medicine, Philadelphia, Pa., v. 36, n. 1,
+p. 91-99, Mar. 2015.
+32. HAWORTH, C. S. et al. British Thoracic Society Guideline for the management
+of non-tuberculous mycobacterial pulmonary disease (NTM-PD). BMJ Open
+Respiratory Research, [s. l.], v. 4, n. 1, p. e000242, 2017.
+33. GLOBAL LABORATORY INITIATIVE. GLI Practical Guide to TB Laboratory
+Strengthening. [S. l.]: GLI, 2017. Disponível em: http://stoptb.org/wg/gli/assets/
+documents/GLI_practical_guide.pdf. Acesso em: 5 out. 2021.
+34. ADELMAN, M. H.; ADDRIZZO-HARRIS, D. J. Management of nontuberculous
+mycobacterial pulmonary disease. Current Opinion in Pulmonary Medicine,
+Philadelphia, PA, v. 24, n. 3, p. 212-219, May 2018.
+35. STEINGART, K. R. et al. Fluorescence versus conventional sputum smear
+microscopy for tuberculosis: a systematic review. The Lancet. Infectious Diseases,
+New York, v. 6, n. 9, p. 570-581, Sept. 2006.
+72 MINISTÉRIO DA SAÚDE
+36. MURICY, E. C. et al. Differentiation between Nocardia spp. and Mycobacterium
+spp.: Critical aspects for bacteriological diagnosis. Revista do Instituto de Medicina
+Tropical de São Paulo, São Paulo, v. 56, n. 5, p. 397-401, Sept./Oct. 2014.
+37. PIERSIMONI, C.; SCARPARO, C. Pulmonary infections associated with
+nontuberculous mycobacteria in immunocompetent patients. The Lancet.
+Infectious Diseases, New York, v. 8, n. 5, p. 323-334, May 2008.
+38. CHIMARA, E. et al. Reliable identification of mycobacterial species by
+PCR-restriction enzyme analysis (PRA)-hsp65 in a reference laboratory and
+elaboration of a sequencebased extended algorithm of PRA-hsp65 patterns. BMC
+Microbiology, [s. l.], v. 8, p. 48, Mar. 2008.
+39. NASH, K. A.; BROWN-ELLIOTT, B. A.; WALLACE JUNIOR, R. J. A novel
+gene, erm(41), confers inducible macrolide resistance to clinical isolates
+of Mycobacterium abscessos but is absent from Mycobacterium chelonae.
+Antimicrobial Agents and Chemotherapy, Bethesda, Md., v. 53, n. 4, p. 1367-
+1376, Apr. 2009.
+40. WANG, W. H. et al. A novel, rapid (within hours) culture-free diagnostic method
+for detecting live Mycobacterium tuberculosis with high sensitivity. EBioMedicine,
+[s. l.], v. 60, p. 103007, Oct. 2020.
+41. YIN, X. et al. Commercial MPT64-based tests for rapid identification of
+Mycobacterium tuberculosis complex: a metaanalysis. The Journal of Infection,
+London, v. 67, n. 5, p. 369-377, Nov. 2013.
+42. HIRANO, K. et al. Mutations including IS6110 insertion in the gene encoding the
+MPB64 protein of Capilia TB-negative Mycobacterium tuberculosis isolates. Journal
+of Clinical Microbiology, Washington, v. 42, n. 1, p. 390-392, Jan. 2004.
+43. PIGNONE, M. et al. Identification of mycobacteria by matrix-assisted laser
+desorption ionization-time-of-flight ass spectrometry. Journal of Clinical
+Microbiology, Washington, v. 44, n. 6, p. 1963-1970, June 2006.
+44. HETTICK, J. M. et al. Proteomic profiling of intact mycobacteria by matrix-
+assisted laser desorption/ionization time-of-flight mass spectrometry. Analytical
+Chemistry, Washington, v. 76, n. 19, p. 5769-5776, Oct. 2004.
+45. SLANY, M.; PAVLIK, I. Molecular detection of nontuberculous mycobacteria:
+advantages and limits of a broad-range sequencing approach. Journal of
+Molecular Microbiology and Biotechnology, [s. l.], v. 22, n. 4, p. 268-276, 2012.
+46. SOMOSKOVI, A.; SALFINGER, M. Nontuberculous mycobacteria in respiratory
+infections: advances in diagnosis and identification. Clinics in Laboratory
+Medicine, Philadelphia, v. 34, n. 2, p. 271-295, June 2014.
+47. SAMPER, S.; GONZALEZ-MARTIN, J. Microbiological diagnosis of infections
+caused by the genus Mycobacterium. Enfermedades Infecciosas y Microbiologia
+Clinica (English ed.), Barcelona, v. 36, n. 2, p. 104-111, Feb. 2018.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+73
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+48. FORBES, B. A. et al. Practice Guidelines for Clinical Microbiology Laboratories:
+Mycobacteria. Clinical Microbiology Reviews, Washington, US, v. 31, n. 2, p. e00038-
+17, Jan. 2018.
+49. TELENTI, A. et al. Rapid identification of mycobacteria to the species level by
+polymerase chain reaction and restriction enzyme analysis. Journal of Clinical
+Microbiology, Washington, v. 31, n. 2, p. 175-178, Feb. 1993.
+50. POURAHMAD, F. et al. Comparative evaluation of Polymerase Chain Reaction-
+Restriction Enzyme Analysis (PRA) and sequencing of heat shock protein 65 (hsp65)
+gene for identification of aquatic mycobacteria. Journal of Microbiological
+Methods, Amsterdam, v. 76, n. 2, p. 128-135, Feb. 2009.
+51. XU, Y. et al. Rapid identification of clinically relevant Mycobacterium species
+by multicolor melting curve analysis. Journal of Clinical Microbiology,
+Washington, v. 57, n. 1, p. e01096-18, Jan. 2019.
+52. LAWN, S. D.; NICOL, M. P. Xpert(R) MTB/RIF assay: development, evaluation and
+implementation of a new rapid molecular diagnostic for tuberculosis and rifampicin
+resistance. Future Microbiology, London, v. 6, n. 9, p. 1067-1082, Sept. 2011.
+53. AREND, S. M.; VAN SOOLINGEN, D. Performance of Xpert MTB/RIF Ultra: a
+matter of dead or alive. The Lancet. Infectious Diseases, New York, v. 18, n. 1,
+p. 8-10, Jan. 2018.
+54. RINGUET, H. et al. hsp65 sequencing for identification of rapidly growing
+mycobacteria. Journal of Clinical Microbiology, Washington, v. 37, n. 3, p. 852-
+857, Mar. 1999.
+55. FROTHINGHAM, R.; WILSON, K. H. Sequence-based differentiation of strains
+in the Mycobacterium avium complex. Journal of Bacteriology, Washington, US,
+v. 175, n. 10, p. 2818-2825, May 1993.
+56. ADÉKAMBI, T.; DRANCOURT, M. Dissection of phylogenetic relationships among
+19 rapidly growing Mycobacterium species by 16S rRNA, hsp65, sodA, recA and
+rpoB gene sequencing. International Journal of Systematic and Evolutionary
+Microbiology, Reading, Inglaterra, v. 54, p. 2095-2105, Nov. 2004. Pt. 6.
+57. TURENNE, C. Y. Nontuberculous mycobacteria: Insights on taxonomy and
+evolution. Infection, Genetics and Evolution, Amsterdam, v. 72, p. 159-168,
+Aug. 2019.
+58. QUAN, T. P. et al. Evaluation of whole-genome sequencing for Mycobacterial
+species identification and drug susceptibility testing in a clinical setting: a large-
+scale prospective assessment of performance against Line Probe assays and
+phenotyping. Journal of Clinical Microbiology, Washington, v. 56, n. 2, p. e01480-
+17, Jan. 2018.
+74 MINISTÉRIO DA SAÚDE
+59. DAI, J.; CHEN, Y.; LAUZARDO, M. Web-accessible database of hsp65 sequences
+from Mycobacterium reference strains. Journal of Clinical Microbiology,
+Washington, v. 49, n. 6, p. 2296-2303, June 2011.
+60. CLINICAL AND LABORATORY STANDARDS INSTITUTE. Susceptibility Testing
+of Mycobacteria, Nocardiae, and Other Aerobic Actinomycetes: Approved
+Standard. 2nd ed. Wayne, PA: CLSI, 2011. (CLSI document M24-A2).
+61. CLINICAL AND LABORATORY STANDARDS INSTITUTE. Susceptibility Testing
+of Mycobacteria, Nocardiae, and Other Aerobic Actinomycetes: Approved
+Standard. 3th ed. Wayne, PA: CLSI, 2018. (NCCLS document M24).
+62. GUGLIELMETTI, L. et al. Human infections due to nontuberculous mycobacteria:
+the infectious diseases and clinical microbiology specialists’ point of view. Future
+Microbiology, London, v. 10, n. 9, p. 1467-1483, 2015.
+63. VAN INGEN, J. et al. The pharmacokinetics and pharmacodynamics of
+pulmonary Mycobacterium avium complex disease treatment. American Journal
+of Respiratory and Critical Care Medicine, New York, v. 186, n. 6, p. 559-565,
+Sept. 2012.
+64. DALEY, C. L. et al. Treatment of nontuberculous mycobacterial pulmonary
+disease: an oficial ATS/ERS/ESCMID/IDSA clinical practice guideline. The European
+Respiratory Journal, Copenhagen, DK, v. 56, n. 1, p. 2000535, July 2020.
+65. BROWN-ELLIOTT, B. A.; NASH, K. A.; WALLACE JUNIOR, R. J. Antimicrobial
+susceptibility testing, drug resistance mechanisms, and therapy of infections with
+nontuberculous mycobacteria. Clinical Microbiology Reviews, Washington, DC,
+v. 25, n. 3, p. 545-582, July 2012.
+66. MARTINEZ, S.; MCADAMS, H. P.; BATCHU, C. S. The many faces of pulmonary
+nontuberculous mycobacterial infection. American Journal of Roentgenology,
+New York, v. 189, n. 1, p. 177-186, July 2007.
+67. FIELD, S. K.; COWIE, R. L. Lung disease due to the more common nontuberculous
+mycobacteria. Chest, Chicago, v. 129, n. 6, p. 1653-1672, June 2006.
+68. KWON, Y. S.; KOH, W. J. Distinguishing between pulmonary tuberculosis
+and nontuberculous mycobacterial lung disease. The International Journal of
+Tuberculosis and Lung Disease, Paris, v. 18, n. 6, p. 633, June 2014.
+69. MARCHEVSKY, A. et al. The spectrum of pathology of nontuberculous
+mycobacterial infections in open-lung biopsy specimens. American Journal of
+Clinical Pathology, Oxford, Ohio, v. 78, n. 5, p. 695-700, Nov. 1982.
+70. MUKHOPADHYAY, S. Non-Neoplastic Pulmonary Pathology: An algorithmic
+approach to hystologic findings in the lung. Cambridge, UK: Cambridge University
+Press, 2016.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+75
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+71. FARHI, D. C.; MASON, U. G. 3rd; HORSBURGH JUNIOR, C. R. Pathologic
+findings in disseminated Mycobacterium avium-intracellulare infection. A report
+of 11 cases. American Journal of Clinical Pathology, Oxford, Ohio, v. 85, n. 1,
+p. 67-72, Jan. 1986.
+72. SOOD, A. et al. Hypersensitivity pneumonitis-like granulomatous lung
+disease with nontuberculous mycobacteria from exposure to hot water
+aerosols. Environmental Health Perspectives, Research Triangle Park, NC,
+v. 115, n. 2, p. 262-266, Feb. 2007.
+73. MUKHOPADHYAY, S. et al. Causes of pulmonary granulomas: a retrospective
+study of 500 cases from seven countries. Journal of Clinical Pathology, London,
+v. 65, n. 1, p. 51-57, Jan. 2012.
+74. SOLIS, O. G. et al. Pseudogaucher cells in Mycobacterium avium intracellulare
+infections in acquired immune deficiency syndrome (AIDS). American Journal of
+Clinical Pathology, Oxford, Ohio, v. 85, n. 2, p. 233-235, Feb. 1986.
+75. JANNOTTA, F. S.; SIDAWY, M. K. The recognition of mycobacterial infections
+by intraoperative cytology in patients with acquired immunodeficiency syndrome.
+Archives of Pathology & Laboratory Medicine, Chicago, Ill., v. 113, n. 10, p. 1120-
+1123, Oct. 1989.
+76. MUKHOPADHYAY, S.; DOXTADER, E. E. Visibility of Histoplasma within histiocytes
+on hematoxylin and eosin distinguishes disseminated histoplasmosis from other
+forms of pulmonary histoplasmosis. Human Pathology, Philadelphia, Pa., v. 44, n. 10,
+p. 2346-2352, Oct. 2013.
+77. SMITH, M. B. et al. Pathologic features of Mycobacterium kansasii infection in
+patients with acquired immunodeficiency syndrome. Archives of Pathology &
+Laboratory Medicine, Chicago, Ill., v. 127, n. 5, p. 554-560, May 2003.
+78. MUKHOPADHYAY, S. Role of histology in the diagnosis of infectious causes
+of granulomatous lung disease. Current Opinion in Pulmonary Medicine,
+Philadelphia, PA, v. 17, n. 3, p. 189-196, May 2011.
+79. SCHULZ, S. et al. Species identification of mycobacteria in paraffin-embedded
+tissues: frequente detection of nontuberculous mycobacteria. Modern Pathology,
+Baltimore, Md., v. 18, n. 2, p. 274-282, 2005.
+80. GHOSSEIN, R. A. et al. Rapid detection and species identification of
+mycobacteria in paraffin-embedded tissues by polymerase chain reaction.
+Diagnostic Molecular Pathology: American Journal of Surgical Pathology, Part
+B, New York, v. 1, n. 3, p. 185-191, Sept. 1992.
+81. VAN INGEN, J. et al. A definition of the Mycobacterium avium complex for
+taxonomical and clinical purposes, a review. International Journal of Systematic
+And Evolutionary Microbiology, Reading, Inglaterra, v. 68, n. 11, p. 3666-3677,
+Nov. 2018.
+76 MINISTÉRIO DA SAÚDE
+82. TORTOLI, E. et al. Emended description of Mycobacterium abscessus,
+Mycobacterium abscessos subsp. abscessus and Mycobacterium abscessus subsp.
+bolletii and designation of Mycobacterium abscessus subsp. massiliense comb. nov.
+International Journal of Systematic and Evolutionary Microbiology, Reading,
+Inglaterra, v. 66, n. 11, p. 4471-4479, Nov. 2016.
+83. BROWN-ELLIOTT, B. A.; PHILLEY, J. V. Rapidly Growing Mycobacteria.
+Microbiology Spectrum, Washington, DC, v. 5, n. 1, Jan. 2017. Disponível em:
+https://journals.asm.org/doi/epub/10.1128/microbiolspec.TNMI7-0027-2016.
+Acesso em: 22 out. 2021.
+84. LONGWORTH, S. A.; DALY, J. S. Practice ASTIDCo. Management of infections
+due to nontuberculous mycobacteria in solid organ transplant recipients-Guidelines
+from the American Society of Transplantation Infectious Diseases Community of
+Practice. Clinical Transplantation, Copenhagen, DK, v. 33, n. 9, p. e13588, Sept.
+2019.
+85. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento
+de Vigilância Epidemiológica. Manual de recomendações para o controle da
+tuberculose no Brasil. Brasília, DF: MS, 2019.
+86. SHULHA, J. A.; ESCALANTE, P.; WILSON, J. W. Pharmacotherapy Approaches in
+Nontuberculous Mycobacteria Infections. Mayo Clinic Proceedings, Rochester,
+Minn., v. 94, n. 8, p. 1567-1581, Aug. 2019.
+87. GLOBAL LABORATORY INITIATIVE. Laboratory Safety: the handbook. Geneva:
+GLI Working Group Secretariat, 2019. Disponível em: http://www.stoptb.org/wg/
+gli/assets/documents/TB%20Safety_RGB_lo_res%20%20pdf%20FINAL.pdf. Acesso
+em: 5 out. 2021.
+88. MILLER, J. M. et al. Guidelines for safe work practices in human and animal
+medical diagnostic laboratories. Recommendations of a CDC-convened, Biosafety
+Blue Ribbon Panel. MMWR Supplements, Atlanta, Ga, v. 61, n. 1, p. 1-102, Jan. 2012.
+89. ORGANIZAÇÃO MUNDIAL DA SAÚDE. Manual de biossegurança para
+laboratórios de tuberculose. Genebra: OMS, 2013.
+90. WORLD HEALTH ORGANIZATION. Laboratory biosafety manual. 3rd
+ed. Geneva: WHO, 2004. Disponível em: https://www.who.int/csr/resources/
+publications/biosafety/en/Biosafety7.pdf. Acesso em: 5 out. 2021.
+91. WORLD HEALTH ORGANIZATION. Tuberculosis laboratory
+biosafety manual. Geneva: WHO, 2012. Disponível em: https://apps.
+who.int/iris/bitstream/handle/10665/77949/9789241504638_eng.
+pdf;jsessionid=5497256687374ACCBD5AE4E260D609F4?sequence=1. Acesso em:
+5 out. 2021.
+92. BRYANT, J. M. et al. Whole-genome sequencing to identify transmission of
+Mycobacterium abscessos between patients with cystic fibrosis: a retrospective
+cohort study. The Lancet, London, v. 381, n. 9877, p. 1551-1560, May 2013.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+77
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+93. AITKEN, M. L. et al. Respiratory outbreak of Mycobacterium abscessus
+subspecies massiliense in a lung transplant and cystic fibrosis center. American
+Journal of Respiratory and Critical Care Medicine, New York, v. 185, n. 2, p. 231-
+232, Jan. 2012.
+94. BRYANT, J. M. et al. Emergence and spread of a human-transmissible multidrug-
+resistant nontuberculous mycobacterium. Science, New York, v. 354, n. 6313, p.
+751-757, Nov. 2016.
+78
+BIBLIOGRAFIA CONSULTADA
+BOMBARDA, S.; SEISCENTO, M. Diagnóstico da tuberculose: imagem, sorologias, métodos
+moleculares e outros. In: ARAKAKI, J.; PEREIRA, M.; NASCIMENTO, O. (ed.). Infecções
+respiratórias. São Paulo: Atheneu, 2013. p. 279-290.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+Epidemiológica. Manual de recomendações para o controle da tuberculose. Brasília, DF:
+MS, 2011.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+Epidemiológica. Manual nacional de vigilância laboratorial da tuberculose e outras
+micobactérias. Brasília, DF: MS, 2008. Disponível em: https://bvsms.saude.gov.br/bvs/
+publicacoes/manual_vigilancia_laboratorial_tuberculose.pdf. Acesso em: 19 out. 2021.
+BROWN-ELLIOTT, B. A. et al. In vitro activity of amikacin against isolates of Mycobacterium
+avium complex with proposed MIC breakpoints and finding of a 16S rRNA gene mutation
+in treated isolates. Journal of Clinical Microbiology, Washington, US, v. 51, n. 10, p. 3389-
+3394, Oct. 2013.
+CAPONE, R. B. et al. Tomographic aspects of advanced active pulmonary tuberculosis and
+evaluation of sequelae following treatment. Pulmonary Medicine, Cairo, v. 2017,
+p. 9876768, 2017.
+CLINICAL AND LABORATORY STANDARDS INSTITUTE. Protection of laboratory workers
+from occupational acquired infections: Approved guideline. Wayne, PA: CLSI, 2014.
+DE GROOTE, M. A.; HUITT, G. Infections due to rapidly growing mycobacteria. Clinical
+Infectious Diseases, Chicago, v. 42, n. 12, p. 1756-1763, June 2006.
+FALKINHAM, J. O. 3rd. Current epidemiologic trends of the nontuberculous mycobacteria
+(NTM). Current Environmental Health Reports, Switzerland, v. 3, n. 2, p. 161-167, June 2016.
+GARAY, S. M. Pulmonary tuberculosis. In: ROM, W. N.; GARAY, S. M. (ed.). Tuberculosis. 2. ed.
+Philadelphia: Lippincott, Williams & Wilkins, 2006.
+HANSELL, D. et al. Imaging of disease of the chest. Philadelphia: Elsevier Mosby, 2005.
+HOEFSLOOT, W. et al. The geographic diversity of nontuberculous mycobacteria isolated
+from pulmonar samples: an NTM-NET collaborative study. The European Respiratory
+Journal, Copenhagen, DK, v. 42, n. 6, p. 1604-1613, Dec. 2013.
+KIM, T. S. et al. Hypothesis on the evolution of cavitary lesions in nontuberculous
+mycobacterial pulmonary infection: thin-section CT and histopathologic correlation.
+American Journal of Roentgenology, New York, v. 184, n. 4, p. 1247-1252, Apr. 2005.
+KOH, W. J. et al. Bilateral bronchiectasis and bronchiolitis at thin-section CT: diagnostic
+implications in nontuberculous mycobacterial pulmonary infection. Radiology, Easton, Pa.,
+v. 235, n. 1, p. 282-288, Apr. 2005.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+79
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+LAKE, M. A. et al. “Why me, why now?” Using clinical immunology and epidemiology to
+explain who gets nontuberculous mycobacterial infection. BMC Medicine, London, v. 14,
+p. 54, Mar. 2016.
+LOPEZ-VARELA, E. et al. Non-tuberculous mycobacteria in children: muddying the waters of
+tuberculosis diagnosis. The Lancet. Respiratory Medicine, Kidlington, v. 3, n. 3, p. 244-256,
+Mar. 2015.
+MOGAMI, R. et al. Pulmonary infection caused by Mycobacterium kansasii: findings on
+computed tomography of the chest. Radiologia Brasileira, São Paulo, v. 49, n. 4, p. 209-213,
+July/Ago. 2016.
+MUKHOPADHYAY, S.; GAL, A. A. Granulomatous lung disease: an approach to the differential
+diagnosis. Archives of Pathology & Laboratory Medicine, Chicago, v. 134, n. 5, p. 667-690,
+May 2010.
+MÜLLER, N. L.; FRANQUET, T.; LEE, K. S. Nontuberculous mycobacterial pulmonary disease.
+In: MÜLLER, N. L.; FRANQUET, T.; LEE, K. S. (ed.). Imaging of pulmonary infections.
+Philadelphia: Lippincott, Williams & Wilkins, 2007.
+PATZ JUNIOR, E. F.; SWENSEN, S. J.; ERASMUS, J. Pulmonary manifestations of
+nontuberculous Mycobacterium. Radiologic Clinics of North America, Philadelphia, Pa.,
+v. 33, n. 4, p. 719-729, July 1995.
+RESEARCH COMMITTEE OF THE BRITISH THORACIC SOCIETY. First randomised trial of
+treatments for pulmonary disease caused by M avium intracellulare, M malmoense, and M
+xenopi in HIV negative patients: rifampicin, ethambutol and isoniazid versus rifampicin and
+ethambutol. Thorax, London, v. 56, n. 3, p. 167-172, Mar. 2001.
+STOUT, J. E.; KOH, W. J.; YEW, W. W. Update on pulmonary disease due to non-tuberculous
+mycobacteria. International Journal of Infectious Diseases, Hamilton, Canada, v. 45, p.
+123-134, Apr. 2016.
+VAN INGEN, J. et al. In vitro drug susceptibility of 2275 clinical non-tuberculous
+Mycobacterium isolates of 49 species in The Netherlands. International Journal of
+Antimicrobial Agents, Amsterdam, v. 35, n. 2, p. 169-173, Feb. 2010.
+VAN INGEN, J. et al. Treatment outcome definitions in nontuberculous mycobacterial
+pulmonary disease: na NTM-NET consensus statement. The European Respiratory Journal,
+Copenhagen, DK, v. 51, n. 3, p. 1800170, Mar. 2018.
+WORLD HEALTH ORGANIZATION. Laboratory services in tuberculosis control. Geneva:
+WHO, 1998. Part III: Culture.
+YUAN, M. K. et al. Comparative chest computed tomography findings of non-tuberculous
+mycobacterial lung diseases and pulmonary tuberculosis in patients with acid fast bacilli
+smearpositive sputum. BMC Pulmonary Medicine, London, v. 14, p. 65, Apr. 2014.
+80
+GLOSSÁRIO
+Abandono de Situação em que a pessoa com MNT deixa de comparecer à
+tratamento unidade de saúde por mais de 30 dias consecutivos, após a
+data prevista para o seu retorno.
+Amostra Uma parte representativa de um todo obtida para estudo e
+caracterização (espécime).
+Cepa Microrganismo (estirpe bacteriana) caracterizado fenotípica e
+geneticamente.
+Conversão da Situação em que a pessoa em tratamento para MNT apresenta
+cultura três culturas consecutivas negativas de amostras respiratórias
+coletadas com intervalo de pelo menos quatro semanas, durante
+tratamento antimicrobiano (a data da amostra da primeira cultura
+negativa é então a data da conversão da cultura).
+Cura Definição ainda incerta na literatura. Neste manual, considera-
+se o achado de pelo menos duas culturas negativas, com
+intervalo de 30 dias, sem amostras positivas da espécie
+causadora, após a conversão da cultura até o final da terapia
+antimicobacteriana (12 meses após conversão).
+Falência Ausência de melhora clínica, radiológica e bacteriológica após
+seis meses de tratamento ou de conversão bacteriológica
+após 12 meses, ou reemergência de duas culturas positivas
+em meses consecutivos, ou persistência de culturas positivas
+da espécie causadora por período igual ou superior a 12
+meses de tratamento antimicobacteriano, enquanto a pessoa
+com MNT ainda estiver em tratamento.
+Interrupção do Interrupção do tratamento pelo médico ou pela pessoa com
+tratamento MNT, sem configurar abandono.
+Isolado Cultura pura de estirpe bacteriana obtida de amostra clínica
+ou ambiental.
+Micobacteriose Doença causada por micobactérias não tuberculosas.
+Óbito Morte por qualquer causa, durante o tratamento da MNT
+Recidiva Emergência de pelo menos duas culturas positivas com a
+mesma cepa da espécie causadora após o final do tratamento.
+Tratamento Melhora clínica e radiológica durante o tratamento
+completo medicamentoso, mantido até o final, mesmo sem culturas
+disponíveis para provar conversão da cultura e comprovar
+cura microbiológica.
+81
+ANEXOS
+Anexo A – Principais espécies de MNT de acordo com sua
+velocidade de crescimento, produção de pigmento e pa-
+togenicidade (1)
+Velocidade de Produção de Patógenos Saprófitas(a)
+Grupo
+crescimento pigmento oportunistas
+Lento 1 Fotocromogênicas(b) • M. kansasii • M. asiaticum
+• M. marinum
+• M. simiae
+2 Escotocromogênicas(c) • M. szulgai • M. scrofulaceum
+• M. gordonae
+3 Não cromogênicas(d) • Complexo M. avium • Complexo M. terrae
+• M. intracellulare • M. malmoense
+• M. chimaera • M. genavense
+• M. mucogenicum • M. xenopi
+• M. haemophilum • M. nonchromogenicum
+• M. ulcerans
+Rápido(e) 4 • Grupo M. abscessus • M. peregrinum
+• M. fortuitum • M. smegmatis
+• M. chelonae • M. vaccae
+• M. franklinii
+(a) Saprófitas: podem ser isoladas em material clínico, mas há necessidade de novos isolamentos para confirmar infecção.
+(b) Fotocromogênicas: produzem pigmento amarelo-laranja apenas em presença de luz.
+(c) Escotocromogênicas: produzem pigmento amarelo-laranja, independentemente de serem cultivadas no escuro ou na luz.
+(d) Não cromogênicas: nunca produzem pigmento, independentemente das condições da cultura.
+(e) Crescimento rápido: apresentam colônias visíveis em meio sólido até sete dias.
+REFERÊNCIA
+1. RUNYON, E. H. Anonymous mycobacteria in pulmonary disease. The Medical Clinics of
+North America, Philadelphia, PA, v. 43, n. 1, p. 273-290, Jan. 1959.
+82 MINISTÉRIO DA SAÚDE
+Anexo B – Número de casos novos de MNT, segundo local
+de residência e espécie de micobactéria. Brasil, 2013-2019
+Complexo Complexo
+CMA(a) M. kansasii Outras(b)
+M. abscessus M. fortuitum
+Centro-Oeste 41 19 2 6 58
+Distrito Federal 3 3 0 0 5
+Goiás 26 10 0 5 29
+Mato Grosso 10 5 1 1 11
+Mato Grosso do Sul 2 1 1 0 13
+Nordeste 47 72 30 78 147
+Alagoas 1 7 1 6 7
+Bahia 9 18 10 48 36
+Ceará 3 11 7 3 46
+Maranhão 8 3 2 0 5
+Paraíba 3 4 0 0 15
+Pernambuco 20 13 4 17 9
+Piauí 3 12 4 3 23
+Rio Grande do Norte 0 2 1 1 3
+Sergipe 0 2 1 0 3
+Norte 41 36 9 0 129
+Acre 1 1 0 0 3
+Amapá 1 1 0 0 5
+Amazonas 3 9 2 0 42
+Pará 28 19 5 0 55
+Rondônia 5 4 1 0 9
+Roraima 2 2 1 0 4
+Tocantins 1 0 0 0 11
+Sudeste 352 165 69 487 482
+Espírito Santo 6 12 0 19 9
+Minas Gerais 39 11 6 46 28
+Rio de Janeiro 68 58 22 151 166
+São Paulo 239 84 41 271 279
+Sul 131 47 11 51 221
+Paraná 48 5 2 19 79
+Rio Grande do Sul 59 19 3 21 111
+Santa Catarina 24 23 6 11 31
+Brasil 612 339 121 622 1.037
+Fonte: Sistema de Informação de Tratamentos Especiais de Tuberculose (SITE-TB 2020).
+(a) CMA = Complexo Mycobacterium avium.
+(b) Outras: representam espécies não identificadas ou informação não preenchida no sistema (n=567) ou menos frequentes no
+sistema, sendo elas: M. asiaticum, M. chelonae, M. chimaera, M. genavense, M. gordonae, M. haemophilum, M. immunogenum, M.
+malmoense, M. marinum, M. mucogenicum, M. nonchromogenicum, M. scrofulaceum, M. simiae, M. smegmatis, M. szulgai, Complexo
+M. terrae.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+83
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Anexo C – Principais métodos usados no diagnóstico
+laboratorial de micobactérias
+Tempo de
+Etapas Método Vantagens Desvantagens
+execução(a)
+Detecção do doente Não diferencia CMTB de
+Baciloscopia 30 min.
+bacilífero MNT
+Diagnóstico Sólida: 60 dias
+Detecção da pessoa
+Cultura Líquida: 42 Método lento e trabalhoso
+com doença ativa
+dias
+Auxilia e corrobora Método lento e trabalhoso
+25 dias a 3
+Fenotípico/bioquímico a identificação por Não identifica todas as
+meses
+outros métodos espécies conhecidas
+Teste Permite diferenciar
+Resultados falso-negativos
+imunocromatográfico 15 min. CMTB (resultado +)
+podem ocorrer
+MPT64 de MNT (resultado -)
+Alto custo do equipamento
+MALDI-TOF MS Minutos Teste rápido
+Necessita validação
+Testes comerciais
+Custo elevado
+(AccuProbe, INNO- 2 horas a 2
+Sistemas validados Não identificam todas as
+LiPA, GenoType, dias
+espécies conhecidas
+SpeedOligo)(b)
+Permite
+PCR-Restriction
+identificação Não identifica todas as espécies
+Enzyme Analysis (PRA)
+2 dias relativamente rápida Método não automatizado
+(sequências usadas:
+das espécies mais Interpretação subjetiva
+Identificação hsp65, ITS, rpoB, dnaJ)
+comuns
+PCR em tempo real
+Detecção imediata
+(MeltPro Mycobacteria Horas Técnicas in house
+do produto de PCR
+identification kit)
+Permite diferenciar Resultado negativo leva
+GeneXpert MTB Horas CMTB (resultado +) à necessidade de realizar
+de MNT (resultado -) cultura e identificação
+Sequenciamento de
+Padrão-ouro para Muitas sequências
+DNA (alvos: 16S rDNA,
+7 dias identificação de depositadas em bancos de
+rpoB, sodA, recA,
+micobactérias dados não foram validadas
+hsp65 e ITS)
+Tem potencial
+para permitir a
+Sequenciamento de Custo elevado
+10 dias identificação de
+genomas completos Pouco disponível em rotina
+todas as espécies
+conhecidas
+Teste de Padronização somente
+MCR: 3 dias
+suscetibilidade MIC Padronizado (CLSI) para algumas espécies
+MCL: 7 dias
+aos fármacos clinicamente relevantes
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Após o crescimento em cultivo.
+(b) Espécies identificadas:
+AccuProbe: M. avium, M. inTracellulare, M. kansasii, M. gordonae, Complexo M. avium, Complexo M. tuberculosis.
+INNO-LiPa MYCOBACTERIA v2: Complexo M. tuberculosis, M. kansasii, M. xenopi, M. gordonae, M. genavense, M. simiae, M. marinum,M.
+ulcerans, M. celatum, MAIS, M. avium, M. intracellulare, M. scrofulaceum, M. malmoense, M. haemophilum, Complexo M. chelonae, Complexo M.
+fortuitum e M. smegmatis.
+GenoType Mycobacterium CM: M. avium, M. chelonae, M. abscessus, M. fortuitum, M. gordonae, M. intracellulare, M. scrofulaceum, M. interjectum,
+M. kansasii, M. malmoense, M. marinum-M. ulcerans, M. szulgai, Complexo M. tuberculosis e M. xenopi.
+GenoType Mycobacterium AS: M. simiae, M. mucogenicum, M. goodii, M. celatum, M. smegmatis, M. genavense, M. lentiflavum, M. heckeshornense, M.
+szulgai, M. intermedium, M. phlei, M. haemophilum, M. kansasii, M. ulcerans, M. gastri, M. asiaticum e M. shimoidei.
+GenoType NTM-DR: M. avium, M. intracellulare, M. chimaera, M. chelonae, M. abscessus subsp. abscessus, M. abscessus subsp. massiliense
+e M. abscessus subsp. bolletii.
+SpeedOligo MYCOBACTERIA: M. abscessus, M. marinum-M. ulcerans, M. kansasii, ComplexoM. tuberculosis, M. xenopi, M. intracellulare, M. avium,
+M. scrofulaceum, M. malmoense, M. gordonae, M. interjectum, M. chelonae, M. fortuitum e M. peregrinum.
+MeltPro Mycobacteria identification kit: M. chelonae, Complexo M. tuberculosis, M. scrofulaceum, M. bovis/BCG, M. smegmatis, M. abscessus,
+M. kansasii, M. gordonae, M. lentiflavum, M. simiae, M. nonchromogenicum, M. terrae, M. marinum-M. ulcerans, M. fortuitum, M. avium, M.
+intracellulare, M. xenopi, M. malmoense, M. szulgai.
+84 MINISTÉRIO DA SAÚDE
+Anexo D – Características macroscópicas de tuberculose
+pulmonar e doença pulmonar por MNT (7)
+Achados Pulmão Pulmão
+macroscópicos TB MNT
+Comum, geralmente com foco
+Nódulo necrótico ou massa Nódulo necrótico solitário (1)
+pequeno (foco de Ghon) (2); tem
+em pulmão
+predileção pelos lobos superiores
+Comum. Essa combinação é
+Nódulo necrótico no pulmão
+conhecida como complexo primário, Comum (84,2%) (4,5). O
+e nódulo necrótico ou
+Complexo de Ranke ou de Ghon (2) envolvimento dos linfonodos
+calcificado nos linfonodos
+hilares pode ser menos
+regionais ipsilaterais (hilares)
+Comum. Pequenos ou grandes, frequente (1,4)
+solitários ou múltiplos (3), unilaterais
+Nódulos pulmonares com
+ou bilaterais. Um nódulo solitário Comum. Nódulos pulmonares
+necrose “tipo queijo” (caseosa)
+do tipo tumoral causado pela solitários podem ocorrer (1)
+tuberculose é um tuberculoma
+Nódulos ou massas que
+Comum (68,4%) (4,5)
+podem formar cavidades Comum (tuberculose escavada)
+Pequenos nódulos podem Comum
+Comum
+coalescer em grandes massas
+Bronquiectasias podem se Comum
+Comum (bronquiectasia tuberculosa)
+desenvolver
+Comum
+Envolvimento pleural Comum (4,5)
+Doença disseminada
+Incomum, mas bastante
+envolvendo pulmões, com
+característico (tuberculose
+pequenos nódulos bilaterais Raro
+disseminada ou miliar) (6)
+distribuídos aleatoriamente
+(1–2mm)
+Fibrose Comum Muito frequente (5)
+Calcificação Comum Comum (31,6%)
+REFERÊNCIAS
+1. MARCHEVSKY, A. et al. The spectrum of pathology of nontuberculous mycobacterial
+infections in open-lung biopsy specimens. American Journal of Clinical Pathology,
+Oxford, Ohio, v. 78, n. 5, p. 695-700, Nov. 1982.
+2. OBER, W. B. Ghon but not forgotten: Anton Ghon and his complex. Pathology Annual,
+New York, v. 18, p. 79-85, 1983. Part 2.
+3. SEKOSAN, M. et al. Spindle cell pseudotumors in the lungs due to Mycobacterium
+tuberculosis in a transplant patient. The American Journal of Surgical Pathology, New
+York, v. 18, n. 10, p. 1065-1068, 1994.
+4. MERCKX, J. J.; SOULE, E. H.; KARLSON, A. G. The histopathology of lesions caused by
+infection with unclassified acid-fast bacteria in man: Report of 25 cases. The American
+Journal of Clinical Pathology, New York, v. 41, p. 244-255, 1964.
+5. SNIJDER, J. Histopathology of pulmonary lesions caused by atypical mycobacteria. The
+Journal of Pathology and Bacteriology, London, v. 90, n. 1, p. 65-73, July 1965.
+6. GEPPERT, E. F.; LEFF, A. The pathogenesis of pulmonary and miliary tuberculosis.
+Archives of Internal Medicine, Chicago, v. 139, n. 12, p. 1381-1383, Dec. 1979.
+7. JAIN, D. et al. Pathology of pulmonary tuberculosis and non-tuberculous mycobacterial
+lung disease: Facts, misconceptions, and practical tips for pathologists. Seminars in
+Diagnostic Pathology, Philadelphia, Pa., v. 34, n. 6, p. 518-529, Nov. 2017.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+85
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Anexo E – Caraterísticas microscópicas na tuberculose pulmonar e
+na doença pulmonar por MNT (8)
+Caraterísticas Pulmão Pulmão
+microscópicas TB MNT
+Achado microscópico mais
+comum, principalmente
+Achado microscópico mais comum. em indivíduos sem aids. A
+Granulomas necrosantes
+Não específico de tuberculose aparência microscópica é
+indistinguível daquela da
+tuberculose (1,3)
+Comum. Não específica de
+Necrose eosinofílica Comum (1,3)
+tuberculose
+Necrose suja (basofílica, rica em detritos
+Comum Comum
+nucleares)
+Necrose supurativa (com presença de
+Pode ocorrer Pode ocorrer (2)
+neutrófilos)
+Necrose geográfica (com contornos
+Pode ocorrer Pode ocorrer
+irregulares)
+Comum. Inclui tipo Langhans
+Comum. Tipo Langhans, mas não é (6); células gigantes podem
+Células gigantes multinucleadas
+variável ser numerosas e conter
+inclusões (5)
+Sim, em necrose
+(mais comum), células
+Sim, em necrose (mais comum), epitelioides, células gigantes
+histiócitos epitelioides, células multinucleadas ou histiócitos
+Bacilos álcool-ácido resistentes
+gigantes multinucleadas ou comuns
+(BAAR)
+histiócitos normais, células gigantes
+multinucleadas ou histiocitos comuns A ausência de BAAR em
+amostras histológicas não
+exclui doença por MNT
+Número variado de granulomas sem
+Comum
+necrose ou associados a granulomas com Comum
+necrose
+Broncopneumonia: neutrófilos, fibrina e Ocorre (9)
+Incomum
+histiócitos no espaço aéreo
+Comum [98]; as vias aéreas
+Traqueobronquite, bronquiolite: Comum (10)
+podem conter apenas células
+granulomas na parede de vias aéreas
+gigantes dispersas
+Bronquiectasias: dilatadas e sempre
+Comum
+inflamadas brônquios envolvidos por Comum
+inflamação granulomatosa
+Pleurite: envolvimento da pleura pela Muito comum
+Menos comum
+presença de granulomas
+continua
+86 MINISTÉRIO DA SAÚDE
+conclusão
+Caraterísticas Pulmão Pulmão
+microscópicas TB MNT
+Doença miliar: minúsculos granulomas
+Ocorre (7)
+distribuídos aleatoriamente com necrose Raro
+variável
+Reação característica bem
+Camadas de histiócitos contendo grande Incomum descrita em pessoas com aids
+número de BAAR no citoplasma e baixa contagem de CD4;
+correlaciona-se com doença (2)
+Pseudotumor de células fusiformes
+Raro (4)
+contendo numerosas BAAR Vários casos relatados (3)
+intracitoplasmáticas
+Pneumonia em organização com Comum
+Comum (1)
+granulomas
+Pode ser proeminente e imitar
+Pode ocorrer e simular
+Vasculite sem necrose granulomatose linfomatoide em
+vasculite verdadeira
+imunocomprometidos
+Raro, mas ocorre
+Granulomas necrosantes com eosinofilia Pode ocorrer (2)
+Fibrose (lesões anteriores) Sim Sim
+Calcificação (lesões antigas) Sim, comum Sim
+BAAR bordas delimitadas Sim Sim (6)
+BAAR bordas proeminentes Incomum Incomum (exceção M. kansasii)
+REFERÊNCIAS
+1. MARCHEVSKY, A. et al. The spectrum of pathology of nontuberculous mycobacterial infections in open-lung
+biopsy specimens. American Journal of Clinical Pathology, Oxford, Ohio, v. 78, n. 5, p. 695-700, Nov. 1982.
+2. FARHI, D. C.; MASON, U. G. 3rd; HORSBURGH JUNIOR, C. R. Pathologic findings in disseminated
+Mycobacterium avium-intracellulare infection. A report of 11 cases. American Journal of Clinical
+Pathology, Oxford, Ohio, v. 85, n. 1, p. 67-72, Jan. 1986.
+3. SCHULZ, S. et al. Species identification of mycobacteria in paraffin-embedded tissues: frequente detection
+of nontuberculous mycobacteria. Modern Pathology, Baltimore, Md., v. 18, n. 2, p. 274-282, 2005.
+4. SEKOSAN, M. et al. Spindle cell pseudotumors in the lungs due to Mycobacterium tuberculosis in a
+transplant patient. American Journal of Clinical Pathology, Oxford, Ohio, v. 18, n. 10, p. 1065-1068, 1994.
+5. MERCKX, J. J.; SOULE, E. H.; KARLSON, A. G. The histopathology of lesions caused by infection with
+unclassified acid-fast bacteria in man: Report of 25 cases. American Journal of Clinical Pathology, Oxford,
+Ohio, v. 41, p. 244-255, 1964.
+6. SNIJDER, J. Histopathology of pulmonary lesions caused by atypical mycobacteria. The Journal of
+Pathology and Bacteriology, London, v. 90, n. 1, p. 65-73, 1965.
+7. GEPPERT, E. F.; LEFF, A. The pathogenesis of pulmonary and miliary tuberculosis. Archives of Internal
+Medicine, Chicago, v. 139, n. 12, p. 1381-1383, Dec. 1979.
+8. JAIN, D. et al. Pathology of pulmonary tuberculosis and non-tuberculous mycobacterial lung disease:
+Facts, misconceptions, and practical tips for pathologists. Seminars in Diagnostic Pathology, Philadelphia,
+Pa., v. 34, n. 6, p. 518-529, Nov. 2017.
+9. NAYAK, N. C. et al. The pulmonary tuberculous lesion in North India: a study in medico-legal autopsies. I.
+Incidence, nature, and evolution. The American Review of Respiratory Disease, New York, v. 101, n. 1, p.
+1-17, Jan. 1970.
+10. VAN DEN BRANDE, P. M. et al. Clinical spectrum of endobronchial tuberculosis in elderly patients.
+Archives of Internal Medicine, Chicago, v. 150, n. 10, p. 2105-2108, Oct. 1990.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+87
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Anexo F – Quadro posológico dos medicamentos para
+tratamento das doenças por MNT
+Medicamento Dose Dose máxima Observações
+15-20mg/kg/dia Pessoa >60 anos ou com
+diariamente ou comorbidades que possam
+Am 1.000mg/dia
+15-25mg/kg/dia, 3x/ comprometer a função renal: 10mg/
+semana Kg/dia, máximo de 750 mg/dia
+Diluir o conteúdo de 1 frasco em
+5mL de soro fisiológico 0,9%.
+Am inalatória 500mg 1 ou 2x/dia 1.000 mg/dia
+Antes da inalação, utilizar um
+broncodilatador
+AZ 10mg/kg 500mg 3x/semana
+Cfz 3 a 5mg/kg/dia 100mg/dia
+Pessoa <50Kg ou >70 anos:
+reduzir a dose para 250mg
+Cla 7,5mg/kg/dia de 12/12h 500mg de 12/12h
+de 12/12h ou 500mg/dia por
+intolerância gástrica
+Cpx
+E 15mg/kg/dia 1.200mg/dia
+Deve ser utilizado intramuscular
+Ert
+uma vez ao dia
+H 5-10mg/kg/dia 300mg/dia
+1.000mg
+Imp/ cilastatina 15mg/kg/dia de 12/12h imipenem/1.000mg
+de cilastatina 2x/dia
+Lfx 10 a 15mg/kg/dia 1.000mg/dia
+Quando houver efeitos adversos
+moderados, utilizar doses
+Lzd 10mg/kg ou 600mg/dia 600mg/dia intermitentes em dias alternados.
+Disponível em apresentação oral
+e injetável
+Mfx 7,5mg/kg/dia 400mg/dia
+R 15mg/kg/dia 600mg/dia
+Quando usada juntamente com
+Rfb (com inibidor inibidor de protease (coinfecção
+2,5-5mg/kg 150 mg/dia
+de protease) TB-HIV), a dose deve ser reduzida
+para a metade
+Rfb (sem inibidor
+5-10mg/kg/dia 300mg/dia
+de protease)
+Pessoa >60 anos ou com
+comorbidades que possam
+S 12-18mg/kg/dia 1.000mg/dia
+comprometer a função renal: 10mg/
+Kg/dia, máximo de 750 mg/dia
+10 a 20mg de
+SMT/TMP 960mg de 12/12h
+trimetoprima/dia
+Tgc 50mg de 12/12h 50mg de 12/12h
+Fonte: CGDR/DCCI/SVS/MS.
+88 MINISTÉRIO DA SAÚDE
+Anexo G – Segurança dos fármacos em gestantes
+Medicamento Segurança(a) Comentários
+Não recomendado. Toxicidade no desenvolvimento
+Am D
+fetal (surdez congênita)
+Cfz C Não recomendado. Estudos limitados
+Cl C Usar com cautela quando essencial
+E B Experiências em gestantes demonstram segurança
+Fluoroquinolonas Usar com cautela quando essencial. O efeito adverso
+C
+(Cpx, Lfx, Mfx) apresentado justifica seu uso
+Experiências em gestantes demonstram segurança.
+H C
+Usar piridoxina (vitamina B6) durante a gestação
+Lzd C Não recomendado. Estudos limitados
+R C Experiências em gestantes demonstram segurança
+Rfb B Não recomendado. Estudos limitados
+Evitar uso. Toxicidade no desenvolvimento fetal
+S D
+(surdez congênita)
+Fonte: CGDR/DCCI/MS/SVS.
+(a) Classificação quanto à segurança do uso em gestantes: A – segurança estabelecida em estudos com humanos; B – segurança
+presumida por estudos em animais; C – segurança incerta, sem estudos em humanos. Estudos em animais demonstraram alguns
+efeitos adversos; D – não recomendado; evidência de risco em humanos. Usar somente quando essencial.
+Anexo H – Segurança dos fármacos em lactantes
+Medicamento Segurança durante aleitamento
+Am Pode ser usada durante a amamentação
+Uso criterioso. Excretado no leite materno. Causa hiperpigmentação
+Cfz
+no lactante
+Cla Uso criterioso. Excretado no leite materno
+E Seguro durante a amamentação
+Fluoroquinolonas (Cpx,
+Uso criterioso. Excretado pelo leite materno
+Lfx, Mfx)
+Medicamento seguro, excretado pelo leite materno. Recomenda-se
+H
+usar vitamina B6 no lactente(a)
+Lzd Não recomendada
+R Seguro durante amamentação
+Rfb Não recomendada. Estudos limitados
+Rifapentina Dados ainda limitados. Evitar uso
+S Seguro durante amamentação
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Piridoxina no lactente: 1 a 2mg/kg/dia, com variação de 10 a 50mg/dia.
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+89
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+Anexo I – Ajuste dos medicamentos em nefropatas
+Medicamento Clearance <30mL/min
+Am 12 a 15mg/kg/dose, 2 a 3x/semana
+Cfz Nenhum ajuste é necessário
+Cla 500mg 1x/dia
+E 15 a 25mg/kg/dose, 3x/semana
+H Nenhum ajuste é necessário
+Lfx 750 a 1.000 mg/dose, 3x/semana
+Lzd Nenhum ajuste é necessário
+Mfx Nenhum ajuste é necessário
+R Nenhum ajuste é necessário
+Rfb Nenhum ajuste é necessário. Avaliar toxicidade periodicamente
+Rifapentina Nenhum ajuste é necessário
+S 12 a 15mg/kg/dose, 2 a 3x/semana
+Fonte: CGDR/DCCI/SVS/MS.
+(a) Piridoxina no lactente: 1 a 2mg/kg/dia, com variação de 10 a 50mg/dia.
+90 MINISTÉRIO DA SAÚDE
+Anexo J – Ficha de Notificação de MNT utilizada para
+notificar o caso no SITE-TB
+continua
+RECOMENDAÇÕES PARA O DIAGNÓSTICO E TRATAMENTO DAS DOENÇAS
+91
+CAUSADAS POR MICOBACTÉRIAS NÃO TUBERCULOSAS NO BRASIL
+continuação
+continua
+92 MINISTÉRIO DA SAÚDE
+conclusão
+Conte-nos o que pensa sobre esta publicação. Clique aqui
+e responda a pesquisa.
+Biblioteca Virtual em Saúde do Ministério da Saúde
+bvsms.saude.gov.br

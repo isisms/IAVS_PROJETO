@@ -1,0 +1,896 @@
+Consenso Protocolo Brasileiro para Infecções Sexualmente
+Transmissíveis 2020: hepatites virais
+doi: 10.1590/S1679-4974202100016.esp1
+Brazilian Protocol for Sexually Transmitted Infections 2020: viral hepatitis
+Protocolo Brasileño para Infecciones de Transmisión Sexual 2020: hepatitis virales
+Geraldo Duarte1 – orcid.org/0000-0002-1689-6142
+Paula Pezzuto2 – orcid.org/0000-0001-9570-8244
+Tiago Dahrug Barros2 – orcid.org/0000-0001-6960-3801
+Gláucio Mosimann Junior2 – orcid.org/0000-0002-1687-5026
+Flor Ernestina Martínez-Espinosa3 – orcid.org/0000-0002-0325-3674
+1Universidade de São Paulo, Faculdade de Medicina de Ribeirão Preto, Ribeirão Preto, SP, Brasil
+2Ministério da Saúde, Secretaria de Vigilância em Saúde, Brasília, DF, Brasil
+3Fundação Oswaldo Cruz, Instituto Leônidas e Maria Deane, Manaus, AM, Brasil
+Resumo
+Este artigo aborda as hepatites virais, tema tratado no Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às
+Pessoas com Infecções Sexualmente Transmissíveis e, mais precisamente, nos Protocolos Clínicos e Diretrizes Terapêuticas
+para Hepatite B e para Hepatite C e Coinfecções, publicados pelo Ministério da Saúde do Brasil. Além do espectro ampliado de
+acometimento da saúde, os vírus das hepatites A, B e C também apresentam diferentes formas de transmissão, seja parenteral,
+sexual, vertical ou oral. Entre as estratégias sugeridas para o controle das hepatites virais, além das medidas comportamentais,
+estão o diagnóstico ampliado, a vacinação precoce contra os vírus da hepatite A e hepatite B e o acesso aos recursos terapêuticos
+disponíveis. Considerando a transmissão vertical dos vírus da hepatite B e hepatite C, a triagem das gestantes portadoras
+crônicas desses vírus é uma importante estratégia de saúde perinatal, indicando com precisão quem pode se beneficiar das
+intervenções profiláticas disponíveis.
+Palavras-chave: Hepatite A; Hepatite B; Hepatite C; Vacinas; Terapêutica; Prevenção de Doenças.
+Endereço para correspondência:
+Geraldo Duarte – Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, Avenida Bandeirantes, 3900, Sala 808,
+Campus Universitário da USP, Ribeirão Preto, São Paulo, Brasil. CEP: 14049-900
+E-mail: gduarte@fmrp.usp.br
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 1
+Hepatites virais
+Apresentação O vírus da hepatite A (hepatitis A virus, HAV) perten-
+ce à família Picornaviridae e seu genoma é composto
+As hepatites virais constituem um dos temas que
+por ácido ribonucleico (ribonucleic acid, RNA), co-
+compõem o Protocolo Clínico e Diretrizes Terapêuticas
+mumente transmitido por meio de contato orofecal
+(PCDT) para Atenção Integral às Pessoas com Infec-
+e ingestão de água ou alimentos contaminados. Sua
+ções Sexualmente Transmissíveis (IST), sendo mais
+transmissão sexual tem sido relatada especialmente
+especificamente abordado no PCDT para Hepatite B
+entre homens que fazem sexo com homens, o que re-
+e Coinfecções e PCDT para Hepatite C e Coinfecções,
+força a necessidade de incluir as medidas de prevenção
+publicados pela Secretaria de Vigilância em Saúde
+entre adultos.8-12
+do Ministério da Saúde do Brasil. Os referidos docu-
+O vírus da hepatite B (hepatitis B virus, HBV)
+mentos foram aprovados pela Comissão Nacional de
+pertence à família Hepadnaviridae, cujas variações
+Incorporação de Tecnologias no Sistema Único de
+genéticas permitem reconhecer dez diferentes genóti-
+Saúde (Conitec).1-3 Para a elaboração do presente ar-
+pos, aspecto de importância epidemiológica, clínica e
+tigo, foram realizadas seleção e análise de evidências
+terapêutica.13,14 Dentre os vírus considerados hepato-
+disponíveis na literatura e discussão por especialistas
+tróficos, é o único com material genômico composto
+em IST em 2020.
+por ácido desoxirribonucleico (deoxyribonucleic acid,
+DNA). Os meios mais frequentes de transmissão do HBV
+são a exposição parenteral ou percutânea, vertical e
+As hepatites virais A, B e C são
+sexual.7 O sangue é o veículo de transmissão mais
+responsáveis por mais de 1,34 milhão de importante, mas outros fluidos também podem trans-
+óbitos anualmente em todo o mundo, dos mitir o HBV, como sêmen e conteúdo vaginal.15 As rotas
+de transmissão predominantes variam de acordo com
+quais 66% são decorrentes da hepatite B,
+a prevalência da infecção pelo HBV. Em áreas com alta
+30% da hepatite C e 4% da hepatite A.
+prevalência, a via perinatal e a horizontal por contato
+próximo na infância são as principais formas de trans-
+missão do vírus.16,17 Em áreas de baixa prevalência,
+a via percutânea e o contato sexual são as formas de
+Aspectos epidemiológicos
+maior risco de contaminação.18
+As hepatites virais A, B e C são causadas por vírus O vírus da hepatite C (hepatitis C virus, HCV) per-
+que apresentam tropismo primário pelo tecido he- tence à família Flaviviridae, cujo material genético é
+pático, constituindo grande desafio à saúde pública formado por fita única de RNA de sentido positivo; sua
+em todo o mundo. Globalmente, essas infecções são variação genética permite reconhecer sete genótipos
+diferentes.19 Sua transmissão ocorre por meio da ex-
+responsáveis por mais de 1,34 milhão de óbitos anual-
+posição percutânea, sexual e vertical. As frequências
+mente, dos quais 66% são causadas pela hepatite B,
+de ocorrência para cada uma dessas categorias variam
+30% pela hepatite C e 4% pela hepatite A.4 Essas mortes
+conforme a população estudada e a concomitância
+decorrem principalmente das complicações das formas
+de fatores associados. No entanto, ressalta-se que a
+crônicas das hepatites, como insuficiência hepática,
+via parenteral é muito mais eficiente e prevalente na
+cirrose e hepatocarcinoma.5 Dados tão significativos
+transmissão do HCV do que a transmissão sexual e ver-
+levaram a Organização Mundial da Saúde (OMS) a
+tical. O maior número de novas infecções vem sendo
+assumir, como um dos seus objetivos, eliminar as he-
+observado entre usuários de drogas injetáveis e pelo
+patites virais até 2030.6
+compartilhamento de seringas.20,21
+No período de 1999 a 2019, o Sistema de Infor-
+Sobre a transmissão sexual do HCV, sabe-se que
+mação de Agravos de Notificação (Sinan) registrou é mais frequente entre homens que fazem sexo com
+a ocorrência de 673.389 casos de hepatites virais no homens.22 Como em outras infecções de transmissão
+Brasil. Destes, 168.036 (25%) foram referentes à hepa- sexual, a presença de outras IST, a exemplo da infec-
+tite A, 247.890 (36,8%) à hepatite B, 253.307 (37,6%) à ção pelo vírus da imunodeficiência humana (human
+hepatite C e 4.156 (0,6%) à hepatite D.7 immunodeficiency virus, HIV) e práticas sexuais
+2 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+desprotegidas, especialmente aquelas com maior risco crioglobulinemia, glomerulonefrite membrano-proli-
+de sangramento mucoso (sexo anal sem uso de lubri- ferativa, tireoidite autoimune, porfiria cutânea tarda,
+ficantes, introdução de partes do membro superior na entre outras.40 Na ausência de eliminação viral espon-
+vagina ou no ânus, sexo grupal, compartilhamento tânea e de tratamento, 20% dos casos de infecção pelo
+de objetos sexuais e prática de sexo sob influência HCV evoluem para cirrose ao longo do tempo.41
+de drogas psicoativas), constituem importante gru-
+po de situações e fatores facilitadores de transmissão Diagnóstico
+do HCV.23,24 Apesar de a transmissão do HCV ser mais
+O diagnóstico das hepatites virais A, B e C baseia-
+baixa em pessoas com hábitos heterossexuais, ela se
+-se na detecção de marcadores sorológicos (antígenos
+eleva entre aquelas com grande número de parcerias
+virais e anticorpos específicos) e molecular (ácido
+sexuais ou que praticam sexo anal.21
+nucleico viral) no sangue, soro, plasma ou fluido oral
+da pessoa infectada, por meio de imunoensaios ou de
+Aspectos clínicos
+técnicas de biologia molecular.12,42,43 A incorporação
+A hepatite A é autolimitada, não evolui para doença dos testes rápidos ao Sistema Único de Saúde (SUS)
+crônica e tem na vacina a sua principal forma de con- do Brasil ampliou as oportunidades de testagem e de
+trole.25 Seu período de incubação varia de 15 a 50 dias diagnóstico precoce dessas infecções, os quais podem
+e é sintomática em 70% dos adultos.26,27 Caracteriza-se ser realizados em locais sem infraestrutura laborato-
+por início súbito de náusea, vômitos, anorexia, febre, rial ou de difícil acesso.44
+mal-estar e dor abdominal, seguida por icterícia, co- Para o diagnóstico da hepatite A aguda, utilizam-se
+lúria, acolia e prurido.28 Pessoas infectadas pelo HAV testes de imunoensaio que detectam anticorpos IgM
+transmitem o vírus durante o período de incubação, anti-HAV no soro (até seis meses após o início dos sin-
+que dura entre um e seis meses, persistindo até uma tomas). A pesquisa por anticorpos IgG anti-HAV, seja
+semana depois do início da icterícia.29 por testes anti-HAV IgG ou anti-HAV total (IgM e IgG),
+A hepatite pelo HBV pode mostrar-se como doença auxilia na identificação de indivíduos não imunizados
+aguda ou crônica. Na forma aguda, cerca de 70% dos ou previamente infectados. Esses exames devem ser
+casos apresentam a forma subclínica e 30% a for- sempre solicitados para pessoas expostas a situações de
+ma ictérica, eventualmente um curso mais grave da risco para essa infecção.44,45 A presença de anticorpos
+doença.30,31 Na fase aguda, as manifestações clínicas IgG anti-HAV indica imunidade duradoura.46
+como anorexia, astenia, mal-estar, náusea, icterícia, A maioria das pessoas infectadas pelo HBV é as-
+colúria e dor no quadrante superior direito do abdome sintomática e diagnosticada na fase crônica da
+são indistinguíveis de outras hepatites virais.32 doença. A Figura 1 ilustra a dinâmica temporal da
+Na hepatite pelo HBV, a proporção de progressão de variação dos marcadores da infecção.47 A definição
+infecção aguda para crônica em indivíduos imuno- sucinta desses marcadores consta na Figura 2.48 Para
+competentes é determinada principalmente pela idade a triagem da infecção, é utilizado teste laboratorial
+em que a infecção ocorre, sendo de 90% na transmissão de imunoensaio ou teste rápido visando à detecção
+vertical,33 de 20% a 50% entre 1 e 5 anos de idade34,35 do antígeno de superfície do HBV (HBsAg). Nos casos
+e de 0 a 10% após a adolescência.12,36 Na sua forma positivos, a complementação diagnóstica é feita com
+crônica, a hepatite B é frequentemente assintomática, o anti-HBc total e, se disponível, com teste molecular
+mas pode evoluir para insuficiência hepática crônica, (HBV-DNA). O HBeAg, anti-HBe e anti-HBs, juntos aos
+cirrose e hepatocarcinoma.37 demais marcadores, auxiliam na avaliação da fase clí-
+Sobre a infecção causada pelo HCV, observa-se que nica e monitoramento evolutivo da infecção.16,37,42-44,49
+cerca de 50% a 85% das pessoas evoluem para a forma Na hepatite B aguda, o HBsAg, HBeAg, anti-HBc
+crônica da infecção, apresentando manifestações clí- IgM e o HBV-DNA são os primeiros marcadores a se-
+nicas inespecíficas como cansaço, alterações do sono, rem detectados. A presença do HBsAg é confirmação
+náusea, diarreia, dor abdominal, anorexia, mialgia, da infecção, podendo ser detectada de duas a 12 se-
+artralgia, fraqueza, alterações comportamentais e per- manas após a exposição ao vírus. Sua negativação,
+da de peso.38,39 Manifestações extra-hepáticas incluem quando a infecção é debelada, acontece semanas após
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 33
+Hepatites virais
+Fonte: modificado e adaptado de Sablon & Shapiro, 2005.47
+Notas: a) HBsAg – antígeno de superfície do vírus da hepatite B (HBV);b) Anti-HBs – anticorpo contra o antígeno de superfície do HBV; c) Anti-HBc Total – anticorpo das classes IgM e IgG contra o
+antígeno do núcleo do HBV; d) HBeAg – antígeno “e” do HBV; e) Anti-HBe – anticorpo contra o antígeno “e” do HBV; f) Anti-HBc IgM – anticorpo da classe IgM contra o antígeno do núcleo do HBV.
+Figura 1 – Marcadores séricos da infecção causada pelo vírus da hepatite B de acordo com o tempo de evolução da infecção
+Marcador Interpretação
+Marcador de infecção atual pelo vírus da hepatite B (HBV), seja aguda ou crônica. Detectado na fase inicial da infecção
+HBsAga
+aguda. Sua persistência por mais de 6 meses sinaliza para a infecção crônica.
+Marcador de intensidade da replicação viral. Presente na fase inicial da infecção aguda, podendo ser detectado antes do
+HBV-DNAb HBsAg. Na infecção crônica, sua presença é detectável na maioria dos casos. Sua quantificação é útil na classificação da
+forma clínica da infecção crônica.
+Marcador da replicação viral. Sua detecção indica elevada replicação e infecciosidade do HBV. Está presente na fase aguda e
+HBeAgc
+em algumas formas crônicas.
+O início da detecção coincide com o declínio da concentração de HBeAg. Sua presença indica redução da replicação viral.
+Anti-HBed
+Algumas formas replicativas da doença crônica apresentam esse anticorpo na ausência do HBeAg.
+Marcador de infecção recente pelo HBV. Presente durante a fase aguda da infecção. Eventualmente, pode ser detectado na
+Anti-HBc IgMe
+reagudização de casos crônicos.
+O início da detecção acontece durante a fase aguda da infecção e persiste por tempo indeterminado. Sua presença indica
+Anti-HBc IgGf
+infecção vigente (quando o HBsAg está positivo) ou contato prévio com o HBV.
+Anti-HBsg Indica imunidade contra o HBV. Presente após o desaparecimento do HBsAg (cura funcional) ou em resposta à vacina.
+Fonte: adaptado de Liang, 2009.48
+Notas: a) HBsAg – antígeno de superfície do HBV; b) HBV-DNA – ácido nucleico viral; c) HBeAg – antígeno “e” do HBV; d) Anti-HBe – anticorpo contra o antígeno “e” do HBV; e) Anti-HBc IgM –
+anticorpo da classe IgM contra o antígeno do núcleo do HBV; f) Anti-HBc IgG – anticorpo IgG contra o antígeno do núcleo do HBV; g) Anti-HBs – anticorpo contra o antígeno de superfície do HBV.
+Figura 2 – Interpretação dos marcadores da infecção pelo vírus da hepatite B
+4 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+a detecção, podendo se prolongar por até seis meses. O hepatite C deve ser solicitada para todos os indivíduos
+anti-HBc IgM evolui para negatividade após controle em situações de risco para a infecção.12,52
+da infecção aguda, mas, em casos de reagudização da
+hepatite B, pode ser detectado.48 Tratamento
+O HBeAg é marcador da intensa replicação viral
+Não está disponível tratamento antiviral específico
+e sua detecção relaciona-se à alta infecciosidade do
+para a hepatite A, apenas medicamentos para alívio
+HBV.48 Os anticorpos anti-HBc IgG também aparecem
+dos sintomas, os quais geralmente desaparecem dentro
+precocemente e normalmente persistem pelo resto da
+de dois meses.53
+vida. Não servem para classificar forma clínica, pois
+Durante a infecção aguda pelo HBV, apenas medi-
+todos os indivíduos que foram infectados, curados ou
+das de suporte são suficientes, visto que mais de 90%
+não, apresentam esse marcador. Tem uso epidemioló-
+apresentam resolução espontânea. Se houver neces-
+gico, pois indica contato prévio com o vírus ou infecção
+sidade de tratamento, utilizam-se os inibidores de
+vigente. A presença de anticorpos anti-HBe indica o
+transcriptase reversa.54 No Brasil, a escolha é o fuma-
+início da recuperação, mas muitos indivíduos com
+rato de tenofovir desoproxila ou o entecavir.37 Medidas
+forma crônica replicativa da doença podem apresentar
+preventivas devem ser tomadas para todos os contatos
+esse marcador na ausência do HBeAg.50 O marcador
+expostos, indicando-se imunoglobulina e vacinação
+anti-HBs surge durante a fase de convalescença, após
+para aqueles soronegativos ou com sorologia desco-
+o desaparecimento do HBsAg. Sua presença indica
+nhecida, segundo critérios estabelecidos.55
+imunidade contra o HBV. Na ausência do anti-HBs, o
+Após seis meses de persistência do HBsAg no sangue,
+anti-HBc total passa a ser o único marcador isolado
+a infecção pelo HBV é considerada crônica e deve ser
+da infecção prévia. Em indivíduos não expostos ao HBV
+avaliada clínica e virologicamente para decisão sobre
+(anti-HBc IgG negativos), a presença de anticorpos an-
+necessidade de terapia medicamentosa. O tratamento
+ti-HBs indica imunidade pela resposta vacinal contra
+da forma crônica da hepatite B tem como principal
+a hepatite B.51
+objetivo a supressão viral, evitando, com isso, a progres-
+Na incapacidade de resolução da infecção aguda,
+são da hepatopatia e o óbito. A negativação do HBsAg
+alguns indivíduos tornam-se portadores crônicos
+e soroconversão para o antiHBs (cura funcional) se-
+do HBV. Nesses casos, a persistência do HBsAg por
+ria o resultado ideal, mas raramente alcançado. Não
+mais de seis meses sinaliza para a infecção crônica.
+cumprindo esse objetivo, o aparecimento do anti-HBe,
+Na hepatite B crônica, os marcadores HBsAg e HBV-D-
+a redução da carga viral e a normalização das enzimas
+NA permanecem presentes e detectáveis. A avaliação
+hepáticas passam a ser os desfechos alternativos.37,56
+do HBeAg e anti-HBe, junto aos demais marcadores,
+Devido à sua complexidade, esse tratamento deve
+auxilia no monitoramento e avaliação da fase clínica
+ser instituído com orientação do especialista, visto que
+da infecção.48,50 depende de múltiplas variáveis clínicas e laboratoriais,
+A testagem para hepatite B deve ser ofertada ou soli- como a presença de acometimento hepático signifi-
+citada para todas as pessoas de maior vulnerabilidade cativo, resposta imunológica à infecção, carga viral e
+ao agravo. Aquelas cujos resultados forem negativos fatores de risco para a progressão da doença (idade e
+devem ser encaminhadas para vacinação.16,44 histórico familiar de hepatocarcinoma).37,55 A biopsia
+Na infecção pelo HCV a maioria das pessoas infec- hepática pode ser útil para avaliar o grau de agressão
+tadas é assintomática e o rastreamento é feito pela tecidual e para os casos em que seja necessário descar-
+detecção de anticorpos anti-HCV utilizando teste de tar doença hepática de base.57 A definição de terapia
+imunoensaio ou teste rápido. Nas pessoas com resul- antiviral na infecção crônica pelo HBV depende, a
+tados reagentes, a complementação do diagnóstico princípio, do grau da hepatopatia, da concentração de
+é feita por teste molecular, no caso, a reação em ca- aminotransferases e da carga viral (HBV-DNA).58
+deia da polimerase mediada por transcrição reversa Objetivamente, a infecção pelo HCV pode ser cura-
+(reverse transcriptase-polymerase chain reaction, da utilizando-se tratamento antiviral de ação direta.
+RT-PCR) para detectar o RNA do HCV, confirmando Entretanto, por ser uma infecção assintomática na
+a infecção ativa, aguda ou crônica. A testagem para maioria dos casos, grande número de pessoas infectadas
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 55
+Hepatites virais
+Principais fármacos e associações mais frequentes para o tratamento da hepatite C
+Sofosbuvir + daclatasvir
+Sofosbuvir/ledipasvir
+Sofosbuvir/velpatasvir
+Elbasvir/grazoprevir
+Glecaprevir/pibrentasvir
+Ribavirina
+Fonte: adaptado do Protocolo Clínico e Diretrizes Terapêuticas para Hepatite C e Coinfecções.41
+Figura 3 – Principais fármacos e associações mais frequentes para o tratamento da hepatite C
+não são diagnosticadas e ainda existe limitação de percentuais de efetividade, os quais variam de acordo
+acesso à terapia em alguns locais.52 Esse tratamen- com a idade (crianças pré-termo e pessoas acima de
+to deve ser acompanhado por especialistas, visto 60 anos apresentam menores percentuais de viragem
+sua complexidade. sorológica) e a presença de comorbidades, a exemplo
+As alternativas terapêuticas para o tratamento da de pessoas em hemodiálise, pessoas com hepatopatias,
+infecção pelo HCV incorporadas ao SUS apresentam neoplasias e aquelas portadoras do HIV.33,56,60-62
+elevada efetividade terapêutica, confirmada por res- O fato de que 90% das infecções pelo HBV adquiri-
+posta virológica sustentada (Figura 3). Comparando-se das no período perinatal evoluem para a cronicidade
+situações clínicas semelhantes, todos os esquemas fundamentam as estratégias de vacinação universal
+de todos os recém-nascidos, independentemente de a
+propostos apresentam efetividades também similares.
+mãe ser portadora crônica do vírus.56,60 Essa estratégia
+Características que os diferenciam são as indicações
+é fundamental para cumprir o objetivo de controlar a
+para determinadas populações, a comodidade posoló-
+hepatite B até o ano 2030.6,63
+gica, o controle mais acessível e o custo. A terapia tem
+As orientações e cuidados com as pessoas usuárias
+como objetivo a resposta virológica sustentada, que
+de drogas ilícitas e aquelas que praticam atividade
+significa negativação persistente do RNA viral após 12
+sexual sem proteção adequada são as estratégias que
+a 24 semanas do término do tratamento.41
+potencialmente podem trazer melhores resultados na
+redução das infecções pelo HCV.6,21-24 Outra forma de
+Vigilância, prevenção e controle
+controle da infecção pelo HCV é a terapia antiviral
+A notificação dos casos de hepatites virais é compul- de ação direta contra o vírus, cujo sucesso ampliou
+sória para todos os estados do país desde 2016. Todos a discussão sobre o tratamento como estratégia para
+prevenção da doença.64
+os casos suspeitos também devem ser comunicados
+semanalmente às autoridades de saúde.59
+Populações e situações especiais
+A prevenção da infecção pelo HAV depende da me-
+lhoria das condições sanitárias da população e da
+A abordagem das hepatites causadas pelos vírus
+realização da vacinação (crianças até os 5 anos de
+HAV, HBV e HCV durante a gravidez exige atenção sobre
+idade e pessoas expostas a maior risco da infecção),
+os aspectos profiláticos envolvidos tanto na transmis-
+segundo os critérios do Centro de Referência para são horizontal quanto na transmissão vertical desses
+Imunobiológicos Especiais.56 No entanto, em adultos, vírus. Para a redução e controle de exposições de ris-
+deve ser considerada também a transmissão sexual, co, são necessários os fundamentos comportamentais
+indicando e incentivando práticas sexuais seguras.12 e sanitários da profilaxia primária, acrescidos dos
+No caso de exposição de risco para a hepatite A, há in- recursos da imunoprofilaxia ativa e passiva, quando
+dicação de testagem e as pessoas negativas podem ser existentes.65,66 Sabe-se que o controle da transmissão
+vacinadas até 14 dias após a exposição.29 vertical do HBV e do HCV depende da triagem univer-
+Para o controle da infecção pelo HBV, a melhor sal dessas infecções durante o pré-natal. De forma
+estratégia é a vacinação, que apresenta elevados geral, durante o pré-natal é importante identificar
+6 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+se os parceiros das gestantes não infectadas são por- Durante o pré-natal de gestantes portadoras
+tadores dessas infecções, o que permite a adoção de crônicas do HBV, estão contraindicadas todas as
+estratégias que reduzem as infecções agudas durante a condutas invasivas sobre o feto e câmara amniótica
+gravidez, a exemplo da inclusão do parceiro na assis- (amniocentese e cordocentese). Havendo exposição
+tência pré-natal.67 de risco, está indicada a imunoprofilaxia, utilizando,
+em grupos musculares diferentes, a primeira dose da
+Hepatite A na gestação
+vacina e imunoglobulina hiperimune anti-hepati-
+O período curto de viremia e os cuidados durante o te B (0,06mL/kg de peso corporal, máximo de 5mL,
+parto (evitando o contato do feto com fezes maternas) intramuscular).56,74,78
+justificam a raridade da transmissão vertical do HAV.68 Além da rotina laboratorial usual, devem ser
+O parto vaginal é o mais indicado para essas mulheres solicitados os seguintes exames para gestantes porta-
+e a amamentação natural é liberada.69 doras do HBV: provas de função hepática, marcadores
+Tanto a imunoglobulina quanto a vacina contra o da infecção ainda não solicitados (entre eles HBeAg,
+HAV são seguras para uso durante a gravidez. Em caso anti-HBc, anti-HBe, anti-HBs) e carga viral. Todas as
+de exposição a fatores de risco clínicos, ocupacionais e gestantes que apresentam carga viral do HBV superior a
+de estilo de vida, além de viagens para áreas de elevada 200.000UI/mL (correspondentes a 1 milhão de cópias/
+prevalência, a imunoprofilaxia pode ser utilizada.12,70 mL) ou positividade para HBeAg devem fazer profilaxia
+da transmissão vertical. Alterações da função hepática
+Hepatite B na gestação
+indicam necessidade de tratamento de longo prazo e
+As proporções de cronicidade da infecção pelo HBV não apenas profilaxia (Figura 4).63
+são mais elevadas quanto mais precocemente ocorrer Para a profilaxia da transmissão vertical do HBV,
+a infecção.71 Por isso, o controle da transmissão ver- está indicado o uso de antivirais inibidores nucleosí-
+tical potencialmente reduz a ocorrência de hepatite dicos da transcriptase reversa (lamivudina, tenofovir
+crônica, cirrose e hepatocarcinoma.72,73 e telbivudina).63,79 No Brasil, a opção é o fumarato de
+Orienta-se a pesquisa do HBsAg na primeira opor- tenofovir desoproxila (300mg, via oral, dose única
+tunidade no pré-natal e sua repetição no momento do diária), iniciado a partir da 28ª semana de gravidez,
+parto.74 Para gestantes soronegativas, deve-se iniciar o prolongando-se no puerpério para evitar eventual
+esquema vacinal de três doses. A informação vacinal aumento da carga viral.74 Considerando a necessidade
+não exclui a necessidade de verificar se a gestante é de tratamento prolongado em gestantes portadoras
+portadora do HBV em todos esses momentos, pois não do HBV, também se utiliza o fumarato de tenofovir
+há certeza de viragem sorológica vacinal mesmo após desproxila. Até o momento, considera-se que o uso do
+as três doses da vacina.75 entecavir durante a gravidez não é seguro, devendo
+Com função hepática normal o prognósti- ser evitado nesse período.80 Da mesma forma, também
+co da infecção pelo HBV não é modificado pela não está indicado para ser usado durante o período de
+gravidez e a infecção não altera o prognóstico gesta- amamentação.81
+cional.76,77 Em caso de comprometimento hepático, os O parto vaginal é liberado para mulheres portadoras
+prognósticos materno e perinatal poderão ser negati- do HBV, evitando-se episiotomia e partos instrumenta-
+vamente afetados.65 lizados (fórceps ou vácuo) e clampeando rapidamente
+A ocorrência de transmissão vertical do HBV é o cordão umbilical. A amamentação natural também
+influenciada pela carga viral, pela positividade do está liberada.82
+HBeAg e do anti-HBe da portadora e pela idade ges- Todos os recém-nascidos de mulheres porta-
+tacional (infecção adquirida no fim da gestação doras do HBV deverão receber a primeira dose da
+aumenta o risco de alta carga viral na hora do par- vacina e a imunoglobulina específica contra o HBV
+to). Sem nenhuma intervenção profilática, o risco de (0,5mL intra-muscular), de preferência nas primeiras
+transmissão vertical em portadoras crônicas varia de 12 horas de vida, conforme apresentado no algoritmo
+5% a 30% (média de 8%). No entanto, se a gestante for da Figura 4. Existem vários esquemas para a admi-
+portadora do HBeAg, a proporção de transmissão ver- nistração das doses adicionais da vacina, alguns com
+tical é elevada, mas extremamente variável, ocorrendo duas, outros com três doses adicionais.63 Países como
+em 80% a 90% das vezes.4,33,65 China, Malásia e Hong Kong, entre outros, utilizam o
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 77
+Hepatites virais
+Fonte: modificado e adaptado de World Health Organization, 2020.71
+Notas: a) HBsAg – antígeno de superfície do HBV; b) HBV – vírus da hepatite B; c) HBeAg – antígeno “e” do HBV; d) Iniciar terapia prolongada com fumarato de tenofovir desoproxila, pois entecavir
+não é seguro para lactante.80,81
+Figura 4 – Algoritmo das intervenções preventivas para prevenção da transmissão vertical do vírus da hepatite B
+calendário de duas doses adicionais administradas no avaliação entre 30 e 60 dias após a última dose da va-
+segundo e sexto meses de vida do recém-nascido.83-85 cina anti-HBV.74
+Nos Estados Unidos da América e no Canadá, utiliza-se
+Hepatite C na gestação
+também o esquema de duas doses adicionais adminis-
+tradas no segundo e sexto meses de vida. No entanto, Em 2020, o Ministério da Saúde incorporou a
+se o recém-nascido for pré-termo ou com peso abaixo triagem universal da infecção pelo HCV durante a
+de 2,0kg, o esquema vacinal considera três doses adi- gravidez.88 A grande resistência à triagem pré-natal do
+cionais da vacina, administradas no segundo, quarto HCV é que não existe profilaxia farmacológica ou imu-
+e sexto meses de vida.75,86 No Brasil, o Programa Na- ne para reduzir sua transmissão vertical.4 No entanto,
+cional de Imunizações indica esquema vacinal de três existem estratégias comportamentais e assistenciais
+doses adicionais à dose administrada no momento do que reduzem esse risco, como realizar o controle
+parto, utilizando vacinas combinadas (vacina pen- profilático e terapêutico de outras infecções, proibir
+tavalente) administradas no segundo, quarto e sexto propedêutica invasiva sobre a câmara amniótica ou
+meses de vida, independentemente de prematuridade fetal e evitar tempo prolongado de corioamniorrexe.
+ou peso do neonato.74,87 Durante o parto deve-se evitar o uso da episiotomia,
+Seja qual for o esquema vacinal utilizado, a si- indicando-se o clampeamento rápido do cordão um-
+tuação do recém-nascido deve ser acompanhada até bilical.65,89,90 Além disso, é mais uma oportunidade de
+se definir se a infecção foi confirmada ou descartada identificar portadores do HCV, que podem se beneficiar
+e a soroconversão aferida.71 No Brasil, indica-se essa do tratamento posteriormente.
+8 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+A transmissão vertical do HCV ocorre entre 3,8% e natural estão liberadas para mulheres portadoras do
+7,8% das gestantes com infecção crônica, mostrando HCV66,79 desde que não haja concomitância com a in-
+associação positiva com a carga viral.91-93 Essas pro- fecção pelo HIV.100
+porções de transmissão vertical variam também a
+Contribuição dos autores
+depender da idade gestacional em que ocorreu a infec-
+ção aguda e da presença de comorbidades, a exemplo
+Duarte G, Pezzuto P, Barros TD, Mosimann Junior
+da infecção pelo HIV.94,95 Não existe confirmação de que
+G e Martinez-Espinosa FE contribuíram na concepção,
+o HCV possa causar malformação fetal.96 delineamento, redação e revisão crítica do manuscrito.
+Tem sido observado que a infecção pelo HCV em Todos os autores aprovaram a versão final do trabalho
+gestantes associa-se com prognósticos perinatais e são responsáveis por todos os seus aspectos, incluindo
+adversos, como restrição de crescimento fetal e pre- a garantia de sua precisão e integridade.
+maturidade.97,98 Não parece que esses resultados sejam
+Agradecimento
+decorrentes apenas do efeito do HCV, mas também dos
+inúmeros fatores que coexistem nessas gestantes.94 Os autores agradecem a contribuição significati-
+Independentemente de ação isolada ou em associação, va dos membros dos grupos técnicos de especialistas
+o que se confirma é a necessidade de identificar as ges- responsáveis pela elaboração do PCDT para Atenção
+tantes portadoras dessa infecção e indicar assistência Integral às Pessoas com IST em 2020, e dos PCDT para
+pré-natal apropriada e seguimento adequado a seus Hepatite B e Coinfecções e PCDT para Hepatite C e
+filhos.88,99 Tanto o parto vaginal quanto a amamentação Coinfecções, publicados pelo Ministério da Saúde.
+Referências
+1. Brasil. Ministério da Saúde. Portaria GM/MS nº 20 [citado 2018 out 15]; Seção 1:187. Disponível
+1. Brasil. Ministério da Saúde. Portaria MS/SCTIE em: http://conitec.gov.br/images/Relatorios/Por-
+nº 42, de 5 de outubro de 2018. Torna pública a taria/2018/PortariasSCTIE_82a84_2018.pdf.
+decisão de aprovar o Protocolo Clínico e Diretrizes
+4. World Health Organization - WHO. Global he-
+Terapêuticas para Atenção Integral às Pessoas com
+patitis report, 2017 [Internet]. Geneva: World
+Infecções Sexualmente Transmissíveis (IST), no
+Health Organization; 2017 [cited 2020 Oct 15].
+âmbito do Sistema Único de Saúde – SUS [Inter-
+Available from: https://www.who.int/hepatitis/
+net]. Diário Oficial da União, Brasília (DF), 2018
+publications/global-hepatitis-report2017/en/
+out 8 [citado 2018 out 15]; Seção 1:88. Disponível
+em: http://conitec.gov.br/images/Relatorios/Porta- 5. Thomas DL. Global elimination of chronic
+ria/2018/Portaria_SCTIE_N42_05_10_2018.pdf. hepatitis. N Engl J Med [Internet]. 2019 May
+[cited 2020 Oct 15]; 380(21):2041-50. ht-
+2. Brasil. Ministério da Saúde. Portaria nº 43, de 9 de
+tps://doi.org/10.1056/NEJMra1810477
+dezembro de 2016. Torna pública a decisão de atuali-
+zar o Protocolo Clínico e Diretrizes Terapêuticas para 6. World Health Organization - WHO. Global health
+Hepatite B e coinfecções, no âmbito do Sistema Único sector strategy on viral hepatitis 2016-2021:
+de Saúde – SUS [Internet]. Diário Oficial da União, towards ending viral hepatitis [Internet]. Ge-
+Brasília (DF), 2016 dez 9 [citado 2019 dez 16]; Seção neva: World Health Organization; 2016 [cited
+1:121. Disponível em: http://conitec.gov.br/images/Re- 2020 Oct 15 ]. Available from: https://apps.who.
+latorios/Portaria/2016/Portaria_SCTIE_47_2016.pdf int/iris/bitstream/handle/10665/246177/
+WHO-HIV-2016.06-eng.pdf;jsessionid=65FC34B07F-
+3. Brasil. Ministério da Saúde. Portaria MS/SCTIE nº
+74743F3C634F238D44E5E7?sequence=1.
+84, de 19 de dezembro de 2018. Torna pública a
+decisão de aprovar o Protocolo Clínico e Diretrizes 7. Ministério da Saúde (BR). Secretaria de Vigilância
+Terapêuticas para Hepatite C e coinfecções, no âm- em Saúde. Departamento de Doenças de Condições
+bito do Sistema Único de Saúde – SUS [Internet]. Crônicas e Infecções Sexualmente Transmissíveis.
+Diário Oficial da União, Brasília (DF), 2018 dez Hepatites virais | 2020. Bol Epidemiol [Internet].
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 99
+Hepatites virais
+2020 jul [citado 2020 out 15]; especial. Disponí- 15. Inoue T, Tanaka Y. Hepatitis B virus and its
+vel em: http://www.aids.gov.br/pt-br/pub/2020/ sexually transmitted infection – an update.
+boletim-epidemiologico-hepatites-virais-2020 Microb Cell [Internet]. 2016 Sep [cited 2020
+Oct 15]; 3(9):420-37. Available from: ht-
+8. Cotter SM, Sansom S, Long T, Koch E, Kellerman S,
+tps://doi.org/10.15698/mic2016.09.527
+Smith F, et al. Outbreak of hepatitis A among men
+who have sex with men: implications for hepatitis 16. World Health Organization - WHO. Guidelines
+A vaccination strategies. J Infect Dis [Internet]. for the prevention, care and treatment of persons
+2003 Apr [cited 2020 Oct 15]; 187(8):1235-40. with chronic hepatitis B infection [Internet].
+Available from: https://doi.org/10.1086/374057 Geneva: World Health Organization; 2015 [cited
+2020 Oct 15]. Available from: https://www.who.
+9. Beebeejaun K, Degala S, Balogun K, Simms I,
+int/hiv/pub/hepatitis/hepatitis-b-guidelines/en/
+Woodhall SC, Heinsbroek E, et al. Outbreak of
+hepatitis A associated with men who have sex with 17. Souto FJD. Distribution of hepatitis B infection in
+men (MSM), England, July 2016 to January 2017. Brazil: the epidemiological situation at the beginning
+Euro Surveill [Internet]. 2017 Feb [cited 2020 of the 21st century. Rev Soc Bras Med Trop [Internet].
+Oct 15]; 22(5):30454. Available from: https://doi. 2016 [cited 2020 Oct 15]; 49(1):11-23. Available
+org/10.2807/1560-7917.ES.2017.22.5.30454 from: https://doi.org/10.1590/0037-8682-0176-2015
+10. Freidl GS, Sonder GJ, Bovée LP, Friesema IH, van 18. Nguyen MH, Wong G, Gane E, Kao JH, Dusheiko G.
+Rijckevorsel GG, Ruijs WL, et al. Hepatitis A outbreak Hepatitis B virus: advances in prevention, diagnosis,
+among men who have sex with men (MSM) predo- and therapy. Clin Microbiol Rev [Internet]. 2020
+minantly linked with the EuroPride, the Netherlands, Feb [cited 2020 Oct 15]; 33(2):e00046-19. Available
+July 2016 to February 2017. Euro Surveill [Internet]. from: https://doi.org/10.1128/CMR.00046-19
+2017 [cited 2020 Oct 15]; 22(8):30468. Available from:
+19. Smith DB, Bukh J, Kuiken C, Muerhoff AS, Rice
+https://doi.org.10.2807/1560-7917.ES.2017.22.8.30468
+CM, Stapleton JT, et al. Expanded classification
+11. Chen GJ, Lin KY, Sun HY, Sheng WH, Hsieh SM, of hepatitis C virus into 7 genotypes and 67
+Huang YC, et al. Incidence of acute hepatitis A among subtypes: Updated criteria and genotype assign-
+HIV-positive patients during an outbreak among ment web resource. Hepatology [Internet]. 2014
+MSM in Taiwan: Impact of HAV vaccination. Liver Int Jan [cited 2020 Oct 15]; 59(1):318-27. Available
+[Internet]. 2018 Apr [cited 2020 Oct 15]; 38(4):594- from: https://doi.org/10.1002/hep.26744
+601. Available from: https://doi.org/10.1111/liv.13468
+20. World Health Organization - WHO. Guidelines for
+12. Ministério da Saúde (BR). Secretaria de Vigilância em the screening, care and treatment of persons with
+Saúde. Departamento de Doenças de Condições Crôni- chronic hepatitis C infection [Internet]. Geneva:
+cas e Infecções Sexualmente Transmissíveis. Protocolo World Health Organization; 2016 [cited 2020 Oct
+clínico e diretrizes terapêuticas para atenção integral 15]. Available from: https://apps.who.int/iris/bits-
+às pessoas com infecções sexualmente transmissíveis tream/handle/10665/205035/9789241549615_eng.
+[Internet]. Brasília: Ministério da Saúde; 2020 [citado pdf;jsessionid=AFFE108E396C753F82C287424A-
+2020 out 15]. Disponível em: http://www.aids.gov.br/ 20DAEA?sequence=1
+pt-br/pub/2015/protocolo-clinico-e-diretrizes-terapeu-
+21. Schillie S, Wester C, Osborne M, Wesolowski L,
+ticas-para-atencao-integral-pessoas-com-infeccoes.
+Ryerson AB. CDC Recommendations for hepatitis
+13. Kramvis, A. Genotypes and genetic variability c screening among adults – United States, 2020.
+of hepatitis B virus. Intervirology [Internet]. MMWR Recomm Rep [Internet]. 2020 Apr [ci-
+2014 [cited 2020 Oct 15]; 57:141-50. Available ted 2020 Oct 15]; 69(2):1-17. Available from:
+from: https://doi.org/10.1159/000360947 https://doi.org/10.15585/mmwr.rr6902a1
+14. Aguilera A, Trastoy R, Rodríguez-Frias F, Muñoz-Bel- 22. Hagan H, Jordan AE, Neurer J, Cleland CM. Inci-
+lido JL, Melón S, Suárez A, Orduña A, et al. GEHEP 010 dence of sexually transmitted hepatitis C virus
+study: prevalence and distribution of hepatitis B virus infection in HIV-positive men who have sex with
+genotypes in Spain (2000-2016). J Infect [Internet]. men. AIDS [Internet]. 2015 Nov [cited 2020 Oct
+2020 [cited 2020 Oct 15]; 81(4):600-6. Available 15]; 29(17):2335-45. Available from: https://
+from: https://doi.org/10.1016/j.jinf.2020.07.019 doi.org/10.1097/QAD.0000000000000834
+10 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+23. Delaunay CL, Cox J, Klein M, Lambert G, Grace D, [cited 2020 Oct 15]; 93(3):354-9. Available from:
+Lachowsky NJ, Maheu-Giroux M. Trends in hepatitis https://doi.org/10.1111/j.1572-0241.1998.00354.x
+C virus seroprevalence and associated risk factors
+32. Westbrook RH, Dusheiko G. Natural history of
+among men who have sex with men in Montréal:
+hepatitis C. J Hepatol [Internet]. 2014 Nov [cited
+results from three cross-sectional studies (2005,
+2020 Oct 15]; 61(Suppl 1):S58-68. Available from:
+2009, 2018). Sex Transm Infect [Internet]. 2020
+https://doi.org/10.1016/j.jhep.2014.07.012
+Jul [cited 2020 Oct 15]. Available from: https://
+doi/org/10.1136/sextrans-2020-054464 33. Stevens CE, Toy P, Kamili S, Taylor PE, Tong MJ,
+Xia GL, et al. Eradicating hepatitis B virus: the
+24. Li H, Marks KM, Talal AH, van Seggelen WO, Akil B,
+critical role of preventing perinatal transmis-
+Radix A, et al. Assessing routes of hepatitis C trans-
+sion. Biologicals [Internet]. 2017 Nov [cited
+mission in HIV-infected men who have sex with men
+2020 Oct 15]; 50:3-19. Available from: https://
+using single genome sequencing. PLoS One [Internet].
+doi.org/10.1016/j.biologicals.2017.08.008
+2020 Jul [cited 2020 Oct 15]; 15(7):e0235237. Availab-
+le from: https://doi.org/10.1371/journal.pone.0235237 34. Beasley RP, Hwang LY, Lin CC, Leu ML, Stevens
+CE, Szmuness W, et al. Incidence of hepatitis B
+25. Linder KA, Malani PN. Hepatitis A. JAMA [Internet].
+virus infections in preschool children in Taiwan.
+2017 Dec [cited 2020 Oct 15]; 318(23):2393. Available
+J Infect Dis [Internet]. 1982 Aug [cited 2020
+from: https://doi.org/10.1001/jama.2017.17244
+Oct 15]; 146(2):198-204. Available from: ht-
+26. Kemmer NM, Miskovsky EP. Hepatitis A. Infect Dis tps://doi.org/10.1093/infdis/146.2.198
+Clin North Am [Internet]. 2000 Aug [cited 2020
+35. Coursaget P, Yvonnet B, Chotard J, Vincelot P, Sarr
+Oct 15]; 14(3):605-15. Available from: https://
+M, Diouf C, et al. Age-and sex-related study of he-
+doi.org/10.1016/s0891-5520(05)70123-9
+patitis B virus chronic carrier state in infants from
+27. Lemon SM. Type A viral hepatitis. New developments an endemic area (Senegal). J Med Virol [Internet].
+in an old disease. N Engl J Med [Internet]. 1985 Oct 1987 May [cited 2020 Oct 15]; 22(1):1-5. Available
+[cited 2020 Oct 15]; 313(17):1059-67. Available from: from: https://doi.org/10.1002/jmv.1890220102
+https://doi.org/10.1056/NEJM198510243131706
+36. Alter MJ. Epidemiology of hepatitis C virus infec-
+28. Centers for Disease Control and Prevention - CDC. tion. World J Gastroenterol [Internet]. 2007 May
+Viral hepatitis surveillance: United States, 2013 [cited 2020 Oct 15]; 13(17):2436-41. Available
+[Internet]. Atlanta: US Department of Health from: https://doi.org/10.3748/wjg.v13.i17.2436
+and Human Services; 2016 [cited 2020 Oct 15].
+37. Ministério da Saúde (BR). Secretaria de Vigilância
+Available from: https://www.cdc.gov/hepatitis/
+em Saúde. Departamento de Vigilância, Prevenção e
+statistics/2013surveillance/index.htm.
+Controle das Infecções Sexualmente Transmissíveis,
+29. Workowski KA, Bolan GA, Centers for Disease do HIV/ Aids e das Hepatites Virais. Protocolo clínico
+Control and Prevention - CDC. Sexually transmit- e diretrizes terapêuticas para hepatite b e coinfec-
+ted diseases treatment guidelines, 2015. MMWR ções [Internet]. Brasília: Ministério da Saúde; 2017
+Recomm Rep [Internet]. 2015 [cited 2020 Oct [citado 2020 out 15]. Disponível em: http://www.
+15]; 64:1. Available from: https://www.cdc.gov/ aids.gov.br/pt-br/pub/2016/protocolo-clinico-e-dire-
+mmwr/preview/mmwrhtml/rr6403a1.htm. trizes-terapeuticas-para-hepatite-b-e-coinfeccoes.
+30. Rehermann B, Ferrari C, Pasquinelli C, Chisari 38. Forton DM, Thomas HC, Murphy CA, Allsop JN,
+FV. The hepatitis B virus persists for decades Foster GR, Main J, et al. Hepatitis C and cog-
+after patients' recovery from acute viral hepatitis nitive impairment in a cohort of patients with
+despite active maintenance of a cytotoxic T-lym- mild liver disease. Hepatology [Internet]. 2002
+phocyte response. Nat Med [Internet]. 1996 Oct [cited 2020 Oct 15]; 35:433. Available from:
+[cited 2020 Oct 15]; 2(10):1104-8. Available https://doi.org/10.1053/jhep.2002.30688
+from: https://doi.org/10.1038/nm1096-1104
+39. Evon DM, Stewart PW, Amador J, Serper M, Lok AS,
+31. Liaw YF, Tsai SL, Sheen IS, Chao M, Yeh CT, Hsieh Sterling RK, et al. A comprehensive assessment
+SY. Clinical and virological course of chronic hepa- of patient reported symptom burden, medical co-
+titis B virus infection with hepatitis C and D virus morbidities, and functional well being in patients
+markers. Am J Gastroenterol [Internet]. 1998 Mar initiating direct acting antiviral therapy for chronic
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 1111
+Hepatites virais
+hepatitis C: results from a large US multi-center 47. Sablon E, Shapiro F. Advances in molecular diagnosis
+observational study. PLoS One [Internet]. 2018 Aug of HBV infection and drug resistance. Int J Med Sci
+[cited 2020 Oct 15]; 13(8):e0196908. Available from: [Internet]. 2005 [cited 2020 Oct 15]; 2(1):8-16.
+https://doi.org/10.1371/journal.pone.0196908 Available from: https://doi.org/10.7150/ijms.2.8
+40. Gill K, Ghazinian H, Manch R, Gish R. Hepatitis 48. Liang TJ. Hepatitis B: the virus and disease.
+C virus as a systemic disease: reaching beyond Hepatology [Internet]. 2009 May [cited 2020
+the liver. Hepatol Int [Internet]. 2016 [cited Oct 15]; 49(5 Suppl):S13-21. Available from:
+2020 Oct 15]; 10(3):415-23. Available from: https://doi.org/10.1002/hep.22881
+https://doi.org10.1007/s12072-015-9684-3
+49. Lau KCK, Joshi SS, Mahoney DJ, Mason AL, van Marle
+41. Ministério da Saúde (BR). Secretaria de Vigilância G, Osiowy C, et al. Differences in HBV replication,
+em Saúde. Departamento de Vigilância, Prevenção e APOBEC3 family expression, and inflammatory
+Controle das Infecções Sexualmente Transmissíveis, cytokine levels between wild-type HBV and pre-
+do HIV/Aids e das Hepatites Virais. Protocolo clínico -core (G1896A) or basal core promoter (A1762T/
+e diretrizes terapêuticas para hepatite c e coinfec- G1764A) mutants. Front Microbiol [Internet].
+ções [Internet]. Brasília: Ministério da Saúde; 2019 2020 Jul [cited 2020 Oct 15]; 11:1653. Available
+[citado 2020 out 15]. Disponível em: http://www. from: https://doi.org/10.3389/fmicb.2020.01653
+aids.gov.br/pt-br/pub/2017/protocolo-clinico-e-di-
+50. World Health Organization - WHO. Guidelines on
+retrizes-terapeuticas-para-hepatite-c-e-coinfeccoes
+hepatitis B and C testing [Internet]. Geneva: World
+42. Peeling RW, Boeras DI, Marinucci F, Easterbrook Health Organization; 2017 [cited 2020 Oct 15].
+P. The future of viral hepatitis testing: innova- Available from: https://www.who.int/hepatitis/
+tions in testing technologies and approaches. publications/guidelines-hepatitis-c-b-testing/en/
+BMC Infect Dis [Internet]. 2017 Nov [cited 2020
+51. Trépo C, Chan HLY, Lok A. Hepatitis B virus infec-
+Oct 15]; 17(Suppl 1):699. Available from: ht-
+tion. Lancet [Internet]. 2014 Dec [cited 2020 Oct
+tps://doi.org/10.1186/s12879-017-2775-0
+15]; 384(9959):2053-63. Available from: https://
+43. Easterbrook PJ, Roberts T, Sands A, Peeling
+doi.org/10.1016/S0140-6736(14)60220-8
+R. Diagnosis of viral hepatitis. Curr Opin HIV
+AIDS [Internet]. 2017 May [cited 2020 Oct 52. World Health Organization - WHO. Guidelines for
+15]; 12(3):302-314. Available from: https:// the care and treatment of persons diagnosed with
+doi.org/10.1097/COH.0000000000000370 chronic hepatitis C virus infection. Geneva: World
+Health Organization; 2018 [cited 2020 Oct 15].
+44. Ministério da Saúde (BR). Secretaria de Vigilância
+Available from: https://www.who.int/hepatitis/
+em Saúde. Departamento de Vigilância, Prevenção
+publications/hepatitis-c-guidelines-2018/en/
+e Controle das Infecções Sexualmente Transmis-
+síveis, do HIV/ Aids e das Hepatites Virais. Manual 53. Shin EC, Jeong SH. Natural history, clinical ma-
+técnico para o diagnóstico das hepatites virais nifestations, and pathogenesis of hepatitis A. Cold
+[Internet]. 2. ed. Brasília: Ministério da Saúde; Spring Harb Perspect Med [Internet]. 2018 Sep
+2018 [citado 2020 out 15]. Disponível em: http:// [cited 2020 Oct 25]; 8(9):a031708. Available from:
+www.aids.gov.br/pt-br/pub/2015/manual-tecni- https://doi.org/10.1101/cshperspect.a031708
+co-para-o-diagnostico-das-hepatites-virais
+54. Terrault NA, Lok ASF, McMahon BJ, Chang KM,
+45. Ntouva A, Sibal B, Balogun K, Mandal S, Harding Hwang JP, Jonas MM, et al. Update on prevention,
+N. Hepatitis A in primary care: working in partner- diagnosis, and treatment of chronic hepatitis B:
+ship for diagnosis, management, and prevention AASLD 2018 hepatitis B guidance. Clin Liver Dis
+of outbreaks. Br J Gen Pract [Internet]. 2019 Sep [Internet]. 2018 Aug [cited 2020 Oct 15]; 12(1):33-4.
+[cited 2020 Oct 15]; 69(687):521-2. Available Available from: https://doi.org/10.1002/cld.728
+from: https://doi.org/10.3399/bjgp19X705965
+55. Ministério da Saúde (BR). Secretaria de Vigilância
+46. Yin S, Barker L, Ly KN, Kilmer G, Foster MA, Drobeniuc em Saúde. Departamento de Imunização e Doenças
+J, Jiles RB. Susceptibility to hepatitis A virus infection Transmissíveis. Manual dos centros de referência
+in the United States, 2007-2016. Clin Infect Dis para imunobiológicos especiais [Internet]. Brasília:
+[Internet]. 2020 Mar [cited 2020 Oct 15]:ciaa298. Ministério da Saúde; 2019 [citado 2020 out 15].
+Available from: https://doi.org/10.1093/cid/ciaa298 Disponível em: https://portalarquivos2.saude.gov.
+12 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+br/images/pdf/2019/dezembro/11/manual-centros- 63. World Health Organization - WHO. Pre-
+-referencia-imunobiologicos-especiais-5ed.pdf vention of mother-to-child transmission of
+hepatitis B virus: guidelines on antiviral pro-
+56. Lok AS, Zoulim F, Dusheiko G, Ghany MG. He-
+phylaxis in pregnancy [Internet]. Geneva: World
+patitis B cure: from discovery to regulatory
+Health Organization; 2020 [cited 2020 Oct
+approval. J Hepatol [Internet]. 2017 [cited
+15]. Available from: https://apps.who.int/iris/
+2020 Oct 15]; 67(4):847-61. Available from: ht-
+bitstream/handle/10665/333391/9789240002708-
+tps://doi.org/10.1016/j.jhep.2017.05.008
+eng.pdf?sequence=1&isAllowed=y
+57. Kumar M, Sarin SK, Hissar S, Pande C, Sakhu-
+64. Hajarizadeh B, Grebely J, Martinello M, Matthews
+ja P, Sharma BC, et al. Virologic and histologic
+GV, Lloyd AR, Dore GJ. Hepatitis C treatment as
+features of chronic hepatitis B virus-infected asymp- prevention: evidence, feasibility, and challenges.
+tomatic patients with persistently normal ALT. Lancet Gastr Hepatol [Internet]. 2016 [cited 2020
+Gastroenterology [Internet]. 2008 May [cited Oct 15]; 1(4):317-27. Available from: https://
+2020 Oct 15]; 134(5):1376-84. Available from: doi.org/10.1016/S2468-1253(16)30075-9
+https://doi.org/10.1053/j.gastro.2008.02.075
+65. Duarte G, Coutinho CM, Metzker RC. Hepatites B
+58. Sinn DH, Lee J, Goo J, Kim K, Gwak GY, Paik YH, e C em gestantes. In: Madi JM, Araujo BF, Zatti H.
+et al. Hepatocellular carcinoma risk in chronic Doenças infecciosas na prática obstétrica e neonatal.
+hepatitis B virus-infected compensated cirrhosis Rio de Janeiro: Editora Rubio; 2008. p. 49-57.
+patients with low viral load. Hepatology [Internet].
+66. Seto MT, Cheung KW, Hung IFN. Management of viral
+2015 Sep [cited 2020 Oct 15]; 62(3):694-701. Avai-
+hepatitis A, C, D and E in pregnancy. Best Pract Res
+lable from: https://doi.org/10.1002/hep.27889
+Clin Obstet Gynaecol [Internet]. 2020 [cited 2020
+59. Brasil. Ministério da Saúde. Portaria MS/GM nº 204, Oct 15]; S1521-6934(20)30050-X. Available from:
+de 17 de fevereiro de 2016. Define a Lista Nacional https://doi.org/10.1016/j.bpobgyn.2020.03.009
+de Notificação Compulsória de doenças, agravos
+67. Duarte G. Extensão da assistência pré-natal ao
+e eventos de saúde pública nos serviços de saúde
+parceiro como estratégia de aumento da adesão
+públicos e privados em todo o território nacional, ao pré-natal e redução da transmissão vertical de
+nos termos do anexo, e dá outras providências infecções. Rev Bras Ginecol Obstet [Internet]. 2007
+[Internet]. Diário Oficial da União, Brasília (DF), abr [citado 2020 out 15]; 29(4):171-4. Disponível em:
+2016 fev 18 [citado 2020 out 15]; Seção 1:23. http://dx.doi.org/10.1590/S0100-72032007000400001
+Disponível em: https://bvsms.saude.gov.br/bvs/
+68. Ranger-Rogez S, Alain S, Denis F. Virus des hépatites:
+saudelegis/gm/2016/prt0204_17_02_2016.html
+transmission mère-enfant [Hepatitis viruses: mother
+60. Schillie SF, Murphy TV. Seroprotection after recom- to child transmission]. Pathol Biol (Paris) [Internet].
+binant hepatitis B vaccination among newborn 2002 Nov [cited 2020 Oct 15]; 50(9):568-75. Available
+infants: a review. Vaccine [Internet]. 2013 May from: https://doi.org/10.1016/s0369-8114(02)00351-6
+[cited 2020 Oct 15]; 31(21):2506-16. Available from:
+69. Rac MW, Sheffield JS. Prevention and ma-
+https://doi.org/10.1016/j.vaccine.2012.12.012
+nagement of viral hepatitis in pregnancy.
+61. Schönberger K, Riedel C, Rückinger S, Mansmann Obstet Gynecol Clin North Am [Internet]. 2014
+U, Jilg W, Kries RV. Determinants of long-term pro- [cited 2020 Oct 15]; 41(4):573-92. Available from:
+tection after hepatitis B vaccination in infancy: a https://doi.org/10.1016/j.ogc.2014.08.004
+meta-analysis. Pediatr Infect Dis J [Internet]. 2013
+70. Nelson NP, Weng MK, Hofmeister MG, Moore KL,
+[cited 2020 Oct 15]; 32(4):307-13. Available from: Doshani M, Kamili S, et al. Prevention of hepatitis
+https://doi.org/10.1097/INF.0b013e31827bd1b0 A virus infection in the united states: recommenda-
+tions of the advisory committee on immunization
+62. Yeo YH, Le MH, Chang ET, Henry L, Nguyen MH.
+practices, 2020. MMWR Recomm Rep [Internet].
+Prevalence of undetectable vaccine-induced
+2020 Jul [cited 2020 Oct 15]; 69(5):1-38. Available
+immunity against hepatitis B virus in US adults
+from: https://doi.org/10.15585/mmwr.rr6905a1
+at high risk for infection. Hepatology [Internet].
+2019 Apr [cited 2020 Oct 15]; 69(4):1385-97. Avai- 71. Cheung KW, Lao TT. Hepatitis B – vertical transmission
+lable from: https://doi.org/10.1002/hep.30285 and the prevention of mother-to-child transmission.
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 1133
+Hepatites virais
+Best Pract Res Clin Obstet Gynaecol [Internet]. 2020 79. Pan CQ, Duan Z, Dai E, Zhang S, Han G, Wang Y,
+Mar [cited 2020 Oct 15]; 68:78-88. Available from: et al. China study group for the mother-to-child
+https://doi.org/10.1016/j.bpobgyn.2020.02.014 transmission of hepatitis B. Tenofovir to prevent
+hepatitis B transmission in mothers with high
+72. Indolfi G, Easterbrook P, Dusheiko G, Siberry
+viral load. N Engl J Med [Internet]. 2016 Jun
+G, Chang MH, Thorne C, et al. Hepatitis B virus
+[cited 2020 Oct 15]; 374(24):2324-34. Available
+infection in children and adolescents. Lancet Gas-
+troenterol Hepatol [Internet]. 2019 Jun [cited from: https://doi.org/10.1056/NEJMoa1508660
+2020 Oct 15]; 4(6):466-76. Available from: https://
+80. Ayoub WS, Cohen E. Hepatitis B management
+doi.org/10.1016/S2468-1253(19)30042-1
+in the pregnant patient: an update. J Clin
+73. United States Preventive Services Task Force, Owens Transl Hepatol [Internet]. 2016 Sep [cited 2020
+DK, Davidson KW, Krist AH, Barry MJ, Cabana M, et al. Oct 15]; 4(3):241-7. Available from: https://
+Screening for hepatitis B virus infection in pregnant doi.org/10.14218/JCTH.2016.00014
+women: US preventive services task force reaffirmation
+81. National Institutes of Health (USA). Drugs and
+recommendation statement. JAMA [Internet]. 2019
+lactation database (LactMed) [Internet]. Bethes-
+Jul [cited 2020 Oct 15]; 322(4):349-54. Available
+da (MD): National Library of Medicine; 2020
+from: https://doi.org/10.1001/jama.2019.9365
+[cited 2020 Oct 15]. Available from: https://
+74. Ministério da Saúde (BR). Secretaria de Vigilância www.ncbi.nlm.nih.gov/books/NBK501744/
+em Saúde. Departamento de Vigilância, Prevenção e
+82. Society for Maternal-Fetal Medicine - SMFM, Dion-
+Controle das Infecções Sexualmente Transmissíveis,
+do HIV/ Aids e das Hepatites Virais. Protocolo clínico e ne-Odom J, Tita AT, Silverman NS. #38: Hepatitis B in
+diretrizes terapêuticas para prevenção da transmissão pregnancy screening, treatment, and prevention of
+vertical de HIV, sífilis e hepatites virais [Internet]. vertical transmission. Am J Obstet Gynecol [Internet].
+Brasília: Ministério da Saúde; 2019 [citado 2020 out 2016 Jan [cited 2020 Oct 15]; 214(1):6-14. Available
+15]. Disponível em: http://www.aids.gov.br/pt-br/ from: https://doi.org/10.1016/j.ajog.2015.09.100
+pub/2015/protocolo-clinico-e-diretrizes-terapeuti-
+83. Woodring J, Pastore R, Brink A, Ishikawa N, Takashi-
+cas-para-prevencao-da-transmissao-vertical-de-hiv
+ma Y, Tohme RA. Progress toward hepatitis B control
+75. Schillie S, Vellozzi C, Reingold A, Harris A, Haber and elimination of mother-to-child transmission
+P, Ward JW, et al. Prevention of hepatitis B virus of hepatitis B virus – Western Pacific Region, 2005-
+infection in the United States: recommendations 2017. MMWR Morb Mortal Wkly Rep [Internet]. 2019
+of the Advisory Committee on Immunization Mar [cited 2020 Oct 15]; 68(8):195-200. Available
+Practices. MMWR Recomm Rep [Internet]. 2018
+from: https://doi.org/10.15585/mmwr.mm6808a2
+Jan [cited 2020 Oct 15]; 67(1):1-31. Available
+from: https://doi.org/10.15585/mmwr.rr6701a1 84. Zheng H, Zhang GM, Chan PL, Wang FZ, Rodewald
+LE, Miao N, et al. Compliance among infants
+76. Lobstein S, Faber R, Tillmann HL. Prevalence of
+exposed to hepatitis B virus in a post-vaccination
+hepatitis B among pregnant women and its impact on
+serological testing program in four provinces
+pregnancy and newborn complications at a tertiary
+in China. Infect Dis Poverty [Internet]. 2019 Jul
+hospital in the eastern part of Germany. Digestion
+[cited 202 Oct 15]; 8(1):57. Available from: ht-
+[Internet]. 2011 [cited 2020 Oct 15]; 83(1-2):76-82.
+tps://doi.org/10.1186/s40249-019-0568-y
+Available from: https://doi.org/10.1159/000320455
+85. Huang H, Xu C, Liu L, Chen L, Zhu X, Chen J, et al.
+77. Pan CQ, Duan ZP, Bhamidimarri KR, Zou HB, Liang
+Increased protection of earlier use of immunopro-
+XF, Li J, et al. An algorithm for risk assessment and
+phylaxis in preventing perinatal transmission
+intervention of mother to child transmission of he-
+of hepatitis B virus. Clin Infect Dis [Internet].
+patitis B virus. Clin Gastroenterol Hepatol [Internet].
+2012 May [cited 2020 Oct 15]; 10(5):452-9. Available 2020 Jul [cited 2020 Oct 15]; ciaa898. Available
+from: https://doi.org/10.1016/j.cgh.2011.10.041 from: https://doi.org/10.1093/cid/ciaa898
+78. Kwon SY, Lee CH. Epidemiology and prevention of he- 86. Castillo E, Murphy K, van Schalkwyk J. No. 342-hepati-
+patitis B virus infection. Korean J Hepatol [Internet]. tis B and pregnancy. J Obstet Gynaecol Can [Internet].
+2011 Jun [cited 2020 Oct 15]; 17(2):87-95. Available 2017 [cited 202 Oct 15]; 39(3):181-90. Available
+from: https://doi.org/10.3350/kjhep.2011.17.2.87 from: https://doi.org/10.1016/j.jogc.2016.11.001
+14 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021
+Geraldo Duarte e colaboradores
+87. Ministério da Saúde (BR). Programa Nacional de 93. Benova L, Mohamoud YA, Calvert C, Abu-Raddad LJ.
+Imunização. Anexo V: instrução normativa refe- Vertical transmission of hepatitis C virus: systematic
+rente ao calendário nacional de vacinação 2020 review and meta-analysis. Clin Infect Dis [Inter-
+[Internet]. Brasília: Ministério da Saúde; 2019 net]. 2014 Sep [cited 2020 Oct 15]; 59(6):765-73.
+[citado 2020 out 15]. Disponível em: https://www. Available from: https://doi.org/10.1093/cid/ciu447
+saude.gov.br/images/pdf/2020/marco/04/Instru- 94. Society for Maternal-Fetal Medicine - SMFM,
+----o-Normativa-Calend--rio-Vacinal-2020.pdf Hughes BL, Page CM, Kuller JA. Hepatitis C in
+pregnancy: screening, treatment, and manage-
+88. Brasil. Ministério da Saúde. Secretaria de Ciência,
+ment. Am J Obstet Gynecol [Internet]. 2017 Nov
+Tecnologia, Inovação e Insumos Estratégicos em
+[cited 2020 Oct 15]; 217(5):B2-12. Available from:
+Saúde. Departamento de Gestão e Incorporação de
+https://doi.org/10.1016/j.ajog.2017.07.039
+Tecnologias e Inovação em Saúde. Portaria MS/
+SCTIE Nº 32, de 11 de agosto de 2020. Torna pública 95. Pappalardo BL. Influence of maternal human
+a decisão de incorporar a testagem universal para immunodeficiency virus (HIV) co-infection on
+hepatite viral C em gestantes no pré-natal, conforme vertical transmission of hepatitis C virus (HCV):
+protocolo do Ministério da Saúde, no âmbito do a meta-analysis. Int J Epidemiol [Internet]. 2003
+Sistema Único de Saúde – SUS [Internet]. Diário Oct [cited 202 Oct 15]; 32(5):727-34. Available
+from: https://doi.org/10.1093/ije/dyg107
+Oficial da União, Brasília (DF), 2020 ago 19 [citado
+2020 out 15]; Seção 1:18. Disponível em: http:// 96. Hadzic N. Hepatitis C in pregnancy. Arch Dis
+conitec.gov.br/images/Relatorios/Portaria/2018/ Child Fetal Neonatal Ed [Internet]. 2001 May
+Portaria_SCTIE_N42_05_10_2018.pdf [cited 2020 Oct 15]; 84(3):F201-4. Available from:
+https://dx.doi.org/10.1136%2Ffn.84.3.F201
+89. Jhaveri R, Broder T, Bhattacharya D, Peters MG,
+Kim AY, Jonas MM. Universal screening of pregnant 97. Page CM, Hughes BL, Rhee EHJ, Kuller JA. Hepa-
+women for hepatitis C: the time is now. Clin Infect Dis titis C in pregnancy: review of current knowledge
+[Internet]. 2018 [cited 2020 Oct 15]; 67(10):1493-7. and updated recommendations for management.
+Available from: https://doi.org/10.1093/cid/ciy586 Obstet Gynecol Surv [Internet]. 2017 [cited 2020
+Oct 15]; 72(6):347-55. Available from: https://
+90. Rossi RM, Wolfe C, Brokamp R, McAllister JM,
+doi.org/10.1097/OGX.0000000000000442
+Wexelblatt S, Warshak CR, Hall ES. Reported preva-
+98. Money D, Boucoiran I, Wagner E, Dobson S, Kennedy
+lence of maternal hepatitis C virus infection in the
+A, Lohn Z, et al. Obstetrical and neonatal outcomes
+United States. Obstet Gynecol [Internet]. 2020 Feb
+among women infected with hepatitis C and their
+[cited 2020 Oct 15]; 135(2):387-95. Available from:
+infants. J Obstet Gynaecol Can [Internet]. 2014 Sep
+https://doi.org/10.1097/AOG.0000000000003644
+[cited 2020 Dec 18];36(9):785-94. Available from:
+91. Conte D, Fraquelli M, Prati D, Colucci A, Minola E. Pre- https://doi.org/10.1016/S1701-2163(15)30480-1
+valence and clinical course of chronic hepatitis C virus
+99. Kushner T, Terrault NA. Hepatitis C in pregnancy:
+(HCV) infection and rate of HCV vertical transmission
+a unique opportunity to improve the hepatitis
+in a cohort of 15,250 pregnant women. Hepatology
+C cascade of care. Hepatol Commun [Internet].
+[Internet]. 2000 Mar [cited 2020 Oct 15]; 31(3):751-5.
+2018 Nov [cited 2020 Oct 15]; 3(1):20-8. Availa-
+Available from: https://doi.org/10.1002/hep.510310328
+ble from: https://doi.org/10.1002/hep4.1282
+92. Syriopoulou, V, Nikolopoulou G, Daikos GL, Theodo- 100. European Paediatric Hepatitis C Virus Network.
+ridou M, Pavlopoulou I, Nicolaidou P, et al. Mother Effects of mode of delivery and infant feeding on
+to child transmission of hepatitis C virus: rate of the risk of mother-to-child transmission of hepa-
+infection and risk factors. Scand J Infect Dis [Inter- titis C virus. BJOG [Internet]. 2001 Apr [cited 2020
+net]. 2005 [cited 202 Oct 15]; 37(5):350-3. Available Oct 15]; 108(4):371-7. Available from: https://
+from: https://doi.org/10.1080/00365540510032105 doi.org/10.1111/j.1471-0528.2001.00088.x
+Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021 1155
+Hepatites virais
+Abstract Resumen
+This article discusses viral hepatitis, a theme addressed Este artículo aborda las hepatitis virales, tema que
+by the Clinical Protocol and Therapeutic Guidelines to hace parte del Protocolo Clínico y Directrices Terapéuticas
+Comprehensive Care for People with Sexually Transmitted para la Atención Integral a Personas con Infecciones de
+Infections and, more precisely, by the Clinical Protocols Transmisión Sexual y más precisamente de los Protocolos
+and Therapeutic Guidelines for Hepatitis B and Hepatitis Clínicos y Guías Terapéuticas para Hepatitis B, Hepatitis
+C and Coinfections, published by the Brazilian Ministry of C y Coinfecciones, publicados por el Ministerio de Salud.
+Health. Besides the broad spectrum of health impairment, Además del amplio espectro de deterioro de la salud,
+hepatitis A, B and C viruses also present different forms los virus de las hepatitis A, B y C presentan diferentes
+of transmission, whether parenteral, sexual, vertical or formas de transmisión, como parenteral, sexual, vertical
+oral. Among the strategies suggested for the control of u oral. Entre las estrategias sugeridas para el control de
+viral hepatitis, in addition to behavioral measures, are las hepatitis virales, están las medidas conductuales,
+expanded diagnosis, early vaccination against hepatitis el diagnóstico ampliado, la vacunación precoz contra
+A and hepatitis B viruses, and access to available los virus de las hepatitis A y B y el acceso facilitado a
+therapeutic resources. Considering vertical transmission los recursos terapéuticos disponibles. Considerando
+of the hepatitis B and hepatitis C viruses, screening for la transmisión vertical de los virus de la hepatitis B
+pregnant women with chronic hepatitis B and C is an y C, la identificación de embarazadas portadoras
+important perinatal health strategy, indicating with crónicas de estos virus es importante estrategia de salud
+precision those who can benefit from the prophylactic perinatal, indicando quiénes pueden beneficiarse de las
+interventions. intervenciones profilácticas.
+Keywords: Hepatitis A; Hepatitis B; Hepatitis C; Palabras clave: Hepatitis A; Hepatitis B; Hepatitis C;
+Vaccines; Therapeutics; Disease Prevention. Vacunas; Terapéutica; Prevención de Enfermedades.
+Recebido em 08/09/2020
+Aprovado em 03/10/2020
+Editora associada: Isis Polianna Silva Ferreira de Carvalho – orcid.org/0000-0002-0734-0783
+16 Epidemiol. Serv. Saude, Brasília, 30(Esp.1):e2020834, 2021

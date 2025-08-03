@@ -1,0 +1,344 @@
+Ministério da Saúde
+Secretaria de Vigilância em Saúde e Ambiente
+Departamento de Doenças Transmissíveis
+Coordenação-Geral de Vigilância das Doenças em Eliminação
+NOTA TÉCNICA Nº 27/2023-CGDE/DEDT/SVSA/MS
+1. ASSUNTO
+1.1. Orientações sobre o fornecimento e uso do na Atenção Primária à Saúde - Código SIGTAP
+02.14.01.017-1, conforme preconizado pelo Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase.
+2. OBJETIVO
+2.1. Tomando por base a Portaria SCTIE/MS nº 84, de 31 de dezembro de 2021, a qual tornou pública
+a decisão de incorporar o teste imunocromatográfico para determinação qualitativa de anticorpos IgM
+anti-Mycobacterium leprae para diagnóstico complementar de hanseníase; a Portaria SAES/MS nº 189, de 09
+de junho de 2022 que incluiu procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e
+Materiais Especiais do Sistema Único de Saúde - SUS, a Portaria Conjunta SAES/SVSA nº 21, de 20 outubro de
+2023, que atualiza por exclusão, inclusão e alteração, procedimentos referentes a Hanseníase na Tabela de
+Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS e a Portaria SCTIE/MS nº 67,
+de 07 de julho de 2022, que aprovou o Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase (PCDT da
+Hanseníase), a presente Nota Técnica atualiza as informações dispostas na Nota Técnica nº 3/2023-
+CGDE/DEDT/SVSA/MS (0031641507) sobre o fornecimento e uso do teste rápido da hanseníase, no âmbito do
+SUS.
+3. INDICAÇÕES
+3.1. O teste rápido para a hanseníase, disponibilizado no SUS, é um teste imunocromatográfico capaz
+de determinar de forma qualitativa, a presença de anticorpos IgM anti-Mycobacterium leprae em amostras
+biológicas de sangue total; a determinação do resultado é realizada por análise visual, não necessitando de
+auxílio de outros equipamentos para leitura, devendo ser realizado em tempo inferior ou igual a 20 minutos;
+3.2. O PCDT da hanseníase define como contato “toda e qualquer pessoa que resida ou tenha
+residido, conviva ou tenha convivido com o doente de hanseníase, no âmbito domiciliar, nos
+últimos cinco anos anteriores ao diagnóstico da doença, podendo ser familiar ou não” (Capítulo
+13);
+3.3. Conforme o Fluxograma 3, do PCDT da Hanseníase - Investigação de contatos e (Figura 1), o teste
+rápido de hanseníase está indicado para avaliação de contatos de casos confirmados de hanseníase, nas
+seguintes condições:
+a)contatos de um caso de hanseníase que após a avaliação clínica, foi descartado o diagnóstico
+de hanseníase (diagnóstico clínico descartado);
+b)contatos de um caso de hanseníase que após o exame físico, os achados clínicos não foram
+suficientes para a confirmação do diagnóstico (alterações suspeitas inconclusivas).
+3.4. Os testes rápidos da hanseníase adquiridos e distribuídos pelo MS são destinados exclusivamente
+para fins assistenciais na rede pública de saúde, conforme determinado pelo PCDT da Hanseníase.
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 1
+Figura 1. Fluxograma de investigação de contatos na Atenção Primária à Saúde
+Fonte: Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, 2022.
+4. AMOSTRA BIOLÓGICA
+4.1. Apesar da tecnologia estar habilitada para uso de amostras biológicas de soro, plasma ou sangue
+total, por razões de operacionalização, deve-se dar preferência ao uso do sangue total coletado pela técnica
+da punção digital, de forma a facilitar a realização do teste após a avaliação clínica e não requerer estrutura
+laboratorial aprimorada.
+5. INFORMAÇÕES TÉCNICAS PARA O USO ADEQUADO
+5.1. Para garantir a obtenção de resultados com exatidão é imprescindível seguir rigorosamente a
+metodologia descrita na bula do kit;
+5.2. Pode-se consultar, também, a Bula Prática de leitura rápida com as principais orientações de uso
+do kit ou ainda, assistir ao vídeo mostrando o passo a passo para a execução do teste no sítio
+eletrônico: https://youtu.be/qkamgnIFCP4?si=9PwMvNJwNa5vfPyZ;
+5.3. Cada kit (caixa pequena/embalagem) contém insumos para realização de 5 testes rápidos;
+5.4. É importante o uso do volume correto de amostra (10 µL) e do diluente da amostra (2 gotas ou
+70 µL). Volumes inferiores ou superiores podem levar a resultados errôneos;
+5.5. A presença da linha vermelha na região do teste (T) em qualquer intensidade, fraca ou
+forte, quando estiver presente também a linha controle (C), indica resultado reagente;
+5.6. A intensidade da linha controle (C) pode variar de acordo com a amostra utilizada no teste;
+5.7. Os cassetes (dispositivos de teste) não apresentam substâncias contaminantes, mas como as
+amostras utilizadas são biológicas, as rotinas de biossegurança devem ser seguidas com rigor e o uso de
+luvas descartáveis é imprescindível;
+5.8. Deve-se tratar todas as amostras biológicas como potencialmente infecciosas;
+5.9. O envelope de alumínio que protege o cassete só deverá ser aberto no momento do uso do teste,
+visto que a estabilidade da tira reativa é de duas horas após a abertura do sachê de alumínio;
+5.10. O kit deve ser conservado entre 2°C e 30°C, protegidos da luz e do calor. Evitar exposição direta
+à luz solar e à umidade;
+5.11. Em hipótese alguma o kit poderá ser congelado ou exposto a altas temperaturas. Isto levará a
+deterioração do material;
+5.12. Caso o kit seja guardado sob refrigeração, deve ser assegurado que todos os componentes
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 2
+estejam em temperatura ambiente no momento de sua utilização;
+5.13. Não se deve reaproveitar os reagentes de um kit para outro, mesmo que sejam de mesmo lote;
+5.14. Devem ser utilizados apenas os insumos (diluente da amostra, pipeta plástica e lanceta
+descartável) inclusos no kit;
+5.15. O cassete, a pipeta e a lanceta são de uso único e individual, portanto, descartáveis e não podem
+ser reutilizados;
+5.16. Os materiais do kit que tiveram contato com o material biológico do paciente devem ter um
+descarte apropriado. O descarte das lancetas e das pipetas devem ser feitos em lixo perfurocortante. Os
+cassetes e frascos de diluente devem ser descartados em lixo biológico;
+5.17. Caixas, instrução de uso, envelope de alumínio e sachê de sílica podem ser descartados em lixo
+comum.
+6. INTERPRETAÇÃO DOS RESULTADOS
+6.1. Teste Reagente: Considera-se um teste reagente a formação de uma linha vermelha, em
+qualquer intensidade, fraca ou forte, na região teste (T) e outra linha na região controle (C) nos
+primeiros 15 a 20 minutos. O resultado não deve ser interpretado após os 20 minutos.
+Figura 2. Cassete indicando resultado reagente.
+6.2. Teste Não Reagente: Considera-se um teste não reagente, a formação de uma linha vermelha
+na região controle (C) e ausência completa de linha vermelha na região teste (T). O resultado não deve ser
+interpretado após os 20 minutos.
+Figura 3. Cassete indicando resultado não reagente.
+6.3. Teste Inválido: Considera-se um teste inválido, a ausência completa de linha na região controle
+(C) com ou sem linha vermelha na região teste (T). Neste caso, deve-se realizar um novo teste.
+Figura 4. Cassetes indicando resultados inválidos.
+6.4. É imprescindível que a equipe de saúde esteja ciente de que o resultado do teste rápido da
+hanseníase sempre deve estar associado a uma avaliação clínica bem executada (Quadro 1), conforme
+estabelecido no Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase;
+a)Teste rápido reagente, tanto para o contato sem sinais clínicos de hanseníase, quanto para o
+contato com alterações clínicas suspeitas e inconclusivas para hanseníase, indica que a pessoa
+teve contato com o M. leprae e passou a produzir anticorpos específicos anti-M. leprae. A
+presença desses anticorpos não confere proteção e indicam que a pessoa tem um risco maior
+de desenvolvimento da doença. Entretanto a detecção desses anticorpos não pode ser utilizada
+isoladamente como um teste diagnóstico para hanseníase, tendo em vista que indivíduos
+saudáveis podem apresentar a presença desses anticorpos, ao passo que casos confirmados,
+especialmente os paucibacilares, podem não apresentar esses anticorpos detectados pelo
+teste. Contatos assintomáticos que apresentaram teste reagente devem ser acompanhados
+ativamente, de forma anual, por 5 anos.
+b)O teste rápido não reagente não descarta a possibilidade de a pessoa estar doente. Assim, o
+contato que teve o exame clínico inconclusivo deve ser examinado pela atenção especializada
+para realização de uma nova avaliação clínica e, se necessário, realizar testes laboratoriais
+mais sensíveis, como por exemplo a pesquisa do M. leprae por biologia molecular (qPCR) em
+biópsia de pele ou de nervo. Os detalhes da investigação de contatos de caso de hanseníase na
+atenção especializada estão estabelecidos no fluxograma 4 do PCDT da Hanseníase.
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 3
+Teste
+Grupo Interpretação Conduta
+Rápido
+Caso de
+hanseníase Definir classificação operacional, grau de
+definido por Não incapacidade física, avaliar presença de
+-
+critérios clínicos, realizar reações hansênicas, notificar no SINAN
+na avaliação de Iniciar tratamento farmacológico
+contatos
+Encaminhar para investigação de contatos
+Não foram detectados de caso de hanseníase na Atenção
+Não
+anticorpos específicos IgM Especializada,
+Reagente
+anti-Mycobacterium leprae conforme Fluxograma 4 - PCDT da
+Hanseníase
+Solicitar baciloscopia do raspado
+intradérmico
+Se, IB = 0,0 (Baciloscopia negativa)
+Encaminhar para investigação de contatos
+de caso de hanseníase na Atenção
+Especializada,
+Contato de caso conforme Fluxograma 4 - PCDT da
+de hanseníase Foram detectados anticorpos Hanseníase
+com alterações específicos IgM
+clínicas anti-Mycobacterium leprae na Se, IB > 0,0 (Baciloscopia positiva)
+inconclusivas amostra analisada. A Caso de hanseníase definido como
+para hanseníase Reagente presença desses anticorpos multibacilar.
+indica que a pessoa teve Definir grau de incapacidade física, avaliar
+contato com o M. leprae e presença de reações hansênicas, notificar no
+portando tem um risco maior SINAN
+de desenvolver a hanseníase
+Iniciar tratamento farmacológico
+** Importante: Se IB ≥ 2,0 (Baciloscopia
+positiva)
+Iniciar tratamento farmacológico de primeira
+linha e encaminhar para avaliação da
+resistência primária, conforme Fluxograma 5
+– Diagnóstico e tratamento da resistência
+primária no M. leprae a antimicrobianos
+Avaliar a necessidade de dose de Vacina
+BCG, conforme histórico vacinal
+Não foram detectados
+Não Orientar quanto aos sinais e sintomas da
+anticorpos específicos IgM
+Reagente hanseníase e a importância de se realizar o
+anti-Mycobacterium leprae
+autoexame. Em caso de aparecimento de
+algum desses sintomas procurar o serviço de
+saúde
+Avaliar a necessidade de dose de Vacina
+Contato de caso
+BCG, conforme histórico vacinal
+de hanseníase
+sem alterações
+Foram detectados anticorpos Iniciar a vigilância ativa com avaliação anual
+clínicas
+específicos IgM na Atenção Primária à Saúde por cinco anos
+sugestivas de
+anti-Mycobacterium leprae na a contar da primeira avaliação
+hanseníase
+amostra analisada
+(assintomático)
+A cada ano, o contato sem alterações
+Reagente
+A presença desses anticorpos clínicas sugestivas de hanseníase deverá
+indica que a pessoa teve passar por uma nova avaliação clínica e caso
+contato com o M. leprae e permaneça assintomático deverá realizar um
+portando tem um risco maior novo teste rápido
+de desenvolver a hanseníase
+Fluxograma 3 – Investigação de contatos de
+caso de hanseníase na Atenção Primária à
+Saúde - PCDT da Hanseníase
+Quadro 1. Interpretação de resultados e condutas a serem adotadas na avaliação de contatos.
+Fonte: Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, 2022.
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 4
+7. EXECUÇÃO DO PROCEDIMENTO E EMISSÃO DE LAUDO
+7.1. A execução do teste poderá ser realizada, tanto por profissionais da saúde de nível médio,
+quanto de nível superior.
+7.2. Consoante a Portaria SAES/MS nº 189, de 09 de junho de 2022 que incluiu procedimentos na
+Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde
+- SUS, a Portaria Conjunta SAES/SVSA nº 21, de 20 outubro de 2023, que atualiza por exclusão, inclusão e
+alteração, procedimentos referentes a Hanseníase na Tabela de Procedimentos, Medicamentos, Órteses,
+Próteses e Materiais Especiais do SUS, estão aptos para a execução do teste, os profissionais: Farmacêutico,
+Farmacêutico analista clínico, Enfermeiro, Enfermeiro da estratégia de saúde da família, Biólogo, Biomédico,
+Médico clínico, Médico de família e comunidade, Médico da estratégia de saúde da família, Técnico de
+enfermagem, Auxiliar de enfermagem, Técnico de enfermagem da estratégia de saúde da família e Auxiliar
+de enfermagem da estratégia da saúde da família;
+7.3. A emissão do laudo é restrita a profissionais de saúde de nível superior: Farmacêutico,
+Farmacêutico analista clínico, Enfermeiro, Enfermeiro da estratégia de saúde da família, Biólogo, Biomédico,
+Médico clínico, Médico de família e comunidade, Médico da estratégia de saúde da família.
+7.4. O resultado do teste deverá ser disponibilizado de forma impressa conforme modelo (Figura 5).
+Figura 5. Modelo de laudo para o teste rápido da hanseníase.
+Fonte: Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase, 2022.
+8. REGISTRO DA SOLICITAÇÃO
+8.1. Os registros de solicitação deverão ser efetuados utilizando o código de
+procedimento 02.14.01.017-1 - Teste rápido para avaliação de contatos de hanseníase, estabelecido no
+Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos do SUS (SIGTAP).
+9. TECNOVIGILÂNCIA
+9.1. Tecnovigilância é o sistema de vigilância de eventos adversos e queixas técnicas de produtos
+para a saúde na fase de pós-comercialização, com vistas a recomendar a adoção de medidas que garantam
+a proteção e a promoção da saúde da população. A Tecnovigilância visa à segurança sanitária de produtos
+para saúde pós-comercialização (Equipamentos, Materiais, Artigos Médico-Hospitalares, Implantes e Produtos
+para Diagnóstico de Uso "in-vitro");
+9.2. Evento adverso é qualquer efeito não desejado, em humanos, decorrente do uso de produtos
+para a saúde, como equipamento ou artigo médico hospitalar;
+9.3. Queixas técnicas são suspeitas de alterações em produtos ou irregularidades de
+empresas. Exemplos: produtos que quebram ou travam, sem registro, falsificados, problemas na rotulagem
+ou instruções de uso;
+9.4. Assim, todos os eventos adversos, ou queixas técnicas decorrentes do uso do teste rápido da
+hanseníase devem ser notificados à Agência Nacional de Vigilância Sanitária - Anvisa, em Tecnovigilância -
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 5
+Notificações, bem como o Serviço de Assessoria ao Cliente, indicado na embalagem do produto.
+10. RESPONSABILIDADES DA GESTÃO FEDERAL
+10.1. Financiar e adquirir de maneira centralizada este insumo, realizando a devida distribuição ao
+estados e ao Distrito Federal;
+10.2. Receber e armazenar os insumos em local apropriado, garantindo a sua efetiva distribuição, em
+conformidade com a sua validade, dentro do período de consumo, obedecendo critérios de aceitabilidade
+para a manutenção da regularidade no abastecimento da rede pública de saúde;
+10.3. Promover articulação junto às Secretarias Estaduais e Municipais de Saúde para a definição de
+estratégias e padronização dos fluxos relacionados à programação, aquisição, distribuição, monitoramento
+de estoques, bem como para a definição de procedimentos comuns para a efetivação do acesso;
+10.4. Realizar e apoiar a capacitação de gestores e profissionais de saúde;
+10.5. Ofertar suporte técnico aos gestores, com atuação na Assistência e Vigilância em Saúde, para
+esclarecimentos de divergências e padronização de estratégias para a promoção do uso racional da
+tecnologia;
+10.6. Garantir a disponibilidade dos sistemas eletrônicos para a efetiva transmissão de dados.
+11. RESPONSABILIDADES DA GESTÃO ESTADUAL E DO DISTRITO FEDERAL
+11.1. Receber e armazenar os insumos em local apropriado, garantindo a sua efetiva distribuição, em
+conformidade com a sua validade, dentro do período de consumo, obedecendo critérios de aceitabilidade
+para a manutenção da regularidade no abastecimento da rede pública municipal de saúde;
+11.2. Realizar e apoiar a capacitação de gestores municipais e profissionais de saúde, em consonância
+as normativas do SUS, visando o acesso e uso racional da tecnologia;
+11.3. Aprimorar e disponibilizar regularmente, as informações sobre estoque, distribuição e uso;
+11.4. Notificar as autoridades competentes sobre as suspeitas de eventos adversos e queixas técnicas,
+de produtos para a saúde que possam comprometer ou colocar em risco a saúde do usuário -
+Tecnovigilância.
+12. RESPONSABILIDADES DA GESTÃO MUNICIPAL E DO DISTRITO FEDERAL
+12.1. Receber e armazenar os insumos em local apropriado, em conformidade com a sua validade,
+dentro do período de consumo, obedecendo critérios de aceitabilidade, garantindo a efetiva oferta aos
+serviços do SUS;
+12.2. Realizar e apoiar a capacitação de gestores e profissionais de saúde municipais, em consonância
+as normativas do SUS, visando o acesso e uso racional da tecnologia;
+12.3. Realizar a distribuição às unidades municipais e locais de saúde, ou conforme organização
+regional, em consonância com as políticas e legislações sanitárias vigentes;
+12.4. Aprimorar e disponibilizar regularmente, as informações sobre estoque, distribuição e uso;
+12.5. Notificar as autoridades competentes sobre as suspeitas de eventos adversos e queixas técnicas,
+de produtos para a saúde que possam comprometer ou colocar em risco a saúde do usuário -
+Tecnovigilância.
+13. CONSIDERAÇÕES IMPORTANTES
+13.1. O teste rápido da hanseníase, no âmbito do SUS, está aprovado para uso exclusivo na
+investigação de contatos de casos confirmados de hanseníase;
+13.2. Por se tratar de um teste que busca a detecção de anticorpos específicos anti-M. leprae, a
+detecção destes não pode ser utilizada isoladamente como um teste de diagnóstico para a hanseníase;
+13.3. A aplicabilidade do teste deve seguir rigorosamente as diretrizes estabelecidas no Protocolo
+Clínico e Diretrizes Terapêuticas da Hanseníase;
+13.4. O contato de um caso de hanseníase deverá ser esclarecido previamente pela equipe de saúde
+sobre a importância da realização do teste;
+13.5. Dúvidas deverão ser encaminhadas para a Coordenação-Geral de Vigilância de Doenças em
+Eliminação, no Ministério da Saúde, por meio do e-mail: cgde@saude.gov.br;
+14. REFERÊNCIAS
+1. BRASIL. Presidência da República. Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços
+correspondentes e dá outras providências. Brasília. Disponível
+em: http://www.planalto.gov.br/ccivil_03/Leis/L8080.htm.
+2. BRASIL. Presidência da República. Lei nº 12.401, de 28 de abril de 2011. Altera a Lei nº
+8.080, de 19 de setembro de 1990, para dispor sobre a assistência terapêutica e a incorporação de
+tecnologia em saúde no âmbito do Sistema Único de Saúde - SUS. Brasília. Disponível
+em: http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12401.htm.
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 6
+3. BRASIL. Presidência da República. Decreto nº 7.508, de 28 de junho de 2011. Regulamenta a
+Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a organização do Sistema Único de Saúde - SUS,
+o planejamento da saúde, a assistência à saúde e a articulação interfederativa, e dá outras providências.
+Brasília. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7508.htm.
+4. BRASIL. Presidência da República. Decreto nº 7.646, de 21 de dezembro de 2011. Dispõe
+sobre a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde e sobre o processo
+administrativo para incorporação, exclusão e alteração de tecnologias em saúde pelo Sistema Único de
+Saúde - SUS, e dá outras providências. Brasília. Disponível
+em: http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2011/Decreto/D7646.htm.
+5. BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+em Saúde. Departamento de Doenças de Condições Crônicas. Protocolo Clínico e Diretrizes
+Terapêuticas da Hanseníase. [recurso eletrônico]. Brasília, DF: 2022. Disponível
+em: https://bvsms.saude.gov.br/bvs/publicacoes/protocolo_clinico_diretrizes_terapeuticas_hanseniase.pdf .
+Acesso em: 18 jan. 2023.
+6. BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+em Saúde. Portaria SCTIE/MS n.º 84, de 31 de dezembro de 2021. Torna pública a decisão de
+incorporar, no âmbito do Sistema Único de Saúde - SUS, o teste rápido imunocromatográfico para
+determinação qualitativa de anticorpos IgM anti-Mycobacterium leprae para diagnóstico complementar de
+hanseníase. Brasília, DF:MS,2021. Disponível em: https://www.gov.br/conitec/pt-
+br/midias/relatorios/portaria/2021/20220103_portaria_84.pdf.
+7. BRASIL. Ministério da Saúde. Secretária de Atenção Especializada à Saúde. Departamento de
+Regulação, Controle e Avaliação. Portaria SAES/MS n.º 189, de 9 de junho de 2022. Inclui
+procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do
+Sistema Único de Saúde – SUS: TESTE RÁPIDO PARA DETECÇAO DE ANTICORPOS IgM anti-Mycobacterium
+leprae. Brasília, DF:MS,2022. Disponível
+em: https://bvsms.saude.gov.br/bvs/saudelegis/saes/2022/prt0189_29_06_2022.html.
+8. COMISSÃO NACIONAL DE INCORPORAÇÃO DE TECNOLOGIAS NO SUS. Relatório de
+Recomendação n.º 689. Teste rápido imunocromatográfico para determinação qualitativa de anticorpos
+IgM anti-Mycobacterium leprae para diagnóstico complementar de Hanseníase. Brasília, DF: CONITEC, 2021.
+Disponível em: https://www.gov.br/conitec/pt-br/midias/relatorios/2021/20220103_relatorio_teste-
+rapido_hanseniase_689.pdf . Acesso em: 18 jan. 2023.
+9. Quibasa Química Básica Ltda. Instrução de Uso Bioclin FAST ML FLOW Hanseníase.
+Disponível: https://quibasa.bioclin.com.br/anexos/BIOCLIN_FAST_ML_FLOW_TRILINGUE_OUT.2022.pdf . Acesso
+em: 18 jan. 2023.
+10. Quibasa Química Básica Ltda. Bula Prática Bioclin FAST ML FLOW Hanseníase. Disponível:
+https://quibasa.bioclin.com.br/anexos/BP_BIOCLIN_FAST_%20ML%20FLOW_OUT2022.pdf. Acesso em: 18 jan.
+2023.
+Atenciosamente,
+SANDRA MARIA BARBOSA DURÃES
+Coordenação-Geral de Vigilância das Doenças em Eliminação
+De acordo,
+ALDA MARIA DA CRUZ
+Diretora do Departamento de Doenças Transmissíveis
+Documento assinado eletronicamente por Alda Maria da Cruz, Diretor(a) do Departamento de Doenças
+Transmissíveis, em 09/11/2023, às 12:18, conforme horário oficial de Brasília, com fundamento no § 3º, do
+art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de
+2017.
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 7
+Documento assinado eletronicamente por Sandra Maria Barbosa Durães, Coordenador(a)-Geral de
+Vigilância das Doenças em Eliminação, em 09/11/2023, às 20:19, conforme horário oficial de Brasília, com
+fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,
+informando o código verificador 0037053631 e o código CRC 18D4FF10.
+Referência: Processo nº 25000.014779/2023-76 SEI nº 0037053631
+Coordenação-Geral de Vigilância das Doenças em Eliminação - CGDE
+Esplanada dos Ministérios, Bloco G - Bairro Zona Cívico-Administrativa, Brasília/DF, CEP 70058-900
+Site - saude.gov.br
+Nota Técnica 27 (0037053631) SEI 25000.014779/2023-76 / pg. 8

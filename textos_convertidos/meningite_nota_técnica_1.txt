@@ -1,0 +1,576 @@
+NOTA TÉCNICA
+Meningite: orientações sobre vigilância
+epidemiológica, laboratorial e
+imunização.
+Nº 01 | 16/10/2023
+Governador do Estado do Ceará
+APRESENTAÇÃO
+Elmano de Freitas da Costa
+Secretário da Saúde do Ceará A meningite é uma doença grave e se configura
+Tânia Mara Silva Coelho
+como um grande desafio à saúde pública. Sem
+tratamento imediato e adequado, a infecção
+Secretária Executiva de Vigilância em
+Saúde e Regulação pode progredir rapidamente e resultar em morte
+Antônio Silva Lima Neto
+ou ocasionar sérias sequelas ao paciente.
+Coordenadora de Vigilância
+Epidemiológica e Prevenção A vacinação é considerada a forma mais eficaz
+em Saúde
+na prevenção da meningite bacteriana, sendo
+Ana Maria Peixoto Cabral Maia
+as vacinas específicas para determinados
+agentes etiológicos. O Ministério da Saúde -
+Direção do Laboratório Central de Saúde
+Pública - CE MS, por meio do Programa Nacional de
+Liana Mello Perdigão
+Imunizações - PNI, disponibiliza vacinas para
+crianças e adolescentes, considerando que
+Coordenadora de Imunização
+Ana Karine Borges Carneiro estes são mais suscetíveis ao adoecimento.
+Orientadora da Célula de Vigilância
+Portanto, a Secretaria da Saúde do Estado do
+Epidemiológica das Doenças
+Transmissíveis e Não Transmissíveis Ceará (SESA), por meio da Célula de Vigilância
+Juliana Alencar Moreira Borges
+Epidemiológica das Doenças Transmissíveis e
+Elaboração e revisão Não Transmissíveis da Coordenadoria de
+Ana Karine Borges Carneiro
+Vigilância Epidemiológica e Prevenção em
+Iara Holanda Nunes
+Juliana Alencar Moreira Borges Saúde (COVEP), Coordenadoria de Imunização
+José Levi Tavares Cavalcante
+(COIMU) e Laboratório Central de Saúde
+Mateus de Sousa Leite Oliveira
+Nayara de Castro Costa Jereissati Pública (LACEN-CE), vem por meio desta Nota
+Pâmela Maria Costa Linhares
+Técnica orientar sobre as ações que devem
+Karene Ferreira Cavalcante
+Karizya Holanda Veríssimo
+ser tomadas frente a um caso suspeito de
+Rebeca Porto Rosa
+Stephany Arruda Santos meningite, com ênfase nos eixos de vigilância
+epidemiológica, laboratorial e imunização.
+1 CONTEXTUALIZAÇÃO
+A meningite é uma séria infecção das meninges, membranas que envolvem o cérebro e medula
+espinhal. Trata-se de uma doença altamente debilitante e que continua a representar um
+imenso desafio para a área da saúde pública. Essa enfermidade pode ser desencadeada por
+diversos agentes patogênicos, como bactérias, fungos e vírus, e por agentes não infecciosos
+(ex.: traumatismo cranioencefálico) (WHO, 2023).
+Neste documento, vale ressaltar que as bactérias são os microorganismos de maior
+importância do ponto de vista etiológico da meningite, devido ao seu potencial de causar
+surtos, sendo o Streptococcus pneumoniae, o Haemophilus influenzae e o Neisseria
+meningitidis os mais prevalentes. A rápida identificação de casos é importante para permitir a
+instituição oportuna de tratamento ao paciente, e, a administração correta da quimioprofilaxia
+nos contatos dos casos suspeitos ou confirmados, nas situações cabíveis.
+2 VIGILÂNCIA EPIDEMIOLÓGICA
+A vigilância epidemiológica da meningite tem como principais objetivos: monitorar a situação
+epidemiológica das meningites de importância para a saúde pública; orientar a utilização das
+medidas de prevenção e controle e detectar precocemente surtos (BRASIL, 2022).
+Trata-se de uma doença de notificação compulsória, logo, todo caso suspeito de meningite
+adquirida na comunidade deve ser comunicada pelo meio mais rápido possível para as
+autoridades competentes, por profissionais da área de assistência, vigilância, e pelos
+laboratórios públicos e privados, mediante contato por telefone, e-mail ou outras formas de
+comunicação. A notificação deve ser registrada no Sistema de Informação de Agravos de
+Notificação (Sinan), por meio do preenchimento da Ficha de Investigação de Meningite (Brasil,
+2022). A figura 1 apresenta a definição de caso suspeito de meningite, exposta na versão
+atualizada do Guia de Vigilância em Saúde, publicada em 2022.
+Figura 1. Definição de caso suspeito de meningite
+1. Crianças acima de 1 ano de idade e adultos com febre, cefaléia, vômitos, rigidez da nuca,
+sinais de irritação meníngea (Kernig, Brudzinski), convulsões e/ou manchas vermelhas no
+corpo.
+2. Em crianças menores de 1 ano de idade, os sintomas clássicos anteriormente referidos podem
+não ser tão evidentes. Para a suspeita diagnóstica, é importante considerar sinais de
+irritabilidade, como choro persistente, e verificar a existência de abaulamento de fontanela.
+2.1 Quem deve notificar?
+A notificação deve ser realizada diante da suspeita, pelo profissional ou serviço de saúde
+que tenha o primeiro contato com o paciente na rede.
+2.2 Como investigar adequadamente?
+É considerada investigação adequada as fichas de notificação com as variáveis “punção
+lombar”, “classificação do caso”, “especificação do caso“, “critério de confirmação”,
+“evolução” e “data de encerramento” preenchidas.
+Este preenchimento tem como objetivo avaliar a capacidade da vigilância epidemiológica dos
+municípios em realizar a investigação dos casos suspeitos de meningite de forma adequada.
+As variáveis escolhidas foram consideradas relevantes para o processo de desencadeamento
+de medidas de prevenção e controle da doença. Destaca-se a relevância desses campos,
+uma vez que precisamos de uma melhor informação sobre os casos investigados.
+2.3 Como classificar os casos suspeitos?
+Os casos suspeitos devem ser classificados como confirmados ou descartados, e, se
+confirmados, apontar a classificação da meningite, conforme o recorte da ficha de
+notificação exposto na figura 2. Além disso, é importante que o critério de confirmação seja
+especificado na ficha, conforme as opções do campo 52.
+Figura 2. Campos da ficha de notificação de caso suspeito de meningite para
+preenchimento da classificação do caso e etiologia.
+Fonte: BRASIL, 2007.
+2.4 Manejo e Controle de Surtos
+Os surtos de meningites bacterianas são um desafio para a saúde pública, por causa do alto
+potencial de morbimortalidade. A conduta diante desses casos é dependente de algumas
+variáveis, como a identificação de vínculo epidemiológico entre os casos, das faixas etárias
+acometidas, da distribuição geográfica e de outros riscos, e tem como objetivo interromper a
+cadeia de transmissão e evitar a ocorrência de novos casos.
+Para acesso às demais definições de
+termos importantes na investigação de
+surtos de meningite, checar o
+Guia de Vigilância em Saúde, 5ª edição,
+2022.
+A vacinação de bloqueio em casos de surtos
+caracterizados está indicada para os quadros em que
+sejam identificados o patógeno e o sorogrupo por meio
+de confirmação laboratorial específica (cultura e/ou
+PCR) e que haja vacina eficaz disponível.
+Porém, segundo o Guia de Vigilância em Saúde, a
+adoção e a estratégia de vacinação, será realizada a
+partir de decisão conjunta das três esferas de gestão,
+considerando a análise epidemiológica, as
+características da população e a área geográfica de
+ocorrência dos casos.
+3 VIGILÂNCIA LABORATORIAL
+A confirmação do agente causador é de extrema importância no diagnóstico laboratorial de
+casos suspeitos de meningite, tanto durante o curso endêmico da doença quanto em situações
+de surto. Os espécimes coletados devem ser inicialmente processados no laboratório local, a fim
+de orientar a conduta médica, e, posteriormente, encaminhados ao Laboratório Central de
+Saúde Pública (LACEN). Os principais exames para o esclarecimento diagnóstico de casos
+suspeitos são:
+1 - Cultura microbiológica de líquido cefalorraquidiano (LCR), sangue e raspado de
+lesões petequiais. É considerada padrão ouro para diagnóstico da doença meningocócica e
+para as demais meningites bacterianas, por ter alto grau de especificidade. Tem como objetivo o
+isolamento da bactéria para identificação da espécie, e posteriormente o sorogrupo, sorotipo e
+sorossubtipo.
+2 - Exame quimiocitológico do LCR. Inclui as dosagens de glicose, celularidade e proteínas
+do LCR, traduz a intensidade do processo infeccioso e orienta a suspeita clínica, mas não deve
+ser utilizado para conclusão do diagnóstico final, pelo baixo grau de especificidade.
+3 - Bacterioscopia direta em LCR, amostras de raspagem de petéquias e outros fluidos
+estéreis. A coloração do LCR pela técnica de GRAM permite, ainda que com baixo grau de
+especificidade, caracterizar morfológica e tintorialmente as bactérias.
+4 – Diagnóstico ampliado com PCR multiplex nested (Pesquisa Sindrômica) – Permite a
+detecção molecular do agente envolvido na infecção, diferenciando e identificando 14 agentes
+entre vírus, bactérias e um complexo fúngico, que podem estar presentes em quadros de
+meningites/encefalites.
+A seguir, estão as orientações para os períodos recomendados de coleta para as amostras
+biológicas de sangue e líquor após decisão de uso do antimicrobiano:
+Líquor - recomenda-se que a coleta Sangue - recomenda-se que as
+das amostras seja feita antes do início amostras destinadas à cultura
+do uso de antimicrobiano ou minutos microbiológica devem ser coletadas
+antes do horário da próxima antes do início do uso de
+administração. antimicrobiano ou minutos antes do
+horário da próxima administração.
+O quadro 1 relaciona o tipo de meningite com o exame laboratorial indicado, conforme Guia
+de Vigilância Epidemiológica com adaptações do Manual de Coleta, Acondicionamento e
+Transporte de amostras do LACEN, publicado no ano de 2022. A figura 3 oferece mais
+detalhes sobre o PCR Multiplex. A figura 4 mostra as condutas de vigilância epidemiológica e
+laboratorial frente a casos suspeitos de meningite.
+Quadro 1 – Orientações para coleta, acondicionamento e transporte de amostras destinadas
+ao diagnóstico das Meningites/Encefalites no LACEN - CE
+Amostra
+Agravo Método Período de coleta Armazenamento
+necessária
+Coleta no ato do Frasco com meio de ágar
+Meningite Cultura atendimento (a chocolate inclinado
+1 mL de líquor
+bacteriana Microbiológica partir do 1º dia do (incubar em atmosfera de CO²
+início dos sintomas) a 35 - 37°C)
+*Incubação em estufa
+Coleta no ato do
+automatizada (35 - 37°C), na
+Meningite Hemocultura Sangue atendimento (a
+unidade,
+bacteriana (cultura microbiológica) (volume total do frasco) partir do 1º dia do
+ou **envio dos frascos para
+início dos sintomas)
+incubação no LACEN
+Líquor: de 2ºC a 8°C
+2 mL de líquor Coleta no ato do
+(geladeira) até 5 dias.
+Meningite Pesquisa Sindrômica atendimento (a
+bacteriana (PCR Multiplex) e Sangue partir do 1º dia do
+Sangue: Incubação estufa
+(frasco de hemocultura) início dos sintomas)
+(35 - 37ºC)
+Líquor: de 2ºC a 8°C
+Coleta no ato do (geladeira), envio imediato, se
+Meningite
+Pesquisa Sindrômica 2 mL líquor atendimento (a não for possível, poderá ficar
+viral /
+(PCR Multiplex) partir do 1º dia do sob refrigeração por até 5
+Encefalite
+início dos sintomas) dias.
+2 mL líquor +
+Amostras Envio imediato ao LACEN,
+fragmento de Coleta durante a
+Post Cultura mantendo as amostras em
+SNC + 1 mL de necropsia
+mortem Microbiológica temperatura ambiente.
+Sangue
+Envio imediato ao LACEN,
+Amostras
+Pesquisa Sindrômica 2 mL líquor + mantendo as amostras sob
+Post Coleta durante a
+(PCR Multiplex) 1 mL de Sangue refrigeração, 2ºC a 8°C
+mortem necropsia
+(geladeira)
+Fonte: LACEN CEARÁ, 2022.
+Atenção
+*Incubação em estufa automatizada na unidade de origem: Os frascos deverão ser incubados em estufas automatizadas na
+unidade de origem e dado andamento na cultura microbiológica na própria unidade. Após o isolamento do agente, a
+unidade deverá enviar o isolado ao LACEN, em placas de Petri vedadas com plástico filme.
+**Incubação dos frascos de Hemocultura no LACEN: Para unidades que optem por somente coletar as amostras e enviar ao
+LACEN para incubação, de forma alguma, os frascos de hemocultura deverão ter incubação prévia. A incubação deverá
+ocorrer somente no LACEN e a coleta deverá ser realizada em frascos compatíveis com o equipamento do LACEN.
+Para as unidades que NÃO possuem a capacidade de
+incubação dos frascos de hemocultura, o LACEN poderá
+fornecer os frascos para coleta e realizar a posterior
+incubação. A unidade deverá solicitar os frascos por meio
+de ofício, sinalizando se a coleta será realizada em adulto
+ou criança.
+O PCR Multiplex é uma técnica que permite, com apenas uma amostra de líquor, a
+investigação simultânea de diversos possíveis agentes etiológicos do quadro de
+Meningite/Encefalite. Essa técnica é utilizada pelo FilmArray® Meningitis/Encephalitis (ME)
+Panel para investigar os seguintes microorganismos:
+Bactérias Fungo Vírus
+-Streptococcus -Cryptococcus -CMV
+agalactiae neoformans/gattii -HHV-6
+-Streptococcus
+-Enterovirus
+-Vírus da varicela zoster
+pneumoniae
+-HSV-1
+-Haemophilus influenzae
+-HSV-2
+-Listeria monocytogenes
+-Parechovirus
+-Escherichia coli K1
+-Neisseria meningitidis
+Figura 3 – Fluxograma de condutas de vigilância epidemiológica e laboratorial frente a
+casos suspeitos de meningite
+Fonte: LACEN CEARÁ, 2023.
+Legenda: PCR: Reação em Cadeia da Polimerase
+*Caso ocorra presença de petéquias
+Documentos para envio: Laudo quimiocitológico com bacterioscopia, Formulários para
+envio de amostras ao LACEN (vide anexos), xerox da notificação do SINAN (legível).
+Figura 4 – Descentralização do diagnóstico de biologia molecular das meningites no Ceará
+Superintendência
+Regional de Saúde
+Superintendência
+Norte
+Regional de Saúde
+Fortaleza
+Superintendência
+Regional de Saúde
+Sertão Central
+Superintendência
+Regional de Saúde
+Litoral Leste
+Superintendência
+Regional de Saúde
+Cariri
+Superintendências Regionais de
+Saúde
+Fonte: LACEN CEARÁ, 2023.
+Municípios CE
+Localização do município com diagnóstico de biologia molecular para meningite
+PCR Multiplex nested
+(Sistema Filmarray - Painel Meningite/Encefalite)
+O diagnóstico das meningites por meio da biologia molecular foi descentralizado para a região
+do Cariri em 2021 e desde então, o LACEN Cariri (Juazeiro) realiza cultura Microbiológica
+e PCR em tempo real Multiplex nested, sem a necessidade de envio das amostras para
+análise em Fortaleza. A descentralização do diagnóstico laboratorial é uma das estratégias
+que fortalecem o diagnóstico precoce das Meningites no Ceará. O LACEN Cariri atende a
+toda região no âmbito assistencial e analisa amostras oriundas do Serviço de
+Verificação de Óbito.
+NOTA - Aos Laboratórios Locais
+Conforme estabelecido na NOTA INFORMATIVA N°17/2019-CGLAB/DAEVS/SVS/MS, as cepas de
+N.meningitidis, S.pneumoniae e H.influenzae e isolados de fluidos de pacientes com doença invasiva
+devem ser encaminhadas ao LACEN (Fortaleza e Cariri) para estudo complementar.
+A ilustração abaixo (figura 4) exemplifica como se deve proceder quanto a inserção das
+informações do paciente no Gerenciador de Ambiente Laboratorial (GAL). Ressalta-se que o
+cadastro no GAL é idêntico para coleta adulta e pediátrica .
+Figura 4 - Orientações sobre cadastro no GAL
+Finalidade: investigação
+CADASTRO NO GAL
+Descrição: Doença meningocócica
+e outras meningites
+Doença/Agravo: meningite
+Caso: suspeito
+Nova amostra: Líquor, sangue,
+líquor e/ou sangue*
+Nova pesquisa: meningite**
+Campo observação: Colocar se o paciente está em uso de antimicrobiano; Informar se
+a coleta foi realizada na vigência de antimicrobiano (qual) e qual a dose.
+*Cadastro de “Nova amostra” a depender das matrizes biológicas coletadas.
+**No GAL, a pesquisa meningite já abrange: cultura, microscopia (GRAM), teste de
+sensibilidade e PCR em tempo real.
+4 MEDIDAS DE PREVENÇÃO E CONTROLE - QUIMIOPROFILAXIA
+Os objetivos das medidas de prevenção e controle visa o impedimento de ocorrência de
+casos secundários entre os contatos próximos de um caso suspeito da doença, bem como
+a prevenção da meningite entre crianças e adolescentes.
+Contatos Próximos
+Contatos próximos são os moradores do mesmo domicílio,
+indivíduos que compartilham o mesmo dormitório (em
+alojamentos, quartéis, entre outros), comunicantes de
+creches e escolas, e pessoas diretamente expostas às
+secreções do paciente.
+4.1 Indicação de Quimioprofilaxia – Doença Meningocócica
+A quimioprofilaxia somente está indicada para contatos próximos de casos suspeitos de
+doença meningocócica (Neisseria meningitidis). Os casos secundários são raros, e
+geralmente ocorrem nas primeiras 48 horas a partir do primeiro caso. O risco de doença
+entre os contatos próximos é maior durante os primeiros dias após o início da doença, o
+que requer que a quimioprofilaxia seja administrada o mais rápido possível.
+O antibiótico de escolha para a quimioprofilaxia é a rifampicina, que deve ser administrada
+em dose adequada e simultaneamente a todos os contatos próximos, preferencialmente
+até 48 horas da exposição à fonte de infecção (doente), considerando o prazo de
+transmissibilidade e o período de incubação da doença. Alternativamente, o número de
+pessoas e o ambiente de convívio dos contatos (ex: quartéis; escolas) outros antibióticos
+podem ser utilizados para a quimioprofilaxia (Quadro 2).
+Quadro 2. Esquema quimioprofilático para Doença Meningocócica
+DROGA IDADE DOSE INTERVALO DURAÇÃO
+<1 mês 5 mg/kg/dose 12 em 12 horas
+Rifampicina 10 mg/kg/dose 2 dias
+Crianças ≥1 mês e adultos 12 em 12 horas
+(máx de 600 mg)
+<12 anos 125 mg, intramuscular
+Ceftriaxona Dose única
+≥12 anos 250 mg, intramuscular —
+Ciprofloxacino > 18 anos 500 mg, uso oral Dose única
+Fonte: BRASIL, 2022.
+4.2 Indicação de Quimioprofilaxia – Haemophilus influenzae
+Em um cenário de um caso de meningite por Haemophilus Influenzae tipo B, somente a
+rifampicina é recomendada para a quimioprofilaxia de meningite causada por este agente
+etiológico porque atinge altas concentrações nas secreções respiratórias e erradica o H.
+influenzae tipo B da nasofaringe de aproximadamente 95% dos portadores. Em relação às
+gestantes, esse medicamento tem sido utilizado para quimioprofilaxia, pois não há evidências
+de que a rifampicina possa apresentar efeitos teratogênicos. A relação risco/benefício do uso
+de antibióticos pela gestante deverá ser avaliada pelo médico assistente. Salienta-se que,
+caso não seja possível a realização da identificação do sorogrupo, ainda assim,
+recomenda-se a realização da quimioprofilaxia.
+Quadro 3. Esquema quimioprofilático para meningite por Haemophilus influenzae
+AGENTE INTERVALO DURAÇÃO
+DROGA FAIXA ETÁRIA DOSE
+ETIOLÓGICO (HORAS) (DIAS)
+Adultos 600 mg/dose 24 em 24 horas 4
+20 mg/kg/dose
+≥ 1 mês até 10 anos 24 em 24 horas 4
+H. influenzae Rifampicina (dose máx. de 600 mg)
+10 mg/kg/dose
+< 1 mês 24 em 24 horas 4
+(dose máx. de 600 mg)
+Fonte: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância em Saúde -
+Brasília: Ministério da Saúde, 2022.
+A quimioprofilaxia está indicada para os contatos próximos de casos suspeitos de meningite
+por H. influenzae tipo b nas situações a seguir elencadas:
+• No domicílio, para os contatos próximos, de qualquer idade, que tenham pelo menos
+um contato com criança menor que 4 anos não vacinada ou parcialmente vacinada, ou
+com criança imunocomprometida, independentemente da situação vacinal. Em creches e
+escolas maternais, está indicada quando dois ou mais casos de doença invasiva ocorreram
+em um intervalo de até 60 dias. Nessa situação, a quimioprofilaxia deve ser prescrita para
+todas as crianças, independentemente da idade ou do status vacinal, e para os cuidadores.
+• Também é indicada para o doente em tratamento, caso não esteja recebendo
+cefalosporina de terceira geração.
+Atenção!
+Não há recomendação de quimioprofilaxia para os profissionais da
+área da saúde, exceto para aqueles que realizaram procedimentos
+invasivos (intubação orotraqueal, passagem de cateter nasogástrico)
+sem utilização de equipamento de proteção individual (EPI)
+adequado.
+Observação: Se a notificação do caso foi feita após as 48h e antes de dez dias do início
+dos sintomas a quimioprofilaxia ainda pode e deve ser realizada. Os contatos devem
+ser monitorados em relação ao aparecimento de sintomas sugestivos de doença
+meningocócica: criança acima de nove meses e/ou adulto com febre, cefaléia, vômitos,
+rigidez de nuca, outros sinais de irritação meníngea (Kernig e Brudzinski), convulsões,
+sufusões hemorrágicas (petéquias) e torpor. Crianças abaixo de nove meses observar
+também irritabilidade (choro persistente) ou abaulamento de fontanela - durante o
+período de dez dias após o contato com o caso. Após dez dias não existe mais
+indicação de quimioprofilaxia.
+5 DESCENTRALIZAÇÃO DA RIFAMPICINA NO CEARÁ
+Diante da necessidade de realização da
+quimioprofilaxia, com o propósito de viabilizar o acesso
+a este medicamento de forma oportuna, cada
+Superintendência Regional de Saúde (SRS) possui um
+estoque estratégico da rifampicina. O quantitativo
+distribuído conforme descrito no quadro 4, é superior
+na SR Fortaleza, território que apresenta a maior
+concentração de casos confirmados de meningite.
+Quadro 4. Quantitativo da Rifampicina por Superintendência Regional de Saúde, Ceará,
+2022.
+ESTOQUE*
+SUPERINTENDÊNCIA DROGA
+Cápsulas (300 MG) Suspensão (100 MG/5ml - 50 ml)
+FORTALEZA 300 60
+NORTE 100 10
+LITORAL LESTE Rifampicina 100 10
+SERTÃO CENTRAL 100 10
+CARIRI 100 10
+Fonte: CEVEP/COVEP/SEVIG/SESA, 2023. *O quantitativo por SR pode sofrer alterações conforme
+cenário epidemiológico e situação de abastecimento do insumo a nível nacional.
+Adequando-se à realidade do estado do Ceará, a figura 5 mostra o fluxo de solicitação de
+rifampicina para quimioprofilaxia dos contatos de casos confirmados de meningite
+Figura 5. Fluxo de solicitação de rifampicina para quimioprofilaxia dos contatos
+de casos confirmados de meningite, Ceará, 2023.
+Fonte: CEVEP/COVEP/SEVIG/SESA, 2023
+6 IMUNIZAÇÃO
+A vacinação é considerada a forma mais eficaz na prevenção da meningite bacteriana, sendo
+as vacinas específicas para determinados agentes etiológicos.
+Embora as crianças sejam a população de maior risco para o adoecimento, os adolescentes e
+adultos jovens são os principais responsáveis pela manutenção da circulação da doença na
+comunidade, em decorrência de elevadas taxas de portador do meningococo em nasofaringe,
+tais indicações justificam a recomendação do Ministério da Saúde em manter a cobertura
+vacinal adequada e homogênea, conferindo não apenas a proteção individual, como
+também coletiva, com o intuito de reduzir o número de portadores da bactéria em
+nasofaringe.
+Sabe-se ainda que, há uma queda dos títulos de anticorpos em lactentes e crianças poucos
+anos após a vacinação, o que indica a necessidade de doses de reforços, sobretudo na
+adolescência.
+Em relação aos adolescentes, as vacinas meningocócicas demonstram uma robusta resposta
+imune, com persistência dos títulos de anticorpos protetores por um longo período até a fase
+adulta, contribuindo para redução dos casos da doença.
+Desta forma, não apenas direcionadas para o público alvo de crianças, mas de adolescentes,
+as vacinas são fundamentais para prevenção e controle da circulação da doença.
+A vacinação é considerada a forma
+mais eficaz na prevenção da
+meningite bacteriana
+1166
+6.1 Vacinas disponíveis contra Meningite
+As vacinas contra o meningococo são sorogrupo ou sorossubtipo específicas. São utilizadas
+na rotina para imunização e também para controle de surtos.
+Atualmente, o Ministério da Saúde - MS, por meio do Programa Nacional de Imunizações -
+PNI, disponibiliza as vacinas BCG, Pentavalente (difteria, tétano, coqueluche, hepatite b e
+haemophilus B), Pneumocócica 10v, Meningocócica C e Meningocócica ACWY para a
+prevenção da meningite (Figura 6)
+Figura 6. Vacinas disponíveis contra Meningite.
+Pneumocócica 10v
+BCG Pentavalente
+Duas doses (2 e 4 meses) e
+Dose única (ao nascer) Três doses (2, 4 e 6 meses)
+reforço (12 meses)
+Meningocócica C
+Meningocócica ACWY
+Duas doses (3 e 5 meses) e
+Dose única (11 e 12 anos)*
+reforço (12 meses)
+Vacina BCG
+A vacina BCG previne contra formas graves de tuberculose (como a meníngea) e é indicada
+para crianças menores de 5 anos de idade, devendo ser administrada o mais precocemente
+possível, de preferência na maternidade, logo após o nascimento.
+Presente desde o primeiro calendário nacional de vacinação em 1977.
+Nota: Desde 2019, a revacinação não é recomendada para as crianças que não
+desenvolveram a cicatriz vacinal.
+Vacina Pentavalente
+Indicada para prevenção contra meningite causada pelo H. Influenzae tipo B, a vacina
+Pentavalente é recomendada, na rotina dos serviços públicos de vacinação, para crianças
+até 6 (seis) anos 11 meses e 29 dias, sendo contraindicada para crianças a partir de 7 (sete)
+17
+anos de idade. No calendário de vacinação desde 2012.
+Vacina Pneumocócica 10v
+Responsável por prevenir contra doenças invasivas e otite média aguda causadas por
+Streptococcus pneumoniae, a Pneumocócica 10v é indicada para crianças menores de 5
+anos de idade. No calendário Nacional de Vacinação desde 2010.
+A vacina é feita com tecnologia de ponta e é responsável pela diminuição da mortalidade e
+hospitalização das crianças de até cinco anos no País. A utilização da vacina pneumocócica
+promove uma redução expressiva dos casos de pneumonia e doenças pulmonares.
+Vacina Meningocócica C
+A vacina Meningocócica C, implantada na rotina de vacinação da criança em 2010, protege
+contra meningite causada pela Neisseria meningitidis do sorogrupo C e é indicada para
+crianças menores de 5 anos de idade. No calendário Nacional de Vacinação desde 2010.
+Quando um bebê nasce, o organismo não possui as defesas necessárias para
+combater infecções de origem externa, como vírus e bactérias. As vacinas possuem
+um importante papel, diminuindo os riscos de doenças e possibilitando um
+crescimento saudável. Durante o primeiro ano de vida, o bebê recebe um número
+maior de vacinas, diferente de outras etapas da infância e vida adulta.
+Vacina Meningocócica ACWY
+Em 2020, a vacina Meningocócica ACWY foi implantada na rotina dos serviços de vacinação
+e é indicada para adolescentes de 11 e 12 anos de idade.
+A vacina meningocócica ACWY foi ampliada
+temporariamente (até dezembro de 2023)
+para adolescentes de 11 a 14 anos de idade
+6 IMUNIZAÇÃO
+6.2 Coberturas Vacinais
+Ao analisar a série histórica das Coberturas Vacinais - CV das vacinas contra meningite em
+crianças menores de um ano de idade, no período de 2018 a 2023, observa-se que, no
+estado do Ceará, houve uma queda dos índices de vacinação entre os anos de 2019 e 2021.
+Os anos de 2022 e 2023 apresentam um cenário favorável em relação ao alcance da meta
+preconizada por vacina, porém a heterogeneidade em todas as vacinas acende um alerta
+para a necessidade de estratégias de vacinação complementares, considerando a existência
+de bolsões de suscetíveis não vacinados ou com esquemas incompletos (Figura 7).
+Figura 7. Série Histórica de Cobertura Vacinal das Vacinas contra Meningite, Ceará, 2018 -
+2023.
+Fonte: SIPNI.Datasus.Acesso em 14/06/2023.* Dados preliminares, referente ao período de janeiro a março,
+sujeitos a alterações.
+1199
+6 IMUNIZAÇÃO
+Figura 8. Cobertura Vacinal das Vacinas contra Meningite, Ceará, 2023.
+Fonte: SIPNI.Datasus. Acesso em 14/06/2023.* Dados preliminares, referente ao período de janeiro a março,
+sujeitos a alterações.
+Para a vacina Meningicócica ACWY, visto que o esquema é composto por uma única dose
+sendo independente de registro anterior, a cobertura vacinal é analisada a partir de uma
+coorte de vacinados desde o ano de 2020, quando a vacina foi incorporada no PNI para o
+grupo de adolescentes, e estima a população alvo vacinada na faixa etária preconizada pelo
+Ministério da Saúde. Ao verificar os resultados, constata-se que, a CV do Ceará corresponde
+a 44,1%, sendo destaque a faixa etária de 12 anos, que apresenta uma CV de 65% superior
+à totalidade do estado. Ressalta-se que o MS recomenda o alcance da meta de 80% ou mais
+de CV (Figura 8).
+2200
+6 IMUNIZAÇÃO
+Figura 8. Cobertura Vacinal da vacina Meningocócica ACWY em adolescentes de 11 e 12 anos,
+Ceará - Coorte de vacinados 2020 - 2023.
+Fonte: SIPNI.Datasus.Acesso em 14/06/2023.* Dados preliminares, referente ao período de janeiro a março, sujeitos
+a alterações.
+6.3 Recomendações
+Considerando a importância em alcançar as metas de vacinação preconizadas pelo MS,
+faz-se algumas recomendações aos gestores municipais com o intuito de evitar casos de
+doença meningocócica:
+● Intensificar a vacinação de rotina nas unidades e elaborar estratégias de vacinação
+com o objetivo de atualizar a caderneta de vacinação das crianças e adolescentes;
+● Mobilizar os profissionais das unidades de saúde e integrar as demais equipes;
+● Resgatar esta população não vacinada ou com esquema incompleto para as vacinas
+preconizadas no calendário básico de vacinação;
+● Realizar articulações intersetoriais, tais como, com a Secretaria de Educação,
+Assessoria de Comunicação, sociedades científicas, líderes comunitários, dentre
+outros, reforçando a importância da vacinação;
+● Enfatizar a publicação da Lei. 16.929, de 09 de julho de 2019, que trata da
+obrigatoriedade da apresentação da caderneta de vacinação no ato da matrícula e
+rematrícula escolar, na qual as escolas poderão avaliar a situação vacinal dos alunos.
+2211
+6.4 Campanha Nacional de Multivacinação
+As atividades de vacinação de alta qualidade (Avaq) são executadas por meio do Programa
+Nacional de Imunizações (PNI) na Região das Américas, no programa de rotina e em
+campanhas de seguimento, intensificações e ações extramuros, e têm sido um sucesso há
+mais de 40 anos, sendo a principal responsável pela eliminação e controle de várias doenças
+preveníveis por vacinas.
+Diante disso, e da extrema necessidade de retomada das coberturas vacinais, será realizada
+uma estratégia de Campanha de Multivacinação, com atualização de caderneta de
+vacinação (vacinação seletiva), direcionada para crianças e adolescentes até 15 anos de
+idade.
+Período: 30 de setembro a 14 de outubro de 2023
+Para mais informações, consultar:
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao/avaq
+7 REFERÊNCIAS
+BRASIL. Ministério da Saúde. Portaria de Consolidação Nº 4, de 28 de setembro de 2017. Ministério da Saúde.
+Secretaria de Vigilância em Saúde. Coordenação-Geral de Desenvolvimento da Epidemiologia em Serviços.
+Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0004_03_10_2017.html#ANEXOVCAPISECII. Acesso em:
+05 fev. 2022.
+BRASIL. Guia de Vigilância em Saúde [recurso eletrônico] / Ministério da Saúde, Secretaria de Vigilância em
+Saúde. Coordenação-Geral de Desenvolvimento da Epidemiologia em Serviços. – 5. ed. – Brasília : Ministério da
+Saúde, 2021. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/guia_vigilancia_saude_5ed.pdf Acesso
+em: 10 fev. 2022.
+BRASIL. Fluxo de encaminhamento de cepas de Neisseria meningitidis, Streptococcus pneumoniae e
+Haemophilus influenzae dos Laboratórios Locais para os Laboratórios Centrais de Saúde Pública – Lacen
+e para o Instituto Adolfo Lutz de São Paulo – Laboratório de Referência Nacional para as Meningites Bacterianas
+e Infecções Pneumocócicas Invasivas. Nota Informativa Nº 17/2019-CGLAB/DAEVS/SVS/MS.
+BRASIL. Coordenação-Geral de Doenças Transmissíveis. Sistema de Informação de Agravos de Notificação.
+Doenças e Agravos: Meningite. Disponível em: http://portalsinan.saude.gov.br/meningite. Acesso em: 22 ago
+2023.
+CEARÁ. Secretaria da Saúde do Estado do Ceará. Boletim Epidemiológico Meningite, 2022. Disponível em:
+https://www.saude.ce.gov.br/download/boletins/. Acesso em: 11 fev. 2022.
+WHO.World Health Organization. Newsroom Meningitis. Disponível em:
+https://www.who.int/news-room/fact-sheets/detail/meningitis#:~:text=Signs%20and%20symptoms&text=Common
+%20symptoms%20of%20meningitis%20are,or%20weakness%20of%20the%20limbs). Acesso em: 22 ago 2023.
+7 ANEXOS
+(CLIQUE NOS LINKS ABAIXO PARA ACESSO AOS ARQUIVOS)
+ORIENTAÇÕES PARA O EXAME DE PCR MULTIPLEX – DIAGNÓSTICO
+SINDRÔMICO – NÚMERO: FOR. 548.059
+FORMULÁRIO PARA DIANÓSTICO DE MENINGITES - PESQUISA SINDRÔMICA POR
+SISTEMA DE PCR MULTIPLEX - FILMARRAY NÚMERO: FOR.548.052
+FORMULÁRIO DE INCLUSÃO DE PACIENTES PARA DIAGNÓSTICO DE SEPSE POR
+SISTEMA DE PCR MULTIPLEX - FILMARRAY NÚMERO: FOR.548.053
+SINAN- FICHA DE NOTIFICAÇÃO E INVESTIGAÇÃO MENINGITE
+GUIA DE VIGILÂNCIA EM SAÚDE

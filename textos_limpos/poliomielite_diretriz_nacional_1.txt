@@ -1,0 +1,2795 @@
+APRESENTAÇÃO 13
+1 INTRODUÇÃO 15
+1.1 Características geográficas e populac ionais do Brasil 17
+1.2 Antecedentes do controle da poliomielite no Brasil 18
+2 OBJETIVOS 21
+2.1 Objetivo geral 23
+2.2 Objetivos específicos 23
+3 ESTRUTURA DO PAÍS PARA RESPOSTA A EVENTO
+OU SURTO DE POLIOMIELITE 25
+3.1 Departamento do Programa Nacional de Imunizações 27
+3.1.1 Vigilância da paralisia flácida aguda – PFA 28
+3.2 Coordenação-Geral de Laboratórios de Saúde Pública – CGLAB 29
+3.3 Centro de Informações Estratégicas em Vigilância em Saúde
+– Cievs 31
+3.4 Rede Nacional de Vigilância Epidemiológica Hospitalar – Renaveh 32
+3.5 Atenção Primária à Saúde – APS 33
+3.6 Secretaria de Atenção Especializada à Saúde – Saes 38
+3.7 Secretaria de Saúde Indígena – Sesai 39
+4 PREPARAÇÃO 41
+4.1 Mecanismo de gestão 43
+4.2 Definição das equipes responsáveis 45
+4.3 Solicitação e uso das vacinas poliomielite 46
+4.4 Plano preliminar de capacitação 46
+4.5 Plano preliminar de comunicação e mobilização social 48
+4.5.1 Público-alvo x objetivos de comunicação 48
+4.5.2 Mensagens-chave para uma comunicação efetiva 48
+4.5.3 Medidas estratégicas 49
+4.6 Plano preliminar de supervisão 49
+4.7 Orçamento preliminar 50
+4.8 Preparação para a equipe de resposta rápida – equipe
+de apoio internacional 52
+4.9 A importância da vacinação contra a poliomielite em tempos
+da covid-19 52
+5 DEFINIÇÕES 53
+5.1 Definição dos eventos de detecção e dos surtos causados
+por poliovírus 55
+5.2 Poliovírus derivado da vacina 55
+6 DETECÇÃO, NOTIFICAÇÃO E INVESTIGAÇÃO – CRONOLOGIA 57
+7 DETECÇÃO DE POLIOVÍRUS TIPO 2 61
+7.1 Notificação 63
+7.2 Investigação 64
+7.3 Metodologia da avaliação de risco 66
+7.3.1 A natureza do vírus – PVS, Sabin ou PVDV 67
+7.3.2 Avaliação da extensão geográfica da transmissão e risco
+de propagação 69
+7.4 Avaliação e classificação de risco de transmissão posterior
+de poliovírus do sorotipo 2 70
+7.5 Fatores que influenciam o tipo e a magnitude da resposta 72
+7.6 Tomada de decisões 73
+7.7 Resposta diante da confirmação de um evento ou surto 74
+7.7.1 Vacinação 74
+7.7.2 Solicitação da vacina 75
+7.7.3 Organização das etapas de vacinação 76
+7.7.4 Viajantes 77
+7.8 Encerramento e validação final do surto 77
+7.9 Vigilância pós-evento ou surto 79
+8 DETECÇÃO DE POLIOVÍRUS 1 E 3 81
+8.1 Notificação de poliovírus 1 e 3 83
+8.2 Investigação 84
+8.2.1 Investigação dos casos e dos contatos 84
+8.2.2 Busca ativa de casos institucional e comunitária 84
+8.2.3 Análise de coberturas 85
+8.2.4 Diagnóstico laboratorial 85
+8.3 Avaliação de risco 87
+8.4 Resposta a detecção de poliovírus 1 e 3 87
+8.5 Encerramento do surto 89
+9 DETECÇÃO DE EVENTOS DE POLIOVÍRUS E SURTOS
+DE POLIOMIELITE NO AMBIENTE 91
+9.1 Definição de eventos de detecção e de surtos causados
+por poliovírus 94
+9.2 Detecção 95
+9.3 Notificação 95
+9.4 Investigação 95
+9.5 Avaliação de risco 98
+9.6 Resposta 98
+10 APOIO DOS ALIADOS DA GPEI AOS PAÍSES EM SUA
+RESPOSTA DIANTE DOS SURTOS 99
+10.1 Responsabilidades das autoridades de saúde e seus aliados 101
+10.2 Políticas fundamentais da GPEI para otimizar a resposta
+ao surto 101
+10.2.1 Política de reforço da resposta 101
+10.2.2 Política de “prevenção sem arrependimento” 102
+11 VOPM2 – MANEJO, MONITORAMENTO, DESTRUIÇÃO
+E ELIMINAÇÃO 103
+11.1 Manejo da VOPm2 105
+11.2 Monitoramento da distribuição da VOPm2 106
+11.3 Destruição e eliminação segura da VOPm2 106
+REFERÊNCIAS 109
+ANEXOS 113
+Anexo A – Notificação da poliomielite segundo o Regulamento
+Sanitário Internacional 114
+Anexo B – Informações necessárias para análise de risco 116
+Anexo C – Encerramento do surto por PVS e cPVDV 121
+Anexo D – Vacinação de resposta a evento por tipo de poliovírus 122
+Anexo E – Vacinação de resposta a surto por tipo de poliovírus 125
+Anexo F – Principais passos e cronograma para componentes
+críticos para resposta a um evento ou surto de poliomielite 131
+Anexo G – Estratégias de resposta após a detecção de um
+poliovírus derivado da vacina 132
+Anexo H – Valiação da qualidade da resposta: fatores a serem
+considerados antes, durante e após a implementação 133
+Anexo I – Avaliação de risco: Resumo dos elementos para
+a avaliação sistemática de risco de um novo isolamento PVDV,
+PVS ou Sabin Like2 135
+Anexo J – Cronograma e ações no primeiro mês após a detecção
+do poliovírus 139
+Anexo K – Cronograma e responsabilidade pelas atividades
+de resposta ao surto desde o Dia 0 até o término do surto 142
+caracterizada por um quadro de paralisia flácida, de início súbito, que ocorre
+em aproximadamente 1% das infecções causadas pelo poliovírus. O déficit
+motor instala-se subitamente e sua evolução, frequentemente, não ultrapassa
+três dias. Acomete, em geral, os membros inferiores, de forma assimétrica,
+tendo como principais características flacidez muscular – com sensibilidade
+preservada – e arreflexia no segmento atingido. Os sinais e os sintomas podem
+variar de pessoa a pessoa, e a sequela é irreversível. Não há tratamento
+específico, todos os casos devem ser hospitalizados, procedendo-se ao
+tratamento de suporte de acordo com o quadro clínico.
+Em 1999, foi detectado o último caso de poliomielite causada pelo poliovírus
+selvagem tipo 2 (PVS2) em todo o mundo; entretanto, o poliovírus Sabin tipo 2
+(Sabin 2) foi responsável pela maioria dos casos de poliovírus circulante
+derivado da vacina (cPVDV), detectados a partir do ano 2000, e de uma pro-
+porção substancial dos casos de poliomielite paralítica associada à vacina.
+vacina oral trivalente poliomielite (VOPt) após a erradicação mundial da
+poliomielite, o Plano estratégico integral para a erradicação da poliomielite
+e a fase final 2013-2018, elaborado pela Iniciativa Global de Erradicação da
+Poliomielite (GPEI, por sua sigla em inglês), orientou a todos os países que
+utilizavam somente a VOPt em seu esquema de vacinação, introduzir pelo
+menos uma dose de vacina inativada poliomielite (1, 2 e 3) (VIP) no esquema
+de rotina, antes de retirar o componente tipo 2 da vacina oral, mediante
+a mudança sincronizada no âmbito mundial da VOPt pela vacina oral polio-
+mielite bivalente (VOPb), que contém somente os sorotipos 1 e 3.
+Como consequência da retirada da VOP2, em abril de 2016, estima-se que
+haverá diminuição progressiva da imunidade da população, especialmente
+a imunidade intestinal para o tipo 2, o que aumentará o risco de um surto
+epidêmico em caso de exposição a um poliovírus do sorotipo 2, devido
+(PVDV). Por esse motivo, a detecção de qualquer poliovírus tipo 2 (selvagem,
+vacinal ou derivado da vacina Sabin) em qualquer amostra, de qualquer
+procedência, é considerada uma emergência mundial de saúde pública
+que requer uma resposta rápida e coordenada no âmbito mundial, nacional,
+estadual e municipal.
+Primária à Saúde (APS), nos centros de referência e atenção de alta
+causados por qualquer poliovírus do tipo 2, bem como para os poliovírus
+selvagem e PVDV dos tipos 1 e 3, considerando o risco de importação
+é endêmica (Paquistão e Afeganistão) e o uso da VOPb, que pode ocasionar
+a emergência de PVDV em áreas com muito baixas coberturas vacinais,
+diante das necessidades apresentadas pela pessoa acometida.
+14 Ministério da Saúde | Secretaria de Vigilância em Saúde
+1.1 CARACTERÍSTICAS GEOGRÁFICAS E
+FIGURA 1 – MAPA POLÍTICO DO BRASIL
+Fonte: NT-AID/CGPINI/DEIDT/MS,4.1 MECANISMO DE GESTÃO
+No País, o Ministério da Saúde coordena as ações de preparação, vigilância,
+monitoramento, alerta e resposta às emergências em saúde pública, incluindo
+de gestão do SUS.
+O Comitê de Monitoramento de Eventos de Saúde Pública (CME), é conduzido
+pela Coordenação-Geral do Centro de Informações Estratégicas de Vigilância
+em Saúde (CGCIEVS), do Departamento de Emergências em Saúde Pública, da
+técnicas e secretarias do Ministério da Saúde e demais órgãos. Nesse comitê,
+da captura de rumores pelo Cievs Nacional. A partir das reuniões, as tomadas
+de decisão para os principais eventos são discutidas.
+A partir da detecção de casos suspeitos e/ou confirmados de poliovírus no
+Brasil, ou do risco elevado de reintrodução da doença no País e, a partir do
+monitoramento da situação epidemiológica no CME, o Cievs Nacional deverá
+realizar a avaliação de risco do evento, levando em consideração a probabilidade
+e o impacto da doença no País, para recomendar a ativação de uma estrutura de
+resposta, como uma Sala de Situação em Saúde ou de um Centro de Operações
+de Emergências em Saúde (COE) para intensificar as ações de monitoramento
+e/ou organizar a resposta para o enfrentamento da doença.
+As diretrizes para resposta são ativadas pelo MS, em conjunto com as esferas
+de gestão, quando da ocorrência de evento ou surto.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 43
+QUADRO 3 – EQUIPE NACIONAL DE RESPOSTA IMEDIATA A UM EVENTO OU SURTO
+Assessoria Especial e Comunicação Social – Ascom
+Assessoria Especial de Assuntos Internacionais – Aisa
+◼ Departamento do Programa Nacional de Imunizações – DPNI
+ Coordenação-Geral de Incorporação Científica de Imunizações – Cgici
+ Câmara Técnica Nacional de Especialistas para
+◼ Coordenação-Geral de Planejamento, Orçamento e Monitoramento
+da Execução Financeira – CGPO
+◼ Coordenação-Geral de Laboratórios de Saúde Pública – CGLAB
+ Laboratório de Referência Nacional – Fiocruz/RJ
+ Laboratório de Referência Regional – IEC/PA
+◼ Departamento de Ações Estratégicas de Epidemiologia e Vigilância
+em Saúde e Ambiente – Daevs
+◼ Departamento de Vigilância em Saúde Ambiental e Saúde do
+Trabalhador – DVSAT
+ Coordenação-Geral de Vigilância em Saúde Ambiental – CGVAM
+◼ Departamento de Emergências em Saúde Pública – DEMSP
+ Coordenação-Geral de Preparação e Resposta às Emergências
+em Saúde Pública – CGPRESP
+ Coordenação-Geral do Centro de Informações Estratégicas em
+Vigilância em Saúde – CGCIEVS
+ Cievs Nacional
+ Rede Cievs
+ Renaveh
+◼ Núcleo de Comunicação – Nucom
+◼ Departamento de Estratégias e Políticas de Saúde Comunitária – Desco
+ Coordenação-Geral de Saúde da Família e Comunidade – Cgesco
+◼ Departamento de Atenção Hospitalar, Domiciliar e de Urgência – Dahu
+Assessoria Especial de Comunicação Social – Ascom
+Agência Nacional de Vigilância Sanitária – Anvisa
+Fonte: Ministério da Saúde.
+Nota: Ascom do Ministério da Saúde: responsável ativação do plano de comunicação de crise e definição
+do porta-voz. Agência Nacional de Vigilância Sanitária (Anvisa): responsável pelo registro e liberação do
+uso de imunobiológicos.
+44 Ministério da Saúde | Secretaria de Vigilância em Saúde
+âmbito de abrangência que deverá apoiar as ações de preparação,
+de vigilância e de resposta a evento ou surto de poliomielite. Os estados
+a qual deve estar integrada, ao menos, pelo responsável pela Vigilância
+Epidemiológica, imunização, laboratório, comunicação social, atenção
+primária, planejamento, orçamento e atenção à saúde indígena.
+4.2 DEFINIÇÃO DAS EQUIPES RESPONSÁVEIS
+Planejamento: é de responsabilidade da gestão e resposta imediata do
+município e Dsei com apoio dos âmbitos estadual e nacional.
+Investigação: será realizada pela equipe de Vigilância Epidemiológica
+e equipe da Atenção Primária do âmbito municipal, pelos Dsei (caso ocorra
+dentro dos territórios indígenas) e investigações de campo no âmbito do
+EpiSUS-Avançado, com apoio dos âmbios estadual e nacional, e coordenada
+pelo responsável da VE-PFA.
+Vacinação: a depender do poliovírus identificado, a vacina a ser utilizada
+deverá ser liberada em caráter emergencial pela Anvisa.
+saúde da área de abrangência onde foi detectado o evento ou surto, sendo
+esta coordenada pela coordenação municipal de imunizações, com o apoio
+do âmbito estadual e nacional. Se necessário, outras equipes poderão ser
+integradas às ações de resposta.
+Comunicação: será realizada pelo núcleo de comunicação municipal com
+o apoio do âmbito estadual e nacional.
+Capacitação: a capacitação dos técnicos de vigilância, imunização, labo-
+ratório, técnicos da APS, Saes e Dsei para resposta a um evento ou surto
+esfera federal.
+Supervisão em campo das atividades realizadas: as diferentes etapas das
+diretrizes para resposta, tais como, preparação, investigação, vacinação,
+retirada da vacina oral poliomielite monovalente tipo 2(VOPm2), serão
+estadual e nacional.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 45
+4.3 SOLICITAÇÃO E USO DAS VACINAS POLIOMIELITE
+poliovírus tipo 2.
+um caso de iPVDV. Nesse caso, será utilizada a dose completa por via intra-
+muscular. O estoque de doses para assegurar a vacinação deste grupo será
+de responsabilidade do DPNI.
+Uso de vacina oral poliomielite monovalente tipo 2 (VOPm2)
+Esta vacina, que é pré-qualificada pela Organização Mundial da Saúde
+(OMS), não está registrada nos países da Região das Américas, porque não
+é comercializada para ser empregada na rotina de vacinação. No entanto, o
+ter acesso a produtos para atender a uma situação crítica de saúde pública,
+conforme Resolução da Diretoria Colegiada (RDC) 203, de 26 de dezembro
+de 2017, que “dispõe sobre os critérios e os procedimentos para importação,
+sem registro na Anvisa” (Anvisa, 2017).
+Caso seja necessário o uso de VOPm2 em resposta a um evento ou surto
+causado por poliovírus tipo 2, a vacina será enviada, em caráter de doação.
+A OMS enviará a vacina acompanhada da seguinte documentação:
+◼ Protocolo resumido de fabricação e controle.
+◼ Certificado de liberação de lote emitido pela autoridade reguladora
+nacional do país de origem.
+O formulário para realizar a solicitação destas vacinas encontra-se em
+formato PDF no endereço: mOPV2-Vaccine-Request-Form-template-EN-
+v3.2.doc (live.com).
+4.4 PLANO PRELIMINAR DE CAPACITAÇÃO
+e do Distrito Federal com o apoio da esfera federal, a fim de garantir o
+desenvolvimento das atividades de Vigilância Epidemiológica, laboratorial,
+imunizações e APS, entre outras descritas nestas diretrizes, de forma conjunta
+46 Ministério da Saúde | Secretaria de Vigilância em Saúde
+para uma resposta coordenada, oportuna e em cumprimento as ações
+propostas. A capacitação de recursos humanos para as esferas municipais
+deverá ser realizada pelos estados e pelo Distrito Federal.
+QUADRO 4 – PLANO PARA CAPACITAÇÃO DE RECURSOS HUMANOS NO ÂMBITO NACIONAL
+◼ Socializar as diretrizes para resposta a um evento ou detecção
+de gestão.
+◼ Equipe nacional de resposta imediata a um evento ou surto
+de poliomielite.
+◼ Coordenadores de Vigilância Epidemiológica das paralisias
+População-alvo
+flácidas agudas e de imunização do âmbito estadual.
+◼ Parceiros em caso excepcional na hipótese de relevante interesse
+para a saúde pública, tais como, Rotary, Pastoral da Criança,
+serviços privados de vacinação.
+◼ DPNI/CGLAB/Sesai.
+◼ Diretrizes para resposta a um evento de detecção ou surto de
+poliomielite.
+◼ Diretrizes técnicas para a execução de atividades de vacinação.
+◼ Metodologia para a retirada da vacina VOPm2 após a execução
+das atividades de vacinação.
+◼ Diretrizes para a intensificação da vigilância da paralisia
+flácida aguda.
+◼ Treinamento em cascata.
+◼ Exposição audiovisual.
+◼ Oficinas presenciais.
+Metodologia ◼ Simulação de evento ou surto.
+◼ Reuniões por videoconferência.
+◼ Atualização periódica e socialização de documentos técnicos
+com os estados.
+plano de5.1 DEFINIÇÃO DOS EVENTOS DE DETECÇÃO
+O Quadro 7 apresenta as definições de evento e de surto, segundo a cepa
+de poliovírus detectada.
+QUADRO 7 – DEFINIÇÕES EPIDEMIOLÓGICAS DE EVENTOS DE DETECÇÃO DE POLIO-
+Detecção de:
+1. PVDV em:
+◼ Um caso único de PFA ou uma pessoa assintomática (por exemplo,
+contato) ou
+◼ Uma ou mais pessoas,* sem indícios de propagação para a
+comunidade (cepa de poliovírus derivado da vacina detectado
+em um caso com imunodeficiência – iPVDV ou classificada como
+ambígua -aPVDV) ou
+2. Cepa tipo Sabin do sorotipo 2 em uma ou várias amostras clínicas ou
+3. Uma pessoa infectada por um PVS2 com exposição documen-
+tada de um vírus do sorotipo 2 em um laboratório ou um
+estabelecimento de produção de vacinas.
+Detecção de:
+Surto 1. Uma ou várias pessoas infectadas por um PVS
+(no caso do sorotipo 2 se adiciona: “sem exposição documentada
+a um poliovírus do sorotipo 2 em um laboratório ou um estabele-
+cimento de produção de vacinas) ou
+2. Uma ou várias pessoas infectadas por um cPVDV.
+Fonte: adequação de World Health Organization (WHO). Standard Operating Procedures: Responding
+to a Poliovirus Event or Outbreak. Acessado em 19/4/2022.
+*Uma pessoa infectada pode corresponder em um caso de PFA ou a uma pessoa assintomática ou sã.
+5.2 POLIOVÍRUS DERIVADO DA VACINA
+As seguintes definições foram desenvolvidas, tendo em conta considerações
+poliovírus derivados da vacina:
+a) Poliovírus derivado de vacina – PVDV:
+◼ Cepas VOP que são >1% divergentes (≥ 10 de diferença nucleotídica (NT),
+para os tipos 1 e 3) na região genômica VP1.
+◼ Cepas VOP que são > 0,6% divergentes (≥ 6 de diferença NT, para o tipo 2)
+na região genômica VP1.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 55
+b) PVDV circulante (cPVDV): isolamento de PVDV na qual existe evidência
+de transmissão pessoa a pessoa na comunidade.
+i. De ao menos duas pessoas (não necessariamente os casos de PFA)
+e que não são contatos na casa.
+ii. De uma pessoa e uma ou mais amostras do meio ambiente.
+iii. Um só PVDV isolado que apresente características genéticas que
+indicam circulação prolongada, ou seja, um número de alterações
+de nuclueotídeos que indicam um período de 1,5 ano ou mais de
+circulação independente.
+c) PVDV associado com imunodeficiência (iPVDV): PVDV isolado de pessoas
+com evidência de imunodeficiência primária.
+d) PVDV ambíguo (aPVDV): PVDV isolado a partir de amostras de pessoas
+sem imunodeficiência conhecida ou do meio ambiente, sem evidência
+de circulação.
+Um PVDV isolado só deve ser classificado como "ambíguo" se as investi-
+gações adicionais indicam que não se deriva de uma pessoa com imuno-
+deficiência primária dos linfócitos B (iPVDV), ou que não é parte de uma
+cadeia de transmissão, é um PVDV circulante (cPVDV).
+56 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Detecção,
+– cronologia
+seguintes passos:
+FIGURA 5 – PASSOS A SEGUIR COM A CONFIRMAÇÃO LABORATORIAL DO POLIOVÍRUS
+SELVAGEM (PVS) OU POLIOVÍRUS DERIVADO DA VACINA (PVDV)
+Dia 0 Dia 1 Dias 2 e 3 Dias 14
+Fonte: Organização Pan-Americana da Saúde – Procedimentos Operacionais Padrão: Resposta a um
+Evento ou Surto de Poliovírus. Março 2022.
+◼ O Dia 0 é o dia do recebimento da confirmação laboratorial do PVS
+o “dia da notificação do surto”.
+◼ A investigação precisa iniciar em até um dia (24h) da confirmação
+labor atorial.
+◼ As ações devem iniciar dentro das primeiras 72 horas da resposta ao surto.
+◼ As autoridades nacionais realizam a avaliação de risco e a proposta
+de resposta dentro de 72 horas da detecção de poliovírus.
+◼ O planejamento detalhado normalmente ocorre do dia 3 ao dia 14, após
+a investigação e a avaliação de risco, e envolve: coordenação; diretrizes
+para resposta e orçamento; plano de comunicação; atividades de
+preparação e vacinação e vigilância da qualidade.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 59
+tipo 2
+7.1 NOTIFICAÇÃO
+A notificação oportuna da deteção de um poliovírus do sorotipo 2 é chave para
+desencadear as ações de resposta e evitar a propagação do vírus. Realiza-se
+nos âmbitos nacional e internacional.
+Internacional (RSI):
+◼ Os laboratórios de referência para o diagnóstico de poliovírus deverão
+notificar de imediato ao Ministério da Saúde, ao PFN-RSI do Brasil,
+a SVSA, quanto ao isolamento de um poliovírus selvagem ou de um
+derivado da vacina em uma amostra coletada no País.
+◼ O Cievs Nacional, designado centro operacional do PFN-RSI do Brasil,
+o RSI – Opas/OMS, conforme Anexo 2 do RSI.
+◼ Quando o Laboratório de Referência Nacional Fiocruz/RJ ou o Labo-
+ratório de Referência Regional do IEC/PA detectarem uma amostra
+positiva de poliovírus procedente de outro país, deverão notificar de
+imediato a autoridade de saúde do país de onde procede a amostra.
+Se em 24 horas o país não tiver realizado a notificação internacional,
+o PFN-RSI do Brasil deverá notificar ao Ponto de Contato Regional da
+OMS para o RSI – Opas/OMS e simultaneamente o PFN-RSI do país
+de onde procede a amostra.
+◼ O governo nacional deve declarar o evento ou surto de poliovírus tipo
+2 como uma potencial Emergência Nacional de Saúde Pública de
+Importância Nacional (Espin), em conformidade com a Portaria MS/GM
+n.º 2.952, de 14 de dezembro de 2011, ou legislação vigente. O Cievs
+necessária para apoiar tal declaração.
+O PFN-RSI do Brasil notificará a Opas/OMS quanto a uma potencial
+Emergência de Saúde Pública de Importância Internacional, em conformidade
+com o estabelecido pelo RSI (Anexo A – Notificação da poliomielite segundo
+o Regulamento Sanitário Internacional), disponível em https://polioeradication.
+org/polio-today/polio-now/public-health-emergency-status/.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 63
+7.2 INVESTIGAÇÃO
+A detecção de qualquer cepa de poliovírus do sorotipo 2 deve desencadear
+uma investigação imediata, com o objetivo de coletar informação que
+permita definir se se trata de um evento ou surto, determinar o número e a
+características do caso ou de casos, identificar a origem e as causas do evento
+ou surto e avaliar a extensão geográfica da transmissão.
+QUADRO 8 – DEFINIÇÃO DE EVENTO E SURTO CAUSADO POR POLIOVÍRUS DO TIPO 2
+PVDV2 em investigação
+aPVDV2
+iPVDV2
+Evento Humana/PFA*
+Sabin 2
+PVS2 com exposição documentada em um
+cPVDV2
+Surto Humana/PFA*
+PVS2 sem exposição documentada em um
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2020.
+*A pessoa infectada pode ser um caso de paralisia flácida aguda (PFA) ou uma pessoa asssintomática
+ou sã.
+o poliovírus e a Opas/OMS, logo após ter sido concluída a avaliação de risco.
+64 Ministério da Saúde | Secretaria de Vigilância em Saúde
+QUADRO 9 – ATIVIDADES A SEREM REALIZADAS NA INVESTIGAÇÃO E OS RESPONSÁVEIS
+a. Investigação do caso ou casos
+locais. Proceder-se-á realizar as seguintes atividades que
+permitirão caracterizar a situação:
+◼ Investigação do caso ou casos
+Investigar a história clínica, incluindo história ou sinais de
+imunodeficiência, histórico de vacinação (distinguir o tipo
+e número de doses de vacinas recebidas, razões para
+não ter esquema de vacinação completo para a idade),
+histórico de viagens, histórico de contato com viajantes
+do exterior, pesquisa de seu ambiente social e contexto
+comunitário, se contato/trabalhador de laboratório clínico SMS, Dsei com
+e produção de vacinas. apoio da SES.
+de paralisia flácida aguda/poliomielite.
+◼ Investigação de contatos
+Coleta de amostras: deverá ser coletada uma amostra
+de fezes de três contatos diretos (irmãos, contatos
+domiciliares e amigos próximos, preferencialmente não
+vacinados ou com esquema de vacinação incompleto)
+para determinar se há circulação de vírus na comunidade.
+Adicionalmente, coletar amostras de pelo menos 20
+crianças menores de 5 anos de idade, preferencialmente
+menores de 2 anos, selecionadas de forma aleatória
+que vivem na mesma comunidade do caso. A coleta de
+área, dentro dos últimos 12 meses.
+b. Busca ativa de casos institucional e comunitária
+◼ Busca ativa de casos nos hospitais públicos e privados do
+SMS, Dsei com
+município afetado, que deve incluir, pelo menos, a revisão
+apoio da SES.
+dos diagnósticos dos últimos seis meses.
+◼ Efetuar busca ativa na comunidade da área de residência Técnico da vigilância
+do caso, utilizando diferentes estratégias de busca epidemiológica
+(em estab elecimentos educativos, creches e residências). da área afetada
+da população local e de outros fatores, mas deve abranger, líderes comunitários
+pelo menos, 200 agregados familiares. A busca ativa deve e equipe da
+contar com o apoio dos líderes comunitários, tais como Atenção Primária.
+líderes religiosos, comerciantes, comunidade escolar,
+entre outros.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 65
+c. Análise de coberturas
+(até o nível mais desagregado de cobertura que está Imunizações, Dsei
+disponível) aponta informação-chave que deve ser com apoio da
+considerada, junto com a informação epidemiológica equipe estadual
+conhecida, para identificar o grau de suscetibilidade da ou nacional.
+população e de risco de transmissão.
+d. Laboratório
+Além de identificar se o poliovírus isolado é selvagem,
+derivado da vacina ou Sabin, o estudo genético das
+amostras pode permitir identificar se houve importação,
+assim como se se trata de derivado da vacina, por quanto
+PFA/poliomielite.
+no caso do isolamento de um PVDV.
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+7.3 METODOLOGIA DA AVALIAÇÃO DE RISCO
+O Brasil, com o apoio da Opas/OMS e aliados da GPEI, realizará uma
+avaliação de risco se for detectado um evento ou um surto de poliomielite.
+uma propagação posterior; avaliar os fatores fundamentais que influenciarão
+no tipo e na magnitude da resposta, formular as recomendações sobre
+da área afetada e em risco de uma possível transmissão.
+a avaliação de risco em um contexto determinado. Com base na análise de
+múltiplos fatores (virologia, contexto local e risco de propagação internacional),
+deve-se determinar, para cada tipo de vírus 2 detectado, se este achado
+representa um risco alto, médio ou baixo de transmissão posterior. Em lugar de
+parâmetros quantitativos específicos, a avaliação deve refletir uma avaliação
+geral da situação.
+66 Ministério da Saúde | Secretaria de Vigilância em Saúde
+QUADRO 10 – ELEMENTOS PARA AVALIAR O RISCO DE TRANSMISSÃO POSTERIOR
+DE POLIOVÍRUS TIPO 2, O QUE INFLUIRÁ NO TIPO E NA ESCALA DE RESPOSTA
+(não exaustivo, ver Anexo J)
+Grau de desvio genético da cepa Sabin, avaliação
+Risco virológico do virologista/interpretação de tipos de mudanças
+de nucleótideos etc.
+Área com acesso limitado devido a conflitos, detecção
+Risco contextual recente de poliovírus, alta força de infecção, movimento
+de população etc.
+Risco de transmissão Área de fronteira com alta mobilidade populacional,
+internacional populações nômades ou de refugiados etc.
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+A avaliação de risco deve centrar-se especificamente em abordar três
+questões fundamentais:
+1. A natureza do vírus (PVS, Sabin ou PVDV).
+2. A evidência de circulação.
+3. O risco de propagação adicional.
+Após detecção inicial, diferenciação intratípica e sequenciamento, uma
+cepa de poliovírus pode ser incluída em alguma dessas três categorias:
+PVS, poliovírus Sabin (cepa da VOP) e PVDV (com divergência >1% [PV1 e PV3]
+ou >0,6% [PV2] com respeito à correspondente cepa na VOP).
+7.3.1 A natureza do vírus – PVS, Sabin ou PVDV
+PVS2: dado o longo período decorrido desde a última detecção de PVS2,
+a possibilidade de que este vírus apareça novamente é muito remota.
+No entanto, se um caso de PVS2 for detectado é necessário conduzir
+uma investigação imediata, pois a transmissão pode ocorrer rapidamente,
+dependendo do grau de imunidade da população local.
+Uma pessoa infectada pelo PVS2, sem exposição conhecida a um poliovírus
+em um laboratório ou um estabelecimento de produção de vacinas, deve ser
+tratada como uma prova de transmissão confirmada.
+Uma pessoa infectada pelo PVS2 com exposição conhecida a um poliovírus
+isolado, porém constitui um risco de possível transmissão futura.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 67
+Do mesmo modo, o descobrimento de um PVS2 em uma amostra ambiental
+é, com toda probabilidade, devido a uma falha da contenção em um laboratório,
+centro de investigação ou produção de vacina. No entanto, justifica-se realizar
+foi colhida a amostra, assim como em qualquer laboratório ou centro de
+pesquisa próximo, para identificar algum caso de paralisia flácida aguda ou
+eliminando o poliovírus. Uma abordagem preventiva requer que a descoberta
+de um PVS2 em uma amostra ambiental, inicialmente, seja considerada como
+uma prova de transmissão provável.
+Sabin 2: existe uma variabilidade considerável dependendo do entorno
+local, as provas empíricas, assim como os modelos matemáticos, indicam
+que se pode esperar que os poliovírus Sabin do sorotipo 2 sigam sendo
+detectáveis, aproximadamente, durante três meses nas fezes e quatro meses
+em amostras de águas residuais, após o último uso da VOPt (ou do uso da
+VOPm2). Ainda que esta detecção deva impulsionar maior vigilância dos casos
+de paralisia flácida aguda, é de se esperar que o risco de que isso ocorra
+diminua rapidamente com o tempo. A detecção de pólio Sabin do tipo 2,
+após este período de quatro meses depois da retirada da vacina (a partir de
+setembro de 2016) ou do último uso da VOPm2, em uma resposta a um surto
+ou evento, pode ser evidência de que se continua usando a VOPt, portanto,
+indicaria que há risco de transmissão futura. Um caso único de paralisia flácida
+aguda por um poliovírus Sabin do sorotipo 2 também seria indicativo de uma
+de pesquisa. Essa situação justifica uma investigação completa do caso,
+incluindo a busca de uma reserva local restante de VOPt, assim como o exame
+centros vizinhos.
+PVDV2: no período imediatamente posterior à mudança da vacina, além das
+cepas Sabin do sorotipo 2, o PVDV tipo 2 será possivelmente o poliovírus que
+se detecte mais frequentemente. Dado que um cPVDV conhecido ou um
+PVDV vinculado a um aPVDV, anteriormente detectado, é prova da circulação
+ativa e da transmissão confirmada na comunidade, seu isolamento representa
+a mesma ameaça para a saúde pública que o isolamento de PVS.
+PVDV2 em investigação: uma amostra única com PVDV2, sem indícios de
+uma circulação prolongada, ou um único caso PVDV2 não vinculado com um
+aPVDV previamente detectado, pode apenas representar um episódio isolado
+sem mais consequências. No entanto, dado o grande risco que implica falha
+na resposta imediata a uma disseminação do vírus do sorotipo 2, inclusive
+68 Ministério da Saúde | Secretaria de Vigilância em Saúde
+de baixo nível, a descoberta inicial destas situações deve ser tratada como
+um indício de transmissão provável.
+iPVDV: a investigação do caso deve determinar se um caso individual
+de PVDV é um portador de poliovírus, a longo prazo, com imunodeficiência
+(isto é, um iPVDV).
+exaustiva que inclua: 1) uma história detalhada; b) um exame físico realizado
+por pessoal competente; e c) os resultados da análise quantitativa das
+imunoglobulinas.
+A desnutrição aguda ou crônica, que pode causar uma forma de
+depressão secundária do sistema imunológico, não deve ser confundida
+com uma imunodeficiência grave primária (tal como agamaglobulinemia
+ou hipogamaglobulinemia, uma imunodeficiência variável comum, uma
+agamaglobulinemia ligada ao cromossomo X, outras deficiências de
+anticorpos, ou alguma forma combinada de imunodeficiências, a maioria
+das vezes uma imunodeficiência combinada grave).
+Após a retirada da VOP2, e enquanto a imunidade frente ao sorotipo 2
+permaneça sendo relativamente alta, considera-se que a possibilidade de
+transmissão e de circulação na comunidade é baixa na maioria dos países.
+Independentemente do tipo de vírus isolado, é determinante
+realizar uma avaliação detalhada dos riscos.
+NOTA: se for descoberta uma pessoa infectada por um iPVDV, deve-se tratá-la
+com imunoglobulina por via intravenosa ou com antiviral, quando estiverem
+disponíveis. Além disso, deve-se administrar a VIP nas pessoas que vivem
+na mesma casa e nos contatos próximos.
+7.3.2 Avaliação da extensão geográfica da
+Na ocorrência de um surto por poliovírus do tipo 2, os fatores locais,
+epidemiológicos, geográficos e de mobilidade da população devem ser
+analisados para determinar os limites específicos da área afetada pelo surto.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 69
+propagação, ao tomar a decisão referente à resposta, são o momento, o lugar
+e as características da população afetada.
+a. Momento (tempo): o risco de emergência e de circulação do poliovírus
+tipo 2 variará de acordo com o tempo transcorrido desde o tempo da retirada
+da VOP2 (Quadro 10).
+b. Lugar: o alcance geográfico deve considerar as populações epide-
+internacionais, alto fluxo de pessoas para o comércio, turismo ou trabalho,
+fatores ambientais (por exemplo, o saneamento deficiente), problemas
+geopolíticos como a insegurança e outros fatores geográficos (por exemplo,
+acesso ao transporte a comunidades de alto risco por baixas coberturas).
+c. Características da população afetada: o maior fator de risco de emergência
+para o surgimento de um PVDV são as baixas coberturas vacinais. Os fatores
+de risco para a propagação são a elevada taxa de natalidade, a alta densidade
+fecal-oral como população marginalizada, população carente, população
+rejeita a vacinação, entre outros.
+7.4 AVALIAÇÃO E CLASSIFICAÇÃO DE RISCO
+DO SOROTIPO 2
+do vírus e suas implicações para uma possível propagação.
+70 Ministério da Saúde | Secretaria de Vigilância em Saúde
+QUADRO 11 – CRITÉRIOS PARA AVALIAÇÃO DE RISCO EM UM SURTO
+A avaliação de riscos está fundamentada em dois critérios:
+1. A possibilidade de transmissão no país e de propagação na fronteira.
+A avaliação de risco de transmissão considera os seguintes aspectos:
+a. O risco de propagação internacional (em especial do poliovírus tipo 2 depois
+da retirada da VOPt) incluído o risco nas fronteiras e em múltiplos países pelos
+vínculos de transporte e vias de transmissão.
+b. O sorotipo e a classificação do poliovírus (por exemplo, sorotipo 1, 2 ou 3;
+classificado como selvagem ou PVDV).
+c. A imunidade da população afetada (cobertura de vacinação de rotina e
+campanha, além de um monitoramento rápido de cobertura vacinal com
+a VOP e a VIP).
+d. A existência de grupos vulneráveis (refugiados, deslocados internos, grupos
+nômades extensos, grupos populacionais de difícil acesso etc.).
+e. Risco de propagação intencional ou de falha da contenção (em laboratórios,
+centros de pesquisa ou estabelecimento de produção de vacinas).
+2. A solidez da capacidade do país em matéria de resposta e contenção do surto.
+A avaliação da capacidade nacional de resposta comporta os seguintes elementos:
+a. O nível da infraestrutura de saúde do país.
+b. A capacidade de mobilização dos recursos humanos.
+c. A situação de segurança, incluída a existência de conflitos armados ou zonas
+extensas de insegurança ou inacessíveis.
+e incide sobre o tipo e a magnitude da resposta necessária (de grau 1 ou grau 3).
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+Como consequência da avaliação de risco, o Grupo de Erradicação e Geren-
+ciamento de Surtos (EOMG) atribuirá um grau ao surto (1, 2 ou 3), nas primeiras
+72 horas, após sua confirmação. Esta classificação é válida por três a seis
+meses, e deve ser revisada de acordo com novas informações e/ou com
+o avanço das atividades de resposta. No Quadro 9 são apresentados os graus
+de um surto, segundo os critérios de risco de propagação e a capacidade
+de resposta.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 71
+QUADRO 12 – CRITÉRIOS PARA CLASSIFICAÇÃO DE UM EVENTO OU SURTO DE
+Baixo Grau 1 Grau 1 Grau 2
+Médio Grau 1 Grau 2 Grau 3
+Alto Grau 2 Grau 3 Grau 3
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+Destaca-se o fato de que o nível de resposta necessário a um surto de
+poliomielite com baixo risco de transmissão pode variar entre o grau 1 e o
+grau 3, de acordo com a capacidade de resposta do país.
+A partir da detecção de um evento ou surto de poliomielite, o Brasil terá
+que completar uma análise de risco e submetê-la a apreciação da OMS
+dentro de 24 horas. Embora essa análise de risco não possa ser concluída
+até que o evento tenha ocorrido, o País deverá estar familiarizado com as
+dessas informações. Isso facilitará o processo de coleta de dados, quando
+necessário (Anexo B).
+7.5 FATORES QUE INFLUENCIAM O TIPO E A
+O risco de aparecimento de qualquer poliovírus do sorotipo 2 após a retirada
+da VOP2 não é homogêneo em todos os países, nem mesmo dentro de um
+país de grande extensão territorial. Um fator significativo é a vacina poliomielite
+mais utilizada em cada país.
+72 Ministério da Saúde | Secretaria de Vigilância em Saúde
+QUADRO 13 – FASES DE RISCO DE APARECIMENTO E DE PROPAGAÇÃO POSTERIOR
+DE POLIOVÍRUS DO SOROTIPO 2
+da VOP2 do sorotipo 2
+1 ≤ 1 ano Alto Baixo
+campanha de vacinação,
+antes da retirada da VOPt.
+A imunidade geral, todavia,
+é razoavelmente alta, porém a
+2 2-3 anos imunidade geral das mucosas Médio Médio
+novas coortes de nascimento.
+3 ≥ 4 anos Baixo Alto
+decresce bruscamente.
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+Independentemente do risco de circulação posterior, a resposta para
+o controle sempre deverá ser oportuna.
+7.6 TOMADA DE DECISÕES
+A Equipe de Alerta e Resposta do país, com o apoio da Opas/OMS enviará as
+informações requeridas (Anexo B) pelo Grupo de Erradicação e Gerenciamento
+de Surtos (EOMG por sua sigla em Inglês) da OMS, que permite classificar
+o grau do surto, segundo o risco de transmissão e a capacidade de resposta,
+nas primeiras 72 horas após a notificação dos resultados laboratoriais.
+◼ O EOMG deve se reunir nas primeiras 72 horas após a notificação do
+resultado laboratorial com o objetivo de classificar o grau do surto.
+◼ A OMS e os aliados da GPEI, prestam assistência técnica a todas as
+atividades, conforme corresponda, dependendo da extensão do surto
+e das necessidades de apoio do sistema de saúde no país afetado.
+e Gerenciamento de Surtos quem emitirá a decisão final.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 73
+7.7 RESPOSTA DIANTE DA CONFIRMAÇÃO DE UM
+Com a confirmação de um evento ou surto de poliomielite será desenca-
+deada a resposta, que inclui o aprofundamento da investigação, a vigilância
+ativa, a vigilância laboratorial e as ações de vacinação de acordo com as
+ao evento (Anexo D e E).
+No caso dos eventos de detecção do sorotipo 2, aplica-se a política de
+financiamento da OMS denominada “prevenção sem arrependimento”
+e seguem-se as normas de desempenho da GPEI que são levantadas
+nesse documento.
+7.7.1 Vacinação
+Após a tomada de decisão de realizar a vacinação, seja por um evento ou
+por um surto de poliovírus do tipo 2 (ver Anexos D, E e F), deve ser definido:
+◼ População-alvo
+Os esforços estarão centrados em todos os menores de 5 anos de idade,
+exceto se houver evidência de que outros grupos de idade foram afetados.
+◼ Número de campanhas de vacinação e intervalos
+Poderão ser realizadas até três campanhas de vacinação em cada grupo-
+-alvo e a vacina será utilizada de acordo com o quadro a seguir.
+QUADRO 14 – ETAPAS DE CAMPANHA DE VACINAÇÃO, TIPO DE VACINA A SER
+Primeira (resposta rápida) VOPm2 Dentro de 14 dias
+Segunda VOPm2 Dentro de 28 dias
+Terceira VOPm2 Dentro de 6 a 8 semanas
+Operação limpeza* VOPm2 Dentro de 90 dias
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+*Em áreas que não alcançaram a meta de vacinação.
+74 Ministério da Saúde | Secretaria de Vigilância em Saúde
+◼ Área a vacinar
+A vacinação deve ser iniciada imediatamente na área afetada, onde foi
+detectado poliovírus, e posteriormente será avaliada a necessidade
+de realizar a vacinação em área ampliada, ou seja, na área de risco
+de propagação.
+QUADRO 15 – ÁREAS DE INTERVENÇÃO E PRIORIZAÇÃO DA VACINAÇÃO
+Ampliada (fronteira, fluxo de comércio,
+trabalho, entre outros.)
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+Reforça-se que no Brasil a VOPm2 seguirá a logística existente (Central de
+Armazenamento de São Paulo), Rede de Frio Estadual, Rede de Frio Municipal
+e Sala de Vacina).
+7.7.2 Solicitação da vacina
+Uma vez determinada a necessidade de realizar a campanha de vacinação,
+seja por um evento ou surto de poliovírus tipo 2, e definida a magnitude da
+intervenção, grupo etário para ser vacinado, áreas para intervir e intervalos entre
+doses, o Brasil apresentará a OMS uma solicitação de VOPm2, nas primeiras
+72 horas seguintes ao resultado laboratorial de um sorotipo 2, para que
+a recomendação ao diretor-geral da OMS, para autorizar a liberação da VOPm2.
+A equipe técnica do PNI preencherá o formulário de solicitação da VOPm2.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 75
+7.7.3 Organização das etapas de vacinação
+QUADRO 16 – ATIVIDADES E RESPONSÁVEIS PELAS ETAPAS DE VACINAÇÃO
+Implementação da sala de situação, até o
+◼ MS/SVSA/DPNI
+encerramento do surto.
+◼ Coordenador de
+Definição de equipes de vacinação. Imunização do Município/
+◼ MS/SES/SMS/Dsei
+ao surto em curso.
+◼ MS/SVSA/DPNI
+(diárias, transporte, compra de insumos).
+(divulgação das atividades a serem realizadas pela
+◼ MS/SVSA/Nucom
+e comunidade).
+Revisão de ferramenta de registro e informação. ◼ MS/SVSA/DPNI/Cgici
+◼ MS/SVSA/DPNI/Cgici
+Logística e rede de frio ◼ SES
+(considerar na logística o transporte da equipe ◼ SMS
+de assessoria externa). ◼ Dsei
+◼ Opas
+Preparação de equipe de supervisão. ◼ MS/SES/SMS/Dsei
+Cronograma de execução. ◼ MS/SVSA/DPNI/Sesai
+◼ MS/SVSA/DPNI
+◼ Sesai
+meta de vacinação.
+◼ SES/SMS/Dsei
+Supervisão e validação da retirada e destruição ◼ MS/SVSA/DPNI
+da vacina. ◼ SES/SMS
+Fonte: DPNI/SVSA.
+76 Ministério da Saúde | Secretaria de Vigilância em Saúde
+7.7.4 Viajantes
+Os padrões de viagem e de migração dentro e fora das comunidades afeta-
+circulação dos poliovírus. As restrições a viagens podem ser problemáticas.
+No entanto, há medidas que poderão ser implementadas pelas autoridades
+de saúde pública:
+◼ Avaliar a possibilidade de quarentena local, quando somente uma
+pessoa tenha sido exposta ao poliovírus tipo 2, por exemplo, em um
+laboratório ou centro de produção de vacinas. Dar continuidade à
+investigação e à vigilância permanente dos familiares e/ou colegas de
+trabalho, durante ao menos 60 dias após a detecção do caso inicial.
+◼ Tomando em conta a viabilidade local e o risco avaliado, considerar
+a possibilidade de restringir as viagens locais, solicitar documento
+idade que entrem ou saiam da zona afetada.
+◼ Mobilizar líderes comunitários para que estimulem a restrição voluntária
+de viagens.
+7.8 ENCERRAMENTO E VALIDAÇÃO FINAL DO SURTO
+A equipe internacional, independentemente de Avaliação da Resposta ao
+Surto (ARS), realizará avaliações externas a cada três meses, com a finalidade
+de determinar se foi interrompida a transmissão viral (PVS ou cPVDV).
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 77
+Na visita da equipe de Avaliação da Resposta ao Surto no sexto mês, com
+ou sem acréscimo de um período adicional de mais seis meses, o surto pode
+ser considerado interrompido quando:
+◼ Passaram-se pelo menos seis meses sem detectar de nenhuma fonte
+(caso de PFA, contato ou ambiente) o vírus que causou o surto.
+◼ Indicadores de vigilância dos últimos 12 meses, na área do surto, em áreas de
+alto risco de propagação, assim como área transfronteiriça ao surto*, alcançam:
+ taxa mínima de notificação de PFA não poliomielítica de 3 casos por 100 mil
+menores de 15 anos; e
+ pelo menos 80% dos casos com amostras adequadas.
+◼ Fortes evidências de que as áreas de alto risco ou de conflito, deslocamento,
+estratégias** adaptadas tenham sido implementadas de forma exitosa para:
+ interromper a transmissão viral;
+ detectar qualquer transmissão em curso.
+Depois de revisão exaustiva dos indicadores, da qualidade dos dados e da
+informação qualitativa, no contexto local, a equipe de Avaliação da Resposta
+ao Surto tem a responsabilidade de dar a melhor opinião possível sobre se:
+◼ O surto parece haver terminado, inclusive se não se cumprem estritamente
+os critérios.
+◼ Não se pode considerar que o surto tenha sido interrompido, inclusive na
+ausência de isolamento de vírus.
+*Os critérios devem ser cumpridos no primeiro nível administrativo (município) e em outras áreas, se
+determinado pela equipe de avaliação.
+**As estratégias incluem: atividades inovadoras de divulgação da vacinação, busca ativa de casos,
+vigilância comunitária, estimativa da população ainda não alcançada pela vacinação ou pela vigilância.
+A equipe Avaliação da Resposta ao Surto (ARS) continuará a avaliar até que
+as condições para a interrupção do surto sejam cumpridas.
+Se os critérios para "encerramento do surto" não forem cumpridos no país,
+a equipe de ARS recomendará as próximas etapas:
+◼ Aos seis meses sem detecção de poliovírus – fortalecer o apoio interno
+e externo para resposta e continuar as avaliações da resposta ao surto,
+segundo a metodologia que corresponda.
+◼ De 9 a 12 meses sem detecção viral – implementar um plano adicional
+de emergência de três meses para:
+a. vigilância – por exemplo, intensificar busca ativa de casos na área
+do surto;
+78 Ministério da Saúde | Secretaria de Vigilância em Saúde
+b. campanhas de vacinação – por exemplo, estratégias inovadoras para
+alcançar, para chegar a todas as crianças em populações móveis ou
+de alto risco;
+c. vacinação de rotina – por exemplo, estratégias já provadas para
+alcançar todos os distritos.
+◼ Repetir a avaliação após três a quatro meses.
+Quando se cumpre os critérios e/ou a equipe de ARS considera que a resposta
+ao surto foi suficiente, seguindo a árvore de decisão apresentada no Anexo C,
+a equipe (OMS) de avaliação recomenda que o surto seja encerrado.
+A Oficina Regional da OMS, em consulta com a (Grupo de Resposta
+e Preparação para Surtos) OPRTT, considerando os achados da equipe
+avaliadora, compartilhará os informes com as comissões nacionais e regionais
+encerrado. O país é informado em conformidade.
+informativa antes de partir e apresentará um informe a equipe do país, ao
+presidente da OPRTT, ao escritório regional da OMS e ao diretor do programa
+da OMS contra a poliomielite. O escritório regional da OMS confirmará o final
+do surto basendo-se no informe de avaliação e nas recomendações.
+ao surto no prazo máximo de um mês, a partir da finalização da avaliação
+da resposta ao surto.
+7.9 VIGILÂNCIA PÓS-EVENTO OU SURTO
+para detectar qualquer evento ou surto.
+Vigilância reforçada: é a vigilância da PFA em <15 anos, para alcançar uma
+taxa anual de pelo menos três casos de PFA por 100 mil habitantes menores
+de 15 anos, no nível estadual, durante o surto; e com o mínimo de 6 meses
+a 12 meses, mais outros 2 meses, depois do último caso.
+Para isso, o Brasil deverá:
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 79
+◼ Comunicar a todas as unidades de vigilância estadual sobre o evento
+ou surto, incluindo a Rede Cievs.
+◼ Intensificar as estratégias de busca ativa de casos de PFA nos âmbitos
+estadual e municipal, com apoio federal.
+◼ Fortalecer a capacitação e a sensibilização de todos os profissionais
+de saúde, nos três âmbitos de gestão, para a vigilância da PFA.
+◼ Manter o sistema de vigilância atualizado de todas as unidades notifica-
+os dados da vigilância.
+◼ Obter amostras dos contatos em todos os casos de PFA, em todas as
+áreas afetadas e as áreas adjacentes do risco de transmissão. A coleta
+comprovada a transmissão em uma determinada área, dentro dos
+últimos 12 meses.
+◼ Assegurar que seja realizada busca ativa de casos de PFA, durante as
+atividades de vacinação.
+◼ Assegurar que os laboratórios de referência tenham capacidade para
+resultados em tempo oportuno.
+80 Ministério da Saúde | Secretaria de Vigilância em Saúde
+1 e 3
+8.1 NOTIFICAÇÃO DE POLIOVÍRUS 1 E 3
+O País informará, de imediato, a OMS sobre toda detecção de PVS ou de
+PVDV, por meio do PFN-RSI do Brasil, já que se trata de um evento que
+constitui uma potencial emergência de saúde pública. A notificação deve ser
+realizada diante do primeiro indício de uma amostra positiva; por exemplo,
+o País deve notificar de imediato a OMS, por intermédio do Ponto de Contato
+Regional da OMS para o RSI, Opas/OMS, um PVDV não classificado, antes
+de obter a classificação final.
+A detecção de PVS ou de um PVDV de qualquer procedência, quer seja
+de um caso de PFA, de um contato ou de amostra ambiental, atende
+os critérios de notificação da OMS, conforme os critérios do Anexo 2 do RSI,
+2005 (Anexo A deste plano):
+i. Tem uma grave repercussão de saúde pública.
+ii. É um evento inusitado ou imprevisto; também se podem cumprir
+os critérios finais.
+iii. Existe um risco significativo de propagação internacional da doença.
+iv. Existe um risco significativo de restrições a viagens ou ao comércio
+internacional.
+De acordo com as obrigações estabelecidas no RSI:
+◼ Os laboratórios de referência para o diagnóstico de poliovírus deverão
+notificar de imediato, ao Ministério da Saúde e ao PFN-RSI do Brasil,
+a SVSA, o isolamento de um poliovírus selvagem ou de um derivado da
+vacina em uma amostra coletada no País.
+◼ O Cievs Nacional, designado centro operacional do PFN-RSI do Brasil,
+o RSI – Opas/OMS, conforme Anexo 2 do RSI.
+◼ Quando o Laboratório de Referência Nacional Fiocruz/RJ ou o Laboratório
+de Referência Regional do IEC/PA detectarem uma amostra positiva de
+poliovírus procedente de outro país, deverão notificar de imediato a auto-
+ridade de saúde do país de onde procede a amostra. Se em 24 horas, o país
+não tiver realizado a notificação internacional, o PFN-RSI do Brasil deverá
+notificar ao Ponto de Contato Regional da OMS para o RSI – Opas/OMS
+e simultaneamente o PFN-RSI do país de onde procede a amostra.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 83
+8.2 INVESTIGAÇÃO
+A detecção de um poliovírus selvagem ou derivado do sorotipo 1 e 3 deve
+o número e as características do caso ou dos casos; identificar a origem e as
+causas do evento ou surto; e avaliar a extensão geográfica da transmissão.
+8.2.1 Investigação dos casos e dos contatos
+deve identificar as características específicas de cada caso, bem como iniciar a
+busca ativa de outros casos na comunidade e nos centros de notificação locais.
+Serão realizadas as seguintes atividades que permitirão caracterizar a situação.
+◼ Investigação do caso/casos:
+Investigar a história clínica, incluindo sinais de imunodeficiência, histórico
+de vacinação (distinguir o tipo e número de doses de vacinas recebidas),
+razões para não ter esquema de vacinação completo para a idade,
+antecedentes de viagens, história de contato com viajantes do exterior,
+investigação de seu ambiente social e seu contexto comunitário, se é
+contato/trabalhador de laboratório clínico e produção de vacinas.
+◼ Investigação de contatos:
+Amostragem: deverá ser obtida uma amostra de fezes de três contatos
+diretos (ou seja, irmãos, contatos domiciliares, amigos próximos, prefe-
+rencialmente não vacinados ou com esquema de vacinação incompleto)
+e de pelo menos 20 crianças menores de 5 anos de idade, preferencial-
+mente menores de 2 anos, selecionadas de forma aleatória, que vivem
+da OMS.
+esteja comprovada a transmissão em uma determinada área, dentro
+dos últimos 12 meses.
+8.2.2 Busca ativa de casos institucional e comunitária
+◼ Busca ativa institucional de PFA nos hospitais públicos e privados,
+que deve incluir, pelo menos, a revisão dos diagnósticos dos últimos
+seis meses.
+◼ Busca ativa comunitária na área residencial do caso, utilizando dife-
+rentes estratégias de busca (nos estabelecimentos educativos, creches
+84 Ministério da Saúde | Secretaria de Vigilância em Saúde
+e domicílios). O número de famílias a visitar dependerá da densidade
+da população local e de outros fatores, mas deve abranger, pelo menos,
+200 agregados familiares.
+8.2.3 Análise de coberturas
+A análise das coberturas de vacinação de rotina e campanhas, nos últimos
+cinco anos, fornece informação-chave, que deve ser considerada junto
+com a informação epidemiológica, para identificar o grau de suscetibilidade
+da população e o risco de transmissão.
+8.2.4 Diagnóstico laboratorial
+Além de identificar se o poliovírus isolado é um poliovírus selvagem, derivado
+da vacina ou Sabin, o estudo genético das amostras pode permitir identificar
+se houve importação, assim como se for isolado um poliovírus derivado
+da vacina, poderá identificar por quanto tempo o vírus pode estar circulando,
+ou sendo excretado no caso do isolamento de um iPVDV.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 85
+QUADRO 17 – INSTRUÇÕES PARA COLETA, ACONDICIONAMENTO E ENCAMINHAM ENTO DE AMOSTRAS PARA O DIAGNÓSTICO LABORATORIAL
+Quantidade/
+diagnóstico material de coleta1 de coleta2 e conservação
+Amostra na gelo seco e/ou gelo
+fase aguda Os recipientes reciclável. A quantidade
+(até 14 dias de fezes amostras devem suficiente para resistir
+deficiência em torno de a amostra em boca larga em freezer a -20ºC, para a amostra ser
+motora). 8 g, o que é um recipiente rosqueada, até o momento do transportada até o
+Isolamento equivalente laboratório de refe-
+viral/ Fezes Os casos ao tamanho limpo e seco, limpo e seco, envio. Não havendo rência. O coletor com
+RT-qPCR in natura. tardios deverão de 2 dedos de preferência de preferência freezer, colocar em a amostra deve ser
+amostra de universais sem universais sem (4ºC a 8ºC) por até
+um adulto. plástico individual bem
+fezes coletada conservantes. conservantes. no máximo 3 dias,
+até 60 dias não devendo jamais
+pelo gelo. Caso seja
+utilizado o gelo seco,
+da deficiência congelador comum.
+motora.
+transporte aéreo.
+Fonte: Coordenação-Geral de Laboratórios de Saúde Pública, Brasília/DF, 2024.
+1. Outras situações que requeiram coleta de contatos, não previstas neste Guia, deverão ser previamente discutidas com a Coordenação Nacional de Vigilância das PFA/pólio.
+Não coletar amostras de contato que recebeu a vacina oral poliomielite (VOP) nos últimos 30 dias.
+2. O swab retal somente é recomendado nos casos de PFAs que foram a óbito ou em crianças constipadas, nesses casos também pode ser usado supositório de glicerina.
+86 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Pública (Lacens) e os Laboratórios de Referência (LRs).
+O Laboratório Central de Saúde Pública (Lacen) remetente deverá preencher
+obrigatoriamente na Requisição de Transporte Definitivo (RTD) os campos:
+origem, destino, item, observações e encaminhar à Coordenação-Geral
+de Laboratórios de Saúde Pública (CGLAB/SVSA) pelo e-mail cglab.transportes
+@saude.gov.br. Os campos de autorização de remanejamento, programa de
+saúde, data e departamento são de responsabilidade da CGLAB. A RTD que não
+de Ambiente Laboratorial (GAL) será devolvida ao laboratório remetente
+para ajustes (Nota Técnica n.º 12/2023-CGLAB/Daevs/SVSA/MS).
+8.3 AVALIAÇÃO DE RISCO
+devem ser seguidos para qualquer detecção de poliovírus tipo 2 e têm como
+disseminação.
+8.4 RESPOSTA A DETECÇÃO DE POLIOVÍRUS 1 E 3
+Isolamento de uma cepa de PVS em uma amostra humana ou ambiental,
+em um país onde a doença não é endêmica, a investigação deve considerar
+a possibilidade de uma importação ou a liberação do vírus de um laboratório.
+A resposta necessária, incluindo a execução de uma campanha de vacinação,
+da área afetada, as coberturas vacinais e o resultado da investigação.
+Isolamento de PVDV1 ou PVDV3 em espera de classificação: todas as etapas
+realizadas. No entanto, a realização das campanhas de vacinação pode
+ser considerada dependendo da situação local.
+Cepas classificadas como aPVDV: ainda que seja pouco provável que essas
+cepas deem lugar a um surto, a realização das campanhas de vacinação pode
+ser considerada dependendo da situação local (Anexo D).
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 87
+Cepas classificadas como iPVDV: ainda que seja pouco provável que essas
+cepas deem lugar a um surt, não são requeridas campanhas de vacinação
+(Anexo D).
+Surtos de PVS 1 ou 3 e cPVDV tipos 1 ou 3: uma vez dectado um surto de PVS
+ou cPVDV tipos 1 ou 3, devem ser desencadeadas campanhas de vacinação,
+conforme quadro a seguir.
+QUADRO 18 – ETAPAS DE CAMPANHA DE VACINAÇÃO, TIPO DE VACINA A SER
+Primeira (resposta rápida) VOPb Dentro de 14 dias
+Segunda VOPb Dentro de 28 dias
+Terceira VOPb Dentro de 6 a 8 semanas
+Operação limpeza* VOPb Dentro de 90 dias
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+*Em áreas que não alcançaram a meta de vacinação.
+Durante surtos simultâneos de poliovírus tipo 2 e tipo 1 ou 3,
+a resposta ao tipo 2 é prioritária.
+Não se recomenda a administração conjunta de VOPm2 e VOPb,
+em campanhas, por razões operacionais.
+◼ Vigilância reforçada: é a vigilância da PFA em <15 anos, para alcançar
+uma taxa anual de pelo menos três casos de PFA por 100 mil habitantes
+menores de 15 anos, no âmbito estadual, por pelo menos 12 meses,
+após o último caso.
+◼ Atividades adicionais:
+ deslocamento da Equipe de Resposta Rápida (Equipe A) e de Reforço
+da Resposta (Equipe B) (Item 4.9);
+ monitoramento independente das campanhas de vacinação;
+ avaliação independente da resposta ao surto.
+88 Ministério da Saúde | Secretaria de Vigilância em Saúde
+8.5 ENCERRAMENTO DO SURTO
+(ARS) realizará avaliações externas a cada três meses, com a finalidade de
+determinar se foi interrompida a transmissão viral (PVS ou cPVDV).
+Na visita da equipe de Avaliação da Resposta ao Surto ao sexto mês, com
+ser considerado interrompido quando:
+◼ Passaram-se pelo menos seis meses sem detectar de nenhuma fonte
+(caso de PFA, contato ou ambiente) o vírus que causou o surto.
+◼ Indicadores de vigilância dos últimos 12 meses, na área do surto, em áreas de
+alto risco de propagação, assim como área transfronteiriça ao surto*, alcançam:
+ taxa mínima de notificação de PFA não poliomielítica de 3 casos por 100 mil
+menores de 15 anos e
+ pelo menos 80% dos casos com amostras adequadas.
+◼ Fortes evidências de que as áreas de alto risco ou de conflito, deslocamento,
+estratégias** adaptadas tenham sido implementadas de forma exitosa para:
+ interromper a transmissão viral;
+ detectar qualquer transmissão em curso.
+informação qualitativa, no contexto local, a equipe de Avaliação da Resposta
+ao Surto tem a responsabilidade de dar a melhor opinião possível sobre se:
+◼ O surto parece haver terminado, inclusive se não se cumprem estritamente
+os critérios.
+◼ Não se pode considerar que o surto tenha sido interrompido, inclusive na
+ausência de isolamento de vírus.
+*Os critérios devem ser cumpridos no primeiro nível administrativo e em outras áreas se determinado
+pela equipe de avaliação.
+**As estratégias incluem: atividades inovadoras de divulgação da vacinação, busca ativa de casos,
+vigilância comunitária, estimativa da população ainda não alcançada pela vacinação ou pela vigilância.
+do surto sejam cumpridas.
+Se os critérios para "encerramento do surto" não forem cumpridos no País,
+a equipe de ARS recomendará as próximas etapas:
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 89
+◼ Aos seis meses sem detecção de poliovírus – fortalecer o apoio interno
+e externo para resposta e continuar as avaliações da resposta ao surto,
+segundo a metodologia que corresponda.
+◼ De 9 a 12 meses sem detecção viral – implementar um plano adicional
+de emergência de três meses para:
+a . vigilância – por exemplo, intensificar busca ativa de casos na área
+do surto;
+b. campanhas de vacinação – por exemplo, estratégias inovadoras para
+alcançar, para chegar a todas as crianças em populações móveis ou
+de alto risco;
+c. vacinação de rotina – por exemplo, estratégias já provadas para alcançar
+todos os distritos.
+◼ Repetir a avaliação após três a quatro meses.
+Quando se cumpre os critérios e/ou a equipe de Avaliação de Resposta
+ao Surto considera que a resposta ao surto foi suficiente, seguindo a árvore
+de decisão apresentada no Anexo 3, a equipe de avaliação recomenda que
+o surto seja encerrado.
+A Oficina Regional da OMS, em consulta com o OPRTT, considerando os
+achados da equipe avaliadora, compartilhará os informes com as comissões
+interrompido e pode ser encerrado. O país é informado em conformidade.
+informativa antes de partir e apresentará um informe a equipe do país, ao
+presidente da OPRTT, ao Escritório Regional da OMS e ao diretor do programa
+da OMS contra a poliomielite. O escritório regional da OMS confirmará o final
+do surto baseando-se no informe de avaliação e nas recomendações.
+ao surto no prazo máximo de um mês, a partir da finalização da avaliação
+da resposta ao surto.
+90 Ministério da Saúde | Secretaria de Vigilância em Saúde
+A vigilância da paralisia flácida aguda (PFA) seguirá sendo o mecanismo
+primordial para detectar qualquer evento ou surto, sendo a vigilância ambiental
+uma estratégia complementar à vigilância de casos de PFA. Enquanto a vigi-
+lância de PFA visa a toda população, a vigilância ambiental constitui uma
+vigilância sentinela, na maior parte dos casos, podendo ser aplicada em
+situações específicas, como um surto. Em locais onde a vigilância das paralisias
+flácidas agudas (PFA) comprovadamente atende aos padrões de qualidade
+e certificação, a vigilância ambiental, geralmente, não acrescenta muito para
+a sensibilidade do sistema. No entanto, em áreas com vigilância de PFA
+abaixo do ideal, em populações com alta cobertura vacinal ou com vacina
+inativada contra a poliomielite (VIP) em esquemas essenciais de imunização,
+poliovírus do que a vigilância de PFA.
+Portanto, entende-se o importante papel da vigilância ambiental na Estratégia
+Global de Erradicação da Poliomielite, o Ministério da Saúde está avaliando
+a implementação dessa ação em áreas estratégicas no território nacional, com
+o devido financiamento, conforme as diretrizes estabelecidas pela OMS. Mais
+recentemente, em janeiro de 2024, foi instituído no âmbito da Secretaria de
+Vigilância em Saúde, Grupo de Trabalho para desenhar estratégia de resposta de
+emergência para diversos patógenos, incluindo, também, o poliovírus. Espera-
+-se ao final dos trabalhos, a definição de sítios prioritários para a implementação
+da vigilância ambiental da pólio, bem como as diretrizes para implementação
+de estratégia-piloto.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 93
+9.1 DEFINIÇÃO DE EVENTOS DE DETECÇÃO
+QUADRO 19 – DEFINIÇÃO DE EVENTO E SURTO CAUSADOS POR POLIOVÍRUS
+Detecção de:
+1. PVS em uma única amostra ambiental sem evidência de
+Evento eliminação de vírus durante o seguimento* ou
+2. PVDV sem evidência de propagação de transmissão, como:
+ amostra ambiental única sem sinais de circulação
+prolongada, ou seja, há mais de 1,5 anos ou
+ um aPVDV
+3. Cepa Sabin do tipo 2 em uma ou várias amostras ambientais
+Detecção de:
+1. Duas ou mais amostras ambientais independentes** positivas
+para PVS, cujos dados de sequenciamento genético indicam
+há provas 2. Uma amostra única positiva para PVS com provas de
+de transmissão eliminação de vírus durante o seguimento* ou
+(no caso do sorotipo 2 se adiciona: “nenhuma exposição documen-
+tada em um laboratório ou estabelecimento de produção de vacinas”)
+3. Qualquer cPVDV positivo em amostra ambiental
+Fonte: adequação de WHO. Standard Operating Procedures: Responding to a Poliovirus Event or Outbreak.
+Acessado em 19/4/2022.
+*A prova de eliminação do vírus é definida como a detecção durante a investigação de seguimento de
+uma ou mais pessoas infectadas por um PVS ou um cPVDV.
+** “independente” significa que:
+• as amostras foram coletadas em mais de um centro de vigilância ambiental (sem nenhuma sobreposição
+das zonas de captação) ou
+• as amostras foram recolhidas em um só centro, mas se obtiveram com mais de dois meses de intervalo.
+Evento:
+de poliovírus com o objetivo de determinar se está ocorrendo um surto, com
+o apoio dos aliados da GPEI.
+Surto:
+sorotipo, classificação do poliovírus, a imunidade básica da população,
+a situação local e os resultados da investigação epidemiológica inicial. A chave
+com a evolução da situação no curso da investigação.
+94 Ministério da Saúde | Secretaria de Vigilância em Saúde
+9.2 DETECÇÃO
+O Brasil não possui vigilância ambiental da poliomielite implementada,
+para detecção de poliovírus, por esse motivo, é importante que o País esteja
+amostra ambiental.
+9.3 NOTIFICAÇÃO
+De acordo com as obrigações estabelecidas no RSI:
+◼ Os laboratórios de referência para o diagnóstico de poliovírus deverão
+isolamento de um poliovírus (selvagem, derivado da vacina, de qualquer
+sorotipo ou Sabin tipo 2) em uma amostra ambiental coletada no País.
+9.4 INVESTIGAÇÃO
+Descrever a área onde foi coletada a amostra infectada, incluindo informações
+demográficas da população, especialmente de grupos de alto risco,
+movimento populacional e instituições relevantes (por exemplo, unidades
+de saúde, escolas e paradas de ônibus ou de outros transportes).
+Descrever o sistema de esgoto ou drenagem no local da coleta,
+(GIS), quando possível (por exemplo, perfil de elevação, vínculo com outros
+locais e densidade de habitacional). Documentar o cronograma de coleta,
+a pontualidade e a integridade da coleta, assim como a proporção de amostras
+positivas para enterovírus não pólio (NPENT). Registrar qualquer poliovírus
+detectado, incluindo o vírus Sabin.
+Em caso de detecção de um PVS ou um PVDV em amostra ambiental,
+de 20 crianças menores de 5 anos de idade, preferencialmente menores
+de 2 anos, selecionadas de forma aleatória, que vivem na mesma área onde
+foi coletada a amostra ambiental.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 95
+PVS2: a detecção de um PVS2 em uma amostra ambiental é, com toda
+a probabilidade, devido a uma falha de contenção em um laboratório, centro
+de pesquisa ou centro de produção de vacina, justificando a realização de
+onde foi colhida a amostra, assim como, em qualquer laboratório, centro de
+pesquisa ou centro de produção próximos, para identificar algum caso de PFA
+ou para descartar que haja alguma pessoa com infecção subclínica, que esteja
+eliminando o poliovírus. Uma abordagem preventiva exige que a descoberta
+de um PVS2 em uma amostra ambiental, inicialmente, seja considerada como
+uma prova de transmissão provável.
+Sabin 2: existe uma variabilidade considerável dependendo do entorno
+local, as provas empíricas, assim como os modelos matemáticos, indicam
+que se pode esperar que os poliovírus Sabin do sorotipo 2 sigam sendo
+detectáveis, aproximadamente, durante três meses nas fezes e quatro meses
+em amostras de águas residuais, após o último uso da VOPt (ou do uso da
+VOPm2). Ainda que essa detecção deva impulsionar maior vigilância dos
+casos de paralisia flácida aguda, é de esperar que o risco de que isso ocorra
+diminua rapidamente com o tempo. A detecção de pólio Sabin do tipo 2
+após este período de quatro meses depois da retirada da vacina (a partir de
+setembro de 2016) ou do último uso da VOPm2, em uma resposta a um surto
+ou evento, pode ser evidência de que se continua usando a VOPt, portanto,
+indicaria que há risco de transmissão futura possível.
+PVS 1 e 3: em caso de detecção de uma cepa de PVS em um país onde
+a doença não é endêmica, deve-se considerar a possibilidade de que
+tenha ocorrido uma importação ou liberação a partir de um laboratório.
+A resposta necessária, incluindo a execução das campanhas de vacinação,
+do país, a imunidade da população e o resultado da investigação.
+cPVDV: isolamento de PVDV em que há evidências de transmissão de pessoa
+a pessoa na comunidade.
+i. De uma pessoa e uma ou mais amostras do ambiente.
+ii. Duas ou mais amostras do meio ambiente, se tiverem sido obtidas em
+mais de dois centros de coleta diferentes (sem sobreposição de áreas
+de cobertura), ou em um único centro se a coleta foi realizada com
+mais de dois meses de intervalo.
+96 Ministério da Saúde | Secretaria de Vigilância em Saúde
+iii. Um PVDV isolado que apresente características genéticas que
+indicam circulação prolongada, ou seja, um número de alterações
+de nuclueotídeos que indicam um período de 1,5 ano ou mais de
+circulação.
+PVDV: no caso que um PVDV seja de origem ambiental, serão recolhidas
+amostras ambientais adicionais e também amostras de fezes da comunidade.
+PVDV em espera de classificação: a estratégia considera os mesmos passos
+da resposta inicial. Campanhas de vacinação podem ser implementadas
+dependendo da avaliação de risco.
+aPVDV: é pouco provável que as cepas classificadas como aPVDV deem lugar
+a um surto. A estratégia geral de resposta se reduz a investigação de casos e
+contatos. Campanhas de vacinação somente serão realizadas em situações
+consideradas de alto risco.
+a. Busca de casos de PFA na comunidade (comunitário e institucional):
+monitoramento ambiental. As amostras fecais devem ser obtidas dos casos
+de PFA detectados.
+◼ O número de famílias a visitar dependerá da densidade da população
+local, assim como de outros fatores, tais como sistema de esgoto.
+◼ A busca ativa institucional de casos de PFA, nos hospitais públicos
+e privados, deve incluir, pelo menos, a revisão dos diagnósticos dos últimos
+seis meses.
+b. Vigilância reforçada: durante o período de investigação imediata, aumentar
+a frequência da vigilância ambiental, quando está ao alcance. A longo prazo,
+monitoramento ambiental locais ou ampliar os existentes.
+c. Análise de cobertura: a análise das coberturas de vacinação de rotina e
+campanha, nos últimos cinco anos na área afetada, fornece informações
+população e o risco de transmissão.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 97
+9.5 AVALIAÇÃO DE RISCO
+coletadas em pessoas.
+9.6 RESPOSTA
+da situação, incluída a investigação de possíveis falhas na retirada e na destruição
+da VOPt após a substituição, assim como a contenção em laboratórios,
+centros de produção ou pesquisa.
+Conforme a situação, um evento ou um surto podem desencadear uma
+resposta de vacinação (Anexo D e E).
+◼ PVS 1 ou 3 no meio ambiente, devem ser executadas as campanhas
+de vacinação em função da situação local. Ver item 7.4. – Resposta a
+detecção de poliovírus tipo 1 e 3.
+◼ PVS 2 no meio ambiente, a implementação de ações de vacinação
+dependerá dos resultados da investigação, principalmente se for identi-
+ficada transmissão pessoa a pessoa.
+◼ Sabin tipo 2 no meio ambiente, neste caso não requer campanhas
+de vacinação.
+◼ PVDV em espera de classificação, em geral, não requer campanhas de
+vacinação. Entretanto, campanhas de vacinação podem ser consideradas
+dependendo da avaliação de risco.
+◼ aPVDV: é pouco provável que as cepas classificadas como aPVDV
+causem um surto. A estratégia geral de resposta se reduz a investigação
+de casos e contatos. Campanhas de vacinação somente serão realizadas
+em situações consideradas de alto risco.
+◼ cPVDV deve ser realizada campanha de vacinação em todas as áreas
+de risco (ver Quadros 11 e 12, dependendo do tipo de poliovírus).
+98 Ministério da Saúde | Secretaria de Vigilância em Saúde
+10.1 RESPONSABILIDADES DAS AUTORIDADES
+da ação ao longo do processo.
+avaliação de risco e uma resposta enérgica aos surtos causados por poliovírus.
+Com o propósito de cumprir seus compromissos, descritos no Plano
+estratégico integral para a erradicação da poliomielite e a fase final 2013-
+2018, os aliados da GPEI respaldam seis funções-chave na resposta aos surtos.
+1. Preparação para a resposta
+2. Avaliação de risco e planejamento da resposta a eventos/surtos
+3. Coordenação e articulação
+4. Recursos técnicos e humanos
+ gestão da informação
+ comunicação, mobilização social e mudança de comportamento
+ atividades de vacinação
+ fortalecimento da vigilância
+ segurança e acesso
+5. Financiamento e logística, incluindo a mobilização coordenada de recursos
+6. Avaliação de resposta ao surto
+10.2 POLÍTICAS FUNDAMENTAIS DA GPEI PARA
+de emergência da GPEI e a política de “prevenção sem arrependimento”
+em matéria de apoio econômico, onde for necessário.
+10.2.1 Política de reforço da resposta
+equipes de apoio a resposta. A GPEI deve mobilizar rapidamente profissionais
+experientes ao país afetado, para que se unam a equipe de resposta nacional.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 101
+Esta mobilização de recursos humanos ocorre depois da investigação inicial,
+avaliação de risco e classificação do surto por parte do EOMG. Portanto,
+a mobilização da equipe A será iniciada somente depois de 72 horas após
+a notificação do resultado de laboratório.
+assegurada a presença simultânea da equipe A e B, durante o tempo mínimo
+de uma semana, a fim de alcançar uma transição completa e minuciosa.
+A política de reforço da resposta baseia-se nos seguintes princípios:
+◼ A definição das funções-chave que precisam de uma dotação pessoal
+imediata e a longo prazo, segundo o grau do surto.
+◼ A criação de uma equipe de resposta rápida, denominada equipe A, que
+possa deslocar-se a área de risco em um prazo de 72 horas.
+◼ A criação de uma equipe de reforço da resposta, denominada equipe B,
+para os deslocamentos a maior prazo.
+◼ A capacitação rápida de pessoal sobre os procedimentos adotados
+de detecção e os surtos causados por poliovírus do sorotipo 1, 2 e 3.
+◼ A garantia que a equipe B ocupe seus postos nas primeiras três
+equipe A, como mínimo durante uma semana, com o fim de alcançar
+uma transferência completa e minuciosa.
+10.2.2 Política de “prevenção sem arrependimento”
+A política de “prevenção sem arrependimento”, consiste que a GPEI ponha,
+de imediato, no começo das situações de emergência, à disposição do país,
+recursos humanos e financeiros suficientes, ainda que posteriormente fique
+claro que era necessária uma contribuição menos importante.
+102 Ministério da Saúde | Secretaria de Vigilância em Saúde
+VOPm2
+– manejo,
+monitoramento,
+O monitoramento rigoroso do armazenamento, a distribuição, o uso e a
+destruição da VOPm2 são essenciais para que a vacina não seja misturada
+deixado no país após a conclusão das campanhas de vacinação.
+11.1 MANEJO DA VOPm2
+e o monitoramento do uso da VOPm2.
+◼ Quando um evento ou surto de poliovírus do sorotipo 2 é detectado,
+não existem reservas da VOPm2 no país.
+◼ A resposta de vacinação deve começar dentro de duas semanas, após
+a confirmação laboratorial.
+◼ O informe da chegada da vacina deve ser preenchido e enviado para
+a representação Opas/OMS, dentro de 24 horas após a chegada da
+vacina ao país.
+◼ A VOPm2 será armazenada e transportada separadamente de outras
+vacinas na rede de frio.
+◼ Assegurar que todos os frascos de VOPm2 da Central de Armazenamento
+de São Paulo sejam distribuídos devidamente, por meio da rede de frio,
+até o serviço de vacinação claramente identificados.
+◼ Distribuir a VOPm2 somente às áreas afetadas pelo surto, de acordo
+solicit ação da VOPm2.
+◼ No final de cada etapa de campanha de vacinação, as equipes de
+(usados no todo ou em parte), assim como os fechados ao estabele-
+cimento de saúde:
+ em seguida, no estabelecimento de saúde, deve ser realizada a
+inativação e a destruição de maneira segura, conforme as normas
+nacionais, de todos os frascos abertos (usados no todo ou em parte).
+Se isso não puder ser feito no estabelecimento de saúde, deve-se
+enviá-los para a rede de frio municipal ou estadual;
+ Os frascos fechados devem ser armazenados de maneira segura no
+estabelecimento de saúde, se a rede de frio for confiável, caso contrário,
+devem ser enviados para a rede de frio municipal ou estadual.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 105
+No final da campanha, todos os frascos fechados da VOPm2 devem ser
+devolvidos para o estabelecimento do nível municipal ou estadual, de
+acordo com as orientações do Ministério da Saúde, assegurando que
+sejam armazenados de maneira segura, separados e identificados, até que
+o Ministério da Saúde, de acordo com a Equipe de Avaliação da Resposta
+ao Surto, dê instruções sobre seu uso ou destruição.
+Se a destruição for recomendada, deve-se inativar e descartar com segurança
+de frio.
+O país utilizará instrumentos para controlar o número de frascos de VOPm2
+distribuídos, abertos, fechados e destruídos.
+a documentação referente à retirada e à destruição da VOPm2.
+11.2 MONITORAMENTO DA DISTRIBUIÇÃO
+DA VOPm2
+VOPm2, considerando os requisitos específicos para o manuseio, a destruição
+e a eliminação, os instrumentos para registro de dados serão adaptados
+a partir do FormSUS.
+11.3 DESTRUIÇÃO E ELIMINAÇÃO SEGURA
+DA VOPm2
+As localidades e/ou municípios que utilizarem a VOPm2 terão que recolher,
+inativar e destruir o resíduo da vacina no local, sendo necessária a inativação
+antes da destruição.
+Segundo a RDC n.º 306, de 7 de dezembro de 2004, é responsabilidade
+de todo gerador de resíduos de serviços de saúde (RSS) elaborar seu Plano
+de Gerenciamento de Resíduos Sólidos de Serviços de Saúde (PGRSS),
+descrevendo as ações relativas ao manejo dos resíduos, contemplando
+geração, segregação, acondicionamento, coleta, armazenamento, transporte
+e disposição final. O município que não possua PGRSS implantado deve
+solicitar apoio complementar ao estado ou à União.
+106 Ministério da Saúde | Secretaria de Vigilância em Saúde
+O resíduo resultante da VOPm2, segundo a resolução supracitada, é classificado
+como grupo A1 (resíduos com a presença de microrganismos vivos ou
+atenuados) e deve ser submetido a tratamento por autoclavagem, de acordo
+com a Nota Técnica n.º 002/2011 – UINNFS/GGTES/Anvisa e posteriormente
+incinerado, gerando resíduo do grupo D (lixo comum).
+Considera-se que todo o processo de descarte da VOPm2 deverá atender
+a legislação vigente no país e, diante dos esforços despendidos para
+erradicação desta doença no Brasil, a disposição final do resíduo deve ocorrer
+conforme descrito na Resolução Conama RDC n.º 358/2005.
+Ainda segundo a Nota Técnica n.º 002/2011 – UINNFS/GGTES/Anvisa,
+se a opção for a autoclavagem, o equipamento destinado ao tratamento dos
+resíduos resultantes de atividades de vacinação, apesar de possuir as mesmas
+características técnicas exigidas para os processos de esterilização, deve ser
+exclusivo para aquele fim.
+outro estabelecimento, observadas, neste caso, as condições de segurança
+disposto na legislação vigente.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 107
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Nota Técnica
+n.º 002/2011 – UINFS/GGTES/ANVISA. Tratamento de resíduos resultantes
+de atividades de vacinação com microorganismos vivos ou atenuados.
+Brasília, DF: Anvisa, 12 abr. 2011. Disponível em: http://idisa.org.br/site/
+documento_4972_0__nota-tecnica-orienta-sobre-descarte-de-vacinas.html.
+Acesso em: 21 out. 2022.
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Nota Técnica
+GVIMS/GGTES/ANVISA n.º 04/2020, de 31 de março de 2023.
+Orientações para Serviços de Saúde: Medidas de Prevenção e
+Suspeitos ou Confirmados de COVID-19. Brasília, DF: Anvisa, 2023.
+Disponível em: https://www.gov.br/anvisa/pt-br/centraisdeconteudo/
+publicacoes/servicosdesaude/notas-tecnicas/notas-tecnicas-vigentes/
+NT042020covid31.03.2023.pdf. Acesso em: 18 set. 2024.
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Resolução RDC
+n.º 306, de 7 de dezembro de 2004. Dispõe sobre o Regulamento Técnico
+para o gerenciamento de resíduos de serviços de saúde. Diário Oficial da
+União: seção 1, Brasília, DF, n. 237, p. 1, 10 dez. 2004. Disponível em: https://
+bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0306_07_12_2004.
+html. Acesso em: 21 out. 2022.
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Resolução – RDC
+n.º 203, de 26 de dezembro de 2017. Dispõe sobre os critérios e procedi-
+mentos para importação, em caráter de excepcionalidade de produtos
+sujeitos à vigilância sanitária sem registro na Anvisa. Brasília, DF: Anvisa, 2017.
+Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2017/
+rdc0203_26_12_2017.pdf. Acesso em: 21 out. 2022.
+BARBOSA, A.C.S.; PASSOS, S.G. Atuação do enfermeiro responsável técnico em
+sala de vacinas. Revista JRG de Estudos Acadêmicos – DF, v. 6, n. 13, 2023.
+BRASIL. Ministério da Saúde. Nota Técnica n.º 10/2023 – CGVDI/DIMU/
+SVSA/MS. Brasília, DF: MS, 2023a. Disponível em https://www.gov.br/saude/pt-
+br/centrais-de-conteudo/publicacoes/notas-tecnicas/2023/nota-tecnica-
+10-2023-cgvdi-dimu-svsa-ms.pdf/view . Acesso em: 20 mar. 2024.
+BRASIL. Ministério da Saúde. Nota Técnica n.º 25/2023 – CGVDI/DIMU/
+SVSA/MS. Brasília, DF: MS, 2023b. Disponível em: https://www.gov.br/saude/
+pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2023/nota-
+tecnica-no-25-2023-cgvdi-dimu-svsa-ms/view . Acesso em: 29 mar. 2024.
+BRASIL. Ministério da Saúde. Portaria de Consolidação n.º 2, de 28
+de setembro de 2017. Consolidação das normas sobre as políticas
+nacionais de saúde do Sistema Único de Saúde. Brasília, DF: MS, 2017a.
+Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/
+MatrizesConsolidacao/Matriz-2-Politicas.html. Acesso em: 10 out. 2022.
+BRASIL. Ministério da Saúde. Portaria de Consolidação n.° 5, de 28 de
+setembro de 2017. Consolidação das normas sobre as ações e os serviços
+de saúde do Sistema Único de Saúde. Brasília, DF: MS, 2017b. Disponível em:
+Consolidacao_5_28_SETEMBRO_2017.pdf. Acesso em: 2 maio 2022.
+BRASIL. Ministério da Saúde. Portaria GM/MS n.º 1.604, de 18 de outubro
+de 2023. Brasília, DF: MS, 2023c. Disponível em https://bvsms.saude.gov.br/
+bvs/saudelegis/gm/2023/prt1604_20_10_2023.html. Acesso em: 1 mar. 2024.
+BRASIL. Ministério da Saúde. Portaria GM/MS n.º 1.693. Institui a Vigilância
+Epidemiológica Hospitalar (VEH). Brasília, DF: MS, 2021a. Disponível em:
+html. Acesso em: 1 mar. 2024.
+BRASIL. Ministério da Saúde. Portaria GM/MS n.º 4.641, de 28 de dezembro
+de 2022. Altera as Portarias de Consolidação GM/MS n.º 3 e 5, de 28 de
+setembro de 2017, para instituir o Centro de Informações Estratégicas em
+110 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Vigilância em Saúde (CIEVS) e a Rede Nacional dos Centros de Informações
+Estratégicas em Vigilância em Saúde (Rede CIEVS), ambos no âmbito do
+Sistema Único de Saúde (SUS). Diário Oficial da União: seção 1, Brasília, DF,
+p. 928, 29 dez. 2022a.
+BRASIL. Ministério da saúde. Portaria n.º 1.130, de 5 de agosto de 2015.
+Brasília, DF: MS, 2015. Disponível em: https://bvsms.saude.gov.br/bvs/
+saudelegis/gm/2015/prt1130_05_08_2015.html. Acesso em: 1 abr. 2024.
+BRASIL. Ministério da Saúde. Portaria n.º 1.865, de 10 de agosto de 2006.
+Internacional (2005) junto à Organização Mundial de Saúde.
+Diário Oficial da União: seção 1, Brasília, DF, 11 ago. 2006.
+BRASIL. Ministério da Saúde. Portaria n.º 635, de 22 de maio de 2023. Institui,
+define e cria incentivo financeiro federal de implantação, custeio
+Primária à Saúde. Brasília, DF: MS, 2023d. Disponível em: https://bvsms.saude.
+gov.br/bvs/saudelegis/gm/2023/prt0635_22_05_2023.html. Acesso em:
+9 de março de 2024.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento
+de Atenção Básica. Política Nacional de Atenção Básica. Brasília, DF: MS, 2012.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Guia de Vigilância em Saúde. 5. ed. rev. e atual. Brasília, DF: MS, 2022b.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Emergências em Saúde Pública. Plano de Fortalecimento e Ampliação da
+Rede Nacional de Vigilância Epidemiológica Hospitalar – Renaveh – Brasília,
+DF: MS, 2021b.
+BRASIL. Ministério da Saúde; FUNDAÇÃO NACIONAL DE SAÚDE. Centro
+Nacional de Epidemiologia. Programa Nacional de Imunizações: PNI 25
+anos. Brasília, DF: MS, 1998. Disponível em https://bvsms.saude.gov.br/bvs/
+publicacoes/cd03_10.pdf. Acesso em: 18 set. 2024.
+CALDAS, A. C.L. et al. Os desafios do profissional de enfermagem frente à baixa
+cobertura vacinal em criança. Revista Foco, Curitiba, v.16, n.10, p. 1-11, 2023.
+CAMPOS, A. L. V. de; NASCIMENTO, D. R. do; MARANHÃO, E. A história da
+poliomielite no Brasil e seu controle por imunização. História, Ciências,
+Saúde: Manguinhos, Rio de Janeiro, v. 10, p. 573-600, 2003. Supl. 2.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 111
+Disponível em https://scielo.br/j/hcsm/a/9tFSfwSZjFX6NpSvxq9NZws/?lan
+g=pt. Acesso em: 18 set. 2024.
+CONSELHO NACIONAL DO MEIO AMBIENTE (Brasil). Resolução Conama
+n.º 358, de 29 de abril de 2005. Dispõe sobre o tratamento e a disposição final
+dos resíduos dos serviços de saúde e dá outras providências. Diário Oficial da
+União: seção 1, Brasília, DF, n. 84, p. 63-65, 4 maio 2005. Disponível em: https://
+www.legisweb.com.br/legislacao/?id=102253. Acesso em: 21 out. 2022.
+FLORES, P. C. B.; MAGALHÃES, P. R.; FLORES, A. B.; BRAULINO, E. C.; NOGUERA,
+A. M. V.; SANTOS, J. T.; FERNANDES, I. T. G. P. Ações do enfermeiro na estratégia
+saúde da família frente a poliomielite no Brasil. Brazilian Journal of Health Review,
+[s. l.], v. 4, n. 4, p. 14539-14550, 2021. Disponível em: https://ojs.brazilianjournals.com.
+br/ojs/index.php/BJHR/article/view/32370. Acesso em: 6 mar. 2024.
+IBGE. Projeções e estimativas da população do Brasil e das Unidades da
+Federação. Rio de Janeiro: IBGE, 2022. Disponível em: https://www.ibge.gov.
+br/apps/populacao/projecao/index.html. Acesso em: 14 out. 2022.
+KERR L. Da erradicação ao risco de reintrodução da poliomielite no Brasil.
+Ciênc. saúde coletiva, [s. l.], v. 28, n. 2, p. 328, 2023. Disponível em:
+MATIAS, A.S.; YAVORSKI R.; SANTOS E CAMPOS, M.A. A Prática da Enfermeira
+na Sala de Vacina: reflexão acerca das atividades executadas. Revista Ibero-
+Americana de Humanidades, Ciências e Educação, São Paulo, v. 9, n. 3, 2023.
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. Procedimentos Operacionais
+Padrão: Resposta a um Evento ou Surto de Poliovírus. Brasília, DF:
+Opas, mar. 2022. Disponível em: https://iris.paho.org/bitstream/
+handle/10665.2/56489/9789275726259_por.pdf?sequence=1&isAllowed=y.
+Acesso em: 19 set. 2024.
+ORGANIZAÇÃO PAN-AMERICANA DE SAÚDE. Poliomielite. Brasília, DF: Opas,
+[2024]. Disponível em: https://www.paho.org/pt/topicos/poliomielite. Acesso
+em: 14 mar. 2024.
+RIO DE JANEIRO. Secretaria Municipal de Saúde. Fluxograma para notificação
+e investigação de caso suspeito de Paralisia Flácida Aguda. Rio de Janeiro:
+SMS, 2024. Disponível em: https://subpav.org/aps/uploads/publico/
+repositorio/SVS_CVE_Fluxograma_Notificacao_Investigacao_Paralisia_
+Fl%C3%A1cida_Aguda_2024.pdf. Acesso em: 29 mar. 2024.
+WORLD HEALTH ORGANIZATION. Joint external evaluation tool: International
+Health Regulations (2005) – third edition. Geneva: WHO, 2022.
+112 Ministério da Saúde | Secretaria de Vigilância em Saúde
+As principais referências deste anexo são as seguintes:
+◼ A orientação da OMS para a utilização do Anexo 2 do Regulamento
+Sanitário Internacional de 2005.
+◼ A declaração da OMS sobre a sétima reunião do Comitê de Emergências
+do Regulamento Sanitário Internacional (RSI) para examinar a propa-
+gação internacional de poliovírus; declaração da OMS de 3 de dezembro
+de 2015.
+◼ A definição de casos do Regulamento Sanitário Internacional, Anexo 2
+do RSI.
+a. Eventos e situações de notificação obrigatória relacionadas
+que se apresentam a seguir, pois “podem constituir uma emergência de saúde
+pública”, segundo o estabelecido no RSI:
+1. Uma cepa de PVS ou de PVDV isolada de um caso de PFA ou um
+devem ser notificadas a OMS, de acordo com o RSI, seja qual for
+o contexto em que elas ocorram.
+2. Uma cepa de PVS ou PVDV isolada de uma fonte que não seja um caso
+de PFA (amostra ambiental ou amostra humana sem paralisia) também
+deve ser notificada à OMS, uma vez que atende a pelo menos dois dos
+quatro critérios de notificação do Anexo 2 do RSI (2005), a saber: (i) tem
+um grave impacto sobre a saúde pública; e ii) é um evento inusitado ou
+imprevisto. É possível que também cumpram com os dois critérios finais,
+a saber: (iii) representa um risco significativo de propagação internacional
+da doença; e (iv) comporta um risco significativo de restrições a viagens
+ou ao comércio internacional.
+114 Ministério da Saúde | Secretaria de Vigilância em Saúde
+3. Uma cepa de vírus tipo Sabin do sorotipo 2 detectada após a substi-
+tuição também deve ser notificada à OMS, quando mais de quatro
+meses se passaram desde a mudança de VOPt para VOPb, ou seja,
+a partir de setembro de 2016; pois este evento atende a pelo menos
+dois dos quatro critérios de relatório no Anexo 2 do RSI (2005)3.
+b. O momento da avaliação e a notificação oficial
+Em um país, todos os eventos de saúde pública que podem cumprir com
+possível notificação, em um prazo de 48 horas desde o momento em que o
+país tenha conhecimento do evento no âmbito nacional. Essa avaliação regular
+dos eventos nacionais deve fundamentar-se na informação de saúde pública
+profissionais de saúde pública com experiência. Esse evento pode voltar a ser
+reavaliado no transcorrer do tempo, conforme seja necessário, e à medida
+que se conta com nova informação sobre ele.
+de acordo com o instrumento de decisão do RSI, tem a obrigação de notificar
+a OMS dentro de 24 horas. Quando a avaliação inicial de um evento é negativa,
+mas em uma avaliação posterior são reunidos os requisitos de notificação,
+neste momento se deve notificar o evento a OMS nas primeiras 24 horas após
+essa reavaliação positiva.
+c. Nota especial sobre um evento detectado fora do
+De acordo com o artigo 9.2 do RSI "Outros relatórios", o país deve comunicar
+a OMS, dentro de 24 horas após o recebimento das provas, todo risco para
+causar a propagação internacional de uma doença.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 115
+Detalhes do caso/amostra
+◼ Tipo de vírus: selvagem/PVDV/Sabin 2.
+◼ Sorotipo do vírus: tipo1, 2 ou 3.
+◼ Fonte: PFA/Meio ambiente/pessoa
+assintomática.
+◼ Data de início da paralisia ou data de coleta da
+amostra ambiental.
+◼ Data de notificação a Opas Brasil/Opas Regional.
+◼ Data de notificação a OMS. DPNI, LRN
+◼ Lugar de início da PFA ou coleta da amostra
+ambiental.
+◼ Idade da pessoa e antecedente de vacinação
+com VOP e tipo de vacina.
+◼ Resultados do Sequenciamento Genético:
+natureza do vírus (número de nucleotídeos
+se estiver disponível/aplicável) + Evidência
+de circulação.
+Breve resumo do último PVDV/poliovírus
+◼ Detalhes do caso ou da amostra ambiental
+DPNI, LR,
+ tipo de vírus: PVS/PVDV; sorotipo;
+ data de início da PFA/data de coleta da que coletou
+amostra ambiental; amostra
+ localização geográfica.
+◼ Número de campanhas desde o último caso
+até o isolamento positivo no ambiente.
+localização – DPNI
+do caso(s)
+116 Ministério da Saúde | Secretaria de Vigilância em Saúde
+a. Vacinação de rotina contra poliomielite (VIP/VOP)
+◼ Situação vacinal dos casos de PFA notificados
+de 6–59 meses (gráfico de barras)
+◼ Nos âmbitos nacional e estadual
+◼ No âmbito municipal:
+ % de doses zero,
+ % de 3 ou mais doses.
+b. Campanhas
+◼ Número de campanhas durante o ano presente
+e tipo de vacina utilizada [indicar se a(s) área(s)
+afetada(s) alcançaram cobertura vacinal ≥95%].
+Desempenho ◼ Informação das campanhas do ano anterior
+do Programa e tipo de vacina utilizada [indicar se as áreas DPNI
+de Imunização afetadas alcançaram cobertura vacinal ≥95%].
+c. Estimativa da cobertura de rotina realizada
+pela OMS/Unicef
+◼ Pólio3 (VIP/VOP) e DTP3/Penta3 no ano presente.
+◼ Pólio3 (VIP/VOP) e DTP3/Penta3 nos 5 anos
+anteriores.
+d. Data da substituição da VOPt-VOPb
+◼ Tempo transcorrido após a interrupção do uso
+da VOPt (semanas/meses/anos transcorridos
+e a deteção do poliovírus).
+e. Data de introdução da VIP e esquema utilizado
+f. Análises e conclusões
+a. Indicadores de qualidade da vigilância da PFA
+(últimos 5 anos) DPNI
+b. Análises e conclusões
+Os eventos do Sentinel podem incluir:
+a. Casos de doença imunoprevenível (por exemplo,
+sarampo, difteria e/ou PVDV de qualquer tipo)
+que sugira baixas coberturas de vacinação.
+b. Casos de doença que sugira risco de trans-
+qualquer natureza,
+missão pessoa a pessoa, por exemplo, cólera.
+não a pólio, que c. Deslocamento rápido ou movimento contínuo
+comunidade ou vacinadas.
+investigação e na avaliação de risco.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 117
+a. População
+◼ População <5 e <15 anos de idade por UF,
+◼ Movimentos populacionais dentro do país
+e na área afetada:
+ Movimento interno de pessoas, focado
+na área afetada.
+ Populações deslocadas.
+◼ População de alto risco em áreas afetadas:
+ Características das populações deslocadas,
+Contexto DPNI/SES/
+comunidades de difícil acesso.
+do Brasil SMS/Dsei
+ Razões para considerar de “alto risco”.
+◼ As fronteiras internacionais, país(es) vizinho(s)
+e movimento da população:
+ Proximidade das áreas afetadas às fronteiras.
+ Os padrões de comércio e viagem.
+b. Segurança: desastres naturais, instabilidade
+c. Eventos próximos no país que possam afetar
+a resposta (ex.: eleições, eventos que possam
+envolver pessoal-chave do Ministério da Saúde)
+Prestação de serviços de imunização:
+◼ Sistema de imunização: forte/moderado/débil
+(especificar).
+◼ Recursos humanos para a gestão em todos
+os níveis: adequado/inadequado/escasso
+(especificar).
+◼ Recursos humanos para a prestação de de gestão
+serviços: adequado/inadequado/escasso
+(especificar).
+◼ Experiência anterior na realização de
+campanhas nacionais de vacinação.
+118 Ministério da Saúde | Secretaria de Vigilância em Saúde
+a. As principais conclusões da investigação
+de campo.
+b. Casos não notificados de PFA encontrados por
+e nos serviços de saúde.
+c. Situação da cobertura da VIP/VOP avaliada
+Cobertura Vacinal (MRC) na comunidade.
+(a ser completada d. Número e resultados de testes laboratoriais DPNI/SES/
+pelo escritório de casos e contatos de PFA ou amostras do SMS/Dsei
+regional e do ambiente na comunidade.
+país, uma vez que
+e. Resumo da busca ativa realizada.
+f. Conexões de viagem e movimento da
+disponível)
+população:
+◼ Viagens para outras áreas do país: nome
+dos municípios e localidades.
+◼ Viagens para outros países: nome dos países,
+províncias e distritos.
+e escritório regional, quando as informações
+estiverem disponíveis.
+a. Investigação de campo
+◼ Investigação laboratorial.
+◼ Exaustiva busca e investigação de casos.
+b. Reforçar as medidas de vigilância de
+PFA/meio ambiente.
+Proposta de c. Alcançar cobertura de rotina ≥95% (incluindo
+linha de ação VPOb e VIP).
+d. Planos para a resposta de vacinação
+◼ VOPm2 solicitada: SIM/NÃO:
+ Justificativa (breve).
+ População-alvo, área geográfica, faixa etária.
+ Doses solicitadas para cada campanha.
+ Datas propostas das campanhas 1 e 2.
+e. Planos para informar os países vizinhos: [quem,
+quando, como, por quem].
+– DPNI
+com VOPm2
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 119
+Discussão, conclusão e recomendações:
+a. Avaliar o risco
+◼ Risco virológico.
+◼ Risco de propagação.
+◼ Risco de propagação internacional.
+b. Avaliar a necessidade do uso da VOPm2,
+o número de doses, as etapas, a área a ser
+vacinada e a faixa etária-alvo.
+c. Enviar recomendação a diretor(a)-geral da OMS.
+d. Enviar recomendações ao país.
+e. Enviar instruções para a Divisão de Suprimentos
+da Unicef.
+Fonte: WHO, 2022 adaptado.
+120 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Avaliação da resposta a cada 3 meses
+Nenhum poliovírus detectado de qualquer fonte por pelo menos 6 meses
+Avaliação da resposta depois de 6 meses sem detecção de poliovírus
+Boa evidência de:
+Evidência insuficiente de:
+◼ resposta de vacinação efetiva
+◼ vacinação de alta qualidade
+◼ vigilância de PFA sensível
+◼ vigilância de PFA sensível
+Surto,
+sido interrompido.
+provavelmente,
+A avaliação da resposta a cada 3 meses ou conforme apropriado
+◼ implementado por mais 3 meses, o plano de ação de emergência para
+vigilância. Completar 12 meses “+ um mês” para concluir as provas de
+laboratório1 e o informe, desde a data do último poliovírus isolado
+1 Resultado de laboratório disponíveis para todas as amostras coletadas
+O período "mais 1 mês" garante que:
+◼ Todas as amostras de fezes das pessoas (casos ou contatos de PFAs notificados
+ou de pessoas) cuja data de início ou coleta de amostra ocorreram nos últimos
+12 meses tiveram um resultado negativo para poliovírus.
+◼ Todas as amostras ambientais coletadas durante os últimos 12 meses tiveram
+resultado negativo para poliovírus.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 121
+Cepa Fonte Resposta geral Prazo**
+◼ Busca ativa de casos ◼ Planejamento
+transmissão viral. de vacinação,
+◼ Avaliação da imuni- dependendo da
+PVS 1 ou 3 Meio dade da população. situação local, –
+◼ Vigilância reforçada.
+◼ Avaliação da aliados da GPEI.
+resposta ao evento,
+campanhas.
+◼ Busca ativa ◼ Planejamento
+de evidências de vacinação, em
+transmissão viral. função da situação
+◼ Avaliação da local.
+imunidade da ◼ Realizar campanhas
+população. somente em
+◼ Vigilância reforçada. situações de
+Meio alto risco. Neste
+◼ Avaliação da Em situação
+ambiente caso, planejar 2
+resposta ao evento, de alto risco:
+(sem campanhas de
+PVS2 evidência de vacinação de alta
+campanhas. campanha
+uma pessoa qualidade.
+eliminando  Grupo de idade:
+14 dias.
+o vírus) <5 anos.
+ Tamanho da
+população:
+afetada.
+ Vacina escolhida:
+VOPm2.
+ Solicitação de
+vacina à diretora-
+-geral da OMS.
+122 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Cepa Fonte Resposta geral Prazo**
+Sabin 2
+◼ Investigação epide- Não são requeridas
+◼ Ser
+miológica e social atividades de vaci-
+Sabin- humano ◼ Avaliação da imun i- nação, exceto se for –
+-like 2 ◼ Meio dade da população situação de alto risco
+◼ Vigilância reforçada
+◼ Investigação ◼ Planejamento e
+epidemiológica execução de cam-
+e social. panhas de vaci na-
+◼ Busca ativa ção, em função da
+de casos na situação local.
+comunidade e ◼ Em situações de
+transmissão viral. primeira campanha
+◼ Avaliação da na área afetada + Em situação
+imunidade da 2 campanhas de de alto risco:
+aPVDV2 ◼ Ser população. alta qualidade + primeira cam-
+ou VDPV2 humano ◼ Vigilância reforçada. “operação limpeza” panha dentro
+(pendente (se necessária). de 14 dias.
+de classi- ◼ Meio ◼ GPEI assessora
+ficação) ambiente sobre risco  Grupo de idade: A oportu-
+virológico. <5 anos. nidade é
+ Tamanho da fundamental.
+◼ Fortalecimento da
+população:
+com VIP.
+afetada.
+◼ Avaliação da
+ Vacina escolhida:
+resposta ao evento,
+VOPm2.
+campanhas.  Solicitação de
+vacina à diretora-
+geral da OMS.
+◼ Tratamento com
+iPVDV 2 e epidemiológica. o caso + anticorpos –
+medicamentos anti-
+virais, se disponíveis.
+◼ VIP para os mem-
+contatos próximos.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 123
+Cepa Fonte Resposta geral Prazo**
+◼ Investigação epide-
+miológica e social.
+◼ Busca ativa de casos
+PVDV 1 ◼ Ser transmissão viral.
+ou 3
+humano ◼ Avaliação da Campanhas podem
+(em espe- –
+ra de clas- ◼ Meio imunidade da ser consideradas.
+ambiente população.
+sificação)
+◼ Vigilância reforçada
+◼ Avaliação da
+campanhas.
+◼ Investigação epide-
+miológica e social.
+◼ Busca ativa de casos
+◼ Ser
+transmissão viral.
+aPVDV 1 humano Campanhas podem
+◼ Avaliação da imuni- –
+ou 3 ◼ Meio dade da população. ser consideradas.
+◼ Vigilância reforçada.
+◼ Avaliação da
+resposta ao evento,
+campanhas.
+iPVDV 1
+Ser humano epidemiológica campanhas de –
+ou 3
+e social. vacinação.
+Fonte: WHO, 2022.
+124 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+VOPm2
+Solicitar ao diretor-
+Campanha 1 (rodada zero)1
+-geral da OMS por Dentro de 14 dias.
+< 5 anos meio do Grupo A resposta oportuna
+de risco imediato (epicentro área afetada.
+Assessor sobre a é fundamental.
+do surto)
+VOPm2 (mOPV2
+Advisory Group).
+Campanha 2
+afetada, cons iderar
+Microplanejamento de alta < 5 anos VOPm2 Dentro de 28 dias.
+cPVDV2 todas as zonas
+em risco.
+◼ Ser humano
+Campanha 3
+◼ Meio ambiente
+afetada, con siderar
+Com melhorias adicionais < 5 anos VOPm2 Dentro de 6–8 semanas.
+em risco.
+Operação limpeza2
+3 meses (90 dias) a partir da
+áreas/zonas de saúde que
+Conforme necessário. < 5 anos VOPm2 sequenciamento de vírus, em
+de qualidade (por exemplo:
+cobertura <95%)
+de qualidade.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 125
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+adicional2 ou ampliação do
+número de campanhas, se
+o surto não for interrom-
+cPVDV2
+pido dentro de 120 dias.
+Consulta contínua à GPEI e ao mOPV2 Advisory Group para revisar
+◼ Ser humano Campanhas 4 e 5 podem
+a estratégia e seu alcance.
+◼ Meio ambiente
+necessário, até que duas
+realizadas, após a última
+detecção do poliovírus3
+Campanha 1 (rodada zero)1
+Dentro de 14 dias.
+<5 anos VOPb A resposta oportuna
+de risco imediato (epicentro área afetada.
+é fundamental.
+do surto)
+<5 anos
+Campanha 2 Dependendo da área
+(ou faixa etária
+Microplanejamento afetada, considerar VOPb Dentro de 28 dias.
+ampliada, se
+justificada)
+cPVDV1 ou 3
+Campanha 3 Dependendo da área
+◼ Ser humano
+Com melhorias adicionais afetada, considerar <5 anos VOPb Dentro de 6–8 semanas.
+◼ Meio ambiente
+Operação limpeza2
+3 meses (90 dias) a partir da
+áreas/zonas de saúde que
+Conforme necessário. <5 anos VOPb do sequenciamento de vírus,
+de qualidade (por exemplo:
+cobertura <95%
+padrões de qualidade.
+126 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+adicional2 ou ampliação do
+número de campanhas, se
+o surto não for interrom-
+cPVDV1 ou 3
+pido dentro de 120 dias.
+◼ Ser humano Campanhas 4 e 5 podem Consulta contínua à GPEI para revisar a estratégia e seu alcance.
+ser realizadas, caso
+◼ Meio ambiente
+necessário, até que duas
+realizadas, após a última
+detecção do poliovírus3
+Campanha 1 (rodada zero)1
+Dentro de 14 dias.
+<5 anos VOPb A resposta oportuna
+de risco imediato (epicentro área afetada.
+é fundamental.
+do surto)
+PVS 1 ou 3 Dependendo da área
+Campanha 2
+afetada, considerar
+◼ Ser humano Microplanejamento de alta <5 anos VOPb Dentro de 28 dias.
+◼ Meio ambiente qualidade em risco.
+Campanha 3
+afetada, considerar
+Com melhorias adicionais <5 anos VOPb Dentro de 6-8 semanas.
+em risco.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 127
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+Operação limpeza2
+3 meses (90 dias) a partir da
+áreas/zonas de saúde que
+Conforme necessário. <5 anos VOPb sequenciamento de vírus, em
+de qualidade (por exemplo:
+cobertura <95%)
+de qualidade.
+PVS 1 ou 3 Operação limpeza
+adicional2 ou ampliação
+◼ Ser humano
+do número de campanhas,
+◼ Meio ambiente se o surto não for interrom-
+pido dentro de 120 dias.
+Consulta contínua à GPEI e ao mOPV2 Advisory Group para revisar
+Campanhas 4 e 5 podem
+a estratégia e seu alcance.
+ser realizadas, caso
+necessário, até que duas
+realizadas, após a última
+detecção do poliovírus3
+PVS 2 VOPm2
+◼ Ser humano Campanha 1 (rodada zero)1 Solicitar ao diretor-
+-geral da OMS por Dentro de 14 dias.
+<5 anos meio do Grupo A resposta oportuna
+situação local de risco imediato (epicentro área afetada
+Asses sor sobre a é fundamental.
+do surto)
+VOPm2 (mOPV2
+Advisory Group).
+identificada ou Campanha 2
+área afetada, consi- VOPm2
+de uma reemer- Microplanejamento <5 anos Dentro de 28 dias.
+em risco.
+128 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+Campanha 3
+área afetada, consi-
+Com melhorias adicionais <5 anos VOPm2 Dentro de 6–8 semanas.
+em risco.
+PVS 2 Operação limpeza2 Operação limpeza dentro de
+3 meses (90 dias) a partir da
+◼ Ser humano Necessária em todas as
+Depende da áreas/zonas de saúde que Conforme necessário. <5 anos VOPm2 do sequenciamento de vírus,
+e se o vírus é de qualidade (por exemplo: saúde que não cumpriram
+proveniente cobertura <95)% os padrões de qualidade.
+adicional2 ou ampliação do
+número de campanhas, se
+o surto não for interrom-
+pido dentro de 120 dias.
+de fonte Consulta contínua à GPEI e ao mOPV2 Advisory Group para revisar
+Campanhas 4 e 5 podem
+desconhecida a estratégia e seu alcance.
+necessário, até que duas
+realizadas, após a última
+detecção do poliovírus3
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 129
+Prazo a partir do Dia 0
+Estratégia de campanha Grupo etário Vacina (dia do resultado de
+sequenc iamento laboratorial)
+PVS2 PFA: verificar a situação vacinal
+Falha de contenção e administrar VOPm2 ou VIP no
+indivíduo exposto/caso, familiares Consultar a OMS, os parceiros da GPEI e o Grupo
+Consultar a orientação para gestão de saúde e contatos próximos. Consultivo (mOPV2 Advisory Group).
+mais ampla.
+PVS 2 descumprimento das normas de Consultar a OMS, os parceiros da GPEI e o Grupo
+Ambiente contenção; a resposta depende de Consultivo (mOPV2 Advisory Group).
+muitos fatores.
+Fonte: WHO, 2022
+Somente a Campanha 1 pode ser chamada de “rodada zero” para ressaltar que a velocidade é a prioridade número um.
+Uma operação limpeza será necessária se houver evidência de <95% de cobertura, se há persistentemente crianças não vacinadas (por exemplo, reveladas por monitoramento
+independentemente de grupos de difícil acesso, habitantes de aldeias recém-descobertas ou recusa vacinal contumaz) ou qualquer outra evidência que sugira alcance ou
+qualidade inadequados da campanha. Quaisquer informações anedóticas que sugiram lacunas na vacinação devem ser investigadas minuciosamente.
+A escala e o alcance das campanhas dependerão das circunstâncias locais. Por exemplo, em situações específicas, uma etapa de campanha e uma operação limpeza podem
+ser suficientes se a operação cobrir a área de detecção do último poliovírus isolado.
+j Ver Public Health Management of Facility-Related Exposure to Live Polioviruses: Interim guidance in managing exposed persons for countries hosting facilities that maintain live
+polioviruses, disponível no site da GPEI; http://polioeradication.org/tools-and-library/resources-for-polio-eradicators/gpei-tools-protocols-and-guidelines/.
+130 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Prazo (a partir da notificação
+dos resultados de laboratório)
+Investigação de casos e contatos. Dentro de 24 horas.
+Busca de casos na comunidade. Dentro de 24 horas.
+Avaliação da cobertura vacinal. Dentro de 24 horas.
+Vigilância reforçada.* Dentro de 72 horas.
+Avaliação e classificação de risco (por parte do
+Dentro de 72 horas.
+Grupo de Erradicação e Gerenciamento de Surtos).
+Solicitação da VOPm2, se aplicável. Dentro de 72 horas.
+Declaração de Emergência em Saúde Pública. Dentro de 72 horas.
+Mobilizar, quando necessário (por parte da Equipe de ◼ 72 horas para iniciar a mobilização
+Trabalho sobre a Preparação e Resposta a um Surto): da equipe A.
+◼ A equipe de resposta rápida (equipe A) e ◼ 3 semanas para a mobilização
+◼ A equipe de reforço da resposta (equipe B). da equipe B.
+Primeira etapa de vacinação. Dentro de 14 dias.
+Segunda e terceira campanha de vacinação.
+Operação limpeza em áreas não adequadamente Dentro de 90 dias.
+vacinadas, se necessário.
+Mediante MRC, de acordo com
+de qualidade.
+em Campanhas.
+1. Primeira avaliação independente
+em 3 meses: deve ser executada
+3 meses após a detecção
+poliomielite.
+2. Avaliações trimestrais de
+Avaliações independentes da resposta ao surto. seguimento: 3 meses após a
+deve ser repetida a cada 3 meses
+enquanto o surto estiver ativo.
+3. Avaliação do final do surto:
+12 + 1 mês de margem, após
+detecção do último poliovírus.
+Fonte: WHO, 2022.
+*Vigilância da PFA alcançando uma taxa anual de pelo menos 3 casos por 100 mil menores de 15 anos
+de idade, no nível estadual, no período de duração do surto e com mínimo de 12 meses após o último caso.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 131
+Surto1 de cPVDV ou Evento PVDV de alto risco “Novo” PVDV2 não classificado Imunodeficiência primária = iPVDV
+Primeira etapa dentro de 14 dias3 Casos adicionais Outros resultados
+Segunda etapa dentro de 4 a 6 semanas = cPVDV e de sequenciamento Exame mensal de amostra
+ou vários PVDVs genético de fezes, até que duas
+Terceira etapa dentro de 8 semanas
+Operação limpeza dentro de 12 semanas
+alto risco = evento
+s/ imunodeficiência = aPVDV
+Avaliação da Depende da situação local. que não é contato domiciliar
+e outras detecções, o vírus próximo
+pode ser reclassificado e/ou
+Realizar quarta etapa, se necessário
+1 Geneticamente vinculado a um cPVDV conhecido ou a um aPVDV.
+2 Amostra de vigilância ambiental ou de caso de PFA não vinculado a um aPVDV conhecido.
+3 Desde o dia zero, que é o dia em que foi conhecido o resultado laboratorial de um sequenciamento genético de um PVDV2.
+VALIAÇÃO DA QUALIDADE DA RESPOSTA:
+FATORES A SEREM CONSIDERADOS ANTES,
+◼ Evidência de articulação
+com a comunidade,
+◼ Indicadores do painel de
+◼ Revisão rápida dos controle da preparação
+líderes religiosos.
+dados de vigilância >90%.
+disponíveis. ◼ Compromisso do
+◼ Evidência de treinamento
+◼ Aumento da frequência para todo pessoal.
+◼ Microplanos rigorosos a resposta.
+duas semanas. ◼ Estratégias detalhadas
+detalhado,
+◼ Iniciar nova vigilância complementado por
+a populações especiais.
+ambiental, se apropriado. inovações tais como,
+◼ Detalhada investigação
+◼ Validar a coleta de imagens de sistema de
+de caso (s) e/ou comuni-
+e de esgoto. (GIS) e validação cruzada,
+quando viável.
+de vacinação incompleto.
+◼ Cobertura >95% ◼ Estratégias direcionadas
+◼ Taxa de notificação anual independente durante a de resposta em
+>3 casos de PFA / 100 campanha de vacinação. populações especiais.
+mil menores de 15 anos ◼ Cobertura >95% em ◼ Evidência de um
+na área do surto e área verificações aleatórias e aumento da sensibi-
+de risco imediata. inquéritos de cobertura lidade da população a
+◼ Impacto da vigilância (por exemplo, em PFA e a importância da
+fortalecida (por exemplo, mercados, rodoviárias, vacinação.
+fonte e número de casos aeroportos, paradas ◼ Apoio ativo da
+de PFA notificados, de ônibus). comunidade incluindo
+busca ativa). ◼ Uso de estratégias para grupos de mulheres
+◼ Indicadores de processo garantir que as fronteiras e líderes religiosos,
+e desempenho de estão cobertas (por durante as campanhas
+vigilância ambiental1 . exemplo, encontro entre de vacinação.
+as equipes de ambos ◼ Nenhum grupo
+os lados). recusando a vacinação.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 133
+Seguimento pós-campanha
+◼ Cobertura ≥95%
+◼ Provas de que o
+◼ Vigilância da PFA independente pós-
+>3 casos/100 mil por, -campanha.
+campanha era >90%
+pelo menos, 12 meses
+◼ Nenhuma evidência em todos os domicílios
+de crianças persisten- (monitoramento e
+detectado.
+◼ Análise específica ou áreas geográficas conglomerado).
+da taxa de PFA para descobertas.
+◼ Cobertura ≥95% em
+◼ Relatórios robustos populações especiais.
+de alto risco.
+e oportunos, usando
+◼ Análise de dados
+◼ Evidência de impacto inovações, tais como,
+desagregados para:
+populações de alto risco,
+populações de difícil on-line e uso de GPS
+gênero, crianças não
+acesso, inacessíveis para mapeamento de
+e de alto risco. áreas de acordo com
+vacinação, para orientar
+a cobertura vacinal,
+intervenções.
+quando possível.
+Fonte: WHO, 2022.
+Para obter orientações detalhadas, consulte o Plano de Ação Global de Vigilância da Pólio e o documento
+Fortalecimento da Vigilância Ambiental da Pólio após a detecção de Poliovírus Tipo-2 relacionado à vacina,
+na biblioteca da GPEI (http://polioeradication.org/tools-and-library/).
+134 Ministério da Saúde | Secretaria de Vigilância em Saúde
+AVALIAÇÃO DE RISCO: RESUMO DOS ELEMENTOS
+NOVO ISOLAMENTO PVDV, PVS OU SABIN LIKE2
+◼ Variação genética do
+poliovírus Sabin (alte-
+rações nucleotídicas). Sim Não
+◼ Relação, se houver,
+anteriores.
+◼ Caracterização/
+virologista.
+◼ Cocirculação com PVS.
+◼ Detecção de outros
+PVDVs (não relacio-
+nados) na região.
+◼ Coisolamento com
+ou enterovírus.
+◼ Evidência de imuno-
+deficiência primária.
+◼ Número/densidade Alto Médio/baixo
+do vírus na amostra.
+◼ Mistura de polio vírus,
+amostra.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 135
+◼ Membro de conhecida
+população de “alto
+risco”/população
+desassistida (favela, Sim Não
+minorias, refugiados,
+móvel, deslocados expertos, entre
+internos etc.). país, região e
+◼ Não vacinado ou com
+esquema incompleto.
+◼ Idade acima de 5 anos. Sim Não
+◼ Cobertura de rotina Baixa Boa/alta "Imunidade da
+(VIP se disponível – população" para
+caso contrário, DPT3) poliovírus tipo 2,
+área afetada. o tempo desde
+◼ Qualidade de a substituição da
+(>5% de crianças Baixa Adequada/boa população não
+não vacinadas). protegida e uso
+frente ao tipo 2
+◼ Falhas na vigilância Evidente Adequada/boa
+(por exemplo,
+abaixo da meta,
+ausente, vírus órfãos) Sim Não
+área afetada.
+◼ Outra detecção
+recente de poliovírus.
+136 Ministério da Saúde | Secretaria de Vigilância em Saúde
+◼ Área grande e
+densamente povoada.
+◼ Populações de alto
+risco conhecidas (por
+ex.: móveis, refugiados, Sim Não
+comércio, peregrinos,
+deslocadas).
+◼ Área insegura e/ou
+a vigilância e/ou a
+vacinação.
+◼ Qualquer tipo de
+rápida disseminação.
+◼ Evidência de falha
+de contenção.
+◼ Achado de VOPt/
+VOPm2 na cadeia Sim Não
+de distribuição.
+◼ Condições ambientais
+Precária condição Adequada/boa
+fecal-oral.
+◼ Vínculo de transporte
+fronteira internacional local do caso/
+(especialmente se baseada em
+como de alto risco).
+◼ Vínculos entre o Revisão e
+países (por exemplo, em consulta com
+mercados, rotas de o país no âmbito
+transporte). regional
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 137
+◼ História de viagem
+(por exemplo,
+refugiados, nômades,
+peregrinos, exilado).
+◼ História de outro evento
+entre fronteiras.
+◼ História prévia de
+padrões de transmis-
+são de pólio (cólera)
+e surtos entre países.
+população – migração
+◼ Pontos de serviço
+áreas vizinhas, como
+mercados, locais de Sim Não
+peregrinação, pontos
+(por ex.: indígenas).
+◼ Evidência de altos
+(a partir dos dados
+do sequenciamento,
+móveis disponíveis,
+anteriores etc.).
+◼ Evidência de falhas
+a área afetada.
+◼ Imunidade popula-
+cional em países Baixo Bom/alto
+vizinhos.
+◼ Conflito. Presente Nenhum
+Fonte: WHO, 2022.
+138 Ministério da Saúde | Secretaria de Vigilância em Saúde
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15–30 30+
+A GPLN1 informa as autoridades nacionais
+Opas/Brasil, regional e sede da OMS.
+saúde, a sede da OMS informa os parceiros
+relevantes da GPEI.
+O ponto focal do RSI notifica a OMS.
+epidemiológica/social.
+a eventos/surtos nos escritórios regionais
+e sede da OMS, incluindo o OPRTT para
+coordenação dos parceiros da GPEI.
+mais pronto possível. Equipe A
+ao surto, o mais pronto possível. Equipe B
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 139
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15–30 30+
+da GPEI (Grupo Assessor para VOPm2/EOMG).
+vacina VOPm2, se aplicável.
+recomendações para a equipe do país.
+Emergência em Saúde da OMS.
+e as diretrizes para resposta a surto.
+Diretora-geral da OMS autoriza a liberação
+de VOPm2 do estoque global, se aplicável.
+VOPm2 enviada ao país, se aplicável.
+VOPm2 enviada a área a ser vacinada,
+se aplicável.
+140 Ministério da Saúde | Secretaria de Vigilância em Saúde
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15–30 30+
+Financiamento “sem arrependimento”
+(até $ 500.000) enviados ao escritório de país
+iniciais de resposta.
+uma emergência de saúde pública nacional.
+nacional de articulação e comunicação.
+Iniciar atividades de vigilância fortalecida.
+Implementar “Primeira etapa"(Campanha 1).
+e liberação de fundos para o país.
+Implementar as etapas de campanha 2, 3
+e de operação limpeza, se necessário.
+Fonte: WHO, 2022.
+1GPLN – Rede Global de Laboratórios de Diagnóstico de Pólio.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 141
+DESDE O DIA 0 ATÉ O TÉRMINO DO SURTO
+País Regional/Global
+Coordenação de saúde, com apoio
+relevantes.
+e do Unicef no país.
+Aceder as diretrizes para preparação de saúde, com apoio dos
+e resposta a um surto de pólio. escritórios nacionais da
+OMS e do Unicef no país.
+laboratório – Autoridades nacionais
+Identificar pessoas treinadas ou experientes regionais/sedes da
+Dia 0 de saúde, com apoio dos
+país/região. fornecer rapidamente os
+OMS e do Unicef no país.
+documentos necessários.
+Ler todos os relatórios ou documentos de de saúde, com apoio
+atividades anteriores de resposta a surtos. dos escritórios da OMS
+e do Unicef no país.
+Em até 24 apoiar a investigação e a resposta.
+sedes da OMS e do Unicef.
+notificação Iniciar investigação epidemiológica de saúde, com apoio dos
+e social conjunta. escritórios da OMS e do
+Unicef no país.
+142 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+Em até 24
+parceiros relevantes. de saúde. (OPRTT, EOMG, Comitê
+de Estratégia).
+Briefing do ministro da Saúde, chefe de gover-
+no/estado e outros funcionários relevantes
+uma resposta urgente para interromper o surto:
+1. Declarar uma emergência nacional de saúde
+pública dentro de 72 horas em caso de surto ou
+poliovírus for reclassificado como surto. da GPEI para assegurar
+2. Estabelecer um Centro de Operações de Autoridades nacionais que as autoridades
+Em até 24
+Emergência (COE) nacional se não houver de saúde, com apoio nacionais de saúde
+existente, liderada por um alto funcionário e do Unicef no país. necessária para comunicar
+e apoiada por pessoal administrativo, de interessadas.
+comunicação estratégica, operacional,
+logística, gestão de insumos e finanças.
+Coordenação de 3.Implementar as operações de resposta
+operacionais padronizados (POPs) de resposta
+a surtos, tipo de vírus e classificação.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 143
+País Regional/Global
+4. Garantir mecanismo de monitoramento siste-
+mático em todos os âmbitos (nacional, estadual
+e municipal) para monitorar o progresso do pla-
+Em até 24 nejamento, a implementação e o seguimento
+horas após a das ações durante as atividades de resposta.
+notificação 5. Enviar relatórios oportunos e regulares sobre
+níveis e parceiros da GPEI.
+se o poliovírus for tipo 2. e do Unicef.
+Iniciar mecanismos de resposta a eventos/surtos
+nos escritórios regionais e nas sedes. Comp ar-
+Parceiros da GPEI.
+do surto equipe do país (avaliação preliminar de riscos,
+Em até 24 avaliações de vigilância, cobertura histórica, ava -
+horas após a liações de segurança, grupos de alto risco etc.).
+(OPRTT): estabelecer conferências telefônicas
+do surto devem participar. e liderará as conferências.
+semanais entre OMS, Unicef e parceiros da GPEI.
+Reforço de do sistema nacional de saúde, da OMS,
+saúde, escritórios da OMS
+e do Unicef no país.
+para implementar as operações de resposta.
+Em até 24 Solicitar brevidade na emissão de vistos no regionais/sedes da
+recursos humanos de saúde.
+notificação estrangeiros da equipe de resposta ao surto. fornecer rapidamente os
+documentos necessários.
+144 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+Ativar os processos da equipe de reforço; Escritórios da OMS e
+Em até 24
+Reforço de enviá-la ao local assim que estiver disponível do Unicef no país para
+horas após a OPRTT coordena.
+recursos humanos (meta: 72 horas para Equipe de Resposta tomar as providências
+Rápida; 21 dias para Equipe de Reforço). necessárias no país.
+Em até 24 Com apoio dos escritórios
+e resposta de estratégia de vacinação de resposta. escritórios da OMS e do
+notificação e do Unicef.
+Unicef no país.
+Identificar um ponto focal na mídia para atuar saúde, escritórios da OMS
+como porta-voz do surto. e do Unicef no país para
+aprovar/nomear.
+Em até 24 governo para:
+◼ Realizar análise do cenário de mídia. de saúde com apoio dos
+◼ Realizar coletiva de imprensa/emitir escritórios nacionais da
+e do Unicef.
+comunicado à imprensa. OMS e do Unicef no país.
+◼ Iniciar monitoramento da mídia.
+Emergências com- Informar o coordenador residente das Nações
+Escritório da OMS no país.
+plexas (se aplicável) Unidas e a Equipe Humanitária no país.
+Em até 24 Coordenar com o Departamento de
+Emergências com- Representantes da OMS
+plexas (se aplicável) e Unicef.
+notificação (UNDSS) em missões de campo.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 145
+País Regional/Global
+Em até 24 UNDSS, em colaboração
+Emergências com- isolamento do vírus e áreas adjacentes. do escritório regional e da
+plexas (se aplicável) Solicitar ao consultor de segurança que realize sede da OMS dão apoio,
+notificação nacionais.
+uma avaliação de campo. conforme necessário.
+1) Finalizar a avaliação de risco e a proposta
+de resposta, com todas as informações
+disponíveis, inclusive dos países vizinhos. Autoridades nacionais
+2) Apresentar a avaliação de risco e a proposta de saúde com apoio dos
+de resposta à OPRTT/EOMG (poliovírus tipo 1 escritórios da OMS e do
+de resposta da OPRTT.
+ou tipo 3) ou ao Grupo Consultivo de VOPm2 Unicef no país.
+(poliovírus tipo 2) para retroalimentação e
+recomendações.
+Elaborar um plano de logística que inclua:
+Em até 72 horas Autoridades nacionais
+previsão de consumo de vacinas, rede de frio,
+(3 dias) após a Planejamento de saúde com apoio dos Com apoio da sede
+armazenamento, distribuição, monitoramento
+notificação logístico escritórios nacionais da do Unicef.
+da utilização, prestação de contas da vacina
+OMS e do Unicef no país.
+e descarte.
+Enviar o formulário de solicitação de vacina Consultivo de VOPm2
+Pedido de vacina VOPm2 para autorização de liberação da analisará e enviará à
+vacina pelo diretor-geral da OMS. Divisão de Suprimentos
+OMS e do Unicef no país.
+do Unicef.
+emergência nacional de saúde pública. de saúde.
+Enviar notificação do RSI para a OMS; um
+Em até 72 horas
+(3 dias) após a Notificação do RSI
+como Notificação de Surto de Doença do RSI. da OMS.
+(Disease Outbreak Notification – DON).
+146 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+Preparar e participar da conferência de nível Sede da OMS coordena,
+3 da OMS para classificação de surto pelo sede do Programa de
+da OMS e Unicef, com
+Classificação Programa de Emergências Sanitárias da OMS, Emergências realiza a
+escritório regional e escritório nacional da OMS, classificação em consulta
+de saúde.
+Em até 72 horas conforme o Marco de Resposta a Emergências. com o escritório regional.
+(3 dias) após a
+Liberar financiamento “sem arrependimento” (até
+Financiamento US$ 500.000) para o escritório regional/do país
+e libera.
+para financiar as atividades de resposta iniciais.
+diretrizes para de resposta. no país. do Unicef.
+Em até 72 horas
+(3 dias) após a Resposta ao surto
+níveis envolvidos nas atividades de resposta. escri tórios da OMS e do
+Unicef no país.
+Ajustar as diretrizes para resposta ao surto.
+◼ Antecedentes e risco de transmissão adicional.
+◼ Estratégia proposta para campanha de Autoridades nacionais
+Em até 72 horas OPRTT facilita a análise
+vacinação (alcance, cronograma etc.). de saúde com apoio dos
+(3 dias) após a Resposta ao surto e recomendações dos
+◼ Atividades de fortalecimento da vigilância. escritórios da OMS e do
+notificação parceiros da GPEI.
+Unicef no país.
+◼ Atividades de articulação, comunicação e
+mobilização social.
+◼ Coordenação e parcerias.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 147
+País Regional/Global
+◼ Avaliação dos recursos humanos.
+◼ Monitoramento, avaliação e avaliações Autoridades nacionais
+da resposta ao surto (ARS). de saúde com apoio dos
+◼ Orçamento. escritórios da OMS e do
+parceiros da GPEI.
+Unicef no país.
+estaduais e municipais.
+(COE) nacional ou a estrutura de coordenação Autoridades nacionais
+do Unicef.
+de imunização e atividades subsequentes no Unicef no país.
+Em até 72 horas
+marco das diretrizes para resposta a surtos.
+(3 dias) após a
+da comunidade, mobilização social e estraté-
+durante o período de resposta ao surto. Incluir: Autoridades nacionais
+Articulação e ◼ Sessões de conscientização pré-campanha de saúde com apoio
+regionais/sedes da OMS
+e do Unicef.
+difícil acesso. e do Unicef no país.
+◼ Comunicação proativa visando garantir
+da doença e dos benefícios da vacina.
+148 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+◼ Envolver influenciadores-chave e partes inte-
+ress adas (incluindo líderes políticos, religiosos,
+comunitários e celebridades) para obter
+acesso a comunidades difíceis de alcançar.
+◼ Elaborar um plano especial de comunicação
+Em até 72 horas rápidas de resposta a eventos adversos após
+(3 dias) após a a vacinação.
+do governo do mais alto nivel (por exemplo,
+presidencial). Outros parceiros estratégicos de saúde com apoio
+essenciais para uma resposta bem-sucedida dos escritórios da OMS
+(ministérios relevantes, parlamentares, líderes e do Unicef no país.
+políticos/religiosos/civis, ONGs e parceiros
+atuantes no epicentro do surto).
+Em até 72 horas Realizar uma sessão informativa de segui-
+(3 dias) após a Comunicação mento para os meios de comunicação sobre
+dos escritórios da OMS regional e sede do Unicef.
+notificação os planos e as propostas de resposta ao surto.
+e do Unicef no país.
+Compartilhar o kit de ferramentas de C4D
+(C4D), mobilização e sede do Unicef.
+as atividades de resposta.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 149
+País Regional/Global
+Em até 72 horas Autoridades nacionais Escritório regional e sede
+(3 dias) após a de saúde e escritórios do Unicef com apoio
+(C4D), mobilização do país para orientar o projeto de intervenções
+notificação nacionais do Unicef. da OPRTT.
+social e comunicação de C4D.
+Determinar os requisitos de reforço de recursos Autoridades, com apoio
+humanos junto à OPRTT, com base na classifi- dos escritórios da OMS
+recursos humanos dos parceiros da GPEI.
+cação do surto e nas necessidades do país. e do Unicef no país.
+Em até 7
+Resposta ao surto para a “Campanha 1”. Iniciar o rastreamento de
+de saúde.
+atividades (por exemplo, usando um painel de
+controle disponíveis para orientação).
+Iniciar atividades de fortalecimento de vigilância:
+◼ Notificar e sensibilizar os profissionais de
+subnacionais sobre os requisitos de notificação.
+◼ Implementar atividades suplementares de
+busca de casos de PFA.
+Em até 7 ◼ Revisar e reclassificar os estabelecimentos Autoridades nacionais
+dias após a Reforço da vigilância da rede de notificação negativa de PFA. de saúde, com apoio do
+da GPEI.
+notificação escritório da OMS no país.
+◼ Garantir que o laboratório nacional esteja
+seja fortalecida.
+◼ Aumentar a frequência de amostragem
+ambiental em locais já existentes, quando
+viável e apropiado.
+150 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+Elaborar um plano de articulação externa para Autoridades, com apoio
+OPRTT, escritórios
+da OMS/Unicef.
+Em até 7 ativismo no país. no país.
+emergência e o total apoio dos representantes e do Unicef no país. da OMS/Unicef.
+e organizações no país para orientação e apoio.
+situação conjunto OMS/Unicef para atualizar Com apoio dos escritórios
+e Unicef no país.
+do andamento das atividades de investigação, e do Unicef.
+planejamento e resposta.
+de que houve uma detecção de poliovírus e o e Unicef nos países,
+estado das atividades de resposta, incluindo juntamente com doadores
+Em até 7
+imunização e vigilância. e mídia nos países.
+Finalizar um media kit com as principais men- Autoridades nacionais
+sagens; produzir briefings para a mídia e outros de saúde com apoio do Com apoio do escritório
+produtos de comunicação relevantes para uso escritório do Unicef regional e sede do Unicef.
+local e regional/global durante o surto. no país.
+atividades de vacinação e vigilância.
+no país.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 151
+País Regional/Global
+acesso, a incluir:
+◼ Mapeamento de líderes comunitários,
+atores-chave, partes interessadas e
+Emergências identificação de influenciadores. Autoridades nacionais
+complexas ◼ Planejamento de estratégias de pontos de de saúde com apoio
+Em até 7 da OMS.
+(se aplicável) vacinação permanentes ou móveis, em torno do UNDSS.
+de áreas inacessíveis.
+◼ Planejamento de estratégias de vacinação
+áreas inacessíveis.
+agências das Nações Unidas e agências Escritório da OMS no país.
+com parceiros da OMS.
+humanitárias em campo.
+e orçamento para 6 meses, em um prazo
+Diretrizes para de uma semana.
+Unicef no país. e orçamento.
+Em até 14 e orçamento
+acompanhar a implementação (por exemplo, escritórios da OMS e do
+mediante uso de painel de controle). Unicef no país.
+diretrizes para resposta a surtos. Unicef no país.
+152 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+operações nacionais para a “Campanha 1”, o
+qual deve detalhar estratégia, estrutura de coor-
+Em até 14 den ação, vacinas, logística, recursos humanos,
+dias após a supervisão, mobilização social, comun icação
+de resposta ao surto escritórios da OMS e do da OMS/Unicef.
+notificação e necessidade de treinamento etc.
+Unicef no país.
+subsequentes de Campanha (2 e 3) e uma
+“operação limpeza”.
+o microplanejamento para a “Campanha 1”,
+detalhando estratégias, estrutura de coorde- Autoridades nacionais
+nação, vacinas, logística, recursos humanos, de saúde com apoio dos Escritórios regionais
+supervisão, mobilização social, comun icação escritórios da OMS e do da OMS/Unicef.
+e necessidade de treinamento etc. Unicef no país.
+subsequentes (2 e 3) e “operação limpeza”.
+C4D, mobilização comunicação para envolver todas as partes de saúde com apoio dos OPRTT facilitará o apoio
+social e comunicação interessadas nas atividades de resposta a escritórios da OMS e do dos parceiros.
+surtos nos diferentes níveis. Unicef no país.
+Em até 14 Assegurar que o relatório de situação conjunto
+dias após a Comunicação da OMS/Unicef seja gerado e distribuído entre
+Unicef no país.
+notificação os parceiros.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 153
+País Regional/Global
+em áreas infectadas e de alto risco. escritórios da OMS e do
+do Unicef.
+Unicef no país.
+Acionar um agente de segurança de campo.
+de saúde. da sede da OMS.
+Implementar plano de acesso (a seguir, alguns
+exemplos e estratégias):
+Em até 14 Emergências
+◼ Envolver os líderes da comunidade e
+identificar influenciadores.
+notificação (se aplicável)
+◼ Negociar acesso por meio de atores-chave, Autoridades nacionais
+influenciadores e partes interessadas. de saúde com apoio dos Escritório regional
+◼ Planejamento de estratégias de pontos de escritórios da OMS e do da OMS.
+vacinação permanentes ou móveis, em torno Unicef no país.
+de áreas inacessíveis.
+◼ Implementar estratégias de vacinação
+áreas inacessíveis.
+Em até 14
+Em até 14 dias, implementar a “Campanha 1” de saúde com apoio dos Escritórios regionais
+de resposta de vacinação. escritórios da OMS e do da OMS/Unicef.
+Unicef no país.
+Para a resposta com VOPm2, assegurar a
+gestão minuciosa de todos os frascos. São Autoridades nacionais
+detalhados de todos os frascos disponibilizados, escritórios da OMS e do e sede do Unicef.
+recebidos, remanescentes e não contabilizados Unicef no país.
+ao final de cada atividade de vacinação.
+154 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+para resposta a surtos e orçamento (dentro
+Financiamento de 20 dias) e acionar os mecanismos para OPRTT facilitará o processo.
+liberação de fundos. Dentro de 28 dias, os
+fundos devem estar disponíveis no país.
+Monitoramento monitoramento da preparação da campanha, de saúde com apoio dos
+14 dias até a
+das campanhas nos diferentes níveis. Unicef no país.
+2 semanas, 1 semana e 3 dias antes
+(75 a 90 dias) Monitoramento de saúde com apoio dos
+da implementação da campanha, para
+Unicef no país.
+visando garantir a qualidade da campanha.
+Monitoramento de articulação interna e externa. Tomar nota de saúde com apoio dos OPRTT facilitará o apoio
+da articulação de intervenções bem-sucedidas e comunicar escritórios da OMS e do junto aos parceiros da GPEI.
+necessidades adicionais à OPRTT. Unicef no país.
+Estabelecer monitoramento para as campanhas:
+14 dias até a
+◼ Supervisão. Autoridades nacionais
+Monitoramento ◼ Monitoramento independente (intra e de saúde com apoio dos Com apoio do escritório
+da imunização pós-campanha). escritórios da OMS e do regional/sede da OMS.
+Unicef no país.
+(75 a 90 dias) ◼ Reuniões diárias de revisão (desempenho
+da equipe, relatórios diários).
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 155
+País Regional/Global
+◼ Amostragem para garantia da qualidade
+de lotes (LQAS).
+◼ Análises de cada etapa da campanha,
+da imunização escritórios da OMS e do regional/sede da OMS.
+incluindo recusas à vacinação, questões
+Unicef no país.
+relacionadas à desconfiança etc.
+14 dias até a
+saúde, escritórios da OMS
+atividades de da comunicação de comunicação. regional e sede do Unicef.
+e do Unicef no país.
+(75 a 90 dias) Desenvolver ferramentas e treinamento para
+o microplanejamento, detalhando estratégias, Autoridades nacionais
+estrutura de coordenação, vacinas, logística, de saúde com apoio dos
+recursos humanos, supervisão, mobilização escritórios da OMS e do
+social, comunicação e necessidades de Unicef no país.
+capacitação etc.
+de frente (vacinadores, supervisores, mobiliza-
+Capacitação dores sociais), com foco em habilid ades téc-
+nicas, de comunicação e interpessoais para as
+Unicef no país.
+áreas-alvo das Campanhas 2 e 3.
+14 dias até a
+para identificar e resolver problemas de Escritório regional da OMS.
+formato e integridade dos dados.
+(75 a 90 dias) Unicef no país.
+medidas urgentes para preencher quaisquer escritórios da OMS e do regional e sede do Unicef.
+lacunas antes do início da Campanha 2. Unicef no país.
+156 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+14 dias até a
+com parceiros e atividades de articulação. escritórios da OMS e do
+Unicef no país.
+(75 a 90 dias)
+14 dias até a vacinação oral, como vitamina A e tratamento Com apoio da OPRTT.
+conclusão das em massa com anti-helmínticos, quando
+Unicef no país.
+atividades de possível, especialmente durante surtos do
+imunização tipo 1 e 3 (a integração para surtos do tipo 2 só
+(75 a 90 dias) deve ser considerada em casos excepcionais).
+subsequentes (Campanha 2, Campanha 3, de saúde com apoio dos
+operação limpeza), conforme as diretrizes escritórios da OMS e do
+GPEI.
+para resposta a surtos Unicef no país.
+subsequente:
+14 dias até a
+◼ Triangulação de dados, incluindo: áreas de Autoridades nacionais
+conclusão das OPRTT, escritórios
+baixo desempenho, dados sociais sobre recu- de saúde com apoio dos
+sas/crianças não vacinadas ou outras barreiras escritórios da OMS e do
+imunização da OMS/Unicef.
+sociais observadas, dados de vigilância etc. Unicef no país.
+(75 a 90 dias)
+◼ Realizar capacitação adicional de vacina-
+habilidades interpessoais.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 157
+País Regional/Global
+◼ Fortalecer a supervisão, o monitoramento
+a campanha.
+14 dias até a
+◼ Acionar estratégias especiais para alcançar Autoridades nacionais
+conclusão das OPRTT, escritórios
+populações não vacinadas, de alto risco de saúde com apoio dos
+ou móveis. escritórios da OMS e do
+imunização da OMS/Unicef.
+(75 a 90 dias) ◼ Empreender atividades para melhorar a qua- Unicef no país.
+lidade da campanha, incluindo microplaneja-
+e dados de SIG, quando apropriado e viável.
+ao surto, incluindo as atividades de vacinação, Autoridades nacionais
+Diretrizes para vigilância e comunicação, para as fases de saúde com apoio dos Com recomendações
+resposta ao surto subsequentes. Acompanhar o progresso escritórios da OMS e do da OPRTT.
+realizado e/ou o suporte necessário para Unicef no país.
+preencher quaisquer lacunas remanescentes.
+14 dias até a
+Assegurar que os dados de vigilância,
+informações da OMS e Unicef, nos prazos acordados escritórios da OMS e do
+(75 a 90 dias)
+(dentro de 14 dias para todas as campanhas e Unicef no país.
+semanalmente para os dados de PFA).
+vacinas e prestação prestação de contas de vacinas, após cada
+escritórios da OMS e do regional e sede do Unicef.
+de contas etapa, incluindo a Campanha 1.
+Unicef no país.
+158 Ministério da Saúde | Secretaria de Vigilância em Saúde
+País Regional/Global
+14 dias até a
+tipo 2. Os frascos não abertos devem ser armaze- de saúde com apoio dos Com apoio do escritório
+nados de forma segura em locais estratégicos escritórios da OMS e do regional e sede do Unicef.
+com instalaçoes de controle de acesso até que Unicef no país.
+(75 a 90 dias)
+o surto seja considerado encerrado.
+Triangular (compartilhar) e analisar todos os Autoridades nacionais
+dados para avaliar a imunidade da população, de saúde com apoio dos
+do surto da GPEI.
+rumo à interrupção da transmissão. Unicef no país.
+período de resposta ao surto, maximizando
+resposta para fortalecer a gestão do programa, Autoridades nacionais
+o microplanejamento, a mobilização da de saúde com apoio
+Vacinação de rotina:
+comunidade e o monitoramento do desempenho. dos escritórios da OMS
+de rotina, por meio de ações selecionadas de reforço no país.
+da abordagem Reaching Every District (RED)*
+ou alcançando todos os municípios.
+da vigilância:
+◼ Conscientizar e sensibilizar os profissionais Autoridades nacionais
+de saúde das unidades de vigilância nos de saúde com apoio dos Força-Tarefa de Vigilância
+diferentes níveis sobre os requisitos de escritórios da OMS e do (STT).
+notificação. Unicef no país.
+◼ Revisar e reclassificar os estabelecimentos
+da rede de notificação negativa de PFA.
+Diretrizes para resposta a um evento de detecção de poliovírus e um surto de poliomielite: estratégia do Brasil 159
+País Regional/Global
+resposta ao surto. Continuar fortalecendo
+as atividades de vigilância:
+◼ Conscientizar e sensibilizar os profissionais
+Até o de notificação. Autoridades nacionais
+encerramento ARS – 3 meses ◼ Revisar e reclassificar os estabelecimentos OPRTT coordenará.
+do surto da rede de notificação negativa de PFA.
+Unicef no país.
+1. Avaliar e fortalecer os esforços para
+aumentar a imunidade da população.
+2. Avaliar e fortalecer a sensibilidade
+da vigilância.
+3. Avaliar o progresso no sentido de inter-
+ARS – 6, 9, de saúde com apoio dos
+de contas de vacinas após cada etapa, OPRTT coordenará.
+12 meses etc. escritórios da OMS e do
+incluindo a Campanha 1.
+Unicef no país.
+Sede da OMS coordena,
+encerramento classificação reanalisada a cada 3 meses; se o grau mudar, Emergências realiza a
+do surto – 3 meses a resposta será adaptada de acordo. classificação em consulta
+com o escritório regional.
+as lições aprendidas. escritórios da OMS e do
+Unicef no país.
+Fonte: WHO, 2022
+160 Ministério da Saúde | Secretaria de Vigilância em Saúde
+bvsms.saude.gov.br
+poliomielite:
+4202

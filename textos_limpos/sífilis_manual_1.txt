@@ -1,0 +1,505 @@
+1 LARSEN, Sandra A.; STEINER, Bret M.; RUDOLPH, Andrew H. Laboratory Diagnosis and Interpretation of Tests for Syphilis.
+Clinical Microbiology Reviews, [s. l.], v. 8, n. 1, p.1-21, 1995.
+2 WORLD HEALTH ORGANIZATION). Diagnóstico laboratorial de doenças sexualmente transmissíveis, incluindo o
+vírus da imunodeficiência humana. Geneva: WHO, 2013. p. 175-188. cap. 15. Disponível em: https://www.who.int/
+reproductivehealth/publications/rtis/9789241505840/pt/. Acesso em: 24 set. 2021.
+3 JEPSEN, O. B.; HOUGEN, K. H.; BIRCH-ANDERSEN, A. Electron microscopy of Treponema pallidum Nichols. Acta pathologica
+et microbiologica Scandinavica, [s. l.], v. 74, n. 2, p. 241-258, 1968.
+4 HORVATH, Attila. Biology and natural history of syphilis. In: GROSS, G.; TYRING, S. K. (ed.). Sexually transmitted
+infections and sexually transmitted diseases. [S. l.]: Springer, 2011. p. 129-141.
+escuro, deve-se considerar que o número de patógenos pode ser insuficiente para
+detecção, a lesão está próxima da cura ou o indivíduo infectado recebeu tratamento
+sistêmico ou tópico.
+1. Lavar cuidadosamente a lesão ativa com gaze e solução salina estéreis;
+2. Em seguida, raspar gentilmente a lesão com uma haste estéril e seca;
+3. Para a produção do exsudato, espremer a lesão ativa e, caso ocorra sangramento,
+remover as gotas de sangue;
+4. Transferir o líquido seroso para uma lâmina de vidro, pressionando-a contra o
+fluido ou, ainda, usando uma espátula fina de aço inox ou platina ou uma alça
+bacteriológica;
+5. Na lâmina contendo o líquido seroso, adicionar uma gota de solução salina, formando
+uma suspensão homogênea, que pode ser, então, coberta com uma lamínula;
+6. Examinar imediatamente a lâmina, a fim de garantir que o organismo apresente
+a sua mobilidade característica.
+sensibilidade inferior à da microscopia de campo escuro.
+para o exame direto a fresco. Os métodos disponíveis são:
+• Método Fontana-Tribondeau: deixa-se secar o esfregaço da amostra na lâmina
+e depois faz-se a coloração utilizando nitrato de prata, que irá impregnar a
+parede celular do treponema, permitindo sua visualização ao microscópio;
+• Método de Burri: utiliza tinta da China (nanquim);
+• Método de coloração pelo Giemsa: cora o T. pallidum de maneira tênue
+(palidamente), sendo difícil a observação das espiroquetasG;
+• Método de Levaduti: utiliza a prata em cortes histológicos.
+Testes específicos para detecção de anticorpos anti-T. pallidum do tipo IgM: são
+versões modificadas do FTA-Abs (FTA-IgM) e de imunoensaios em linha que detectam
+somente IgM, sendo utilizados para a detecção de IgM específico anti-T. pallidum.
+De acordo com o Manual da Organização Mundial da Saúde, a síntese de anticorpos
+IgM específicos é a primeira resposta imune humoral pós-infecção em diversas infecções
+bacterianas e virais. Entretanto, no caso da sífilis, a presença do anticorpo treponêmico
+IgM não está apenas presente em pacientes com sífilis precoce, mas também nos
+períodos de latência e na infecção tardia. Essa presença de anticorpos em diversos
+em adultos5.
+No caso de recém-nascidos, a detecção de anticorpo treponêmico IgM possui
+baixa sensibilidade. Assim, um resultado não reagente (negativo) não permite realizar
+a exclusão do diagnóstico de sífilis congênita, o que poderia implicar o não tratamento
+de crianças com sífilis5.
+a avaliação de amostras de líquido cefalorraquidiano (LCR) e investigação da sífilis
+congênita em RN que demandam cuidados. Considerando o seu baixo poder resolutivo
+nos casos mencionados anteriormente, esses testes deixam de ser recomendados no
+diagnóstico de sífilis, neurossífilis ou sífilis congênita na atual versão do manual.
+Testes rápidos Duo ou Combo, que detectam anticorpos anti-HIV e anticorpos
+anticorpos anti-HIV é considerado estratégico, em especial, no cuidado das gestantes
+durante o pré-natal. Embora os TR para HIV e sífilis estejam disponíveis em todos os
+serviços de saúde do SUS, observam-se situações em que é realizada a testagem
+rápida para HIV no pré-natal, mas, para sífilis, o serviço solicita investigação
+laboratorial, perdendo-se a oportunidade de testagem e tratamento na mesma
+consulta, quando necessário.
+Dessa forma, além de possibilitar a ampliação do acesso ao diagnóstico de HIV e
+sífilis, o uso dos testes Duo HIV/Sífilis proporciona agilidade no tratamento das gestantes
+e, consequentemente, a prevenção da transmissão vertical de HIV e da sífilis congênita.
+Outras vantagens incluem a redução de custos com transporte e armazenamento, a
+ser coletado e a minimização da produção de resíduos hospitalares6.
+5 WORLD HEALTH ORGANIZATION. Diagnóstico laboratorial de doenças sexualmente transmissíveis, incluindo o
+vírus da imunodeficiência humana. Geneva: WHO, 2013. p. 175-188. cap. 15. Disponível em: https://www.who.int/
+reproductivehealth/publications/rtis/9789241505840/pt/. Acesso em: 24 set. 2021.
+6 WORLD HEALTH ORGANIZATION. Dual HIV/syphilis rapid diagnostic tests can be used as the first test in antenatal
+care. Policy brief. Geneva: WHO, nov. 2019. p. 4. Disponível em: https://www.who.int/publications/i/item/WHO-CDS-HIV-19.38.
+Acesso em: 24 set. 2021.
+Apêndice B – Testes rápidos fornecidos pelo Ministério da Saúde no contexto
+O MS adquire e distribui testes rápidos de sífilis para todo o Brasil. O controle
+(Sisloglab). Com o sistema, é possível gerenciar os estoques e monitorar a finalidade de
+uso dos testes, bem como verificar o número de testes reagentes, perdidos ou inválidos.
+A distribuição ocorre por capilaridade, sendo realizada inicialmente de forma direta
+do MS para os estados, distritos sanitários especiais indígenas e capitais desvinculadas
+da gestão estadual; essas instâncias, por sua vez, organizam suas próprias redes de
+distribuição dentro dos respectivos territórios. O quantitativo de testes enviados pelo
+MS é definido de acordo com as solicitações mensais realizadas por meio do Sisloglab.
+O MS oferece a plataforma Telelab (http://telelab.aids.gov.br) com cursos sobre
+as diretrizes de diagnóstico e procedimentos de testagem rápida, compostos por
+videoaulas e manuais. Essa plataforma permite capacitação a distância e gratuita dos
+profissionais da rede de atenção à saúde.
+Avaliação Externa da Qualidade para Testes Rápidos (AEQ-TR)
+rápidos no SUS, o MS conta com o Programa de Avaliação Externa da Qualidade para
+Testes Rápidos (AEQ-TR) (http://qualitr.paginas.ufsc.br). O AEQ-TR é uma ferramenta
+de gestão com foco educacional, não punitivo, não obrigatório e gratuito, utilizado
+para monitorar a qualidade dos resultados da testagem rápida, permitindo que cada
+execução de testes rápidos no diagnóstico das infecções sexualmente transmissíveis.
+É considerada uma intercorrência com testes rápidos qualquer observação de:
+• Avaria no kit: quando ocorre a perda da integralidade ou das características
+diagnóstico (kit);
+• Resultado inválido: quando a linha colorida da região controle não aparece na
+janela de leitura;
+• Suspeita de resultados falsos: quando a condição de saúde do indivíduo e da
+conclusão diagnóstica contradizem o resultado obtido nos TR em questão.
+Quando são observadas intercorrências, os profissionais da saúde vinculados à rede
+do MS devem preencher um formulário de intercorrência (disponível em: http://www.
+aids.gov.br/pt-br/profissionais-de-saude/testes-rapidos) e encaminhá-lo à referência
+técnica da sua capital ou estado; segregar 10 (dez) amostras do kit para possível
+análise pela empresa fornecedora; e, sempre que possível, registrar com foto a suposta
+intercorrência. Caberá às referências técnicas o encaminhamento dos formulários ao
+Serviço de Atendimento ao Cliente – SAC da empresa fornecedora, que irá investigar e
+elucidar a intercorrência. O MS monitora mensalmente o desfecho e a devolutiva dada
+pelas empresas aos serviços de saúde notificantes.
+Apêndice C – Reação de floculação nos testes não treponêmicos
+A reação de floculação que ocorre nos testes não treponêmicos baseia-se na
+utilização de uma suspensão antigênica contendo cardiolipina, colesterol e lecitina.
+Quando esses componentes estão em suspensão, eles se ligam ao acaso, devido a
+características da própria estrutura química, formando estruturas globulares chamadas
+de micelas (Figura 1).
+Figura 1 – Representação esquemática da estrutura da micela
+Fonte: adaptado de Brasil, 2014.
+Quando presentes na amostra, os anticorpos não treponêmicos (anticorpos
+anticardiolipina) ligam-se às cardiolipinas das micelas presentes na suspensão
+antigênica. Quando essa ligação ocorre simultaneamente a várias micelas, há floculação
+e formação de grumos (Figura 2). Esses grumos são visualizados em microscópios nos
+testes de VDRL e USR e a olho nu nos testes RPR e TRUST.
+Figura 2 – Representação esquemática da ligação do anticorpo anticardiolipina ao
+Fonte: adaptado de Brasil, 2014.
+Quando há grande quantidade de anticorpos anticardiolipina na amostra, podem
+ocorrer resultados falso-não reagentes em consequência do chamado fenômeno
+prozona (Figura 3). Esse fenômeno consiste na ausência da floculação, resultante de
+simultaneamente, sem formação de grumos.
+Figura 3 – Representação esquemática do fenômeno prozona
+Fonte: adaptado de Brasil, 2014.
+Apêndice D – Modelos de laudos
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro teste não
+reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra não reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+reagentes:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+___ e para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Importante associar o resultado da testagem a informações clínico-epidemiológicas
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+discordantes e terceiro teste reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Provável ocorrência de resultado falso não reagente no teste treponêmico ________.
+Importante associar o resultado da testagem a informações clínico-epidemiológicas
+para avaliar ocorrência de sífilis ativa ou cicatriz sorológica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+discordantes e terceiro teste não reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Provável ocorrência de resultado falso-reagente no teste não treponêmico para
+sífilis. Estima-se que em 0,2% a 0,8% dos casos resultados reagentes para os testes
+não treponêmicos podem estar associados a outras condições clínicas, transitórios
+ou permanentes, as quais estão descritas no Manual Técnico para o Diagnóstico da
+Sífilis, do Ministério da Saúde.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e amostra não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Ausência de metodologia diferente do teste treponêmico utilizado para conclusão
+do Fluxograma 1 do Manual Técnico para o Diagnóstico da Sífilis, do Ministério da
+Saúde. Avaliar exposição de risco, sinais e sintomas e histórico de tratamento para
+definição de conduta.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro teste não
+reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: ___________________ (ex.: soro/plasma)
+Método: ___________________ (ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com uso de teste rápido
+Identificação do Laboratório/Serviço de Saúde
+Nº de Registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: _________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: Sangue total
+Método: Imunocromatografia
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro
+de 2016.
+• Realizar complementação diagnóstica para sífilis com utilização de teste não
+treponêmico.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+reagentes:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Conclusão: Amostra reagente para anticorpos treponêmicos e reagente para
+anticorpos não treponêmicos e com titulação ___.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Importante associar o resultado da testagem a informações clínico-epidemiológicas
+para avaliar ocorrência de sífilis ativa ou cicatriz sorológica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+discordantes e terceiro teste reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos e amostra não
+reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• A não detecção de anticorpos pelo teste não treponêmico pode significar infecção
+muito recente ou presença de cicatriz sorológica pós-tratamento. Avaliar exposição
+de risco, sinais e sintomas e histórico de tratamento de sífilis para definição de
+conduta clínica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+discordantes e terceiro teste não reagente:
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Reatividade inicial para anticorpos treponêmicos não confirmada e
+amostra não reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Provável ocorrência de resultado falso-reagente no teste treponêmico utilizado
+como primeiro teste, sugestiva ausência de sífilis.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+Identificação do Laboratório/Serviço de Saúde
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos e não reagente para
+anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro
+de 2016
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Ausência de metodologia diferente do teste treponêmico utilizado para conclusão
+do Fluxograma 2 do Manual Técnico para o Diagnóstico da Sífilis, do Ministério da
+Saúde. Avaliar exposição de risco, sinais e sintomas e histórico de tratamento para
+definição de conduta.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+(Todas as palavras presentes neste Glossário aparecem pela primeira vez no texto em
+negrito, com a letra G sobrescrita).
+Amostra biológica ou amostra do paciente: porção de fluido corporal, células ou
+tecido retirado de um indivíduo para exame, estudo ou análise.
+Anticorpo: proteína (imunoglobulina) produzida por linfócitos B, que se liga
+especificamente a uma substância reconhecida como estranha pelo organismo.
+Antígeno: qualquer substância ou material que possa estimular a produção de
+anticorpos em um organismo.
+Cancro duro ou cancro primário: lesão primária da sífilis, que ocorre aproximadamente
+três semanas após a infecção pelo Treponema pallidum.
+Cicatriz ou memória sorológica: caracteriza-se pela persistência de resultados
+reagentes nos testes treponêmicos e/ou reagentes com baixa titulação nos testes não
+treponêmicos após o tratamento correto para sífilis, sem que isso indique infecção.
+Colagenoses: doenças autoimunes, inflamatórias e degenerativas do tecido conjuntivo.
+Doença de Lyme: causada pelas bactérias Borrelia burgdorferi e, mais raramente,
+Borrelia mayonii. É transmitida por meio da picada de carrapatos infectados e causa, em
+humanos, sintomas como febre, dor de cabeça, fadiga e eritema migrans. Se não for
+tratada, a infecção pode se espalhar para as articulações, o coração e o sistema nervoso.
+Especificidade clínica ou especificidade diagnóstica: capacidade de um ensaio de
+determinada doença ou desordem clínica.
+Espiroquetas: bactérias de forma helicoidal que tendem a apresentar um movimento
+ondulante semelhante ao de uma hélice.
+Exames diretos: testes que detectam o patógeno em uma amostra biológica.
+Falso-não reagente: resultado negativo ou não reagente obtido em um teste para uma
+doença ou condição na realidade presente.
+Falso-reagente: resultado positivo ou reagente obtido em um teste para uma doença
+ou condição na realidade ausente.
+Imunoensaio: método que detecta a presença de um complexo antígeno-anticorpo
+em uma amostra biológica.
+Inativação da amostra: método que consiste em submeter a amostra a banho-maria,
+a 56°C, por 30 minutos.
+Sensibilidade clínica ou sensibilidade diagnóstica: capacidade de um ensaio
+determinada doença ou desordem clínica.
+Síndrome da imunodeficiência adquirida (aids): síndrome clínica caracterizada por
+graus de imunodepressão variáveis, decorrente da infecção pelo HIV. A definição clínica
+de início da aids é o aparecimento de infecções oportunistas e/ou neoplasias. Desde
+1993, a aids também pode ser definida por critério laboratorial, utilizando a contagem
+de linfócitos T-CD4+.
+Soroconversão: fase da resposta imune na qual ocorre a produção de anticorpos
+suficientes para serem detectados por um teste diagnóstico imunológico.
+Teste rápido: dispositivo de teste de uso único, que não depende de infraestrutura
+laboratorial. Produz resultado em tempo igual ou inferior a 30 minutos e que pode ser
+interpretado a olho nu.
+Testes imunológicos: testes que detectam, em uma amostra biológica, anticorpos
+contra um antígeno específico.
+Valor preditivo positivo: proporção de indivíduos com um resultado positivo em um
+teste e que apresentam a doença ou condição de interesse. Esse valor, normalmente, é
+apresentado em porcentagem.
+bvsms.saude.gov.br

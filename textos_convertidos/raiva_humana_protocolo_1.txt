@@ -1,0 +1,1284 @@
+
+
+Secretaria de Vigilância em Saúde
+Departamento de Vigilância Epidemiológica
+Série A. Normas e Manuais Técnicos
+© 2011 Ministério da Saúde.
+Todos os direitos reservados. É permitida a reprodução parcial ou total desta obra, desde que citada a fonte e que não seja para venda ou
+qualquer fim comercial. A responsabilidade pelos direitos autorais de textos e imagens dessa obra é da área técnica. A coleção institucional
+do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde: http://www.saude.gov.br/bvs
+Série A. Normas e Manuais Técnicos
+Tiragem: 1ª edição – 2011 – 10.000 exemplares
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE Revisão de conteúdo:
+Secretaria de Vigilância em Saúde Gustavo Trindade Henriques Filho, Ivanete Kotait,
+Departamento de Vigilância Epidemiológica Marcelo Yoshito Wada
+Coordenação-Geral de Doenças Transmissíveis
+SCS Quadra 04, Bloco A, Edifício Principal, 4º andar Colaboradores:
+CEP: 70.304-000, Brasília/DF Ana Nilce Silveira Maia Elkhoury, Adriana Conrado de Almeida,
+E-mail: svs@saude.gov.br Andréa de Cássia Rodrigues da Silva, Andréa Maria de Lima, Auricília
+Home page: www.saude.gov.br/svs Santos de Oliveira, Camilla Araújo, Danielle Maria da Silva, Edivane
+Patrícia da Costa Galdino, Emanoela Patrícia Gonçalves Dourado,
+Equipe técnica Juliana Galera Castilho, Luciana Roberta Porto de Miranda Lapenda,
+Maria Ângela Wanderley Rocha, Maria Madalena C. de Oliveira,
+Coordenação: Roberta Seabra dos Santos, Rodrigo Luis da Silveira Silva, pelo apoio
+Ana Nilce Silveira Maia Elkhoury para elaboração deste protocolo.
+Organização: Produção:
+Marcelo Yoshito Wada Núcleo de Comunicação
+Grupo Técnico da Raiva/Coordenação de Vigilância das Doenças
+Transmitidas por Vetores e Antropozoonoses/CGDT/Devep/SVS/MS Produção editorial:
+Capa: NJOBS Comunicação (Andrey Tomimatsu)
+Elaboração do texto: Projeto gráfico: NJOBS Comunicação (Andrey Tomimatsu)
+Gustavo Trindade Henriques Filho, Vicente Vaz, Ana Flávia Campos, Diagramação: NJOBS Comunicação (Marília Assis)
+Andrezza de Vasconcelos, Tomaz Christiano de Albuquerque Revisão: NJOBS Comunicação (Cindy Nagel Moura de Souza, Nita Queiroz)
+Gomes Rodney E. Willoughby, Marcelo Yoshito Wada, Eduardo Normalização: NJOBS Comunicação (Cindy Nagel Moura de Souza) e
+Pacheco Caldas, Ivanete Kotait, Maria Luiza Carrieri, José Editora MS (Márcia Cristina Tomaz de Aquino)
+Lindemberg Martins Machado, Maria de Lourdes Ribeiro, Maria
+Desi de S. Passos Menezes, Tereza Valença, Cesar Zahlouth, Rita
+Medeiros, Odin Barbosa da Silva, Rosângela Rosa Machado
+Impresso no Brasil / Printed in Brazil
+Ficha Catalográfica
+__________________________________________________________________________________________________________________________________
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância Epidemiológica.
+Protocolo de tratamento da raiva humana no Brasil / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância
+Epidemiológica. – Brasília : Ministério da Saúde, 2011.
+40 p. : il. – (Série A. Normas e Manuais Técnicos)
+ISBN 978-85-334-1786-1
+1. Raiva humana. 2. Tratamento físico-químico. 3. Protocolos clínicos. I. Título. II. Série.
+CDU 616.988.21
+__________________________________________________________________________________________________________________________________
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2011/0095
+Títulos para indexação:
+Em inglês: Human Rabies Treatment Protocol in Brazil
+Em espanhol: Protocolo de tratamiento de rabia humana en Brasil
+Sumário
+APRESENTAÇÃO 5
+CRITÉRIOS DE INCLUSÃO E EXCLUSÃO 6
+SUSPEITA CLíNICA DE RAIVA HUMANA 6
+VíNCULO EPIDEMIOLóGICO 7
+PROFILAxIA DE RAIVA HUMANA INADEQUADA 7
+CRITÉRIOS DE ExCLUSãO AO PROTOCOLO 7
+DIAGNÓSTICO 8
+DIAGNóSTICO DIFERENCIAL 8
+DIAGNóSTICO ESPECíFICO DA RAIVA 8
+COLETA E REMESSA DE MATERIAL PARA DIAGNÓSTICO ESPECÍFICO
+DA INFECÇÃO PELO VÍRUS DA RAIVA 9
+COLETA DE MATERIAL 9
+Folículo piloso 9
+Saliva 9
+Soro 9
+Líquido cefalorraquidiano – LCR 9
+ACONDICIONAMENTO DAS AMOSTRAS 9
+PROCEDIMENTOS PARA O DIAGNóSTICO ESPECíFICO DE RAIVA 10
+CONDUÇÃO CLÍNICA INICIAL 12
+CONDUTA ANTES DE TER O DIAGNóSTICO CONFIRMADO LABORATORIALMENTE 12
+CONDUTA APóS CONFIRMAçãO LABORATORIAL DA RAIVA 14
+MONITORAçãO 14
+EXAMES E CONDUTAS CLÍNICAS SEQUENCIAIS 16
+ExAMES LABORATORIAIS 16
+LCR PARA DOSAGEM DE BIOPTERINA (BH4) 16
+Conduta clínica 17
+LCR E SORO PARA DOSAGEM DE ANTICORPOS 17
+Conduta clínica 17
+SALIVA E FOLíCULO PILOSO E LCR PARA REALIZAçãO DE RT-PCR 18
+Conduta clínica 18
+ExAMES DE IMAGEM 19
+Doppler transcraniano – DTC 19
+Ressonância nuclear magnética de encéfalo – RNM 19
+Tomografia computadorizada – TC 19
+COMPLICAÇÕES 20
+HIPERNATREMIA (NA+ >155MEQ/L) 20
+Desidratação 20
+Diabetes insipidus 20
+HIPONATREMIA (NA+ <140MEQ/L) 20
+Síndrome de Secreção Inapropriada de Hormônio Antidiurético – SSIHAD 20
+Síndrome Cerebral Perdedora de Sal – SCPS 20
+Disautonomia 21
+Hipertensão Intracraniana – HIC 21
+Sinais de herniação 22
+VASOESPASMO CEREBRAL – VEC 22
+Diagnóstico 22
+Conduta 22
+CONVULSõES 22
+INFECçõES 22
+QUADRO CLíNICO COMPATíVEL COM MORTE ENCEFáLICA – ME 23
+FLUXOGRAMA 24
+INSTITUIÇÕES ENVOLVIDAS 26
+REFERÊNCIAS 28
+ANEXOS 29
+ANExO A – MODELO DE TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO 29
+ANExO B – FICHA DE REGISTRO DO CASO NO PROTOCOLO PARA TRATAMENTO
+DE RAIVA HUMANA NO BRASIL – PREENCHER E NOTIFICAR A SECRETARIA DE SAÚDE: 31
+ANExO C – DOSES E VALORES DE REFERÊNCIA EM PEDIATRIA 33
+ANExO D – UNIDADES DE REFERÊNCIA PARA ASSISTÊNCIA AOS PACIENTES SUSPEITOS
+DE RAIVA HUMANA E VIGILÂNCIA EPIDEMIOLóGICA DA RAIVA 35
+ANExO E – MEDIDAS ASSISTENCIAIS DE ENFERMAGEM 40
+Protocolo de tratamento da raiva humana no Brasil
+APRESENTAÇÃO
+Raiva é uma encefalite viral aguda, transmitida por mamíferos.
+Todos os mamíferos são considerados fontes de infecção para o vírus da raiva e, portanto,
+podem transmiti-lo ao homem, destacando-se: cães, gatos, morcegos, cachorros do mato,
+saguis, raposas, bovinos, equinos, suínos, caprinos, dentre outros.
+Em 2004, nos Estados Unidos, registrou-se o primeiro relato, na literatura internacional,
+de cura da raiva em paciente que não recebeu vacina. Nesse caso, foi realizado um trata-
+mento com base na utilização de antivirais e sedação profunda, denominado de Protocolo
+de Milwaukee (WILLOUGHBY et al., 2005).
+Em 2008, no Brasil, na unidade de terapia intensiva do Serviço de Doenças Infecciosas do
+Hospital Universitário Oswaldo Cruz, da Universidade de Pernambuco, em Recife-PE, um
+tratamento semelhante ao utilizado na paciente norte-americana foi aplicado em um jovem
+de 15 anos de idade, mordido por um morcego hematófago, com eliminação viral (clearance
+viral) e recuperação clínica.
+A primeira cura de raiva humana no Brasil, bem como o sucesso terapêutico da paciente dos
+Estados Unidos, abriu novas perspectivas para o tratamento dessa doença, considerada até
+então letal. Diante disso, o Ministério da Saúde reuniu especialistas no assunto e elaborou o
+primeiro protocolo brasileiro de tratamento para raiva humana baseado no protocolo ameri-
+cano de Milwaukee.
+Esse protocolo tem como objetivo orientar a condução clínica de pacientes suspeitos de raiva,
+na tentativa de reduzir a mortalidade da doença. Em razão de o caso ter sido tratado na cidade
+de Recife-PE e se apresentar como a primeira experiência bem-sucedida no Brasil, o protoco-
+lo foi denominado Protocolo de Recife.
+Importante:
+Conforme portaria do Ministério da Saúde No 5, de 21 de fevereiro de 2006, todo caso humano sus-
+peito de raiva é de notificação individual, compulsória e imediata à Secretaria de Vigilância em Saúde.
+Secretaria de Vigilância em Saúde/MS 5
+Protocolo de tratamento da raiva humana no Brasil
+CRITÉRIOS DE INCLUSÃO E EXCLUSÃO
+Este protocolo de tratamento está recomendado para todo paciente com suspeita clínica de raiva,
+que tenha vínculo epidemiológico e profilaxia de raiva humana inadequada.
+Atenção:
+Deve ser assinado termo de consentimento livre e esclarecido pelo paciente ou responsável para utilização
+deste protocolo (Anexo 1).
+Suspeita clínica de raiva humana
+Período de incubação: variável, podendo ser de um mês a um ano; a maioria dos casos ocorre de
+duas semanas a três meses após a agressão.
+Pródromos: duração de dois a quatro dias, inespecíficos: mal-estar geral, pequeno aumento de
+temperatura, anorexia, cefaleia, náuseas, dor de garganta, entorpecimento, irritabilidade, inquie-
+tude e sensação de angústia. Podem ocorrer hiperestesia e parestesia no trajeto de nervos perifé-
+ricos, próximos ao local da mordedura, e alterações de comportamento.
+Fase neurológica: deve ser identificada de acordo com as duas apresentações clássicas da doença –
+forma furiosa (relacionada principalmente a vírus transmitidos por canídeos) e forma paralítica
+(associada, na maioria dos casos, a vírus transmitidos por morcegos).
+Forma furiosa: a infecção progride com manifestações de ansiedade e hiperexcitabilidade cres-
+centes, febre, delírios, espasmos musculares involuntários, generalizados e/ou convulsões. Es-
+pasmos dos músculos da laringe, faringe e língua ocorrem quando o paciente vê ou tenta ingerir
+líquido (hidrofobia), apresentando concomitantemente sialorreia intensa, disfagia, aerofobia,
+hiperacusia, fotofobia.
+Forma paralítica: ocorre parestesia, dor e prurido no local da mordedura, evoluindo com parali-
+sia muscular flácida precoce. Em geral, a sensibilidade é preservada. A febre também é marcante,
+geralmente elevada e intermitente. O quadro de paralisia leva a alterações cardiorrespiratórias,
+retenção urinária, obstipação intestinal; embora se observem espasmos musculares (especial-
+mente laringe e faringe), não se percebe claramente a hidrofobia, e a consciência é preservada na
+maioria dos casos.
+A disautonomia (bradicardia, bradiarritmia, taquicardia, taquiarritmia, hipo ou hipertensão ar-
+terial) e a insuficiência respiratória são as principais causas de morte, podendo ocorrer nas duas
+formas. Sem suporte cardiorrespiratório, o paciente evolui a óbito entre cinco e sete dias na forma
+furiosa e até 14 dias na forma paralítica (HEMACHUDHA et al., 2002).
+6 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Vínculo epidemiológico
+Paciente com manifestação clínica sugestiva de raiva, com antecedentes de exposição de até
+um ano a uma provável fonte de infecção, ou procedente de regiões com comprovada circu-
+lação de vírus rábico.
+Profilaxia de raiva humana inadequada
+• Paciente que não recebeu o esquema profilático de pós-exposição de raiva humana.
+• Paciente que recebeu o esquema de pós-exposição incompleto, conforme as normas
+técnicas de profilaxia da raiva humana.
+• Paciente que não recebeu o esquema de pós-exposição em tempo oportuno.
+Critérios de exclusão ao protocolo
+• Paciente sem história de febre.
+• Paciente com história de doença superior a 14 dias.
+• Paciente com doença que não tenha vínculo epidemiológico com a raiva.
+• Paciente com profilaxia de raiva humana pós-exposição completa e em tempo oportuno.
+• Confirmada outra doença (ver Diagnóstico diferencial).
+• Pacientes com doença associada grave ou incurável, ou com sequela neurológica
+prévia limitante, ou que o investimento terapêutico seja contraindicado.
+Secretaria de Vigilância em Saúde/MS 7
+Protocolo de tratamento da raiva humana no Brasil
+DIAGNÓSTICO
+Diagnóstico diferencial
+Doenças infecciosas: outras encefalites virais, especialmente as causadas por outros rab-
+dovírus e arbovírus; enteroviroses; tétano; pasteureloses por mordedura de gato e de cão;
+infecção por vírus B (Herpesvírus simiae) por mordedura de macaco; botulismo; febre por
+mordida de rato (Sodóku); febre por arranhadura de gato (linforreticulose benigna de
+inoculação); e tularemia.
+Doenças não infecciosas: Síndrome de Guillain-Barré; encefalomielite difusa aguda (Adem);
+intoxicações; quadros psiquiátricos; e encefalite pós-vacinal.
+Diagnóstico específico da raiva
+O diagnóstico laboratorial da raiva humana ante-mortem pode ser realizado por meio
+da identificação do antígeno rábico pela técnica de Imunofluorescência Direta – IFD
+em decalques de células de córnea (córnea teste), na biópsia da pele da região da nuca
+(folículo piloso) ou da saliva.
+As técnicas de biologia molecular, como o RT-PCR e a semi-nested RT-PCR representam,
+na atualidade, importantes instrumentos para o diagnóstico ante-mortem a partir da saliva,
+do folículo piloso e do líquido cefalorraquidiano – LCR. Nenhuma das técnicas, isolada-
+mente, apresenta 100% de sensibilidade, mas o conjunto delas aumenta consideravelmente a
+probabilidade da confirmação laboratorial de uma suspeita clínico-epidemiológica de raiva
+humana. Ressalta-se que o diagnóstico positivo é conclusivo, porém o diagnóstico negativo
+não exclui a possibilidade de raiva.
+Em casos nos quais não há histórico de vacinação do paciente, a pesquisa de anticorpos no
+soro, por meio da soroneutralização (RIFFT), oferece uma importante contribuição para o
+diagnóstico “in vivo”. A presença de anticorpos no LCR, mesmo após vacinação, também
+sinaliza infecção pelo vírus da raiva.
+8 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+COLETA E REMESSA DE MATERIAL PARA DIAGNÓSTICO
+ESPECÍFICO DA INFECÇÃO PELO VÍRUS DA RAIVA
+Coleta de material
+Folículo piloso
+Amostras de biópsia de pele (0,5 a 1,0cm2) da região da nuca, próximo ao couro cabeludo
+(folículo piloso), devem ser coletadas com bisturi descartável. Os bisturis e tubos não de-
+vem ser reutilizados, nem sequer para coletar diferentes amostras de um mesmo paciente.
+As amostras de folículo piloso devem ser acondicionadas em frascos, isoladamente, separa-
+das dos demais tecidos e fluidos, e congeladas a -20°C ou, quando possível, -70°C.
+Saliva
+Devem ser coletados 2ml de saliva e acondicionados em tubos hermeticamente fechados
+e congelados a -20°C ou, quando possível, -70°C. Essa coleta precisa ser realizada antes da
+higienização bucal do paciente, da aspiração e dos procedimentos fisioterápicos.
+Soro
+Coletar 5ml de sangue e obter imediatamente o soro, para minimizar a hemólise. Deve ser
+congelado a -20°C.
+Líquido cefalorraquidiano – LCR
+A coleta do LCR (2ml) será feita por meio de punção na região lombar, procedendo, a seguir,
+o seu congelamento a -20°C.
+Acondicionamento das amostras
+Todas as amostras devem ser mantidas em condições de congelamento, até o momento do
+encaminhamento aos laboratórios de diagnóstico de raiva.
+Secretaria de Vigilância em Saúde/MS 9
+Protocolo de tratamento da raiva humana no Brasil
+Procedimentos para o diagnóstico específico de raiva
+Diante de uma suspeita clínico-epidemiológica de raiva humana, deve-se comunicar ime-
+diatamente à Secretaria Estadual de Saúde – SES (Serviço de Vigilância Epidemiológica em
+Raiva), que propiciará condições para a coleta de LCR, soro, folículo piloso, saliva e imprint de
+células de córnea o mais rápido possível, bem como seu envio aos laboratórios responsáveis
+pelo diagnóstico. O imprint de córnea só deverá ser realizado se houver profissional perfeita-
+mente habilitado para tal.
+As amostras colhidas serão encaminhadas imediatamente ao Laboratório de Diagnóstico do
+Estado ou ao Laboratório Central de Saúde Pública regional – Lacen e para o Laboratório
+Nacional de Referência (Instituto Pasteur-SP), devendo, portanto, ser fracionadas na primeira
+coleta (colher duas amostras de cada espécime clínico). As coletas sucessivas para confirma-
+ção diagnóstica, conforme sumarizado no quadro 1, deverão ser encaminhadas apenas ao
+Laboratório Nacional de Referência (Instituto Pasteur-SP).
+Todas as coletas de amostras deverão ser feitas na presença do funcionário do Serviço de
+Vigilância Epidemiológica da SES ou, de preferência, do laboratório local, o qual fará o
+adequado acondicionamento e transporte destas aos laboratórios.
+As coletas de saliva deverão ser diárias, a partir do dia da inclusão do paciente no protocolo.
+Serão enviadas diariamente ao laboratório local, o qual examinará apenas a primeira coleta
+e a remeterá, juntamente com as demais, ao Instituto Pasteur-SP duas vezes por semana
+(segunda e quinta-feira). Esse envio será iniciando na segunda ou na quinta-feira seguinte à
+inclusão no protocolo.
+As coletas de folículo piloso, LCR e soro serão realizadas duas vezes (segunda e quinta-feira)
+para tentar confirmar o diagnóstico. A primeira coleta (amostra em duplicidade) deverá ser
+rapidamente enviada ao laboratório local, o qual examinará uma amostra e encaminhará a
+outra ao Instituto Pasteur-SP. A segunda coleta deverá ser examinada apenas pelo Instituto
+Pasteur-SP. As coletas e os envios deverão iniciar na segunda ou na quinta-feira seguinte à
+inclusão no protocolo.
+O imprint de córnea deverá ser coletado apenas uma vez, seguindo a mesma rotina da primei-
+ra coleta de LCR, soro e folículo piloso.
+Os resultados laboratoriais serão emitidos em até 72 horas após o recebimento das amostras.
+10 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+O término da tentativa diagnóstica específica se dará quando não houver positividade nas
+amostras examinadas no laboratório local e nas enviadas ao Instituto Pasteur-SP. Sem o
+diagnóstico específico, o paciente deverá ser retirado do protocolo e outro diagnóstico de-
+verá ser insistentemente pesquisado.
+Observação:
+Todas as amostras deverão ser acompanhadas de ficha de identificação e solicitação médica devida-
+mente datada e assinada.
+Os frascos e tubos também deverão ser identificados com o nome do paciente, o tipo de amostra e
+a data da coleta.
+Caso o paciente evolua a óbito, antes ou depois do diagnóstico específico (a qualquer mo-
+mento do tratamento), deverá ser feita necropsia e o encéfalo (cérebro, tronco encefálico e
+cerebelo) será divido exatamente em duas partes iguais (corte sagital). Cada metade será
+enviada a um laboratório para exames: laboratório estadual ou regional, para fazer pesquisa
+de inclusão viral e IFD (enviar a fresco, sem formalina); e laboratório de patologia local, para
+exame histopatológico (enviar em formalina).
+Quadro 1 – Amostras para confirmação diagnóstica da infecção pelo vírus da raiva:
+Tecido/fluido Volume/quantidade Coletas
+Coletas diárias durante uma semana (até o segundo dia de
+Saliva 2ml
+envio ao Instituto Pasteur)
+LCR 2ml 2 coletas durante 1 semana (2a e 5a feira)
+Soro 2ml 2 coletas durante 1 semana (2a e 5a feira)
+Folículo piloso 0,5-1,0cm2 2 coletas durante 1 semana (2a e 5a feira)
+Imprint de córnea 5 lâminas Apenas na 1a coleta
+Secretaria de Vigilância em Saúde/MS 11
+Protocolo de tratamento da raiva humana no Brasil
+CONDUÇÃO CLÍNICA INICIAL
+Atenção:
+1. Em caso de suspeita clínico-epidemiológica de raiva humana, não administrar:
+soro antirrábico; e
+vacina antirrábica.
+2. Raiva pode mimetizar morte encefálica.
+Conduza de acordo com o descrito no item “Complicações”.
+Conduta antes de ter o diagnóstico confirmado laboratorialmente
+1. Conduzir todo paciente com suspeita clinicoepidemiológica de raiva humana no serviço
+de referência do estado para tratamento de raiva e em ambiente de UTI.
+2. Colocar o paciente em isolamento de contato, usando equipamento de proteção indivi-
+dual adequado (avental de manga longa, máscara, luvas e óculos).
+3. Providenciar precocemente acesso venoso central, sondagem vesical de demora e sonda-
+gem nasoenteral.
+4. Dieta: hipercalórica e hiperproteica.
+a. Iniciar o mais precocemente, por via enteral quando possível.
+b. Em adultos, preferir a posição gástrica da sonda e deixar em posição pós-pilórica na
+presença de distensão e hipersecreção gástrica.
+c. Em crianças, usar posição pós-pilórica da sonda.
+d. Fazer acompanhamento nutricional para monitoração de provável perda pon-
+deral significativa.
+5. Manter paciente normovolêmico usando soluções isotônicas.
+6. Intubação traqueal: seguir as indicações clássicas; ressaltar a necessidade de vigilância
+quanto à possível hipersalivação.
+12 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+7. Suporte ventilatório: seguir a rotina do serviço, garantindo boa oxigenação, normoven-
+tilação e proteção pulmonar (ver item Objetivos terapêuticos a serem seguidos para redu-
+zir o risco de lesão neurológica secundária)
+8. Sedação para adaptação à ventilação mecânica:
+a. Seguir a rotina do serviço.
+b. Sugere-se o uso de Midazolan (0,03 a 0,6mg/kg/h) associado a Fentanil (1 a 2mcg/kg/h).
+c. Caso disponível, trocar Fentanil por Ketamina (0,5 a 1,0mg/kg/h); se não tiver
+Ketamina disponível, providenciar para uso obrigatório quando o diagnóstico
+for confirmado.
+d. Evitar o uso de barbitúricos e propofol.
+e. Monitorar com escala de sedação (Ramsey IV), ou com BIS, ou EEG.
+9. Nimodipina – 60mg via enteral de 4h/4h.
+10. Vitamina C – 1g IV ao dia.
+11. Profilaxia para TVP:
+a. Usar dose recomendada para pacientes de alto risco.
+b. Preferir heparina de baixo peso molecular.
+12. Profilaxia de hemorragia digestiva alta: utilizar Ranitidina (50mg IV de 8h/8h) ou inibi-
+dor de bomba de prótons.
+13. Profilaxia de úlcera de pressão.
+14. Objetivos terapêuticos a serem seguidos para reduzir o risco de lesão neurológica
+secundária:
+a. Cabeceira elevada a 30o com cabeça centralizada em relação ao tronco; não deixar de
+fazer a mudança de decúbito a cada três horas.
+b. PAM ³ 80mmHg.
+c. PVC = 8-12mmHg (10-14mmHg quando em ventilação mecânica).
+Secretaria de Vigilância em Saúde/MS 13
+Protocolo de tratamento da raiva humana no Brasil
+d. Saturação periférica de oxigênio (oximetria / SpO) ³ 94%.
+2
+e. PaCO = 35-40mmHg; não fazer hiperventilação.
+2
+f. Pressão de platô das vias aéreas < 30cmHO (proteção pulmonar).
+2
+g. Hemoglobina ³ 10g%.
+h. Natremia (Na+) = 140-150mEq/L.
+i. Glicemia = 70-110mg%; em adultos iniciar infusão venosa contínua de insulina
+quando Glicemia >180mg%, conforme protocolo próprio.
+j. Manter diurese >0,5ml/kg/h com adequada hidratação; evitar uso de diuréticos.
+k. Aferir temperatura central (esofágica, retal ou timpânica) e manter entre 350C e 370C
+com: controle da temperatura ambiental, drogas e resfriamento superficial.
+Conduta após confirmação laboratorial da raiva
+1. Manter todas as condutas descritas anteriormente e acrescentar as relacionadas a seguir.
+2. Amantadina – 100mg via enteral de 12h/12h; não usar Ribavirina.
+3. Biopterina – 2mg/kg via enteral de 8h/8h (disponível no Ministério da Saúde).
+4. Sedação profunda:
+a. Deve-se usar: Midazolan (1mg/kg/h a 2mg/kg/h) associado a Ketamina
+(2mg/kg/h) – suspender Fentanil se estiver em uso.
+b. As doses descritas no item anterior não devem ser muito aumentadas; caso seja
+necessário, para otimizar a sedação, associar Fentanil.
+c. Evitar o uso de barbitúricos e propofol.
+d. Monitorar com escala de sedação (Ramsey VI), com BIS, ou EEG.
+Monitoração
+Iniciar imediatamente quando o paciente for internado na UTI.
+14 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+1. Contínua:
+• ECG;
+• oximetria de pulso;
+• capnografia (quando em ventilação mecânica);
+• PAM (se instabilidade hemodinâmica);
+• BIS ou EEG (quando disponível); e
+• temperatura central (quando monitor disponível).
+2. Intermitente:
+• PA (PNI) de 2h/2h;
+• PVC de 4h/4h;
+• glicemia capilar de 4h/4h;
+• diurese de 4h/4h;
+• balanço hídrico de 12h/12h;
+• temperatura central de 2h/2h (se não puder ser contínua);
+• densidade urinária de 4h/4h; e
+• dosagem sérica de Na+ duas vezes ao dia.
+Secretaria de Vigilância em Saúde/MS 15
+Protocolo de tratamento da raiva humana no Brasil
+EXAMES E CONDUTAS CLÍNICAS SEQUENCIAIS
+Exames laboratoriais
+A coleta de amostras para exames laboratoriais deverá seguir a rotina do serviço, ressaltando
+a necessidade de controle de:
+1. Sódio – dosagem sérica duas vezes ao dia (ver item Monitoração Intermitente).
+2. Gasometria arterial – para monitoração de PaO e PaCO; quantas vezes for necessário.
+2 2
+3. Magnésio – dosagem sérica diária pelo risco de estar reduzida em associação ao vasoes-
+pasmo cerebral.
+4. Zinco – dosagem sérica semanal.
+5. Hormônios tireoidianos (T4 livre e TSH ultrassensível) – dosagem semanal.
+LCR para dosagem de biopterina (Bh4)
+Após a confirmação laboratorial de raiva humana, a dosagem liquórica de tetra-hidrobiop-
+terina (BH4) deverá ser realizada (Quadro 2).
+Para tal, nova amostra de LCR deverá ser coletada e colocada em cinco frascos apropria-
+dos (total de 3,5ml de LCR distribuídos, respectivamente em: 0,5ml; 0,5ml; 1,0ml; 1,0ml
+e 0,5ml) e acondicionados em gelo seco. Estes frascos serão fornecidos pelo Ministério
+da Saúde, que providenciará os trâmites administrativos para o envio aos Estados Unidos
+(laboratório em Atlanta).
+Essa burocracia transcorre em torno de 15 dias. Quando tudo estiver acertado (documentos,
+transportadora e autorização das entidades sanitárias e federais envolvidas), o LCR deverá ser
+coletado e os tubos deverão ser imediatamente acondicionados em gelo seco até a entrega à
+transportadora. O funcionário do laboratório local (Lacen) deverá estar presente no momen-
+to da coleta da amostra e será responsável pelo acondicionamento e entrega à transportadora.
+Mais 15 dias são necessários para recebimento do resultado.
+Uma vez confirmada a deficiência de BH4, serão iniciados os procedimentos burocráticos
+necessários para uma nova dosagem (controle), que ocorrerá após 15 dias de reposição em
+dose máxima (ver a seguir).
+16 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Conduta clínica
+Na presença de deficiência de Biopterina, fazer reposição com as seguintes doses:
+a. 5mg/kg/dia, dividido em duas tomadas por dois dias, seguido de
+b. 10mg/kg/dia, dividido em duas tomadas por dois dias, seguido de
+c. 20mg/kg/dia, dividido em duas tomadas; manter esta dosagem durante 4 a 6 meses.
+Caso haja aparecimento ou piora de movimentos anormais, discutir com os consultores as
+doses de manutenção do BH4.
+LCR e soro para dosagem de anticorpos
+A coleta de soro para dosagem de anticorpos antirrábicos continuará sendo efetuada duas ve-
+zes por semana (segundas e quintas-feiras), com a mesma rotina descrita para o diagnóstico
+definitivo, no Instituto Pasteur (Quadro 2).
+A coleta de LCR será feita apenas uma vez por semana, na segunda-feira (Quadro 2).
+Serão suspensas as coletas quando todos os itens a seguir forem alcançados:
+a. Nível de anticorpos considerado aceitável para que se retire a sedação (3-5UI/ml no LCR).
+b. Paciente fora do coma, após a suspensão da sedação, sem sinais de edema cerebral.
+c. Não haja elevação rápida dos níveis de anticorpos (discutir com consultores) ou seus
+títulos não sejam muito elevados (>10UI/ml no LCR).
+Conduta clínica
+1. Suspensão da sedação: deverá ser feita de forma gradual (redução de 0,5mg/kg/h de cada
+droga a cada 12h) quando atingir nível de anticorpos no LCR de 3-5UI/ml.
+2. Imunomodulação: deverá ser feita quando houver altos títulos de anticorpos no LCR
+(>10UI/ml no LCR) ou elevação rápida (discutir com consultores); usar corticosteroide,
+porém as decisões sobre a droga a ser utilizada, dose e momento do seu início deverão
+ser feitas em conjunto com os consultores.
+Secretaria de Vigilância em Saúde/MS 17
+Protocolo de tratamento da raiva humana no Brasil
+Saliva e folículo piloso e LCR para realização de RT-PCR
+Após o diagnóstico confirmatório por meio de RT-PCR positiva a partir de saliva, folículo
+piloso ou LCR, deverão ser realizadas coletas sucessivas desses tecidos.
+Amostras de saliva deverão ser coletadas duas vezes por semana (segundas e quintas-feiras),
+com a mesma rotina descrita para o diagnóstico definitivo no Instituto Pasteur (Quadro 2).
+Amostras de folículo piloso e de LCR deverão ser colhidas apenas uma vez por semana, na
+segunda-feira (Quadro 2).
+Serão suspensas as coletas quando houver três amostras negativas.
+Conduta clínica
+1. Suspensão do isolamento de contato: após três amostras de saliva negativas pela RT-PCR
+(critério do CDC).
+2. Clearance viral: confirmada após três amostras negativas pela RT-PCR no espécime clíni-
+co que confirmou o diagnóstico (saliva, folículo piloso ou LCR).
+Quadro 2 - Exames sequenciais
+Tecido/fluido Exame Volume/quantidade Coletas
+3,5ml fracionados em
+15 dias após confirmação + 15 dias
+LCR Dosagem de biopterina 5 frascos (0,5ml; 0,5ml;
+após reposição em dose máxima
+1,0ml; 1,0ml; 0,5ml)
+1 vez por semana
+LCR Dosagem de anticorpos 2ml
+(2a feira)
+2 vezes por semana
+Soro Dosagem de anticorpos 2ml
+(2a e 5a feira)
+1 vez por semana
+LCR RT-PCR 2ml
+(2a feira) até 3 amostras negativas
+1 vez por semana
+Folículo piloso RT-PCR 0,5-1cm2
+(2a feira) até 3 amostras negativas
+2 vezes por semana
+Saliva RT-PCR 2ml
+(2a e 5a feira) até 3 amostras negativas
+18 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Exames de imagem
+Doppler transcraniano – DTC
+Deverá ser realizado diariamente a partir do internamento na UTI, quando possível, para
+diagnóstico precoce de vasoespasmo cerebral (ver Complicações).
+Suspender após 15 dias de doença se não houver alterações.
+Ressonância nuclear magnética de encéfalo – RNM
+É importante no diagnóstico diferencial, mas não imprescindível para condução da raiva.
+Deve-se fazer RNM com difusão (sem contraste) o mais precocemente possível, avaliando
+risco-benefício do transporte.
+Tomografia computadorizada – TC
+Não é indicada rotineiramente.
+Deve-se fazer TC sem contraste e de urgência na vigência de complicações.
+Secretaria de Vigilância em Saúde/MS 19
+Protocolo de tratamento da raiva humana no Brasil
+COMPLICAÇÕES
+Hipernatremia (Na+ >155mEq/l)
+Desidratação
+a. Densidade urinária > 1025.
+b. Hidratar para manter PVC = 8-12mmHg (10-14mmHg quando em ventilação me-
+cânica) e evitar hiperviscosidade.
+Diabetes insipidus
+a. Densidade urinária < 1005.
+b. Usar Desmopressina (1-3doses a cada 12h-24h, via intranasal) ou Vasopressina (via
+intravenosa ou subcutânea) e repor a volemia.
+Hiponatremia (Na+ <140mEq/l)
+Síndrome de Secreção Inapropriada de Hormônio Antidiurético – SSIHAD
+a. Paciente normo ou hipervolêmico.
+b. Dosar ácido úrico sérico (>4mg/dL) após reposição de Na+ para diagnóstico dife-
+rencial com SCPS.
+c. Fazer restrição hídrica evitando desidratação e hiperviscosidade.
+d. Controle rigoroso da natremia.
+Síndrome Cerebral Perdedora de Sal – SCPS
+a. Paciente hipovolêmico.
+b. Dosar ácido úrico sérico (<4mg/dL) após reposição de Na+ para diagnóstico dife-
+rencial com SSIHAD.
+c. Dosar perda renal diária de Na+ (urina de 24h) para orientar reposição.
+20 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+d. Reposição venosa de Na+ e volume.
+e. Associar reposição enteral de Na+ (3g-6g/dia).
+f. Limitar elevação diária de Na+ em 10-12mEq/L (evitar mielinólise pontina);
+g. Considerar o uso de Fluidrocortisona (0,15mg via enteral ao dia) ou Hidrocortisona
+(50mg IV de 6h/6h).
+h. Controle rigoroso da natremia.
+Disautonomia
+a. Aumentar sedação e, se não melhorar, associar opiáceos (Morfina ou Fentanil, em
+bolus ou contínuo).
+b. Fazer avaliação cardíaca com ecocardiograma e curva de enzimas.
+c. Associar, conforme necessidade, atropina, marcapasso provisório e/ou vasopressor.
+Hipertensão Intracraniana – HIC
+Sinais inespecíficos sugestivos de HIC
+a. Fazer TC sem contraste de urgência.
+b. Solicitar avaliação neurocirúrgica.
+c. Considerar monitorização da pressão intracraniana (PIC) com objetivos de manter
+PIC <20mmHg e PPC (PAM–PIC) >60mmHg.
+d. Se PIC >20mmHg, fazer osmoterapia com:
+• Manitol a 20% = ataque de 0,5-1,5g/kg IV em bolus; repetir 0,25-0,75g/kg IV a
+cada 15 a 30 minutos mantendo osmolaridade sérica ≤320mOsm/l; ou
+• Solução salina hipertônica a 7,5% = 2-3ml/kg IV em 1h; preparo:
+[NaCl(7,5%) – 300ml] = [SF(0,9%) – 200ml] + [NaCl(20%) – 100ml].
+e. Não hiperventilar (manter PaCO2 = 35-40mmHg); e
+f. Manter Na+ sérico entre 150-155mEq/l.
+Secretaria de Vigilância em Saúde/MS 21
+Protocolo de tratamento da raiva humana no Brasil
+Sinais de herniação
+a. Osmoterapia (com manitol ou solução salina hipertônica – ver doses descritas no
+item anterior) e hiperventilar (PaCO = 28-30mmHg) até reverter a anisocoria.
+2
+b. Realizar TC sem contraste de emergência quando estabilizado.
+c. Solicitar avaliação neurocirúrgica de emergência para monitoração da PIC e trata-
+mento definitivo.
+Vasoespasmo Cerebral – VEC
+Diagnóstico
+Sugere-se a existência de VEC quando há, ao DTC, velocidade de fluxo elevada em arté-
+ria cerebral média (circulação anterior) e em artéria vertebral (circulação posterior).Deve-se
+confirmar o diagnóstico por angiografia, se disponível.
+Conduta
+a. Monitorar PIC e DTC.
+b. Objetivar: PVC >10mmHg; PAM >120mmHg; Hemoglobina em torno de 10g%;
+usar vasopressor e/ou inotrópico, se necessário.
+c. Controle rigoroso do nível sérico de magnésio e repor, se necessário.
+Convulsões
+Quando ocorrer, pensar na possibilidade de HIC e/ou VEC.
+Tratar com diazepínico, hidantalização e outras drogas conforme rotina.
+Infecções
+O paciente com raiva cursa com febre (poiquilotermia) e pode apresentar leucocitose com
+neutrofilia não relacionada à infecção bacteriana.
+Sugere-se investigação clínico-laboratorial e microbiológica exaustiva para o diagnóstico de
+infecções secundárias.
+22 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Quadro clínico compatível com morte encefálica – ME
+A raiva pode mimetizar morte encefálica, com arreflexia e supressão de EEG ou BIS.
+Nesse caso não está indicada a suspensão do protocolo.
+Deve-se conduzir da seguinte forma:
+a. Suspender sedação.
+b. Fazer nova avaliação clínica e neurológica após 48h.
+c. Caso persistam os sinais de ME, abrir protocolo conforme legislação vigente.
+d. O exame confirmatório deve ser de avaliação de fluxo sanguíneo cerebral ou de ati-
+vidade metabólica – não usar eeg.
+e. Se confirmada ME, suspender o protocolo e seguir as orientações legais.
+f. Se não confirmada ME, manter o protocolo, não reiniciar sedação, e reavaliar perio-
+dicamente fluxo e/ou metabolismo cerebral.
+Secretaria de Vigilância em Saúde/MS 23
+Protocolo de tratamento da raiva humana no Brasil
+FLUXOGRAMA
+Suspeita Clínica de Raiva Humana?
+SIM NÃO
+NÃO
+Vínculo epidemiológico? Excluir
+paciente
+SIM do
+NÃO
+Profilaxia de raiva humana inadequada? protocolo
+e
+SIM investigar
+SIM
+outros
+Algum critério de exclusão?
+diagnósticos
+NÃO
+Isolamento de contato e iniciar cuidados antes de ter a confirmação
+Contactar serviço de referência de seu estado
+NÃO
+Há vaga? Conduzir em UTI local se possível
+SIM
+Transferir assim que possível
+Transferir à UTI de referência à UTI de referência
+Manter o isolamento de contato e
+os cuidados antes de ter a confirmação diagnóstica
+Informar ao serviço de vigilância Informar ao laboratório local
+epidemiológica local (SES) de diagnóstico de raiva
+Informar ao Providenciar exames para Informar ao
+Ministério da confirmação diagnóstica de raiva Instituto
+Saúde (DF) Pasteur (SP)
+NÃO
+Confirmou o diagnóstico de raiva?
+SIM
+Iniciar os seguintes procedimentos:
+CONTINUA
+24 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Iniciar os seguintes procedimentos:
+Conduta Vigiar
+após e
+Monitoração
+confirmação tratar
+contínua e
+laboratorial precocemente
+intermitente
+da raiva
+Exames
+as
+complicações
+sequenciais
+e condutas
+Novos Exa-
+espécimes mes
+clínicos de
+para i m a-
+RT-PCR: gem
+Corrigir Repor Avaliar altera- se compli-
+ções redu- cação
+zido ou
+outro
+diag-
+nóstico
+Contro-
+le após
+15 dias
+Manter
+por
+4 a 6
+meses
+Secretaria de Vigilância em Saúde/MS 25
+ed
+sartsoma
+30
+ed
+rariteR
+savitagen
+avilas
+otnemalosi
+savitagen
+sartsoma
+30
+ocinílc
+emicépse
+ed
+ovitisop
+etnemlaicini
+Eliminação viral
+lm/IU
+3 <
+adnuforp
+oãçades
+retnaM
+sianames
+snegasod
+e
+lm/IU
+5 a
+3
+arap
+oãçades
+rednepsuS
+etneicap
+o
+radroca
+uo
+Lm/IU
+01
+>
+lanames
+megasod
+retnaM
+adipár
+oãçavele
+oãçaludomonumi
+railava
+e
+CONTINUAÇÃO
+Exa- LCR Dosagem de anticorpos
+mes para em soro e LCR;
+labora- BH4 resultados em LCR:
+toriais
+Protocolo de tratamento da raiva humana no Brasil
+INSTITUIÇÕES ENVOLVIDAS
+Coordenação de Vigilância das Doenças Transmitidas por Vetores e Antropozoonoses,
+Secretaria de Vigilância em Saúde/Ministério da Saúde
+Ana Nilce Silveira Maia Elkhoury
+Eduardo Pacheco Caldas
+Marcelo Yoshito Wada
+Departamento de Doenças Infectoparasitárias, Hospital Universitário Oswaldo Cruz,
+Universidade de Pernambuco
+Ana Flávia Campos
+Andrezza de Vasconcelos
+Gustavo Trindade Henriques Filho
+Tomaz Christiano de Albuquerque Gomes
+Vicente Vaz
+Medical College of Wisconsin, Children´s Hospital of Wisconsin, USA
+Rodney E. Willoughby
+Instituto Pasteur, Secretaria de Estado da Saúde de São Paulo
+Ivanete Kotait
+Maria Luiza Carrieri
+Secretaria de Estado da Saúde de Pernambuco
+José Lindemberg Martins Machado
+Maria de Lourdes Ribeiro
+Maria Desi de S. Passos Menezes
+Tereza Valença
+26 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Hospital de Base do Distrito Federal, Secretaria de Saúde do Distrito Federal
+Cesar Zahlouth
+Instituto Evandro Chagas Hospital Universitário João de Barros Barreto, Universidade
+Federal do Pará
+Rita Medeiros
+Sociedade de Terapia Intensiva de Pernambuco
+Gustavo Trindade Henriques Filho Odin Barbosa da Silva
+Coordenação Geral de Laboratórios, Secretaria de Vigilância em Saúde/Ministério da Saúde
+Rosângela Rosa Machado
+Agradecimentos: Ana Nilce Silveira Maia Elkhoury, Adriana Conrado de Almeida, Andréa
+de Cássia Rodrigues da Silva, Andréa Maria de Lima, Auricília Santos de Oliveira, Camilla
+Araújo, Danielle Maria da Silva, Edivane Patrícia da Costa Galdino, Emanoela Patrícia Gon-
+çalves Dourado, Juliana Galera Castilho, Luciana Roberta Porto de Miranda Lapenda, Maria
+Ângela Wanderley Rocha, Maria Madalena C. de Oliveira, Roberta Seabra dos Santos, Rodri-
+go Luis da Silveira Silva, pelo apoio para elaboração deste protocolo.
+Secretaria de Vigilância em Saúde/MS 27
+Protocolo de tratamento da raiva humana no Brasil
+REFERÊNCIAS
+CHAVES, L. B. et al. Diagnóstico ante-mortem da raiva humana: anticorpos neutralizantes em
+soro e líquido cefalorraquidiano. Boletim Epidemiológico (São Paulo), São Paulo, v. 41, n. 4,
+p. 8-12, 2007.
+CREPIN, P. et al. Intravitam diagnosis of human rabies by PCR using saliva and cerebrospinal fuid.
+Journal of Clinical Microbiology, Washington, DC, v. 36, n. 4, p. 1117-1121, 1998.
+HEMACHUDHA, T.; LAOTHAMATAS, J.; RUPPRECHT, C. E. Human rabies: a disease of com-
+plex neuropathogenetic mechanisms and diagnostic challenges. Lancet Neurology, London, v. 1,
+n. 2, p. 101-109, 2002.
+LENHARD, T.; KÜLKENS, S.; SCHWAB, S. Cerebral Salt-Wasting syndrome in a patient with
+neuroleptic malignant syndrome. Archives of Neurology, Chicago, v. 64, p. 122-125, 2007.
+MACEDO, C. I. et al. Diagnosis of human rabies cases by polymerase chain reaction of neck-skin
+samples. Brazilian Journal of Infectious Diseases, Salvador, v. 10, n. 5, p. 341-345, 2006.
+ORCIARI, L. A. et al. Rapide clearance of SAG-2 rabies virus from dogs after oral vaccination.
+Vaccine, Kidlington, v. 19, p. 4511-4518, 2001.
+PALMER, B. F. Hyponatremia in patients with central nervous system disease: SIADH versus
+CSW. Trends in Endocrinology and Metabolism, New York, v. 14, p. 182-187, 2003.
+RUPPRECHT, C. E.; WILLOUGHBY, R.; SLATE, D. Current and future trends in the prevention,
+treatment and control of rabies. Expert Review of Anti-Infective Therapy, London, v. 4, n. 6,
+p. 1021-1038, 2006.
+SMITH, J. S.; YAGER, P. A.; BAER, G. M. A rapid reproducible test for determining rabies neutra-
+lizing antibody. In: MESLIN, F. X.; KAPLAN, M. M.; KOPROWSKI, H. Laboratory techiques in
+rabies. 4th Ed. Geneva: WHO, 1996. p. 181-192.
+WARRELL, M. J.; WARRELL, D. A. Rabies and other lyssavirus diseases. Lancet, London, v. 363,
+n. 9413, p. 959-969, 2004.
+WILLOUGHBY, R. E. Jr. et al. Survival after treatment of rabies with induction of coma. New
+England Journal of Medicine, Waltham, v. 352, n. 24, p. 2508-2514, 2005.
+______. Generalised cranial artery spasm in human rabies. Developmental Biology, [S.l], v. 131,
+p. 367-375, 2008.
+______. Tetrahydrobiopterin defciency in human rabies. Journal of Inherited Metabolic Disease,
+Lancaster, v. 32, n. 1, p. 65-72, 2009.
+ZAIDMAN, G. W.; BILLINGSLEY, A. Corneal impression test for the diagnosis of acute rabies
+encephalitis. Ophthalmology, Rochester, v. 105, p. 249-251, 1998.
+28 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+ANEXOS
+Anexo A – Modelo de Termo de Consentimento Livre e Esclarecido
+TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+PROTOCOLO PARA TRATAMENTO DE RAIVA HUMANA NO BRASIL
+Instituição responsável:______________________________________________________
+A raiva é uma doença grave de letalidade aproximadamente 100%. Ela é transmitida ao ho-
+mem por meio de arranhadura, lambedura ou mordedura do animal infectado. Em 2004, nos
+Estados Unidos, foi feito o primeiro relato na literatura internacional de cura em paciente que
+não recebeu vacina. Nesse caso foi realizado um tratamento com base em uso de antivirais e
+sedação profunda, denominado de Protocolo de Milwaukee. Em 2008, no Brasil, em Recife-
+PE, um tratamento semelhante ao utilizado na paciente norte-americana foi aplicado em um
+jovem de 15 anos de idade, mordido por um morcego hematófago, com cura da doença.
+Você ou a pessoa por quem é responsável está desenvolvendo uma doença cujas característi-
+cas clínicas e laboratoriais sugerem raiva. Com objetivo de salvar o paciente, será seguido o
+Protocolo para tratamento de raiva humana, baseado em sedação profunda, com medicamen-
+tos utilizados na rotina de unidades hospitalares do Brasil, além da biopterina que, apesar de
+não ser comercializada no Brasil, será disponibilizada pelo Ministério da Saúde. Você será
+acompanhado por médicos capacitados (infectologistas, intensivistas, clínicos gerais, entre
+outros) em unidade de terapia intensiva. Lembramos que o uso deste protocolo não garante
+a cura do paciente com raiva, nem a recuperação clínica e neurológica completa do paciente,
+podendo este ficar com sequelas físicas e psicológicas permanentes.
+Quanto à sua participação no protocolo e de toda informação fornecida, a equipe responsável
+garantirá total sigilo. Os dados e as imagens do paciente poderão ser utilizados sem identifi-
+cação ou exposição deste. Somente os médicos e as autoridades de saúde poderão ter acesso
+às informações confidenciais. Deixa-se claro que sua autorização é de seu livre arbítrio, não
+havendo pagamento por esta, podendo, em qualquer momento do tratamento, recusar-se a
+responder quaisquer perguntas, a permitir análise e divulgação dos dados contidos em seu
+questionário. O médico responsável pelo protocolo estará à sua disposição para esclarecer
+qualquer dúvida antes que você assine o termo de consentimento, durante e após o término.
+É preciso esclarecer que, caso desista de continuar com o protocolo, não haverá qualquer
+prejuízo no seu acompanhamento médico.
+Secretaria de Vigilância em Saúde/MS 29
+Protocolo de tratamento da raiva humana no Brasil
+CONSENTIMENTO LIVRE E ESCLARECIDO
+Declaro que li as informações acima sobre o Protocolo para tratamento de raiva humana e
+que me sinto perfeitamente esclarecido sobre o conteúdo deste, assim como seus riscos e
+benefícios. Declaro ainda que, por minha livre vontade, aceito a inclusão de minha pessoa, ou
+do paciente pelo qual sou responsável, no tratamento proposto neste protocolo, cooperando
+com a coleta de material para exame, além de fornecer informações que constarão em uma
+ficha clínico-epidemiológica, as quais só poderão ser utilizadas em relatórios, reuniões e pu-
+blicações científicas.
+Data: _____ / _____ / _______
+Nome do Paciente: __________________________________ Assinatura: _______________
+Nome do Pai/Mãe/Tutor Legal: _________________________ Assinatura: ______________
+Médico Responsável: ________________________________ Assinatura: _______________
+Hospital: _________________________ Endereço: ________________________________
+30 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Anexo B – Ficha de registro do caso no Protocolo para Tratamento de
+Raiva Humana no Brasil – preencher e notificar a Secretaria de Saúde:
+República Federativa do Brasil SINAN
+Ministério da Saúde Nº
+| | | | | | | | |
+Dados Complementares do Caso
+31Data da Investigação 32
+| | | || | | |
+| | | | | | |
+Secretaria de Vigilância em Saúde/MS 31
+socigóloimedipEsetnedecetnA
+SISTEMA DE INFORMAÇÃO DE AGRAVOS DE NOTIFICAÇÃO
+FICHA DE INVESTIGAÇÃO RAIVA HUMANA
+CASO SUSPEITO: Todo paciente com quadro clínico sugestivo de encefalite rábica, com antecedentes ou não de exposição à
+infecção pelo vírus rábico.
+Ocupação
+33Tipo de Exposição ao Vírus Rábico
+1 - Sim 2 - Não 9 - Ignorado Arranhão Lambedura Mordedura Contato Indireto
+34Localização 1 - Sim 2 - Não 9 - Ignorado
+Mucosa Cabeça/Pescoço Mãos Pés Tronco Membros Superiores Membros Inferiores
+35Ferimento 36Tipo de Ferimento
+1- Único 2- Múltiplo 3-Sem Ferimento 9- Ignorado 1 - Sim 2 - Não 9 - Ignorado Profundo Superficial Dilacerante
+37Data da Exposição 38Tem Antecedentes de Tratamento Anti-Rábico?
+| | | | | | | 1 - Sim 2 - Não 9 - Ignorado Pré-Exposição Pós-Exposição
+39Número de Doses Aplicadas 40Data da Última Dose
+| || || || || || || ||
+41Espécie do Animal Agressor 42 Animal Vacinado
+5 1 - - R C a a p n o in s a a 6 2 - - H F e e r li b n í a vora 7 3 - - O Q u u t ir r ó a p _ te _ r _ a _ _ (M __ o _ rc _ e _ g _ o _ ) _ 9 4 - - I P g r n im or a a t d a o (Macaco) 1 - Sim 2 - Não 9 - Ignorado
+47Nome do Hospital
+Raiva Humana
+otnemidnetA
+43Ocorreu Hospitalização? 44Data da Internação
+1 - Sim 2 - Não 9 - Ignorado
+48 Principais Sinais/ Sintomas Aerofobia Hidrofobia Disfagia Parestesia Agressividade
+1 - Sim 2 - Não 9 - Ignorado Paralisia Agitação Psicomotora Febre Outro (s): _____________________
+laudividnIoãçacifitoN
+aicnêdiseRedsodaD
+1 Tipo de Notificação
+2 - Individual
+5 Município de Notificação
+6 Unidade de Saúde (ou outra fonte notificadora) 7Data dos Primeiros Sintomas
+| | | | | | |
+8 Nome do Paciente 9 Data de Nascimento
+| | | | | | |
+siareGsodaD 2 Agravo/doença Código (CID10) 3 Data da Notificação
+RAIVA HUMANA A 8 2.9 | | | | | | |
+4UF Código (IBGE)
+| | | | | |
+Código
+| | | | | |
+10 ( o | u ) I d | ade 1 2 3 4 - - - - D M H An i o ê a o r s a 11 SexoM F I - - - I F g M e n a m o s r c i a n u d in l o in o o 12G 4 9 1 e - - - I 1 s I g d º t n T a a o r d n i r m e a t d e e g o s e t s re ta c io 2 n -2 a º l T I r g im no e r s a t d re a 5 - 3 N - ã 3 o ºT r i m 6 e - s N tre ão se aplica 1 1 4 3 - - B P R r a a r a n d c a ç a a / C 2 5 o - - P I r n r d e í t g a e n a 3 9 -A - m Ig a n r o e r l a a do
+14Escolaridade
+0-Analfabeto 1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau) 2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª à 8ª série incompleta do EF (antigo ginásio ou 1º grau) 4-Ensino fundamental completo (antigo ginásio ou 1º grau) 5-Ensino médio incompleto (antigo colegial ou 2º grau )
+6-Ensino médio completo (antigo colegial ou 2º grau ) 7-Educação superior incompleta 8-Educação superior completa 9-Ignorado 10- Não se aplica
+15 Número do Cartão SUS 16Nome da mãe
+| | | | | | | | | | | | | | |
+17UF 18MMuunniiccííppiioo ddee RReessiiddêênncciiaa CCóóddiiggoo ((IIBBGGEE)) 19Distrito
+| || || || || ||
+20Bairro 2211Logradouro (rua, avenida,...) Código
+|| || || || ||
+22Número 23Complemento (apto., casa, ...) 24Geo campo 1
+25Geo campo 2 26Ponto de Referência 27CEP
+| | | | - | |
+28(DDD) Telefone 29Zona1 - Urbana 2 - Rural 30País (se residente fora do Brasil)
+3 - Periurbana 9 - Ignorado
+45UF
+|
+46Município do Hospital Código (IBGE) Código
+| | | | | | | | | | |
+Sinan NET SVS 08/06/2006
+(continua)
+Protocolo de tratamento da raiva humana no Brasil
+32 Secretaria de Vigilância em Saúde/MS
+otnematarT
+lautA
+49Aplicação de Vacina Anti-Rábica Atualmente 50Data do Início do Tratamento
+1 - Sim 2 - Não 9 - Ignorado | | | | | | |
+51 Número de Doses Aplicadas 52Data da 1ª Dose da Vacina 53Data da Última Dose da Vacina
+| | | | | | | | | | | | | | |
+54Foi aplicado soro? 55Se Sim, Data da Aplicação 56Quantidade de Soro Aplicado
+1 - Sim 2 - Não 9 - Ignorado | | | | | | | | | | ml
+oãsulcnoC
+61 Critério de Confirmação / Descarte
+70Data do Óbito 71Data do Encerramento
+| | | | | | | | | | | | | |
+Informações Complementares
+rodagitsevnI
+(continuação)
+57Infiltração de Soro no(s) Local(ais) do(s) Ferimento(s)
+1 - Sim, Total 2 - Sim, Parcial 3 - Não 9 - Ignorado
+58Diagnóstico Laboratorial 59Variante
+1 - Positivo Imunofluorescência direta Prova biológica
+2 - Negativo |
+3 - Inconclusivo Histológico Imunofluorescência indireta
+4 - Não realizado
+60Classificação Final
+1 -Confirmado 2 - Descartado 1 - Laboratório 2 - Óbito com Clínica Compatível + Vínculo Epidemiológico 3 - Evolução Clínica Incompatível
+Local Provável da Fonte de Infecção (no período de 45 dias)
+62 O caso é autóctone do município de residência? 63UF 64 País
+1-Sim 2-Não 3-Indeterminado |
+65Município Código (IBGE) 66Distrito 67 Bairro
+| | | | |
+68Zona
+1- Urbana 2- Rural 3-Periurbana 9- Ignorado
+69Doença Relacionada ao Trabalho
+1 - Sim 2 - Não 9 - Ignorado
+Município/Unidade de Saúde Código da Unid. de Saúde
+| | | | | |
+Nome Função Assinatura
+Raiva Humana Sinan NET SVS 08/06/2006
+Protocolo de tratamento da raiva humana no Brasil
+Anexo C – Doses e valores de referência em pediatria
+DOSES
+Midazolam – em criança 0,06-0,12mg/kg/h
+Fentanil – 1-2mcg/kg/h
+Nimodipina – n ão há dose preconizada para crianças; sugere-se usar 30mg/m2 de
+superfície corpórea por dose ou 1,5mg/kg/dose
+Ranitidina – 5mg/kg/dia dividido em três doses
+Vitamina C – Pré-escolares = 100mg/dia
+Escolares = 250mg/dia
+Adolescentes = 500mg/dia
+Amantadina – ≤ 9 anos = 25-75mg/dose de 12h/12h
+> 9 anos = seguir dose do protocolo
+Biopterina – discutir com consultores; utilizar dose do protocolo
+NEUROINTENSIVISMO
+Manter PAM entre percentil 75 e 90 para a idade
+Solução hipertônica de Na+ – NaCl(7,5%) na HIC:
+Utilizar SF(0,9%) e NaCl(20%) na proporção de 2:1 – Exemplo:
+• 200ml de SF(0,9%) + 100ml de NaCl(20%): fazer 2-3ml/kg em 1h.
+• Repetir se necessário. Atentar para a osmolaridade sérica.
+TRATAMENTO DE COMPLICAÇÕES
+Hiperglicemia (≥150mg%)
+Evitar uso de insulina regular de rotina. Reduzir TIG ou usar apenas solução salina isotônica.
+Se não houver boa resposta, usar insulina conforme rotina do serviço.
+Secretaria de Vigilância em Saúde/MS 33
+Protocolo de tratamento da raiva humana no Brasil
+Síndrome Cerebral Perdedora de Sal – SCPS
+Em caso de não conseguir manter natremia ≥140mEq/l com solução hipertônica de Na+,
+usar hidrocortisona 10-20mg/m2 de superfície corpórea por dia, dividido em 3 doses, ou
+fludrocortisona 0,1mg/dia.
+Vasoespasmo cerebral
+Em caso de vasoespasmo cerebral, manter PAM no mínimo no percentil 95 para a idade.
+Considerar fluxo semelhante a adultos em pacientes acima de 5 anos. Para <5 anos, discutir
+com consultores.
+34 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+Anexo D – Unidades de referência para assistência aos pacientes
+suspeitos de raiva humana e vigilância epidemiológica da raiva
+UF Instituição Nome Telefone(s) Endereço
+José da Conceição do Av. Antônio da Rocha
+AC Secretaria de Saúde (68) 3223-2320
+Nascimento Guimarães Viana, 1.294 Vila Ivonete
+Hospital de Clínicas de Cirlei Maria de Oliveira (68) 3223-3080 Av. Nações Unidas, 700
+AC
+Rio Branco Lobato (68) 3226-4636 Bairro do Bosque
+AL Secretaria de Saúde Valmir Costa (82) 3315-1669 Av. da Paz, 1.118 Jaraguá
+Hospital Escola Helvio Fernando Luís de Andrade Rua Cônego Lira,
+AL (82) 3315-3204
+Auto Maia s/n. – Trapiche
+Rua Mendonça Furtado,
+AP Secretaria de Saúde José Renato Ribeiro (96) 3212-6177
+1.266 – Centro
+Maria de Nazaré Miranda
+AP Hospital Dr. Alberto Lima (96) 3212-6120 Av. FAB 70 – Centro
+Cavalcante
+Ana Cristina Rodrigues de Rua Emílio Moreira, 528 –
+AM Secretaria de Saúde (92) 3622- 5964
+Campos Praça 14
+Fundação de Medicina Antônio Magela Tavares/ Av. Pedro Teixeira, 25 –
+AM (92) 3238-2801
+Tropical do Amazonas Sílvio César Pereira Fragoso D. Pedro I
+Av. Antônio Carlos
+BA Secretaria de Saúde Fátima Cristina de Souza (71) 3116-0060
+Magalhães, s/n. – Iguatemi
+Cibele Maria Ribeiro Rua Rio São Francisco,
+BA Hospital Couto Maia (71) 3316-3084
+Dourado s/n. – Monte Serrat
+Centro de Atendimento Rua Edelvira Oliveira, s/n.
+BA Robério Lessa Lima (75) 3623-2142
+CAE I Centro – Feira de Santana
+Naylê Francelino Holanda Rua dos Tabajaras – Praia
+CE Secretaria de Saúde (85) 3101-5439
+Duarte de Iracema
+Anastácio de Queiroz
+Rua Nestor Barbosa, 315
+CE Hospital São José Sousa/Terezinha do Menino (85) 3101-2322
+– Parquelândia
+Jesus e Silva
+(continua)
+Secretaria de Vigilância em Saúde/MS 35
+Protocolo de tratamento da raiva humana no Brasil
+(continuação)
+UF Instituição Nome Telefone(s) Endereço
+Rosely Cerqueira de SGAN Quadra 601 Lotes
+DF Secretaria de Saúde (61) 3905-4639
+Oliveira O/P – Av. L2 Norte
+Setor Médico Hospitalar
+Hospital de Base do
+DF Cesar Zalouth (61) 3315-1200 Sul/Área Especial –
+Distrito Federal
+Plano Piloto
+Av. Marechal Mascarenhas
+ES Secretaria de Saúde Lucas Edel Donato (27) 3137-2471
+de Moraes, 2025 – Vitória
+Hospital Universitário
+ES Cassiano Antônio de Carlos Urbano (27) 3335-7139 Av. Marechal Campos, s/n.
+Moraes
+Hospital Infantil Nossa Sandra Fagundes Moreira Ladeira Mary Ubirajara
+ES (27) 3315-7979
+Senhora da Glória da Silva s/n.
+Av. Anhanguera, 5.195,
+GO Secretaria de Saúde Fabrício Augusto de Sousa (62) 3201-4517
+Setor Coimbra
+Hospital de Doenças Av. Contorno, 3.556 –
+GO Denise Milhomen (62) 3201-3674
+Tropicais Jardim Bela Vista
+Rua Viveiros de Castro, 11
+MA Secretaria de Saúde Salim Jorge Waquim Neto (98) 3243-1881
+– Apeadouro
+Rua Silva Jardim, s/n. –
+MA Hospital Universitário (98) 3235-7477
+Centro
+Av. Payaguas Quadra 12
+MT Secretaria de Saúde Valdir Leite Reis (65) 3613-5366 – lote 5 – Centro Político
+Administrativo
+Pronto Socorro Municipal Silbene Maria Neves Lotufo (65) 3322-7234 Rua General Vale, 192 –
+MT
+de Cuiabá B. Muller (65) 3613 5379 Bairro Bandeirantes
+Parque dos Poderes,
+MS Secretaria de Saúde Gislaine Coelho Brandão (67) 3318-1707
+Bloco 7
+Talita Leal Chamone/ (31) 3215-7251 Av. Afonso Pena, 2.300 –
+MG Secretaria de Saúde
+Mariana Gontijo de Brito (31) 3215-7248 Funcionários
+(continua)
+36 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+(continuação)
+UF Instituição Nome Telefone(s) Endereço
+Av. Doutor Cristiano
+Hospital Eduardo de Frederico Figueiredo
+MG (31) 3383- 8000 Resende, 2.213 – Bom
+Menezes Amancio
+Sucesso
+Rua Presidente
+PA Secretaria de Saúde Alberto Lopes Begot (91) 4006-4327 Pernambuco, 489 –
+Campos
+Rita Medeiros/Liliam Rua dos Munducurus,
+PA Hospital Barros Barreto (91) 3201-6663
+Rodrigues 4487 – Guamá
+(83) 3218-7491 Av. Dom Pedro II, 1.826
+PB Secretaria de Saúde Francisco de Assis Azevedo
+(83) 3218-7769 – Torre
+Hospital Universitário de Rua Carlos Chagas, s/n. –
+PB José Araújo (83) 2101-5579
+Campina Grande São José
+Campus Universitário
+Hospital Universitário
+PB Romilda Telino Fernandes (83) 3216-7042 da UFPB – Cidade
+Lauro Wanderley
+Universitária
+(41) 3330-4470 Rua Piquiri, 170 –
+PR Secretaria de Saúde Márcia Silveira
+(41) 3330-4471 Rebouças
+Hospital de Clínica/
+Rua General Carneiro, 181
+PR Universidade Federal do Sérgio Monteiro de Almeida (41) 3360-7974
+– Centro
+Paraná
+Francisco Duarte Farias (81) 3412-6412 Praça Oswaldo Cruz, s/n.
+PE Secretaria de Saúde
+Bezerra (81) 3412-6386 – Boa Vista
+Ângela Rocha (pediatra)/
+Vicente Vaz (adulto)/ Rua Arnóbio Marques,
+PE Hospital Oswaldo Cruz (81) 3221-0895
+Gustavo Trindade (adulto) 310 – Santo Amaro
+Ana Flávia Campos (adulto)
+Av. Pedro Freitas s/n.
+PI Secretaria de Saúde Júlio Cezar da Silva Barros (86) 3216-3602 – Bloco “A” Centro
+Administrativo
+Instituto de Doenças Maria das Dores/Carlos H. Rua Gov. Artur de
+PI (86) 3221-3413
+Tropicais Natan Portela N. Costa Vasconcelos, 151
+(continua)
+Secretaria de Vigilância em Saúde/MS 37
+Protocolo de tratamento da raiva humana no Brasil
+(continuação)
+UF Instituição Nome Telefone(s) Endereço
+Rua México, 128 – 4o
+RJ Secretaria de Saúde Patrícia Soares Meneguete (21) 2333-3915
+andar, sala 413
+Instituto Estadual de (21) 2580-7432 Rua Carlos Seidl, 395 –
+RJ Ronaldo Saivá Tourinho
+Infectologia São Sebastião (21) 2580-8782 Caju
+(84) 3232-2584
+RN Secretaria de Saúde Alene Uchoa de Castro Av. Junqueira Aires, 488
+(84) 3232-2721
+José Roberto Freire de Rua Cônego Monte, s/n. –
+RN Hospital Giselda Trigueiro (84) 3232-7910
+Oliveira Alecrim
+Jairo Predebon/Giovani Av. Domingos Crescêncio,
+RS Secretaria de Saúde (51) 3901-1091
+Diedrich 132 – sala 109
+Complexo Hospitalar
+RS Santa Casa de Cezar Augusto Aldabe (51) 3214-8073 Rua Annes Dias, 285
+Misericórdia
+Hospital Sanatório Sílvio Theodosio Gonçalves/
+RS (51) 3901-1380 Av. Bento Gonçalves, 3722
+Partenon Marlene Maria Kunn
+(95) 2121-0533 Rua Madri, s/n. – Campus
+RR Secretaria de Saúde Márcio Gustavo Borges
+(95) 2121-0573 de Paricarana
+Hospital Geral de Av. Brigadeiro Eduardo
+RR (95) 2121-0600
+Roraima Gomes, s/n. – Aeroporto
+(95) 3627-7642
+RR Hospital Cosme e Silva Rua 8, s/n. – Pintolândia
+(95)3627-7053
+Hospital da Criança Santo Av. das Guianas 1.645 – 13
+RR (95) 3624-2749
+Antônio de Setembro
+Ana de Nazaré Silva do (69) 3216-5343 Rua Ângelo Cerri, s/n. –
+RO Secretaria de Saúde
+Nascimento (69) 3225-5615 Pedrinhas
+Centro Médico de
+RO Medicina Tropical de Luiz Augusto Paiva Cardoso (69) 3216-5410 Av. Guaporé, 215
+Rondônia
+SC Secretaria de Saúde Alda Maria Rodolfo da Silva (48) 3221-8454 Rua Felipe Schmidt, 774
+(continua)
+38 Secretaria de Vigilância em Saúde/MS
+Protocolo de tratamento da raiva humana no Brasil
+(continuação)
+UF Instituição Nome Telefone(s) Endereço
+Rua Rui Barbosa, s/n. –
+SC Hospital Nereu Ramos Fábio Gaudenzi de Faria (48) 3216-9300
+Agronômica
+Av. Paulista, 393 –
+SP Instituto Pasteur/SP Neide Yumie Takaoka (11) 3289-7738
+Cerqueira César
+Instituto de Infectologia Paulo César Fumagalli Av. Dr. Arnaldo, 165 –
+SP (11) 3896-1256
+Emílio Ribas Marotto Cerqueira César
+Departamento de
+Neurociências da
+Osvaldo Massaiti (16) 3602-2472 Av. Bandeirantes, 3.900 –
+SP Faculdade de Medicina
+Takayanagui (16) 3602-2548 Ribeirão Preto-SP
+de Ribeirão Preto da
+Universidade de São Paulo
+Monique de Carvalho
+SE Secretaria de Saúde (79) 3226-8314 Trav. Baltasar Góis, 86
+Santana
+Hospital de Urgência de Marco Aurélio de Oliveira
+(79) 3216-2600
+SE Sergipe Governador João Góes/Manuela Santiago Av. Tancredo Neves, s/n.
+(79) 3259-2918
+Alves Filho Freitas
+Paulo Roberto de Rua Cláudio Batista, s/n.
+SE Hospital Universitário (79) 2105-1800
+Oliveira Costa Santo Antônio
+(63) 3218-2734 Av. NS1 QIAANO – Praça
+TO Secretaria de Saúde Rodolfo Braga Barros
+(63) 3218-1791 dos Girassóis
+Secretaria de Vigilância em Saúde/MS 39
+Protocolo de tratamento da raiva humana no Brasil
+Anexo E – Medidas assistenciais de enfermagem
+Medidas assistenciais de enfermagem
+Medidas de Medidas de Sistematização
+Medidas de
+controle nas conforto e de da assistência de
+segurança e Nutrição
+disfusões prevenção de enfermagem –
+proteção
+neurológicas ulcerações SAE
+• Utilizar colchão
+• Aplicar Escala de
+fenestrado ou
+Coma de Glasgow.
+piramidal ou
+• Aplicar Escala de pneumático. • Instalar sonda
+• Praticar o processo
+Ramsay. nasogástrica ou
+• Aplicar aliviadores de enfermagem
+• Controlar a febre de pressão e/ou nasoenteral (com em todas as suas
+com aferição filme transparente. posicionamento etapas, conforme
+horária da gástrico em
+• Aplicar massagem implementado na
+temperatura e adultos).
+de conforto, instituição.
+utilização de • Avaliar hidratação.
+evitando • Oferecer apoio
+métodos físicos
+proeminências • Promover e manter emocional.
+• Manter grades (compressas frias, ósseas. hidratação e
+laterais do leito manta térmica alimentação por • Estimular a
+elevadas. resfriada) se • Aplicar a Escala de sonda. comunicação
+necessário, após Braden. terapêutica em
+• Evitar contensões administração de • Promover e manter • Monitorar enfermagem
+sempre que medicamentos a integridade da administração (estímulos verbais
+possível. prescritos. pele e mucosas. de dieta enteral e não verbais).
+• Utilizar medidas ou parenteral
+• Reduzir estímulos • Realizar mudanças • Realizar controle
+de precaução (controle de
+em procedimentos. de decúbito da troca de
+universal e gotejamento e
+específica • Posicionar paciente conforme a tempo de infusão). dispositivos,
+(isolamento de com cabeceira a 30º. n pa e c c i e e s n si t d e. ade do • Observar a r d e e d i u n z f i e n c d çõ o e o s , r isco
+contato). • Manter cabeça função intestinal conforme
+alinhada em • Mobilizar (movimentos estabelecido
+relação ao tronco. passivamente os peristálticos, pela Comissão
+diversos segmentos
+• Identificar fatores distensão de Controle
+do corpo.
+desencadeantes de abdominal, das Infecções
+crises convulsivas. • Umedecer e alterações da Hospitalares.
+proteger região frequência de
+• Controlar • Demais rotinas de
+ocular, se houver evacuações e
+movimentos enfermagem.
+abolição do características).
+involuntários
+reflexo palpebral
+(comunicação e
+(soro fisiológico e
+registro).
+pomada oftálmica).
+40 Secretaria de Vigilância em Saúde/MS
+
+Disque Saúde
+0800.61.1997
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+Secretaria de Vigilância em Saúde do Ministério da Saúde
+www.saude.gov.br/svs

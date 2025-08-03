@@ -1,0 +1,668 @@
+8102
+O Ministério da Saúde, por meio da Coordenação-Geral do Programa
+Nacional de Controle da Tuberculose (CGPNCT), do Departamento de
+(DEVIT/SVS/MS), publica o protocolo de vigilância da infecção latente pelo
+Mycobacterium tuberculosis no Brasil.
+Estima-se que um quarto da população mundial esteja infectada pelo
+Mycobacterium tuberculosis, agente causador da tuberculose (TB). Em
+2015, a Organização Mundial da Saúde (OMS) publicou a Estratégia pelo
+Fim da Tuberculose (End TB Strategy), que estabelece metas arrojadas
+para o fim da TB como problema de saúde pública até 2035. De acordo
+com a OMS, para o alcance dessas metas, é imprescindível aumentar o
+rastreio, diagnóstico e tratamento da infecção latente pelo Mycobacterium
+tuberculosis (tratado neste documento como ILTB), reduzindo o risco de
+adoecimento e, consequentemente, evitando o adoecimento. Quanto maior
+o número de unidades básicas de saúde (UBS) e de profissionais capacitados
+desenvolvendo ações de controle da TB, mais abrangente serão as atividades
+voltadas ao alcance das metas.
+A vigilância da ILTB visa, a partir da notificação e acompanhamento das
+pessoas em tratamento, construir o panorama epidemiológico da ILTB nos
+territórios, monitorando o cuidado prestado a esses indivíduos nos serviços
+país, subsidiando a tomada de decisão.
+de Trabalho sobre ILTB, assessor da CGPNCT. Esse grupo é composto por
+representantes dos serviços públicos de saúde das três esferas de gestão,
+TB e ILTB, e membros de instituições acadêmicas. Além deles, diversos
+colaboradores de diferentes representações do país foram consultados, e,
+especialmente durante as visitas iniciais aos estados e estudos piloto, tiveram
+a oportunidade de construir coletivamente o material apresentado.
+programas de controle da TB (das esferas estaduais e municipais) subsídios
+para implantar a vigilância da ILTB em seus territórios, ao tempo que
+onde essa já está implantada.
+A ILTB ocorre quando uma pessoa se encontra Em 2017 a CGPNCT/DEVIT/SVS/MS lançou o
+infectada pelo Mycobacterium tuberculosis, Plano Nacional pelo Fim da Tuberculose como
+sem manifestação da doença ativa. Em geral, Problema de Saúde Pública3, o qual, alinhado às
+as pessoas infectadas permanecem saudáveis estratégias da OMS2, se propõe a acabar com a
+por muitos anos, sem transmitir o bacilo, e com doença como um problema de saúde pública no
+imunidade parcial à doença. Estima-se que um Brasil. Esse plano está organizado em três pilares
+quarto da população mundial esteja infectada (1 – Prevenção e cuidado integrado centrados na
+pelo Mycobacterium tuberculosis.1 pessoa com TB; 2 – Políticas arrojadas e sistemas
+de apoio; 3 – Intensificação da pesquisa e
+Isso, todavia, não significa que todos os
+inovação). Em cada pilar, estão contemplados os
+infectados adoecerão com a forma ativa da TB,
+para o alcance das metas propostas (redução do
+coeficiente de incidência e de mortalidade, e das
+imunológica alterada.
+famílias acometidas por custos catastróficos).
+Inserido no Pilar 1, está o objetivo de intensificar
+nos primeiros dois anos após a primo-infecção, as ações de prevenção, que alberga as estratégias
+mas o período de latência pode se estender por referentes ao aumento do rastreio, diagnóstico
+muitos anos. Fatores relacionados à competência e tratamento da ILTB, bem como a implantação
+do sistema imunológico podem aumentar o risco nacional da vigilância da ILTB, entendendo essa
+de adoecimento, e entre estes, destaca-se a atividade como de fundamental importância
+infecção pelo HIV. Outros fatores de risco são para o alcance das metas.
+as doenças ou tratamentos imunossupressores,
+60 anos, diabetes mellitus e desnutrição.
+Em 2015, a OMS publicou a Estratégia pelo Fim da
+Tuberculose (End TB Strategy2), a qual estabelece
+de saúde pública até 2035. Dentre os principais
+aumento do rastreio, diagnóstico e tratamento
+da ILTB, principalmente entre crianças contatos
+HIV (PVHIV)2.
+Previamente à publicação desse protocolo,
+algumas Unidades Federadas (UF) já haviam
+ILTB. Essas UF já possuíam fluxos definidos para
+em meio físico ou sistemas informatizados.
+nacional, de forma a conhecer o panorama
+Tuberculose (PECT) acerca da ILTB. Para
+aquelas que respondiam notificar ILTB, eram
+utilizados para a notificação, meio utilizado para
+armazenamento e tabulação dos dados, número
+ano com suas estratificações por sexo, faixa
+etária, indicação de tratamento, status sorológico
+para HIV e situação de encerramento.
+de ILTB do país, dada a ausência de padronização
+vigilância da ILTB em algumas UF. Considerando
+de pessoas com ILTB, ampliando a solicitação
+serviços de saúde, e aumentando o conhecimento
+do perfil epidemiológico da ILTB no país, esse
+no Brasil.
+3 Objetivos da Vigilância
+das pessoas tratadas para ILTB;
+ Descrever, monitorar e avaliar os indicadores
+tratadas para a ILTB nas Unidades Federadas;
+ações de detecção e tratamento da ILTB;
+ Reduzir o número de casos da doença ativa e,
+consequentemente, interromper a cadeia de
+transmissão.
+A vigilância da ILTB se estrutura em cinco ativa, devido à resposta imunológica menos
+pilares principais: (1) identificação das pessoas eficaz. Já para os profissionais de saúde, essa
+maior risco de adoecimento; (2) identificação com TB, aumentando o risco de desenvolvimento
+de pessoas com a ILTB; (3) indicação correta da doença ativa. Nesses profissionais, deve-se
+do tratamento e acompanhamento adequado; sempre buscar e considerar a possibilidade de
+(4) notificação das pessoas que irão realizar infecção recente.
+o tratamento da ILTB; e (5) monitoramento e
+avaliação da realização do tratamento da ILTB.
+4.1 Identificação das pessoas com
+importância para o controle da doença, rastreamento de ILTB,
+uma vez que, por meio dessa investigação, é
+adequadamente o tratamento, o que possibilita de Recomendações
+a prevenção do desenvolvimento da TB ativa.
+deve ser individualizada, considerando-se a
+forma da doença do caso-fonte, o ambiente e o e o Guia de Vigilância
+tempo de exposição. Pessoas infectadas pelo HIV
+em Saúde vigentes.
+para ILTB, independentemente do resultado da
+prova tuberculínica4,12.
+ativa, duas outras populações merecem
+a identificação da ILTB: PVHIV e profissionais de
+saúde. Para as PVHIV, o foco especial se deve ao
+4.2 Identificação de pessoas com ILTB na rede pública de saúde, sendo encontrados
+na rede de laboratórios privados. Para o diag-
+4.2.1 Definição de caso de ILTB nóstico da ILTB são considerados os IGRA com
+resultado positivo.
+A susceptibilidade à infecção pelo Mycobacte­
+rium tuberculosis é praticamente universal.
+No entanto, a maioria dos infectados resiste
+aos resultados obtidos com a PT, mesmo em
+diferentes grupos (incluindo PVHIV), não sendo
+imunidade parcial à doença. Os bacilos ficam
+encapsulados em estado latente, em pequenos
+em crianças menores de dois anos de idade5,6.
+focos quiescentes, que não progridem nem
+provocam o adoecimento. Esta é a ILTB, que
+se expressa, na maioria das vezes, pela PT ou
+IGRA positivos.
+Para fins de vigilância epidemiológica, será
+infectado pelo Mycobacterium tuberculosis, da ILTB, consultar
+(PT) ou IGRA (Interferon-Gamma Release Assays),
+(por meio de anamnese, exame físico, vínculos
+epidemiológicos, exames bacteriológicos, para o Controle da
+achados radiológicos e/ou outros exames
+complementares).
+4.2.2 Diagnóstico da ILTB
+em Saúde vigentes.
+de doença ativa. O diagnóstico da ILTB deve
+ser realizado na atenção básica, referências
+4.3 Indicação correta do tratamento
+secundária e terciária, devendo-se ter atenção
+adoecimento4. O diagnóstico da ILTB deve ser
+realizado por PT ou IGRA. A indicação do tratamento da ILTB depende de
+vários fatores, a saber: resultado da PT ou do
+IGRA, idade da pessoa, probabilidade de ILTB
+derivado proteico purificado (PPD), com a função
+e risco para o desenvolvimento de TB ativa.
+de medir a resposta celular a estes antígenos. No Quadro 1 estão as principais indicações de
+A resposta à PT deve ser lida de 48 a 72 horas tratamento.
+após a aplicação, sendo considerada positiva
+a leitura maior ou igual a 5mm4.
+para diagnóstico da ILTB. Não estão disponíveis
+QUADRO 1 • INDICAçõES DE TRATAMENTO DA INFECçãO LATENTE PELO MycobacteriuM tuberculosis
+NO BRASIL, 2018
+Sem PT e sem IGRA realizados PT ≥ 10mm ou IGRA positivo
+(1) Recém-nascidos coabitantes de caso fonte (11) Silicose
+confirmado por critério laboratorial.
+(12) Neoplasias de cabeça e pescoço, linfomas
+(2) Pessoas vivendo com HIV contatos de TB e outras neoplasias hematológicas.
+pulmonar com confirmação laboratorial.
+(13) Neoplasias em terapia imunossupressora.
+(3) Pessoas vivendo com HIV com contagem de
+(14) Insuficiência renal em diálise.
+células CD4+ menor ou igual a 350 cel/µl.
+(15) Diabetes mellitus.
+(4) Pessoas vivendo com HIV com registro documen-
+tal de ter tido PT ≥ 5mm ou IGRA positivo e não (16) Indivíduos baixo peso (< 85% do peso ideal).
+submetido ao tratamento da ILTB na ocasião. (17) Indivíduos tabagistas (>1 maço/dia).
+(5) Pessoas vivendo com HIV com Radiografia (18) Indivíduos com calcificação isolada
+de tórax com cicatriz radiológica de TB, sem (sem fibrose) na radiografia.
+tratamento anterior para TB.
+Conversão (segunda PT com incremento
+PT ≥ 5mm ou IGRA positivo de 10mm em relação à 1ª PT)
+(6) Contatos adultos e crianças, independentemente (19) Indivíduos contatos de TB confirmada por
+da vacinação prévia com BCG. critério laboratorial.
+(7) Pessoas vivendo com HIV com CD4+ maior que (20) Profissionais de saúde.
+350 cel/μl ou não realizado.
+(21) Trabalhadores de instituições de longa
+(8) Alterações radiológicas fibróticas sugestivas permanência.
+de sequela de TB.
+(9) Indivíduos em uso de inibidores do TNF-α ou
+corticosteroides (>15mg de Prednisona por
+mais de um mês).
+(10) Indivíduos em pré-transplante em terapia
+imunossupressora.
+Fonte: CGPNCT/DEVIT/SVS/MS.
+especiais, consultar o
+em Saúde vigentes.
+Atualmente, no Brasil, dois esquemas tera-
+ILTB: um com isoniazida e outro com rifampicina.
+da ILTB, consultar
+adotada a dose de 5 a 10 mg/kg de peso, até
+a dose máxima de 300mg/dia. Nesse esquema
+terapêutico, o mais importante é o número de
+doses tomadas, e não somente o tempo de Recomendações
+tratamento. Então, os esforços devem ser feitos
+programadas. Recomenda-se a utilização de 180 Tuberculose no Brasil
+doses, que poderão ser tomadas de seis a nove
+meses, ou 270 doses, que poderão ser tomadas
+de nove a doze meses7,8. em Saúde vigentes.
+é adotada a dose de 10 mg/kg de peso até a
+dose máxima de 600 mg por dia. Nesse esquema
+4.4 Notificação das pessoas que
+terapêutico, recomenda-se a utilização de 120
+doses, que poderão ser tomadas de quatro realizarão o tratamento da ILTB
+a seis meses. O esquema com rifampicina é a
+primeira escolha, no Brasil, em indivíduos com
+mais de 50 anos, em pessoas com hepatopatias,
+ou intolerância à isoniazida, e crianças menores
+de 10 anos. A Rifampicina está contraindicada
+dolutegravir9–11. será iniciado devem ser
+tratamento ou que já se trataram para TB, a não
+ser em casos especiais, sob decisão médica. das pessoas em
+Como exemplo, PVHIV que já fizeram o tratamento
+tratamento da ILTB.
+laboratorial podem, sob indicação médica, ter
+indicação de retratamento da ILTB. Mediante a identificação de uma pessoa com ILTB
+que realizará o tratamento, deve-se realizar a
+notificação por meio da “Ficha de notificação das
+pessoas em tratamento da ILTB”, padronizada
+pelo Ministério da Saúde, e cujos dados serão
+inseridos no IL-TB. Informações referentes à
+pessoa (dados sociodemográficos e condições
+de saúde), exclusão da doença ativa, tipo de
+entrada no sistema de vigilância, indicação IMPORTANTE
+presentes nessa ficha.
+a pessoa durante a consulta, no prontuário, em
+resultados de exames, no livro de acompanha-
+mento e em outras fontes pertinentes. Quando
+idade ou possuir alguma incapacidade cognitiva notificação da mesma.
+que dificulte a coleta de informações, os pais ou
+responsáveis devem ser entrevistados. Notifica-se apenas a
+das pessoas em tratamento da ILTB (IL-TB) preventivo.
+do mesmo. Quando a unidade de saúde não
+possuir acesso a um computador com internet,
+informatizado, para que seja incluída no IL-TB.
+da Tuberculose (ou equivalentes nas esferas
+municipais de gestão) estabelecer o fluxo das
+o primeiro nível informatizado, e esse faça a
+inserção da notificação no IL-TB.
+É importante que estratégias que visem ao au-
+base na análise situacional.
+Ao iniciar uma nova notificação no IL-TB,
+deve-se verificar se a pessoa já não foi
+notificada previamente. Caso seja ident ificada
+encerrado, deve-se vincular a nova notificação
+à anterior, e a pessoa receberá o mesmo
+tiver realizado. Caso haja tratamento em
+curso, entrar em contato com a unidade de
+tratamento, solicitando que o mesmo realize a
+transferência. Caso não seja identificada uma
+notificação anterior, notificar o novo caso.
+diretamente no IL-TB.
+regist rados como “em notificação, será possível calcular os principais
+andamento” precisam ser
+devidamente atualizados municípios, UF e país (Quadro 3).
+vigilância da ILTB é o “Livro de investigação e
+encerramento do caso.
+Após o encerramento, não da ILTB”. Tendo em vista que muitos estados e
+para acompanhamento das pessoas em trata-
+alterações e o registro mento, esse torna-se um material suple mentar
+da ILTB.
+será “não realizado”.
+Nesse livro é possível registrar o acompanha-
+com TB. Isso possibilita, à gestão local (unidade
+4.4.1 Instrumentos utilizados para a vigi-
+de saúde, regionais de saúde e municípios),
+Desde 1º de julho de 2014, a CGPNCT recomenda em seu território.
+Sugere-se que os dados registrados nesse
+em todas as UF (Ofício Circular nº 27)13. À época,
+unidades de saúde, de modo que informações
+incompletas sejam preenchidas, e possíveis
+com a ILTB, os quais foram atualizados para
+este Protocolo:
+ Ficha de notificação das pessoas em trata- sejam identificados em tempo oportuno, para
+mento da ILTB. que estratégias de busca ativa de faltosos sejam
+implementadas.
+de pessoas em tratamento da ILTB (material O livro poderá ser utilizado em sua versão
+suplementar). física/impressa pelas unidades de saúde
+não informatizadas, além de uma versão em
+A “Ficha de notificação das pessoas em
+Excel (Microsoft Corporation®), disponível em:
+tratamento da ILTB” (disponível em: <http://
+<http://sitetb.saude.gov.br/iltb>.
+sitetb.saude.gov.br/iltb>) deverá ser utilizada
+como instrumento para notificação da pessoa Para essa vigilância, foi desenvolvido um
+que iniciar o tratamento da ILTB. Ela poderá ser terceiro instrumento: o sistema de informação
+da ILTB (IL-TB). o presente protocolo de vigilância da ILTB
+deverão solicitar acesso ao IL-TB. O primeiro
+O IL-TB é um sistema online cuja finalidade
+acesso será dado pela CGPNCT aos coordena-
+princi pal é registrar todas as pessoas em trata-
+mento para infecção latente no Brasil e, com
+Tuberculose (PECT). Esses serão responsáveis
+isso, gerar dados para o cálculo de indicadores
+do seu estado.
+vigi lância da ILTB. Ele está disponível no link:
+<http://sitetb.saude.gov.br/iltb>, e as informa- Cada usuário receberá um perfil de acesso
+“Utlizando o IL-TB” (também disponível na página Controle da Tuberculose, e a visão dos casos
+inicial do sistema). As informações registradas notificados no sistema se dará também com
+neste sistema são as mesmas da ficha de notifi- base nesse perfil.
+cação das pessoas em tratamento da ILTB.
+Cada perfil de acesso possui visões e funcionali-
+A gestão central do IL-TB, bem como assistência dades diferentes dentro do sistema. É importante
+CGPNCT, a partir das críticas e sugestões feitas Tuberculose (níveis municipal, estadual e fede-
+pelos estados e municípios. ral) entendam as atividades que o novo usuário
+FIGURA 1 • SISTEMA DE INFORMAçãO PARA NOTIFICAçãO DAS PESSOAS EM TRATAMENTO DA ILTB
+Fonte: <http://sitetb.saude.gov.br/iltb>.
+à pessoa em tratamento da ILTB, para definir ser solicitados seguindo o fluxo da SVS/MS,
+adequa damente o perfil a ser atribuído para disponível no link: <http://portalms.saude.gov.
+cada novo usuário cadastrado. Os perfis de aces- br/vigilancia-em-saude/indicadores-de-saude/
+so ao sistema e as funcionalidades de cada perfil bancos-de-dados-nominais>.
+estão descritos no Quadro 2.
+Dados municipais e estaduais devem ser soli-
+Tendo em vista que se trata de um sistema com citados nas respectivas secretarias.
+identificação nominal das pessoas notificadas,
+de dados para tabulação de indicadores, a
+pessoal é de suma importância. Para tal, a
+ser observada, de forma que cada usuário só
+responsabilidade.
+na estrutura local de gestão, com a finalidade
+de notificação e monitoramento desses casos,
+profissionais que trabalham nesses serviços.
+Esses serviços ainda podem utilizar as infor-
+com ILTB que iniciaram o tratamento, visando
+a qualificação do cuidado prestado.
+requisitar, seguindo os fluxos estabelecidos
+na Lei nº 12.527/2011, que regula o direito
+constitucional de acesso a informações públicas.
+(e-SIC), pelo link: <https://esic.cgu.gov.br/
+sistema/site/primeiro_acesso.html>.
+QUADRO 2 • PeRFIs de usuáRIo do IL-TB e ResPecTIvAs FuNcIoNALIdAdes PeRmITIdAs
+Visão e edição de todos os casos do país;
+Exportação da base de dados de todos os casos notificados no país;
+Acesso à ferramenta de análise de dados;
+Administração do sistema: edição dos campos de notificação, dos
+Administrador registros dos usuários e instituições, criação e exclusão de etiquetas
+central e configurações gerais do sistema;
+Cadastramento de usuários e instituições, podendo conceder todas
+as visões e funcionalidades do sistema;
+Notificação de casos em tratamento no país;
+Visão e edição de todos os casos do país;
+Exportação da base de dados de todos os casos notificados no país;
+Acesso à ferramenta de análise de dados;
+Notificação de casos em tratamento no país;
+Visão e edição de todos os casos da sua UF;
+Exportação da base de dados de todos os casos notificados em sua UF;
+Gestor de Programa Acesso à ferramenta de análise de dados;
+Cadastramento de usuários e instituições, podendo conceder as visões
+e funcionalidades do sistema relativas à sua UF e respectivos municípios;
+Notificação de casos em tratamento em sua UF;
+Visão e edição de todos os casos da sua UF;
+Exportação da base de dados de todos os casos notificados em sua UF;
+Acesso à ferramenta de análise de dados;
+Notificação de casos em tratamento em sua UF;
+Visão e edição de todos os casos de seu município;
+3A Exportação da base de dados de todos os casos notificados em seu
+município;
+Programa Municipal Acesso à ferramenta de análise de dados;
+Cadastramento de usuários e instituições, podendo conceder as visões
+da Tuberculose e funcionalidades do sistema relativas ao seu município;
+Notificação de novos casos para todo o município;
+Visão e edição de todos os casos de seu município;
+3B Exportação da base de dados de todos os casos notificados em seu
+município;
+de casos Acesso à ferramenta de análise de dados;
+Notificação de casos em tratamento em seu município;
+Notificação de casos em tratamento em sua unidade de saúde;
+4B Exportação da base de dados de todos os casos notificados em sua
+unidade de saúde;
+da unidade Acesso à ferramenta de análise de dados;
+Visão e edição de todos os casos de sua unidade de saúde.
+Fonte: CGPNCT/DEVIT/SVS/MS.
+4.4.2 Tipos de entrada de pessoas em  Reexposição: pessoa que já se tratou para
+tratamento da ILTB ILTB, e teve novo contato com caso de TB
+pulmonar ou laríngea, ou ainda, aquele que
+Para os casos de ILTB que iniciarão o tratamento,
+por decisão médica, irá refazer o tratamento
+os tipos de entrada são assim classificados:
+para ILTB após tratamento anterior completo.
+ Caso novo: pessoa que nunca fez o tratamento
+da ILTB, e que iniciará o tratamento. 4.4.3 Transferência de pessoas em trata-
+ Reingresso após abandono: pessoa que inicia mento da ILTB notificadas no IL-TB
+Todas as pessoas em tratamento da ILTB, caso
+de um tratamento anterior (ver definição de
+abandono – item 4.4.4).
+de saúde, seja no mesmo ou em outro município,
+ Reentrada após mudança de esquema: pessoa ou outro estado, devem ter continuidade do
+que apresentou reação adversa maior a um dos tratamento assegurada. É esperado que a
+medicamentos, e precisou fazer a substituição transferência dessa pessoa seja condição transi-
+da mesma e iniciar novo tratamento da ILTB. tória no IL-TB.
+no IL-TB. A unidade de saúde que está acom- deve solicitar o cadastramento daquela unidade
+da pessoa em tratamento da ILTB e selecionar Tuberculose (PECT).
+a opção transferência. Essa notificação ficará
+o fluxo estabelecido pelo “Protocolo para
+notificação e, ao aceitar a transferência, possa
+pessoas com tuberculose”14. O contato com o PNCT
+dar continuidade ao tratamento.
+é imprescindível, e o caso deve ser encerrado no
+As unidades de saúde não informatizadas que sistema como “Transferência para outro país”.
+4.4.4 Encerramento dos casos de ILTB
+nível informatizado, para que a transferência Devido ao tratamento requerer acompanha-
+possa ser aceita pela atual unidade. mento em longo prazo (quatro a nove meses,
+em alguns casos, um ano), a evolução dos casos
+saúde que irá dar continuidade ao tratamento,
+registrada, seja no “Livro de investigação e
+da ILTB”, ou em instrumento próprio do estado
+unidade para a qual foi transferida.
+e/ou município. Nesse instrumento, bem como
+Após apresentação do indivíduo na unidade na ficha de notificação e no sistema IL-TB, os
+de saúde de destino, a mesma deverá aceitar o casos devem ser encerrados de acordo com
+registro transferido no IL-TB, para que, de forma os critérios a seguir:
+automática, todas as informações da pessoa em
+ Tratamento completo: pessoa que completar
+tratamento migrem para essa unidade. Depois
+de realizada a transferência, o caso notificado
+(doses por tempo);
+saúde que transferiu, somente pela unidade de  Abandono: pessoa que interromper o trata-
+saúde para onde a pessoa foi transferida. No mento por mais de 90 dias, consecutivos ou
+histórico do caso no sistema, ficarão registradas não, quando tratado com isoniazida, ou por
+as unidades de saúde de notificação e de trata- mais de 60 dias, consecutivos ou não, quando
+mento atual. tratado com rifampicina;
+Os Programas Municipais de Controle da Tuber-  Suspenso por reação adversa: pessoa que
+culose (PMCT, ou equivalentes nas esferas apresentou reações adversas maiores, com
+municipais de gestão) devem ficar atentos ao necessidade de suspensão ou troca do trata-
+monitoramento das pessoas em tratamento mento;
+da ILTB transferidos pelos serviços de saúde  Suspenso por PT < 5mm em quimioprofilaxia
+primária: se aplica para recém-nascidos
+for necessário.
+coabi tantes de caso fonte confirmado labo-
+Quando a unidade de saúde que irá dar conti- ratorialmente, que tenham iniciado a quimio-
+nuidade ao tratamento da ILTB da pessoa profil axia primária, e tiveram o tratamento
+transferida não for cadastrada no IL-TB, o PMCT suspenso ao final do terceiro mês por PT < 5mm;
+ Tuberculose ativa: casos que estavam em 4.5 Monitoramento e avaliação da
+ativa da TB antes do tratamento completo;
+ Óbito: indivíduos que evoluíram para o óbito 4.5.1 Indicadores para análise e moni-
+durante o tratamento, independentemente toramento
+da causa do óbito;
+Os dados gerados pelo IL-TB devem ser anali-
+ Transferência para outro país: indivíduos
+sados pela unidade de saúde, pelos níveis
+que necessitam ser transferidos para outro municipal, estadual e federal. Os casos de
+país na vigência do tratamento da ILTB. ILTB notificados e incluídos no sistema de
+OBS.: Diferente da transferência dentro do informação geram um banco de dados que pode
+Brasil, cuja situação é transitória no sistema ser exportado para o formato Excel (.xls), o que
+até o aceite pela unidade de saúde de destino, permite o cálculo de indicadores operacionais
+a transferência internacional não é uma e epidemiológicos. Adicionalmente, relatórios
+situação transitória, e as informações sobre
+da vigilância da ILTB estão disponíveis no IL-TB.
+atendimento/notificação.
+da ILTB nas unidades de saúde, municípios, UF
+e país, além de possibilitar o monitoramento
+e avaliação das ações voltadas à ILTB. O Quadro 3
+da ILTB, que devem ser monitorados em todos
+os níveis de assistência e gestão.
+pessoa no IL-TB.
+QUADRO 3 • PRINCIPAIS INDICADORES PARA O MONITORAMENTO DA ILTB
+Indicador¹
+entre os contatos de TB ativa avaliados (livro).
+de contatos e acom-
+e Municípios tratamento da ILTB dentre os tratamentos indicados (livro).
+utilizado & IL-TB
+dentre os tratamentos iniciados (livro e sistema).
+Número e proporção de tratamentos de ILTB,
+segundo estratificações*.
+Unidades de Saúde, Proporção de tratamentos de ILTB que não tiveram
+IL-TB
+Municípios, UF e País TB ativa descartada, segundo suas estratificações*.
+Situação de encerramento dos casos em trata-
+mento de ILTB, segundo suas estratificações*.
+1. A Ficha de Qualificação desses indicadores está disponível para download na página de acesso ao IL-TB.
+*A descrição das estratificações encontra-se na Ficha de Qualificação dos indicadores.
+Fonte: CGPNCT/DEVIT/SVS/MS.
+os serviços de saúde podem ser incluídos. ILTB que não tiveram TB ativa descartada deve
+dos indicadores, é imprescindível que análises possíveis erros na indicação de tratamento da
+de qualidade das bases de dados (completitude ILTB, e deve servir de alerta para a vigilância,
+e consistência) sejam efetuadas regularmente, de modo a se evitar a monoterapia em pessoas
+por todos os níveis de gestão. Além das análises com doença ativa.
+de qualidade da base de dados, os indicadores
+(descarte da TB ativa, realização dos exames
+necessários, indicação adequada do trata-
+mento etc.) devem também ser frequentemente
+avaliados.
+estratos de interesse da vigilância local.
+de Qualificação desses indicadores (disponível
+em <http://sitetb.saude.gov.br/iltb>).
+5.1 Unidades de saúde  Monitorar a ocorrência de reações adversas aos
+ Rastrear os contatos de pessoas com TB e da ILTB. Na identificação de reação adversa,
+demais populações com risco aumentado proceder com as recomendações adequadas4;
+de ter ILTB e de adoecimento, e descartando  Identificar e registrar oportunamente os pos-
+doença ativa, rastrear ILTB seguindo os síveis casos de abandono. Na identificação de
+algoritmos estabelecidos pelo Ministério da abandono, proceder com as recomend ações
+Saúde (consultar o Manual de Recomendações adequadas4;
+ Quando necessário, transferir a pessoa em
+Guia de Vigilância em Saúde vigentes);
+tratamento para outra unidade de saúde,
+indicação de tratamento, fornecer todas as protocolo;
+informações pertinentes, orientando quanto
+ Encerrar, em tempo oportuno, o caso de
+ao tratamento (medicações dispon íveis, tempo
+trata mento da ILTB no IL-TB;
+e importância do tratamento adequado), forne-
+yyQuando a unidade de saúde não for infor-
+cendo a medicação e foment ando a adesão;
+matizada, ela deve informar oportuna-
+da ILTB, preenchendo a ficha de notificação
+sobre a situação de encerramento do caso,
+das pessoas em tratamento da ILTB;
+conforme fluxo estabelecido pelo PMCT;
+for informatizada, a notificação deverá
+tratamento que ocorrer entre 4 e 6 meses,
+acontecer diretamente no sistema;
+para o tratamento com rifampicina, e
+yyQuando a unidade de saúde não for in- entre 6 e 12 meses, para o tratamento
+formatizada, enviar a ficha de notificação com isoniazida, contados a partir da data
+ao primeiro nível informatizado, confor- de início do tratamento;
+me fluxo estabelecido pelo PMCT;
+ Realizar análise e monitoramento dos indi-
+ Acompanhar as pessoas em tratamento de cadores epidemiológicos, operacionais e
+ILTB e registrar essas informações no livro de de qualidade dos dados, a partir dos dados
+investigação de contatos e acompanhamento gerados pelo livro de investigação e acom-
+de pessoas em tratamento da ILTB, ou em panhamento de pessoas em tratamento da
+instrumento próprio do município ou do ILTB, de instrumentos próprios do estado
+estado (quando disponíveis); e/ou município, ou gerados pelo IL-TB;
+ Informar ao PMCT possíveis problemas que >yFrequência de monitoramento e avalia-
+o IL-TB esteja apresentando, bem como suges- ção de possíveis abandonos e rea-
+tões de melhorias para o estabelecimento de ções adversas;
+uma vigilância que atenda às necessidades >yInserção dos resultados de exames
+das unidades de saúde; pendentes;
+ Discutir a situação epidemiológica da ILTB >yEncerramento dos casos no IL-TB;
+com os seus parceiros, definindo ações
+ Notificar e encerrar no IL-TB, os casos em
+tratamento em unidades de saúde não in-
+das pessoas com ILTB em seu território, e
+formatizadas, caso corresponda à primeira
+instância informatizada;
+o abandono;
+ Realizar análise dos indicadores epidemio-
+lógicos, operacionais e de monitoramento da
+ILTB.
+qualidade dos dados;
+ Gerenciar as etiquetas do IL-TB, comunicando
+5.2 Programa Municipal de Controle
+às regionais de saúde e/ou unidades de
+da Tuberculose (PMCT)
+saúde possíveis inconsistências dos dados,
+erros de notificação, e/ou notificações que
+ Gerir o sistema IL-TB em nível local;
+apresentem eventos-sentinela;
+ Divulgar os indicadores de ILTB do município,
+no seu município, orientando as unidades de
+saúde sobre os fluxos e condutas adequadas,
+ILTB com seus parceiros, definindo ações
+preconizadas pelo Ministério da Saúde;
+das pessoas com ILTB em seu território, e
+IL-TB esteja apresentando, bem como suges-
+o abandono;
+dos estados e municípios;
+entre as unidades de saúde do município,
+ Prestar assistência no IL-TB às pessoas com
+acesso ao sistema em sua instância;
+tratamento da pessoa na unidade de destino,
+ Estabelecer o fluxo de registro das pessoas conforme preconizado por este protocolo;
+no IL-TB para as unidades de saúde que não  Realizar capacitações sobre ILTB e sobre o
+forem informatizadas;
+IL-TB aos profissionais de saúde que irão
+yyPara estas situações, estabelecer fluxo realizar o manejo e a vigilância da ILTB em
+e prazos para: seu território.
+>yEnvio das fichas de notificação à
+(regional de saúde ou PMCT), para a
+inserção de seus dados no IL-TB;
+5.3 Programa Estadual de Controle  Comunicar às regionais de saúde e/ou
+da Tuberculose (PECT)
+(etiquetas do sistema), e/ou notificações que
+ Gerir o IL-TB em nível estadual; apresentem eventos-sentinela;
+yyCadastrar novas regionais de saúde,  Divulgar os indicadores de ILTB do estado, dis-
+municípios e usuários no IL-TB, atribuin- cutindo a situação epidemiológica da ILTB com
+do-os as respectivas visões e níveis de os seus parceiros, definindo ações conjuntas
+acesso ao sistema; para um melhor acompanhamento das pes-
+soas com ILTB em seu território, e estratégias
+para melhorar a adesão e reduzir o abandono;
+que o IL-TB esteja apresentando, bem
+tratamento da ILTB entre municípios, (dentro
+da sua UF ou para outra);
+e municípios;  Realizar capacitações sobre ILTB e sobre
+o IL-TB aos profissionais de saúde que irão
+no IL-TB em seu território;
+seu território, cadastrando novos usuários e
+yyRealizar capacitações para o IL-TB aos unidades de saúde, atribuindo-os as respec-
+profissionais de saúde que irão utilizar o tivas visões e níveis de acesso ao sistema;
+sistema em seu território;
+ Em municípios não informatizados, o PECT deve 5.4 Programa Nacional de Controle
+estabelecer o fluxo de notificação no IL-TB; da Tuberculose (PNCT)
+yyPara estas situações, estabelecer fluxo e
+ Gerir o IL-TB em nível nacional;
+prazos para:
+>yEnvio das fichas de notificação à yyCadastrar novos usuários-coordenadores
+estaduais no IL-TB, atribuindo-lhes as
+(regional de saúde ou PECT), para a
+ao sistema;
+inserção dessas no IL-TB;
+>yFrequência de monitoramento e ava- yyRealizar a gestão, manutenção e supor-
+liação de possíveis abandonos e te técnico do IL-TB, bem como a quali-
+reações adversas; ficação do sistema a partir de sugestões
+>yInserção dos resultados de exames e informações reportadas pelos estados;
+pendentes; yyCapacitar as coordenações estaduais
+>yEncerramento dos casos no IL-TB; para utilização do sistema IL-TB, apoian-
+ Realizar análise dos indicadores epidemio-
+municípios, quando necessário;
+lógicos, operacionais e de monitoramento da
+qualidade do dado;  Realizar análise dos indicadores epidemio-
+lógicos, operacionais e de monitoramento
+da qualidade dos dados;
+ Comunicar aos estados possíveis incon-
+sistências dos dados (etiquetas do sistema), Em situações excepcionais
+e/ou notificações que apresentem eventos-
+sentinela;
+ Definir ações conjuntas para um melhor protocolo, o PNCT deve
+acompanhamento das pessoas com ILTB,
+juntamente aos estados e municípios;
+ Atualizar os instrumentos de vigilância do e-mail:
+iltb@saude.gov.br
+recomendações, bem como sugestão dos
+estados e municípios;
+ Recomendar estratégias (com base em reco-
+mendações internacionais e evidências cien-
+tíficas) para um melhor e adequado diag-
+nóstico, tratamento e acompanhamento das
+pessoas com ILTB no país;
+diferentes UF, e para outros países;
+ Divulgar os indicadores da ILTB do país;
+ Reportar os indicadores da ILTB à OMS;
+IL-TB aos estados, cadastrando novos usuá-
+rios e unidades de saúde, atribuindo-os
+ao sistema.
+1. Houben RMGJ, Dodd PJ. The Global Burden of Latent Tuberculosis Infection: A Re-estimation
+Using Mathematical Modelling. PLoS Med [Internet]. 2016 Oct 25;13(10). Available from:
+2. World Health Organization. The End TB Strategy. [Internet]. 2017. Available from:
+3. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das Doenças
+Transmissíveis. Coordenação Geral do Programa Nacional de Controle da Tuberculose. Brasil livre
+da tuberculose: plano nacional pelo fim da tuberculose como problema de Saúde Pública.
+Brasília: Ministério da Saúde, 2017.
+4. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das Doenças
+Transmissíveis. Coordenação Geral do Programa Nacional de Controle da Tuberculose. Manual de
+Recomendações para o Controle da Tuberculose no Brasil. Ministério da Saúde, 2018.
+5. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância em Saúde: vol 2.
+Brasília: Ministério da Saúde, 2017.
+6. Pai M DM. Diagnosis of latente tuberculosis infection (tuberculosis screening) in HIV-negative
+adults: Systematic review. Uptodate [Internet]. 2014; Available from: http://www.uptodate.com.
+7. Dinnes J, Deeks J, Kunst H, Gibson A, Cummins E, Waugh N, et al. A systematic review of rapid
+diagnostic tests for the detection of tuberculosis infection. Health Technol Assess Winch Engl. 2007
+Jan; 11(3):1-196.
+8. Comstock GW. How much isoniazid is needed for prevention of tuberculosis among
+immunocompetent adults? Int J Tuberc Lung Dis Off J Int Union Tuberc Lung Dis. 1999 Oct; 3(10):847–50.
+9. World Health Organization. Latent tuberculosis infection: Updated and consolidated guidelines
+for programmatic management. Geneva: World Health Organization; 2018.
+10. Sharma SK, Sharma A, Kadhiravan T, Tharyan P. Rifamycins (rifampicin, rifabutin and rifapentine)
+compared to isoniazid for preventing tuberculosis in HIV-negative people at risk of active TB.
+Cochrane Database Syst Rev. 2013; 7:CD007545.
+11. Norton BL, Holland DP. Current management options for latent tuberculosis: a review. Infect Drug
+Resist. 2012;5:163–73.
+12. Fresard I, Bridevaux P-O, Rochat T, Janssens J-P. Adverse effects and adherence to treatment of
+rifampicin 4 months vs isoniazid 6 months for latent tuberculosis: a retrospective analysis. Swiss
+Med Wkly. 2011; 141:w13240.
+13. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das Doenças
+Transmissíveis. Coordenação Geral do Programa Nacional de Controle da Tuberculose. Ofício Circular
+nº 27/2014 – CGPNCT/Devit/SVS/MS. 2014.
+14. Ministério da Saúde. Secretaria de Vigilância em Saúde. Protocolo para transferências nacionais
+e internacionais de pessoas com tuberculose. Ministério da Saúde; 2018.
+9 788533 426504
+www.saude.gov.br/bvs

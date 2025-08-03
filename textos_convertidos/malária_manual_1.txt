@@ -1,0 +1,1628 @@
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Vigilância Epidemiológica
+Ações de Controle da
+Malária
+Manual para
+Profi ssionais de Saúde
+na Atenção Básica
+Série A. Normas e Manuais Técnicos
+Brasília – DF
+2006
+© 2005 Ministério da Saúde. Elaboração:
+Todos os direitos reservados. É permitida a reprodução parcial ou Elza Alves Pereira
+total desta obra, desde que citada a fonte e que não seja para venda
+ou qualquer fi m comercial. Fotos:
+A responsabilidade pelos direitos autorais de textos e imagens desta Romeo Rodrigues Fialho
+obra é da área técnica. Arnaldo da Silva Fayal
+A coleção institucional do Ministério da Saúde pode ser acessada,
+na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde: Colaboração:
+http://www.saude.gov.br/bvs Ângela Cristina Pistelli
+O conteúdo desta e de outras obras da Editora do Ministério da Graciene Silveira
+Saúde pode ser acessado na página: José Lazaro de Brito Ladislau
+http://www.saude.gov.br/editora Lubélia Sá Freire da Silva
+Romeo Rodrigues Fialho
+Série A. Normas e Manuais Técnicos
+Revisores técnicos:
+Tiragem: 1.ª edição – 2006 – 10.000 exemplares Ângela Cristina Pistelli
+Carlos Catão Prates Loiola
+Elaboração, distribuição e informações: Carlos José Mangabeira da Silva
+MINISTÉRIO DA SAÚDE Graciene Silveira
+Secretaria de Vigilância em Saúde Izabel Cristina Pançadilha Barata
+Departamento de Vigilância Epidemiológica José Lázaro de Brito Ladislau
+Coordenação-Geral do Programa Nacional de Controle da Malária Lubélia Sá Freire da Silva
+Esplanada dos Ministérios, Edifício Sede, bloco G, 1.º andar, sala 110 Maria Angélica Cúria Cerveira
+CEP: 70058-900, Brasília – DF Maria da Paz Luna Pereira
+Tel.: (61) 3315-2698 / 3315-2437 Pedro Luiz Tauil
+Email: cgs@saude.gov.br Romeo Rodrigues Fialho
+Home page: http://www.saude.gov.br/sas Roseli Lacorte dos Santos
+Rui Moreira Braz
+Vanja Suely Pachiano Calvosa Couto
+Impresso no Brasil / Printed in Brazil
+Ficha Catalográfi ca
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância Epidemiológica.
+Ações de controle da malária : manual para profi ssionais de saúde na atenção básica / Ministério da Saúde, Secretaria de Vigi-
+lância em Saúde, Departamento de Vigilância Epidemiológica. – Brasília : Editora do Ministério da Saúde, 2006.
+52 p. : il. – (Série A. Normas e Manuais Técnicos)
+ISBN 85-334-1296-7
+1. Malária. 2. Vigilância epidemiológica. I. Título. II. Série.
+NLM WC 765
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2006/0869
+Títulos para indexação:
+Em inglês: Malaria Control Actions. A Manual for Basic Health Care Professionals
+Em espanhol: Acciones de Control de la Malaria. Manual para Profesionales em la Atención Básica de Salud
+EDITORA MS
+Documentação e Informação
+SIA trecho 4, lotes 540/610
+CEP: 71200-040, Brasília – DF
+Tels.: (61) 3233-1774 / 2020 Equipe editorial:
+Fax: (61) 3233-9558 Normalização: Vanessa Leitão
+E-mail: editora.ms@saude.gov.br Revisão: Ângela Nogueira, Lilian Assunção e Augusto Corado (Estagiário)
+Home page: www.saude.gov.br/editora Capa e projeto gráfi co: Marcus Monici
+SUMÁRIO
+LISTA DE QUADROS E TABELAS ..........................................................................................................5
+APRESENTAÇÃO .....................................................................................................................................7
+1 INTRODUÇÃO ...................................................................................................................................9
+2 ATENÇÃO À SAÚDE.........................................................................................................................13
+2.1 Atenção Básica à Saúde..................................................................................................................14
+2.2 Organização dos Serviços de Saúde no Controle da Malária .........................................................14
+2.3 Atribuições das Unidades Básicas de Saúde e dos Profi ssionais de Saúde no Controle da Malária ...14
+2.4 Participação Comunitária e Mobilização Social .............................................................................19
+3 EPIDEMIOLOGIA DA MALÁRIA ....................................................................................................21
+3.1 Histórico .......................................................................................................................................21
+3.2 Descrição da Doença .....................................................................................................................21
+3.3 Agente Etiológico ..........................................................................................................................21
+3.4 Reservatório ..................................................................................................................................22
+3.5 Vetores ..........................................................................................................................................22
+3.6 Modo de Transmissão ....................................................................................................................24
+3.7 Período de Incubação ....................................................................................................................24
+3.8 Período de Transmissibilidade ........................................................................................................24
+3.9 Suscetibilidade e Resistência ..........................................................................................................25
+3.10 Distribuição Geográfi ca ...............................................................................................................25
+3.11 Fatores de Risco e Estratos Epidemiológicos ...............................................................................25
+4 ASPECTOS CLÍNICOS .....................................................................................................................27
+4.1 Ciclo Biológico dos Plasmódios .....................................................................................................27
+4.2 Descrição dos Aspectos Clínicos ....................................................................................................28
+4.3 Diagnóstico ...................................................................................................................................29
+4.4 Diagnóstico Diferencial ................................................................................................................31
+5 TRATAMENTO .................................................................................................................................33
+5.1 Considerações Gerais ....................................................................................................................33
+5.2 Esquemas de Tratamento para Malária Recomendados pelo Ministério da Saúde ..........................33
+5.3 Noções sobre Malária Grave e Complicada ....................................................................................38
+5.4 Resistência dos Plasmódios aos Antimaláricos................................................................................40
+6 VIGILÂNCIA EPIDEMIOLÓGICA ..................................................................................................41
+6.1 Objetivos ......................................................................................................................................41
+6.2 Defi nição de Caso .........................................................................................................................41
+6.3 Classifi cação de Caso .....................................................................................................................41
+6.4 Sistema de Informação – Notifi cação.............................................................................................42
+6.5 Investigação Epidemiológica .........................................................................................................42
+6.6 Conduta Frente a um Caso ...........................................................................................................42
+6.7 Conduta Frente a um Surto ...........................................................................................................42
+7 MEDIDAS DE CONTROLE .............................................................................................................43
+7.1 Conduta em Relação à Doença (Diagnóstico e Tratamento) ..........................................................43
+7.2 Conduta em Relação ao Vetor (Controle Seletivo de Vetores) ........................................................43
+7.3 Ações Educativas e Participação Comunitária ................................................................................45
+8 DIRETRIZES TÉCNICAS DO CONTROLE INTEGRADO DA MALÁRIA .................................47
+REFERÊNCIAS BIBLIOGRÁFICAS .......................................................................................................49
+LISTA DE
+QUADROS
+E TABELAS
+QUADRO 1 – Avaliação semiquantitativa e quantitativa da
+densidade parasitária por plasmódio na gota
+espessa de sangue ...........................................30
+QUADRO 2 – Equivalência entre grupo etário e peso
+corporal aproximado ............................. 34
+TABELA 1 – Esquema recomendado para o tratamento
+das infecções por Plasmodium vivax ou
+Plasmodium malariae com cloroquina
+em 3 dias e primaquina em 7 dias .......34
+TABELA 2 – Esquema recomendado para tratamento das infec-
+ções por Plasmodium falciparum com a associação
+®
+de artemeter + lumefantrina (Coartem ).......35
+TABELA 3 – Esquema alternativo para tratamento das in-
+fecções por Plasmodium falciparum com quinina
+em 3 dias, doxiciclina em 5 dias e primaquina
+no 6.º dia ....................................................35
+TABELA 4 – Esquema recomendado para tratamento
+das infecções por Plasmodium vivax +
+Plasmodium falciparum (malária mista)
+®
+com Coartem em 3 dias e primaquina
+em 7 dias .............................................36
+TABELA 5 – Esquema alternativo para tratamento das
+infecções por Plasmodium vivax em crianças
+apresentando vômitos, com cápsulas retais de
+artesunato em 4 dias, e primaquina em 7 dias ..36
+5
+TABELA 6 – Esquema de prevenção de recaída da malária
+por Plasmodium vivax, com cloroquina
+em dose única semanal, durante 3 meses ....... 37
+TABELA 7 – Esquema recomendado para tratamento das
+infecções por Plasmodium falciparum na gestante
+com malária não complicada ..........................37
+QUADRO 3 – Tratamento de malária grave e complicada .... 39
+QUADRO 4 – Perfi l de resposta dos parasitos assexuados do
+Plasmodium falciparum às drogas
+esquizonticidas sangüíneas ............................ 40
+6
+APRESENTAÇÃO
+A implantação das ações de vigilância em saúde no Sistema
+Único de Saúde (SUS), de forma descentralizada e integrada aos
+serviços permanentes de saúde, foi concretizada em dezembro de
+1999, com a publicação da Portaria MS n.º 1.399, que estabeleceu
+as competências para as três esferas de governo nessa área, defi nindo
+também o fi nanciamento, pelo mecanismo fundo a fundo, por
+intermédio do Teto Financeiro de Vigilância em Saúde. Em 2003,
+foi editada a Portaria MS n.º 1.172, com o objetivo de aprimorar o
+processo de descentralização e contribuir para a sua consolidação.
+Em relação à malária, a descentralização das ações de
+vigilância em saúde é uma forma efetiva de viabilizar a implantação
+da mudança da estratégia mundial de erradicação para o controle
+integrado, que estabelece como objetivos principais a prevenção da
+morbi-mortalidade e a redução da gravidade dessa doença.
+Na Amazônia Legal, região que concentra aproximadamente
+99,5% dos casos no Brasil, pelas suas características socioeconômicas
+e ambientais, a malária tem sido um dos maiores desafi os para o
+Sistema Único de Saúde, especialmente a partir do momento em
+que as ações de vigilância em saúde passam a ser executadas pelos
+estados e/ou municípios.
+A integração das ações de vigilância, prevenção e controle
+da malária na atenção básica, particularmente na estratégia da
+Saúde da Família – PACS-PSF - é imprescindível para o controle
+da malária no país.
+Este manual pretende ser um instrumento de transmissão
+de conhecimento e motivação para que os profi ssionais de saúde
+que atuam na Atenção Básica, num esforço coletivo, possam
+desenvolver suas atividades com competência e contribuir, de
+forma decisiva, para o controle dessa grave doença e, em última
+análise, para o desenvolvimento da Amazônia Legal.
+Jarbas Barbosa da Silva Júnior
+Secretário-Executivo
+7
+
+1 INTRODUÇÃO
+A malária, ainda hoje, é uma das doenças prevalentes no
+globo terrestre, ocorrendo em cerca de 90 países, principalmente
+na faixa intertropical.
+Quarenta por cento da população mundial está sob algum
+risco de contrair malária. A Organização Mundial da Saúde (OMS)
+considera a malária o maior problema de saúde pública em muitos
+países, principalmente naqueles em desenvolvimento. Estima-
+se que cerca de 300 a 500 milhões de pessoas sejam infectadas a
+cada ano, sendo os países da África responsáveis por 90% dessas
+pessoas. A mortalidade é bastante expressiva e chega a ocorrer mais
+de um milhão de óbitos, principalmente em crianças menores de
+5 anos e gestantes.
+Na região das Américas, o Brasil é o país que mais registra
+casos de malária, cerca de 50% das ocorrências.
+A malária divide o território brasileiro em duas áreas: a
+Região Endêmica, constituída pelos estados do Acre, Amapá,
+Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima,
+Tocantins, e a Região Não-Endêmica, constituída pelos demais
+estados da federação.
+A Região Endêmica é responsável pela quase totalidade
+dos casos de malária, cerca de 99,7%, ocorridos no Brasil, e,
+atualmente, em números absolutos, o Estado do Amazonas é o
+estado que apresenta maior número de casos da doença.
+Mesmo na Região Endêmica, onde a doença é considerada
+endêmica, a malária não se transmite com igual rapidez ou
+intensidade. A dinâmica de transmissão da doença é variável,
+dependente da interação de fatores ambientais, socioculturais,
+econômicos e políticos. A conjugação desses fatores determina os
+níveis de riscos para contrair a doença, bem como a viabilidade das
+medidas de controle.
+A luta contra a malária no Brasil já se perdura por mais de
+meio século, passando por várias estratégias de combate.
+Os registros indicam que, em 1889, já se regulamentava os
+Serviços de Saúde dos Portos para o combate às endemias.
+No início do século XX, começavam-se estudos objetivando
+defi nir procedimentos destinados a proteger as populações
+residentes em áreas de transmissão da malária.
+Em 1923, o Departamento Nacional de Saúde Pública já
+estabelecia medidas para profi laxia e controle da doença, entre
+as quais, o diagnóstico parasitoscópico de indivíduos suspeitos, a
+determinação do índice endêmico, o uso de medidas antilarvárias,
+9
+a telagem das casas, a distribuição de quinina aos indivíduos sãos, o tratamento dos doentes e a realização
+de inquérito epidemiológico relativo ao caso.
+Em 1930, o Anopheles gambiae, procedente do continente africano, infestou a cidade de Natal, no
+Rio Grande do Norte, provocando surtos de malária. Posteriormente se dispersou pelo litoral, chegando
+aos vales dos rios Assú e Mossoró (1938), onde provocou violenta epidemia. O Departamento Nacional de
+Saúde (DNS) assumiu a responsabilidade das ações contra esse mosquito que vinham sendo desenvolvidas
+pelos estados. Em 1939, foi criado o Serviço de Malária do Nordeste (SMN), apoiado pela Fundação
+Rockefeller; ambas instituições desenvolveram um programa que erradicou o Anopheles gambiae do
+território brasileiro.
+Estimulado pelo êxito da luta contra o citado transmissor, foi criado o Serviço Nacional de Malária
+(SNM), em 1941, ocasião em que a malária afetava milhões de brasileiros, segundo estimativa da época.
+O SNM, que iniciou a utilização do DDT no combate aos anofelinos em áreas urbanas, foi mantido
+até a criação do Departamento Nacional de Endemias Rurais (DNERu), que foi uma instituição que
+absorveu também os outros serviços nacionais de febre amarela (SNFA) e de peste (SNP).
+O DNERu manteve o programa de malária que recebeu apoio do Instituto Nacional de Endemias
+Rurais (INERu), encarregado de desenvolver estudos e pesquisas sobre as endemias no âmbito do
+DNERu.
+Em 1958, foi criada a Campanha de Erradicação da Malária (CEM), em que se iniciou a grande frente
+de combate à doença. Essa estratégia logrou grande êxito, pois se conseguiu interromper a transmissão da
+malária em toda Região Sul e Sudeste, em quase toda Região Nordeste e parte da Região Centro-Oeste.
+Nessas regiões, as características das moradias, a estabilidade das populações e um maior grau
+de desenvolvimento socioeconômico facilitaram a efetividade do inseticida aplicado no interior das
+residências, com a fi nalidade de eliminar o mosquito infectado.
+Na Região Endêmica, em função da difi culdade de reduzir os fatores de risco de ordem social e
+econômica, determinantes da incidência da doença, o que tornaria praticamente impossível a erradicação
+da endemia na região, surge então, a necessidade de mudança dos objetivos do programa de luta contra a
+malária na Amazônia, com conseqüente alteração das estratégias a serem adotadas.
+Do ponto de vista conceitual, há consenso a respeito de que os problemas representados pela
+malária já não comportam mais soluções que estabelecem, para todas as situações endêmicas, um único
+conjunto de objetivos, estratégias e ações de combate. A experiência do esforço de erradicação demonstrou
+que diferentes situações demandam o estabelecimento e a aplicação de distintos objetivos e medidas de
+controle e que elas devem estar ajustadas às características epidemiológicas e entomológicas da endemia,
+em cada local onde a malária se transmite.
+Em outubro de 1992, em Amsterdã, na Holanda, a Conferência Ministerial patrocinada pela OMS
+recomendou a adoção de uma nova estratégia global de luta contra a doença, com base na realidade
+epidemiológica e social local, com incorporação de outras medidas de controle adequadas a cada situação,
+ação multissetorial para redução da infl uência de fatores de risco de natureza socioeconômica, cultural,
+política e ecológica e participação ativa da população.
+O principal objetivo da luta contra a malária passa a ser o homem e não mais o mosquito, na
+medida em que se busca primeiramente prevenir os casos graves e as mortes causadas pela doença. O
+Controle Integrado da Malária (CIM), como uma ação conjunta do governo e da sociedade dirigida para
+a eliminação ou redução dos riscos de morrer ou adoecer de malária, é a nova orientação da luta contra a
+doença adotada pelo Brasil em consonância com as recomendações da Conferência de Amsterdã.
+O princípio estratégico fundamental das ações de controle da malária no Brasil consiste na adoção
+do diagnóstico precoce e no tratamento imediato dos casos da doença, como prática geral do controle e
+na escolha seletiva de objetivos, estratégia e métodos específi cos de combate, ajustados às características
+particulares de transmissão, existentes em cada localidade. Em virtude disso, e da diversidade das situações
+maláricas existentes no território nacional, torna-se impossível defi nir objetivos e estratégias válidas para
+todas as situações.
+Além do diagnóstico precoce e o tratamento imediato dos casos, a estratégia do CIM prevê a
+aplicação seletiva de medidas antivetoriais, orientadas para cada área específi ca que sejam de baixo custo,
+10
+viáveis para que se possa obter uma efi caz, signifi cativa e permanente redução da densidade de anofelinos
+de uma determinada área.
+As medidas antivetoriais disponíveis compreendem o manejo ambiental, o tratamento químico
+do domicílio (borrifações intradomiciliares com inseticidas de efeito residual), o tratamento químico
+de espaços abertos que compreendem as borrifações espaciais com aplicação de inseticida a Ultra Baixo
+Volume (UBV) e nebulizações térmicas (fumacê), além do tratamento dos criadouros.
+É importante ressaltar que todas essas medidas tem grande aplicabilidade no controle de vetores
+quando indicadas com absoluta precisão. A avaliação entomo-epidemiológica é de grande importância na
+seleção e indicação das medidas a serem utilizadas.
+Portanto, o controle da malária, especialmente na Amazônia, é um desafi o. Desafi o este que deve
+ser enfrentado e vencido, pois não há como concretizar um efetivo desenvolvimento socioecônomico
+dessa região, que traga melhoria da qualidade de vida à população, sem reduzir este mal que assola as
+comunidades amazônidas e que, ao longo dos anos, tem sido um poderoso obstáculo ao desenvolvimento
+da região.
+A partir de julho de 2000, foi implantado o Plano de Intensifi cação das Ações de Controle da
+Malária (PIACM), que foi aplicado prioritariamente em 254 municípios da Amazônia Legal, visando, por
+intermédio de um compromisso político das três esferas de governo, a apoiar a estruturação dos sistemas
+locais de saúde, capacitando-os para a coordenação e execução das ações de controle da malária e, desta
+forma, fortalecer o processo de descentralização e garantir a sua sustentabilidade.
+Com a inserção dessas atividades na programação das equipes do Programa Saúde da Família e
+Programa de Agente Comunitário de Saúde (PSF/PACS), espera-se, também, otimizar as ações básicas de
+saúde dos municípios da Região Endêmica, onde esta doença é a primeira causa de morbidade.
+11
+
+2 ATENÇÃO À
+SAÚDE
+Para a construção de um novo modelo assistencial que cumpra
+os princípios do Sistema Único de Saúde (SUS), faz-se necessário
+uma nova prática dos profi ssionais de saúde, pautada na visão
+sistêmica e integral do indivíduo, da família e da comunidade.
+É fundamental assumir o compromisso com a promoção da
+saúde, a prevenção de agravos, o tratamento e a reabilitação, seja
+na perspectiva individual ou coletiva, que tenha como fundamento
+os princípios do SUS:
+• Saúde como direito – a saúde é um direito fundamental
+do ser humano, devendo o Estado prover as condições
+indispensáveis ao seu pleno exercício, por meio de políticas
+econômicas e sociais que visem à redução de riscos de
+doenças e de outros agravos e no estabelecimento de
+condições que assegurem acesso universal igualitário às
+ações e serviços para a promoção, proteção e recuperação
+da saúde individual e coletiva.
+• Integralidade da assistência – entendida como um
+conjunto articulado e contínuo de ações e serviços
+preventivos e curativos, individuais e coletivos, exigido
+para cada caso, em todos os níveis de complexidade do
+sistema.
+• Universalidade – acesso garantido aos serviços de saúde
+para toda a população, em todos os níveis de assistência,
+sem preconceitos ou privilégios de qualquer espécie.
+• Eqüidade – igualdade na assistência à saúde, com ações e
+serviços priorizados em função de situações de risco, das
+condições de vida e da saúde de determinados indivíduos
+e grupos de população.
+• Resolutividade – efi ciência na capacidade de resolução das
+ações e serviços de saúde, por meio da assistência integral
+resolutiva, contínua e de boa qualidade à população
+adscrita, no domicílio e na unidade de saúde, buscando
+identifi car e intervir sobre as causas e fatores de riscos aos
+quais essa população está exposta.
+• Intersetorialidade – desenvolvimento de ações integradas
+entre os serviços de saúde e outros órgãos públicos, com
+13
+a fi nalidade de articular políticas e programas de interesse para a saúde, cuja execução envolva
+áreas não-compreendidas no âmbito do SUS, potencializando, assim, os recursos fi nanceiros,
+tecnológicos, materiais e humanos disponíveis e evitando duplicidade de meios para fi ns
+idênticos.
+• Humanização do atendimento – responsabilização mútua entre os serviços de saúde e a
+comunidade de estreitamento do vínculo entre as equipes de profi ssionais e a população.
+• Participação – democratização do conhecimento do processo saúde/doença e dos serviços,
+estimulando a organização da comunidade para o efetivo exercício do controle social na gestão
+do sistema.
+2.1 Atenção Básica à Saúde
+Atenção Básica é um conjunto de ações, de caráter individual ou coletivo, situadas no primeiro nível
+de atenção do sistema de saúde.
+Compreender saúde, enquanto processo centrado na promoção de qualidade de vida, implica na
+construção de uma nova lógica de assistência à saúde e organização do modelo assistencial.
+Para atender essa concepção, o Ministério da Saúde (MS) elege a Estratégia de Saúde da Família,
+reorganizando a Atenção Básica, na lógica da vigilância à saúde.
+2.2 Organização dos Serviços de Saúde no Controle da Malária
+Historicamente, as ações de controle da malária foram executadas pelo governo em nível federal,
+inicialmente com o DNERu, CEM, Sucam e pela Fundação Nacional de Saúde (Funasa), atividades
+que eram planejadas de forma centralizada e executadas verticalmente por equipes especializadas dessas
+instituições.
+Respeitando as diretrizes de descentralização do SUS, a necessidade de organização dos serviços
+de saúde, de forma hierarquizada, e a integralidade da atenção transfere a responsabilidade do controle
+das endemias para os estados e municípios a partir do ano 2000 e, mais recentemente, essas ações foram
+incorporadas às atividades da Secretaria de Vigilância em Saúde (SVS) do Ministério da Saúde.
+Ações executadas em forma de campanha ou de planos emergenciais nem sempre apresentam, ao
+fi nal, os resultados esperados pelo controle da malária ao longo dos anos.
+Compreende-se que só mediante ações contínuas, inseridas nos serviços de saúde, nas diferentes
+complexidades da atenção, poderiam reverter o grave quadro da malária na Amazônia Legal.
+Considerando o conceito de integralidade da assistência, o controle da malária, enquanto ação
+básica de saúde, passa a ser responsabilidade de toda a equipe de saúde.
+2.3 A tribuições das Unidades Básicas de Saúde e dos Profi ssionais de Saúde no Controle da
+Malária
+2.3.1 Unidades Básicas de Saúde (UBS)
+As UBS devem garantir o atendimento integral e humanizado aos suspeitos de malária com meios
+para:
+a) diagnosticar e tratar precocemente;
+b) realizar tratamento supervisionado quando necessário;
+c) desenvolver ações educativas e de mobilização social relativas ao controle da malária em sua área
+de abrangência;
+d) viabilizar capacitações dos membros da equipe quanto à atenção do paciente e ações relativas à
+vigilância epidemiológica da malária;
+14
+e) garantir o encaminhamento dos casos graves para Unidade de Referência, quando necessário;
+f) estabelecer o fl uxo das informações epidemiológicas referentes à malária, promovendo análises
+de incidência da doença na sua área de atuação para o planejamento das ações;
+g) encaminhar lâminas para o controle de qualidade (conforme orientação do PNCM);
+h) articular e viabilizar as medidas de controle vetorial e outras ações de proteção coletiva.
+2.3.2 Médicos e Enfermeiros
+a) Identifi car suspeitos de malária.
+b) Preencher a fi cha de notifi cação.
+c) Realizar diagnósticos precocemente.
+d) Completar a fi cha de notifi cação e encaminhá-la ao setor competente.
+e) Realizar tratamento imediato e adequado dos casos de malária com esquema terapêutico
+preconizado pelo Ministério da Saúde, e orientá-lo quanto à necessidade do tratamento completo
+e medidas de prevenção.
+f) Solicitar o retorno do paciente para a coleta de Lâmina de Verifi cação de Cura (LVC) de acordo as
+normas do programa (anexo II).
+g) Orientar os ACS para acompanhamento dos casos em tratamento e, em ocasiões especiais,
+realizar o tratamento supervisionado.
+h) Capacitar os ACS e auxiliares de enfermagem em ações de controle da malária.
+i) Solicitar mensalmente ao setor competente as informações epidemiológicas referentes à malária
+na área de atuação da UBS para a necessária análise e intervenções.
+j) Identifi car sinais e sintomas de malária grave e referenciar o paciente para os serviços de maior
+complexidade.
+2.3.3 Auxiliares de Enfermagem
+a) Realizar ações de educação em saúde e de mobilização social.
+b) Preencher fi cha de notifi cação.
+c) Completar a fi cha de notifi cação e encaminhá-la ao setor competente.
+d) Solicitar o retorno do paciente após o término do tratamento e, em situações especiais, realizar o
+tratamento supervisionado.
+e) Identifi car sinais e sintomas de malária grave e referenciar o doente aos serviços de saúde de
+maior complexidade.
+f) Identifi car sinais e sintomas de malária e coletar a lâmina para o diagnóstico.
+g) Acompanhar os pacientes em tratamento.
+h) Solicitar o retorno do paciente para a coleta de LVC de acordo com as normas do programa
+(anexo II).
+i) Orientar o paciente quanto à necessidade de concluir o tratamento.
+j) Orientar a comunidade quanto ao uso de medidas de proteção individual e familiar para
+prevenção da malária.
+k) Mobilizar a comunidade para desenvolver medidas simples de manejo ambiental com o objetivo
+de fazer o controle de vetores.
+15
+l) Quando da constatação de um caso de malária, investigar a existência de outros casos na
+comunidade e encaminhar.
+m) Orientar medidas de proteção individual como:
+• repelentes;
+• uso de roupas e acessórios apropriados para diminuir o contato vetor/homem;
+• uso de mosquiteiros impregnados ou não com inseticidas;
+• telagem das portas e janelas das casas.
+2.3.4 Agentes de Endemias
+a) Realizar ações de educação em saúde e de mobilização social.
+b) Identifi car sinais e sintomas de malária.
+c) Acompanhar os pacientes em tratamento.
+d) Orientar o paciente quanto à necessidade de concluir o tratamento.
+e) Orientar a comunidade quanto ao uso de medidas de proteção individual e familiar para
+prevenção da malária.
+f) Mobilizar a comunidade para desenvolver medidas simples de manejo ambiental com o objetivo
+de fazer o controle de vetores.
+g) Realizar o diagnóstico precoce com os imunotestes quando indicado.
+h) Realizar o tratamento imediato e adequado, conforme tabelas de tratamento deste manual.
+i) Colher lâminas de pessoas suspeitas de malária e encaminhá-las para leitura conforme estratégia
+local.
+j) Receber o resultado e instituir o tratamento imediato conforme as tabelas.
+k) Quando não for possível a realização da coleta de lâmina ou do imunoteste, encaminhar a pessoa
+suspeita de malária para Unidade de Referência.
+l) Solicitar o retorno do paciente para a coleta de LVC de acordo as normas do programa (anexo II).
+m) Receber o resultado da LVC e, se for positivo, instituir o tratamento conforme Nota Técnica
+(anexo II).
+n) Orientar medidas de proteção individual como:
+• repelentes;
+• uso de roupas e acessórios apropriados para diminuir o contato vetor-homem;
+• uso de mosquiteiros impregnados ou não com inseticidas;
+• telagem das portas e janelas das casas.
+o) Preencher e encaminhar ao setor competente a fi cha de notifi cação conforme a estratégia local.
+p) Realizar a aplicação de larvicidas químicos e biológicos quando indicado.
+q) Realizar a borrifação intradomiciliar de efeito residual, conforme estratégia local.
+r) Realizar aplicação espacial de inseticidas por meio de nebulizações térmicas e Ultra Baixo Volume,
+conforme estratégia local.
+16
+2.3.5 Agentes Comunitários de Saúde (ACS) – Portaria n.º 44, de 3 de janeiro de 2002
+Art. 2.° Estabelecer as seguintes atribuições do ACS na prevenção e controle da malária:
+I- Em Zona Urbana:
+a) realizar ações de educação em saúde e de mobilização social;
+b) orientar o uso de medidas de proteção individual e coletiva;
+c) mobilizar a comunidade para desenvolver medidas simples de manejo ambiental para o controle
+de vetores;
+d) identifi car sintomas da malária e encaminhar o paciente à unidade de saúde para diagnóstico e
+tratamento;
+e) promover o acompanhamento dos pacientes em tratamento, ressaltando a importância de sua
+conclusão;
+f) investigar a existência de casos na comunidade, a partir de sintomáticos;
+g) preencher e encaminhar à Secretaria Municipal de Saúde a fi cha de notifi cação dos casos
+ocorridos.
+II- Em Área Rural:
+Além das atribuições relacionadas no item I deste artigo:
+a) proceder à aplicação de imunotestes, conforme orientação da Coordenação Municipal do PACS
+e PSF;
+b) coletar lâminas de sintomáticos e enviá-las para leitura ao profi ssional responsável e, quando não
+for possível esta coleta de lâmina, encaminhar as pessoas para a unidade de referência;
+c) receber o resultado dos exames e providenciar o acesso ao tratamento imediato e adequado, de
+acordo com as orientações da Secretaria Municipal de Saúde;
+d) solicitar o retorno do paciente para a coleta de LVC de acordo as normas do programa
+(anexo II).
+17
+2.3.6 Fluxo de Atendimento ao Suspeito de Malária
+Suspeitos de malária
+Preencher ficha de notificação
+Colher lâmina para diagnóstico
+Realização do exame laboratorial
+Complementar a ficha de notificação e
+encaminhá-la com resultado
+positivo ou negativo
+Positivo Negativo
+Iniciar tratamento imediato Sinais de perigo Investigar febre
+Encaminhar com urgência
+Acompanhar tratamento
+para Unidade de
+Referência
+Colher a LVC
+Positivo Negativo
+Notificar como LVC Alta com recomendações
+Adotar conduta
+recomendada pelo
+supervisor
+18
+2.4 Participação Comunitária e Mobilização Social
+A promoção da saúde é desenvolvida por meio de ações comunitárias concretas e efetivas, no
+estabelecimento de prioridades, na tomada de decisão, na defi nição de estratégias e na sua implementação
+visando à melhoria das condições de saúde.
+O desenvolvimento da comunidade é feito sobre os recursos humanos e materiais nela existentes,
+para intensifi car a auto-ajuda e o apoio social. Isso requer acesso às informações e oportunidades de
+aprendizado sobre assuntos da saúde.
+Com isso, aumentam as possibilidades da comunidade no sentido de exercer maior controle sobre
+sua própria saúde e o meio ambiente em que ela vive, e decidir pela opção que conduz a uma saúde
+melhor.
+A responsabilidade pela promoção da saúde, nos serviços de saúde, deve ser compartilhada com os
+indivíduos, a comunidade, os profi ssionais de saúde e o sistema de saúde. Todos devem juntos trabalhar
+no sentido de criar condições para que o sistema de saúde contribua para a conquista de um elevado nível
+de saúde.
+Enfi m, a promoção da saúde é um processo de capacitação da comunidade, para atuar na melhoria
+de sua qualidade de vida e saúde, incluindo uma maior participação no controle desse processo.
+Está garantida na Constituição a participação da comunidade no SUS, por meio de entidades
+representativas, como conselhos de saúde e conferências de saúde, com o objetivo de discutir as necessidades
+da comunidade e as ações que interferem na saúde dos indivíduos.
+A existência de um controle social efetivo e efi ciente sobre a ação do governo em todas as esferas é
+essencial para o fortalecimento do SUS. Trata-se, portanto, de consolidar instrumentos que viabilizem a
+prática da democracia participativa, criando condições para que a comunidade, por meio de seus órgãos
+representativos, participe das decisões do governo que afetam suas vidas nas questões relativas à saúde.
+No tocante às ações de controle da malária, a participação da comunidade e a mobilização social
+podem produzir mudanças no comportamento da população frente ao problema e infl uenciar nas decisões
+das instituições. Essa participação inicia-se com um processo de mobilização social, utilizando-se dos
+meios de comunicação disponíveis e adequados às comunidades, e, ainda, por intermédio de parcerias
+com outros segmentos da sociedade.
+É importante garantir e preservar a identidade antropológica e cultural, mas inserindo mudanças
+capazes de propiciar a melhoria das condições de vida e de saúde da comunidade.
+No que diz respeito à malária, é necessário propiciar aos membros da comunidade, informações à
+respeito da doença, dos mosquitos transmissores e das medidas de prevenção e controle.
+É necessário que a comunidade, além das informações sobre a doença, tenha conhecimentos práticos
+para participar das ações de proteção e controle dos vetores e assim reduzir o contato homem/vetor, por
+meio de medidas simples de proteção individual e/ou coletiva e medidas de ordenamento do meio.
+A organização social e política da comunidade, as lideranças comunitárias existentes e o nível
+de informação que a comunidade dispõe sobre a malária são componentes importantes e devem ser
+considerados no momento da programação de ações de controle da malária em qualquer comunidade.
+19
+
+3 EPIDEMIOLOGIA
+DA MALÁRIA
+3.1 Histórico
+Muitas são as tentativas de se estabelecer a origem da malária
+no mundo, muito embora os estudos acabem fragmentados e
+escassos para determinar a real origem da doença. Porém, admite-se
+que a malária tenha se originado na África tropical onde o parasito
+se adaptou bem aos hospedeiros.
+A malária humana existe desde a mais remota antigüidade.
+A prova disso está evidenciada em estudos arqueológicos que
+demonstram a doença por meio de relatos sobre a ocorrência de
+febre e esplenomegalia, além de inscrições em templos egípcios
+descrevendo casos de febre intermitente. Hipócrates, em seus
+estudos, descreve quadros febris característicos de malária, além de
+relatos de esplenomegalia.
+Em relação à descoberta do agente infeccioso da malária,
+coube a Laveran, em 1880, a identifi cação de corpos claros nos
+eritrócitos, a observação da formação de gametas machos e fêmeas
+e, posteriormente, evidenciar o fenômeno da exofl agelação.
+A transmissão da malária por mosquitos só foi comprovada
+em 1898, por Ronaldo Ross, estudando a malária em aves. Antes,
+porém, outros pesquisadores já admitiam a transmissão da malária
+por insetos hematófagos provavelmente mosquitos.
+3.2 Descrição da Doença
+A malária é também conhecida como impaludismo,
+febre intermitente, febre terçã, febre quartã, maleita e outros. É
+uma doença infecciosa, produzida por protozoários do gênero
+Plasmodium, e se caracteriza por acessos intermitentes de febre,
+calafrios, cefaléia e sudorese. Continua sendo uma das mais
+importantes doenças parasitárias e acomete anualmente milhões
+de pessoas, especialmente no continente africano.
+3.3 Agente Etiológico
+Os parasitos da malária são da família plasmodidae, gênero
+Plasmodium. Os plasmódios se caracterizam por apresentarem dois
+tipos de multiplicação: uma assexuada denominada esquizogonia,
+que ocorre no hospedeiro vertebrado (aves, répteis e mamíferos), e
+outra sexuada chamada de esporogonia, que se passa no hospedeiro
+invertebrado (mosquitos do gênero Anopheles).
+21
+São quatro as espécies conhecidas de plasmódios que infectam o homem.
+• Plasmodium malariae (Descoberto por Laveran em 1881, Grassi e Faletti em 1890), agente da
+febre quartã, muito encontrada no continente africano;
+• Plasmodium vivax (Descoberto por Grassi e Faletti, em 1890), responsável pela terçã benigna;
+• Plasmodium falciparum (Descoberto por Welch, em 1897), responsável pela terçã maligna; e
+• Plasmodium ovale (Descoberto por Stephens, em 1922), causador de uma forma de terçã benigna,
+não-encontrado no Brasil. Existe principalmente no continente africano.
+3.4 Reservatório
+O ser humano, com micro e macrogametócitos se constitui na principal fonte de infecção de
+importância epidemiológica.
+3.5 Vetores
+Os mosquitos transmissores da malária são insetos da ordem dos dípteros da família Culicidae e do
+gênero Anopheles. Este gênero compreende cerca de 400 espécies das quais apenas um número reduzido tem
+importância epidemiológica. No Brasil, cinco espécies são consideradas como vetores principais. São elas:
+Anopheles (Nyssorynchus) darlingi, Anopheles (Nyssorynchus) aquasalis, Anopheles (Nyssorynchus) albitarsis,
+Anopheles (Kerteszia) cruzi e Anopheles (Kerteszia) bellator, além de outros de menor importância.
+O principal vetor da malária no Brasil é o Anopheles (N) darlingi. Seus criadouros freqüentemente
+são de águas limpas de baixa correnteza e sombreadas. O Anopheles (N) aquasalis, predomina no litoral e
+tem preferência por criadouros de águas salobras (fi gura 1).
+Figura 1
+No Brasil, são conhecidos também por carapanã, muriçoca, mosquito-prego, suvela e pernilongo. A
+denominação de mosquito-prego diz respeito à forma como ele pousa na parede (fi gura 2).
+22
+Figura 2
+As fêmeas do anofelino põem seus ovos nesses criadouros e desses ovos saem as larvas que se
+transformam em pupas, que, por sua vez, se transformam em adultos já dotados de asas. Portanto, o
+anofelino tem uma fase de vida aquática (ovos, larvas e pupas) e uma fase aérea, o alado (fi gura 3).
+Figura 3
+Alguns fatores são necessários para que a espécie seja considerada como transmissora da malária
+humana, por exemplo: ser suscetível à infecção pelo plasmódio humano; ser antropofílico, ou seja, ter
+preferência por sangue humano; ter longevidade e alta densidade, entre outros.
+A maioria dos anofelinos tem hábitos crepusculares ou noturnos. Durante o dia, procuram lugares
+onde fi cam ao abrigo da luz excessiva, do vento e dos inimigos naturais (fi gura 4).
+Figura 4
+23
+3.6 Modo de Transmissão
+A transmissão baseia-se na existência de uma fonte de infecção constituída de anofelinos infectados
+e de hospedeiros suscetíveis ao meio ambiente dos transmissores.
+A malária é transmitida à pessoa sadia por meio da picada da fêmea infectada do anofelino; outros
+mecanismos raros de transmissão são: transfusão sangüínea, uso de seringas contaminadas, acidentes de
+laboratório e por ocasião de parto (fi gura 5).
+Figura 5
+3.7 Período de Incubação
+Existe uma variação quanto ao período de incubação das diferentes espécies de plasmódios humanos
+(fi gura 6).
+Figura 6 – Período de Incubação (média por espécie)
+Nos casos de infecção por transfusão sangüínea, o período de incubação geralmente é breve, variando
+de acordo com o número de parasitos encontrados no sangue transfusionado.
+3.8 Período de Transmissibilidade
+O ser humano é considerado como fonte de infecção para o mosquito enquanto houver gametócitos
+infectantes circulando no sangue em número sufi ciente, para que o mosquito, ao sugá-lo, possa ingerir
+gametócitos de ambos os sexos.
+As pessoas não-tratadas ou tratadas de forma inadequada podem ser fonte de infecção para o
+mosquito por um período que varia de um a três anos, conforme a espécie. O mosquito, por sua vez,
+permanece infectante enquanto ele viver. A transmissão por transfusão sangüínea pode ocorrer enquanto
+permanecer no sangue circulante, formas assexuadas do parasito. O sangue armazenado pode continuar
+infectante por cerca de 16 dias.
+24
+3.9 Suscetibilidade e Resistência
+De um modo geral, todas as pessoas, independente de sexo, cor, raça, faixa etária, são suscetíveis à
+infecção malárica. Os adultos em áreas de alta endemicidade, em que a exposição aos anofelinos infectantes
+é contínua por muitos anos, desenvolvem uma certa tolerância ou resistência à infecção.
+3.10 Distribuição Geográfi ca
+No Brasil, a distribuição geográfi ca da malária é extensa. A área endêmica original, delimitada nos
+anos 50 por meio de estudos entomológicos e detecção de casos, abrangia cerca de 6,9 milhões de km2
+do território brasileiro. Na Amazônia onde, ao fi nal de 2004, viviam cerca de 22 milhões de habitantes,
+verifi ca-se uma concentração crescente de casos de malária nos últimos anos, passando de 94,9% (1980)
+para 99,7% dos casos em 2004, sendo que dos estados amazônicos, neste último ano, o Amazonas é o que
+concentra o maior número absoluto de casos de malária.
+Embora o país apresente uma extensa superfície de seu território onde há risco de transmissão de
+malária, este não é o mesmo em todas as áreas geográfi cas, originando níveis endêmicos diferentes na
+dependência da variedade e intensidade de associação dos fatores de risco.
+A Amazônia possui características geográfi cas e ecológicas altamente favoráveis à interação do
+parasito (plasmódio) e do mosquito vetor (anofelino), com os fatores socioeconômicos, políticos e
+culturais, determinando um nível de endemicidade, classifi cados como áreas de baixo, médio e alto risco
+malarígeno.
+Já na área não-endêmica, as condições não são muito favoráveis à interação dos fatores que
+determinam a malária. A baixa receptividade e vulnerabilidade, que são condições criadas pela presença
+do anofelino vetor, pela presença de indivíduos portadores de parasitos e a existência de outros fatores que
+favorecem a transmissão da doença, são desfavoráveis ao reestabelecimento da transmissão, o que impõe a
+manutenção permanente de um sistema de vigilância para a malária, objetivando detectar precocemente
+a introdução de casos novos da doença.
+Considerando a capacidade de combinação entre os diversos fatores que participam do processo de
+transmissão, pode-se identifi car quatro estratos de risco com níveis endêmicos diferenciados: alto, médio,
+baixo e áreas sem transmissão de malária.
+3.11 Fatores de Risco e Estratos Epidemiológicos
+Fator de risco para a malária é qualquer variável ou conjunto de variáveis que tenham relação direta
+com a incidência da malária, ou seja, qualquer condição que aumente a probabilidade de surgimento,
+agravamento e morte pela doença num determinado momento. Os fatores de risco podem ser classifi cados,
+entre outros, como:
+• Biológicos – relacionados à população suscetível, agente etiológico e presença do vetor;
+• Ambientais – modifi cações do meio ambiente, temperatura, umidade e presença de criadouros;
+• Econômicos – relacionados à baixa renda, ao desemprego e às condições de trabalho, moradia e
+migrações;
+• Socioculturais – relacionados ao nível educacional, hábitos e costumes culturais e religiosos;
+• Infra-Estrutura de Serviços de Saúde – relacionados à insufi ciência de serviços de saúde.
+Considera-se que o conhecimento dos fatores de risco determinantes de uma doença é condição
+fundamental para a classifi cação dos estratos, levando em consideração as características epidemiológicas
+destes, de modo a favorecer o desenvolvimento de ações de controle adequadas a cada situação.
+Assim, em relação ao risco de vir a adoecer de malária, o território brasileiro está dividido em quatro
+situações distintas:
+- Áreas de alto risco malarígeno (Incidência Parasitária Anual – IPA > 49,9 casos/1.000
+habitantes)
+25
+São áreas de transmissão intensa favorecida pelo tipo de ocupação das pessoas (extrativismo) ou
+situações como assentamento ou invasões onde a população está muito exposta ao risco, em virtude de:
+• populações migrantes com escassa imunidade;
+• altas densidades de anofelinos;
+• moradias precárias que não oferecem proteção;
+• alta incidência com óbitos devido ao difícil acesso aos serviços de saúde;
+• carência de serviços de saúde e infra-estrutura social;
+• insufi ciente participação da comunidade nas medidas de prevenção da doença;
+• difi culdades operacionais para o desenvolvimento pleno de medidas de controle.
+- Áreas de médio risco malarígeno (IPA de 10 a 49,9 casos/1.000 habitantes)
+Este estrato é caracterizado por ocupações humanas mais estáveis, com populações e migrações
+mais localizadas, com habitações em melhores condições, menores densidades de anofelinos, áreas de
+transmissão bem-delimitadas, melhores condições para o desenvolvimento de medidas de controle, melhor
+infra-estrutura dos serviços de saúde e maiores facilidades de comunicação.
+- Áreas de baixo risco malarígeno (IPA de 0,1 a 9,9 casos/1.000 habitantes)
+Correspondem às áreas de ocupação estáveis, com baixa transmissão da malária, porém, continuam
+sendo receptivas e vulneráveis, considerando o potencial malarígeno, o que eventualmente pode dar
+origem a focos restritos. Nessa situação, é importante a manutenção de uma vigilância epidemiológica
+efi ciente pelos serviços de saúde existentes.
+- Áreas não-endêmicas (IPA = zero)
+O quarto estrato é caracterizado por áreas onde a transmissão de malária foi interrompida.
+26
+4 ASPECTOS
+CLÍNICOS
+4.1 Ciclo Biológico dos Plasmódios
+Para que se possa conhecer bem a doença e entender a ação
+dos medicamentos antimaláricos, para a administração adequada
+do tratamento, é necessário o conhecimento do ciclo biológico dos
+plasmódios.
+Os plasmódios se reproduzem por dois processos distintos: a
+reprodução assexuada, também denominada de esquizogonia que
+se desenvolve no hospedeiro vertebrado, que é o ser humano, e
+outra sexuada, também chamada de esporogonia, cuja evolução se
+faz no hospedeiro invertebrado, o mosquito.
+Esquematicamente, o ciclo evolutivo dos parasitos da malária
+é o seguinte:
+Partindo do ponto da picada infectante, os esporozoítos
+(formas infectantes para o homem), após permanecerem por um
+breve período na corrente sangüínea, vão localizar-se na célula
+hepática (hepatócito), onde se multiplicam assexuadamente, dando
+origem aos esquizontes teciduais primários. O tempo necessário
+para o desenvolvimento desse ciclo corresponde ao período pré-
+patente, durante o qual não se encontram parasitos no sangue
+periférico. Esse período é variável para cada espécie de plasmódio.
+Durante o período pré-patente, não há manifestação clínica.
+Os esquizontes teciduais amadurecem e liberam merozoítos. Após
+a liberação dos merozoítos, alguns são fagocitados pela células
+de Küpff er e outra parte vai parasitar os eritrócitos (hemácias).
+Dentro das hemácias, eles sofrem vários estágios de maturação
+transformando-se em trofozoítos que se multiplicam pelo
+processo da esquizogonia sangüínea, resultando em verdadeiros
+conglomerados de merozoítos nos eritrócitos, os esquizontes
+sangüíneos. Assim, as hemácias abarrotadas de parasitos se rompem
+e liberam os merozoítos. É neste momento que o indivíduo
+infectado começa a apresentar os sintomas da doença.
+Os merozoítos liberados vão parasitar outras hemácias e
+darão continuidade ao ciclo, até que algumas dessas formas deixem
+de se multiplicar e sofram alterações morfológicas e funcionais,
+passando a constituir os gametócitos (masculino e feminino)
+formas sexuadas que não são patogênicas para o homem.
+Quando a fêmea de um anofelino suga o sangue do
+indivíduo com plasmódios circulantes, com razoável número de
+27
+formas sexuadas (gametócitos masculino e feminino), estas passarão por uma transformação no estômago
+do mosquito. Há a fecundação dos gametos, originando o ovo ou o zigoto que se transforma em oocineto.
+Este penetra na parede do estômago e cai na hemolinfa do mosquito, transformando-se em oocisto, o
+qual dá origem a esporozoítos, que se alojam nas glândulas salivares do mosquito, quando a partir daí as
+fêmeas tornam-se infectantes, estando, portanto, aptas a transmitirem a doença ao sugar o sangue de um
+outro indivíduo, fechando assim, o ciclo evolutivo dos plasmódios.
+O Plasmodium vivax tem a capacidade de, após instalação no hepatócito, permanecerem latentes,
+originando os hipnozoítos (do grego hypnos = sono) permanecendo por um tempo variável, sendo os
+responsáveis pelas chamadas recaídas da doença (fi gura 7).
+Figura 7
+Drogas
+gametocitocidas
+Drogas
+esquizo nticidas
+Droga s
+teciduais
+esquizonticidas
+sangüíneas
+4.2 Descrição dos Aspectos Clínicos
+A febre geralmente vem precedida por sinais e sintomas inespecífi cos caracterizados por mal-estar,
+cefaléia, cansaço e mialgia. O ataque paroxístico inicia-se com calafrios seguido por uma fase febril,
+com temperatura corpórea podendo atingir até 41ºC. Após um período de duas a seis horas, ocorre
+defervecência da febre e o paciente apresenta sudorese profusa e fraqueza intensa.
+Após a fase inicial, a febre assume um caráter intermitente, dependente do tempo de duração dos
+ciclos eritrocíticos de cada espécie de plasmódio: 48 horas para P. falciparum e P. vivax (malária terçã); e
+72 horas para P. malariae (malária quartã). Entretanto, a constatação desta regularidade é pouco comum,
+em decorrência de: a) tratamento precoce realizado ainda na fase de assincronismo das esquizogonias
+sangüíneas; b) infecção por populações distintas de plasmódios e c) infecção em primo-infectados por
+retardo da resposta imune específi ca.
+Em áreas de alta endemicidade malárica, é comum encontrar pessoas portando o parasito da
+doença sem manifestações clínicas. Enfi m, o quadro clínico para todas as espécies de plasmódio é muito
+semelhante, fazendo exceção para os casos graves e complicados de Plasmodium falciparum.
+Em crianças lactentes e pré-escolares, a expressão clínica da doença costuma ser inespecífi ca,
+podendo, inclusive, inexistir a febre, o mais importante sintoma da doença. Manifestações como astenia,
+28
+anorexia, tosse, náuseas, vômitos, diarréia, dor abdominal, tonteiras, artralgia e mialgia podem ser as
+primeiras queixas da doença.
+Em crianças, é comum o aumento do fígado que pode se tornar palpável no fi nal da primeira
+semana a partir do início da sintomatologia, enquanto o baço poderá ser palpado com maior freqüência a
+partir da segunda semana de doença.
+A anemia também é um achado freqüente, podendo ser bastante acentuada, principalmente em
+pacientes graves, crianças e gestantes. No entanto, o grau de anemia está na dependência de diversos
+fatores, entre os quais, a espécie do plasmódio (geralmente mais intensa nos casos onde o P. falciparum é o
+causador da doença), o número de parasitos e a presença de outros fatores como desnutrição e parasitose
+intestinal.
+A icterícia geralmente só está presente em casos raros de malária, especialmente quando há demora
+em iniciar a terapêutica específi ca. Outro sinal clínico observado com muita freqüência é a colúria,
+determinando confusão diagnóstica com hepatite. Essa dúvida é facilmente esclarecida pela dosagem das
+aminotransferases, que estão muito elevadas nos casos de hepatite e pouco elevadas ou mesmo em índices
+normais na malária.
+Na malária grave por P. falciparum, pode-se encontrar hiperparasitemia, anemia grave (hemoglobina
+abaixo de 5g/dl), distúrbios hidroeletrolíticos e equilíbrio ácido-básico, edema agudo de pulmão, distúrbios
+hemorrágicos, icterícia acentuada, insufi ciência renal aguda, coma, convulsões, choque circulatório (malária
+álgida) e hipoglicemia acentuada.
+A insufi ciência renal aguda pode ser decorrente de desidratação e/ou hipovolemia, sendo usualmente
+reversível, desde que se realize a hidratação adequada e o tratamento específi co da doença.
+4.3 Diagnóstico
+O diagnóstico da malária deve levar em consideração dados epidemiológicos clínicos e
+laboratoriais.
+4.3.1 Diagnóstico Epidemiológico
+Para o diagnóstico epidemiológico, é importante avaliar as seguintes informações:
+• área de procedência do caso;
+• existência de casos na região;
+• tempo de permanência na área endêmica.
+4.3.2 Diagnóstico Clínico
+Por orientação dos programas ofi ciais de controle, em situações de epidemia e em áreas de difícil
+acesso da população aos serviços de saúde, indivíduos com febre são considerados portadores de malária.
+Entretanto, os sintomas da malária são extremamente inespecífi cos, não se prestando à distinção entre
+a malária e outras infecções agudas do ser humano. Além disso, indivíduos semi-imunes ao plasmódio
+podem ter parasitos da malária, mas sem sintomas da doença (portador são ou assintomático). Portanto,
+o elemento fundamental no diagnóstico clínico da malária, tanto nas áreas endêmicas como nas não-
+endêmicas, é sempre pensar na possibilidade da doença. Como a distribuição geográfi ca da malária não
+é homogênea nem mesmo nos países onde a transmissão é elevada, tornam-se importantes, durante a
+elaboração do exame clínico, resgatar informações sobre a área de residência ou relato de viagens indicativas
+de exposição ao parasito, confi rmando a importância do diagnóstico epidemiológico.
+Além disso, informações sobre transfusão de sangue ou uso de agulhas contaminadas podem sugerir
+a possibilidade de malária induzida.
+29
+O diagnóstico clínico é baseado nas manifestações clínicas da doença associado aos achados
+epidemiológicos. Contudo, o diagnóstico de certeza da malária é laboratorial, que, além da confi rmação
+clínica, identifi ca a espécie de plasmódio, fundamental para orientar o tratamento.
+O diagnóstico laboratorial pode ser específi co e inespecífi co.
+4.3.3 Diagnóstico Laboratorial
+Exames específi cos:
+- Gota Espessa
+Essa é a técnica mais utilizada para o diagnóstico laboratorial da malária e continua sendo considerada
+como o “padrão ouro” para a confi rmação específi ca da doença.
+Após coleta de sangue, por meio de punção digital e sua distribuição adequada em lâmina de vidro,
+é realizada a coloração e leitura ao microscópio. Essa técnica é importante, pois permite a visualização do
+parasito, identifi cação da espécie e o estágio de desenvolvimento e quantifi cação, imprescindíveis para a
+avaliação clínica e controle de cura do paciente.
+O exame da gota espessa deve ser de 100 campos microscópicos examinados com aumento de
+600 a 700 vezes, o que equivale a 0,25ml de sangue. A avaliação da parasitemia pode ser expressa
+semiqualitativamente em “cruzes” ou quantitativamente em mm3, conforme quadro a seguir.
+Quadro 1. A valiação semiquantitativa e quantitativa da densidade parasitária por plasmódio na gota
+espessa de sangue
+Parasitemia
+Número de parasitos contados / Parasitemia quantitativa
+semiquantitativa
+campo (por mm3)
+(cruzes)
+40 a 60 por 100 campos + /2 200 a 300
+1 por campo + 301 a 500
+2 a 20 por campo ++ 501 a 10.000
+21 a 200 por campo +++ 10.001 a 100.000
+200 ou mais por campo ++++ > 100.000
+Obs.: para exames com menos de 40 parasitos por 100 campos, expressar o resultado pelo número de parasitos contados.
+- Esfregaço Sangüíneo
+O diagnóstico parasitológico da malária pelo esfregaço sangüíneo tem a vantagem de facilitar a
+identifi cação da espécie por permitir maior detalhe da morfologia dos plasmódios, mas, por outro lado, em
+baixas parasitemias, há uma redução da sua sensibilidade cerca de dez vezes, se comparado à gota espessa.
+- Imunotestes
+Também chamado de testes rápidos, os imunotestes para diagnóstico de malária vêm sendo
+amplamente avaliados.
+Recentemente, outro método de diagnóstico rápido foi desenvolvido. Tem a vantagem de capturar
+antígenos de P. falciparum e não P. falciparum. Trata-se de um teste baseado em fi tas de detecção por
+imunocromatografi a, o qual utiliza anticorpos monoclonais e policlonais, marcados com ouro e dirigidos
+contra a enzima desidrogenase do lactato específi ca do parasito (pDHL) presente no sangue total do
+paciente. É um método bastante rápido, de fácil manuseio e que, dependendo de seus resultados, poderá
+ser aplicado no campo quando indicado, levando-se em consideração o seu custo benefício.
+30
+- Outros Métodos
+Existem ainda outros métodos que podem ser utilizados no diagnóstico da malária, como a
+Imunofl uorescência Indireta, Elisa e a Reação em Cadeia da Polimerase (PCR), de grande importância em
+pesquisa, porém, não usados rotineiramente para diagnóstico laboratorial. O PCR é de grande importância
+em laboratórios de referência para a malária.
+Exames inespecífi cos:
+- Hemograma
+A anemia é um achado comum, geralmente do tipo normocítica e normocrômica. Anemias severas
+podem ocorrer em portadores de malária por P. falciparum, quando o número de formas assexuadas chega
+facilmente a 50.000 e mesmo a 100.000/mm3 de sangue.
+As infecções por P. vivax têm parasitemias usualmente entre 1.000 e 5.000 formas assexuadas/mm3
+de sangue, sendo raras as parasitemias mais elevadas. Nos casos de infecções por P. malariae, mais raras
+entre nós, as parasitemias, geralmente, situam-se entre 100 e 500 parasitos/mm3 de sangue. As infecções
+por estes dois últimos parasitos produzem graus de anemia menos signifi cativos.
+Os portadores de malária podem apresentar leucopenia, entretanto, não raramente os leucócitos
+podem estar normais. Eventualmente, a leucocitose pode ocorrer, geralmente pela depressão imunitária
+que acompanha o doente da malária, predispondo-o a infecções concomitante, geralmente por
+microorganismos Gram-negativos. Na análise diferencial dos leucócitos, costuma-se encontrar com mais
+freqüência uma linfocitose.
+As plaquetas, em geral, estão diminuídas sobretudo nos casos de malária por P. falciparum, nos quais
+é possível encontrar trombocitopenias inferiores a 20.000 plaquetas/mm3 de sangue.
+- Alterações Bioquímicas
+Pode existir também elevação da uréia, da creatinina, das bilirrubinas e das enzimas, por exemplo,
+aminotransferases (transaminases), 5’-nucleotidase e gama-transpeptidase (GAMA-GT). Os pacientes mais
+graves estão acidóticos, com baixa concentração de bicarbonato e baixo pH plasmático nos capilares. As
+alterações hidroeletrolíticas (sódio, potássio, cloro, cálcio e fósforo) variam. As concentrações de ácido láctico
+no sangue e no líquido cefalorraquidiano são altas tanto nos adultos como nas crianças.
+4.4 Diagnóstico Diferencial
+Qualquer processo infeccioso, que tenha a febre como um dos elementos clínicos para nortear
+o diagnóstico, se constitui em diagnóstico diferencial com a malária, como, por exemplo, hepatites,
+leptospirose, pneumonia, infecção do trato urinário, septicemias, meningoencefalites, febre amarela,
+calazar, dengue, etc.
+Em crianças que podem apresentar quadros clínicos mais variados e menos típicos, há que excluir
+as outras doenças febris, tais como doenças infecciosas do trato respiratório, urinário e digestivo, seja de
+etiologia viral ou bacteriana. Daí a importância da confi rmação diagnóstica, por meio da gota espessa, antes
+da instituição do tratamento.
+31
+
+5 TRATAMENTO
+5.1 Considerações Gerais
+O tratamento imediato e adequado da malária tem como objetivo a prevenção de formas graves da
+doença, bem como a redução da mortalidade, além de eliminar a fonte de infecção para o mosquito, e,
+conseqüentemente, reduzir a transmissão da doença.
+Para que o tratamento da malária possa ser realizado de forma adequada, é fundamental o
+conhecimento do ciclo biológico do parasito no homem, pois há drogas que agem com maior especifi cidade
+em certas formas evolutivas do plasmódio, além das drogas que apresentam maior efetividade conforme a
+espécie que está parasitando o homem (fi gura 6).
+Dependendo da espécie do plasmódio causador da doença, da ocorrência de resistência na área de
+transmissão, da gravidade do quadro clínico e da idade do paciente, há drogas primariamente indicadas
+para cada caso, e, portanto, seu uso poderá variar em função do conhecimento do profi ssional de saúde e
+da disponibilidade dos medicamentos antimaláricos no local de atendimento.
+Para maior aprofundamento, deve ser consultado o Manual de Terapêutica da Malária – MS, 6.ª
+edição revisada – dezembro de 2001 ou o mesmo atualizado.
+5.1.1 Condutas Gerais
+Na febre causada pela malária, métodos físicos, como o uso de compressas de água morna
+e ventilação, são mais efi cazes na diminuição da temperatura corporal do que o uso de antitérmicos.
+Entretanto, os antitérmicos poderão ser usados na tentativa de evitar que ocorram convulsões febris em
+crianças suscetíveis. O tratamento de convulsões segue o padrão convencional.
+Sendo a cefaléia decorrente da liberação de cininas, que são responsáveis pela vasodilatação, o uso de
+bolsas de gelo traz um grande alívio aos pacientes, podendo, ainda, ser usados os analgésicos.
+A transfusão de concentrado de hemácias, ou mesmo sangue fresco (nos casos de distúrbios
+hemorrágicos com choque hipovolêmico), está indicada apenas nos casos de anemia grave, quando o
+hematócrito está abaixo de 20% e a hemoglobina abaixo de 5g/100ml.
+Na hipoglicemia, pode-se administrar injeção endovenosa “em bolo” de 50 ml de glicose a 50% (1 ml/kg
+nas crianças) e a seguir manter infusão endovenosa de glicose a 5 ou 10%.
+Após a reidratação adequada, não havendo restabelecimento da função renal nos pacientes que
+evoluíram de oligúria para anúria, havendo condições, deve-se realizar diálise peritoneal ou hemodiálise.
+Há contra-indicações dos corticosteróides e outros agentes antiedematosos no coma malárico, assim
+como o uso da heparina nos pacientes.
+5.2 Esquemas de Tratamento para Malária Recomendados pelo Ministério da Saúde
+O Ministério da Saúde, por intermédio da Funasa, editou em 2001 o Manual de Terapêutica da
+Malária que apresenta dez tabelas com esquemas terapêuticos antimaláricos utilizados no Brasil, de acordo
+com o grupo etário do paciente. Embora as dosagens constantes nas tabelas levem em consideração o
+peso pela idade do paciente, é recomendável que, sempre que possível e para garantir boa efi cácia e baixa
+toxicidade no tratamento da malária, as doses dos medicamentos sejam fundamentalmente ajustadas
+ao peso do paciente. Entretanto, como nem sempre é possível dispor de uma balança para a verifi cação
+do peso, apresenta-se no quadro abaixo a relação do peso segundo a idade. Chama-se atenção para a
+33
+necessidade de sempre que surgirem dúvidas, recorrer-se ao Manual de Terapêutica de Malária ou outras
+fontes de consulta do Ministério da Saúde.
+Quadro 2. Equivalência entre grupo etário e peso corporal aproximado
+Grupos Etários Peso Corporal
+Menor de 6 meses Menos de 5 Kg
+De 6 a 11 meses 5 a 9 Kg
+De 1 a 2 anos 10 a 14 Kg
+De 3 a 6 anos 15 a 19 Kg
+De 7 a 11 anos 20 a 29 Kg
+De 12 a 14 anos 30 a 49 Kg
+De 15 ou mais anos 50 Kg ou mais
+Fonte: BRASIL. Ministério da Saúde. Manual de Terapêutica da Malária. 6. ed. rev. Brasília, 2001.
+5.2.1 Esquemas de Primeira Escolha
+TABELA 1
+Esquema recomendado para o tratamento das infecções por
+Plasmodium vivax ou Plasmodium malariae
+com cloroquina em 3 dias e primaquina em 7 dias
+DROGAS e DOSES
+1.º dia 2.º e 3.º dias 4.º ao 7.º dias
+GRUPOS ETÁRIOS
+Primaquina Primaquina Primaquina
+Cloroquina (Comp.) Cloroquina (Comp.) (Comp.)
+(Comp.) (Comp.)
+Adulto Infantil Adulto Infantil Adulto Infantil
+Menor de 6 meses 1/4 - - 1/4 - - - -
+6 a 11 meses 1/2 - 1 1/2 - 1 - 1
+1 a 2 anos 1 - 1 1/2 - 1 - 1
+3 a 6 anos 1 - 2 1 - 2 - 2
+7 a 11 anos 2 1 1 1 e 1/2 1 1 1 1
+12 a 14 anos 3 1 e 1/2 - 2 1 e 1/2 - 1 e 1/2 -
+15 ou mais 4 2 - 3 2 - 2 -
+Observação: Na malária por Plasmodium malariae não usar Primaquina. Não administrar primaquina para gestantes e crianças até 6 meses de idade.
+Primaquina: Comprimidos para adultos com 15mg da base e para crianças com 5mg da base.
+A cloroquina e a primaquina deverão ser ingeridas preferencialmente às refeições. Se surgir icterícia, suspender a primaquina.
+34
+TABELA 2
+Esquema recomendado para tratamento das infecções por
+Plasmodium falciparum
+®
+com a associação de artemeter + lumefantrina (Coartem )*
+Administração Oral
+Peso Idade
+Manhã Noite Manhã Noite Manhã Noite
+5 a 14 6 meses
+Dia 1 Dia 2 Dia 3
+Kg a 2 anos
+15 a 24 3 a 8
+Dia 1 Dia 2 Dia 3
+Kg anos
+25 a 34 9 a 14
+Dia 1 Dia 2 Dia 3
+Kg anos
+> 35 > 14
+Dia 1 Dia 2 Dia 3
+Kg anos
+* Este medicamento é apresentado em caixas diferenciadas e com cores variadas para cada grupo de idade
+Cada tratamento com Coartem vem em uma cartela individual, para tratar uma só pessoa.
+O Coartem vem em quatro tipos de embalagem de acordo com o peso ou idade das pessoas.
+Só abra a embalagem do comprimido no momento em que for tomar. Exposto ao ar, ele perde a qualidade.
+No primeiro dia, a segunda dose pode ser administrada em intervalo de 8 a 12 horas.
+Para crianças pequenas, esmagar o comprimido para facilitar a administração.
+Pode ingerir o comprimido com água ou leite.
+Recomenda-se administrar o comprimido junto com alimentos
+Não administrar à gestantes durante o primeiro trimestre de gravidez nem menores de 6 meses.
+(nesses casos, usar o esquema de quinina isolada ou quinina + clindamicina)
+Para garantir maior efi cácia, o tratamento deve ser completado em 3 dias, isso é, recomendar ao paciente que não atrase o horário das tomada.
+Não guardar o Coartem® em locais com temperatura acima de 30ºC
+TABELA 3
+Esquema alternativo para o tratamento das infecções por
+Plasmodium falciparum
+com quinina em 3 dias, doxiciclina em 5 dias e primaquina no 6.º dia
+DROGAS E DOSES
+GRUPOS ETÁRIOS 1.º, 2.º e 3.º dias 4.º e 5.º dias 6.º dia
+Quinina Doxiciclina Doxiciclina Primaquina
+comprimido comprimido comprimido comprimido
+8 a 11 anos 1 e 1/2 1 1 1
+12 a 14 anos 2 e 1/2 1 e 1/2 1 e 1/2 2
+15 ou mais anos 4 2 2 3
+Observação: A dose diária da quinina e da doxiciclina devem ser divididas em 2 tomadas de 12/12 horas. A doxiciclina e a primaquina não devem ser dadas a
+gestantes e crianças menores de 8 anos.
+35
+TABELA 4
+Esquema recomendado para tratamento das infecções por
+Plasmodium vivax + Plasmodium falciparum (malária mista)
+com Coartem® em 3 dias e primaquina em 7 dias
+1º ao 3º dia 4º ao 10º dia
+Primaquina (Comp.)
+Grupos etários Adulto Infantil
+Menor de 6 meses - -
+6 a 11 meses - 1
+Esquema da Tabela 2 (combinação de artemeter +
+1 a 2 anos - 1
+lumefantrina - Coartem®)
+3 a 6 anos - 2
+7 a 11 anos 1 1
+12 a 14 anos 1 e 1/2 -
+15 ou mais 2 -
+Não administrar primaquina para gestantes e crianças até 6 meses de idade.
+5.2.2 Esquemas Alternativos
+TABELA 5
+Esquema alternativo para tratamento das infecções por
+Plasmodium vivax
+em crianças apresentando vômitos, com cápsulas retais de artesunato em
+4 dias, e primaquina em 7dias
+DROGAS e DOSES
+1.º, 2.º e 3.º dias 4.º dia 5.º ao 11.º dia
+GRUPOS
+ETÁRIOS Primaquina
+Artesunato Artesunato Comprimidos
+Cápsula retal Cápsula retal
+Adulto Infantil
+1 a 2 anos 1 1 - 1
+3 a 5 anos 2 (A) 1 1/2 -
+6 a 9 anos 3 (B) 1 - 2
+10 a 12 anos 3 (B) 3 (B) 1 -
+Cápsula retal com 50mg. A cápsula retal pode ser conservada à temperatura ambiente.
+Primaquina infantil e adulto com 5mg e 15 mg de primaquina-base, respectivamente.
+A dose de primaquina é de 0,50 mg/kg de peso deve ser ingerida, preferencialmente, às refeições.
+(A) Administrar uma cápsula retal de 12 em 12 horas.
+(B) Administrar uma cápsula retal de 8 em 8 horas.
+Para menores de 1 ano e maiores de 12 anos, usar a Tabela 1 deste manual.
+Obs.: não usar este esquema para crianças com diarréia.
+36
+TABELA 6
+Esquema de prevenção de recaída da malária por Plasmodium vivax,
+com cloroquina em dose única semanal, durante 3 meses*
+Peso Número de comprimidos de cloroquina
+Idade
+(kg) por semana (150mg/dose)
+5 a 6 kg < 4 meses 1/4
+7 a 14 kg 4 meses a 2 anos 1/2
+15 a 18 kg 3 a 4 anos 3/4
+19 a 35 kg 5 a 10 anos 1
+36 kg ou mais 11 anos ou + 2
+* Esquema recomendado para pacientes que apresentam recaídas após o término do tratamento correto, e para gestantes e crianças menores de 1 ano. Só deve
+ser iniciado após o término do tratamento com cloroquina em 3 dias (Tabela 1).
+Cloroquina: comprimidos de 250mg contendo 150mg de cloroquina base.
+TABELA 7
+Esquema recomendado para tratamento das infecções por
+Plasmodium falciparum
+na gestante com malária não complicada
+Quinina 30mg do sal/Kg/dia durante três dias +
+Todos o períodos (particularmente o 1.º trimestre) Clindamicina 20mg/kg/dia, em quatro vezes ao dia,
+durante cinco dias.
+2.º e 3.º trimestres Artemeter + lumefantrina (Coartem®)
+* IMPORTANTE: para outras alternativas de tratamento da malária, consultar as tabelas com esquemas alternativos, contidas no Guia de Vigilância
+Epidemiológica ou o Manual de Terapêutica da Malária editados pelo Ministério da Saúde.
+37
+5.3 Noções sobre Malária Grave e Complicada
+Adultos não-imunes, crianças, gestantes e idosos constituem os grupos que mais comumente evoluem
+de forma desfavorável, podendo apresentar manifestações clínicas mais graves da infecção e chegar ao
+óbito mais freqüentemente quando a infecção se dá por P. falciparum. A hipoglicemia, o aparecimento
+de convulsões, vômitos incoercíveis, icterícia, hipertermia contínua e distúrbios da consciência, são
+indicativos de mau prognóstico, necessitando de uma ação imediata no sentido de realizar a terapêutica
+adequada ou, quando não for possível, providenciar o encaminhamento do paciente com urgência para
+uma Unidade de Referência.
+Sinais e Sintomas de Perigo
+O paciente com malária grave ou complicada pode apresentar alteração do nível de consciência,
+prostração, fraqueza extrema e icterícia. Além disso, podem ocorrer as seguintes complicações:
+• malária cerebral;
+• convulsões generalizadas;
+• anemia normocítica;
+• insufi ciência renal;
+• distúrbio hidroeletrolítico e ácido-básico;
+• colapso e choque circulatório (malária álgida);
+• sangramento espontâneo (coagulação intravascular disseminada);
+• hipertermia contínua;
+• parasitemia elevada;
+• hemoglobinúria;
+• edema agudo de pulmão;
+• hipoglicemia.
+É importante notar que essas manifestações graves podem ocorrer isoladamente ou – o que é mais
+comum – combinadas, no mesmo paciente.
+Conduta Geral
+As seguintes medidas devem ser aplicadas a todos os pacientes com suspeita de malária grave:
+• na ausência de confi rmação parasitológica de malária, deve-se preparar uma lâmina de sangue e
+começar o tratamento com base no quadro clínico;
+• a quimioterapia antimalárica deve ser administrada por via parenteral (endovenosa ou
+intramuscular), devendo ser substituída pelo tratamento oral quando se julgar adequado;
+• as doses devem ser calculadas com base em mg/kg de peso, por conseguinte, é importante pesar
+o paciente sempre que for possível, especialmente as crianças;
+• não se deve confundir as doses de sal e de base;
+• os pacientes devem ser admitidos em unidade de tratamento intensivo, sempre que for possível;
+• quando estão sendo administradas soluções por via endovenosa, deve-se dispensar cuidadosa
+atenção ao equilíbrio hídrico, a fi m de evitar a hiper-hidratação;
+• quando possível, é importante fazer um rápido exame inicial para determinar o nível de glicose
+sangüínea para detectar hipoglicemia e monitorá-lo, quando não for possível, administrar
+glicose;
+• os pacientes que estiverem inconscientes devem receber cuidadosa assistência de enfermagem. As
+sondas vesicais de demora devem ser removidas, assim que não forem mais necessárias;
+38
+• outras eventuais causas de coma devem ser esclarecidas ou tratadas;
+• é importante monitorar a resposta terapêutica, tanto parasitológica como clínica;
+• identifi car e controlar qualquer infecção associada;
+• monitorar a diurese e observar a coloração da urina;
+• é imperativo observar regularmente a temperatura corpórea, a freqüência respiratória, a pressão
+sangüínea, a pressão venosa central quando possível, o nível de consciência e outros sinais vitais;
+• deve-se colher sangue para hemocultura, se o paciente entrar em choque durante o tratamento,
+e iniciar antibioticoterapia empírica enquanto se aguarda o resultado da hemocultura;
+• acompanhar o paciente com os seguintes exames, como hematócrito, glicemia, uréia, creatinina,
+eletrólitos e exame de urina;
+• o precoce exame oftalmoscópico do fundo do olho é importante porque a existência de hemorragia
+da retina tem alta signifi cância para o diagnóstico e o prognóstico da malária grave;
+• evitar o uso de drogas que aumentem o risco de sangramento gastrointestinal (aspirina,
+corticosteróide);
+• uma monitoração mais sofi sticada pode ser útil, se aparecerem outras complicações. Obviamente
+dependerá da disponibilidade local de equipamentos e experiência;
+• para maior aprofundamento, sugerimos consultar o Manual de Tratamento de Malária Grave
+e Complicada – Condutas Práticas – 2.ª edição – OMS (ORGANIZAÇÃO MUNDIAL DA
+SAÚDE, 1995).
+Quadro 3. Tratamento de malária grave e complicada
+Esquema recomendado para malária grave por P. falciparum
+DROGA OBSERVAÇÕES IMPORTANTES
+1. Primeira Escolha
+DERIVADOS DA ARTEMISININA Completar o tratamento com: clindamicina, 20mg/kg de
+Artesunato endovenoso: 2,4mg/kg como dose de ataque e peso/dia, por cinco dias, dividida em duas tomadas (12 em
+A
+1,2mg/kg nos momentos 4, 24 e 48 horas. Diluir cada dose 12 horas), via oral; ou doxiciclina, 3,3mg/kg de peso/dia di-
+em 50ml de solução isotônica (de preferência glicosada a 5 vidida em duas tomadas (12 em 12horas), por cinco dias, via
+ou 10%), EV em uma hora, ou oral; ou mefl oquina, 15 a 20mg/kg de peso, em dose úni-
+ca, via oral. Estes medicamentos devem ser administrados
+Artemeter intramuscular: aplicar 3,2mg/kg de peso, em ao fi nal do tratamento com os derivados da artemisinina. A
+dose única no 1.º dia. Após 24 horas, aplicar 1,6mg/kg de doxiciclina não deve ser administrada a gestantes e menores
+peso, a cada 24 horas, por quatro dias, totalizando cinco de 8 anos. A mefl oquina não deve ser usada em gestantes do
+dias de tratamento. primeiro trimestre.
+2. Segunda Escolha
+Quando o paciente estiver em condições de ingestão oral e
+QUININA ENDOVENOSA
+a parasitemia estiver em declínio, utiliza-se a apresentação
+Infusão de 20 a 30mg do sal de dicloridrato de quinina/kg/
+B oral de sulfato de quinina, na mesma dosagem, a cada 8
+dia, diluída em solução isotônica, de preferência glicosada,
+horas. Manter o tratamento até 48 horas após a negativa-
+a 5 ou 10% (máximo de 500ml), durante 4 horas, a cada 8
+ção da gota espessa (em geral sete dias).
+horas, tendo-se o cuidado para a infusão ocorrer em 4 horas.
+C 3. Terceira Escolha
+QUININA ENDOVENOSA ASSOCIADA À CLINDA-
+MICINA ENDOVENOSA
+A quinina nas mesmas doses do item anterior até três dias.
+Esquema indicado para gestantes.
+Simultaneamente, administrar a clindamicina, 20mg/kg de
+peso, dividida em duas doses, uma a cada 12 horas, diluída
+em solução glicosada a 5 ou 10% (15ml/kg de peso), infun-
+dida, gota a gota, em 1 hora, por sete dias.
+Obs.: os derivados da artemisinina têm se mostrado muito efi cazes e de ação muito rápida na redução e eliminação da parasitemia.
+Assim, é necessário que estes medicamentos sejam protegidos de seu uso abusivo e indicados fundamentalmente para casos graves e
+39
+complicados. Em gestantes, o esquema terapêutico específi co preferencial é a associação quinina e clindamicina endovenosa (item 3),
+pela sua efi cácia e inocuidade para a mãe e para o feto.
+5.4 Resistência dos Plasmódios aos Antimaláricos
+Defi ne-se como resistência a capacidade de sobrevivência ou multiplicação dos plasmódios de
+uma cepa, apesar da administração e absorção de uma droga em doses iguais ou mesmo maiores àquelas
+usualmente recomendas e que estejam dentro dos limites de tolerância do paciente.
+Das espécies causadoras de malária humana, apenas o P. falciparum mostra diferentes graus de
+resistência aos antimaláricos. Em relação ao P. vivax, existem relatos de autores brasileiros a respeito de
+resistência à cloroquina.
+A resistência do P. falciparum à cloroquina, à amodiaquina, à quinina e à mefl oquina tem sido
+registrada no Brasil, em diferentes níveis, daí a importância da realização do controle de cura dos
+doentes.
+A resistência ou a sensibilidade do P. falciparum aos antimaláricos não são absolutas, pois entre uma
+e outra há gradações, que vão desde a negativação da parasitemia, com desaparecimento da sintomatologia
+e posterior aparecimento de formas sangüíneas detectáveis, por meio dos exames hemoscópicos de rotina
+até uma resistência tão acentuada onde a droga parece não apresentar nenhum efeito.
+A importância do conhecimento dos padrões de respostas às drogas e, principalmente, a avaliação
+de cada caso tratado, é fundamental para que a vigilância epidemiológica seja capaz de defi nir as áreas
+onde há maior ou menor resistência aos antimaláricos rotineiramente usados.
+Esta gradação, aplicável em resposta às drogas antimaláricas, encontra-se no quadro a seguir.
+Quadro 4. P erfi l de resposta dos parasitos assexuados do Plasmodium falciparum às drogas esquizonticidas
+sangüíneas
+Perfi l Símbolo Resposta
+Sensibilidade RTA* Negativação da parasitemia, sem reaparecimento da mesma
+durante os controles de cura.
+Presença de sinais de gravidade entre os dias 1 e 2;
+Maior parasitemia no D2 que em D0;
+Parasitemia em D3 ≥ 25% que em D0.
+Resistência FTP*
+Presença de sinais de gravidade após D3;
+Retorno não-programado do paciente, por manifesta-
+ções clínicas;
+FTT* Presença de parasitemia entre D4 e D28.
+RTA – Resposta Terapêutica Adequada;
+FTP – Fracasso Terapêutico Precoce;
+FTT – Fracasso Terapêutico Tardio.
+As recaídas são defi nidas como o reaparecimento das manifestações clínicas do paciente que
+podem ocorrer nas infecções pelo P. vivax. Ocorrem provavelmente por uma reinvasão das hemácias por
+forma exoeritrocíticas, podendo ser assintomáticas ou sintomáticas, dependendo do grau de imunidade
+desenvolvido contra a doença, e do intervalo de tempo decorrido para o diagnóstico.
+A recrudescência, ao contrário, constitui-se no reaparecimento a curto prazo dos sintomas,
+provavelmente pelo não-desaparecimento completo dos parasitos na circulação. Ocorrem na malária por
+P. falciparum e P. malariae (neste último, raramente).
+40
+6 VIGILÂNCIA
+EPIDEMIOLÓGICA
+6.1 Objetivos
+Estimar a magnitude da morbidade e mortalidade da malária; identifi car grupos de risco; detectar
+surtos e epidemias; impedir a reintrodução da endemia nas regiões não malarígenas, por intermédio
+do diagnóstico, tratamento dos casos e eliminação de novos focos; avaliar o impacto das medidas de
+controle.
+6.2 Defi nição de Caso
+a) Suspeito
+Área endêmica: toda pessoa com quadro febril, que seja residente ou que tenha se deslocado para área onde
+haja transmissão de malária, no período de 8 a 30 dias antes dos primeiros sintomas. Área não-endêmica:
+toda pessoa que apresente quadro de paroxismo febril com os seguintes sintomas: calafrios, tremores, cansaço,
+mialgia e que seja procedente de área de transmissão malárica, 8 a 30 dias antes dos primeiros sintomas.
+b) Confi rmado por critério laboratorial
+Todo caso suspeito com presença de parasitos no sangue, cuja espécie e parasitemia tenham sido identifi cadas,
+por intermédio do exame laboratorial. Nas regiões não-endêmicas, sem transmissão de malária, os casos
+confi rmados devem ser classifi cados, por intermédio da investigação epidemiológica, de acordo com o item
+5.3 abaixo.
+6.3 Classifi cação de Caso
+Para manter livres da malária, nas áreas onde a transmissão da doença foi interrompida, é necessária
+a manutenção de uma efi ciente vigilância epidemiológica que impeça a reintrodução da endemia, por
+meio do diagnóstico e tratamento dos casos, que devem ser investigados e classifi cados como autóctones,
+importados, introduzidos ou induzidos de acordo com a procedência e situação do caso.
+• Caso autóctone: caso de malária contraído pelo enfermo na localidade ou município onde foi
+feito o diagnóstico.
+• Caso importado: caso de malária contraído fora da zona onde se fez o diagnóstico. O emprego
+dessa expressão dá a idéia de que é possível situar, com certeza, a origem da infecção numa zona
+malárica conhecida.
+• Caso introduzido: caso secundário direto quando se pode provar que o mesmo constitui o
+primeiro elo da transmissão local após um caso importado conhecido.
+• Caso induzido: caso de malária que pode ser atribuído a uma transfusão de sangue ou a outra
+forma de inoculação parenteral, porém não à transmissão natural pelo mosquito. A inoculação
+pode ser acidental ou deliberada e, nesse caso, pode ter objetivos terapêuticos ou de pesquisa.
+• Caso críptico: caso de malária diagnosticado em área com transmissão interrompida quando não
+se consegue comprovar o local de infecção.
+41
+Para a manutenção da vigilância é necessário:
+6.4 Sistema de Informação – Notifi cação
+A malária é uma doença de notifi cação em todo País, na área não-endêmica, além de ser uma doença
+de notifi cação compulsória é de investigação obrigatória, visando à adoção de medidas de controle para
+manter essa parte do território brasileiro livre da doença. Na área endêmica, a notifi cação é feita por meio do
+Sistema de Informação de Vigilância Epidemiológica – Malária (Sivep–Malária). Para alimentar o sistema
+de informação, os casos são notifi cados por meio da Ficha de Notifi cação que cada notifi cante preenche e
+encaminha para o setor competente para o processamento (anexo I – Ficha de Notifi cação de Malária).
+6.5 Investigação Epidemiológica
+Recomendada para a Região Não-Endêmica e deve se desenvolver na seguinte seqüência:
+a) busca de caso, diagnóstico e tratamento;
+b) investigação para identifi car a origem do caso;
+c) identifi cação de vetores e, se comprovada a existência de foco, desenvolver ações de controle de
+anofelinos e tratamento de pessoas portadoras de plasmódio.
+6.6 Conduta Frente a um Caso
+Na Região Não-Endêmica, todo caso suspeito ou confi rmado de malária deve ser investigado com
+o objetivo de:
+• instituir o diagnóstico precoce e o tratamento imediato e de modo adequado;
+• prevenir surtos, caso haja mosquitos transmissores na área.
+Na investigação deve-se buscar:
+• confi rmação laboratorial do caso;
+• preenchimento da fi cha de notifi cação;
+• classifi cação do caso como autóctone ou importado;
+• avaliação entomológica quando for indicada;
+• desencadeamento das medidas de controle de acordo com a situação apresentada.
+6.7 Conduta Frente a um Surto
+Na Região Endêmica, onde a transmissão da malária é expressiva, o aparecimento de surtos nas
+áreas de alto risco malarígeno é freqüente. As medidas de controle, que devem ser desencadeadas, visam à
+contenção do surto por meio de:
+• identifi cação da situação;
+• diagnóstico precoce e tratamento imediato dos casos;
+• medidas de controle seletivo de vetores;
+• desenvolvimento de ações educativas por meio da participação da comunidade e mobilização
+social visando à prevenção de novos casos.
+Nas áreas classifi cadas, como de médio risco malarígeno, o aparecimento de surtos correspondem a
+focos novos de malária, estando indicado as medidas de controle adequadas à situação.
+Na Região Não-Endêmica, há necessidade de determinar a natureza e extensão do surto, e desenvolver
+as medidas de controle que o caso requer.
+42
+7 MEDIDAS DE
+CONTROLE
+As medidas de prevenção e controle da malária devem ser
+úteis no cumprimento dos objetivos estratégicos mencionados.
+O diagnóstico precoce e o tratamento imediato e adequado dos
+casos da doença, especialmente os casos graves, constituem ações
+de relevância capital no controle da malária.
+Essas medidas devem ser desenvolvidas por todas as Unidades
+Básicas do SUS em toda a área endêmica para malária.
+As medidas de controle do vetor devem ser seletivas, ajustadas
+à realidade entomo-epidemiológica, de modo a garantir a redução
+da prevalência e interrupção da transmissão.
+No desenvolvimento das ações de controle da malária no
+Brasil, deve-se levar em consideração as seguintes condutas.
+7.1 Conduta em Relação à Doença (Diagnóstico e
+Trata men to)
+O elemento fundamental no controle efetivo da malária
+é dispor de meios para a realização do diagnóstico precoce e
+tratamento imediato e adequado dos casos. Esse é um direito
+constitucional das pessoas e comunidades afetadas pela malária,
+independente das condições locais existentes. A efetivação desse
+procedimento garante a prevenção de óbito por malária, a redução
+do aparecimento de casos graves, a redução de fonte de infecção
+e a diminuição da transmissão, mantendo a doença em níveis
+endêmicos, epidemiológica e socialmente suportáveis.
+7.2 C onduta em Relação ao Vetor (Controle Seletivo de
+Vetores)
+A Estratégia de Controle Integrado prevê a aplicação seletiva
+de medidas antivetoriais, orientadas para cada área específi ca que
+sejam de baixo custo, viáveis, para que se possa obter uma efi caz,
+signifi cativa e permanente redução da densidade de anofelinos de
+uma determinada área.
+A seleção das medidas antivetoriais a serem utilizadas pressupõe
+um conhecimento prévio da área onde serão aplicadas e relativos ao
+comportamento do vetor e das pessoas. Para o conhecimento do
+vetor, utilizam-se avaliações entomológicas e, para o conhecimento
+do comportamento das pessoas, deve-se utilizar as análises sociais.
+As medidas antivetoriais disponíveis compreendem o manejo
+adequado do ambiente, o tratamento químico do domicílio, o
+43
+tratamento químico de espaços abertos e o tratamento de criadouros, os quais exigem pessoal capacitado
+para a aplicação das mesmas.
+O manejo adequado ao meio ambiente pode reduzir a densidade de anofelinos, eliminando criadouros
+por meio de aterro, drenagem ou limpeza da vegetação. As obras de saneamento são medidas de efi cácia
+indiscutíveis e resultados permanentes para o controle da malária, em que é possível a sua aplicação.
+Por isso, devem ser medidas de escolha quando o objetivo do controle é a redução e/ou eliminação da
+transmissão em áreas urbanas e periurbanas. Em áreas de alta transmissão da Região Endêmica, esta medida
+é de suma importância e deve ser indicada e executada sempre que possível, mediante a participação da
+comunidade.
+O tratamento químico domiciliar foi a principal medida de intervenção na estratégia de erradicação
+e, ainda hoje, é um importante instrumento de controle de vetores em uso. Contudo, a borrifação
+intradomiciliar deve ter sua indicação avaliada, mediante os aspectos entomo-epidemiológicos da
+localidade, pois a aplicação desta medida sem uma indicação precisa pode comprometer sobremaneira sua
+efi cácia. Quando indicada, a borrifação intradomiciliar deve ser feita com inseticidas de contato e longo
+efeito residual.
+O tratamento químico de espaços abertos deve ser indicado em situações especiais onde a densidade
+anofélica é bastante elevada e quando o tratamento químico domiciliar e manejo ambiental não for efi caz
+para a redução dos anofelinos. Nessa situação, a aplicação espacial de inseticida a Ultra Baixo Volume
+(UBV) e nebulização térmica (FOG ou fumacê) pode ser indicada, levando em consideração que é uma
+medida de alto custo, de baixa efetividade e produz impacto ecológico desfavorável. Seu uso deve ser bem
+avaliado e monitorado.
+O tratamento de criadouros é uma medida de uso limitado e deve ser usado quando não for possível
+a eliminação defi nitiva do criadouro. Para a sua indicação, deve-se levar em conta, principalmente na
+Amazônia, as características físicas, químicas e biológicas dos criadouros.
+Na avaliação entomológica, é importante considerar o vetor em sua fase imatura (larvas e pupas) e
+na fase adulta.
+Para o combate ao vetor na fase adulta há que se considerar:
+• densidade;
+• quando e onde picam;
+• hábitos de repouso;
+• suscetibilidade aos inseticidas.
+Na fase imatura é necessário:
+• caracterizar os criadouros e identifi car a espécie de anofelinos existentes;
+• mapear os criadouros.
+O comportamento das pessoas tem um papel igualmente importante na seleção das medidas a
+serem utilizadas para o controle da malária.
+Isso diz respeito aos fatores sociais que estão relacionados ao maior ou menor contato homem/vetor,
+determinando sobremaneira a dinâmica de transmissão da doença. Alguns desses fatores estão relacionados
+a seguir e devem ser criteriosamente analisados.
+• Tipo de habitação.
+• Distribuição dos casos de malária na localidade.
+• Uso de medidas de proteção individual.
+• Atividades crepusculares ou noturnas.
+• Deslocamentos humanos (migrações).
+• Tipo de ocupação.
+• Participação comunitária.
+44
+• Vias de acesso.
+• Educação e escolas.
+De forma resumida, são apresentados os principais métodos
+utilizados no controle da fase imatura do vetor.
+Ordenamento do meio, por meio de:
+• drenagem de criadouros;
+• aterro;
+• aumento do fl uxo da água;
+• limpeza da vegetação aquática;
+• uso de larvicidas químicos e biológicos;
+• borrifação intradomiciliar de efeito residual;
+• aplicação espacial por meio da termonebulização (FOG
+ou fumacê); e
+• aplicação a Ultra Baixo Volume (UBV).
+As aplicações espaciais de inseticidas devem ser utilizadas
+em áreas de alta incidência de malária, urbana ou aglomerados
+populacionais das áreas rurais, onde o uso fi ca restrito ao redor da
+casa, pressupondo que este seja o local de repouso do mosquito.
+Não se recomenda o uso dessa medida em áreas rurais onde
+as casas são dispersas, pois o impacto da medida é mínimo e não
+produzirá o efeito desejado. Esses métodos devem ser monitorados
+e avaliados regularmente. Além do mais, os equipamentos devem
+estar absolutamente calibrados.
+As medidas de proteção individual e familiar têm como
+fi nalidade proteger o indivíduo, sua família ou sua comunidade
+e leva em consideração as características das atividades humanas,
+mas, de um modo geral, os métodos mais indicados são:
+• uso do repelente;
+• uso de roupas e acessórios apropriados;
+• uso de mosquiteiros impregnados ou não com
+inseticidas;
+• telagem de portas e janelas das casas;
+• melhoria das habitações.
+7.3 Ações Educativas e Participação Comunitária
+O setor Saúde não pode, sozinho, melhorar a qualidade de
+vida das pessoas. Problemas ligados a saneamento, alimentação,
+produção econômica, escolarização e condições de trabalho
+constituem grandes difi culdades e só poderão encontrar soluções
+efetivas, a partir de decisões políticas e da integração de esforços
+de outros setores da sociedade. Pensar a saúde como prática social
+é o que se propõe devido à confi guração das relações entre os
+“atores sociais”, o que implica em reconhecer a possibilidade de
+45
+sua alteração na medida em que podemos intervir concretamente sobre os fatores multicausais da relação
+saúde/doença. Discutir com as pessoas, as famílias e as populações a história natural, real, das doenças
+que mais as afl igem, considerando todas as variáveis de causa e efeito que interferem na situação de saúde
+– função importante do setor Saúde, e fortemente ligado à área de Educação em Saúde. A educação passa
+a ser repensada como um processo capaz de desenvolver nas pessoas a consciência crítica das causas dos
+seus problemas e, ao mesmo tempo, criar prontidão para atuar no sentido de mudança.
+As ações educativas no controle da malária são de suma importância e devem ser buscadas e
+valorizadas permanentemente. Devem estar inseridas em todas as ações, de modo a garantir a efi ciência e
+a efi cácia das atividades desenvolvidas.
+Componentes como, reuniões, seminários, encontros, palestras, planejamento participativo,
+conferências e ofi cinas de educação em saúde e mobilização comunitária podem ser utilizados para o
+desenvolvimento de práticas educativas relativas ao controle da malária, como forma de trocar experiência,
+aprimorar idéias e avançar em novos conhecimentos de forma integrada.
+Mediante componentes educativos, a população busca melhores condições de vida a partir do
+conhecimento da realidade malárica em que ela vive e participa de:
+• discussão da situação de saúde de sua comunidade;
+• análise dos determinantes da doença; e
+• programação e execução de medidas que venham a melhorar a qualidade de vida das pessoas e
+da comunidade.
+A participação da comunidade e o desenvolvimento de ações de informação, educação e comunicação
+deverá produzir mudanças de condutas e hábitos da população, respeitada a sua identidade cultural e
+antropológica, capaz de melhorar a efi cácia das ações de controle da malária.
+46
+8 DIRETRIZES
+TÉCNICAS DO
+CONTROLE
+INTEGRADO DA
+MALÁRIA
+A Conferência Mundial de Amsterdã, em outubro de 1992,
+recomendou a adoção da estratégia de Controle Integrado da
+Malária. Os objetivos principais dessa estratégia são:
+• impedir a mortalidade por malária;
+• reduzir a morbidade e as perdas sociais e econômicas
+devidas à doença.
+Para o cumprimento dos objetivos indicados, fi cou defi nido
+alguns elementos fundamentais:
+1) diagnóstico precoce e tratamento imediato e adequado
+dos casos. Esse fundamento técnico visa prioritariamente
+a prevenir as mortes por malária, reduzir o aparecimento
+de formas graves da doença, reduzir o número de casos,
+além da redução da fonte de infecção e conseqüentemente
+redução da transmissão;
+2) planejamento e aplicação constante e permanente de
+medidas de prevenção e controle apropriados para os
+diferentes tipos de ocorrência da doença. Inclui também,
+nesse conjunto, a utilização de medidas antivetoriais, de
+forma seletiva, programadas e desenvolvidas de acordo
+com a indicação precisa das avaliações entomológicas;
+3) detecção precoce de epidemias e a aplicação de medidas
+efi cazes para o seu controle;
+4) detecção precoce, contenção e prevenção da reintrodução
+da endemia na área não-endêmica ou em outras áreas onde
+a transmissão da doença já tenha sido interrompida;
+5) sendo a malária uma doença dinâmica, é importante a
+reavaliação periódica e regular das situações maláricas
+existentes no Brasil, bem como, a atualização constante
+47
+do conhecimento técnico-científi co relacionado à malária, incluindo levantamento dos aspectos
+ecológicos, sociais e econômicos que determinam o aparecimento da doença.
+No entanto, para a implementação dessa estratégia é necessário:
+• existência de compromisso político no controle da malária em todas as esferas de governo;
+• existência de recursos humanos e fi nanceiros sufi cientes para o enfrentamento da luta contra a
+malária;
+• que as ações de controle da malária estejam integradas ao SUS, sendo suas atividades desenvolvidas
+em toda rede de serviços de saúde;
+• que a participação comunitária e mobilização social sejam componentes efetivos da luta contra
+a malária;
+• que o SUS, por meio do fortalecimento progressivo do Sistema Local de Saúde, possa:
+− identifi car, delimitar e caracterizar as distintas situações de transmissão entomo-epidemiológica
+existentes no país;
+− estabelecer os objetivos específi cos e os níveis de controle a serem perseguidos, em cada local,
+onde há transmissão de malária, conforme as características epidemiológicas e o potencial de
+resolução disponível;
+− estabelecer estratégias locais com sistemas de monitoramento e avaliação;
+− avaliar periodicamente o impacto das medidas de intervenção aplicadas em cada realidade
+epidemiológica, promovendo as devidas correções, se for o caso.
+As ações de controle da malária, na Amazônia, pressupõem a adoção de instrumentos ágeis e fl exíveis
+capazes de:
+• identifi car, delimitar e caracterizar as inúmeras situações de transmissão existentes;
+• estabelecer os níveis de controle e os objetivos a serem alcançados;
+• selecionar e aplicar medidas de controle ajustadas à realidade entomo-epidemiológica;
+• articular com outros setores públicos e/ou privados, a fi m de estabelecer controle sob fatores
+entomo-epidemiológicos que estão fora do alcance do setor Saúde.
+De um modo geral, constituem objetivos da ação de controle da malária na área endêmica:
+• reduzir a incidência da malária;
+• reduzir a mortalidade por malária;
+• reduzir as formas graves da doença;
+• reduzir a transmissão da malária em áreas urbanas nas capitais;
+• manter a ausência da transmissão da doença nos locais onde ela tiver sido interrompida.
+Para a área não-endêmica, onde a transmissão foi interrompida há algum tempo, mas ainda continua
+a presença de mosquitos vetores, a entrada de pessoas infectadas procedentes de áreas endêmicas podem
+reintroduzir a transmissão. Portanto, é necessária a manutenção nos serviços de saúde, de uma vigilância
+epidemiológica efi ciente, capaz de detectar e tratar precocemente qualquer evento inusitado relativo à
+malária. As medidas de controle consistem no diagnóstico precoce e tratamento oportuno e correto dos
+portadores do parasito de malária, com a fi nalidade de reduzir a fonte de infecção para os mosquitos, e na
+aplicação de medidas de controle de vetores mais adequadas à situação.
+Enfi m, para que esta estratégia seja efetivamente aplicada, é necessário que exista compromisso das
+diferentes esferas governamentais; que a luta contra a malária seja parte integrante do sistema de saúde
+e que se articule com os programas de desenvolvimento afi ns de outros setores; que as comunidades
+participem plenamente das atividades de controle e que se mobilizem os recursos humanos e fi nanceiros
+adequados. As atividades antimaláricas devem estar adaptadas às condições epidemiológicas locais e seus
+objetivos devem ser tecnicamente viáveis e fi nanceiramente sustentáveis.
+48
+REFERÊNCIAS
+BIBLIOGRÁFICAS
+BRASIL. Ministério da Saúde. Avanços para a municipalização plena da
+saúde: o que cabe ao município. Brasília: [Ministério da Saúde], 1994.
+______. Ministério da Saúde. Controle seletivo de vetores da malária.
+Brasília: [Ministério da Saúde], 1999.
+______. Ministério da Saúde. Descentralização das ações e serviços de
+saúde: a ousadia de cumprir e fazer cumprir a lei. Brasília: [Ministério
+da Saúde], 1993.
+______. Ministério da Saúde. Guia de vigilância epidemiológica.
+Brasília: [Ministério da Saúde], 1994.
+______. Ministério da Saúde. Incentivo à participação popular e controle
+social do SUS. Brasília: [Ministério da Saúde], 1993.
+______. Ministério da Saúde. Departamento de Atenção Básica. O trabalho
+do agente comunitário de saúde. Brasília: [Ministério da Saúde], 2000.
+______. Ministério da Saúde. Fundação Nacional de Saúde. Avanços na
+descentralização do controle de endemias. Belo Horizonte: [Ministério da
+Saúde], 1994. Relatório do Seminário.
+______. Ministério da Saúde. Fundação Nacional de Saúde.
+Diagnóstico e tratamento no controle da malária: manual para pessoal de
+nível médio. Brasília: [Ministério da Saúde], 1995.
+______. Ministério da Saúde. Fundação Nacional de Saúde. Diretrizes
+para o controle de malária no Brasil. Brasília: [Ministério da Saúde], 1993.
+______. Ministério da Saúde. Fundação Nacional de Saúde. Manual de
+terapêutica de malária. Brasília: [Ministério da Saúde], 1996.
+______. Ministério da Saúde. Fundação Nacional de Saúde. Manual de
+terapêutica de malária. 6. ed. rev. Brasília, 2001.
+______. Ministério da Saúde. Secretaria de Assistência à Saúde;
+Coordenação de Saúde Comunitária – Saúde da Família. Uma
+estratégia para reorientação do modelo assistencial. Brasília: [Ministério da
+Saúde], 1997.
+______. Ministério da Saúde. Superintendência de Campanha de
+Saúde Pública. Malária: manual do colaborador voluntário. Brasília:
+[Ministério da Saúde], 1986.
+CÁRDENAS, G. H. Fatores determinantes dos níveis endêmicos atuais da
+malária. Brasília: [s.n.], 1994. Relatório do Grupo Técnico Assessor da
+OPS/OMS.
+49
+PARÁ (Estado). Secretaria-Executiva de Saúde Pública. Diretrizes técnicas do programa de controle da malária no
+Estado do Pará. [S.l.: s.n.], 1994.
+______. Secretaria-Executiva de Saúde Pública. Núcleo Estadual de Endemias. Manual do agente comunitário de
+saúde. Belém: [s.n.], 2000.
+GERÊNCIA TÉCNICA DE MALÁRIA. Grupo Técnico Assessor em Malária da OPS; OMS. Projeto para
+controle da malária nos estados do Acre, Amapá, Amazonas, Pará, Maranhão, Rondônia, Roraima e Tocantins. [S.l.:
+s.n.], 1993.
+INSTITUTO BRASILEIRO DE ADMINISTRAÇÃO MUNICIPAL À SAÚDE NO MUNICÍPIO.
+Organização e Gestão. Rio de Janeiro: [s.n.], 1992.
+LEÃO, R. N. Q. Doenças infecciosas e parasitárias: enfoque amazônico – 645-670. Belém: [s.n.], 1997.
+MARQUES, A. C. Situação atual do controle da malária no Brasil: relatório da gerência técnica de malária.
+Brasília: [s.n.], 1993.
+MARQUES, A. C.; GUTIERREZ H. C. Combate à malária no Brasil: evolução situação e perspectivas. Revista
+da Sociedade Brasileira de Medicina Tropical, [S.l.], n. 27, p. 91-108, 1994. Suplemento 3.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. Tratamento da malária grave complicada: condutas práticas. 2 ed.
+Brasília: [Ministério da Saúde], 1995. Versão adaptada.
+ORGANIZACIÓN PANAMERICANA DE LA SALUD; ORGANIZACIÓN MUNDIAL DE LA SALUD.
+Diagnóstico de malária. Publicación científi ca, [S.l.], n. 512, 1998.
+WORLD HEALTH ORGANIZATION. Global malaria control strategy. In: MINISTERIAL CONFERENCE
+ON MALARIA, 1992, Amsterdam. Anais... Geneva: WHO, 1992. CTD/MCM/92.3.
+50
+
+A coleção institucional do Ministério da Saúde pode ser acessada
+na Biblioteca Virtual em Saúde do Ministério da Saúde:
+http://www.saude.gov.br/bvs
+O conteúdo desta e de outras obras da Editora do Ministério da Saúde
+pode ser acessado na página:
+http://www.saude.gov.br/editora
+EDITORA MS
+Coordenação-Geral de Documentação e Informação/SAA/SE
+MINISTÉRIO DA SAÚDE
+(Normalização, revisão, editoração, impressão e acabamento)
+SIA, trecho 4, lotes 540/610 – CEP: 71200-040
+Telefone: (61) 3233-2020 Fax: (61) 3233-9558
+E-mail: editora.ms@saude.gov.br
+Home page: http://www.saude.gov.br/editora
+Brasília – DF, dezembro de 2006
+OS 0869/2006

@@ -1,0 +1,282 @@
+23/05/2025, 19:16 SEI/MS - 0047243281 - Nota Técnica Conjunta
+Ministério da Saúde
+Secretaria de Vigilância em Saúde e Ambiente
+Departamento do Programa Nacional de Imunizações
+NOTA TÉCNICA CONJUNTA Nº 165/2025-DPNI/SVSA/MS
+Revoga a Nota Técnica Nº 92/2024 - DPNI/SVSA/MS e atualiza as orientações sobre
+o tratamento, quimioprofilaxia e medidas de prevenção e controle da coqueluche.
+1. ASSUNTO
+1.1. Revoga a Nota Técnica Nº 92/2024 - DPNI/SVSA/MS e atualiza as orientações sobre o tratamento, quimioprofilaxia e medidas de prevenção e controle da coqueluche
+descritas no Guia de Vigilância em Saúde - volume 1, 6ª edição - revisada.
+2. ANÁLISE
+2.1. Os antibióticos de primeira linha, da classe dos macrolídeos (azitromicina, claritromicina e eritromicina), têm sido efetivos na erradicação da bactéria Bordetella
+pertussis da orofaringe e vêm sendo recomendados para o tratamento de casos (suspeitos ou confirmados) de coqueluche. Quando administrados durante a fase catarral, podem
+amenizar os sinais e sintomas da doença, sendo indicados antes que os resultados dos testes laboratoriais sejam recebidos.
+2.2. A azitromicina é o antibiótico de primeira (1ª) escolha apropriado para o tratamento da coqueluche, devendo ser administrado durante cinco (5) dias (Alvarez; Godoy;
+Plans-Rubio, 2020). Os antibióticos de segunda (2ª) e terceira (3ª) escola para o tratamento são a claritromicina e eritromicina, respectivamente (Quadro 1).
+2.3. Além do tratamento, o Ministério da Saúde indica a quimioprofilaxia pós-exposição (QPE) para os contatos próximos de casos suspeitos ou confirmados que se
+enquadram na definição de contatos prioritários (Quadro 2) sendo, portanto, elegíveis para receber a QPE, utilizando os mesmos antibióticos e ordem de escolha acima.
+2.4. O sulfametoxazol-trimetoprim (SMZ-TMP) é uma alternativa para pacientes com mais de dois (2) meses de idade que podem não tolerar macrolídeos, mas são
+limitados os estudos avaliando o SMZ-TMP como tratamento para a coqueluche (Quadro 1). Vale lembrar que penicilinas e cefalosporinas não são eficazes no tratamento contra a
+Bordetella pertussis.
+Nota: Os medicamentos dispostos no Quadro 1 constam no Componente Básico e Estratégico da Assistência Farmacêutica (CBAF), conforme Relação Nacional de Medicamentos
+Essenciais (Rename) - 2022, disponível pelo link: https://www.gov.br/saude/pt-br/composicao/sectics/daf/rename/20210367-rename-2022_final.pdf. Portanto, são distribuídos
+gratuitamente pelo Sistema Único de Saúde (SUS).
+Quadro 1. Esquemas terapêuticos e quimioprofiláticos da coqueluche.
+Tratamento e profilaxia recomendados Tratamento alternativo
+Idade Azitromicinaa,b Claritromicina Eritromicina Sulfametoxazol (SMZ)-
+(1ª escolha) (2ª escolha) (3ª escolha) Trimetoprim (TMP)c
+10 mg/kg/dia em dose 40 mg/kg/dia em 4 doses Contraindicado em menores
+< 1 mês Não recomendado
+única diária por 5 dias fracionadas, por 14 dias de 2 meses
+Para bebês com 2 meses ou
+15 mg/kg/dia em 2
+10 mg/kg/dia em dose 40 mg/kg/dia em 4 doses mais: SMZ 40 mg/kg/dia e
+1 a 5 meses doses fracionadas, por 7
+única diária por 5 dias fracionadas, por 14 dias TMP, 8 mg/kg/dia em 2 doses
+dias
+por 14 dias
+10 mg/kg como dose única 15 mg/kg/dia em 2 40 mg/kg/dia em 4 doses SMZ, 40 mg/kg/dia e TMP, 8
+6 meses a menores de
+no 1º dia, seguido de 5 doses fracionadas, por 7 fracionadas, por 7 a 14 dias mg/kg/dia; em 2 doses/dia
+12 anos
+mg/kg/dia, do 2º ao 5º dia dias (máximo de 1 g/dia) (máximo 2 g/dia) por 14 dias
+Adolescentes com
+Administrar 500 mg em 1
+idade igual ou maior a Administrar 1 g/dia em 2 TMP, 320 mg/dia; SMZ, 1600
+dose no 1º dia, e 250 mgd 2 g/dia em 4 doses
+12 anos ou com peso doses fracionadas, por 7 mg/dia em 2 doses
+em 1 dose ao dia, do 2º ao fracionadas, por 14 dias
+corporal ≥ 45 kg e dias fracionadas por 14 dias
+5º dia
+adultos
+Fonte: DPNI/SVSA/MS.
+a A azitromicina é o medicamento de primeira escolha para o tratamento e quimioprofilaxia pós - exposição (QPE) da coqueluche.
+b A azitromicina deve ser usada com cautela em pessoas com intervalo QT prolongado (em exames de eletrocardiograma) e na presença de certas condições pró-arrítmicas.
+c SMZ-TMP é o medicamento alternativo caso haja contraindicação de azitromicina, claritromicina e eritromicina.
+d Havendo indisponibilidade de azitromicina de 250mg, utilizar o esquema de 500mg em 1 dose ao dia por 5 dias.
+Nota: Os macrolídeos e a SMZ-TMP são classificados, quanto ao uso na gravidez, nas seguintes categorias: Azitromicina: B, Claritromicina: C, Eritromicina: B e SMZ e TMP: C (Temming L.A., 2016; Keskin-Arslan E, 2023).
+Considerando a situação gestacional e os critérios de antibioticoterapia neste grupo, essa indicação deve ser realizada com criteriosa avaliação do médico assistente quanto ao benefício versus risco.
+ATENÇÃO
+Recomenda-se às Secretarias Estaduais e Municipais de Saúde que mantenham um estoque de pelo menos um dos antibióticos recomendados no
+Quadro 1, a fim de assegurar o adequado esquema terapêutico dos casos (suspeitos e confirmados) e da QPE dos contatos próximos elegíveis (Quadro
+2), para eventuais necessidades decorrentes do aumento inesperado de casos de coqueluche.
+3. MEDIDAS DE PREVENÇÃO E CONTROLE DA COQUELUCHE
+3.1. Frente à notificação de um casos suspeito ou confirmado de coqueluche, a vigilância epidemiológica deve avaliar se o tratamento com antibióticos recomendados pelo
+Ministério da Saúde foi realizado ou iniciado. Caso não tenha sido, faz-se necessário que o paciente seja tratado adequadamente conforme as recomendações presentes no Quadro
+1.
+3.2. O mesmo cuidado precisa ser aplicado aos contatos próximos, pois essas pessoas têm maior probabilidade de evoluir com gravidade e de transmitir a doença a
+vulneráveis, sendo então elegíveis para receber a QPE.
+3.3. Como medida de saúde pública, o tratamento e a QPE visam controlar a transmissão da bactéria causadora da coqueluche. Por isso, recomenda-se que as medidas a
+seguir sejam implementadas a partir da suspeição.
+3.4. Medidas de prevenção e controle não farmacológicas:
+3.4.1. De maneira geral, recomenda-se que as pessoas com suspeita ou confirmação de coqueluche:
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=50716561&infra_si… 1/5
+23/05/2025, 19:16 SEI/MS - 0047243281 - Nota Técnica Conjunta
+busquem atendimento em um serviço de saúde;
+evitem contato com mulheres grávidas, bebês e crianças pequenas, até cinco (5) dias após o início do uso de antibiótico ou até 21 dias do início da tosse, caso não
+tenham recebido tratamento;
+usem máscaras cirúrgicas em ambientes fechados até cinco (5) dias após o início do antibiótico ou até 21 dias do início da tosse, caso não tenham recebido
+tratamento.
+3.4.2. Isolamento do caso suspeito ou confirmado
+Paciente hospitalizado e profissionais de saúde, recomenda-se:
+a adoção de precauções respiratórias, em quarto individual com a porta fechada, por um período de cinco (5) dias após o início do antibiótico, a fim de
+reduzir o risco de transmissão da doença para vulneráveis;
+se houver necessidade de realização de exames fora do quarto, recomenda-se que o paciente e seu cuidador utilizem máscara cirúrgica;
+todas as pessoas que circulam no quarto, incluindo os profissionais de saúde (médicos, equipe de enfermagem, equipes de laboratório entre outros), usem
+máscara cirúrgica e lavem as mãos após o contato com o paciente, depois de retirar luvas, ou após tocar em qualquer material utilizado pelo paciente.
+Paciente não hospitalizado:
+os pacientes com coqueluche não hospitalizados devem ser afastados de suas atividades habituais (creche, escola, trabalho, etc.) por pelo menos cinco (5)
+dias após o início do tratamento com antibióticos ou por até 21 dias após o início da tosse nos casos não submetidos à antibioticoterapia.
+3.4.3. Rastreamento de todos os contatos e monitoramento de seus sinais e sintomas (OMS, 2018)
+No contexto da vigilância epidemiológica, o rastreamento de contatos se refere à identificação de todos os indivíduos que tiveram contato com um (1) ou mais
+casos suspeitos ou confirmados de coqueluche.
+Considera-se como contato de coqueluche toda pessoa de convivência próxima e prolongada (a exposição deve ter ocorrido em uma distância de cerca de até um
+(1) metro e por mais de uma (1) hora, em ambiente fechado), com um (1) ou mais casos suspeitos ou confirmados da doença (fonte de infecção) ou quando houve
+contato direto com suas secreções (ao tossir, espirrar, compartilhar utensílios etc.), no período de 21 dias a partir do início da tosse (do caso índice). São exemplos
+de contatos próximos, pessoas que coabitam no mesmo ambiente, como domicílio, instituição de longa permanência como creche, escola, universidade, trabalho,
+cela etc.
+Os contatos próximos precisam ser avaliados, o mais precoce possível, quanto a sua vulnerabilidade (potencial para evoluir com gravidade), bem como ao risco de
+transmitir a coqueluche para vulneráveis.
+São considerados contatos próximos prioritários e elegíveis para receber a QPE, os grupos descritos no Quadro 2.
+Todos os contatos próximos, independentemente de elegíveis ou não para receber a QPE, devem ser monitorados por 21 dias a partir da última exposição ao caso
+de coqueluche, a fim de avaliar a manifestação de sinais e sintomas compatíveis com coqueluche.
+3.4.4. Busca ativa de outros casos suspeitos ou confirmados
+A busca ativa tem por objetivos detectar novos casos suspeitos que não tenham sido identificados e/ou notificados pelos serviços de saúde, determinar o tamanho
+do problema e implementar ações para a adequada investigação, monitorar casos e/ou surtos e adotar medidas de prevenção e controle.
+Para a identificação de possíveis novos casos suspeitos, deve-se realizar a busca ativa institucional, laboratorial e comunitária.
+Busca ativa institucional: é realizada por meio da revisão dos registros de atendimentos em unidades de saúde e hospitalares etc., a fim de identificar
+possíveis casos suspeitos de coqueluche não notificados.
+Busca ativa laboratorial: é conduzida por meio do levantamento de casos registrados no Gerenciador de Ambiente Laboratorial (GAL) e/ou nos Laboratórios
+Centrais de Saúde Pública (Lacen), a fim de certificar que os casos registrados no GAL com solicitação de amostras foram notificados no Sinan.
+Busca ativa comunitária: visa identificar precocemente casos suspeitos de coqueluche entre vizinhos, creches, escolas etc., com a finalidade de notificar e
+adotar as medidas de prevenção e controle.
+3.5. Medidas de prevenção e controle farmacológicas:
+3.5.1. Quimioprofilaxia pós-exposição (QPE)
+A QPE é uma medida importante que visa eliminar a bactéria Bordetella pertussis da orofaringe de contatos próximos e prevenir a ocorrência de infecção, tendo papel
+relevante no controle da transmissão da doença.
+O Ministério da Saúde recomenda que a QPE seja realizada para contatos próximos dos grupos prioritários e elegíveis (Quadro 2), pois eles podem desenvolver a
+forma grave da doença ou transmitir a doença para pessoas vulneráveis (Quadro 2).
+O esquema medicamentoso da QPE para contatos prioritários e elegíveis é o mesmo preconizado para o tratamento dos casos (Quadro 1), e deve ser realizado o mais
+rápido possível, no período de até 21 dias após a exposição a caso(s) suspeito(s) que apresentem tosse ou caso(s) confirmado(s).
+Se o contato foi exposto a mais de um caso suspeito ou confirmado que esteja apresentando tosse, considerar a data da última exposição (ou exposição mais recente)
+para a realização da QPE e para o monitoramento de sinais e sintomas.
+Quadro 2. Contatos próximos prioritários e elegíveis para quimioprofilaxia pós-exposição à coqueluche.
+Grupo 1. Pessoas vulneráveis: são aquelas que apresentam risco aumentado para formas graves e óbitos pela doença e tiveram contato com casos
+suspeitos ou confirmados de coqueluche.
+crianças com idade inferior a 1 ano, independentemente da situação vacinal. Ressalta-se que esta recomendação visa reforçar a prevenção de
+possível ocorrência de infecções graves, complicações e óbitos neste grupo etário, uma vez que a maior prevalência de complicações e óbitos
+ocorre entre os menores de 1 ano de vida; e
+pessoas com condições clínicas pré-existentes que possam ser exacerbadas pela coqueluche, como por exemplo, imunocomprometidas,
+indivíduos com asma moderada ou grave e outras condições clínicas pulmonares.
+Grupo 2. Contatos domiciliares: são pessoas que tiveram contato com casos suspeitos ou confirmados de coqueluche e que residem ou convivem
+no mesmo ambiente de um vulnerável (vide Grupo 1):
+membros da família, babás, cuidadores, trabalhadores domésticos, ou outros indivíduos que convivem no mesmo ambiente ou passam a noite
+no mesmo quarto, como pessoas institucionalizadas e trabalhadores que dormem no mesmo espaço físico. Esse grupo possui recomendação de
+QPE independentemente da situação vacinal.
+Grupo 3. Pessoas com elevado potencial de transmitir a coqueluche para vulneráveis e que tenham tido contato com casos suspeitos ou
+confirmados de coqueluche (vide Grupo 1):
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=50716561&infra_si… 2/5
+23/05/2025, 19:16 SEI/MS - 0047243281 - Nota Técnica Conjunta
+gestantes no último trimestre de gestação, a partir da 32ª semana gestacional, não vacinadas na gestação atual, em razão do maior risco de
+transmissão para o recém-nascido (que não recebeu os anticorpos maternos);
+profissionais de saúde que prestam assistência a indivíduos vulneráveis como descrito no Grupo 1 (mesmo se vacinados);
+todos aqueles que têm contato próximo (convivem ou trabalham) em ambientes como, creches, escolas maternais, que atendem bebês
+menores de um ano ou com condições clínicas pré-existentes.
+Fonte: DPNI/SVSA/MS
+3.5.2. Algumas observações a respeito da QPE:
+Os contatos prioritários e elegíveis para a QPE (Quadro 2), durante ou após a finalização do esquema prescrito, não necessitam ser afastados das suas atividades
+cotidianas (ex: creches, escolas, trabalho). Caso apresentem tosse, devem ser considerados como caso suspeito.
+Os outros contatos próximos que não se enquadram nos descritos no Quadro 2, não são elegíveis para receber a QPE e podem manter suas atividades de rotina.
+Porém, precisam ser monitorados para avaliar se irão desenvolver sinais e sintomas da coqueluche.
+O uso da QPE deve ser racional e de acordo com os esquemas recomendados no Quadro 2.
+Não se recomenda repetir ciclos de QPE para um mesmo contato. Nas situações em que um contato realizou a QPE recentemente e teve uma nova exposição a
+casos suspeitos ou confirmados de coqueluche, ao invés de repetir um ciclo de antibióticos, estes devem ser monitorados quanto o aparecimento de sinais e
+sintomas de coqueluche por 21 dias. Caso apresente sinais e sintomas compatíveis com caso suspeito, deve ser notificado, investigado e receber o tratamento.
+3.5.3. Vacinação
+3.5.3.1. A vacinação é reconhecida como a estratégia fundamental para a prevenção da coqueluche na população, reduzindo a gravidade da doença e a mortalidade,
+especialmente nos grupos de maior risco. Diante disso, ressalta-se a importância da vacinação dos seguintes grupos prioritários:
+Vacinação de Gestantes:
+A prevenção da coqueluche deve ser iniciada ainda no período gestacional, por meio da administração da vacina tríplice bacteriana acelular (dTpa). Essa imunização
+deve ser realizada em todas as gestações, a partir da 20ª semana, independentemente do histórico vacinal da gestante ou do fato de ter sido vacinada em gestações anteriores. A
+vacinação nesse período tem o propósito de conferir imunização passiva ao recém-nascido, por meio da transferência transplacentária de anticorpos maternos, garantindo proteção
+até os primeiros dois meses de vida, quando se inicia o esquema vacinal da criança (BRASIL, 2024b; UK, 2024; CDC, 2024).
+Vacinação de Crianças:
+O esquema vacinal para crianças menores de um ano de idade compreende três doses da vacina Penta, administradas aos 2, 4 e 6 meses de vida. Adicionalmente, são
+recomendados dois reforços com a vacina DTP, sendo o primeiro aos 15 meses e o segundo aos 4 anos de idade. Além das gestantes e das crianças menores de 7 anos de idade, a
+vacinação contra a coqueluche é indicada para outros grupos prioritários, como profissionais de saúde. Informações detalhadas sobre os imunizantes que contêm o componente
+contra a coqueluche (Penta, DTP, dTpa), incluindo públicos-alvo, esquemas vacinais e contraindicações, podem ser consultadas no Calendário Nacional de Vacinação, disponível no
+portal oficial do Ministério da Saúde: https://www.gov.br/saude/pt-br/vacinacao.
+Adiamento da Vacinação contra a Coqueluche:
+Considerando o período médio de incubação da coqueluche, que varia entre 5 e 10 dias, podendo alcançar até 21 dias (BRASIL, 2024c), recomenda-se que casos de
+coqueluche ou indivíduos que tiveram contato com casos confirmados da doença e que sejam elegíveis para a vacinação recebam a vacina com um intervalo mínimo de 15 dias após
+a conclusão da antibioticoterapia ou da QPE. Nos casos em que contatos apresentem sinais e sintomas característicos da coqueluche, tornando-se suspeitos da doença, a vacinação
+deverá ser postergada até a obtenção do resultado laboratorial ou a finalização da investigação clínica. Caso a suspeita seja descartada ou não confirmada, a vacinação poderá ser
+administrada conforme as recomendações vigentes.
+OBSERVAÇÃO
+Conforme reunião da Câmara Técnica de Assessoramento em Imunizações (CTAI) em novembro de 2024, evidências científicas demonstram que a vacina dTpa e as demais vacinas
+acelulares, como qualquer vacina de pertussis acelular, não impedem a colonização da orofaringe pela Bordetella pertussis e não modifica a dinâmica populacional da doença, como
+ocorre com as vacinas de células inteiras. Portanto, a vacinação de reforço dos adolescentes não impactaria diretamente na incidência de casos, hospitalização e redução dos óbitos
+em menores de um (1) ano de idade, grupo em que tem sido registrado os óbitos pela doença em 2024 (CTAI, 2024). Ainda, nos países que introduziram dose de reforço para os
+adolescentes, não se observou a redução da incidência da doença em menores de um (1) ano de idade. Concluindo, de forma consensuada pelos membros, pela não introdução da
+dose de reforço em adolescentes no Brasil neste momento.
+4. FLUXOGRAMA DAS MEDIDAS DE PREVENÇÃO E CONTROLE DA COQUELUCHE
+4.1. A Figura 1 resume as etapas a serem seguidas frente a casos suspeitos de coqueluche e seus contatos próximos.
+Figura 1. Fluxograma das medidas de prevenção e controle de casos suspeitos ou confirmados de coqueluche e contatos próximos.
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=50716561&infra_si… 3/5
+23/05/2025, 19:16 SEI/MS - 0047243281 - Nota Técnica Conjunta
+5. CONSIDERAÇÕES FINAIS
+5.1. Considerando a orientação da Câmara Técnica de Assessoramento em Imunizações (CTAI) em reunião realizada em novembro de 2024, revoga-se a recomendação de
+avaliação quanto à vacinação seletiva com dTpa para contatos de coqueluche a partir de 7 anos de idade, previamente adotada com a publicação da Nota Técnica nº 92/2024 -
+DPNI/SVSA/MS.
+5.2. Por oportuno, esta Nota Técnica também atualiza as seguintes recomendações vigente no capítulo de coqueluche do Guia de Vigilância em Saúde - volume 1, 6ª
+edição - revisada:
+Alteração da terminologia de comunicantes, passando a ser adotado o termo “contatos próximos”;
+Atualização da recomendação da QPE, com a definição de grupos prioritários e elegíveis;
+Definição da estratégia de rastreamento e monitoramento de contatos de casos suspeitos ou confirmados de coqueluche;
+Atualização das medidas de prevenção e controle não farmacológicas da coqueluche, em relação ao uso de máscara, isolamento de casos suspeitos e confirmados
+e afastamento de atividades de rotina.
+5.3. Ressalta-se ainda a importância do uso racional dos antibióticos da classe dos macrolídeos, de modo a evitar a resistência antimicrobiana, limitando o seu uso aos
+grupos prioritários e elegíveis, conforme descritos nesta Nota Técnica.
+5.4. Diante do exposto, esta Nota Técnica passa a ter vigência a partir de sua publicação, revogando a Nota Técnica nº 92/2024 - DPNI/SVSA/MS.
+REFERÊNCIAS
+ALVAREZ, J.; GODOY, P.; PLANS-RUBIO, P. Azithromycin to prevent pertussis in household contacts, Catalonia and Navarre, Spain, 2012–2013. Emerging Infectious Diseases, v. 26, n.
+11, nov. 2020. Disponível em: http://www.cdc.gov/eid. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde. Departamento de Assistência Farmacêutica e Insumos Estratégicos.
+Relação Nacional de Medicamentos Essenciais. Brasília, DF: Ministério da Saúde, 2022. Disponível em: https://www.gov.br/saude/pt-br/composicao/sectics/daf/rename/20210367-
+rename-2022_final.pdf. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Imunização e Doenças Imunopreveníveis. Coordenação-Geral de Vigilância das
+Doenças Imunopreveníveis. Nota Técnica Nº 92/2024 - DPNI/SVSA/MS. Quimioprofilaxia pós-exposição (QPE) e vacinação seletiva de comunicantes de caso(s) suspeito(s) ou
+confirmado(s) de coqueluche. Brasília, DF: Ministério da Saúde, 2024a. Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-
+tecnica-no-92-2024-dpni-svsa-ms.pdf. Acesso em: 20 dez. 2024.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Imunização e Doenças Imunopreveníveis. Coordenação-Geral de Vigilância das
+Doenças Imunopreveníveis. Nota Técnica Conjunta nº 70/2024 - DPNI/SVSA/MS. Alerta sobre o aumento global de casos de coqueluche. Brasília, DF: Ministério da Saúde, 2024b.
+Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-70-2024-dpni-svsa-ms.pdf/view. Acesso em: 28
+jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Ações Estratégicas de Epidemiologia e Vigilância em Saúde e Ambiente. Guia de
+vigilância em saúde: volume 1 versão revisada [recurso eletrônico]. 6. ed. rev. Brasília, DF: Ministério da Saúde, 2024c. Disponível em: https://www.gov.br/saude/pt-br/centrais-de-
+conteudo/publicacoes/svsa/vigilancia/guia-de-vigilancia-em-saude-volume-1-6a-edicao/view. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento do Programa Nacional de Imunizações. Coordenação-Geral de Incorporação Científica e
+Imunização. Instrução Normativa do Calendário Nacional de Vacinação – 2024. Disponível em: https://www.gov.br/saude/pt-br/vacinacao/publicacoes/instrucao-normativa-
+calendario-nacional-de-vacinacao-2024.pdf. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento do Programa Nacional de Imunizações. Manual de normas e procedimentos para
+vacinação [recurso eletrônico]. 2. ed. rev. Brasília, DF: Ministério da Saúde, 2024. 294 p. Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-
+manuais/2024/manual-de-normas-e-procedimentos-para-vacinacao.pdf. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Imunizações e Doenças Imunopreveníveis. Manual dos Centros de Referência para
+Imunobiológicos Especiais. 6. ed. Brasília, DF: Ministério da Saúde, 2013. 178 p. Disponível em: http://www.gov.br/saude/pt-br/vacinacao/arquivos/manual-dos-centros-de-
+referencia-para-imunobiologicos-especiais_6a-edicao_2023.pdf. Acesso em: 28 jan. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Imunizações e Doenças Transmissíveis. Manual de vigilância epidemiológica de eventos adversos
+pós-vacinação. 4. ed. atual. Brasília, DF: Ministério da Saúde, 2021. 340 p. Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vacinacao-
+imunizacao-pni/manual_eventos-_adversos_pos_vacinacao_4ed_atualizada.pdf. Acesso em: 28 jan. 2025.
+CÂMARA TÉCNICA DE ASSESSORAMENTO EM IMUNIZAÇÕES - CTAI. Ata da Reunião da Câmara Técnica de Assessoramento em Imunização - 01 de novembro de 2024. Brasília, DF:
+Ministério da Saúde, 2024. Disponível em: https://www.gov.br/saude/pt-br/vacinacao/ctai/atas-de-reunioes/ata-reuniao-da-camara-tecnica-de-assessoramento-em-imunizacoes-
+ctai.pdf/view. Acesso em: 10 mar. 2025.
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). Whooping cough (pertussis). Postexposure Antimicrobial Prophylaxis [Internet]. [Access June 28, 2024]. Disponível
+em: https://www.cdc.gov/pertussis/php/postexposure-prophylaxis/index.html. Acesso em: 28 jan. 2025.
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=50716561&infra_si… 4/5
+23/05/2025, 19:16 SEI/MS - 0047243281 - Nota Técnica Conjunta
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). Whooping cough (pertussis). Clinical care [Internet]. Disponível em: https://www.cdc.gov/pertussis/hcp/clinical-
+care/index.html. Acesso em: 11 mar. 2025.
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). Recommended antimicrobial agents for the treatment and postexposure prophylaxis of pertussis: 2005 CDC
+guidelines. MMWR, v. 54, n. RR-14, 2005. Disponível em: https://www.cdc.gov/mmwr/pdf/rr/rr5414.pdf. Acesso em: 11 mar. 2025.
+COIA, J. E. et al. Guidance on the use of respiratory and facial protection equipment. Journal of Hospital Infection, v. 85, n. 3, p. 170–182, nov. 2013. DOI: 10.1016/j.jhin.2013.06.020.
+Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114842/. Acesso em: 9 abr. 2025.
+DODHIA, H.; CROWCROFT, S.; BRAMLEY, J.; MILLER, E. UK guidelines for use of erythromycin chemoprophylaxis in persons exposed to pertussis. Journal of Public Health Medicine, v.
+24, n. 3, p. 200–206, set. 2002. DOI: 10.1093/pubmed/24.3.200. PMID: 12831090.
+FOOD AND DRUG ADMINISTRATION (FDA). FDA Drug Safety Communication: Azithromycin (Zithromax or Zmax) and the risk of potentially fatal heart rhythms, 2013. Disponível
+em: https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-azithromycin-zithromax-or-zmax-and-risk-potentially-fatal-heart. Acesso em: 28 jan.
+2025.
+KESKIN-ARSLAN, E.; EROL, H.; UYSAL, N.; et al. Pregnancy outcomes following maternal macrolide use: a systematic review and meta-analysis. Reproductive Toxicology, v. 115, p. 124–
+146, jan. 2023. DOI: 10.1016/j.reprotox.2022.12.003. PMID: 36549458. Disponível em: https://pubmed.ncbi.nlm.nih.gov/36549458/. Acesso em: 29 jan. 2025.
+MCNAMARA, L. A.; SKOFF, T.; FAULKNER, A.; et al. Reduced severity of pertussis in persons with age-appropriate pertussis vaccination – United States, 2010–2012. Clinical Infectious
+Diseases, v. 65, n. 5, p. 811–818, set. 2017. DOI: 10.1093/cid/cix421. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC5755965/. Acesso em: 11 mar. 2025.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Go.Data: a tool for outbreak investigation. 2018. Disponível em: https://www.paho.org/pt/news/2-3-2020-tool-investigate-outbreaks-
+godata-rolled-out-covid-19-latin-america. Acesso em: 19 fev. 2025.
+SCHWARTZ, K. L.; KWONG, J. C.; DEEKS, S. L.; et al. Effectiveness of pertussis vaccination and duration of immunity. Canadian Medical Association Journal, v. 188, n. 16, p. E399–E406,
+nov. 2016. DOI: 10.1503/cmaj.160193. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC5088088/. Acesso em: 11 mar. 2025.
+UK HEALTH SECURITY AGENCY. Guidance on the management of cases of pertussis in England during the re-emergence of pertussis in 2024. Londres, 2024. 26 p. Atualizado em: ago.
+2024. Disponível em: https://assets.publishing.service.gov.uk/media/66c4a642808b8c0aa08fa7e7/UKHSA-guidance-on-the-management-of-cases-of-pertussis-during-high-activity-
+august-2024.pdf. Acesso em: 28 jan. 2025.
+TEMMING, L. A.; CAHILL, A. G.; RILEY, L. E. Clinical management of medications in pregnancy and lactation. American Journal of Obstetrics and Gynecology, v. 214, n. 6, p. 698–702,
+jun. 2016. DOI: 10.1016/j.ajog.2016.01.187. Acesso em: 28 jan. 2025.
+MARCELO YOSHITO WADA
+Coordenador-Geral de Vigilância das Doenças Imunopreveníveis - Substituto
+ANA CATARINA DE MELO ARAUJO
+Coordenadora-Geral de Incorporação Científica e Imunização
+EDER GATTI FERNANDES
+Diretor do Departamento do Programa Nacional de Imunizações
+Documento assinado eletronicamente por Eder Gatti Fernandes, Diretor(a) do Departamento do Programa Nacional de Imunizações, em 28/04/2025, às 16:27, conforme horário
+oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+Documento assinado eletronicamente por Marcelo Yoshito Wada, Coordenador(a)-Geral de Vigilância das Doenças Imunopreveníveis substituto(a), em 28/04/2025, às 17:22,
+conforme horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+Documento assinado eletronicamente por Ana Catarina de Melo Araujo, Coordenador(a)-Geral de Incorporação Científica e Imunização, em 29/04/2025, às 09:13, conforme horário
+oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+Documento assinado eletronicamente por Fabiano Geraldo Pimenta Junior, Secretário(a) de Vigilância em Saúde e Ambiente substituto(a), em 23/05/2025, às 15:35, conforme
+horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+A autenticidade deste documento pode ser conferida no site http://sei.saude.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando
+o código verificador 0047243281 e o código CRC FB3F223F.
+Referência: Processo nº 25000.096897/2024-75 SEI nº 0047243281
+Departamento do Programa Nacional de Imunizações - DPNI
+SRTVN 702, Via W5 Norte Edifício PO700, 6º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+Site - saude.gov.br
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=50716561&infra_si… 5/5

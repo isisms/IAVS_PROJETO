@@ -1,0 +1,378 @@
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão Vetorial
+NOTA TÉCNICA Nº 138/2022-CGZV/DEIDT/SVS/MS
+Reforça estratégias de
+detecção, monitoramento e
+resposta para o
+enfrentamento da
+leptospirose durante
+inundações e situações de
+desastres naturais.
+1. RELATÓRIO
+1.1. Esta nota técnica destina-se a reforçar as estratégias de detecção,
+monitoramento e resposta para o enfrentamento da leptospirose, que é uma
+doença infecciosa febril de início abrupto, cujo agente etiológico é uma bactéria
+do gênero leptospira, sendo endêmica no Brasil e tornando-se epidêmica em
+períodos chuvosos, principalmente nas capitais e áreas metropolitanas, devido
+às enchentes associadas à aglomeração populacional de baixa renda, condições
+inadequadas de saneamento e alta infestação de roedores.
+1.2. Diante disso, a Coordenação Geral de Vigilância de Zoonoses e
+Doenças de Transmissão Vetorial, do Departamento de Imunização e Doenças
+Transmissíveis (CGZV/DEIDT/SVS/MS) reitera a necessidade de fortalecer as
+ações de prevenção e controle da leptospirose no período chuvoso.
+2. RECOMENDAÇÕES
+2.1. Diante do período chuvoso, inundações podem causar vários
+problemas de saúde pública, dentre eles, a leptospirose. Nessas situações,
+indivíduos ou grupos de pessoas que entraram em contato com lama ou água de
+enchentes podem se infectar e manifestar sintomas da doença. Visando alertar
+sobre condutas relacionadas à leptospirose em situações de desastres naturais
+como enchentes e inundações, recomenda-se:
+2.2. Às redes de Atenção Primária, Hospitalar, Domiciliar e de
+Urgência e Rede Nacional de Vigilância Epidemiológica Hospitalar
+(Renaveh):
+a)Preparar a rede de assistência para o aumento do número de
+casos suspeitos de leptospirose;
+b)Considerar como caso suspeito de leptospirose todo indivíduo
+exposto a enchente que apresente febre, mialgia, cefaleia ou
+Nota Técnica 138 (0030825375) SEI 25000.171608/2022-62 / pg. 1
+outros sinais clínicos compatíveis com a doença no período de até
+30 dias após contato com lama ou águas de enchente;
+c)Notificar todo caso suspeito;
+d)Manter vigilância ativa para identificação oportuna de casos
+suspeitos de leptospirose, tendo em vista que o período de
+incubação da doença pode ser de 1 a 30 dias (média de 5 a 14
+dias após exposição);
+e)Iniciar tratamento com antibioticoterapia, sem necessidade de
+aguardar confirmação laboratorial, a partir da suspeição (quadro
+1).
+Quadro 1- Esquema para tratamento da leptospirose
+Fase Antibiótico Adulto Criança
+100mg, via oral, de 12
+Doxiciclinaa,b em 12 horas, por 5 a 7 –
+dias
+Fase
+precoce
+500mg, via oral, de 8 50mg/kg/dia, via oral, a
+Amoxicilinab em 8 horas, por 5 a 7 intervalos de 6 a 8 horas, por
+dias 5 a 7 dias
+50 a 100 mil UI/kg/dia,
+Penicilina
+intravenosa, em 4
+–
+cristalinac
+ou 6 doses
+1.500.000UI,
+Penicilina G
+intravenosa, de 6 em 6 –
+Cristalinac
+horas
+Fase
+50 a 100mg/kg/dia,
+1g, intravenosa, de 6
+tardia Ampicilinac intravenosa, dividido em 4
+em 6 horas
+doses
+80 a 100mg/kg/dia,
+1 a 2g, intravenosa, de
+Ceftriaxonac intravenosa, em uma ou 2
+24 em 24 horas
+doses
+1g, intravenosa, de 6 50 a 100mg/kg/dia,
+Cefotaximac
+em 6 horas intravenosa, em 2 a 4 doses
+a A doxiciclina não deve ser utilizada em crianças menores de 9 anos e em mulheres grávidas e pacientes
+portadores de nefropatias ou hepatopatias.
+b A azitromicina e a claritromicina são alternativas para pacientes com contraindicação para uso de amoxicilina e
+doxiciclina.
+c O tratamento com antibióticos intravenosos (IV) deve durar pelo menos sete dias.
+f) Avaliar adequadamente os casos suspeitos quanto aos sinais de
+alerta da doença, disponíveis no Anexo A (0030830014)
+2.3. Aos profissionais - militares, defesa civil, limpeza urbana, entre
+outros - que trabalham diretamente na resposta aos desastres:
+a)Utilizar equipamentos de proteção individual;
+b)Observar qualquer sinal ou sintoma que apareça em até 30 dias
+após a exposição de risco para leptospirose;
+Nota Técnica 138 (0030825375) SEI 25000.171608/2022-62 / pg. 2
+c)Se apresentar sinais e sintomas, buscar atendimento médico e
+referir que esteve em situação de risco para leptospirose.
+2.4. À Vigilância em Saúde:
+a)Divulgar informes sobre o risco de leptospirose para a população
+exposta à enchente;
+b)Divulgar informes sobre a necessidade de avaliação médica para
+todo indivíduo exposto a enchente que apresente febre, mialgia,
+cefaleia ou outros sinais clínicos compatíveis com a doença no
+período de até 30 dias após contato com lama ou águas de
+enchente;
+c)Divulgar informes sobre medidas potenciais para evitar novas ou
+continuadas exposições a situações de risco de infecção;
+d)Alertar os profissionais de saúde sobre a possibilidade de
+ocorrência da doença na localidade de forma a aumentar a
+capacidade diagnóstica;
+e)Manter vigilância ativa para identificação oportuna de casos
+suspeitos de leptospirose, tendo em vista que o período de
+incubação da doença pode ser de 1 a 30 dias (média de 5 a 14
+dias após exposição);
+f) Notificar e registrar no Sinan todo caso suspeito da doença, para
+o desencadeamento de ações de prevenção e controle;
+g)Sensibilizar os profissionais da saúde quanto ao tratamento
+oportuno;
+h)Manter comunicação de forma integrada com a atenção primária
+e especializada para detecção de novos casos;
+i) Manter comunicação com assistência farmacêutica para
+verificação da disponibilidade de medicamentos.
+j) Manter fluxo de comunicação com a rede de laboratório.
+k)Monitorar os casos suspeitos de leptospirose até o
+encerramento dos casos.
+2.5. O registro dos casos no Sinan deverá ser mantido, porém como o
+sistema não possui rápida atualização para as três esferas, visando um melhor
+fluxo de informações nessas situações extra rotina, para melhorar a
+consolidação de dados e otimizar qualquer ação de apoio, recomenda-se à
+Vigilância Epidemiológica a utilização da planilha descrita no Anexo B
+(0030826750), que poderá ser adequada ao município ou estado, ou poderá
+ser elaborado outro instrumento que poderá ser pactuado com Secretarias
+Estaduais e Municipais de Saúde para que os casos de leptospirose sejam
+monitorados e acompanhados com maior celeridade para auxiliar na tomada de
+decisão.
+2.6. Caso seja instalada uma sala de situação ou COE devido ao
+desastre, o fluxo de informação permanece o mesmo da rotina, as áreas
+técnicas responsáveis pela vigilância da leptospirose deverão repassar as
+informações aos seus pares para que chegue ao centro de comando, reforçando
+o fluxo: Município à Estado à Ministério da Saúde.
+2.7. Poderá ser pactuado entre Municípios, Estados e Ministério da Saúde
+um período para o monitoramento extra rotina dos casos de leptospirose de
+Nota Técnica 138 (0030825375) SEI 25000.171608/2022-62 / pg. 3
+acordo com cada situação.
+2.8. Os profissionais devem ficar atentos, tanto à data do início dos
+sintomas, quanto à data de coleta de amostras para realização de sorologia.
+Cabe ressaltar que em média a produção de anticorpos pode iniciar a partir do
+7º dia do início dos sintomas, portanto, qualquer paciente que tenha amostra
+coletada em período anterior, dependendo do resultado da sorologia, poderá
+necessitar de outra coleta de amostra para confirmação do caso como descrito
+no Guia de Vigilância em Saúde 2021 de Leptospirose (pág. 966 e 967)
+disponível no link:
+https://bvsms.saude.gov.br/bvs/publicacoes/guia_vigilancia_saude_5ed.pdf
+2.9. O uso de quimioprofilaxia não é indicado pelo Ministério da Saúde
+como medida de prevenção em saúde pública em casos de exposição
+populacional em massa por ocasião de desastres naturais como enchentes em
+virtude da insuficiência de evidências científicas sobre benefícios e riscos para
+um grande contingente populacional.
+3. CONCLUSÃO
+3.1. A vigilância em saúde deve, intensificar as ações e apoiar os
+profissionais da assistência para a sensibilização frente aos casos suspeitos de
+leptospirose, devendo notificar e registrar todos os casos suspeitos no Sistema
+de Informação de Agravos de Notificação - Sinan.
+3.2. Para informações adicionais, contatar o grupo técnico por meio do
+telefone (61) 3213- 5992 ou pelo e-mail: gtroedores@saude.gov.br
+Atenciosamente,
+MARCELO YOSHITO WADA
+Diretor do Departamento de Imunização e Doenças Transmissíveis – Substituto
+Documento assinado eletronicamente por Marcelo Yoshito Wada,
+Diretor(a) do Departamento de Imunização e Doenças Transmissíveis
+substituto(a), em 16/12/2022, às 17:23, conforme horário oficial de
+Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de
+novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0030825375 e o código CRC A32D07CC.
+Referência: Processo nº 25000.171608/2022-62 SEI nº 0030825375
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão Vetorial - CGZV
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude.gov.br
+Nota Técnica 138 (0030825375) SEI 25000.171608/2022-62 / pg. 4
+4102
+– lirba
+–
+SVS
+Fluxograma 1 Conduta médica diante de um paciente Fluxograma 2 Conduta clínica no primeiro atendimento
+com Síndrome Febril Aguda Suspeita de Leptospirose de pacientes de leptospirose e com sinais de alerta
+Avaliar no primeiro atendimento Solicitar no primeiro atendimento iniciar no primeiro atendimento Síndrome Febril Aguda: + Contato físico com áreas alagadas,
+Febre, cefaléia e mialgia lama ou esgoto, principalmente • Pressão arterial • Hemograma • Penicilina cristalina 1,5 milhões ui, iv,
+6/6h ou
+após fortes chuvas ou ocorrência de • Frequência respiratória • Na+, K+, uréia, creatinina
+enchentes OU que resida ou trabalhe • Ceftriaxona: 1g iv/dia
+• Sat O2 (ar ambiente) • TGO, TGP, BT, BD, CPK
+em áreas de risco da doença, nos 30 (se houver dúvida no diagnóstico,
+SinAiS de AlertA • Escala de Glasgow • Sorologia para leptospirose
+dias antes do início dos sintomas fazer 2g iv/dia)
+Presença de um ou mais dos seguintes sinais: • Diurese nas últimas 6-12h • Hemocultura para leptospira
+• Se houver contra-indicação:
+1 Dispnéia, tosse e taquipnéia • Sangramento • Hemocultura para aeróbios Azitromicina – 500mg iv/dia
+2 Alterações urinárias, geralmente oligúria
+3 Fenômenos hemorrágicos, incluindo escarros
+hemoptoicos
+Avaliar padrão respiratório
+4 Hipotensão
+Presença de:
+AvAliAçãO ClíniCA
+5 Alterações do nível de consciência SiM • Tosse ou nãO
+6 Vômitos freqüentes • Escarro hemoptóico ou
+7 Arritmias • Fr>28 ipm ou
+8 Icterícia • Gasometria arterial • Estertores crepitantes ou
+• Radiografia de tórax • Sato2<92% (ar ambiente)
+Presença de Ausência de
+Sinais de Alerta Sinais de Alerta
+• Pao2< 60 mmhg ou
+• Sf 0,9% 500ml, iv bolus, repetir até 3x
+• Infiltrado bilateral ao rx ou
+• Monitorizar padrão respiratório
+nãO
+• Fr>28 ipm e sato2<92% (ar ambiente)
+encaminhar para Unidade Hospitalar • Leucograma de urgência • Se piora respiratória, reiniciar
+e Estertores crepitantes bilaterais
+fluxograma
+de referência: • Preencher Ficha de Notificação
+• Iniciar condutas para o primeiro atendimento • Informar ao paciente
+Unidades de coleta
+de pacientes de leptospirose com sinais de importância dos sinais de alerta
+leucograma: Sim: pneumonite – internação precoce em Uti
+alerta, de acordo com o Fluxograma 2
+• Acompanhar ambulatorialmente
+A definir pela Secretaria
+• Preencher Ficha de Notificação e coletar (retorno em 24-72hs) AvAliAr diUreSe APÓS HidrAtAçãO
+Municipal de Saúde
+amostras para provas diagnósticas
+• Suporte ventilatório precoce (Ventilação
+não invasiva ou preferencialmente ventilação
+Hospital de Referência
+mecânica com estratégia protetora)
+leucocitose leucócitos leucopenia
+• Avaliar diurese
+>10.000/mm3 normais <4.000/mm3
+ObS.:
+Ausência de diurese Presença de diurese Se indicada, a diálise Ausência de diurese Presença de diurese
+deve ser iniciada em
+1 tratamento: <0,5ml/kg/h >0,5ml/kg/h <0,5ml/kg/h >0,5ml/kg/h
+• Investigar outras doenças
+<4-6h
+• dOXiCiClinA: 100mg, VO, 12/12hs por 5 a 7 dias (não deve ser utilizada em crianças
+• Avaliar necessidade de
+menores de 9 anos, mulheres grávidas e em pacientes portadores de nefropatias ou
+outras medidas e exames
+hepatopatias) OU
+complementares
+SArA COM irA OligúriCA SArA COM irA nãO irA OligúriCA irA nãO OligúriCA
+• AMOXiCilinA: Adultos: 500mg, VO, 8/8hs, por 5 a 7 dias OligúriCA
+• Indicar diálise. • Fazer furosemida 100mg, iv • Hidratação vigorosa
+Crianças: 50mg/kg/d VO, 8/8h, por 5 a 7 dias
+• Se creatinina ≥ 4 mg/ (dose única). com SF 0,9%
+• Se pressão arterial baixa
+2 Solicitar sorologia para leptospirose, que deve ser enviada para o LACEN. dl ou uréia ≥ 150 mg/dl (80ml/kg/dia).
+e sinais de desidratação, • Se diurese, tratar como ira não
+indicar diálise.
+3 Alguns casos de leptospirose leve, mesmo quando tratados, podem evoluir para moderados fazer hidratação mínima oligúrica. • Se PAM<60 ou PA
+e graves, em questão de horas ou dias. Cabe ao médico orientar o paciente quanto às (Sf 0,9% -500 ml) • Reposição volêmica crite- < 90x60 mmhg, iniciar
+Contatar a • Se não teve diurese, indicar diálise.
+complicações possíveis ou ocorrência de sinais de alerta com monitorização riosa com monitorização droga vasoativa.
+Vigilância Epidemiológica
+• Se pressão arterial baixa, iniciar
+respiratória. respiratória. Se diurese
+5 Manter vigilância do paciente até a fase de convalescença (1-2 semanas) ou Ambiental da SMS • Se piora respiratória,
+droga vasoativa.
+<500 ml em 12h ou
+• Se PA ainda baixa iniciar reiniciar fluxograma.
+6 exames laboratoriais básicos: hemograma completo, uréia e creatinina, bilirrubinas e
+uréia e creatinina cres- • Se piora respiratória, reiniciar
+droga vasoativa.
+transaminases, sódio e potássio. Se necessário, solicitar radiografia de tórax e gasometria
+centes indicar diálise. fluxograma.
+arterial. Outros exames dependem da evolução clínica.
+1. O método dialítico preferencial é a hemodiálise. O tempo do início dos cuidados
+Este fluxograma tem como objetivo ajudar na orientação de condutas terapêuticas no primeiro atendimento de pacientes com síndrome
+até a diálise deve ser no máximo de 4h.
+febril aguda suspeita de leptospirose, mas não deve ser usado como o único instrumento de decisão terapêutica. Uma vez reconhecido os
+2. Pressão arterial (PA) baixa: PA média <60mmHg ou PA sistólica <90mmHg.
+sinais de alerta do paciente devem-se iniciar as condutas sugeridas no Fluxograma 2: Condutas no primeiro atendimento de pacientes
+≥ ≥
+de leptospirose e com sinais de alerta 3. Droga vasoativa: noradrenalina ( 0,05µg/kg/min) ou dopamina ( 5µg/kg/min).
+Anexo A - Manejo do paciente de leptospirose (0030830014) SEI 25000.171608/2022-62 / pg. 5
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão Vetorial
+ANEXO B - MODELO DE PLANILHA PARA ACOMPANHAMENTO DE CASOS
+SUSPEITOS DE LEPTOSPIROSE
+1. O modelo de planilha (figura 1) abaixo traz informações básicas para
+facilitar a consolidação e avaliação dos dados.
+2. O objetivo da planilha é compartilhar essas informações de forma
+rápida e clara com todos os interessados, Município, Estado e Ministério da
+Saúde, no período de enchentes. Além disso ela pode servir de apoio para
+acompanhamento dos casos e verificação de atividades necessárias para o
+encerramento oportuno, como por exemplo, solicitação de segunda amostra, se
+o suspeito já está em tratamento entre outras.
+3. A utilização dessa planilha não exclui a necessidade do
+preenchimento da ficha de notificação e do registro no Sinan, podendo ser
+realizado posteriormente de forma mais completa.
+4. A planilha não possui campos sobre quais sinais e sintomas o
+suspeito desenvolveu, já que se parte do princípio que os casos inseridos
+devem estar de acordo com a definição de caso e se posteriormente for
+necessário, poderá ser realizada uma descrição dos casos a partir das
+informações contidas no Sinan.
+5. A planilha poderá ser adaptada de acordo com a necessidade de
+cada usuário, ou caso necessário poderá ser elaborado outro instrumento,
+devendo ser pactuado entre as três esferas.
+6. Dependendo da situação e pactuação, estes dados poderão ser
+solicitados pela área técnica do Ministério da Saúde para acompanhamento.
+7. O grupo técnico de doenças relacionada a roedores (GT-roedores), da
+Coordenação Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/DEIDT/SVS/MS poderá disponibilizar a planilha eletronicamente.
+Figura 1 – Modelo de planilha para acompanhamento de casos suspeitos de leptospirose.
+Atenciosamente,
+MARCELO YOSHITO WADA
+Diretor do Departamento de Imunização e Doenças Transmissíveis – Substituto
+Documento assinado eletronicamente por Marcelo Yoshito Wada,
+Diretor(a) do Departamento de Imunização e Doenças Transmissíveis
+substituto(a), em 16/12/2022, às 17:23, conforme horário oficial de
+Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de
+novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0030826750 e o código CRC CB83EC6C.
+Referência: Processo nº 25000.171608/2022-62 SEI nº 0030826750
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão Vetorial - CGZV
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude.gov.br
+Anexo CGZV 0030826750 SEI 25000.171608/2022-62 / pg. 6
+Ministério da Saúde
+Secretaria de Vigilância em Saúde
+OFÍCIO CIRCULAR Nº 277/2022/SVS/MS
+Brasília, 20 de dezembro de 2022.
+Aos(as) Secretários(as) Estaduais de Saúde
+Assunto: Trata-se de Nota Técnica nº 138/2022 CGZV/DEIDT/SVS/MS que
+reforça estratégias de detecção, monitoramento e resposta para o
+enfrentamento da leptospirose durante inundações e situações de
+desastres naturais.
+Senhor(a) Secretário(a),
+1. Encaminho, para ampla divulgação dentro das secretárias, a Nota
+Técnica nº 138/2022 CGZV/DEIDT/SVS/MS (0030825375) que reforça estratégias
+de detecção, monitoramento e resposta para o enfrentamento da leptospirose
+durante inundações e situações de desastres naturais.
+2. Todos os anos, no período de chuvas é esperado um aumento do
+número de casos de leptospirose. Além dos profissionais da vigilância em saúde
+é de grande importância sensibilizar quanto à essa doença profissionais que
+trabalham diretamente com a assistência, na defesa civil, limpeza urbana entre
+outras profissões que podem estar mais expostas à situações de risco.
+3. Para informações adicionais, seu corpo técnico poderá contatar a
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial- CGZV, pelo telefone (61) 3315-5992
+Atenciosamente,
+ARNALDO CORREIA DE MEDEIROS
+Secretário de Vigilância em Saúde
+Documento assinado eletronicamente por Arnaldo Correia de Medeiros,
+Secretário(a) de Vigilância em Saúde, em 20/12/2022, às 11:41,
+conforme horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do
+Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº
+900 de 31 de Março de 2017.
+A autenticidade deste documento pode ser conferida no site
+Ofício-Circular 277 (0030920005) SEI 25000.171608/2022-62 / pg. 7
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0030920005 e o código CRC 442479CE.
+Referência: Processo nº 25000.171608/2022-62 SEI nº 0030920005
+Secretaria de Vigilância em Saúde - SVS
+SRTV 702, Via W5 Norte - Bairro Asa Norte, Brasília/DF, CEP 70723-040
+Site - saude.gov.br
+Ofício-Circular 277 (0030920005) SEI 25000.171608/2022-62 / pg. 8

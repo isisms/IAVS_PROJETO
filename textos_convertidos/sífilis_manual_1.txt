@@ -1,0 +1,2254 @@
+MINISTÉRIO DA SAÚDE
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Brasília – DF
+2021
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Brasília – DF
+2021
+2021 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não Comercial –
+Compartilhamento pela mesma licença 4.0 Internacional. É permitida a reprodução parcial ou total desta obra,
+BY SA desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do Ministério da Saúde:
+bvsms.saude.gov.br
+Tiragem 1ª edição – 2021 – versão eletrônica
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis
+SRTVN, Quadra 701, Via W5 Norte, Lote D,
+Edifício PO700, 6º andar, Brasília-DF
+CEP: 70.719-040 – Brasília/DF
+Site: www.aids.gov.br
+E-mail: clab@aids.gov.br
+Coordenação-geral:
+Angélica Espinosa Barbosa Miranda
+Gerson Fernando Mendes Pereira
+Organização e colaboração técnica:
+Álisson Bigolin
+Ana Cláudia Philippus
+José Boullosa Alonso Neto
+Pâmela Cristina Gaspar
+Colaboração de especialistas:
+Celso Francisco Hernandes Granato
+Maria Luiza Bazzo
+Miriam Franchini
+Equipe técnica:
+Amanda Alencar Cabral Morais
+Mariana Villares
+Paula Pezzuto
+Rayane Ganassin
+Rodrigo Santos Lima
+Roberta Barbosa Lopes
+Sheila de Oliveira Medeiros
+Colaboração edição impressa (2016):
+Adele Schwartz Benzaken
+Alexandre Fonseca Santos
+Fábio Caldas de Mesquita
+Maria Luiza Bazzo
+Mariana Villares
+Miriam Franchini
+Pâmela Cristina Gaspar
+Regina Comparini
+Revisão ortográfica:
+Angela Gasperin Martinazzo
+Projeto gráfico e diagramação:
+Milena Hernández/Marcos Cleuton
+Normalização:
+Delano de Aquino Silva – Editora MS/CGDI
+Ficha Catalográfica
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Doenças de Condições
+Crônicas e Infecções Sexualmente Transmissíveis.
+Manual técnico para o diagnóstico da sífilis [recurso eletrônico] / Ministério da Saúde, Secretaria de Vigilância em
+Saúde, Departamento de Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. – Brasília :
+Ministério da Saúde, 2021.
+70 p. : il.
+Modo de acesso: World Wide Web: http://bvsms.saude.gov.br/bvs/publicacoes/manual_tecnico_diagnostico_sifilis_1ed.pdf
+ISBN 978-65-5993-101-9
+1. Sífilis. 2. Diagnóstico. 3. Saúde Pública. I. Título.
+CDU 616.07:616.972 (035)
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2021/0294
+Título para indexação:
+Technical manual for diagnosis of syphilis
+Lista de figuras
+Figura 1 – Fotomicrografia da bactéria Treponema pallidum .......................................................14
+Figura 2 – Monitoramento da qualidade dos resultados dos testes rápidos
+fornecidos pelo Ministério da Saúde ................................................................................22
+Figura 3 – Diferença entre diluição e títulos ........................................................................................26
+Figura 4 – Desempenho dos testes diagnósticos associados a cada fase da
+sífilis não tratada .......................................................................................................................29
+Figura 5 – Fluxograma 1 – Abordagem clássica.................................................................................35
+Figura 6 – Fluxograma 2 – Abordagem reversa .................................................................................39
+Lista de figuras do Apêndice A
+Figura 1 – Detecção de Treponema pallidum em microscopia de campo escuro ................53
+Lista de figuras do Apêndice C
+Figura 1 – Representação esquemática da estrutura da micela .................................................59
+Figura 2 – Representação esquemática da ligação do anticorpo anticardiolipina
+ao componente micelar cardiolipina e da floculação................................................59
+Figura 3 – Representação esquemática do fenômeno prozona ...................................................60
+
+Lista de quadros
+Quadro 1 – Características gerais dos testes não treponêmicos para sífilis .............................24
+Quadro 2 – Situações que podem gerar resultados falso-reagentes nos testes
+não treponêmicos ...................................................................................................................28
+Quadro 3 – Conduta laboratorial a ser adotada ..................................................................................34
+Lista de tabelas
+Tabela 1 – Critérios de sensibilidade e especificidade para o componente treponêmico
+adotados pelo Ministério da Saúde para aquisição dos testes rápidos
+imunocromatográficos ........................................................................................................... 21
+Tabela 2 – Valores de exame liquórico em indivíduos com suspeita de neurossífilis ......... 43
+
+Lista de siglas e abreviaturas
+AEQ-TR Avaliação Externa da Qualidade para Testes Rápidos
+Aids Síndrome da imunodeficiência adquirida (do inglês acquired
+immunodeficiency syndrome)
+Anvisa Agência Nacional de Vigilância Sanitária
+DPP Plataforma de duplo percurso (do inglês dual path platform)
+ELISA Ensaio imunossorvente ligado à enzima (do inglês enzyme-linked
+immunosorbent assay)
+FITC Isotiocianato de fluoresceína (do inglês fluorescein isothiocyanate)
+FTA-Abs Teste de anticorpos treponêmicos com absorção (do inglês fluorescent
+treponemal antibody absorption test)
+FTA-Abs IgM Versões modificadas do FTA-Abs que detectam IgM
+HIV Vírus da imunodeficiência humana (do inglês human immunodeficiency
+virus)
+IgG Imunoglobulina da classe G
+IgM Imunoglobulina da classe M
+LCR Líquido cefalorraquidiano
+MHA-TP Ensaio de micro-hemaglutinção (do inglês micro-haemagglutination assay)
+MS Ministério da Saúde
+NAAT Teste de ampliação de ácidos nucleicos (do inglês nucleic acid
+amplification test)
+PCDT IST Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às
+Pessoas com Infecções Sexualmente Transmissíveis
+PVHIV Pessoa vivendo com HIV
+RN Recém-nascido
+RPR Teste de reaginina plasmática rápida (do inglês rapid plasmatic reagin)
+Sisloglab Sistema de Controle Logístico de Insumos Laboratoriais
+SUS Sistema Único de Saúde
+SVS Secretaria de Vigilância em Saúde
+TPHA Ensaio de hemaglutinação para Treponema pallidum (do inglês T.
+pallidum haemagglutination test)
+TPPA Ensaio de aglutinação passiva de partículas para Treponema pallidum
+(do inglês T. pallidum passive particle agglutination test)
+TR Teste rápido
+TRUST Prova de toluidina vermelha em soro não aquecido (do inglês toluidine
+red unheated serum test)
+USR Teste da reagina sérica não aquecida (do inglês unheated serum reagin)
+VDRL Pesquisa Laboratorial de Doenças Venéreas (do inglês Venereal Disease
+Research Laboratory)
+VPP Valor preditivo positivo
+
+SUMÁRIO
+APRESENTAÇÃO ........................................................................................................................................11
+1 INTRODUÇÃO .......................................................................................................................................13
+1.1 O Treponema pallidum ...............................................................................................................13
+1.2 Transmissão da sífilis .................................................................................................................14
+1.3 Manifestações clínicas .............................................................................................................15
+2 TESTES DIAGNÓSTICOS ......................................................................................................................17
+2.1 Exames diretos ............................................................................................................................17
+2.2 Testes imunológicos ..................................................................................................................18
+2.2.1 Testes treponêmicos .......................................................................................................18
+2.2.2 Testes não treponêmicos ...............................................................................................23
+3 DIAGNÓSTICO DA SÍFILIS ..................................................................................................................29
+4 FLUXOGRAMAS COM TESTES IMUNOLÓGICOS PARA AUXILIAR NO
+DIAGNÓSTICO DA SÍFILIS ...................................................................................................................33
+4.1 Escolha do fluxograma de acordo com a solicitação de testagem ...........................33
+4.2 Fluxograma 1 – Abordagem clássica ...................................................................................35
+4.2.1 Desdobramento do fluxograma ................................................................................36
+4.2.2 Laudo .................................................................................................................................38
+4.3 Fluxograma 2 – Abordagem reversa ...................................................................................38
+4.3.1 Desdobramento do fluxograma ................................................................................39
+4.3.2 Laudo .................................................................................................................................41
+5 TESTES DIAGNÓSTICOS PARA INVESTIGAÇÃO DE NEUROSSÍFILIS .....................................43
+6 TESTES DIAGNÓSTICOS PARA INVESTIGAÇÃO DE SÍFILIS EM GESTANTE E
+SÍFILIS CONGÊNITA...............................................................................................................................45
+7 VIGILÂNCIA EPIDEMIOLÓGICA DA SÍFILIS ...................................................................................47
+REFERÊNCIAS .............................................................................................................................................49
+APÊNDICES..................................................................................................................................................53
+Apêndice A – Informações adicionais sobre testes diagnósticos para sífilis .................53
+Apêndice B – Testes rápidos fornecidos pelo Ministério da Saúde no contexto
+de diagnóstico das infecções sexualmente transmissíveis ......................56
+Apêndice C – Reação de floculação nos testes não treponêmicos ...................................57
+Apêndice D – Modelos de laudos ..................................................................................................59
+GLOSSÁRIO .................................................................................................................................................70
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+APRESENTAÇÃO
+A Portaria nº 2.012, de 19 de outubro de 2016, que aprova este Manual Técnico para
+o Diagnóstico da Sífilis, estabelece que o documento seja revisto e atualizado à luz dos
+avanços científicos por comitê composto por profissionais de notório saber.
+Nesse sentido, esta 2ª edição do manual:
+• Aprimora a redação do original como um todo, com vistas a dar mais clareza ao
+texto e dirimir as dúvidas que os usuários apontaram ao implementar as ações,
+facilitando ao leitor a compreensão do texto;
+• Apresenta nova estrutura dos capítulos, agrupando os conteúdos semelhantes
+e facilitando a leitura;
+• Atualiza a indicação dos testes para utilização nos exames diretos, apontando
+as respectivas vantagens e desvantagens, assim como traz a inclusão dos testes
+de amplificação de ácidos nucleicos;
+• Acrescenta informações sobre testes rápidos imunocromatográficos que
+detectam simultaneamente a presença de anticorpos anti-HIV e de anticorpos
+treponêmicos em um mesmo dispositivo de teste (teste Duo ou Combo, a
+depender do fabricante);
+• Descreve as ações implementadas pelo Ministério da Saúde para assegurar a
+qualidade dos testes rápidos imunocromatográficos fornecidos;
+• Atualiza as informações sobre a possibilidade de resultados falsos nos testes
+treponêmicos e não treponêmicos;
+• Incorpora a explicação sobre a diferença entre diluição e titulação nos testes
+não treponêmicos;
+• Modifica a apresentação do capítulo “Diagnóstico de sífilis”, com destaque para
+algumas recomendações importantes no diagnóstico e monitoramento do
+tratamento da infecção;
+• Insere orientações sobre a “conduta laboratorial” adequada diante de cada tipo
+de solicitação clínica;
+• Aperfeiçoa os capítulos referentes ao diagnóstico de neurossífilis e de sífilis
+congênita;
+• Unifica os fluxogramas anteriores que se iniciavam com testes treponêmicos.
+Assim, esta segunda edição do manual apresenta dois fluxogramas de
+diagnóstico, um com a abordagem convencional (que inicia a investigação com
+teste não treponêmico) e outro com a abordagem reversa (que possui um teste
+treponêmico rápido ou laboratorial como primeiro teste da investigação);
+• Aprimora as informações contidas nos fluxogramas, visando fornecer melhores
+subsídios para a definição da conduta clínica;
+11
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+• Apresenta nova estrutura nos desdobramentos dos fluxogramas, com
+padronização das observações a serem incluídas nos laudos para cada desfecho;
+• Incorpora uma seção de “Apêndices”, que contemplam:
+• Informações adicionais sobre testes diagnósticos para sífilis;
+• Informações sobre o fornecimento de testes rápidos pelo Ministério da Saúde
+no contexto do diagnóstico das infecções sexualmente transmissíveis (IST);
+• Detalhamento sobre a reação de floculação nos testes não treponêmicos;
+• Modelos de laudos para cada um dos desfechos dos fluxogramas
+apresentados no manual.
+Finalmente, observa-se que as palavras que aparecem pela primeira vez no texto
+em negrito, com a letra G sobrescrita, constam do Glossário ao final do volume.
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis
+12
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+1 INTRODUÇÃO
+A sífilis é uma infecção de caráter sistêmico, exclusiva do ser humano, causada pela
+bactéria Treponema pallidum (T. pallidum), e que, quando não tratada precocemente,
+pode evoluir para uma enfermidade crônica, com sequelas irreversíveis em longo
+prazo. É transmitida predominantemente por via sexual e vertical (LARSEN et al., 1995;
+HORVÁTH, 2011; BRASIL, 2020). A infecção da criança pelo T. pallidum a partir da mãe
+acarreta o desenvolvimento da sífilis congênita (WHO, 2016; BRASIL, 2020). Ao longo da
+evolução natural da doença, ocorrem períodos de atividade, com características clínicas,
+imunológicas e histopatológicas distintas, intercalados com períodos de latência,
+durante os quais não se observa a presença de sinais ou sintomas (JANIER et al., 2014;
+WHO, 2016).
+A sífilis é um importante agravo em saúde pública, pois, além de ser infectocontagiosa
+e de poder acometer o organismo de maneira severa quando não tratada, aumenta
+significativamente o risco de infecção pelo vírus da imunodeficiência humana (HIV, do
+inglês human immunodeficiency virus), uma vez que a entrada desse vírus é facilitada pela
+presença das lesões sifilíticas (HORVÁTH, 2011; BRASIL, 2020). A presença de T. pallidum
+no organismo também acelera a evolução da infecção pelo HIV para a síndrome da
+imunodeficiência adquiridaG (aids, do inglês acquired immunodeficiency syndrome)
+(HORVÁTH, 2011). Além disso, a sífilis congênita é responsável por altas taxas de
+morbidade e mortalidade, podendo elevar a 40% a taxa de abortamento, óbito fetal e
+morte neonatal (BRASIL, 2020; LUMBIGANON et al., 2002).
+1.1 O Treponema pallidum
+O Treponema pallidum (Figura 1), descoberto em 1905 por Schaudiin e Hoffman,
+é um microrganismo espiralado, fino, que gira em torno do seu maior eixo e que faz
+movimentos característicos para frente e para trás, os quais facilitam a sua penetração
+nos tecidos do organismo hospedeiro (HORVÁTH, 2011; JEPSEN; HOUGEN; BIRCH-
+ANDERSEN, 1968). A motilidade, a habilidade de aderir às células e a quimiotaxia
+contribuem para a virulência desse patógeno, resultando em sua extrema capacidade
+de invasão, rápida fixação em superfícies celulares e penetração nas junções endoteliais
+e nos tecidos. Possui baixa resistência ao meio ambiente, ressecando-se rapidamente,
+mas pode sobreviver por até dez horas em superfícies úmidas; no entanto, é muito
+sensível à ação do sabão e de outros desinfetantes. Possui dimensões de largura
+e comprimento abaixo da resolução de microscopia de campo claro. Em 2018, foi
+divulgado um estudo demonstrando o cultivo in vitro sustentado de T. pallidum por
+mais de seis meses, com manutenção da viabilidade, motilidade e infectividade do
+patógeno. Espera-se que o avanço no cultivo desse agente permita facilitar os estudos
+de fisiologia, genética, patologia, imunologia e susceptibilidade aos antimicrobianos do
+T. pallidum (EDMONDSON; HU; NORRIS, 2018).
+13
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Figura 1– Fotomicrografia da bactéria Treponema pallidum
+Fonte: CDC/Bill Schwartz, Courtesy: Public Health Image Library. Disponível em: http://www.publicdomainfiles.com/
+show_file.php?id=13530410417890
+1.2 Transmissão da sífilis
+A sífilis é transmitida predominantemente pelo contato sexual e pela via vertical.
+O contágio é maior nos estágios iniciais da infecção, sendo reduzido gradativamente à
+medida que ocorre a progressão da doença (BRASIL, 2020; WHO, 2016).
+Ainda não existe vacina contra a sífilis, e a infecção pela bactéria causadora não
+confere imunidade protetora. Isso significa que as pessoas poderão ser infectadas
+tantas vezes quantas forem expostas ao T. pallidum (MCINTOSH, 2020).
+A forma vertical de transmissão da sífilis é a que ocorre através da placenta durante
+a gestação, quando a gestante portadora de sífilis não é tratada ou quando realiza o
+tratamento de maneira inadequada. O “Protocolo Clínico e Diretrizes Terapêuticas para
+Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis”, o PDCT IST,
+disponível em: http://www.aids.gov.br/publicacoes, aborda as situações consideradas
+como tratamento inadequado da mãe (BRASIL, 2020).
+A transmissão pelo contato do recém-nascido (RN) com lesões genitais no
+momento do parto também pode acontecer, mas é menos frequente (BRASIL, 2020).
+A transmissão por transfusão sanguínea, embora possível, é rara, devido à triagem
+rigorosa das bolsas de sangue quanto à presença de agentes infecciosos, como o T.
+pallidum, e pelo pouco tempo de sobrevivência da bactéria fora do organismo humano,
+14
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+especialmente em baixas temperaturas, como as usadas para a conservação das bolsas
+de sangue (ADEGOKE; AKANNI, 2011).
+1.3 Manifestações clínicas
+A sífilis é uma infecção de múltiplos estágios, descritos detalhadamente pela
+primeira vez por Philippe Ricord em meados do século XIX. O curso da sífilis não tratada
+consiste em fases sintomáticas entremeadas por períodos assintomáticos (latência). A
+evolução clínica da infecção, no entanto, pode ser alterada por alguns fatores, como o
+estado imunológico do hospedeiro e a administração de terapias antimicrobianas para
+outros patógenos, que podem ser efetivas contra o treponema. Dessa forma, o tempo
+de apresentação e os sinais e sintomas podem variar (WAUGH, 2011).
+Tradicionalmente, a sífilis não tratada é classificada nos seguintes estágios: sífilis
+primária, sífilis secundária, sífilis latente (latente recente – até um ano após a exposição;
+latente tardia – mais de um ano de evolução) e sífilis terciária (BRASIL, 2020; HORVÁTH,
+2011; RICORD, 1838). No “Protocolo Clínico e Diretrizes Terapêuticas para Atenção
+Integral às Pessoas com Infecções Sexualmente Transmissíveis”, disponível em: http://
+www.aids.gov.br/publicacoes, são apresentadas de forma detalhada as características
+clínicas e a duração de cada estágio da sífilis não tratada (BRASIL, 2020).
+A sífilis congênita é o resultado da transmissão da espiroqueta de Treponema
+pallidum da corrente sanguínea da gestante com sífilis para o concepto por via
+transplacentária ou, ocasionalmente, por contato direto com a lesão no momento do
+parto (transmissão vertical). Caracteriza-se como sífilis congênita precoce aquela que
+se manifesta antes dos dois primeiros anos de vida, e como sífilis congênita tardia a que
+se manifesta após os dois anos. As características da sífilis congênita precoce e tardia
+estão detalhadas no “Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral
+às Pessoas com Infecções Sexualmente Transmissíveis” (BRASIL, 2020), disponível em:
+http://www.aids.gov.br/publicacoes.
+15
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+2 TESTES DIAGNÓSTICOS
+Para a definição do diagnóstico de sífilis, é necessário correlacionar os dados clínicos,
+os resultados de testes diagnósticos, o histórico de infecções passadas e a investigação
+de exposição recente (BRASIL, 2020).
+A seguir, serão abordados os testes diagnósticos para sífilis, os quais se dividem em
+duas categorias: exames diretosG e testes imunológicosG.
+2.1 Exames diretos
+Os exames diretos são testes para detecção de T. pallidum em amostras coletadas
+diretamente das lesões primárias ou secundárias de adultos ou crianças.
+Os exames diretos utilizam amostrasG de exsudato seroso de lesões ativas (líquido
+composto por proteínas e células, que deve ser livre de eritrócitos, de restos de tecido
+e de outros microrganismos), biópsia de tecidos e aspirado de linfonodos (LARSEN;
+STEINER; RUDOLPH, 1995; LUO; XIE; XIAO, 2021; THEEL; KATZ; PILLAY, 2020).
+Como opções de metodologias para realização dos exames diretos, podem-se citar:
+• Microscopia de campo escuro;
+• Microscopia com material corado;
+• Imunofluorescência direta;
+• Ampliação de ácidos nucleicos (NAAT).
+A microscopia de campo escuro é o exame direto de escolha para utilização
+em rotina, pois possui melhor desempenho e maior facilidade de implantação em
+comparação com as demais metodologias para detecção direta de T. pallidum. Todavia,
+embora seja de baixo custo, são necessários técnicos treinados e experientes para a
+visualização de treponemas na lâmina, uma vez que a sensibilidade do teste depende
+da expertise do profissional, além de um microscópio específico com condensador de
+campo escuro (LARSEN; STEINER; RUDOLPH, 1995; WHO, 2016).
+As microscopias com material corado e de imunofluorescência direta têm-se tornado
+pouco utilizadas no Brasil. As colorações com prata e demais corantes histológicos
+possuem baixa sensibilidade e especificidadeG para T. pallidum, além de serem técnicas
+mais complexas (THEEL; KATZ; PILLAY, 2020). No que diz respeito à marcação em lâmina
+de T. pallidum com fluoróforos, a escassez dos insumos comercialmente disponíveis para
+uso em diagnóstico in vitro afetou significativamente a disponibilidade dessa técnica na
+investigação de sífilis no Brasil e no mundo (RATNAM, 2005).
+17
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+O desempenho dos NAAT no diagnóstico de sífilis varia conforme a amostra
+utilizada, observando-se melhor sensibilidade dessa técnica na análise de exsudato
+de lesões, sendo que lesões de sífilis primária tendem apresentar melhores resultados
+que lesões de sífilis secundária – 72%-95% e 20%-86%, respectivamente (THEEL; KATZ;
+PILLAY, 2020). No Brasil, já existem NAAT registrados na Agência Nacional de Vigilância
+Sanitária (Anvisa) para a investigação de T. pallidum em úlceras genitais, os quais estão
+em análise para incorporação ao Sistema Único de Saúde – SUS (GASPAR et al., 2021).
+O uso de NAAT em biópsia de lesões pode ter sua sensibilidade reduzida (26%-
+75%) quando comparado ao seu uso em investigação de exsudato de lesões. Essa perda
+de sensibilidade pode estar associada ao processo de fixação com formalina, capaz de
+induzir a degradação e inibição do material genético. Os estudos que utilizaram NAAT
+em amostras de líquor têm demonstrado sensibilidade variável do método (50%-
+77%). Já as amostras de sangue total, soro e plasma analisadas com NAAT são as que
+evidenciam a pior sensibilidade da técnica (0-62%) (THEEL; KATZ; PILLAY, 2020)
+Diante do exposto, o presente manual abordará de forma mais detalhada a
+microscopia de campo escuro (ver Apêndice A).
+2.2 Testes imunológicos
+São os testes mais utilizados na prática clínica para auxiliar na investigação da sífilis.
+Detectam anticorposG em amostras de sangue total, soro ou plasma, produzidos pelo
+organismo contra a infecção.
+Existem dois tipos de testes imunológicos para sífilis: os treponêmicos e os não
+treponêmicos.
+2.2.1 Testes treponêmicos
+Os testes treponêmicos detectam anticorpos produzidos pelo indivíduo infectado
+(geralmente, as imunoglobulinas IgM e IgG) que são específicos contra componentes
+celulares do treponema. Essa detecção se dá por meio da utilização de lisados
+completos de T. pallidum ou antígenosG treponêmicos recombinantes na composição
+dos reagentes desses testes (HENAO-MARTÍNEZ; JOHNSON, 2014; RATNAM, 2005).
+Para o diagnóstico de sífilis, somente é recomendado o uso de testes treponêmicos
+que detectam anticorpos totais (IgG e IgM), pois, diferentemente de outros agravos,
+como a toxoplasmose, a utilização de testes que detectam isoladamente anticorpos
+IgM (ex.: FTA-Abs IgM) não é útil como marcador de infecção recente. Essa limitação se
+justifica porque, no diagnóstico de sífilis, os anticorpos IgM são detectados tanto como
+primeira resposta imune humoral pós-infecção quanto durante o período latente e em
+pacientes com doença tardia (JANIER et al., 2020).
+Os testes treponêmicos são os primeiros a apresentarem resultado reagente após a
+infecção. Embora o tempo para o surgimento dos anticorpos treponêmicos possa variar
+de indivíduo para indivíduo, na maioria dos casos eles poderão ser detectados a partir
+18
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+de dez dias do aparecimento da lesão primária da sífilis (cancro duro) (JANIER et al.,
+2014; WHO, 2016).
+É importante ressaltar que, em aproximadamente 85% dos casos, os testes
+treponêmicos permanecem reagentes durante toda a vida nas pessoas que contraem
+sífilis, independentemente de tratamento (cicatriz sorológicaG) (SCHROETER et al.,
+1972; WHO, 2016).
+Por serem os primeiros testes imunológicos a se tornarem reagentes, os
+testes treponêmicos são os mais indicados para iniciar a investigação de sífilis.
+Contudo, apesar de úteis para o diagnóstico, eles não devem ser utilizados no
+monitoramento do tratamento. Isso porque, além da existência de cicatriz sorológica
+na maioria dos casos, não existe correlação entre a titulação dos anticorpos treponêmicos
+e indicação de doença ativa, diferentemente do que ocorre nos testes não treponêmicos
+(JANIER et al., 2014; WHO, 2016).
+A seguir, serão descritos os testes treponêmicos disponíveis para o diagnóstico
+da sífilis.
+2.2.1.1 Teste de anticorpos treponêmicos fluorescentes com absorção (FTA-
+Abs) – anticorpos totais
+É considerado um teste com boa especificidade, pois nele ocorre a absorção ou
+bloqueio de anticorpos não específicos eventualmente presentes no soro, pela utilização
+de treponemas saprófitos (treponema de Reiter) (SÁEZ-ALQUÉZAR et al., 2007). O FTA-
+Abs é executado em lâminas nas quais são fixados T. pallidum (cepa Nichols) extraídos
+de orquite de coelhos. Além disso, o teste também utiliza imunoglobulina anti-humana
+(antigamaglobulina) marcada com isotiocianato de fluoresceína (FITC, do inglês fluorescein
+isothiocyanate). Se a amostra contiver anticorpos anti-T. pallidum, eles se ligarão aos
+antígenos de T. pallidum fixados na lâmina, formando um complexo antígeno- anticorpo.
+Em seguida, a antigamaglobulina marcada com FITC se liga à porção Fc dos anticorpos
+humanos do complexo antígeno-anticorpo previamente formado. Quando ocorre a reação,
+os treponemas podem ser visualizados ao microscópio, apresentando cor verde-maçã
+brilhante (HUNTER; DAVIDSON, 1975; LARSEN; STEINER; RUDOLPH, 1995; WHO, 2013).
+2.2.1.2 Ensaio imunossorvente ligado à enzima – ELISA
+Os testes imunoenzimáticos utilizam suportes sensibilizados com antígenos totais
+de T. pallidum ou componentes antigênicos sintéticos de T. pallidum (SÁEZ- ALQUÉZAR,
+2007). Quando anticorpos anti-T. pallidum estão presentes nas amostras, eles se ligarão aos
+antígenos do suporte. Em seguida, adiciona-se um conjugado composto por IgG de cabra
+biotinilada anti-humana, marcada com estreptavidina-peroxidase, formando um complexo
+antígeno-anticorpo-conjugado. Por fim, para a detecção desse complexo, acrescenta-se
+ao suporte um substrato que resulta no surgimento de cor. A reação é revelada em um
+espectrofotômetro. A intensidade de cor na reação é diretamente proporcional à quantidade
+de anticorpos presentes na amostra, ou seja, quanto mais anticorpos a amostra contiver,
+maior será a intensidade da cor na placa brilhante (WHO, 2013).
+19
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+2.2.1.3 Teste imunológico com revelação quimiluminescente e suas
+derivações
+Para a realização desses testes, revestem-se esferas com antígenos de T. pallidum,
+aos quais se ligarão anticorpos específicos, quando presentes nas amostras. Em seguida,
+ocorrerá a revelação do teste pelas IgG de cabra anti-humana marcada com ficoeritrina.
+Outra opção é a detecção dos anticorpos por meio de um conjugado de isoluminol-
+antígeno para gerar emissão de quimiluminescência, que é medida por um sistema
+fotomultiplicador brilhante (WHO, 2013).
+2.2.1.4 Testes de hemaglutinação e aglutinação
+Incluem-se entre esses testes o ensaio de hemaglutinação para Treponema pallidum
+– TPHA (do inglês T. pallidum haemagglutination test), o ensaio de microhemaglutinção
+– MHA-TP (do inglês micro-haemagglutination assay) e o ensaio de aglutinação passiva
+de partículas para Treponema pallidum – TPPA (do inglês T. pallidum passive particle
+agglutination test). Os testes de hemaglutinação indireta ou passiva (TPHA e MHA-TP)
+baseiam-se na ligação dos anticorpos treponêmicos presentes no soro com hemácias
+que contêm, na sua superfície, antígenos de T. pallidum (cepa Nichols), resultando na
+aglutinação dessas hemácias (LUO; XIE; XIAO, 2021).
+Já no ensaio TPPA, os antígenos de T. pallidum são adsorvidos à superfície de
+partículas de gelatina. Os anticorpos presentes no soro ligam-se aos antígenos de várias
+dessas partículas de gelatina, resultando em aglutinação. A identificação da aglutinação
+é feita a olho nu (LUO; XIE; XIAO, 2021).
+2.2.1.5 Testes rápidos treponêmicos
+Esses testes caracterizam-se metodologicamente como testes imunocromatográ-
+ficos de fluxo lateral ou de duplo percurso – DPP (do inglês dual path platform), que
+permitem a pesquisa de anticorpos do tipo treponêmico em amostras biológicas. A
+execução, leitura e interpretação do resultado dos testes rápidos (TR) ocorrem em,
+no máximo, 30 minutos, sem a necessidade de estrutura laboratorial. Os TR podem
+ser realizados com amostras de sangue total (obtidas por punção digital ou punção
+venosa), soro ou plasma.
+20
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Nos mercados nacional e internacional, existem testes rápidos imunocro-
+matográficos que detectam somente um marcador, como os TR para investigação de
+anticorpos treponêmicos que vêm sendo adquiridos anualmente de forma centralizada
+pelo Ministério da Saúde (MS), e os TR que detectam simultaneamente mais de um
+tipo de marcador, como anticorpos anti-HIV e anticorpos treponêmicos em um mesmo
+dispositivo de teste (denominados Combo ou Duo, a depender do fabricante). Estudos de
+avaliação dos testes que realizam a detecção simultânea demonstraram um desempenho
+semelhante em relação à sensibilidade e especificidade quando comparados aos testes
+rápidos que detectam apenas um marcador (WHO, 2019). Ver mais informações no
+Apêndice A.
+Todos os testes rápidos a serem adquiridos pelo MS – tanto os que detectam um
+como mais marcadores – devem ser registrados na Anvisa e cumprir minimamente
+os critérios de sensibilidade e especificidade para o componente treponêmico
+apresentados na Tabela 1.
+Tabela 1 – Critérios de sensibilidade e especificidade para o componente
+treponêmico adotados pelo Ministério da Saúde para aquisição dos testes rápidos
+imunocromatográficos
+Parâmetro Valor
+Sensibilidade 94,5%
+Especificidade 93,0%
+Fonte: DCCI/SVS/MS.
+Além da aquisição criteriosa dos testes rápidos, o MS gerencia alguns processos
+para assegurar a qualidade dos resultados da testagem rápida ofertada na rede pública
+de saúde, tais como: 1) avaliações periódicas dos TR comercializados no país, em parceria
+com laboratórios de referência; 2) disponibilização da plataforma Telelab, para capacitar
+os profissionais de saúde sobre as diretrizes de diagnóstico e procedimentos de testagem
+rápida; 3) promoção do programa de Avaliação Externa da Qualidade para Testes
+Rápidos (AEQ-TR), que mensura o conhecimento dos profissionais sobre as diretrizes de
+diagnóstico e o desempenho na execução dos testes rápidos; e 4) monitoramento, junto
+às empresas fornecedoras, de possíveis intercorrências envolvendo os testes rápidos
+distribuídos (Figura 2).
+21
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Figura 2 – Monitoramento da qualidade dos resultados dos testes rápidos
+fornecidos pelo Ministério da Saúde
+1
+Avaliações
+2
+periódicasdos
+Ferramentade
+testesregistradoss
+capacitaçãoà
+nopaísa
+distânciado
+Ministérioda
+Saúdeb
+Monitoramento
+daqualidade
+dosresultados
+dostestes
+rápidosdesífilis
+4
+Monitoramento
+deintercorrências 3
+comtestes Programade
+fornecidospelo AAvaliaçãoExterna
+Ministérioda dddaQualidadepara
+Saúde
+TestesRápidosc
+Fonte: adaptado de Gaspar et al., 2021.
+Notas:
+a Bazzo et al., 2017.
+b Link de acesso à plataforma Telelab: https://telelab.aids.gov.br/
+c Link de acesso ao site da Avaliação Externa da Qualidade para Testes Rápidos (AEQ-TR): https://qualitr.paginas.ufsc.br/
+2.2.1.6 Resultados falsos nos testes treponêmicos
+De forma geral, resultados falsos nos testes treponêmicos podem ocorrer sempre
+que as instruções de transporte, armazenamento e uso de um teste não forem
+rigorosamente seguidas pelos profissionais dos serviços de coleta das amostras e/ou de
+execução dos testes.
+São raros os resultados falso-positivos devido a interferentes (BINDER; THEEL,
+2016); no entanto, eles podem ocorrer em portadores da doença de LymeG ou de
+doenças autoimunes e em pessoas com idade avançada (GHANEM; RAM; RICE, 2020).
+Nesses pacientes, o teste não treponêmico é geralmente não reagente; por isso, é
+necessário realizar um teste treponêmico adicional (com metodologia diferente do
+primeiro) para investigar a possibilidade de resultado falso-reagenteG – ver capítulo
+4 (JANIER et al., 2020).
+22
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+No que tange aos resultados falso-não reagentesG, pode-se citar o efeito “hook”
+(do inglês “gancho”). Esse nome se dá devido ao formato da curva do gráfico de “sinal
+de positividade” versus “concentração do analito”, aqui se tratando de anticorpos.
+Quanto maior a concentração de anticorpos na amostra, maior a positividade do teste.
+No entanto, quando se ultrapassa o equilíbrio entre a concentração de anticorpos da
+amostra e os reagentes, esse sinal de positividade decai, ao invés de aumentar, podendo
+ocasionar resultados falso-reagentes. Em testes treponêmicos, esse evento é mais raro,
+embora passível de acontecer em alguns casos. No caso dos testes não treponêmicos,
+tal fenômeno também é denominado de prozona, e será abordado mais adiante
+(SCHIETTECATTE; ANCKAERT; SMITZ, 2012; ZHANG, 2014).
+Sendo assim, para os casos em que os testes rápidos treponêmicos resultam não
+reagentes apesar da presença de relevantes evidências clínico-epidemiológicas de sífilis,
+recomenda-se coletar uma amostra venosa para investigação laboratorial de possível
+efeito hook. Portanto, na suspeita de sífilis, na presença de resultados com títulos elevados
+nos testes não treponêmicos e em caso de resultado não reagente de teste treponêmico –
+geralmente próximo ao valor de ponto de corte (cut off) em imunoensaiosG –, a amostra
+deve ser diluída a 1:8 e submetida novamente ao mesmo teste treponêmico.
+2.2.2 Testes não treponêmicos
+São testes amplamente utilizados nos laboratórios; têm baixo custo e caracterizam-
+se por apresentar resultados semiquantitativos, pois, nos casos de resultados
+reagentes, realiza-se a diluição da amostra para titulação desses anticorpos e emissão
+do resultado. São utilizados para auxiliar no diagnóstico (como primeiro teste ou teste
+complementar), para o monitoramento da resposta ao tratamento e para o controle
+de cura (BRASIL, 2020; LARSEN; STEINER; RUDOLPH, 1995; WORKOWSKI; BOLAN, 2015).
+Os testes não treponêmicos detectam anticorpos IgM e IgG anticardiolipina não
+específicos para T. pallidum. A cardiolipina consiste em material liberado pelas células
+humanas danificadas em decorrência da sífilis, e também pelo treponema durante a sua
+destruição no organismo (LUO; XIE; XIAO, 2021).
+2.2.2.1 Tipos de testes não treponêmicos
+Existem quatro tipos de testes não treponêmicos que utilizam a metodologia
+de floculação:
+• O VDRL (do inglês Venereal Disease Research Laboratory) baseia-se no uso de
+uma suspensão antigênica composta por uma solução alcoólica contendo
+cardiolipina, colesterol e lecitina purificada, e utiliza líquor ou soro inativado
+como amostra (LARSEN; STEINER; RUDOLPH, 1995; BRASIL, 2020).
+• O RPR (do inglês Rapid Plasmatic Reagin), o USR (do inglês Unheated
+Serum Reagin) e o TRUST (do inglês Toluidine Red Unheated Serum Test) são
+modificações do VDRL que visam aumentar a estabilidade da suspensão
+23
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+antigênica e, no caso do RPR e do TRUST, permitir a leitura do resultado a
+olho nu (LARSEN et al., 1998; PEELING et al., 2017; WORKOWSKI; BOLAN, 2015).
+Versões automatizadas de RPR já foram desenvolvidas mundialmente, sendo
+ainda necessária a validação dessa metodologia para sua incorporação à rotina
+laboratorial (TESFAZGHI et al., 2019).
+Os componentes da suspensão antigênica (colesterol, lecitina e cardiolipina) dos
+testes não treponêmicos ligam-se ao acaso, resultando na formação de estruturas
+denominadas micelas. Os anticorpos anticardiolipina, quando presentes nas amostras,
+ligam-se às cardiolipinas das micelas. Consequentemente, a ligação de anticorpos a
+várias micelas resulta em uma floculação. Os flocos ou grumos podem ser pequenos
+ou grandes e são visualizados a olho nu ou com o auxílio de um microscópio,
+dependendo do teste (LARSEN et al., 1998; WHO, 2013).
+O Quadro 1 traz as principais características individuais de cada um dos tipos
+de testes não treponêmicos acima citados. É importante ressaltar que, apesar
+dessa classificação, existem no mercado variações dos testes que combinam tais
+características e, portanto, são denominados de maneira diferente. Sendo assim, é
+extremamente importante consultar as instruções de uso do fabricante quanto aos
+tipos de amostras que podem ser testadas e como executar os testes com rigor
+metodológico e qualidade.
+Quadro 1 – Características gerais dos testes não treponêmicos para sífilis
+Características Testes
+Tipos de amostras que podem ser utilizadas VDRL RPR USR TRUST
+Líquido cefalorraquidiano Sim Não Não Não
+Plasma Não Sim Não Sim
+Soro Sim Sim Sim Sim
+Características dos testes VDRL RPR USR TRUST
+Exige inativação da amostraG? Sim Não Não Não
+Antígeno pronto para uso? Não Sim Sim Sim
+Exige leitura em microscópio? Sim Não Sim Não
+Permite leitura a olho nu? Não Sim Não Sim
+Estabilidade da suspensão antigênica 8 horas Meses Meses Meses
+Fonte: modificado de Larsen et al., 1998.
+24
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+A escolha do teste não treponêmico a ser utilizado depende do tipo de amostra,
+dos equipamentos disponíveis no laboratório e do volume da rotina (LARSEN; STEINER;
+RUDOLPH, 1995). Todas essas informações podem ser consultadas nas instruções de uso
+do fabricante. Nos termos de referência destinados à aquisição dos testes, exceto nos
+casos em que haja interesse em adquirir uma metodologia específica, recomenda-se
+empregar uma descrição mais ampla, como: “Testes não treponêmicos semiquantitativos
+para investigação de sífilis”.
+2.2.2.2 Titulação dos anticorpos não treponêmicos
+A titulação dos anticorpos de uma amostra é obtida por meio de diluições
+seriadas, e o resultado a ser descrito no laudo sempre será o valor da última diluição
+que apresentar reatividade no teste. Devem ser consideradas reagentes as amostras
+que apresentarem reatividade em qualquer uma das diluições, mesmo quando houver
+reatividade somente com a amostra pura (diluição 1:1), o que permitirá a compreensão,
+por parte do profissional clínico, de que a amostra foi também testada nas demais
+diluições, nas quais não apresentou reatividade. Os passos da diluição de uma amostra
+são normalmente executados com fator 2 de diluição. Ou seja, o título 1 (diluição 1:1)
+significa que a amostra foi analisada pura, isto é, foi testada sem diluição; o título 2
+(diluição 1:2) significa que um volume de amostra foi diluído em um mesmo volume de
+solução tampão; o título 4 (diluição 1:4) significa que um volume da amostra foi diluído
+em solução tampão em três vezes o volume de amostra, e assim por diante. Dessa forma,
+uma amostra com reatividade até a diluição 1:256 possui mais anticorpos do que uma
+amostra com reatividade até a diluição 1:2 (Figura 3).
+Para realizar um teste não treponêmico, são feitas várias diluições da
+amostra. A última diluição que ainda apresenta reatividade permite
+determinar o título (ex.: a amostra reagente até a diluição 1:16 corresponde
+ao título 16). No Brasil, a maioria dos laboratórios libera os resultados na
+forma de diluição. É importante que o resultado da testagem seja sempre
+liberado com a informação da diluição, mesmo quando houver reatividade
+somente na amostra pura (amostra reagente na diluição 1:1), o que permite a
+compreensão, pelo profissional clínico, de que a amostra foi também testada
+nas demais diluições, nas quais não apresentou reatividade.
+25
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Figura 3 – Diferença entre diluição e títulos
+4 (cid:15)tulos
+Títulos
+2 (cid:15)tulos
+Diluições
+1 diluição
+2 diluições
+Fonte: DCCI/SVS/MS.
+Nota: afirmar que a titulação da amostra diminui em duas diluições (de 1:64 para 1:16) é equivalente a afirmar que
+o título da amostra caiu quatro vezes. Isso porque a amostra é diluída em um fator 2; logo, uma diluição equivale a
+dois títulos.
+É importante ressaltar que pode haver variação na reatividade da amostra entre os
+diferentes testes não treponêmicos utilizados. Isso ocorre devido às particularidades das
+suspensões antigênicas que compõem os testes (JANIER et al., 2020; LARSEN; STEINER;
+RUDOLPH, 1995).
+Uma amostra testada utilizando testes de fabricantes ou plataformas
+distintas poderá apresentar variação de título em mais ou menos uma
+diluição no resultado final, sem que isso signifique erro. Essa variação
+também pode ocorrer em função da subjetividade da leitura desses testes,
+que dependem do olhar do profissional que os realiza (JANIER et al., 2020;
+LARSEN; STEINER; RUDOLPH, 1995).
+Dessa forma, para o monitoramento da resposta ao tratamento, quando se avalia
+se a titulação da amostra caiu ou aumentou em relação à última testagem do paciente,
+recomenda-se a utilização do mesmo tipo de teste não treponêmico, preferencialmente
+do mesmo fabricante, desde o diagnóstico até o último teste de monitoramento, para
+que se possa realizar a correta comparação dos títulos obtidos. Além disso, somente
+26
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+deve ser considerado significativo para a conduta clínica o aumento ou a diminuição do
+título em pelo menos duas diluições, devido à possibilidade de variação do resultado,
+intrínseca à metodologia, em até uma diluição, conforme mencionado previamente
+(WHO, 2016).
+2.2.2.3 Resultados falsos nos testes não treponêmicos
+De forma geral, resultados falsos nos testes não treponêmicos podem ocorrer
+sempre que as instruções de transporte, armazenamento e uso de um teste não forem
+rigorosamente seguidas pelos profissionais dos serviços de coleta das amostras e/ou de
+execução dos testes.
+Além disso, existem condições biológicas que podem desencadear resultados
+falsos, conforme apresentado a seguir:
+• Resultados falso-reagentes
+Os testes não treponêmicos podem apresentar resultados falso-reagentes, uma
+vez que os anticorpos anticardiolipina detectados por esses testes não são produzidos
+exclusivamente como consequência da sífilis, mas também em decorrência de outros
+agravos que levam igualmente à destruição celular (JANIER et al., 2020).
+Os resultados falso-reagentes em testes não treponêmicos devem ser investigados
+quando descartado o diagnóstico de sífilis. Geralmente, os resultados falso-reagentes
+apresentam títulos com diluições inferiores a 1:4 (JANIER et al., 2020).
+Embora haja possibilidade de resultados falso-reagentes, é importante
+ressaltar que qualquer título nos resultados de testes não treponêmicos deve
+ser investigado como suspeita de sífilis sem qualquer ponto de corte.
+Embora menos frequentes, as amostras com resultados falso-reagentes
+apresentando altos títulos de anticorpos podem ocorrer, por exemplo, em pessoas que
+utilizam drogas injetáveis, em pessoas com hanseníase, nas colagenosesG e em pessoas
+vivendo com HIV – PVHIV (JANIER et al., 2014; WHO, 2016).
+Os resultados falso-reagentes são classificados em dois tipos: transitórios, quando
+a reatividade do teste persiste por até seis meses, e permanentes, quando a reatividade
+do teste persiste por mais de seis meses (Quadro 2).
+27
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Quadro 2 – Situações que podem gerar resultados falso-reagentes nos testes não
+treponêmicos
+Situações que podem gerar resultados Situações que podem gerar resultados
+falso-reagentes transitórios falso-reagentes permanentes
+• Após imunizações; • Uso de drogas injetáveis;
+• Após infarto do miocárdio; • Doenças autoimunes;
+• Algumas doenças infecciosas febris • Infecção pelo HIV;
+(ex.: malária, hepatite, varicela e • Hanseníase;
+sarampo); • Hepatite crônica;
+• Gravidez. • Idade avançada.
+Fonte: adaptado de Janier et al., 2020.
+• Falso-não reagentes
+Resultados falso-não reagentes podem ocorrer em virtude do fenômeno prozona,
+especialmente na sífilis secundária, quando há grande produção de anticorpos.
+O fenômeno prozona consiste na ausência de reatividade aparente no teste não
+treponêmico realizado em uma amostra não diluída que, embora contenha anticorpos
+anticardiolipina, apresenta resultado não reagente quando é testada. Esse fenômeno
+decorre da relação desproporcional entre as quantidades de antígenos e anticorpos
+presentes na reação não treponêmica, gerando resultados falso-não reagentes. Por
+esse motivo, é fundamental que, todas as vezes que se realizar qualquer teste
+não treponêmico, a amostra seja sempre testada pura e na diluição 1:8. Esse é
+um procedimento padrão que deve ser adotado por todos os laboratórios (LARSEN;
+STEINER; RUDOLPH, 1995; LIU et al., 2014; SMITH; HOLMAN, 2004).
+28
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+3 DIAGNÓSTICO DA SÍFILIS
+Para a definição do diagnóstico da sífilis, é necessário correlacionar os dados clínicos,
+os resultados de testes diagnósticos, o histórico de infecções passadas, o registro de
+tratamento recente e a investigação de exposição ao risco recente (BRASIL, 2020).
+Os testes diagnósticos para sífilis podem ser utilizados para o rastreio de pessoas
+assintomáticas ou para a investigação de pessoas sintomáticas.
+O quadro de indicação de rastreio para sífilis e as características clínicas da sífilis
+em suas diferentes fases está descrito de forma detalhada no “Protocolo Clínico e
+Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente
+Transmissíveis”, disponível em: http://www.aids.gov.br/publicacoes (BRASIL, 2020).
+O desempenho dos testes diagnósticos para sífilis dependerá da presença de lesões,
+da capacidade de produção de anticorpos pelo organismo da pessoa infectada pelo T.
+pallidum, do estágio clínico da sífilis (isto é, primária, secundária, latente ou terciária) e
+da metodologia empregada no teste.
+A Figura 4 apresenta o desempenho dos testes que auxiliam no diagnóstico
+conforme o estágio da sífilis não tratada, quando não há o desencadeamento da
+cura espontânea.
+Figura 4 – Desempenho dos testes diagnósticos associados a cada fase da sífilis
+não tratada
+Fonte: adaptado de Peeling; Ye, 2004.
+Nota: a positividade dos testes diagnósticos pode variar a depender da capacidade de produção de anticorpos do
+organismo da pessoa com sífilis, do estágio da infecção e do método de teste diagnóstico utilizado.
+29
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Durante a sífilis primária, há o aparecimento do cancro duro, acompanhado de
+linfadenomegalia regional. Nessa fase, poderá ser coletada amostra de exsudato
+seroso das lesões ou de biópsia para realização de exames diretos.
+A detecção de T. pallidum nas amostras biológicas pode ser considerada
+diagnóstico definitivo de sífilis, quando associada a dados clínicos-epidemiológicos
+e realizada com qualidade por profissional experiente. No entanto, a realização dos
+testes imunológicos (que detectam anticorpos) é sempre recomendada para posterior
+monitoramento do tratamento, controle de cura e notificação de caso. É importante
+ressaltar que a detecção do treponema nas lesões primárias (cancro duroG) pode ser
+anterior à soroconversãoG. O período entre a infecção e a detecção de anticorpos é
+denominado janela imunológicaG. Dessa forma, quando o exame direto for positivo
+e os testes imunológicos forem negativos, uma nova amostra de sangue deverá ser
+coletada após 15 dias para a repetição do teste de detecção de anticorpos. Isso não
+deve, no entanto, retardar a instituição do tratamento caso o diagnóstico de sífilis seja
+o mais provável ou o retorno da pessoa ao serviço de saúde não possa ser garantido
+(LUO; XIE; XIAO, 2021; WHO, 2013).
+Com a evolução da infecção não tratada para sífilis secundária, os testes que
+detectam anticorpos passam a apresentar alta positividade, com detecção de elevados
+títulos de anticorpos não treponêmicos. Nessa fase, também é possível realizar exames
+diretos nas lesões características na pele e mucosas disseminadas. Após o tratamento
+da sífilis secundária, os testes treponêmicos, na maioria dos casos, permanecem
+reagentes por toda a vida do usuário, a chamada cicatriz sorológica (WHO, 2016), e os
+testes não treponêmicos podem ter comportamento variável. Em alguns indivíduos
+tornam-se não reagentes, e em outros permanecem indefinidamente reagentes em
+baixos títulos (também cicatriz sorológica).
+Quando não há instituição de tratamento na sífilis primária e secundária, haverá
+o desaparecimento dos sinais e sintomas da infecção, a qual entrará em uma fase de
+latência, considerada recente no primeiro ano e tardia após esse período (BRASIL,
+2020). Nesse estágio, como pode ser observado na Figura 4, todos os testes que
+detectam anticorpos permanecem reagentes, e observa-se uma diminuição dos títulos
+de anticorpos não treponêmicos, que se refletirá na diminuição da sensibilidade dos
+testes não treponêmicos (BRASIL, 2020).
+Após o período de latência, que pode durar até 40 anos em alguns casos, a infecção
+evolui para sífilis terciária, na qual os testes que detectam anticorpos treponêmicos
+possuem alta sensibilidade; porém, assim como na fase latente, observa-se uma
+diminuição da sensibilidade dos testes não treponêmicos (BRASIL, 2020).
+Além disso, como a sífilis terciária também acomete órgãos internos, o diagnóstico,
+sempre que possível, deve-se basear em resultados de testes complementares,
+conforme solicitação médica (BRASIL, 2020).
+30
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Recomendações importantes para o diagnóstico e monitoramento do
+tratamento de sífilis:
+• Para a investigação de novos casos de sífilis com testes imunológicos, recomenda-
+se iniciar a testagem com testes do tipo treponêmicos, pois estes se tornam
+positivos antes dos testes não treponêmicos. Porém, caso a pessoa tenha histórico
+de sífilis, recomenda-se iniciar a investigação com testes não treponêmicos,
+devido à alta probabilidade de os testes treponêmicos permanecerem reagentes
+durante toda a vida da pessoa, mesmo na ausência de reinfecção.
+• Quando há indicação de início de tratamento somente com um teste reagente,
+caso esse teste seja um teste treponêmico (ex.: teste rápidoG), é importante que
+a coleta de amostra para o teste não treponêmico seja realizada no início do
+tratamento (idealmente no primeiro dia), pois o resultado da testagem permitirá
+a conclusão do fluxograma diagnóstico e servirá como referência (para fins de
+comparação) no monitoramento clínico pós-tratamento.
+• Para o monitoramento do tratamento com testes não treponêmicos, somente
+variações de titulação de mais ou menos duas diluições possuem relevância
+clínica. Variações de apenas uma diluição no resultado (ex.: RPR com reatividade
+1:8 ao diagnóstico e reatividade 1:4 ou 1:16 no monitoramento do tratamento)
+podem representar apenas uma diferença de interpretação laboratorial.
+• As definições de resposta imunológica ao tratamento de sífilis e os critérios
+de retratamento por reativação ou reinfecção estão preconizadas no PCDT IST
+2020. É importante enfatizar que a possibilidade da completa negativação dos
+testes imunológicos é diretamente proporcional à precocidade do diagnóstico e
+do tratamento, bem como da resposta imunológica do indivíduo. Dessa forma,
+quanto mais tardio for o tratamento, maior será a possibilidade de o teste
+treponêmico permanecer reagente por toda a vida da pessoa, e de o teste não
+treponêmico permanecer estabilizado com títulos baixos (ex: 1:2, 1:4), sem que
+isso indique necessidade de retratamento.
+• A sífilis tratada e curada não confere imunidade; portanto, uma pessoa pode
+contrair a infecção tantas vezes quantas for exposta a T. pallidum.
+31
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+4 FLUXOGRAMAS COM TESTES IMUNOLÓGICOS PARA AUXILIAR
+NO DIAGNÓSTICO DA SÍFILIS
+Com a finalidade de padronizar a testagem com testes imunológicos para auxiliar
+na investigação da sífilis, apresentam-se a seguir dois fluxogramas. A realização de
+testes sequenciais tem por objetivo aumentar o valor preditivo positivoG (VPP) de um
+resultado reagente no primeiro testeG. O fluxograma em série é lógico e custo-efetivo.
+Na abordagem clássica (Fluxograma 1, Figura 5), o primeiro teste é um teste não
+treponêmico, que apresenta boa sensibilidade e é de fácil execução. O segundo teste é
+um teste sensível e mais específico, que visa complementar a investigação, reduzindo
+possíveis resultados falso-reagentes que tenham sido gerados no teste não treponêmico.
+Com o desenvolvimento de testes treponêmicos automatizados e o aprimoramento
+dos testes rápidos, em muitos serviços a abordagem clássica foi invertida (a chamada
+abordagem reversa), iniciando-se o diagnóstico com os testes treponêmicos, seguidos
+pelos testes não treponêmicos, quando o primeiro teste for reagente.
+Os testes que detectam simultaneamente anticorpos anti-HIV e treponêmicos no
+mesmo dispositivo (Duo ou Combo, a depender do fabricante), quando empregados
+na rotina dos serviços de saúde, devem ser utilizados nos algoritmos de testagem já
+previstos nos manuais técnicos de diagnóstico dos respectivos agravos. Dessa forma,
+para o diagnóstico de sífilis, o teste rápido Duo ou Combo HIV/Sífilis se comporta como
+um teste treponêmico da mesma forma que os demais testes rápidos treponêmicos
+simples e, portanto, os resultados da testagem devem ter a mesma interpretação e
+conduta já previstas nos algoritmos.
+É importante enfatizar que, em todos os fluxogramas, sempre que o teste não
+treponêmico for reagente, o resultado deverá ser liberado com a diluição ou o título
+de anticorpos presentes na amostra. Essa informação é útil para o monitoramento do
+tratamento e a investigação de reinfecção.
+4.1 Escolha do fluxograma de acordo com a solicitação de testagem
+A escolha do fluxograma para auxiliar na investigação de sífilis dependerá da
+finalidade da solicitação, da realidade de cada local no que se refere à disponibilidade de
+testes rápidos no serviço de atenção às pessoas e também da infraestrutura laboratorial
+disponível (Quadro 3).
+33
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Quadro 3 – Conduta laboratorial a ser adotada
+Tipo de Indicação de conduta
+Finalidade da solicitação
+solicitação* laboratorial
+É preferencial a utilização do
+Fluxograma 2 (abordagem reversa)
+Deverá ser solicitado na quando não se conhece o histórico
+Diagnóstico de
+indisponibilidade do teste de sífilis.
+sífilis
+rápido no serviço Nos casos em que há o registro
+de sífilis passada, recomenda-se a
+utilização do Fluxograma 1.
+Trata-se do Fluxograma 2 iniciado
+Quando foi realizada a
+Diagnóstico de com teste treponêmico no
+testagem rápida no serviço
+sífilis após TR serviço de atenção. Continuar o
+de saúde, com resultado
+reagente fluxograma a partir do teste não
+reagente.
+treponêmico.
+Não se aplica aos fluxogramas de
+Quando o diagnóstico diagnóstico. Realizar teste não
+e tratamento da sífilis treponêmico para avaliação da
+Monitoramento
+já foram realizados, é titulação da amostra. Esse teste
+do tratamento
+necessário monitorar os deve ter a mesma metodologia
+de sífilis
+títulos dos anticorpos não utilizada ao diagnóstico, quando
+treponêmicos. informado pelo profissional
+solicitante.
+Fonte: DCCI/SVS/MS.
+* O PCDT IST define que a solicitação seja feita de acordo com a finalidade da testagem e não pelo tipo de teste, visando
+o uso racional das diversas tecnologias para investigação da sífilis disponíveis no país.
+É muito importante que a coleta da amostra seja realizada no local de
+atendimento da pessoa, bem como que o resultado retorne ao serviço
+de saúde sem que haja a necessidade de deslocamento da pessoa até o
+laboratório. A instituição desse fluxo amplia o acesso e a adesão aos cuidados
+em saúde.
+34
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+4.2 Fluxograma 1 – Abordagem clássica
+O Fluxograma 1 consiste na abordagem clássica para o diagnóstico de sífilis por
+testes imunológicos, na qual se emprega um teste não treponêmico como primeiro
+teste, seguido por um teste treponêmico (incluindo a possibilidade de este ser um
+teste rápido) para a complementação da testagem. Caso o teste treponêmico seja não
+reagente, o Fluxograma 1 preconiza a utilização de um terceiro teste para conclusão
+do fluxograma, o qual deve ser um teste treponêmico com metodologia diferente do
+primeiro teste realizado.
+Quando executados em laboratório, sugere-se que todos os testes sejam
+realizados em uma mesma amostra, obtida por punção venosa, inclusive quando se
+utiliza o TR treponêmico como teste complementar. Porém, também é possível iniciar
+o fluxograma com o teste não treponêmico realizado no laboratório e prosseguir com
+testes rápidos como segundo ou terceiro teste treponêmico (quando necessário), com
+amostra de sangue total obtida por punção digital, durante o atendimento da pessoa
+no serviço de saúde.
+Figura 5 – Fluxograma 1 – Abordagem clássica
+Amostra
+Realizartestenão
+treponêmicoa
+Resultado Simb Realizarteste
+reagente? treponêmico
+Não
+Resultado Realizarteste
+reagente? Não treponêmicod
+Amostranãoreagente
+Amostrareagentepara
+paraan(cid:31)corposnão Sim an(cid:31)corposnão
+treponêmicos Resultado Não treponêmicoscom(cid:30)tulo
+reagente? enãoreagentepara
+Amostrareagentepara
+an(cid:31)corpostreponêmicosf
+an(cid:31)corposnão Sim
+treponêmicoscom
+(cid:30)tuloeparaan(cid:31)corpos
+treponêmicosc Amostrareagenteparaan(cid:31)corpos
+nãotreponêmicoscom(cid:30)tuloepara
+an(cid:31)corpostreponêmicose
+Fonte: DCCI/SVS/MS.
+a A amostra deve ser testada pura e diluída para eliminar a possibilidade do fenômeno prozona.
+b A amostra deve ser diluída em fator 2 e submetida ao teste não treponêmico novamente. O resultado deverá ser
+fornecido em valor de títulos (ex.: 2, 4, 8, ..., 128) ou da última diluição (ex.: 1:2, 1:4, 1:8, ..., 1:128) que apresentou
+reatividade.
+c A detecção de anticorpos não treponêmicos e treponêmicos é sugestiva de sífilis ativa.
+d Teste treponêmico com metodologia diferente do teste treponêmico já empregado no fluxograma como segundo
+teste. Se um terceiro teste não estiver disponível, liberar resultados de cada teste individualmente para avaliação e
+conduta clínica.
+e A detecção de anticorpos não treponêmicos e treponêmicos é sugestiva de sífilis ativa. Provável resultado falso-não
+reagente no primeiro teste treponêmico realizado.
+f Provável resultado falso-reagente para sífilis no teste não treponêmico. Avaliar outras condições clínicas que podem
+gerar resultados reagentes nos testes não treponêmicos.
+35
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+4.2.1 Desdobramento do fluxograma
+A amostra de soro ou plasma (a depender do teste utilizado) deverá ser submetida
+ao primeiro teste, que consiste em um teste não treponêmico. É indispensável que a
+amostra seja testada pura e na diluição 1:8 para eliminar a possibilidade do fenômeno
+prozona (ver seção 2.2.2.3). Nos casos de amostra não reagente no primeiro teste, o
+laudo (ver Apêndice D) deverá:
+• Apresentar o resultado individual do teste realizado;
+• Conter a conclusão da testagem como: “Amostra não reagente para
+anticorpos não treponêmicos”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Persistindo a suspeita de
+sífilis, uma amostra deverá ser coletada após 30 dias e submetida a uma
+nova testagem”.
+Quando a amostra apresentar resultado reagente no teste não treponêmico, deve-
+se repetir a testagem com a mesma amostra, porém diluindo-a em um fator 2 até que
+ela não apresente mais reatividade. O resultado deverá ser expresso em títulos (ex.: 2,
+4, 8, ..., 128) ou no valor da última diluição da amostra (ex.: 1:2, 1:4, 1:8, ..., 1:128) que
+apresentou reatividade no teste (ver seção 2.2.2.2).
+Após a determinação da titulação do teste não treponêmico, a amostra deverá ser
+submetida ao teste treponêmico. Quando a amostra apresentar resultado reagente
+também no teste treponêmico (segundo teste), o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+não treponêmicos com titulação XX (inserir valor em títulos ou diluição) e
+reagente para anticorpos treponêmicos”;
+• Incluir a orientação: “Importante associar o resultado da testagem a
+informações clínico-epidemiológicas para avaliar ocorrência da sífilis
+ativa ou cicatriz sorológica”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016”.
+Nos casos de discordância entre o resultado do teste não treponêmico e do
+teste treponêmico, sendo o primeiro reagente e o segundo não reagente, deve-se
+submeter a amostra a um terceiro teste de metodologia treponêmica diferente do teste
+anteriormente realizado.
+Se esse terceiro teste for reagente, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+36
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+não treponêmicos com titulação XX (inserir valor em títulos ou diluição) e
+reagente para anticorpos treponêmicos”;
+• Incluir a observação: “Provável ocorrência de resultado falso-não reagente
+no teste treponêmico (XXX). Importante associar o resultado da testagem
+a informações clínico-epidemiológicas para avaliar ocorrência de sífilis
+ativa ou cicatriz sorológica”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016”.
+Se esse terceiro teste for não reagente, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+não treponêmicos com titulação XX (inserir valor em títulos ou diluição) e
+não reagente para anticorpos treponêmicos”;
+• Incluir a observação: “Provável ocorrência de resultado falso-reagente no
+teste não treponêmico para sífilis. Estima-se que em 0,2% a 0,8% dos casos
+com resultados reagentes para os testes não treponêmicos podem estar
+associados a outras condições clínicas, transitórias ou permanentes, as
+quais estão descritas no Manual Técnico para o Diagnóstico da Sífilis, do
+Ministério da Saúde”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Persistindo a suspeita de
+sífilis, uma amostra deverá ser coletada após 30 dias e submetida a uma
+nova testagem”.
+Nos casos de discordância entre o resultado do teste não treponêmico e do teste
+treponêmico, sendo o primeiro reagente e o segundo não reagente, e na ausência
+de terceiro teste treponêmico com metodologia diferente do teste treponêmico
+anteriormente realizado, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+não treponêmicos com titulação XX (inserir valor em títulos ou diluição) e
+não reagente para anticorpos treponêmicos”;
+• Conter a observação: “Ausência de metodologia diferente do teste
+treponêmico utilizado para conclusão do Fluxograma 1 do Manual Técnico
+para o Diagnóstico da Sífilis, do Ministério da Saúde. Avaliar exposição de
+risco, sinais e sintomas e histórico de tratamento para definição de conduta”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016”.
+37
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+4.2.2 Laudo
+Além das informações citadas anteriormente, os laudos deverão estar de acordo
+com o disposto na Resolução RDC nº 302/Anvisa, de 13 de outubro de 2005, suas
+alterações, ou outro instrumento legal que venha a substituí-la.
+Sobre os profissionais que podem se responsabilizar pela liberação dos laudos, os
+conselhos profissionais regionais devem ser consultados, uma vez que são eles que
+habilitam esses profissionais para o desempenho de suas atividades.
+Modelos de laudos podem ser encontrados no apêndice D deste manual.
+4.3 Fluxograma 2 - Abordagem reversa
+O Fluxograma 2 (Figura 6) consiste na abordagem reversa à clássica para o
+diagnóstico de sífilis por testes imunológicos, na qual se emprega um teste treponêmico
+como primeiro teste, que pode ser laboratorial ou rápido, seguido por um teste não
+treponêmico para a complementação da testagem. Caso o teste não treponêmico
+seja não reagente, o Fluxograma 2 preconiza a utilização de um terceiro teste para a
+conclusão do fluxograma, o qual deve ser um teste treponêmico com metodologia
+diferente do primeiro teste realizado.
+Se executados em laboratório, todos os testes devem ser realizados em uma mesma
+amostra, obtida por punção venosa. Entretanto, também é possível iniciar o fluxograma
+com testagem rápida nos serviços de atenção à saúde, utilizando amostras de sangue
+total obtidas por punção digital, e finalizar o fluxograma com testes laboratoriais não
+treponêmicos e treponêmicos (quando necessário), utilizando amostras coletadas por
+punção venosa.
+38
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Figura 6 – Fluxograma 2 – Abordagem reversa
+Amostra
+Realizarteste
+treponêmico
+(rápidooulaboratorial)
+Resultado Realizartestenão
+Sim
+reagente? treponêmicoa
+Não
+Resultado Realizarteste
+Não
+reagente? treponêmicod
+Rea(cid:31)vidadeinicialpara
+Amostranãoreagente an(cid:31)corpos
+paraan(cid:31)corpos Simb treponêmicosnão
+treponêmicos Resultado Não confirmadaeamostra
+reagente?
+nãoreagentepara
+Amostrareagentepara an(cid:31)corposnão
+an(cid:31)corpostreponêmicos Sim treponêmicosf
+eparaan(cid:31)corposnão
+treponêmicoscom(cid:30)tuloc
+Amostrareagenteparaan(cid:31)corpos
+treponêmicosenãoreagentepara
+an(cid:31)corposnãotreponêmicose
+Fonte: DCCI/SVS/MS.
+a A amostra deve ser testada pura e diluída para eliminar a possibilidade do fenômeno prozona.
+b A amostra deve ser diluída em fator 2 e submetida ao teste não treponêmico novamente. O resultado deverá ser
+fornecido em valor de títulos (ex.: 2, 4, 8, ..., 128) ou da última diluição (ex: 1:2, 1:4, 1:8, ..., 1:128) que apresentou
+reatividade.
+c A detecção de anticorpos treponêmicos e não treponêmicos é sugestiva de sífilis ativa.
+d Teste treponêmico com metodologia diferente do teste treponêmico já empregado no fluxograma como primeiro teste.
+Se não disponível, liberar resultados de cada teste individualmente para avaliação e conduta clínica.
+e A detecção somente de anticorpos treponêmicos é sugestiva de sífilis recente ou cicatriz sorológica. Avaliar exposição
+de risco, sinais e sintomas e histórico de tratamento de sífilis para definição de conduta clínica.
+f A ausência de detecção de anticorpos não treponêmicos e a não confirmação de reatividade de anticorpos
+treponêmicos é sugestiva de ausência de sífilis. Provável ocorrência de resultado falso-reagente no primeiro teste
+treponêmico realizado.
+4.3.1 Desdobramento do fluxograma
+A amostra de sangue total, soro ou plasma (a depender do teste utilizado) deverá
+ser submetida ao primeiro teste, que consiste em um teste treponêmico (laboratorial ou
+rápido). Nos casos de amostra não reagente no primeiro teste, o laudo deverá:
+• Apresentar o resultado individual do teste realizado;
+• Conter a conclusão da testagem como: “Amostra não reagente para
+anticorpos treponêmicos”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Persistindo a suspeita de
+sífilis, uma amostra deverá ser coletada após 30 dias e submetida a uma
+nova testagem”.
+39
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+A amostra com resultado reagente no teste treponêmico deverá ser submetida à
+testagem com teste não treponêmico. É indispensável que essa amostra seja testada
+pura e na diluição 1:8 para eliminar a possibilidade do fenômeno prozona (ver seção
+2.2.2.3). Nos casos de amostra com resultado reagente no teste não treponêmico, deve-
+se repetir a testagem com a mesma amostra, porém diluindo-a em um fator 2 até que
+ela não apresente mais reatividade. O resultado deverá ser expresso em títulos (ex.: 2,
+4, 8, ..., 128) ou no valor da última diluição da amostra (ex.: 1:2, 1:4, 1:8, ..., 1:128) que
+apresentou reatividade no teste (ver seção 2.2.2.2). Após a conclusão do fluxograma, o
+laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+treponêmicos e reagente para anticorpos não treponêmicos com titulação
+XX (inserir valor em títulos ou diluição)”;
+•
+Incluir a orientação: “Importante associar o resultado da testagem a
+informações clínico-epidemiológicas para avaliar ocorrência de sífilis ativa
+ou cicatriz sorológica”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016”.
+Nos casos de discordância entre o resultado do teste treponêmico e do teste
+não treponêmico, sendo o primeiro reagente e o segundo não reagente, deve-se
+submeter a amostra a um terceiro teste de metodologia treponêmica diferente do teste
+anteriormente realizado.
+Se esse terceiro teste for reagente, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+treponêmicos e amostra não reagente para anticorpos não treponêmicos”;
+• Incluir a observação: “A não detecção de anticorpos pelo teste não
+treponêmico pode significar infecção muito recente ou presença de cicatriz
+sorológica pós-tratamento. Avaliar exposição de risco, sinais e sintomas e
+histórico de tratamento de sífilis para definição de conduta clínica”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Avaliar necessidade de
+repetição da testagem após 30 dias com a coleta de uma nova amostra”.
+Se esse terceiro teste for não reagente, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Reatividade inicial para anticorpos
+treponêmicos não confirmada e amostra não reagente para anticorpos
+não treponêmicos”;
+40
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+• Incluir a observação: “Provável ocorrência de resultado falso-reagente
+no teste treponêmico utilizado como primeiro teste, sugestiva ausência
+de sífilis”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Persistindo a suspeita de
+sífilis, uma amostra deverá ser coletada após 30 dias e submetida a uma
+nova testagem”.
+Nos casos de discordância entre o resultado do teste treponêmico e do teste
+não treponêmico, sendo o primeiro reagente e o segundo não reagente, e ausência
+de terceiro teste treponêmico com metodologia diferente do teste treponêmico
+anteriormente realizado, o laudo deverá:
+• Apresentar o resultado individual de cada teste realizado;
+• Conter a conclusão da testagem como: “Amostra reagente para anticorpos
+treponêmicos e não reagente para anticorpos não treponêmicos”;
+• Conter a observação: “Ausência de metodologia diferente do teste
+treponêmico utilizado para conclusão do Fluxograma 2 do Manual Técnico
+para o Diagnóstico da Sífilis, do Ministério da Saúde. Avaliar exposição
+de risco, sinais e sintomas e histórico de tratamento para definição de
+conduta”;
+• Incluir a seguinte ressalva: “Resultado obtido conforme estabelecido pela
+Portaria nº 2.012, de 19 de outubro de 2016. Persistindo a suspeita de
+sífilis, uma amostra deverá ser coletada após 30 dias e submetida a uma
+nova testagem”.
+4.3.2 Laudo
+Além das informações citadas anteriormente, os laudos deverão estar de acordo
+com o disposto na Resolução RDC nº 302/Anvisa, de 13 de outubro de 2005, suas
+alterações, ou outro instrumento legal que venha a substituí-la.
+Sobre os profissionais que podem se responsabilizar pela liberação dos laudos, os
+conselhos profissionais regionais devem ser consultados, uma vez que são eles que
+habilitam esses profissionais para o desempenho de suas atividades.
+Modelos de laudos podem ser encontrados no apêndice D deste manual.
+41
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+5 TESTES DIAGNÓSTICOS PARA INVESTIGAÇÃO DE NEUROSSÍFILIS
+Poucos dias após a infecção pelo T. pallidum, a bactéria migra para o sistema nervoso,
+desencadeando a neurossífilis, que pode ocorrer em qualquer estágio do curso natural
+da doença não tratada, e não somente na sífilis terciária (HOOK, 2016; WORKOWSKI;
+BOLAN, 2015).
+Para auxiliar no diagnóstico de neurossífilis, é importante que haja associação entre
+achados clínicos, alterações no líquido cefalorraquidiano (LCR) e detecção de anticorpos
+não treponêmicos também no LCR. Essa correlação de dados é importante, pois não
+há nenhum teste diagnóstico cujo resultado isolado seja capaz de definir um caso de
+neurossífilis. Embora não exista um teste de referência (padrão-ouro) para auxiliar na
+detecção de neurossífilis, o exame de VDRL é o mais recomendado, cuja sensibilidade
+varia de 50% a 70%. Esses valores podem ser 30% menores se o teste utilizado for o RPR
+(LARSEN; STEINER; RUDOLPH, 1995; WHO, 2016). Enquanto a reatividade de testes não
+treponêmicos no LCR estabelece o diagnóstico de neurossífilis, um teste não reagente
+não exclui o diagnóstico. Além disso, os testes não treponêmicos podem ter resultados
+falso-reagentes se o LCR estiver contaminado com sangue periférico em pacientes com
+altos títulos em testes não treponêmicos (MARRA, 2020).
+Um teste treponêmico reagente em amostra de LCR não confirma o diagnóstico
+de neurossífilis, mas quando o resultado é não reagente, o diagnóstico de neurossífilis
+é improvável. Até o momento, não há evidências científicas suficientes para apoiar a
+tomada de decisão clínica com base no resultado de testes treponêmicos com amostra
+de LCR (JANIER et al., 2020).
+A dosagem de proteínas e a avaliação citológica no LCR também poderão auxiliar
+na investigação de neurossífilis. Os valores de referência para proteínas e leucócitos
+considerados sugestivos de neurossífilis estão apresentados na Tabela 2.
+Tabela 2 – Valores de exame liquórico em indivíduos com suspeita de neurossífilis
+Idade
+Parâmetro
+Recém-nascido Indivíduos maiores que 28 dias
+Leucócitos* >25 células/mm3 >5 células/mm3
+Proteínas >150mg/dL >40mg/dL
+Fonte: adaptado de Brasil, 2020.
+* O aumento linfomonocitário é o mais comum.
+43
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Apesar de ser raro encontrar pacientes com neurossífilis que não apresentem
+pleocitose, alguns casos poderão ter um número normal de células mononucleares
+no LCR (especialmente na neurossífilis parenquimatosa: tabes dorsalis, paresia geral)
+e um nível de proteínas também normal. Mesmo com a limitação de sensibilidade e
+especificidade da dosagem de proteínas, o acompanhamento desse parâmetro é
+importante para o monitoramento pós-tratamento (BRASIL, 2020; JANIER et al., 2020).
+44
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+6 TESTES DIAGNÓSTICOS PARA INVESTIGAÇÃO DE SÍFILIS EM
+GESTANTE E SÍFILIS CONGÊNITA
+Toda gestante deve ser testada duas vezes para sífilis durante o pré-natal, a primeira
+no primeiro trimestre de gravidez e a segunda no terceiro trimestre. A parceria sexual
+também deve ser testada, conforme indicações do pré-natal do parceiro. Além disso, a
+realização da investigação de sífilis, imediatamente após a internação para o parto na
+maternidade, ou em caso de abortamento, também é obrigatória.
+O emprego de testes rápidos como testes iniciais para investigação da sífilis no
+pré-natal e nas maternidades apresenta as vantagens de agilizar o diagnóstico e o
+tratamento e otimizar a utilização dos leitos nas maternidades, evitando que a puérpera
+fique internada aguardando apenas o resultado do teste para sífilis.
+Porém, caso haja histórico de tratamento adequado de sífilis durante a gestação,
+recomenda-se que a investigação seja iniciada por testes não treponêmicos, para
+verificação dos títulos de anticorpos e comparação com as informações do pré-natal.
+Para o diagnóstico de sífilis congênita, deve-se analisar a história clínico-
+epidemiológica da mãe, realizar exame físico detalhado na criança e avaliar os resultados
+dos testes laboratoriais e dos exames radiológicos (BRASIL, 2020; PEELING; YE, 2004).
+Todos os recém-nascidos nascidos de mãe com diagnóstico de sífilis durante
+a gestação, independentemente do histórico de tratamento materno, deverão
+realizar teste não treponêmico com sangue periférico simultaneamente ao teste
+não treponêmico da mãe. O sangue de cordão umbilical não deve ser utilizado, pois
+esse tipo de amostra contém uma mistura do sangue da criança com o materno e pode
+resultar em testes falso-reagentes.
+O resultado do teste não treponêmico da criança e da mãe devem ser comparados
+para a determinação do significado dos achados sorológicos da criança. É importante
+que os testes não treponêmicos realizados na amostra da criança e da mãe sejam os
+mesmos, para eliminar a possibilidade de variação do título devido a diferenças de
+metodologia.
+No teste não treponêmico, um título maior que o materno em pelo menos duas
+diluições (ex.: materno 1:4, RN maior ou igual a 1:16) é indicativo de infecção congênita. A
+criança deverá ser tratada conforme o PCDT IST (BRASIL, 2020) e o PCDT para Prevenção
+da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (BRASIL, 2019a), e os testes no
+seguimento deverão ser realizados com 1, 3, 6, 12 e 18 meses de idade. O seguimento
+45
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+laboratorial poderá ser interrompido após dois testes não reagentes consecutivos ou
+queda do título em duas diluições.
+Em crianças que apresentem sinais clínicos da doença, os exames diretos podem
+auxiliar no diagnóstico da sífilis congênita. Nesses casos, são analisadas amostras de
+material coletado de lesões cutaneomucosas ou de secreção nasal. O achado do T.
+pallidum confirma o diagnóstico da infecção. É importante, nesse momento, considerar
+o status sorológico da mãe para a melhor correlação clínica com o caso do RN.
+Crianças com sífilis congênita devem realizar outros exames adicionais, de acordo
+com os PCDT IST e de Transmissão Vertical (BRASIL, 2020, 2019a). Dentre esses exames,
+destaca-se a análise de líquor, considerando-se os critérios de diagnóstico de neurossífilis,
+conforme mencionado anteriormente.
+A investigação da sífilis congênita em crianças maiores de 18 meses de idade
+(quando desaparecem os anticorpos maternos transferidos passivamente no período
+intrauterino) poderá ser feita utilizando qualquer um dos fluxogramas propostos neste
+manual, descritos na seção anterior. É importante ressaltar que o teste treponêmico
+reagente após os 18 meses de idade confirma o diagnóstico de sífilis congênita. Porém,
+um resultado não reagente não exclui sífilis congênita nos casos em que a criança foi
+tratada precocemente.
+No que diz respeito aos testes treponêmicos, não há correlação entre a titulação dos
+resultados dos testes treponêmicos do RN e da mãe que possa sugerir sífilis congênita.
+Dessa forma, não se recomenda a realização do teste treponêmico no bebê até os 18
+meses de idade, pois o resultado da testagem não terá utilidade para a definição do
+diagnóstico (BRASIL, 2020; SINGH et al., 2013).
+Existem testes treponêmicos capazes de detectar anticorpos do tipo IgM contra
+o T. pallidum no sangue do RN, pois esses anticorpos não atravessam a barreira
+placentária e, portanto, quando presentes na amostra da criança, indicam resposta do
+sistema imune frente à sífilis e não transferência de anticorpos maternos. Porém, esses
+anticorpos IgM específicos não são detectados em todos os casos de sífilis congênita e,
+dessa forma, um resultado negativo não necessariamente exclui diagnóstico de sífilis
+congênita, o que poderia implicar o não tratamento de crianças com sífilis. Diante do
+exposto, não se recomenda a utilização dos testes que detectam IgM (ex.: FTA-Abs
+IgM, imunoensaios IgM) para o diagnóstico da sífilis congênita (WORKOWSKI; BOLAN,
+2015; WHO, 2013).
+46
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+7 VIGILÂNCIA EPIDEMIOLÓGICA DA SÍFILIS
+A notificação compulsória de sífilis adquirida deve ocorrer de acordo com a Portaria
+de Consolidação nº 4, de 28 de setembro de 2017, e as notificações compulsórias de
+sífilis em gestante e sífilis congênita, conforme a Portaria nº 33, de 14 de julho de 2005
+ou demais normativas que venham a substituí-las. Para a vigilância epidemiológica
+dos casos de sífilis, devem-se seguir as definições de casos e orientações estabelecidas
+no “Guia de Vigilância em Saúde” e suas atualizações (BRASIL, 2019b), disponível
+em: http://www.saude.gov.br/bvs. Os dados epidemiológicos são publicados
+periodicamente nos Boletins Epidemiológicos específicos, disponíveis em: http://www.
+aids.gov.br e também podem ser encontrados em http://indicadoressifilis.aids.gov.br/.
+47
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+REFERÊNCIAS
+ADEGOKE, Adeolu O.; AKANNI, Olufemi E. Survival of Treponema pallidum in banked
+blood for prevention of syphilis transmission. North American Journal of Medical
+Sciences, [s. l.], v. 3, n. 7, p. 329-332, 2011.
+BAZZO, M. L.; DA MOTTA, L. R.; RUDOLF-OLIVEIRA, R. C. M. et al. Evaluation of seven
+rapid tests for syphilis available in Brazil using defibrinated plasma panels. Sexually
+Transmitted Infections, [s. l.], v. 93, n. S4, p. S46-S50, 2017.
+BINDER, Steven R; THEEL, Elitza S. Syphilis testing algorithms: a review. World
+Journal of Immunology, [s. l.], v. 6, n. 1, p. 1, 2016.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo
+Clínico e Diretrizes Terapêuticas para Atenção às Pessoas com Infecções
+Sexualmente Transmissíveis (IST). Brasília, DF: Ministério da Saúde, 2020.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo
+Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical do HIV,
+Sífilis e Hepatites Virais. Brasília, DF: Ministério da Saúde, 2019a.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Coordenação-Geral
+de Desenvolvimento da Epidemiologia em Serviços. Guia de Vigilância em Saúde:
+volume único. 3. ed. Brasília, DF: Ministério da Saúde, 2019b.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+DST, Aids e Hepatites Virais. Diagnóstico de Sífilis. Brasília, DF: Ministério da Saúde,
+2014. (Série Telelab, Aula 2). Disponível em: https://telelab.aids.gov.br/moodle/
+pluginfile.php/22193/mod_resource/content/1/S%C3%ADfilis%20-%20Manual%20
+Aula%202.pdf# . Acesso em: 24 set. 2021.
+EDMONDSON, Diane G; HU, Bo; NORRIS, Steven J. Long-Term In Vitro Culture of
+the Syphilis Spirochete Treponema pallidum subsp. pallidum. Journal of Clinical
+Microbiology, [s. l.], v. 9, n. 3, p. 1-18, 2018.
+GASPAR, Pâmela C.; BIGOLIN, Álisson; ALONSO NETO, José Boullosa et al. Brazilian
+protocol for sexually transmitted infections 2020: Syphilis diagnostic tests. Revista
+do Sistema Único de Saúde do Brasil, Brasília, DF, v. 30, p. 57-67, 2021.
+GHANEM, Khalil G.; RAM, Sanjay; RICE, Peter A. The Modern Epidemic of Syphilis. The
+New England Journal of Medicine, [s. l.], v. 382, n. 9, p. 845-854, 2020.
+HENAO-MARTÍNEZ, Andrés F.; JOHNSON, Steven C. Diagnostic tests for syphilis: New tests
+and new algorithms. Neurology: Clinical Practice, [s. l.], v. 4, n. 2, p. 114-122, 2014.
+HOOK, Edward W. Syphilis. The Lancet, [s. l.], v. 389, n. 10078, p. 1550-1557, 2016.
+HORVATH, Attila. Biology and natural history of syphilis. In: GROSS, G.; TYRING, S. K.
+(ed.). Sexually transmitted infections and sexually transmitted diseases. [s. l.]:
+Springer, 2011. p. 129-141.
+HUNTER, Elizabeth F.; DAVIDSON, Gary. The fluorescent treponemal antibody-
+absorption (Fta-Abs) test for syphilis. Critical Reviews in Clinical Laboratory
+Sciences, [s. l.], v. 5, n. 3, p. 315-330, 1975.
+49
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+JANIER, M. et al. 2014 European guideline on the management of syphilis. Journal
+of the European Academy of Dermatology and Venereology, [s. l.], v. 28, n. 12, p.
+1581-1593, 2014.
+JANIER, M. et al. 2020 European guideline on the management of syphilis. Journal of
+the European Academy of Dermatology and Venereology, [s. l.], p. 1-15, 2020.
+JEPSEN, O. B.; HOUGEN, K. H.; BIRCH-ANDERSEN, A. Electron microscopy of Treponema
+pallidum Nichols. Acta pathologica et microbiologica Scandinavica, [s. l.], v. 74, n. 2,
+p. 241-258, 1968.
+LARSEN, Sandra A.; STEINER, Bret M.; RUDOLPH, Andrew H. Laboratory Diagnosis and
+Interpretation of Tests for Syphilis. Clinical Microbiology Reviews, [s. l.], v. 8, n. 1, p.
+1-21, 1995.
+LARSEN, Sandra A. et al. A Manual of Tests for Syphilis. 9. ed. Washington, D.C.:
+APHA, 1998. 361 p.
+LIU, Li-Li et al. Incidence and risk factors for the prozone phenomenon in serologic
+testing for syphilis in a large cohort. Clinical Infectious Diseases, [s. l.], v. 59, n. 3, p.
+384-389, 2014.
+LUMBIGANON, P. et al. The epidemiology of syphilis in pregnancy. International
+Journal of STD & AIDS, [s. l.], v. 13, p. 486–494, 2002.
+LUO, Yuting; XIE, Yafeng; XIAO, Yongjian. Laboratory Diagnostic Tools for Syphilis:
+Current Status and Future Prospects. Frontiers in Cellular and Infection
+Microbiology, [s. l.], v. 10, n. 574806, p. 1–12, 2021.
+MARRA, Christina M. Neurosyphilis. UpToDate. [S. l.], 2020. Disponível em: https://
+www.uptodate.com/contents/neurosyphilis. Acesso em: 24 set. 2021.
+MCINTOSH, Edwin David G. Development of vaccines against the sexually
+transmitted infections gonorrhoea, syphilis, chlamydia, herpes simplex virus, human
+immunodeficiency virus and Zika virus. Therapeutic Advances in Vaccines and
+Immunotherapy, [s. l.], v. 8, p. 1-14, 2020.
+PEELING, Rosanna W. et al. Syphilis. Nature Reviews, [s. l.], v. 3, n. 17073, p. 1-21, 2017.
+PEELING, Rosanna W.; YE, Htun. Diagnostic tools for preventing and managing
+maternal and congenital syphilis: An overview. Bulletin of the World Health
+Organization, Geneva, v. 82, n. 6, p. 439-446, 2004.
+RATNAM, Sam. Laboratory diagnosis of syphilis. Canadian Journal of Infectious
+Diseases and Medical Microbiology, [s. l.], v. 16, n. 1, p. 45-51, 2005.
+RICORD, Philippe. A practical treatise on venereal diseases. Paris: Rouvier et le
+Bouvier, 1838.
+SÁEZ-ALQUÉZAR, Amadeo et al. Desempenho de testes sorológicos para sífilis,
+treponêmicos (Elisa) e não treponêmicos (VDRL e RPR), na triagem sorológica
+para doadores de sangue – confirmação dos resultados por meio de três testes
+treponêmicos (FTA-Abs, WB e TPHA). Revista de Patologia Tropical, [s. l.], v. 36, n. 3,
+p. 215-228, 2007.
+SCHIETTECATTE, Johan; ANCKAERT, Ellen; SMITZ, Johan. Interferences in
+Immunoassays. InTechOpen, [s. l.], 2012. Disponível em: https://www.intechopen.
+com/chapters/33740. Acesso em: 24 set. 2021.
+SCHROETER, Arnold L. et al. Treatment for Early Syphilis and Reactivity of Serologic
+Tests. JAMA: The Journal of the American Medical Association, [s. l.], v. 221, n. 5, p.
+471-476, 1972.
+50
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+SINGH, Ameeta E. et al. Seroreversion of treponemal tests in infants meeting
+Canadian surveillance criteria for confirmed early congenital syphilis. The Pediatric
+Infectious Disease Journal, [s. l.], v. 32, n. 3, p. 199-202, 2013.
+SMITH, Gregory; HOLMAN, Robert P. The Prozone Phenomenon with Syphilis and
+HIV-1 Co-infection. Southern Medical Journal, [s. l.], v. 97, n. 4, p. 379-382, 2004.
+TESFAZGHI, Merih T. et al. Clinical Performance of the BioPlex 2200 Syphilis Total
+& RPR Assay at a Tertiary Medical Center with a High Rate of Syphilis. Journal of
+Clinical Microbiology, [s. l.],v. 57, n. 1, p. 1-8, 2019.
+THEEL, Elitza S.; KATZ, Samantha S.; PILLAY, Allan. Molecular and Direct Detection
+Tests for Treponema pallidum Subspecies pallidum: A Review of the Literature, 1964-
+2017. Clinical Infectious Diseases, [s. l.], v. 71, n. Suppl 1, p. S4-S12, 2020.
+WAUGH, Michael. History of Sexually Transmitted Infections. In: GROSS, G.; TYRING, S.
+K. (ed.). Sexually transmitted infections and sexually transmitted diseases. [S. l.]:
+Springer, 2011. p. 129-141.
+WORKOWSKI, Kimberly A.; BOLAN, Gail A. Sexually Transmitted Diseases Treatment
+Guidelines. Morbidity and Mortality Weekly Report, [s. l.], v. 64, n. RR3, p. 1-137,
+2015. Disponível em: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6403a1.
+htm. Acesso em: 24 set. 2021.
+WORLD HEALTH ORGANIZATION. Diagnóstico laboratorial de doenças
+sexualmente transmissíveis, incluindo o vírus da imunodeficiência humana.
+Geneva: WHO, 2013. p. 175-188. cap. 15. Disponível em: https://www.who.int/
+reproductivehealth/publications/rtis/9789241505840/pt/. Acesso em: 24 set. 2021.
+WORLD HEALTH ORGANIZATION. WHO Guidelines for the Treatment of Treponema
+pallidum (syphilis). Geneva: WHO, 2016. Disponível em: https://apps.who.int/iris/
+bitstream/handle/10665/249572/9789241549806-eng.pdf. Acesso em: 24 set. 2021.
+WORLD HEALTH ORGANIZATION. Dual HIV/syphilis rapid diagnostic tests can be
+used as the first test in antenatal care. Policy brief. Geneva: WHO, nov. 2019. p.
+4. Disponível em: https://www.who.int/publications/i/item/WHO-CDS-HIV-19.38.
+Acesso em: 24 set. 2021.
+ZHANG, Yan. The Hook Effect. [Transcrição de apresentação]. [s. l.]: American
+Association for Clinical Chemistry, 2014. Disponível em: https://www.aacc.org/
+science-and-research/clinical-chemistry-trainee-council/trainee-council-in-english/
+pearls-of-laboratory-medicine/2014/the-hook-effect. Acesso em: 24 set. 2021.
+51
+
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+APÊNDICES
+Apêndice A – Informações adicionais sobre testes diagnósticos para sífilis
+Microscopia de campo escuro
+Devido à sua realização imediata e facilidade no preparo da amostra, esse teste é
+considerado um teste point-of-careG 1,2
+Para a identificação de T. pallidum por microscopia de campo escuro, é importante
+observar a sua morfologia, tamanho e movimentos típicos. Trata-se de um organismo fino
+(0,10 a 0,18µm de largura), com 6 a 20µm de comprimento e 8 a 14 espirais regulares
+(Figura 1). Move-se muito rapidamente, sendo possível identificar movimentos de
+alongamento e encurtamento. O microrganismo gira relativamente devagar ao redor do
+seu eixo longitudinal, além de realizar flexões sincopadas e torções na sua região central.
+Na microscopia de campo escuro, os T. pallidum aparecem na forma de corpos espiralados
+brilhantes e brancos, iluminados contra um fundo negro, conforme a Figura 12,3,4.
+Figura 1 – Detecção de Treponema pallidum em microscopia de campo escuro
+Fonte: CDC/Bill Schwartz, courtesy: Public Health Image Library. Disponível em: http://www.publicdomainfiles.com/
+show_file.php?id=13539898818059
+1 LARSEN, Sandra A.; STEINER, Bret M.; RUDOLPH, Andrew H. Laboratory Diagnosis and Interpretation of Tests for Syphilis.
+Clinical Microbiology Reviews, [s. l.], v. 8, n. 1, p.1-21, 1995.
+2 WORLD HEALTH ORGANIZATION). Diagnóstico laboratorial de doenças sexualmente transmissíveis, incluindo o
+vírus da imunodeficiência humana. Geneva: WHO, 2013. p. 175-188. cap. 15. Disponível em: https://www.who.int/
+reproductivehealth/publications/rtis/9789241505840/pt/. Acesso em: 24 set. 2021.
+3 JEPSEN, O. B.; HOUGEN, K. H.; BIRCH-ANDERSEN, A. Electron microscopy of Treponema pallidum Nichols. Acta pathologica
+et microbiologica Scandinavica, [s. l.], v. 74, n. 2, p. 241-258, 1968.
+4 HORVATH, Attila. Biology and natural history of syphilis. In: GROSS, G.; TYRING, S. K. (ed.). Sexually transmitted
+infections and sexually transmitted diseases. [S. l.]: Springer, 2011. p. 129-141.
+53
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Nos casos em que não houver detecção de treponemas no exame de campo
+escuro, deve-se considerar que o número de patógenos pode ser insuficiente para
+detecção, a lesão está próxima da cura ou o indivíduo infectado recebeu tratamento
+sistêmico ou tópico.
+Orientações para coleta de exsudato de lesões para realização de exames diretos
+1. Lavar cuidadosamente a lesão ativa com gaze e solução salina estéreis;
+2. Em seguida, raspar gentilmente a lesão com uma haste estéril e seca;
+3. Para a produção do exsudato, espremer a lesão ativa e, caso ocorra sangramento,
+remover as gotas de sangue;
+4. Transferir o líquido seroso para uma lâmina de vidro, pressionando-a contra o
+fluido ou, ainda, usando uma espátula fina de aço inox ou platina ou uma alça
+bacteriológica;
+5. Na lâmina contendo o líquido seroso, adicionar uma gota de solução salina, formando
+uma suspensão homogênea, que pode ser, então, coberta com uma lamínula;
+6. Examinar imediatamente a lâmina, a fim de garantir que o organismo apresente
+a sua mobilidade característica.
+Microscopia com material corado
+Todas as técnicas de microscopia que utilizam materiais corados apresentam
+sensibilidade inferior à da microscopia de campo escuro.
+A amostra para esse exame deve ser coletada da mesma maneira que a amostra
+para o exame direto a fresco. Os métodos disponíveis são:
+• Método Fontana-Tribondeau: deixa-se secar o esfregaço da amostra na lâmina
+e depois faz-se a coloração utilizando nitrato de prata, que irá impregnar a
+parede celular do treponema, permitindo sua visualização ao microscópio;
+• Método de Burri: utiliza tinta da China (nanquim);
+• Método de coloração pelo Giemsa: cora o T. pallidum de maneira tênue
+(palidamente), sendo difícil a observação das espiroquetasG;
+• Método de Levaduti: utiliza a prata em cortes histológicos.
+Testes treponêmicos
+Testes que detectam anticorpos treponêmicos IgM
+Testes específicos para detecção de anticorpos anti-T. pallidum do tipo IgM: são
+versões modificadas do FTA-Abs (FTA-IgM) e de imunoensaios em linha que detectam
+somente IgM, sendo utilizados para a detecção de IgM específico anti-T. pallidum.
+54
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+De acordo com o Manual da Organização Mundial da Saúde, a síntese de anticorpos
+IgM específicos é a primeira resposta imune humoral pós-infecção em diversas infecções
+bacterianas e virais. Entretanto, no caso da sífilis, a presença do anticorpo treponêmico
+IgM não está apenas presente em pacientes com sífilis precoce, mas também nos
+períodos de latência e na infecção tardia. Essa presença de anticorpos em diversos
+estágios da sífilis limita o valor dos ensaios para IgM específico no diagnóstico da doença
+em adultos5.
+No caso de recém-nascidos, a detecção de anticorpo treponêmico IgM possui
+baixa sensibilidade. Assim, um resultado não reagente (negativo) não permite realizar
+a exclusão do diagnóstico de sífilis congênita, o que poderia implicar o não tratamento
+de crianças com sífilis5.
+A primeira edição do Manual Técnico para o Diagnóstico da Sífilis recomendava o
+uso de testes que detectam anticorpos treponêmicos IgM isoladamente apenas para
+a avaliação de amostras de líquido cefalorraquidiano (LCR) e investigação da sífilis
+congênita em RN que demandam cuidados. Considerando o seu baixo poder resolutivo
+nos casos mencionados anteriormente, esses testes deixam de ser recomendados no
+diagnóstico de sífilis, neurossífilis ou sífilis congênita na atual versão do manual.
+Testes rápidos Duo ou Combo, que detectam anticorpos anti-HIV e anticorpos
+treponêmicos
+O uso dos testes que detectam simultaneamente anticorpos treponêmicos e
+anticorpos anti-HIV é considerado estratégico, em especial, no cuidado das gestantes
+durante o pré-natal. Embora os TR para HIV e sífilis estejam disponíveis em todos os
+serviços de saúde do SUS, observam-se situações em que é realizada a testagem
+rápida para HIV no pré-natal, mas, para sífilis, o serviço solicita investigação
+laboratorial, perdendo-se a oportunidade de testagem e tratamento na mesma
+consulta, quando necessário.
+Dessa forma, além de possibilitar a ampliação do acesso ao diagnóstico de HIV e
+sífilis, o uso dos testes Duo HIV/Sífilis proporciona agilidade no tratamento das gestantes
+e, consequentemente, a prevenção da transmissão vertical de HIV e da sífilis congênita.
+Outras vantagens incluem a redução de custos com transporte e armazenamento, a
+simplificação da execução dos testes rápidos com redução no quantitativo de sangue a
+ser coletado e a minimização da produção de resíduos hospitalares6.
+5 WORLD HEALTH ORGANIZATION. Diagnóstico laboratorial de doenças sexualmente transmissíveis, incluindo o
+vírus da imunodeficiência humana. Geneva: WHO, 2013. p. 175-188. cap. 15. Disponível em: https://www.who.int/
+reproductivehealth/publications/rtis/9789241505840/pt/. Acesso em: 24 set. 2021.
+6 WORLD HEALTH ORGANIZATION. Dual HIV/syphilis rapid diagnostic tests can be used as the first test in antenatal
+care. Policy brief. Geneva: WHO, nov. 2019. p. 4. Disponível em: https://www.who.int/publications/i/item/WHO-CDS-HIV-19.38.
+Acesso em: 24 set. 2021.
+55
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Apêndice B – Testes rápidos fornecidos pelo Ministério da Saúde no contexto
+de diagnóstico das infecções sexualmente transmissíveis
+Distribuição de testes rápidos
+O MS adquire e distribui testes rápidos de sífilis para todo o Brasil. O controle
+desses testes se faz por meio do Sistema de Controle Logístico de Insumos Laboratoriais
+(Sisloglab). Com o sistema, é possível gerenciar os estoques e monitorar a finalidade de
+uso dos testes, bem como verificar o número de testes reagentes, perdidos ou inválidos.
+A distribuição ocorre por capilaridade, sendo realizada inicialmente de forma direta
+do MS para os estados, distritos sanitários especiais indígenas e capitais desvinculadas
+da gestão estadual; essas instâncias, por sua vez, organizam suas próprias redes de
+distribuição dentro dos respectivos territórios. O quantitativo de testes enviados pelo
+MS é definido de acordo com as solicitações mensais realizadas por meio do Sisloglab.
+Telelab
+O MS oferece a plataforma Telelab (http://telelab.aids.gov.br) com cursos sobre
+as diretrizes de diagnóstico e procedimentos de testagem rápida, compostos por
+videoaulas e manuais. Essa plataforma permite capacitação a distância e gratuita dos
+profissionais da rede de atenção à saúde.
+Avaliação Externa da Qualidade para Testes Rápidos (AEQ-TR)
+Como uma das ferramentas para assegurar a qualidade da execução dos testes
+rápidos no SUS, o MS conta com o Programa de Avaliação Externa da Qualidade para
+Testes Rápidos (AEQ-TR) (http://qualitr.paginas.ufsc.br). O AEQ-TR é uma ferramenta
+de gestão com foco educacional, não punitivo, não obrigatório e gratuito, utilizado
+para monitorar a qualidade dos resultados da testagem rápida, permitindo que cada
+profissional integrante da rede de atenção à saúde avalie seu desempenho perante a
+execução de testes rápidos no diagnóstico das infecções sexualmente transmissíveis.
+Intercorrências com testes rápidos
+É considerada uma intercorrência com testes rápidos qualquer observação de:
+• Avaria no kit: quando ocorre a perda da integralidade ou das características
+originais da embalagem ou dos insumos que compreendem o conjunto
+diagnóstico (kit);
+56
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+• Resultado inválido: quando a linha colorida da região controle não aparece na
+janela de leitura;
+• Suspeita de resultados falsos: quando a condição de saúde do indivíduo e da
+conclusão diagnóstica contradizem o resultado obtido nos TR em questão.
+Quando são observadas intercorrências, os profissionais da saúde vinculados à rede
+do MS devem preencher um formulário de intercorrência (disponível em: http://www.
+aids.gov.br/pt-br/profissionais-de-saude/testes-rapidos) e encaminhá-lo à referência
+técnica da sua capital ou estado; segregar 10 (dez) amostras do kit para possível
+análise pela empresa fornecedora; e, sempre que possível, registrar com foto a suposta
+intercorrência. Caberá às referências técnicas o encaminhamento dos formulários ao
+Serviço de Atendimento ao Cliente – SAC da empresa fornecedora, que irá investigar e
+elucidar a intercorrência. O MS monitora mensalmente o desfecho e a devolutiva dada
+pelas empresas aos serviços de saúde notificantes.
+Apêndice C – Reação de floculação nos testes não treponêmicos
+A reação de floculação que ocorre nos testes não treponêmicos baseia-se na
+utilização de uma suspensão antigênica contendo cardiolipina, colesterol e lecitina.
+Quando esses componentes estão em suspensão, eles se ligam ao acaso, devido a
+características da própria estrutura química, formando estruturas globulares chamadas
+de micelas (Figura 1).
+Figura 1 – Representação esquemática da estrutura da micela
+Fonte: adaptado de Brasil, 2014.
+57
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Quando presentes na amostra, os anticorpos não treponêmicos (anticorpos
+anticardiolipina) ligam-se às cardiolipinas das micelas presentes na suspensão
+antigênica. Quando essa ligação ocorre simultaneamente a várias micelas, há floculação
+e formação de grumos (Figura 2). Esses grumos são visualizados em microscópios nos
+testes de VDRL e USR e a olho nu nos testes RPR e TRUST.
+Figura 2 – Representação esquemática da ligação do anticorpo anticardiolipina ao
+componente micelar cardiolipina e da floculação
+Fonte: adaptado de Brasil, 2014.
+Quando há grande quantidade de anticorpos anticardiolipina na amostra, podem
+ocorrer resultados falso-não reagentes em consequência do chamado fenômeno
+prozona (Figura 3). Esse fenômeno consiste na ausência da floculação, resultante de
+um impedimento de ligações de um mesmo anticorpo a cardiolipinas de várias micelas
+simultaneamente, sem formação de grumos.
+Figura 3 – Representação esquemática do fenômeno prozona
+Fonte: adaptado de Brasil, 2014.
+58
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Apêndice D – Modelos de laudos
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro teste não
+reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Não Treponêmico
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra não reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+59
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+reagentes:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Não Treponêmico
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Teste Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+___ e para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Importante associar o resultado da testagem a informações clínico-epidemiológicas
+para avaliar ocorrência de sífilis ativa ou cicatriz sorológica
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+60
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+discordantes e terceiro teste reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Não Treponêmico
+Amostra: _________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Teste Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Provável ocorrência de resultado falso não reagente no teste treponêmico ________.
+Importante associar o resultado da testagem a informações clínico-epidemiológicas
+para avaliar ocorrência de sífilis ativa ou cicatriz sorológica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+61
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+discordantes e terceiro teste não reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Não Treponêmico
+Amostra: _________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Teste Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Provável ocorrência de resultado falso-reagente no teste não treponêmico para
+sífilis. Estima-se que em 0,2% a 0,8% dos casos resultados reagentes para os testes
+não treponêmicos podem estar associados a outras condições clínicas, transitórios
+ou permanentes, as quais estão descritas no Manual Técnico para o Diagnóstico da
+Sífilis, do Ministério da Saúde.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+62
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Modelo de laudo para Fluxograma 1 (Abordagem clássica) com primeiro e segundo testes
+discordantes e terceiro teste não disponível
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Não Treponêmico
+Amostra: ____________________ (ex.: soro/plasma)
+Método: ____________________ (ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Teste Treponêmico
+Amostra: ________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos não treponêmicos e com titulação
+____ e amostra não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Ausência de metodologia diferente do teste treponêmico utilizado para conclusão
+do Fluxograma 1 do Manual Técnico para o Diagnóstico da Sífilis, do Ministério da
+Saúde. Avaliar exposição de risco, sinais e sintomas e histórico de tratamento para
+definição de conduta.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+63
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro teste não
+reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: ___________________ (ex.: soro/plasma)
+Método: ___________________ (ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra não reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+64
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com uso de teste rápido
+imunocromatográfico por punção digital com resultado reagente e necessidade de teste
+não treponêmico complementar
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de Registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: _________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: Sangue total
+Método: Imunocromatografia
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro
+de 2016.
+• Realizar complementação diagnóstica para sífilis com utilização de teste não
+treponêmico.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+65
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+reagentes:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Reagente até ____ (informar valor do título) ou 1: __ (informar valor da diluição)
+Conclusão: Amostra reagente para anticorpos treponêmicos e reagente para
+anticorpos não treponêmicos e com titulação ___.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Importante associar o resultado da testagem a informações clínico-epidemiológicas
+para avaliar ocorrência de sífilis ativa ou cicatriz sorológica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+66
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+discordantes e terceiro teste reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos e amostra não
+reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• A não detecção de anticorpos pelo teste não treponêmico pode significar infecção
+muito recente ou presença de cicatriz sorológica pós-tratamento. Avaliar exposição
+de risco, sinais e sintomas e histórico de tratamento de sífilis para definição de
+conduta clínica.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+67
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+discordantes e terceiro teste não reagente:
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Reatividade inicial para anticorpos treponêmicos não confirmada e
+amostra não reagente para anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro de
+2016.
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Provável ocorrência de resultado falso-reagente no teste treponêmico utilizado
+como primeiro teste, sugestiva ausência de sífilis.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+68
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Modelo de laudo para Fluxograma 2 (Abordagem reversa) com primeiro e segundo testes
+discordantes e terceiro teste não disponível
+Identificação do Laboratório/Serviço de Saúde
+Endereço e telefone
+Nº de registro do Laboratório Clínico/Serviço de Saúde no respectivo conselho de
+classe profissional
+Nome do Responsável Técnico – Nº Registro Conselho Profissional
+Nome social: _________________________ Nº registro: _____________
+Nome civil: __________________________
+Data de nascimento: __/__/____ Sexo: ____________
+Unidade solicitante: ___________________ Município/UF: _________/____
+Profissional solicitante: ________________
+Nº registro Conselho Profissional/UF: ____________/____
+Data da coleta: __/__/____ Data da emissão do laudo: __/__/____
+Teste Treponêmico
+Amostra: _________________ (ex.: sangue total/soro/plasma)
+Método: _________________(ex.: imunocromatografia, quimiluminscência, ELISA, TPHA)
+Fabricante do insumo: ___________________
+Resultado: Reagente
+Teste Não Treponêmico
+Amostra: ________________ (ex.: soro/plasma)
+Método: _________________(ex.: VDRL, RPR, USR, TRUST)
+Fabricante do insumo: ___________________
+Resultado: Não Reagente
+Conclusão: Amostra reagente para anticorpos treponêmicos e não reagente para
+anticorpos não treponêmicos.
+Observações:
+• Resultado obtido conforme estabelecido pela Portaria nº 2.012, de 19 de outubro
+de 2016
+• Persistindo a suspeita de sífilis, uma amostra deverá ser coletada após 30 dias e
+submetida a uma nova testagem.
+• Ausência de metodologia diferente do teste treponêmico utilizado para conclusão
+do Fluxograma 2 do Manual Técnico para o Diagnóstico da Sífilis, do Ministério da
+Saúde. Avaliar exposição de risco, sinais e sintomas e histórico de tratamento para
+definição de conduta.
+(assinatura)
+Nome do Responsável – Nº do Conselho Profissional
+69
+MINISTÉRIO DA SAÚDE
+SECRETARIA DE VIGILÂNCIA EM SAÚDE
+DEPARTAMENTO DE DOENÇAS DE
+CONDIÇÕES CRÔNICAS E INFECÇÕES
+SEXUALMENTE TRANSMISSÍVEIS
+GLOSSÁRIO
+(Todas as palavras presentes neste Glossário aparecem pela primeira vez no texto em
+negrito, com a letra G sobrescrita).
+Amostra biológica ou amostra do paciente: porção de fluido corporal, células ou
+tecido retirado de um indivíduo para exame, estudo ou análise.
+Anticorpo: proteína (imunoglobulina) produzida por linfócitos B, que se liga
+especificamente a uma substância reconhecida como estranha pelo organismo.
+Antígeno: qualquer substância ou material que possa estimular a produção de
+anticorpos em um organismo.
+Cancro duro ou cancro primário: lesão primária da sífilis, que ocorre aproximadamente
+três semanas após a infecção pelo Treponema pallidum.
+Cicatriz ou memória sorológica: caracteriza-se pela persistência de resultados
+reagentes nos testes treponêmicos e/ou reagentes com baixa titulação nos testes não
+treponêmicos após o tratamento correto para sífilis, sem que isso indique infecção.
+Colagenoses: doenças autoimunes, inflamatórias e degenerativas do tecido conjuntivo.
+Doença de Lyme: causada pelas bactérias Borrelia burgdorferi e, mais raramente,
+Borrelia mayonii. É transmitida por meio da picada de carrapatos infectados e causa, em
+humanos, sintomas como febre, dor de cabeça, fadiga e eritema migrans. Se não for
+tratada, a infecção pode se espalhar para as articulações, o coração e o sistema nervoso.
+Especificidade clínica ou especificidade diagnóstica: capacidade de um ensaio de
+apresentar resultado negativo ou não reagente quando o indivíduo não apresenta uma
+determinada doença ou desordem clínica.
+Espiroquetas: bactérias de forma helicoidal que tendem a apresentar um movimento
+ondulante semelhante ao de uma hélice.
+Exames diretos: testes que detectam o patógeno em uma amostra biológica.
+Falso-não reagente: resultado negativo ou não reagente obtido em um teste para uma
+doença ou condição na realidade presente.
+Falso-reagente: resultado positivo ou reagente obtido em um teste para uma doença
+ou condição na realidade ausente.
+Imunoensaio: método que detecta a presença de um complexo antígeno-anticorpo
+em uma amostra biológica.
+Inativação da amostra: método que consiste em submeter a amostra a banho-maria,
+a 56°C, por 30 minutos.
+Sensibilidade clínica ou sensibilidade diagnóstica: capacidade de um ensaio
+de apresentar resultado positivo ou reagente quando o indivíduo apresenta uma
+determinada doença ou desordem clínica.
+Síndrome da imunodeficiência adquirida (aids): síndrome clínica caracterizada por
+graus de imunodepressão variáveis, decorrente da infecção pelo HIV. A definição clínica
+de início da aids é o aparecimento de infecções oportunistas e/ou neoplasias. Desde
+1993, a aids também pode ser definida por critério laboratorial, utilizando a contagem
+de linfócitos T-CD4+.
+70
+MANUAL TÉCNICO PARA O
+DIAGNÓSTICO
+DA SÍFILIS
+Soroconversão: fase da resposta imune na qual ocorre a produção de anticorpos
+suficientes para serem detectados por um teste diagnóstico imunológico.
+Teste rápido: dispositivo de teste de uso único, que não depende de infraestrutura
+laboratorial. Produz resultado em tempo igual ou inferior a 30 minutos e que pode ser
+interpretado a olho nu.
+Testes imunológicos: testes que detectam, em uma amostra biológica, anticorpos
+contra um antígeno específico.
+Valor preditivo positivo: proporção de indivíduos com um resultado positivo em um
+teste e que apresentam a doença ou condição de interesse. Esse valor, normalmente, é
+apresentado em porcentagem.
+71
+Biblioteca Virtual em Saúde do Ministério da Saúde
+bvsms.saude.gov.br

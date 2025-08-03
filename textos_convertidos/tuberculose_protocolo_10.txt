@@ -1,0 +1,701 @@
+Ministério da saúde
+UBS
+Cartilha para o
+Agente Comunitário
+de Saúde
+Tuberculose
+7102
+FD|ailísarB
+BiBlioteca Virtual em Saúde do miniStério da Saúde
+www.saude.gov.br/bvs
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA
+Ministério da saúde
+secretaria de Vigilância em saúde
+departamento de Vigilância das doenças transmissíveis
+Cartilha para o
+agente Comunitário
+de saúde
+Tuberculose
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA
+2017 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons
+– Atribuição – Não Comercial – Compartilhamento pela mesma
+licença 4.0 Internacional. É permitida a reprodução parcial ou total
+desta obra, desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual
+em Saúde do Ministério da Saúde: <www.saude.gov.br/bvs>.
+Tiragem: 1ª edição – 2017 – 100 exemplares
+Elaboração, distribuição e informações: Daniele Chaves Kuhleis
+MINISTÉRIO DA SAÚDE Daniele Gomes Dell Orti
+Secretaria de Vigilância em Saúde Daniele Maria Pelissari
+Departamento de Vigilância das Doenças Fernanda Dockhorn Costa
+Transmissíveis Helena Barroso Bernal
+Coordenação-Geral do Programa Nacional de Lucas Nascimento Seara
+Controle da Tuberculose Luciana Trindade Nemeth
+SCS, Qd. 04, bloco A, Ed. Principal, 1º andar Marcela Virginnia Cavalcante
+CEP: 70300-904 – Brasília/DF Márcia Helena Leal
+Site: www.saude.gov.br/tuberculose Marina Gasino Jacobs
+E-mail: tuberculose@saude.gov.br Marli Souza Rocha
+Olavo de Moura Fontoura
+Organização:
+Patrícia Bartholomay Oliveira
+Denise Arakaki Sanchez
+Vânia Camargo da Costa
+Márcia Helena Leal
+Marina Gasino Jacobs Produção e projeto gráfico:
+Núcleo de Comunicação/SVS
+Colaboração:
+Diagramação: Sabrina Lopes
+Ana Cecília Paranaguá Fraga
+Andréa de Paula Lobo Equipe editorial:
+Cíntia Oliveira Dantas Normalização: Delano de Aquino Silva
+Impresso no Brasil / Printed in Brazil
+Ficha Catalográfica
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das
+Doenças Transmissíveis.
+Cartilha para o Agente Comunitário de Saúde : tuberculose / Ministério da Saúde, Secretaria de
+Vigilância em Saúde, Departamento de Vigilância das Doenças Transmissíveis. – Brasília: Ministério
+da Saúde, 2017.
+40 p. : il.
+1.Tuberculose. 2. Agente Comunitário de Saúde. 3. Saúde Pública. I. Título.
+CDU 616-002.5
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2017/0347
+Título para indexação:
+Guide for community health worker: tuberculosis
+Sumário
+apresentação 5
+Panorama geral da tuberculose 6
+o que é tuberculose? 7
+Como é a transmissão? 8
+Quais são os principais sinais e sintomas? 10
+O que significa sintomático respiratório (SR)? 11
+Como é feito o diagnóstico da tuberculose? 12
+Como é feito o tratamento? 14
+O que é tratamento diretamente observado (TDO)? 17
+Por que investigar tuberculose em pessoas que mantiveram
+contato com o paciente antes do início do tratamento? 18
+o que é tratamento da infecção latente da tuberculose
+(ILTB)? 19
+Quando administrar a vacina Bacillus Calmette-Guérin ou
+vacina contra a tuberculose (BCG)? 20
+Como realizar ações no território para o enfrentamento
+da tuberculose? 21
+Onde os dados sobre os sintomáticos respiratórios, os casos de
+tuberculose e sobre os exames de contatos são registrados? 22
+Quais são minhas atribuições como agente comunitário
+de saúde para o controle da tuberculose e o cuidado das
+pessoas? 24
+Anexos 27
+Anexo A – Ficha de visita domiciliar – e-SUS 28
+Anexo B – Livro de Registro do Sintomático Respiratório no
+serviço de saúde 30
+Anexo C – Ficha de notificação/investigação de tuberculose 32
+Anexo D – Livro de Registro de Pacientes e Acompanhamento
+de tratamento dos Casos de tuberculose 33
+Anexo E – Boletim de acompanhamento dos casos 35
+Anexo F – acompanhamento de tomada diária da medicação
+do Tratamento Diretamente Observado (TDO) 36
+Anexo G – Controle de contatos 38
+5
+apresentação
+O agente comunitário de saúde (ACS) é um profissional de
+extrema importância para a implementação do sistema único de
+Saúde (SUS), contribuindo para a melhoria da qualidade de vida
+das pessoas com ações de promoção e vigilância em saúde.
+O Ministério da Saúde reconhece que o processo de qualificação
+dos agentes comunitários de saúde deve ser permanente, por
+isso apresenta esta publicação em forma de cartilha para o aCs
+sobre a tuberculose.
+a tuberculose continua sendo um problema de saúde pública
+no Brasil.
+A tuberculose tem cura, seu diagnóstico e tratamento são
+disponi bilizados pelo SUS e feitos, preferencialmente, nas
+Unidades Básicas de Saúde (UBS).
+o objetivo desta cartilha é apresentar o tema da tuberculose
+oferecendo subsídios para o desenvolvimento do trabalho do aCs.
+Seu formato foi pensado para facilitar a consulta e o manuseio,
+principalmente auxiliando o esclarecimento de dúvidas durante
+a visita domiciliar de forma objetiva. Visa também destacar o
+olhar para a tuberculose, contribuindo com o controle da doença
+e o cuidado das pessoas no território de atuação.
+esperamos que esta cartilha contribua para o fortalecimento
+de seu trabalho, ajudando no melhor desenvolvimento de
+suas ações.
+Contamos com vocês na luta contra tuberculose!
+6
+Panorama geral da tuberculose
+Estima-se que, em 2015, cerca de 10,4 milhões de pessoas
+adoeceram por tuberculose no mundo, com 1,4 milhão de
+mortes pela doença. Dos casos de tuberculose, 87% encon-
+tram-se concentrados em 30 países, sendo o Brasil um deles.
+No Brasil, em 2015, foram notificados aproximadamente 69 mil
+casos novos de tuberculose, com 4,5 mil mortes. A tuberculose
+é a terceira causa de morte por doença infecciosa na
+população geral e a primeira causa de morte entre as doenças
+infecciosas definidas nas pessoas que vivem com HIV/aids.
+o adoecimento por tuberculose tem forte componente social
+e está relacionado à situação imunológica do indivíduo, o que
+remete às condições de vida a que está exposto, tais como
+nutrição, moradia, trabalho, sono e também a associação com
+outras doenças, como HIV/aids, diabetes e câncer.
+Em decorrência da dificuldade de acesso aos serviços
+públicos, das condições de vida, do preconceito, do estigma
+e das condições individuais de saúde, certos grupos
+populacionais estão mais vulneráveis ao adoecimento, tais
+como pessoas em situação de rua, privadas de liberdade,
+vivendo com HIV/aids, indígenas e profissionais de saúde. Em
+tais populações se faz necessário um olhar específico para
+tuberculose devido ao maior risco de adoecimento quando
+comparadas à população geral.
+é papel do aCs divulgar para sua comunidade a
+tuberculose como importante problema de saúde
+pública atual.
+7
+o que é tuberculose?
+a tuberculose é infecção causada por uma bactéria –
+Mycobacterium tuberculosis (bacilo de Koch), que atinge
+principalmente os pulmões, sendo chamada de tuberculose
+pulmonar, mas pode acometer diversas partes do organismo,
+neste caso sendo chamada de tuberculose extrapulmonar.
+nem todos os infectados pelo bacilo desenvolvem a doença.
+Ele pode permanecer no organismo durante anos, sem que a
+pessoa adoeça por tuberculose. a isso se dá o nome de infecção
+latente por tuberculose (ILTB). Qualquer pessoa infectada pode
+adoecer por tuberculose, porém existem algumas condições que
+comprometem o sistema de defesa do organismo, propiciando
+o adoecimento. Pessoas com doenças como diabetes, infecção
+pelo HIV/aids, câncer, uso de tabaco estão sob maior risco de
+desenvolver a doença ativa. Condições desfavoráveis de vida
+como desnutrição, situação de rua, privação de liberdade,
+necessidades decorrentes do uso de álcool e outras drogas,
+além de barreiras de acesso aos serviços de saúde também
+colocam o indivíduo em maior vulnerabilidade ao adoecimento.
+Para que se possa lidar de forma mais abrangente com as
+questões de saúde da população, é importante a articulação
+com os diversos atores e serviços que atuam no território
+para a construção de intervenções intersetoriais.
+ações de controle da tuberculose devem ser inseridas no
+planejamento das equipes de saúde do território, contem-
+plando a articulação entre diversos setores da saúde.
+8
+Como é a transmissão?
+A transmissão ocorre de pessoa a pessoa, por meio
+do bacilo expelido por tosse, espirro ou fala de uma
+pessoa com tuberculose pulmonar ou na laringe.
+Ambientes fechados, mal ventilados, com ausência de
+luz solar, com aglomerados de pessoas tornam maior a
+chance de transmissão.
+Quanto maior o tempo de permanência em ambiente
+com essas características e pessoas com tuberculose
+sem tratamento, maior a chance de infecção. Por
+isso, é importante manter a casa arejada, permitir a
+entrada de luz solar e manter as janelas abertas para
+adequada circulação do ar. orientar também o paciente
+a levar o braço ou lenço à boca e ao nariz quando
+tossir ou espirrar para diminuir a disseminação dos
+bacilos. essas medidas são importantes durante a
+fase de transmissão. A partir de 15 dias de tratamento
+adequado, o risco de transmissão diminui.
+Cabe ao ACS, durante a visita domiciliar e durante sua
+interação com a população, orientar quanto à transmissão
+aérea da tuberculose e às medidas de prevenção que
+podem ser adotadas.
+9
+FIGURA 1
+Forma de transmissão da tuberculose
+PEGA
+tosse
+espirro
+Fala
+Não PEGA
+talheres
+toalhas
+Pratos
+abraço
+Fonte: Programa nacional de Controle da tuberculose
+(CGPNCT/SVS/MS).
+10
+Quais são os principais sinais e
+sintomas?
+a tosse é o sintoma mais frequente da
+tuberculose pulmonar, geralmente
+acompanhada de expectoração
+(escarro). Além da tosse, pode surgir
+febre baixa (geralmente no final
+da tarde), suores noturnos,
+emagrecimento, fraqueza,
+cansaço e dores no corpo.
+na tuberculose extrapulmonar
+outros sintomas podem surgir,
+de acordo com o órgão acometido.
+Em todos os encontros com a comunidade, o ACS deve
+estar atento aos principais sintomas da tuberculose
+(tosse, febre, emagrecimento e sudorese noturna),
+assim como divulgá-los, e fazer o encaminhamento das
+pessoas com esses sintomas para a unidade de saúde.
+11
+O que significa sintomático respiratório (SR)?
+Para a população geral, é considerado sintomático respiratório
+(SR) quem tem tosse por três semanas ou mais. Pensando em
+diagnosticar a tuberculose (TB) mais precocemente, sugere-
+-se investigá-la nas pessoas privadas de liberdade e/ou com
+diabetes quando há presença de tosse por duas semanas ou
+mais. A TB deve ser investigada na presença
+de tosse, independentemente do tempo,
+nas pessoas vivendo em situação de
+rua, pessoas vivendo com HIV/aids,
+indígenas e pessoas com necessidades
+decorrentes do uso de álcool e outras
+drogas. a busca ativa em domicílio
+deve ser registrada na Ficha de
+Visita Domiciliar (Anexo A) ou no
+aplicativo e-SUS AB Território, nos
+casos dos aCs que possuem tablets
+com o aplicativo instalado. os srs
+identificados no território devem ser
+registrados no livro de registro do
+Sintomático Respiratório no Serviço
+de Saúde (Anexo B) e investigados para
+tuberculose com exame de escarro.
+Para interromper a cadeia de transmissão da doença
+é fundamental a descoberta oportuna dos casos de
+tuberculose ativa. Sendo assim, a busca ativa de SR deve
+ser uma estratégia priorizada pelos aCs.
+12
+Como é feito o diagnóstico da
+tuberculose?
+A comprovação bacteriológica dos casos de TB é
+fundamental tanto para o diagnóstico quanto para o
+controle da doença. Os principais exames de diagnóstico
+para tuberculose pulmonar são: baciloscopia, teste rápido
+molecular (TRM-TB) e cultura.
+Para a realização da baciloscopia
+recomendam-se duas amostras
+de escarro: uma no momento
+da identificação do sintomático
+respiratório (SR) e outra na manhã
+do dia seguinte. Para a realização
+do teste rápido molecular para
+tuberculose (TRM-TB) recomenda-
+se apenas uma amostra de
+escarro, coletada no momento
+da identificação do SR (para mais
+informações, recorrer ao Guia de
+Orientações de Coleta de Escarro).
+A realização de cultura com identificação e teste de
+sensibilidade, além da baciloscopia ou TRM-TB, é indicada
+para indígenas, pessoas que vivem com HIV, em situação de
+rua, privadas de liberdade, profissionais de saúde, pessoas
+que já trataram tuberculose ou são contatos de casos de
+tuberculose resistente. Nesses casos, a solicitação deve ser
+feita ainda no momento da identificação do SR.
+13
+Outros exames adicionais podem ser indicados, como
+radiografias, biópsias ou tomografias.
+É recomendado que seja ofertada a testagem para o HIV
+para toda população, principalmente às pessoas com TB,
+de preferência com o teste rápido para diagnóstico. A
+tuberculose é a principal causa de morte entre as doenças
+infecciosas definidas em pessoas vivendo com HIV/aids, e
+seu diagnóstico precoce é fundamental para o tratamento
+oportuno de ambas as infecções.
+Os casos diagnosticados de TB devem ser notificados na
+Ficha de Notificação/Investigação (Anexo C) do Sistema de
+Informação de Agravos de Notificação (Sinan).
+O trabalho que o ACS realiza deve possibilitar, conforme
+a rede do município, que a primeira amostra de escarro
+seja coletada no momento da suspeita de tuberculose,
+permitindo o início oportuno do tratamento, a diminuição
+da transmissão e a consequente queda no número de
+casos, uma vez que o principal exame diagnóstico é o
+exame do escarro.
+14
+Como é feito o tratamento?
+O tratamento, incluindo os medicamentos, está disponível no
+SUS. Sua duração é de no mínimo seis meses, e os remédios
+devem ser tomados todos os dias.
+Para o acolhimento do paciente é fundamental a abertura
+de diálogo, informando ao paciente os nomes dos remédios
+administrados, perguntando se tem dúvidas em relação
+ao tratamento ou à doença. durante todo o tratamento
+deve ser questionada a existência de eventos adversos à
+medicação (Quadro 1) e, caso seja identificado algum, o
+paciente deve ser orientado e/ou encaminhado ao serviço
+de saúde para avaliação. Às pacientes em idade fértil deve
+ser informado que a medicação para TB diminui o efeito
+do anticoncepcional, assim é importante que durante o
+tratamento para TB sejam utilizados também métodos
+contraceptivos de barreira, como camisinha feminina ou
+masculina, DIU e diafragma.
+é importante também estar atento a outras possíveis
+barreiras que dificultem a adesão, como o horário do
+tratamento diretamente observado, preconceito de familiares
+em relação à TB ou necessidades decorrentes do uso de
+álcool ou outras drogas; e fazer o acionamento da rede
+que possa dar suporte ao paciente (outros profissionais da
+equipe, Centros de Atenção Psicossocial – Caps, Centros
+de referência de assistência social – Cras e Centros de
+Referência Especializados de Assistência Social – Creas).
+15
+devem ser realizadas consultas mensais para o
+acompanhamento da resposta ao tratamento e o
+monitoramento de efeitos adversos. Pacientes que não
+comparecerem ao serviço de saúde quando agendados,
+seja para consultas ou entrega de medicação, devem ser
+captados pelo ACS por meio da busca ativa, por isso a
+necessidade de integração entre os membros da equipe,
+passando ao aCs as agendas previstas para que ele possa
+monitorar os casos no seu território.
+Com o início do tratamento correto há melhora expressiva
+do estado geral do paciente, ainda assim, é essencial que o
+tratamento seja seguido até o final.
+Após 15 dias de tratamento adequado, com melhora do
+quadro clínico, as chances de transmissão diminuem.
+a evolução do paciente deve ser registrada no livro de
+registro de Paciente e acompanhamento de tratamento
+dos Casos de Tuberculose (Anexo D), no Boletim de
+acompanhamento dos casos (Anexo E) e na Ficha de visita
+domiciliar – e-SUS (Anexo A).
+O tratamento para TB está disponível no SUS, dura no
+mínimo seis meses e deve ser feito até o final para que
+se alcance a cura. Cabe ao aCs realizar a busca ativa dos
+pacientes que não comparecerem ao serviço de saúde
+quando agendados.
+16
+QUADRo 1
+Possíveis efeitos adversos nos pacientes em tratamentopara
+tuberculose e condutas
+eFeito adVerso CONDUTA
+orientar que tome a medicação
+para TB com o café da manhã,
+Náusea, vômito, dor abdominal
+ou duas horas depois, e marcar
+consulta no serviço de saúde.
+orientar que é um efeito
+normal da medicação e que
+Suor e/ou urina avermelhada
+voltará ao normal com o fim
+do tratamento
+orientar que é um efeito
+Dor de cabeça, ansiedade, insônia normal da medicação e marcar
+consulta no serviço de saúde
+Dor nas articulações
+Pele e olhos amarelados
+Marcar consulta no serviço
+Coceira e vermelhidão na pele de saúde
+Surgimento de qualquer
+outro sintoma
+Fonte: Programa Nacional de Controle da Tuberculose (CGPNCT/SVS/MS).
+17
+observação
+Ao perceber algum desses efeitos adversos, após seguir as orienta-
+ções anteriores, leve o caso para discutir com os outros profissionais
+da sua equipe. A avaliação com a equipe e as intervenções em
+tempo oportuno são fundamentais para o sucesso do tratamento.
+o que é tratamento diretamente observado?
+O tratamento diretamente observado (TDO) é recomendado
+como estratégia de adesão, e consiste na tomada diária da
+medicação observada por um profissional de saúde. Quando isso
+não for possível, a observação pode ser feita por profissionais de
+outros equipamentos (Centro POP, abrigos institucionais, Centros
+de Atenção Psicossocial – Caps e outros parceiros) desde que
+supervisionados por um profissional de saúde.
+o aCs deve fazer a observação das tomadas de medicação de
+segunda-feira a sexta-feira. Caso isso não seja possível, no
+mínimo três vezes por semana, supervisionado semanalmente
+por um profissional da Enfermagem. O acompanhamento deve
+ser registrado na Ficha de acompanhamento de tomada diária da
+Medicação do Tratamento Diretamente Observado (TDO) (Anexo F).
+É essencial a construção de vínculo entre o usuário e os profissio-
+nais de saúde para a elaboração de um tratamento que considere
+a singularidade do indivíduo e seu contexto. o vínculo que o aCs
+tem com o paciente durante as visitas domiciliares é importante es-
+timulador para que ele(a) faça a adesão ao tratamento e conclua-o.
+Especialmente no primeiro mês de tratamento, é recomendado
+que o tdo seja realizado em ambientes bem ventilados.
+O ACS tem papel essencial para o êxito do tratamento,
+tanto para a realização do tdo como no vínculo e
+diálogo com o usuário.
+18
+Por que investigar tuberculose em
+pessoas que mantiveram contato com o
+paciente antes do início do tratamento?
+Sendo uma doença de transmissão aérea, é importante que
+as pessoas que mantêm contato frequente com alguém com
+diagnóstico de tuberculose pulmonar sejam avaliadas em
+uma unidade de saúde. Esse convívio pode se dar em casa, no
+trabalho, na escola ou em instituições de longa permanência,
+entre outras.
+a avaliação de contatos
+é feita por meio
+da investigação da
+história, quadro clínico,
+prova tuberculínica,
+radiografia de tórax e
+exames bacteriológicos,
+quando indicado. Para
+os casos recomendados, será
+feito o tratamento da infecção latente
+(infecção pelo bacilo, sem o adoecimento
+por tuberculose). A ficha de Controle de
+Contatos (Anexo G) deve ser preenchida.
+19
+o que é tratamento da infecção latente da
+tuberculose (ILTB)?
+nem todos os infectados pelo bacilo desenvolvem a doença.
+ele pode permanecer no organismo durante anos sem que
+a pessoa apresente sintomas, ou seja, sem que a pessoa
+esteja doente. a isso se dá o nome de infecção latente por
+tuberculose (ILTB). O tratamento da ILTB tem o objetivo
+de evitar que o indivíduo com infecção latente adoeça por
+tuberculose. sua indicação depende da avaliação clínica
+e de exames complementares. o tratamento é realizado
+com a medicação chamada isoniazida e dura de seis a nove
+meses, com tomadas diárias de medicação. É necessário o
+acompanhamento mensal na unidade de saúde para avaliação
+do tratamento e recebimento da medicação.
+o aCs deve orientar e encaminhar os contatos ao
+serviço de saúde para avaliação clínica e possível
+diagnóstico e tratamento.
+20
+Quando administrar a vacina Bacillus
+Calmette-Guérin (BCG) ou vacina contra
+a tuberculose?
+A vacina BCG deve ser administrada o mais precocemente
+possível, de preferência, logo após o nascimento do bebê.
+a vacina diminui a incidência de formas graves da
+tuberculose (meningite tuberculosa e tuberculose miliar).
+Deve-se verificar no Cartão da Criança a situação vacinal
+e, caso não esteja atualizada, fazer o encaminhamento à
+unidade de saúde para atualizar o esquema vacinal. as
+crianças de até 5 anos de idade (4 anos, 11meses e 29 dias)
+que não têm cicatriz vacinal no braço direito também devem
+ser encaminhadas à unidade de saúde para que seja avaliada
+a necessidade da vacinação.
+o aCs deve acompanhar a situação vacinal das crianças do
+território e encaminhar à Unidade Básica de Saúde aquelas
+menores de 5 anos que não tenham registro da BCG no
+cartão ou não tenham cicatriz vacinal do braço direito.
+21
+Como realizar ações no território para
+o enfrentamento da tuberculose?
+Para o controle efetivo da tuberculose é importante que toda
+a comunidade esteja mobilizada e informada sobre a doença,
+reduzindo também o estigma e o preconceito que afetam as
+pessoas com TB. Para isso, é importante que esse tema seja
+inserido em ações educativas e eventos da comunidade.
+É possível contar com os parceiros já existentes no território
+e identificar novos parceiros, como associação de moradores,
+instituições religiosas, grupos culturais, escolas e outras
+lideranças comunitárias, visando à divulgação da doença e
+ao seu controle.
+Além de ações educativas, é também essencial a identificação
+de sintomáticos respiratórios (SR) em todas as oportunidades
+de encontro com a comunidade, e seu encaminhamento à
+unidade de saúde do território.
+O ACS deve manter seu território informado sobre a
+doença, trabalhando com parceiros para seu controle
+e redução de estigma e preconceito que afetam as
+pessoas com TB.
+22
+onde os dados sobre os sintomáticos
+respiratórios, os casos de tuberculose
+e sobre os exames de contatos são
+registrados?
+alguns instrumentos foram criados para o registro sobre
+a busca de sintomático respiratório, sobre a notificação/
+investigação dos casos de tuberculose, o acompanhamento
+do tratamento e outros.
+a Ficha de visita domiciliar do e-SUS é um instrumento
+para registro de informações sobre a realização de visitas
+domiciliares feitas pelo aCs (Anexo A).
+o Livro de registro do sintomático respiratório destina-se
+ao registro das atividades de busca dos sintomáticos respira-
+tórios. Ele possui campos de preenchimento para dados
+relacionados ao indivíduo (nome, idade, sexo e endereço) e
+resultados do exame de escarro para diagnóstico (Anexo B).
+a Ficha de solicitação de exames de diagnóstico (instrumento
+local) é necessária para solicitar o exame do escarro
+(baciloscopia, teste rápido molecular ou cultura) mediante a
+identificação de um sintomático respiratório.
+a Ficha de notificação/investigação de tuberculose é o instru-
+mento padrão para todo o País, usada para a notificação e a
+investigação dos casos confirmados de tuberculose, uma vez
+que é uma doença de notificação compulsória (obrigatória).
+Os dados existentes nessa ficha são inseridos no Sistema de
+Informação de Agravos de Notificação (Sinan). Isso possibilita a
+análise da situação da tuberculose em seu município (Anexo C).
+23
+o Livro de registro de pacientes e acompanhamento de
+tratamento dos casos de tuberculose é utilizado para registro
+das informações de tratamento dos casos de tuberculose
+acompanhados na sua unidade de saúde, bem como fonte de
+dados para o cálculo de indicadores da doença (Anexo D). Os
+dados registrados neste livro são utilizados para alimentar o
+Boletim de acompanhamento dos casos de tuberculose.
+o Boletim de acompanhamento dos casos de tuberculose
+é preenchido para o acompanhamento dos casos
+confirmados de tuberculose, até o final do tratamento.
+Contém informações relacionadas aos resultados de exames
+laboratoriais, aos exames de contatos e à situação de
+encerramento do caso. Além disso, ele serve para atualizar
+o Sinan, dessa forma os resultados de exames registrados
+como “em andamento” na ficha de investigação precisam
+ser informados nesse instrumento (Anexo E).
+a Guia de acompanhamento da tomada diária de
+medicamento é utilizada para acompanhar a tomada de
+medicação do paciente desde o início do tratamento até o
+encerramento (Anexo F).
+a Guia de Controle de Contatos é utilizada para identificação
+e exame dos contatos dos casos de tuberculose (Anexo G).
+Fique atento aos instrumentos de registro existentes
+em sua unidade, identificando os responsáveis
+pelo preenchimento de cada um e apoiando com as
+informações necessárias.
+24
+Quais são minhas atribuições como
+agente comunitário de saúde para o
+controle da tuberculose e o cuidado
+das pessoas?
+O agente comunitário de saúde (ACS) é um profissional-
+-chave para o controle efetivo da tuberculose em seu
+território! Destacam-se como suas atribuições:
+• divulgar para sua comunidade a tuberculose como
+importante problema de saúde pública atual.
+• orientar a população quanto à transmissão aérea da tuber-
+culose e às medidas de prevenção que podem ser adotadas.
+• Estar atento, em todos os encontros com a comunidade,
+aos principais sintomas da tuberculose (tosse, febre,
+emagrecimento e sudorese noturna), assim como divulgá-
+-los, e fazer o encaminhamento dos casos suspeitos para a
+unidade de saúde.
+• Para interromper a cadeia de transmissão da doença é
+fundamental a descoberta oportuna dos casos de tuber-
+culose ativa. Sendo assim, a busca ativa de sintomático
+respiratórios (SR) deve ser estratégia priorizada pelos ACS.
+• Possibilitar, conforme a rede do município, que a primeira
+amostra de escarro seja coletada no momento da suspeita
+de tuberculose, permitindo a diminuição da transmissão e
+a consequente queda no número de casos, uma vez que o
+principal exame diagnóstico é o exame do escarro.
+25
+• Informar que o tratamento para TB está disponível no SUS,
+dura no mínimo seis meses e deve ser feito até o final para
+que se alcance a cura.
+• realizar busca ativa dos pacientes em tratamento que não
+comparecerem ao serviço de saúde quando agendados.
+• estar atento para os efeitos adversos ao tratamento para
+tuberculose e, caso seja identificado algum, o paciente
+deve ser orientado e/ou encaminhado ao serviço de saúde
+para avaliação. informar às pacientes em idade fértil que a
+medicação para TB diminui o efeito do anticoncepcional e
+orientá-las para o uso de métodos contraceptivos de barreira,
+como camisinha feminina ou masculina, DIU e diafragma.
+• Realização do TDO, a partir do planejamento da equipe e do
+estabelecimento de vínculo e diálogo com o usuário.
+• orientar e encaminhar os contatos ao serviço de saúde para
+avaliação clínica e possível diagnóstico e tratamento.
+• Acompanhar a situação vacinal das crianças do território e
+encaminhar ao serviço de saúde aquelas menores de 5 anos
+que não tenham registro da BCG no cartão ou não tenham
+cicatriz vacinal do braço direito.
+• Manter seu território informado sobre a doença, trabalhan-
+do com parceiros da comunidade para o controle e redução
+de estigma e preconceito que afetam as pessoas com TB.
+• Utilizar ferramentas de coleta de informações e
+acompanhamento do paciente.
+
+Anexos
+28
+anexo a
+Ficha de visita domiciliar – e-SUS
+29
+30
+ANExO B
+Livro de Registro do Sintomático Respiratório no
+serviço de saúde
+31
+32
+anexo C
+Ficha de notificação/investigação de tuberculose
+33
+anexo d
+Livro de Registro de Pacientes e Acompanhamento
+de tratamento dos Casos de tuberculose
+34
+35
+anexo e
+Boletim de acompanhamento dos casos
+36
+anexo F
+acompanhamento de tomada diária da medicação
+do Tratamento Diretamente Observado (TDO)
+37
+38
+ANExO G
+Controle de contatos
+39
+Para mais informações e materiais acesse
+http://dab.saude.gov.br/portaldab/
+http://portalsaude.saude.gov.br/index.php/o-ministerio/
+principal/secretarias/svs/tuberculose
+http://blogdatuberculose.blogspot.com.br/p/acervo.html
+Curso on-line: Ações para o controle da tuberculose na
+atenção básica
+http://www.unasus.gov.br/CursoTB
+Guia Prático do Agente Comunitário de Saúde
+http://dab.saude.gov.br/docs/publicacoes/geral/guia_acs.pdf
+Guia de Orientações de Coleta de Escarro
+http://blogdatuberculose.blogspot.com.br/p/acervo.html
+Tuberculose no Portal Sinan
+http://portalsinan.saude.gov.br/tuberculose
+EDITORA MS
+Coordenação-Geral de Documentação e Informação/
+SAA/SE
+MINISTÉRIO DA SAÚDE
+Fonte principal: Aller
+Tipo de papel do miolo: Couchê 90gm
+Impresso por meio do contrato 28/2012
+Brasília/DF, junho de 2017
+OS 2017/0347
+Ministério da saúde
+UBS
+Cartilha para o
+Agente Comunitário
+de Saúde
+Tuberculose
+7102
+FD|ailísarB
+BiBlioteca Virtual em Saúde do miniStério da Saúde
+www.saude.gov.br/bvs
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA

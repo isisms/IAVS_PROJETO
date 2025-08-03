@@ -1,0 +1,1926 @@
+Diretrizes para
+vigilância, atenção
+e eliminação da
+hanseníase como
+problema de
+saúde pública
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA
+Brasília – DF
+2016
+lanoicarepo-ocincét
+launaM
+MINISTÉRIO DA SAÚDE
+Diretrizes para
+vigilância, atenção
+e eliminação da
+hanseníase como
+problema de
+saúde pública
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA
+Brasília – DF
+2016
+lanoicarepo-ocincét
+launaM
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Vigilância das Doenças Transmissíveis
+2016 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não
+Comercial – Compartilhamento pela mesma licença 4.0 Internacional. É permitida a
+reprodução parcial ou total desta obra, desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca Virtual em Saúde do
+Ministério da Saúde: <www.saude.gov.br/bvs>.
+Tiragem: 1ª edição – 2016 – versão eletrônica
+Elaboração, distribuição e informações: Colaboração:
+MINISTÉRIO DA SAÚDE Clovis Lombardi – Faculdade de Saúde Pública/USP
+Secretaria de Vigilância em Saúde Eliane Ignotti – Faculdade de Ciências da Saúde/Unemat
+Departamento de Vigilância das Doenças Transmissíveis Jaison Antônio Barreto – Instituto Lauro de Souza Lima/USP
+Coordenação-Geral de Hanseníase e Doenças em
+Marco Andrey Ciprini Frade – Faculdade de Medicina de
+Eliminação
+Ribeirão Preto/USP
+Setor Comercial Sul, Quadra 4, Edifício Principal
+Marcos César Floriano – Universidade Federal de São
+3º andar, sala 301, Unidade VI
+Paulo/ Unifesp
+CEP: 70304-000 – Brasília/DF
+Marcos da Cunha Lopes Virmond – Instituto Lauro de
+Site: www.saude.gov.br/svs
+Souza Lima/USP
+E-mail: cghde@saude.gov.br
+Maria Ângela Bianconcini Trindade – HCFM/USP
+Coordenação-Geral: Maria Eugênia Noviski Gallo – SES/RJ
+Rosa Castália França Ribeiro Soares – CGHDE/DEVIT/SVS/MS Tadiana Maria Alves Moreira – Instituto Educacional
+Luterano Bom Jesus/IELUSC
+Apoio Técnico Internacional:
+Santiago Nicholls – Assessoria das Doenças Transmissíveis Produção editorial:
+Negligenciadas e Hanseníase/Organização Pan-Americana
+de Saúde – OPAS/OMS Diagramação: Sabrina Lopes
+Organização: Editora responsável:
+Danielle Bandeira Costa Sousa Freire – CGHDE/DEVIT/SVS/MS MINISTÉRIO DA SAÚDE
+Elaine da Ros Oliveira – CGHDE/DEVIT/SVS/MS Secretaria-Executiva
+Elaine Faria Morelo – CGHDE/DEVIT/SVS/MS Subsecretaria de Assuntos Administrativos
+Estefânia Caires de Almeida – CGHDE/DEVIT/SVS/MS Coordenação-Geral de Documentação e Informação
+Coordenação de Gestão Editorial
+Jurema Guerrieri Brandão – CGHDE/DEVIT/SVS/MS
+SIA, Trecho 4, lotes 540/610
+Larissa Lopes Scholte – CGHDE/DEVIT/SVS/MS
+CEP: 71200-040 – Brasília/DF
+Magda Levantezi – CGHDE/DEVIT/SVS/MS
+Tels.: (61) 3315-7790 / 3315-7794
+Margarida Cristiana Napoleão Rocha – CGHDE/DEVIT/SVS/MS Site: http://editora.saude.gov.br
+Rosa Castália França Ribeiro Soares – CGHDE/DEVIT/SVS/MS E-mail: editora.ms@saude.gov.br
+Vera Lúcia Gomes de Andrade – CGHDE/DEVIT/SVS/MS
+Equipe editorial:
+Normalização: Daniela Ferreira Barros da Silva
+Revisão: Tatiane Souza e Khamila Silva
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das Doenças
+Transmissíveis.
+Diretrizes para vigilância, atenção e eliminação da Hanseníase como problema de saúde pública : manual
+técnico-operacional [recurso eletrônico] / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de
+Vigilância das Doenças Transmissíveis. – Brasília : Ministério da Saúde, 2016.
+58 p. : il.
+Modo de acesso: World Wide Web: <www.saude.gov.br/svs>.
+ISBN 978-85-334-2348-0
+1. Hanseníase. 2. Saúde Pública. 3. Agravos à Saúde. I. Título.
+CDU 616-002.73
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2016/0141
+Título para indexação:
+Guidelines for surveillance, care and elimination of Leprosy as a Public Health problem: technical and
+operational manual
+SUMÁRIO
+APRESENTAÇÃO 5
+1 INTRODUÇÃO 6
+1.1 Definição de caso 6
+1.2 Notificação dos casos 6
+2 AÇÕES PARA REDUÇÃO DA CARGA DA HANSENÍASE NO BRASIL 7
+2.1 Educação em saúde 7
+2.2 Investigação epidemiológica para o diagnóstico precoce de casos 8
+2.3 Tratamento dos casos diagnosticados 10
+2.4 Prevenção e tratamento de incapacidades 10
+2.5 Vigilância epidemiológica 11
+2.6 Indicadores de Monitoramento do Progresso da Eliminação
+da Hanseníase enquanto problema de saúde pública 12
+2.7 Indicadores para avaliar a qualidade dos serviços de hanseníase 15
+3 ATENÇÃO À SAÚDE 17
+3.1 Diagnóstico de caso de hanseníase 17
+3.2 Diagnóstico das reações hansênicas 18
+3.3 Avaliação do grau de incapacidade física e da função neural 19
+3.4 Tratamento de Poliquimioterapia – PQT/OMS 21
+3.4.1 Apresentação das cartelas 21
+3.4.2 Esquemas terapêuticos 21
+3.4.3 Esquemas terapêuticos substitutivos 25
+3.4.4 Seguimento de casos 29
+3.4.5 Critérios de encerramento do tratamento na alta por cura 30
+3.4.6 Orientações no momento da alta 31
+3.5 Tratamento de reações hansênicas 31
+3.5.1 Tratamento clínico das reações 32
+3.6 Prevenção e tratamento de incapacidades 36
+3.6.1 Técnicas simples de autocuidado 37
+3.6.2 Indicação de cirurgia de reabilitação 37
+3.7 Situações pós-alta por cura 37
+3.7.1 Reações pós-alta por cura 37
+3.7.2 Recidiva 37
+3.7.3 Prevenção e tratamento de incapacidades pós-alta por cura 41
+4 RESISTÊNCIA MEDICAMENTOSA EM HANSENÍASE 42
+5 ATENÇÃO AOS EX-HOSPITAIS COLÔNIAS DE HANSENÍASE 43
+6 GERÊNCIA 44
+6.1 Organização do Sistema de Informação 44
+6.1.1 Prontuário e documentação 44
+6.1.2 Seguimento 44
+6.1.3 Fluxo de informação 45
+6.2 Programação de Medicamentos e Insumos 45
+6.3 Referência e contrarreferência 46
+REFERÊNCIA 47
+BIBLIOGRAFIA 48
+ANEXOS 49
+Anexo A Ficha de Notificação / Investigação Hanseníase 49
+Anexo B Boletim de Acompanhamento de Hanseníase 50
+Anexo C Protocolo Complementar de Investigação Diagnóstica de
+Casos de Hanseníase em menores de 15 anos – PCID<15 51
+Anexo D Ficha de Investigação de Suspeita de Recidiva 53
+Anexo E Formulário de Avaliação do Grau de Incapacidade Física
+no Diagnóstico e na Alta de PQT 55
+Anexo F Formulário para Avaliação Neurológica Simplificada 57
+APRESENTAÇÃO
+Este manual fornece subsídios, apoio e orientação aos profissionais que
+atuam na vigilância em saúde, atenção básica e demais níveis de atenção,
+no que se refere às diretrizes para vigilância, à assistência e à eliminação da
+hanseníase como problema de saúde pública no Brasil.
+Este documento foi produzido a partir do levantamento e da análise de
+portarias, manuais e guia de vigilância do Ministério da Saúde, bem como
+de publicações da Organização Mundial da Saúde (OMS) voltadas ao
+enfrentamento da doença.
+O presente manual resulta de esforços da equipe técnica que compõe a
+Coordenação-Geral de Hanseníase e Doenças em Eliminação/Departamento
+de Vigilância das Doenças Transmissíveis/Secretaria de Vigilância em
+Saúde/Ministério da Saúde (CGHDE/DEVIT/SVS/MS), instituições parceiras,
+colaboradores e especialistas em hanseníase no País.
+Dessa forma, espera-se que este trabalho contribua para a uniformização
+do atendimento ao paciente acometido pela doença, nos diversos âmbitos de
+atenção à saúde, bem como dos procedimentos de vigilância em hanseníase,
+tendo por finalidade primordial a redução da carga de doença.
+ObjetivOs dO manual
+Objetivo geral
+• Padronizar as diretrizes para vigilância, atenção e eliminação da
+hanseníase como problema de saúde pública no Brasil.
+Objetivos específicos
+• Aprimorar e qualificar o atendimento integral à pessoa acometida pela
+hanseníase no âmbito da atenção básica nos serviços especializados,
+ambulatorial e/ou hospitalar.
+• Orientar o trabalho dos gestores, técnicos e profissionais de saúde nas
+questões que permeiam a gestão, o planejamento, o monitoramento e a
+avaliação no que se refere ao acolhimento, ao diagnóstico, ao tratamento
+e cura, à prevenção de incapacidades e à organização do serviço.
+5
+1
+INTRODUÇÃO
+1.1 definiçãO de casO
+Considera-se caso de hanseníase a pessoa que apresenta um ou mais dos
+seguintes sinais cardinais, a qual necessita de tratamento com poliquimiote-
+rapia (PQT):
+a) lesão(ões) e/ou área(s) da pele com alteração da sensibilidade térmica e/
+ou dolorosa e/ou tátil; ou
+b) espessamento de nervo periférico, associado a alterações sensitivas e/ou
+motoras e/ou autonômicas; ou
+c) presença de bacilos M. leprae, confirmada na baciloscopia de esfregaço
+intradérmico ou na biopsia de pele.
+1.2 nOtificaçãO dOs casOs
+A hanseníase é uma doença de notificação compulsória e de investigação
+obrigatória. Os casos diagnosticados devem ser notificados, utilizando-se a
+ficha de Notificação/Investigação, do Sistema de Informação de Agravos de
+Notificação (Sinan) (Anexo A).
+6
+2
+AÇÕES PARA REDUÇÃO DA CARGA DA HANSENÍASE
+NO BRASIL
+Em virtude de não existir proteção específica para a hanseníase, as ações a
+serem desenvolvidas para a redução da carga da doença incluem as atividades de:
+• Educação em saúde.
+• Investigação epidemiológica para o diagnóstico oportuno de casos.
+• Tratamento até a cura.
+• Prevenção e tratamento de incapacidades.
+• Vigilância epidemiológica.
+• Exame de contatos, orientações e aplicação de BCG.
+2.1 educaçãO em saúde
+Educação em saúde é dirigida às equipes de saúde, aos casos suspeitos
+e doentes, aos contatos de casos índices, aos líderes da comunidade e ao
+público em geral. Visa prioritariamente: incentivar a demanda espontânea de
+doentes e contatos nos serviços de saúde para exame dermatoneurológico;
+eliminar falsos conceitos relativos à hanseníase; informar quanto aos sinais e
+sintomas da doença, importância do tratamento oportuno; adoção de medidas
+de prevenção de incapacidades; estimular a regularidade do tratamento do
+doente e a realização do exame de contatos; informar os locais de tratamento;
+além de orientar o paciente quanto às medidas de autocuidado.
+Cabe às três esferas de governo trabalhar em parceria com as demais
+instituições e entidades da sociedade civil para a divulgação de informações
+atualizadas sobre a hanseníase.
+O Ministério da Saúde, bem como as secretarias estaduais e municipais de
+Saúde, devem atuar em parceria com o Ministério da Educação e secretarias
+municipais e estaduais de Educação, como agentes facilitadores da integração
+ensino-serviço nos cursos de graduação, pós-graduação e nos cursos técnicos
+profissionalizantes do ensino médio.
+Atenção deve ser dada aos demais segmentos da sociedade civil no desen-
+volvimento de ações educativas sobre hanseníase voltadas à população geral.
+7
+2.2 investigaçãO epidemiOlógica para O diagnósticO precOce
+de casOs
+A investigação epidemiológica tem como objetivo a descoberta de doentes
+e é feita por meio de:
+• Atendimento da demanda espontânea.
+• Busca ativa de casos novos.
+• Vigilância de contatos.
+O atendimento da demanda compreende o exame dermatoneurológico
+de pessoas suspeitas de hanseníase que procuram a unidade de saúde
+espontaneamente, exames de indivíduos com dermatoses e/ou neuropatias
+periféricas e dos casos encaminhados por meio de triagem.
+A vigilância de contatos tem por finalidade a descoberta de casos novos
+entre aqueles que convivem ou conviveram, de forma prolongada com o caso
+novo de hanseníase diagnosticado (caso índice). Além disso, visa também
+descobrir suas possíveis fontes de infecção no domicílio (familiar) ou fora dele
+(social), independentemente de qual seja a classificação operacional do doente
+– paucibacilar (PB) ou multibacilar (MB).
+Considera-se contato domiciliar toda e qualquer pessoa que resida ou tenha
+residido com o doente de hanseníase. Contato social é qualquer pessoa que
+conviva ou tenha convivido em relações familiares ou não, de forma próxima
+e prolongada. Os contatos sociais, que incluem vizinhos, colegas de trabalhos
+e de escola, entre outros, devem ser investigados de acordo com o grau e
+tipo de convivência, ou seja, aqueles que tiveram contato muito próximo e
+prolongado com o paciente não tratado. Atenção especial deve ser dada aos
+contatos familiares do paciente (pais, irmãos, avós, tios etc.).
+Notas
+Contatos familiares recentes ou antigos de pacientes MB e PB devem ser
+examinados, independente do tempo de convívio.
+Sugere-se avaliar anualmente, durante cinco anos, todos os contatos não
+doentes, quer sejam familiares ou sociais. Após esse período os contatos
+devem ser liberados da vigilância, devendo, entretanto, serem esclarecidos
+quanto à possibilidade de aparecimento, no futuro, de sinais e sintomas
+sugestivos da hanseníase.
+8
+A investigação epidemiológica de contatos consiste em:
+• Anamnese dirigida aos sinais e sintomas da hanseníase.
+• Exame dermatoneurológico de todos os contatos dos casos novos,
+independente da classificação operacional.
+• Vacinação BCG para os contatos sem presença de sinais e sintomas de
+hanseníase no momento da avaliação, não importando se são contatos
+de casos PB ou MB.
+Todo contato de hanseníase deve ser informado que a vacina BCG não é
+específica para hanseníase.
+A vacina BCG-ID deve ser aplicada nos contatos examinados sem presença
+de sinais e sintomas de hanseníase no momento da investigação, independente
+da classificação operacional do caso índice. A aplicação da vacina BCG
+depende da história vacinal e/ou da presença de cicatriz vacinal e deve seguir
+as recomendações a seguir:
+QuadrO 1
+esquema de vacinação com bcg
+cicatriz vacinal cOnduta
+Ausência cicatriz BCG Uma dose
+Uma cicatriz de BCG Uma dose
+Duas cicatrizes de BCG Não prescrever
+Fonte: (BRASIL, 2008).
+Notas
+a) Contatos de hanseníase com menos de 1 ano de idade, já comprovada-
+mente vacinados, não necessitam da aplicação de outra dose de BCG.
+b) As contraindicações para aplicação da vacina BCG são as mesmas
+referidas pelo Programa Nacional de Imunização (PNI), disponível no
+endereço eletrônico: <http://bvsms.saude.gov.br/bvs/publicacoes/
+manual_procedimentos_vacinacao.pdf>.
+c) É importante considerar a situação de risco dos contatos possivelmente
+expostos ao HIV e outras situações de imunodepressão, incluindo
+corticoterapia. Para doentes HIV positivos, seguir as recomendações
+específicas para imunização com agentes biológicos vivos ou
+atenuados, disponíveis no endereço eletrônico: <http://bvsms.saude.
+gov.br/bvs/publicacoes/manual_procedimentos_vacinacao.pdf>.
+d) Doentes em tratamento para tuberculose e/ou já tratados para esta
+doença não necessitam vacinação BCG profilática para hanseníase.
+9
+2.3 tratamentO dOs casOs diagnOsticadOs
+O tratamento é realizado em regime ambulatorial, independente da
+classificação operacional da hanseníase, nas unidades básicas de saúde, ou
+ainda, desde que notificados e seguidos todas as ações de vigilância, em
+serviços especializados, hospitais públicos, universitários e/ou clínicas. Deve ser
+assegurado, obrigatoriamente, tratamento adequado a todos os doentes por
+parte dos serviços públicos de saúde.
+Os serviços de saúde devem garantir orientação e recursos anticoncepcionais
+para as mulheres em tratamento de hanseníase ou em episódios reacionais
+mesmo após o término da PQT, principalmente aquelas que possam
+eventualmente precisar fazer uso de medicamentos com efeitos teratogênicos,
+em cumprimento da Lei n° 10.651, de 16 de abril de 2003.
+Após eventual necessidade de hospitalização, o doente deverá continuar o
+seu tratamento em regime ambulatorial, em sua unidade de saúde de origem.
+2.4 prevençãO e tratamentO de incapacidades
+A prevenção de incapacidades em hanseníase inclui conjunto de medidas
+visando evitar a ocorrência de danos físicos, emocionais e socioeconômicos.
+Em caso de danos já existentes, a prevenção significa adotar medidas que
+visam evitar complicações.
+A prevenção e o tratamento das incapacidades físicas são realizados pelas
+unidades de saúde, mediante utilização de técnicas simples (educação em
+saúde, exercícios preventivos, adaptações de calçados, férulas, adaptações de
+instrumentos de trabalho e cuidados com os olhos). Os casos de incapacidade
+física que requererem técnicas complexas devem ser encaminhados aos serviços
+especializados ou serviços gerais de reabilitação.
+Componentes da prevenção de incapacidades em hanseníase:
+• Educação em saúde.
+• Diagnóstico precoce da doença, tratamento regular com PQT e vigilância
+de contatos.
+• Detecção precoce e tratamento adequado das reações e neurites.
+• Apoio à manutenção da condição emocional e integração social.
+• Realização de autocuidado.
+10
+2.5 vigilância epidemiOlógica
+A vigilância epidemiológica envolve a coleta, o processamento, a análise e
+a interpretação dos dados referentes aos casos de hanseníase e seus contatos.
+A produção e a divulgação das informações subsidiam análises e avaliações
+da efetividade das intervenções e embasam o planejamento de novas ações e
+recomendações a serem implementadas.
+A vigilância epidemiológica deve ser organizada em todos os níveis de
+complexidade da Rede de Atenção à Saúde, de modo a garantir informações
+sobre a distribuição, magnitude e carga da doença, nas diversas áreas
+geográficas.
+A descoberta do caso de hanseníase é feita por meio da detecção ativa
+(investigação epidemiológica de contatos e exame de coletividade, como
+inquéritos e campanhas) e passiva (demanda espontânea e encaminhamento).
+considera-se caso novo de hanseníase a pessoa que nunca
+recebeu qualquer tratamento específico para a doença.
+A Ficha de Notificação/Investigação do Sinan deve ser preenchida por
+profissionais das unidades de saúde onde o(a) paciente foi diagnosticado(a),
+na semana epidemiológica do diagnóstico, sejam estes serviços públicos ou
+privados, dos três níveis de atenção à saúde. A notificação deve ser enviada
+em meio físico, magnético ou virtual, ao órgão de vigilância epidemiológica
+hierarquicamente superior, permanecendo uma cópia no prontuário.
+Para o devido acompanhamento e seguimento da evolução clínica dos
+doentes, o Sinan possui como instrumento de monitoramento o Boletim de
+Acompanhamento de Hanseníase, que demanda a atualização dos dados
+de acompanhamento pelas unidades de saúde (Anexo B). O Boletim de
+Acompanhamento deve ser encaminhado pela unidade de saúde no final
+de cada mês à Vigilância Epidemiológica do município. Esta, por sua vez,
+após digitação e verificação de inconsistências, enviará os dados para a
+Vigilância Estadual. A Vigilância Epidemiológica Estadual após verificação de
+inconsistências e de duplicidades enviará os dados ao DATASUS.
+as alterações dos dados referentes aos casos de hanseníase no
+sinan só podem ser realizadas estritamente pelos municípios.
+11
+O Boletim de Acompanhamento deverá conter informações relativas ao
+monitoramento do número de contatos domiciliares registrados e o número
+de contatos domiciliares examinados no primeiro ano após o diagnóstico do
+caso índice. Informações relativas aos contatos sociais, bem como aos cinco
+anos de seguimento, deverão constar no prontuário do paciente.
+A Ficha de Notificação/Investigação e o Boletim de Acompanhamento são
+essenciais para a composição e a atualização dos indicadores epidemiológicos
+e operacionais, os quais subsidiam as avaliações das intervenções e embasam
+o planejamento de novas ações.
+2.6 indicadOres de mOnitOramentO dO prOgressO da elimi-
+naçãO da Hanseníase enQuantO prOblema de saúde pública
+QuadrO 2
+indicadores de monitoramento do progresso da eliminação da Hanseníase
+enquanto problema de saúde pública
+nOme dO
+cOnstruçãO utilidade parâmetrOs
+indicadOr
+Taxa de prevalência Numerador: casos em Medir a Hiperendêmico:
+anual de curso de tratamento magnitude da ≥20,0 por 10 mil
+hanseníase por em determinado local endemia hab.
+10 mil habitantes em 31/12 do ano de Muito alto: 10,0 a
+avaliação 19,9 por 10 mil
+Denominador: hab.
+população total Alto: 5,0 a 9,9 por
+no mesmo local de 10 mil hab.
+tratamento e ano de
+Médio: 1,0 a 4,9
+avaliação
+por 10 mil hab.
+Fator de multiplicação:
+Baixo: <1,0 por
+10 mil
+10 mil hab.
+Taxa de detecção Numerador: casos Medir força Hiperendêmico:
+anual de casos novos residentes em de morbidade, >40,0/100 mil hab.
+novos de determinado local e magnitude e Muito alto: 20,00 a
+hanseníase por diagnosticados no ano tendência da 39,99/100 mil hab.
+100 mil habitantes da avaliação endemia
+Alto: 10,00 a 19,99
+Denominador: /100 mil hab.
+população total
+Médio: 2,00 a
+residente, no mesmo
+9,99/100 mil hab.
+local e período
+Baixo: <2,00/100
+Fator de multiplicação:
+mil hab.
+100 mil
+continua
+12
+continuação
+nOme dO
+cOnstruçãO utilidade parâmetrOs
+indicadOr
+Taxa de detecção Numerador: casos Medir força da Hiperendêmico:
+anual de casos novos em menores transmissão ≥10,00 por 100
+novos de de 15 anos de recente da mil hab.
+hanseníase, na idade residentes em endemia e sua Muito alto: 5,00 a
+população de zero determinado local e tendência 9,99 por 100 mil
+a 14 anos, por diagnosticados no ano hab.
+100 mil habitantes da avaliação
+Alto: 2,50 a 4,99
+Denominador: por 100 mil hab.
+população de zero a
+Médio: 0,50 a 2,49
+14 anos de idade, no
+por 100 mil hab.
+mesmo local e período
+Baixo: <0,50 por
+Fator de multiplicação:
+100 mil hab.
+100 mil
+Taxa de casos novos Numerador: casos Avaliar as A tendência de
+de hanseníase novos com grau 2 de deformidades redução da taxa
+com grau 2 de incapacidade física no causadas pela de detecção,
+incapacidade física diagnóstico, residentes hanseníase na acompanhada
+no momento do em determinado local população geral e da queda deste
+diagnóstico por e detectados no ano da compará-las com indicador,
+100 mil hab. (1) avaliação outras doenças caracteriza
+Denominador: incapacitantes. redução da
+população residente no Utilizado em magnitude da
+mesmo local e período. conjunto com endemia.
+a taxa de
+Fator de multiplicação:
+detecção para
+100 mil
+monitoramento
+da tendência
+de detecção
+oportuna dos
+casos novos de
+hanseníase
+Proporção de casos Numerador: casos Avaliar a Alto: ≥10%
+de hanseníase novos com grau 2 de efetividade Médio: 5 a 9,9%
+com grau 2 de incapacidade física no das atividades Baixo: <5%
+incapacidade física diagnóstico, residentes da detecção
+no momento do em determinado local oportuna e/ou
+diagnóstico entre e detectados no ano da precoce de casos
+os casos novos avaliação
+detectados e Denominador: casos
+avaliados no ano (1) novos com grau de
+incapacidade física
+avaliado, residentes no
+mesmo local e período.
+Fator de multiplicação:
+100
+continua
+13
+conclusão
+nOme dO
+cOnstruçãO utilidade parâmetrOs
+indicadOr
+Proporção de casos Numerador: número Avaliar a Alto: ≥10%
+de hanseníase de casos de hanseníase transcendência Médio: 5 a 9,9%
+curados com grau residentes e curados da doença e Baixo: <5%
+2 de incapacidade com incapacidade subsidiar a
+física entre os física grau 2 no ano da programação
+casos avaliados no avaliação de ações de
+momento da alta Denominador: total de prevenção e
+por cura no ano (1) casos de hanseníase tratamento de
+residentes e que incapacidades
+foram encerrados pós-alta
+por cura com grau de
+incapacidade física
+avaliados no ano da
+avaliação
+Fator de multiplicação:
+100
+Proporção de casos Casos de hanseníase Avaliar a Não especifica
+de hanseníase, do sexo feminino/Total capacidade dos parâmetro
+segundo gênero de casos novos serviços em
+entre o total de Fator de multiplicação: assistir aos casos
+casos novos 100 de hanseníase
+Proporção de Casos de hanseníase Avaliar os casos Não especifica
+casos segundo multibacilares/Total de em risco de parâmetro
+classificação casos novos desenvolver
+operacional entre Fator de multiplicação: complicações e
+o total de casos 100 para o correto
+novos reabastecimento
+de PQT
+Taxa de detecção Numerador: casos de Medir a Não especifica
+de casos novos, hanseníase segundo magnitude parâmetro
+segundo raça/cor raça/cor da endemia
+entre população Denominador: segundo raça/cor
+das respectivas população da
+raças/cor respectiva raça/cor
+Fator de multiplicação:
+100 mil
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+14
+2.7 indicadOres para avaliar a Qualidade dOs serviçOs
+de Hanseníase
+QuadrO 3
+indicadores para avaliar a qualidade dos serviços de hanseníase
+Proporção Numerador: casos novos Avaliar a Bom: ≥90%;
+de cura de de hanseníase residentes qualidade da Regular: ≥75 a
+hanseníase em determinado local, atenção e do 89,9%;
+entre os diagnosticados nos anos das acompanhamento
+Precário:
+casos novos coortes e curados até 31/12 dos casos novos
+<75%;
+diagnosticados do ano da avaliação diagnosticados até
+nos anos das Denominador: total de a completitude do
+coortes(2) (3) casos novos de hanseníase tratamento
+residentes no mesmo local e
+diagnosticados nos anos
+das coortes
+Fator de multiplicação: 100
+Proporção Numerador: casos novos de Avaliar a Bom <10%
+de casos de hanseníase diagnosticados qualidade da Regular 10 a
+hanseníase em nos anos das coortes que atenção e do 24,9%
+abandono de abandonaram o tratamento acompanhamento
+Precário ≥25%
+tratamento até 31/12 do ano de avaliação dos casos novos
+entre os Denominador: total de casos diagnosticados até
+casos novos novos diagnosticados nos a completitude do
+diagnosticados anos das coortes tratamento
+nos anos das
+Fator de multiplicação: 100
+coortes(2) (3) (4)
+Proporção Numerador: nº de contatos Mede a Interpretação:
+de contatos dos casos novos de capacidade dos Bom: ≥90,0%
+examinados de hanseníase examinados por serviços em
+Regular: ≥75,0
+casos novos local de residência atual e realizar a vigilância
+a 89,9%
+de hanseníase diagnosticados nos anos das de contatos de
+diagnosticados coortes (PB diagnosticados casos novos Precário:
+nos anos das no ano anterior ao ano da de hanseníase, <75,0%
+coortes(2) (3) avaliação e MB diagnosticados aumentando a
+dois anos antes do ano da detecção oportuna
+avaliação) de casos novos
+Denominador: total de
+contatos dos casos novos de
+hanseníase registrados por local
+de residência atual e diagnos-
+ticados nos anos das coortes
+(PB diagnosticados no ano
+anterior ao ano da avaliação e
+MB diagnosticados dois anos
+antes do ano da avaliação)
+Fator de multiplicação: 100
+continua
+15
+conclusão
+Proporção Número de casos de recidiva Identificar Não especifica
+de casos de de hanseníase notificados/ municípios parâmetro
+recidiva entre total de casos notificados no notificantes
+os casos ano x 100 de casos de
+notificados recidiva para
+no ano monitoramento
+de falência
+terapêutica
+Proporção de Numerador: casos novos de Medir a qualidade Bom ≥90%
+casos novos hanseníase com o grau de do atendimento Regular ≥75 a
+de hanseníase incapacidade física avaliado nos Serviços de 89,9%
+com grau de no diagnóstico, residentes Saúde
+Precário <75%
+incapacidade em determinado local
+física avaliado e detectados no ano da
+no diagnóstico avaliação
+Denominador: casos novos
+de hanseníase, residentes no
+mesmo local e diagnosticados
+no ano da avaliação
+Fator de multiplicação: 100
+Proporção de Numerador: casos curados Medir a qualidade Bom ≥90%
+casos curados no ano com o grau de do atendimento Regular ≥75 a
+no ano com incapacidade física avaliado nos Serviços de 89,9%
+grau de por ocasião da cura residentes Saúde
+Precário <75%
+incapacidade em determinado local
+física avaliado Denominador: total de casos
+entre os casos curados no ano residentes no
+novos de mesmo local
+hanseníase no
+Fator de multiplicação: 100
+período das
+coortes(2) (3)
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+Notas referentes aos dois quadros acima:
+(1)Indicador calculado somente quando o percentual de casos com grau de incapacidade física avaliado for maior ou
+igual a 75%.
+(2)Indicador a ser calculado por local de residência atual do paciente. Deverão ser retirados do denominador os casos
+considerados como erro diagnóstico e nas seguintes situações:
+• Para avaliação municipal, desmarque transferências para outros municípios, outros estados e outros países;
+• Para avaliação regional, desmarque transferências para outros municípios fora de sua regional, outros
+estados e outros países;
+• Para avaliação estadual, exclua transferência para outros estados e outros países.
+(3)Os anos das coortes são diferenciados conforme a classificação operacional atual e data de diagnóstico de hanseníase:
+Paucibacilar (PB) – todos os casos novos paucibaciliares que foram diagnosticados um ano antes do ano da avaliação.
+Multibacilar (MB) – todos os casos novos multibaciliares que foram diagnosticados dois anos antes do ano
+da avaliação.
+(4)A saída por “abandono” deverá ser informada quando os pacientes PB não compareceram ao tratamento por mais
+de três meses e os pacientes MB por mais de seis meses, mesmo após inúmeras tentativas de busca e retorno ao
+tratamento por parte dos profissionais.
+16
+3
+ATENÇÃO À SAÚDE
+3.1 diagnósticO de casO de Hanseníase
+O diagnóstico de caso de hanseníase é essencialmente clínico e
+epidemiológico, realizado por meio da anamnese, exame geral e
+dermatoneurólogico para identificar lesões ou áreas de pele com alteração
+de sensibilidade e/ou comprometimento de nervos periféricos, com alterações
+sensitivas e/ou motoras e/ou autonômicas.
+Para os casos diagnosticados, deve-se utilizar a classificação operacional
+de caso de hanseníase, visando definir o esquema de tratamento com
+poliquimioterapia, que se baseia no número de lesões cutâneas de acordo com
+os seguintes critérios:
+paucibacilar (pb) – casos com até cinco lesões de pele.
+multibacilar (mb) – casos com mais de cinco lesões de pele.
+A classificação operacional deve ser feita pelos critérios clínicos (história
+clínica e epidemiológica e exame dermatoneurológico). Quando disponível
+a baciloscopia, o seu resultado positivo classifica o caso como MB, porém o
+resultado negativo não exclui o diagnóstico clínico da hanseníase e também
+não classifica obrigatoriamente o doente como PB.
+Para os serviços especializados, ambulatorial e/ou hospitalar devem ser
+referenciados os casos suspeitos de comprometimento neural sem lesão
+cutânea, por serem de diagnóstico e/ou classificação mais difícil. Recomenda-se
+que nesses serviços de saúde os indivíduos sejam novamente submetidos
+ao exame dermatoneurólogico e a exames complementares que incluem a
+baciloscopia, a histopatologia (cutânea ou de nervo periférico sensitivo), os
+eletrofisiológicos e, se necessário, sejam submetidos a outros exames mais
+complexos para identificar o comprometimento cutâneo ou neural discreto,
+à avaliação por ortopedista, ao neurologista e a outros especialistas para
+diagnóstico diferencial de outras neuropatias periféricas.
+Dessa forma, os casos que apresentarem mais de um nervo comprometido,
+desde que devidamente documentado pela perda ou diminuição de
+sensibilidade nos respectivos territórios, a unidade de referência deverá tratar
+como MB, independentemente da situação de envolvimento cutâneo.
+17
+3.2 diagnósticO das reações Hansênicas
+Os estados reacionais ou reações hansênicas (tipos 1 e 2) são alterações do
+sistema imunológico que se exteriorizam como manifestações inflamatórias
+agudas e subagudas, podendo ocorrer em qualquer paciente, porém são mais
+frequentes nos pacientes MB. Elas podem surgir antes, durante ou depois do
+tratamento PQT.
+a reação tipo 1 ou reação reversa caracteriza-se pelo aparecimento de
+novas lesões dermatológicas (manchas ou placas), infiltrações, alterações de
+cor e edema nas lesões antigas, com ou sem espessamento e dor de nervos
+periféricos (neurite).
+a reação tipo 2, cuja manifestação clínica mais frequente é o Eritema
+Nodoso Hansênico (ENH), caracteriza-se pelo aparecimento de nódulos
+subcutâneos dolorosos, acompanhados ou não de manifestações sistêmicas
+como: febre, dor articular, mal-estar generalizado, orquite, iridociclites, com
+ou sem espessamento e dor de nervos periféricos (neurite).
+Frente a suspeita de reação hansênica, recomenda-se:
+a) Confirmar o diagnóstico de hanseníase e sua classificação operacional.
+b) Diferenciar o tipo de reação hansênica.
+c) Investigar fatores predisponentes (infecções, infestações, distúrbios
+hormonais, fatores emocionais e outros).
+d) Avaliar a função neural.
+As reações, com ou sem neurite, devem ser diagnosticadas por meio da
+investigação cuidadosa dos sinais e sintomas mais frequentes e exame físico
+geral, com ênfase na avaliação dermatoneurológica. Tais procedimentos são
+fundamentais para definir a terapêutica antirreacional e para monitorar o
+comprometimento dos nervos periféricos
+Lembrar da possibilidade da ocorrência de neurite isolada como manifestação
+única de reação hansênica.
+Os pacientes de hanseníase devem ser agendados para consulta odontológica
+e orientados quanto à higiene dental. A boa condição de saúde bucal reduz o
+risco de reações hansênicas.
+18
+3.3 avaliaçãO dO grau de incapacidade física e da funçãO neural
+É imprescindível avaliar a integridade da função neural e o grau de
+incapacidade física no momento do diagnóstico, na ocorrência de estados
+reacionais e na alta por cura (término da poliquimioterapia).
+A avaliação neurológica (Anexo F) deve ser realizada:
+1) No início do tratamento.
+2) A cada três meses durante o tratamento se não houver queixas.
+3) Sempre que houver queixas, tais como: dor em trajeto de nervos,
+fraqueza muscular, início ou piora de queixas parestésicas.
+4) No controle periódico de doentes em uso de corticoides por estados
+reacionais e neurites.
+5) Na alta do tratamento.
+6) No acompanhamento pós-operatório de descompressão neural com 15,
+45, 90 e 180 dias.
+Para verificar a integridade da função neural, recomenda-se a utilização do
+formulário de Avaliação Neurológica Simplificada (Anexo F).
+Todos os doentes devem ter o grau de incapacidade física avaliado, no
+mínimo, no diagnóstico e no momento da alta por cura. Para determinar o
+grau de incapacidade física deve-se realizar o teste de força muscular e de
+sensibilidade dos olhos, mãos e pés.
+Para o teste de sensibilidade recomenda-se a utilização do conjunto de
+monofilamentos de Semmes-Weinstein (6 monofilamentos: 0,05 g, 0,2 g, 2
+g, 4 g, 10 g e 300 g) nos pontos de avaliação de sensibilidade em mãos e pés
+e do fio dental (sem sabor) para os olhos. Nas situações em que não estiver
+disponível o estesiômetro, deve-se fazer o teste de sensibilidade de mãos e pés
+ao leve toque da ponta da caneta esferográfica.
+Para avaliação da força motora preconiza-se o teste manual da exploração da
+força muscular, a partir da unidade músculo-tendinosa durante o movimento
+e da capacidade de oposição à força da gravidade e à resistência manual, em
+cada grupo muscular referente a um nervo específico. Os critérios de graduação
+da força muscular podem ser expressos como forte, diminuída e paralisada, ou
+de zero a cinco, conforme o quadro a seguir:
+19
+QuadrO 4
+critérios para avaliação da força motora
+fOrça descriçãO
+forte 5 Realiza o movimento completo contra a gravidade com resistência.
+Realiza o movimento completo contra a gravidade com resistência
+4
+parcial.
+diminuída
+3 Realiza o movimento completo contra a gravidade sem resistência.
+2 Realiza o movimento parcial.
+1 Contração muscular sem movimento.
+paralisada
+0 Paralisia (nenhum movimento).
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+O Formulário para Avaliação do Grau de Incapacidade Física (Anexo E) deverá
+ser preenchido e obedecer às características expressas no quadro a seguir:
+QuadrO 5
+critérios para avaliação do grau de incapacidade física
+grau características
+Olhos: Força muscular das pálpebras e sensibilidade da córnea preservadas
+e conta dedos a 6 metros ou acuidade visual ≥0,1 ou 6:60.
+mãos: Força muscular das mãos preservada e sensibilidade palmar: sente
+0
+o monofilamento 2 g (lilás) ou o toque da ponta de caneta esferográfica.
+pés: Força muscular dos pés preservada e sensibilidade plantar: sente o
+monofilamento 2 g (lilás) ou o toque da ponta de caneta esferográfica.
+Olhos: Diminuição da força muscular das pálpebras sem deficiências visíveis
+e/ou diminuição ou perda da sensibilidade da córnea: resposta demorada ou
+ausente ao toque do fio dental ou diminuição/ausência do piscar.
+mãos: Diminuição da força muscular das mãos sem deficiências visíveis e/ou
+1 alteração da sensibilidade palmar: não sente o monofilamento 2 g (lilás) ou
+o toque da ponta de caneta esferográfica.
+pés: Diminuição da força muscular dos pés sem deficiências visíveis e/ou
+alteração da sensibilidade plantar: não sente o monofilamento 2 g (lilás) ou
+o toque da ponta de caneta esferográfica.
+Olhos: Deficiência(s) visível(eis) causadas pela hanseníase, como: lagoftalmo;
+ectrópio; entrópio; triquíase; opacidade corneana central; iridociclite e/ou não
+conta dedos a 6 metros ou acuidade visual <0,1 ou 6:60, excluídas outras causas.
+2 mãos: Deficiência(s) visível(eis) causadas pela hanseníase, como: garras,
+reabsorção óssea, atrofia muscular, mão caída, contratura, feridas.
+pés: Deficiência(s) visível(eis) causadas pela hanseníase, como: garras,
+reabsorção óssea, atrofia muscular, pé caído, contratura, feridas.
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+20
+3.4 tratamentO de pOliQuimiOterapia – pQt/Oms
+3.4.1 apresentação das cartelas
+QuadrO 6
+apresentação das cartelas para poliquimioterapia (pQt) – pb e mb
+faiXa cartela pb cartela mb
+Rifampicina (RFM): cápsula de Rifampicina (RFM): cápsula de 300 mg
+300 mg (2) (2)
+Dapsona (DDS): comprimido de Dapsona (DDS): comprimido de 100 mg
+adulto
+100 mg (28) (28)
+Clofazimina (CFZ): cápsula de 100 mg
+-
+(3) e cápsula de 50 mg (27)
+Rifampicina (RFM): cápsula de Rifampicina (RFM): cápsula de 150 mg
+150 mg (1) e cápsula de 300 mg (1) (1) e cápsula de 300 mg (1)
+criança Dapsona (DDS): comprimido de Dapsona (DDS): comprimido de 50 mg
+50 mg (28) (28)
+- Clofazimina (CFZ): cápsula de 50 mg (16)
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+3.4.2 esquemas terapêuticos
+O tratamento da hanseníase é ambulatorial, utilizando-se esquemas
+terapêuticos padronizados, de acordo com a classificação operacional.
+QuadrO 7
+esquema terapêutico para casos paucibacilares: 6 cartelas
+Rifampicina (RFM): dose mensal de 600 mg (2 cápsulas de 300 mg) com
+administração supervisionada.
+adulto
+Dapsona (DDS): dose mensal de 100 mg supervisionada e dose diária de
+100 mg autoadministrada.
+Rifampicina (RFM): dose mensal de 450 mg (1 cápsula de 150 mg e 1 cápsula
+de 300 mg) com administração supervisionada.
+criança
+Dapsona (DDS): dose mensal de 50 mg supervisionada e dose diária de
+50 mg autoadministrada.
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+duração: 6 cartelas em até 9 meses.
+seguimento dos casos: comparecimento mensal para dose supervisionada.
+21
+critério de alta: o tratamento está concluído com 6 cartelas em até 9
+meses. Na dose supervisionada, os doentes devem ser submetidos ao exame
+dermatológico, à avaliação neurológica simplificada e do grau de incapacidade
+física para receber alta por cura.
+QuadrO 8
+esquema terapêutico para casos multibacilares: 12 cartelas
+Rifampicina (RFM): dose mensal de 600 mg (2 cápsulas de 300 mg) com
+administração supervisionada.
+Dapsona (DDS): dose mensal de 100 mg supervisionada e dose diária de
+adulto
+100 mg autoadministrada.
+Clofazimina (CFZ): dose mensal de 300 mg (3 cápsulas de 100 mg) com
+administração supervisionada e 1 dose diária de 50 mg autoadministrada.
+Rifampicina (RFM): dose mensal de 450 mg (1 cápsula de 150 mg e
+1 cápsula de 300 mg) com administração supervisionada.
+Dapsona (DDS): dose mensal de 50 mg supervisionada e dose diária de
+criança 50 mg autoadministrada.
+Clofazimina (CFZ): dose mensal de 150 mg (3 cápsulas de 50 mg) com
+administração supervisionada e uma dose de 50 mg autoadministrada em
+dias alternados.
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+duração: 12 cartelas em até 18 meses.
+seguimento dos casos: comparecimento mensal para dose supervisionada.
+critério de alta: o tratamento estará concluído com 12 cartelas em até
+18 meses. Na 12ª dose supervisionada, os doentes devem ser submetidos
+ao exame dermatológico, à avaliação neurológica simplificada e do grau de
+incapacidade física para receber alta por cura.
+Os doentes MB que, excepcionalmente, não apresentarem melhora clínica,
+com presença de lesões ativas da doença, no final do tratamento preconizado
+de 12 doses (cartelas), devem ser encaminhados para avaliação em serviço de
+referência para verificar a conduta mais adequada para o caso.
+Todos os esforços devem ser feitos para assegurar que os pacientes PB
+completem o tratamento em 6 meses e os MB em 12 meses. O regime de
+tratamento para os pacientes PB deverá ser concluído dentro de um período
+máximo de nove meses. No mesmo contexto, o tratamento para os pacientes
+MB deverá ser concluído dentro de um prazo máximo de 18 meses.
+22
+Notas
+a) A gravidez e o aleitamento não contraindicam o tratamento PQT
+padrão.
+b) Para mulheres em idade reprodutiva atentar ao fato de que a rifampicina
+pode interagir com anticoncepcionais orais, diminuindo a sua ação.
+c) Para o tratamento de crianças com hanseníase, deve-se considerar o
+peso corporal como fator mais importante do que a idade, seguindo
+as seguintes orientações: para crianças com peso superior a 50 kg
+deve-se utilizar o mesmo tratamento prescrito para adultos; para
+crianças com peso entre 30 kg e 50 kg deve-se utilizar as cartelas
+infantis (marrom/azul); para crianças menores que 30 kg deve-se fazer
+os ajustes de dose conforme quadro a seguir:
+QuadrO 9
+esquema terapêutico para crianças menores de 30 kg
+drOga dOse pQt dOse mg/kg
+rifampicina (rfm) em suspensão Mensal 10-20
+Mensal 1-2
+dapsona (dds)
+Diária 1-2
+Mensal 5,0
+clofazimina (cfz)
+Diária 1,0
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+d) Nos casos de hanseníase neural primária, o tratamento com PQT deve
+ser realizado de acordo com a classificação (PB ou MB), definida pelo
+serviço de referência e o tratamento adequado do dano neural. Os
+doentes devem ser orientados para retorno imediato à unidade de
+saúde, em caso de aparecimento de lesões de pele e/ou de dores nos
+trajetos dos nervos periféricos e/ou piora da função sensitiva e/ou
+motora, mesmo após a alta por cura.
+e) Quando disponíveis, os exames laboratoriais complementares como
+hemograma, TGO, TGP e creatinina devem ser solicitados no início do
+tratamento, episódios reacionais e efeitos adversos a medicamentos
+no seguimento dos doentes. A análise dos resultados desses exames
+não deve retardar o início da PQT, exceto nos casos em que a avaliação
+clínica sugerir doenças que contraindiquem o início do tratamento.
+f) Hanseníase e gestação: em que pese à recomendação de se restringir
+a ingestão de medicamentos no primeiro trimestre da gravidez, os
+esquemas padrão PQT/OMS, para tratamento da hanseníase, têm
+23
+sua utilização recomendada. Contudo, mulheres com diagnóstico de
+hanseníase e não grávidas que desejem engravidar devem receber
+aconselhamento para planejar a gestação após a finalização do
+tratamento. Especial atenção deve ser dada ao período compreendido
+entre o terceiro trimestre da gravidez e o puerpério, no qual as reações
+hansênicas podem ter sua frequência aumentada.
+g) Hanseníase e tuberculose: para o doente com tuberculose e hanseníase,
+manter o esquema terapêutico apropriado para a tuberculose
+(lembrando que nesse caso a dose de rifampicina de 600 mg será
+administrada diariamente), acrescido dos medicamentos específicos
+para a hanseníase, nas doses e tempos previstos no esquema padrão
+PQT/OMS:
+• Paucibacilar – acrescentar a dapsona.
+• Multibacilar – acrescentar a dapsona e a clofazimina até o
+término do tratamento da tuberculose, quando deve ser
+acrescida a rifampicina do esquema padrão da hanseníase.
+• Casos em que não se utilize a rifampicina no tratamento da
+tuberculose, por contraindicação dessa droga: deverá ser
+prescrito esquema substitutivo próprio para esses casos na
+hanseníase.
+• Casos em que não se utilize a rifampicina no tratamento da
+tuberculose por resistência do Mycobacterium tuberculosis a
+essa droga: utilizar o esquema padrão PQT/OMS da hanseníase.
+h) Hanseníase e infecção pelo HIV/aids: para o doente em tratamento
+para HIV/aids e hanseníase, manter o esquema PQT/OMS, de acordo
+com a classificação operacional.
+i) Hanseníase e outras doenças: casos de associação da hanseníase com
+doenças hepáticas, renais ou hematológicas devem ser encaminhados
+para os serviços especializados, ambulatorial e/ou hospitalar.
+j) A dapsona é gastrotóxica e sua absorção não é alterada substan-
+cialmente pela presença de alimentos. Mesmo a rifampicina,
+ingerida após 2 horas de uma refeição completa, não tem sua
+biodisponibilidade e eficácia bactericida alterada. Portanto,
+orientar sobre o uso da medicação (dose diária ou supervisionada),
+preferencialmente no período da tarde, duas horas após o almoço.
+Caso ainda persistam sintomas dispépticos, medicações para alívio
+sintomático deverão ser prescritas (cimetidina, ranitidina, omeprazol,
+metoclopramida).
+24
+3.4.3 esquemas terapêuticos substitutivos
+Os esquemas apresentados a seguir devem ser utilizados nos casos de
+intolerância grave ou contraindicação a uma ou mais drogas do esquema
+padrão PQT/OMS e estão disponíveis nos serviços especializados, ambulatorial
+e/ou hospitalar.
+QuadrO 10
+doente com intolerância à dapsona (dds)
+paucibacilares multibacilares
+Rifampicina (RFM): dose mensal de Rifampicina (RFM): dose mensal de 600 mg
+600 mg (2 cápsulas de 300 mg) com (2 cápsulas de 300 mg) com administração
+administração supervisionada supervisionada
++ clofazimina (CFZ): dose mensal de + clofazimina (CFZ): dose mensal de 300 mg
+300 mg (3 cápsulas de 100 mg) com (3 cápsulas de 100 mg) com administração
+administração supervisionada supervisionada
++ clofazimina (CFZ): dose diária de + ofloxacino (OFX): dose mensal de 400
+50 mg autoadministrada mg supervisionada e dose diária de 400 mg
+autoadministrada
++ clofazimina (CFZ): dose diária de 50 mg,
+autoadministrada
+OU
+Minociclina (MNC) dose mensal de 100 mg
+supervisionada e dose diária de 100 mg
+autoadministrada
+Duração: 6 doses Duração: 12 doses
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+seguimento dos casos: comparecimento mensal para dose supervisionada.
+critério de alta por cura: para doente PB quando o tratamento estiver
+concluído com seis doses supervisionadas em até nove meses. Para doente MB a
+cura se dá com a conclusão do tratamento com 12 (doze) doses supervisionadas
+(12 cartelas MB sem dapsona) + ofloxacino (ou minociclina) em até 18 meses.
+25
+QuadrO 11
+doente com intolerância à clofazimina (cfz)
+paucibacilares multibacilares
+Rifampicina (RFM): dose mensal de 600 mg (2 cápsulas de
+300 mg) com administração supervisionada.
++ dapsona (DDS): dose mensal de 100 mg supervisionada e
+dose diária de 100 mg autoadministrada (28 dias).
++ ofloxacino (OFX): dose mensal de 400 mg supervisionada e
+não previsto dose diária de 400 mg autoadministrada
+OU
+Minociclina (MNC) dose mensal de 100 mg supervisionada e
+dose diária de 100 mg autoadministrada.
+Duração: 12 meses
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+seguimento dos casos: comparecimento mensal para dose supervisionada
+clofazimina + ofloxacino (ou minociclina) em até 18 meses. Na 12ª dose os
+pacientes devem ser submetidos ao exame dermatológico, às avaliações
+neurológica simplificada e do grau de incapacidade física e receber alta por cura.
+critério de alta: o tratamento estar concluído com 12 doses supervisionadas
+(12 cartelas MB sem clofazimina) + ofloxacino ou minociclina em até 18 meses.
+QuadrO 12
+doente com intolerância à rifampicina (rfm)
+paucibacilares multibacilares
+Dapsona (DDS): dose mensal Dapsona (DDS): dose mensal de 100 mg supervisionada
+de 100 mg supervisionada e dose diária de 100 mg autoadministrada
+e dose diária de 100 mg + clofazimina (CFZ): dose mensal de 300 mg
+autoadministrada (3 cápsulas de 100 mg) com administração
++ ofloxacino (OFX): supervisionada
+dose mensal de 400 mg + clofazimina (CFZ): dose diária de 50 mg,
+supervisionada e dose diária autoadministrada
+de 400 mg autoadministrada
++ ofloxacino (OFX): dose mensal de 400 mg
+OU supervisionada e dose diária de 400 mg
+Minociclina (MNC) dose autoadministrada
+mensal de 100 mg OU
+supervisionada e dose diária
+Minociclina (MNC) dose mensal de 100 mg
+de 100 mg autoadministrada.
+supervisionada e dose diária de 100 mg
+autoadministrada.
+Duração: 6 doses Duração: 24 doses
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+26
+seguimento dos casos: comparecimento mensal para dose supervisionada
+e exame dermatoneurológico.
+critério de alta: o tratamento do doente PB está concluído com 6 doses
+supervisionadas (6 cartelas PB sem rifampicina) + ofloxacino (ou minociclina)
+em até 9 meses. Para o MB o tratamento está concluído com 24 doses
+supervisionadas de clofazimina e dapsona (24 cartelas MB sem rifampicina) +
+ofloxacino (ou minociclina) em até 36 meses.
+QuadrO 13
+doente com intolerância à rifampicina (rfm) e dapsona (dds)
+paucibacilar multibacilar
+Clofazimina (CFZ): dose mensal nos seis primeiros meses:
+supervisionada 300 mg, e dose diária de clofazimina (CFZ): dose mensal de 300 mg
+50 mg autoadministrada. supervisionada e dose diária de 50 mg,
++ ofloxacino (OFX): dose mensal de autoadministrada.
+400 mg supervisionada e dose diária de + ofloxacino (OFX): dose mensal de 400 mg
+400 mg autoadministrada supervisionada e dose diária de 400 mg,
+OU autoadministrada.
+Minociclina (MNC) dose mensal de 100 mg + minociclina (MNC): dose mensal de 100 mg
+supervisionada e dose diária de 100 mg supervisionada e dose diária de 100 mg
+autoadministrada. autoadministrada.
+nos 18 meses subsequentes:
+clofazimina (CFZ): dose mensal de 300 mg
+supervisionada e dose diária de 50 mg
+autoadministrada
++ ofloxacino (OFX): dose mensal de 400 mg
+supervisionada e dose diária de 400 mg
+autoadministrada
+OU
+Clofazimina (CFZ): dose mensal de 300
+mg supervisionada e dose diária de 50 mg
+autoadministrada
++minociclina (MNC): dose mensal de 100 mg
+supervisionada e dose diária de 100 mg
+autoadministrada.
+Duração: 6 doses Duração: 24 doses em até 36 meses
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+seguimento dos casos: comparecimento mensal para dose supervisionada e
+exame dermatoneurológico, incluindo exames complementares baciloscópico,
+específicos na 12ª e 24ª doses nos MB.
+27
+critério de alta: tratamento PB concluído com seis doses supervisionadas
+em até nove meses; tratamento MB concluído com seis doses supervisionadas
+e autoadministradas de clofazimina + minociclina + ofloxacino e 18 doses
+supervisionadas e autoadministradas de clofazimina + ofloxacino OU
+clofazimina + minociclina.
+QuadrO 14
+doente com intolerância a dapsona e clofazimina
+faiXa paucibacilares multibacilares
+Rifampicina (RFM): cápsula de 300 mg Rifampicina (RFM): cápsula de 300 mg
+(2) (2)
+Ofloxacino (OFX): comprimido de Ofloxacino (OFX): comprimido de
+400 mg (1) 400 mg (1)
+adulto
+Minociclina (MNC): comprimido de Minociclina (MNC): comprimido de
+100 mg (01) 100 mg (01)
+Duração: 6 doses Duração: 24 doses
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+seguimento dos casos: comparecimento mensal para dose supervisionada
+e exame dermatoneurológico.
+critério de alta: o tratamento PB está concluído com seis doses
+supervisionadas em até nove meses. O tratamento MB está concluído com 24
+doses supervisionadas em até 36 meses.
+Notas
+a) Em crianças MB menores de 8 anos de idade: quando houver
+necessidade de retirada da dapsona, encaminhar o paciente à unidade
+de referência para avaliação do caso e definição da conduta terapêutica.
+b) Em crianças menores de 8 anos de idade, tanto MB quanto PB: quando
+houver necessidade de retirada da rifampicina, este medicamento
+deverá ser substituído pelo ofloxacino na dose de 10 mg/kg/dia, não
+pela minociclina que implica riscos para esta faixa etária.
+c) Em gestantes com intolerância a dapsona, a ofloxacino e minociclina
+são contraindicadas. O esquema terapêutico recomendado é
+associação da rifampicina com clofazimina.
+d) O doente deve ser orientado a não tomar a dose autoadministrada no
+dia da dose supervisionada.
+f) No final do tratamento substitutivo, os doentes PB ou MB deverão
+ser submetidos ao exame dermatológico e baciloscópico, às avaliações
+28
+neurológicas simplificadas e do grau de incapacidade física e receber
+alta por cura.
+h) Os doentes MB que excepcionalmente não apresentarem melhora
+clínica e com presença de lesões ativas da doença, no final do
+tratamento preconizado, deverão ser encaminhados para avaliação na
+referência (nos serviços especializados, ambulatorial e/ou hospitalar),
+para verificar a conduta mais adequada para o caso.
+3.4.4 seguimento de casos
+Agendar o retorno do doente a cada 28 dias. Nessas consultas o paciente
+toma a dose supervisionada na unidade de saúde e recebe a cartela com os
+medicamentos das doses a serem autoadministradas em domicílio. Aproveitar
+a oportunidade para avaliar o doente, fazer orientações e esclarecer dúvidas.
+Além disso, reforçar a importância do exame dos contatos, com agendamento
+do exame clínico e vacinação.
+O cartão de agendamento deve ser usado para registro da data de retorno
+à unidade de saúde e para o controle da adesão ao tratamento. O doente
+que não comparecer à dose supervisionada deve ser visitado no domicílio,
+no máximo em até 30 dias, buscando-se continuar o tratamento e evitar o
+abandono.
+No retorno para tomar a dose supervisionada, o(a) paciente deve ser
+submetido(a) à consulta por médico(a) e/ou enfermeiro(a) responsáveis pelo
+monitoramento clínico e terapêutico. Essa medida visa identificar reações
+hansênicas, efeitos adversos aos medicamentos e dano neural. Em caso de
+reações ou outras intercorrências, realizar o seguimento na referência.
+A demonstração e a prática de autocuidado devem fazer parte das
+orientações de rotina do atendimento mensal, sendo recomendada a
+organização de grupos de doentes e familiares ou de pessoas de sua convivência
+que possam apoiá-los na execução dos procedimentos recomendados.
+A prática das técnicas de autocuidado deve ser avaliada sistematicamente
+por profissional da unidade de saúde para evitar piora do dano neural por
+execução inadequada. Em todas as situações, valorizar o esforço realizado
+pelo paciente para estimular a continuidade das práticas de autocuidado.
+Ainda que os efeitos adversos aos medicamentos da PQT sejam pouco
+frequentes, estes podem ser graves e requerem a suspensão do tratamento,
+com imediato encaminhamento do doente para avaliação em unidade de maior
+nível de atenção, apoio de exames laboratoriais complementares e prescrição
+da conduta adequada.
+29
+Os efeitos colaterais mais frequentes são os relacionados à dapsona, como
+anemia hemolítica, hepatite medicamentosa, meta-hemoglobinemia, gastrite,
+agranulocitose, síndrome da dapsona, eritrodermia, dermatite esfoliativa e
+distúrbios renais. Em relação à rifampicina, destacam-se a alteração da cor da
+urina, distúrbios gastrointestinais, diminuição da eficácia dos anticoncepcionais
+orais, hepatotoxicidade (rara quando tomada de forma isolada), síndrome
+pseudogripal e plaquetopenia. Em relação à clofazimina, esta pode desencadear
+pigmentação cutânea, ictiose e distúrbios gastrointestinais. Os efeitos mais
+graves estão relacionados à dapsona e, em geral, ocorrem nas primeiras seis
+semanas de tratamento.
+O doente de hanseníase que apresentar outras doenças associadas (aids,
+tuberculose, nefropatias, hepatopatias, endocrinopatias), se necessário, deve
+ser encaminhado para avaliação em unidades de saúde especializadas de maior
+nível de atenção.
+Pode ocorrer falência terapêutica por:
+• Resistência bacteriana (muito rara) que deverá ser investigada clínica e
+laboratorialmente na referência.
+• Alterações enzimático-metabólicas que implicam na diminuição da
+eficácia dos medicamentos.
+Nestes casos, consultar fluxo estabelecido pelo Ministério da Saúde
+(Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE e
+Coordenação-Geral dos Laboratórios de Saúde Pública – CGLAB) a respeito do
+envio de amostras para análise e confirmação de falência terapêutica.
+3.4.5 critérios de encerramento do tratamento na alta por cura
+O encerramento da PQT (alta por cura) deve ser estabelecido segundo
+os critérios de regularidade ao tratamento: número de doses e tempo de
+tratamento, de acordo com cada esquema mencionado anteriormente,
+sempre com avaliação neurológica, avaliação do grau de incapacidade física e
+orientação para os cuidados pós-alta.
+Situações a serem observadas:
+a) Condutas para doentes irregulares: os doentes que não completaram o
+tratamento preconizado – PB: 6 doses em até 9 meses e MB: 12 doses
+em até 18 meses – reiniciar o tratamento, exceto casos em que o médico
+considerar que o paciente recebeu doses suficientes.
+b) Condutas para casos MB sem melhora clínica ao final do tratamento
+preconizado de 12 doses PQT/OMS (cartelas): o doente MB que
+30
+excepcionalmente não apresentar melhora clínica e com presença de
+lesões ativas da doença, no final do tratamento, deve ser encaminhado
+para avaliação em serviço de referência, quanto à necessidade de 12
+doses adicionais de PQT/MB.
+Casos MB que iniciam o tratamento com numerosas lesões ou extensas áreas
+de infiltração cutânea podem ter um risco maior de desenvolver reações e dano
+neural após completar as 12 doses. Esses casos poderão apresentar regressão
+mais lenta das lesões de pele. A maioria desses doentes continuará a melhorar
+após a conclusão do tratamento com 12 doses. É possível, no entanto, que
+alguns desses casos não demonstrem qualquer melhora e por isso deverão ser
+avaliados em serviço de referência (municipal, regional, estadual ou nacional)
+quanto à necessidade de 12 doses adicionais de PQT/MB.
+Considera-se um caso de abandono todo paciente que não conseguiu
+completar o tratamento dentro do prazo máximo permitido, apesar de
+repetidas tentativas para o retorno e seguimento do tratamento. Assim,
+sempre que um paciente PB perdeu mais de três meses de tratamento
+ou um paciente MB mais de seis meses de tratamento, não será possível
+completá-lo no tempo máximo permitido e deverão ser informados no campo
+correspondente como abandono.
+3.4.6 Orientações no momento da alta
+Doente que no momento da alta por cura apresente reações ou deficiências
+sensitivo-motoras e/ou incapacidades deve ser monitorado, com agendamento,
+de acordo com cada caso.
+Deve ser orientado para retorno imediato à unidade de saúde em caso de
+aparecimento de novas lesões de pele e/ou de dores nos trajetos dos nervos
+periféricos e/ou piora da função sensitiva e/ou motora.
+3.5 tratamentO de reações Hansênicas
+O tratamento dos estados reacionais é geralmente ambulatorial e deve
+ser prescrito e supervisionado por médico. Essas ocorrências devem ser
+consideradas como situações de emergência e encaminhadas às unidades de
+saúde do nível secundário e terciário, para tratamento nas primeiras 24 horas.
+Para iniciar o tratamento das reações hansênicas é imprescindível diferenciar
+o tipo de reação; avaliar a extensão do comprometimento de nervos periféricos,
+órgãos e outros sistemas; investigar e controlar fatores potencialmente capazes
+de desencadear os estados reacionais; conhecer as contraindicações, interações
+31
+e efeitos adversos dos medicamentos usados no tratamento da hanseníase e em
+seus estados reacionais; instituir precocemente a terapêutica medicamentosa
+antirreacional e medidas coadjuvantes adequadas visando à prevenção de
+incapacidades; encaminhar os casos graves para internação hospitalar.
+Nas situações em que haja dificuldade de encaminhamento imediato para
+serviços de referência, os seguintes procedimentos devem ser aplicados:
+1. Orientar repouso do membro afetado em caso de suspeita de neurite.
+2. Iniciar prednisona na dose 1 mg/kg/dia, devendo-se tomar as seguintes
+precauções para a sua utilização: garantia de acompanhamento médico,
+registro do peso, da pressão arterial, da glicemia de jejum no sangue,
+tratamentos profiláticos da estrongiloidíase e da osteoporose.
+Nota
+Nos casos em que o doente for portador de hipertensão arterial sistêmica
+ou insuficiência cardíaca, pode-se utilizar a dexametasona na dosagem
+equivalente (0,15 mg/kg/dia).
+O acompanhamento do doente com reação deve ser realizado em serviços
+de referência. Para o encaminhamento deverá ser usada a Ficha de Referência/
+Contrarreferência padronizada pelo município, contendo todas as informações
+necessárias, incluindo-se a data do início do tratamento, esquema terapêutico,
+número de doses administradas e o tempo de tratamento.
+3.5.1 tratamento clínico das reações
+A) REAÇÃO TIPO 1
+1 Iniciar prednisona na dose de 1 mg/kg/dia ou dexametasona 0,15 mg/
+kg/dia em casos de doentes hipertensos ou cardiopatas, conforme
+avaliação clínica.
+2 Manter a poliquimioterapia se o doente ainda estiver em tratamento
+específico, não reintroduzi-la em situação de alta.
+3 Imobilizar o membro afetado em caso de neurite associada.
+4 Avaliar a função neural sensitiva e motora antes do início da corticoterapia.
+5 Reduzir a dose de corticoide conforme a resposta terapêutica.
+6 Programar e realizar ações de prevenção de incapacidades.
+32
+Na utilização de corticosteroides, devem ser tomadas algumas precauções:
+1 Registro do peso, da pressão arterial e da glicemia de jejum para controle.
+2 Tratamento antiparasitário com medicamento específico para
+Strongiloides stercoralis, prevenindo a disseminação sistêmica deste
+parasita (tiabendazol 50 mg/kg/dia, em 3 tomadas por 2 dias; ou 1,5 g
+em dose única; ou Albendazol na dose de 400 mg/dia durante 3 a 5 dias
+consecutivos). Verificar antes se não há gestação.
+3 Profilaxia da osteoporose: cálcio 1.000 mg/dia associado à vitamina
+D 400-800 UI/dia e/ou Bifosfonatos (alendronato70 mg/semana,
+administrado com água, pela manhã, em jejum. Recomenda-se que o
+desjejum ou outra alimentação matinal seja realizado(a), no mínimo 30
+minutos após a ingestão do comprimido do alendronato).
+Para aqueles com quadro de neurite de difícil controle, os serviços de
+referência em ambiente hospitalar podem também adotar protocolo clínico de
+pulsoterapia com metilprednisolona endovenosa, na dose de 1 g/dia por 3 dias
+seguidos (1º pulso). O segundo e terceiro pulsos devem ser de 1 g/dia, dose
+única quinzenal ou mensal, conforme melhora clínica dos sinais e sintomas,
+quando será suspensa ou substituída por prednisona via oral em dose menor.
+B) REAÇÃO TIPO 2 OU ERITEMA NODOSO HANSÊNICO (ENH)
+A talidomida é o medicamento de escolha na dose de 100 a 400 mg/dia,
+conforme a gravidade do quadro. Na impossibilidade do seu uso prescrever
+prednisona na dose de 1 mg/kg peso/dia, ou dexametasona na dose equivalente.
+Além disso, será preciso:
+1 Manter a poliquimioterapia se o doente ainda estiver em tratamento
+específico e não a reintroduzir na situação de alta.
+2 Associar corticosteroide em caso de comprometimento de nervos
+(bem definido após palpação e avaliação da função neural), segundo o
+esquema já referido.
+3 Imobilizar o membro afetado em caso de neurite associada.
+4 Monitorar a função neural sensitiva e motora.
+5 Reduzir a dose da talidomida e/ou do corticoide conforme resposta
+terapêutica.
+6 Programar e realizar ações de prevenção de incapacidades.
+7 Na associação de talidomida e corticoide, usar AAS 100 mg/dia como
+profilaxia para tromboembolismo.
+33
+C) REAÇÃO TIPO 2 (ENH) – INDICAÇÕES DA CORTICOTERAPIA
+1 Contraindicações da talidomida: Devido aos graves efeitos teratogênicos,
+a talidomida somente pode ser prescrita para mulheres em idade fértil
+após avaliação médica com exclusão de gravidez por meio de método
+sensível e mediante a comprovação de utilização de, no mínimo, dois
+métodos efetivos de contracepção para mulheres em uso de talidomida
+(RDC n° 11, de 22 de março de 2011 e Lei nº 10.651, de 16 de abril de
+2003), sendo pelo menos um método de barreira.
+2 Presença de lesões oculares reacionais, com manifestações de hiperemia
+conjuntival com ou sem dor, embaçamento visual, acompanhadas ou
+não de manifestações cutâneas.
+3 Edema inflamatório de mãos e pés (mãos e pés reacionais).
+4 Glomerulonefrite, orquiepididimite, artrite, vasculites, eritema nodoso
+necrotizante e neurite.
+D) ESqUEMA TERAPÊUTICO SUBSTITUTIvO PARA REAÇÃO TIPO 2
+Utilizar a pentoxifilina na dose de 1.200 mg/dia, dividida em doses de 400
+mg de 8/8 horas, após alimentação, associada ou não ao corticosteroide.
+Sugere-se iniciar com a dose de 400 mg/dia, com aumento de 400 mg a cada
+semana, no total de três semanas, para alcançar a dose máxima e minimizar os
+efeitos gastrintestinais. Pode ser uma opção para os casos em que a talidomida
+for contraindicada, como em mulheres em idade fértil. A pentoxifilina pode
+beneficiar os quadros com predomínio de vasculites. Reduzir a dose conforme
+resposta terapêutica, após pelo menos 30 dias, observando a regressão dos
+sinais e sintomas gerais e dermatoneurológicos.
+Anti-inflamatórios não hormonais também são úteis em reações leves.
+E) CONDUTA NOS CASOS DE REAÇÃO CRÔNICA OU SUBINTRANTE
+A reação subintrante é a reação intermitente, cujos surtos são tão frequentes
+que, antes de terminado um, surge o outro. Os pacientes respondem ao
+tratamento com corticosteroides e/ou talidomida, mas tão logo a dose seja
+reduzida ou retirada, a fase aguda recrudesce. Isso pode acontecer mesmo
+na ausência de doença ativa e perdurar por muitos anos após o tratamento.
+Nesses casos, recomenda-se investigar fatores predisponentes como: infecções
+concomitantes, parasitose intestinal, infecção periodontal, distúrbios
+hormonais, fatores emocionais como estresse, fatores metabólicos, diabetes
+descompensado, sinusopatia, contato com doente MB sem diagnóstico
+e tratamento.
+34
+F) CARACTERIzAÇÃO DE DOR NEUROPÁTICA E NEURITE
+Quando há algum grau de perda de função neural (sensibilidade e/ou
+força muscular), com ou sem dor (neurite silenciosa), caracteriza-se a neurite.
+Caso haja somente sintomas (dor, alodinia, hiperpatia, parestesias), sem
+perda progressiva da função neural, caracteriza-se como dor neuropática,
+a qual deve ser tratada com antidepressivos tricíclicos, anticonvulsivantes
+e/ou neurolépticos.
+G) TRATAMENTO CIRÚRGICO DAS NEURITES
+Este tratamento é indicado depois de esgotados todos os recursos clínicos para
+reduzir a compressão do nervo periférico por estruturas anatômicas constritivas
+próximas. O doente deve ser encaminhado para avaliação em unidade de
+referência de maior nível de complexidade da Rede de Atenção à Saúde para
+descompressão neural cirúrgica, de acordo com as seguintes indicações:
+1 Abscesso de nervo.
+2 Neurite que não responde ao tratamento clínico padronizado dentro de
+quatro semanas.
+3 Neurites subentrantes ou reentrantes.
+4 Neurite do nervo tibial com ou sem a presença de úlcera plantar, por
+ser geralmente silenciosa e nem sempre responder bem ao corticoide.
+A cirurgia, por atuar na descompressão do plexo neurovascular
+(angioneurolise), pode auxiliar na prevenção e/ou cicatrização de úlceras
+plantares, por melhorar a vascularização.
+5 Neurite deficitária crônica com dor crônica.
+6 Neurite com outras comorbidades associadas (glaucoma, DM, HAS) que
+contraindicam o uso do corticoide.
+H) DOR NEURAL NÃO CONTROLADA
+A dor neuropática (neuralgia), associada ou não à compressão neural, pode
+ocorrer durante o processo inflamatório ou por sequela da neurite, e deve
+ser contemplada no tratamento da neuropatia. Doentes com dor persistente,
+quadro sensitivo e motor normal e sem agravamento devem ser encaminhados
+ao centro de referência para o tratamento adequado com antidepressivos
+tricíclicos, neurolépticos ou anticonvulsivantes. Em geral, devem-se associar
+antidepressivos tricíclicos com neurolépticos e/ou anticonvulsivantes, pelo
+sinergismo de ação.
+35
+QuadrO 15
+antidepressivos tricíclicos
+fÁrmacO apresentaçãO dOse Habitual/dia dOse mÁXima/dia
+cloridrato de 25 mg
+25-150 mg 300 mg
+amitriptilina comprimido
+cloridrato de 25 mg e 50 mg 10-50 mg 150 mg
+nortriptilina cápsula (0,2-3 mg kg)
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+QuadrO 16
+neurolépticos
+fÁrmacO apresentaçãO dOse Habitual/dia dOse mÁXima/dia
+5 gotas 12/12h 20 gotas 12/12h
+clorpromazina Gotas/comprimidos
+12,5 mg 12/12h 100 mg 12/12h
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+QuadrO 17
+anticonvulsivantes
+fÁrmacO apresentaçãO dOse Habitual/dia dOse mÁXima/dia
+200 mg comprimido
+carbamazepina 20 mg/ml 200-1.200 mg 3.000 mg
+suspensão oral
+300 mg e 400 mg
+gabapentina 900-2.400 mg 2.400 mg
+cápsula
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+3.6 prevençãO e tratamentO de incapacidades
+A principal forma de prevenir a instalação de deficiências e incapacidades
+físicas é o diagnóstico oportuno. A prevenção de deficiências (temporárias)
+e incapacidades (permanentes) não deve ser dissociada do tratamento PQT.
+Essas ações devem fazer parte da rotina dos serviços de saúde e recomendadas
+para todos os doentes.
+3.6.1 técnicas simples de autocuidado
+A prevenção das incapacidades físicas e deformidades decorrentes da
+hanseníase são realizadas por meio de técnicas simples e de orientação ao
+doente para a prática regular de autocuidado. Elas devem ser aplicadas e
+36
+ensinadas nas unidades de saúde durante o acompanhamento do doente e
+após a alta.
+Autocuidado são procedimentos, técnicas e exercícios que o próprio doente,
+devidamente orientado, pode realizar regularmente no seu domicílio e em
+outros ambientes. O doente deve ser orientado a fazer a autoinspeção diária
+e, se necessário, estimulado a usar proteção, especialmente voltada para os
+olhos, o nariz, as mãos e os pés.
+3.6.2 indicação de cirurgia de reabilitação
+O doente com incapacidade instalada, apresentando mão em garra, pé caído,
+lagoftalmo, madarose superciliar, desabamento da pirâmide nasal, queda do
+lóbulo da orelha, atrofia cutânea da face, deve ser encaminhado para avaliação
+e indicação de cirurgia de reabilitação em centros de atenção especializada
+hospitalar. Para isso, o paciente deve atender aos seguintes critérios: ter
+completado o tratamento PQT e não apresentar estado inflamatório reacional
+e/ou uso de medicamentos antirreacionais há pelo menos um ano.
+3.7 situações pós-alta pOr cura
+3.7.1 reações pós-alta por cura
+Doentes pós-alta por cura podem apresentar reações hansênicas. Neste caso,
+é preciso fazer o diagnóstico diferencial com recidivas e seguir os esquemas de
+tratamento já apresentados.
+3.7.2 recidiva
+Define-se como RECIDIVA todos os casos de HANSENÍASE, tratados
+regularmente com esquemas oficiais padronizados e corretamente indicados,
+que receberam alta por cura, isto é, saíram do registro ativo da doença no
+Sinan, e que voltam a apresentar novos sinais e sintomas clínicos de doença
+infecciosa ativa. Os casos de recidiva em hanseníase geralmente ocorrem em
+período superior a cinco anos após a cura. Após a confirmação da recidiva,
+esses casos devem ser notificados no modo de entrada “recidiva”.
+Considerando que a hanseníase apresenta critérios clínicos distintos para a
+sua classificação operacional (paucibacilar e multibacilar) e consequentemente
+esquemas terapêuticos diferentes, estabelece-se o diagnóstico de recidiva,
+segundo a classificação operacional como:
+37
+PAUCIBACILAR (PB)
+Paciente que, após alta por cura e tratamento com seis doses de PQT-PB
+ou com outros esquemas substitutivos protocolados em portaria, apresentar
+novos nervos afetados, novas áreas com alterações de sensibilidade, novas
+lesões e/ou exacerbação de lesões anteriores e que NÃO RESPONDEM ao
+tratamento com corticosteroide nas doses recomendadas – por pelo menos
+30 dias para lesões cutâneas de reação reversa (reação tipo 1) e por 90 dias
+para comprometimento neurológico (neurite) –, além de pacientes com surtos
+reacionais tardios, que em geral ocorrem cinco anos após a alta.
+MULTIBACILAR (MB)
+Paciente que, após alta por cura e tratamento com 12/24 doses de PQT-MB
+ou com outros esquemas substitutivos preconizados em portaria, apresentar
+novas lesões cutâneas e/ou evolução de lesões antigas, novas alterações
+neurológicas que NÃO RESPONDEM ao tratamento com talidomida e/ou
+corticosteroide nas doses e nos prazos recomendados; baciloscopia positiva
+(índice baciloscópico) igual ou maior que a do momento da cura, coletado nos
+mesmos sítios (se disponível, considerar a baciloscopia existente); pacientes
+com surtos reacionais tardios geralmente após cinco anos da alta, podendo
+ocorrer em período menor, além de, quando disponível, manutenção de altos
+níveis de ELISA anti-PGL1 e/ou com bacilos íntegros bem definidos no raspado
+dérmico e/ou biópsia de pele.
+Para a investigação dos casos de recidiva, deve ser preenchida a Ficha de
+Investigação de Suspeita de Recidiva (Anexo D) a ser encaminhada com a
+Ficha de Notificação do Sinan para a Vigilância Epidemiológica do município.
+É importante investigar e diferenciar recidiva das situações de reação reversa
+hansênica, insuficiência terapêutica, falência terapêutica, definidas a seguir:
+A – REAÇÃO REvERSA (REAÇÃO TIPO 1)
+Considerando que os quadros de reação reversa se caracterizam por
+reagudização das lesões antigas e o surgimento de novas lesões eritemato-
+placares inflamatórias e agudas, é importante avaliar sua distinção dos quadros
+de recidivas, geralmente insidiosos e pouco inflamatórios. O diagnóstico
+diferencial entre reação e recidiva deverá ser baseado na associação de exames
+clínicos e laboratoriais, especialmente a baciloscopia de raspado intradérmico
+nos casos MB. Os casos que não respondem ao tratamento proposto para
+os estados reacionais deverão ser encaminhados às unidades de referência
+para confirmação de recidiva. No quadro a seguir, encontram-se descritas as
+diferenças clínicas que se aplicam à maioria dos casos, a saber:
+38
+QuadrO 18
+diferenças clínicas entre reaçãO e recidiva na hanseníase
+características reaçãO recidiva
+Frequente durante a PQT e/ou Em geral, período superior
+menos frequente no período a cinco anos após término
+período de ocorrência
+de dois a três anos após da PQT
+término do tratamento
+surgimento Súbito e inesperado Lento e insidioso
+Algumas ou todas podem se
+lesões antigas tornar eritematosas, brilhantes, Geralmente imperceptíveis
+intumescidas e infiltradas
+lesões recentes Em geral, múltiplas Poucas
+ulceração Pode ocorrer Raramente ocorre
+regressão Presença de descamação Ausência de descamação
+Muitos nervos podem ser Poucos nervos podem ser
+comprometimento rapidamente envolvidos envolvidos com alterações
+neural ocorrendo dor e alterações sensitivo-motoras de
+sensitivo-motoras evolução mais lenta.
+resposta a
+medicamentos Excelente Não pronunciada
+antirreacionais
+Fonte: Coordenação-Geral de Hanseníase e Doenças em Eliminação – CGHDE/DEVIT/SVS/MS.
+B – INSUFICIÊNCIA TERAPÊUTICA
+Situação especial em que o paciente, por diferentes motivos, não recebeu
+tratamento adequado e suficiente, tais como:
+• Casos com irregularidade ao tratamento padrão PQT.
+• Casos que foram erroneamente classificados como PB quando deveriam
+ser classificados como MB.
+• Casos MB tratados com esquemas nos quais os pacientes receberam
+apenas clofazimina diária e rifampicina mensal, por inviabilidade de
+utilizar a dapsona do esquema padrão.
+• Casos geralmente muito avançados e anérgicos, com muitos hansenomas
+e infiltrações, com índice baciloscópico maior que 3+ e/ou ELISA anti-PGLI
+elevados que receberam 12 doses PQT/MB e após avaliação clínica e/ou
+baciloscópica na referência terão necessidade de 12 doses adicionais. A
+insuficiência terapêutica com o esquema padrão, trata-se de caso especial
+39
+por problemas de biodisponibilidade, interações medicamentosas e/ou
+falhas de absorção.
+Esses casos NÃO devem ser notificados como “Recidiva” e sim como
+“Outros Reingressos” explicando o motivo “insuficiência terapêutica” no
+campo observação, se já estiverem em alta do tratamento. Casos que ainda
+não receberam alta por cura do tratamento, como no caso das 12 doses,
+continuarão no registro ativo sem necessidade de nova notificação, devendo
+ser informado apenas no Boletim de Acompanhamento Mensal a necessidade
+de 12 doses adicionais.
+C – FALÊNCIA TERAPÊUTICA
+Situação rara que deve ser suspeitada quando:
+• O paciente diagnosticado com hanseníase NÃO apresenta sinais de
+melhora clínica durante o tratamento regular e adequadamente indicado
+de 6 ou 12 doses PQT.
+• Situação em que o paciente MB recebeu até 24 doses de PQT/MB,
+portanto já ultrapassou o critério de insuficiência terapêutica, e que,
+na alta por cura, apresenta sinais de atividade clínica e/ou presença
+de bacilos íntegros bem definidos no raspado dérmico e/ou exame
+histopatológico de pele e, quando disponível, manutenção de altos
+níveis de ELISA anti-PGL1 (IgM). Esse tipo de caso pode ocorrer por:
+» Resistência bacteriana aos medicamentos preconizados, que
+deverá ser investigada clínica e laboratorialmente na referência.
+» Alterações enzimático-metabólicas dos pacientes que implicam
+na diminuição da eficácia dos medicamentos, que será aventada
+quando, na investigação molecular de resistência medicamentosa,
+o bacilo não apresenta a mutação de resistência a algum dos
+principais medicamentos da poliquimioterapia.
+Esses casos de falência terapêutica NÃO devem ser notificados como
+“Recidiva” e sim como “Outros Reingressos” explicando o motivo “falência
+terapêutica” no campo observação, se já estiverem em alta do tratamento.
+Casos que ainda não receberam alta por cura do tratamento, como no caso das
+24 doses, continuarão no registro ativo sem necessidade de nova notificação,
+devendo ser informado apenas no Boletim de Acompanhamento Mensal a
+mudança de esquema terapêutico.
+40
+3.7.3 prevenção e tratamento de incapacidades pós-alta por cura
+Todas as medidas recomendadas para o doente em tratamento devem ser
+extensivas ao período pós-alta por cura, especialmente dos casos que apresentam
+graus 1 e 2 para acompanhamento das práticas de autocuidado, adaptação de
+calçados, tratamento de feridas e reabilitação cirúrgica. Esse deve ser orientado
+para o retorno pós-alta por cura, de acordo com suas necessidades.
+41
+4
+RESISTÊNCIA MEDICAMENTOSA EM HANSENÍASE
+Casos de hanseníase com suspeita de falência do tratamento com PQT
+são os que têm maior probabilidade de apresentar bacilo com resistência
+medicamentosa e, por isso, devem ser encaminhados às unidades de referência
+capacitadas para o acompanhamento desse tipo de paciente, seguindo
+estratégias padronizadas em âmbito nacional.
+42
+5
+ATENÇÃO AOS EX-HOSPITAIS COLÔNIAS DE HANSENÍASE
+Recomenda-se que essas populações sejam contempladas com as seguintes
+ações de vigilância da hanseníase:
+• Integração dessas instituições à rede de serviços do Sistema Único de
+Saúde (SUS).
+• Investigação de casos de recidiva, pela possibilidade de ocorrência de
+resistência medicamentosa em pacientes tratados com monoterapia
+sulfônica ou esquema DNDS (rifampicina 600 mg/dia durante seis meses,
+dapsona 100 mg/dia até cinco anos após a negativação bacilar).
+• Vigilância de contatos ou exame de coletividade.
+• Desenvolvimento de ações de prevenção e reabilitação física, psicossocial
+e profissional.
+43
+6
+GERÊNCIA
+6.1 OrganizaçãO dO sistema de infOrmaçãO
+6.1.1 prontuário e documentação
+O prontuário do paciente de hanseníase deve ser o mesmo usado para os
+demais atendimentos realizados na unidade de saúde, acrescido de anexos
+constituídos por impressos específicos.
+É importante reiterar que conste no prontuário os seguintes documentos:
+cópia da ficha de notificação/investigação de hanseníase do Sinan (Anexo
+A); Registro da vigilância de contatos domiciliares de hanseníase; Protocolo
+Complementar de investigação diagnóstica de casos de hanseníase em menores
+de 15 anos (Anexo C); Formulário para Avaliação do Grau de Incapacidade
+Física (Anexo E); Formulário para avaliação neurológica simplificada (Anexo F);
+Ficha de investigação de suspeita de recidiva (Anexo D); e quando o caso exigir,
+usar outros formulários que se fizerem necessários para o acompanhamento
+eficiente dos pacientes.
+Informações sobre evolução clínica e psicossocial, administração de doses
+supervisionadas e vigilância de contatos deverão constar do registro regular no
+prontuário de todos os pacientes. Nos pacientes menores de 15 anos suspeitos
+de hanseníase deverá ser aplicado o Protocolo Complementar de Investigação
+Diagnóstica de Casos de Hanseníase em Menores de 15 anos – PCID <15,
+conforme Guia de Vigilância Epidemiológica do Ministério da Saúde, 2009
+(Anexo C).
+6.1.2 seguimento
+O paciente de hanseníase deverá ser agendado para dose supervisionada a
+cada 28 dias. No ato do comparecimento à unidade de saúde, para receber a dose
+supervisionada da medicação, o doente deve ser submetido à consulta médica
+ou de enfermagem para o monitoramento clínico e terapêutico, objetivando
+identificar quaisquer anormalidades clínicas que requeiram intervenção, como
+por exemplo: reações hansênicas, efeitos adversos ao medicamento em uso,
+presença de dano neural etc.
+Recomenda-se aproveitar a presença do paciente na unidade de saúde para
+a convocação dos contatos, realização do exame clínico e administração da
+primeira dose ou reforço da vacina BCG.
+44
+Para monitorar a ocorrência de recidiva, recomenda-se que as gerências
+estaduais e municipais investiguem as entradas por recidiva no Sinan e a
+utilização da Ficha de Investigação de Suspeita de Recidiva (Anexo D).
+6.1.3 fluxo de informação
+O fluxo de informações em hanseníase deve ser construído segundo lógica
+do envio sistemático mensal dos dados e atualização permanente do sistema
+de informação, desde o nível municipal até a esfera federal.
+No acompanhamento mensal dos casos em tratamento, o órgão municipal
+responsável pela emissão do Boletim de Acompanhamento deve enviá-lo às
+unidades de saúde para preenchimento e devolução no final de cada mês.
+Naquelas unidades de saúde que já possuem o Sinan implantado, deve-se realizar
+a digitação, caso contrário o boletim é enviado ao setor municipal responsável.
+6.2 prOgramaçãO de medicamentOs e insumOs
+É de responsabilidade da unidade básica de saúde dispor do tratamento
+completo para cada caso, conforme faixa etária e classificação operacional,
+na forma do esquema de Poliquimioterapia (PQT) em caixas fechadas
+contendo cartelas PB e caixas com cartelas MB. O armazenamento das caixas
+com cartelas de PQT deve ser em local apropriado, sem umidade, calor e
+luminosidade excessiva.
+As referências (serviços especializados, ambulatorial e/ou hospitalar) são
+responsáveis por disponibilizar o tratamento completo para cada caso que
+necessitar de esquemas substitutivos.
+O estoque regulador das medicações disponíveis para o tratamento
+da hanseníase (esquema padrão PQT/OMS, esquemas substitutivos e
+antirreacionais), a ser disponibilizado para a assistência, é estimado a partir
+do número de casos novos detectados no ano anterior, conforme matriz
+programática específica.
+O Ministério da Saúde é responsável pela programação, aquisição e
+distribuição nacional dos medicamentos, com a participação das Secretarias
+Estaduais de Saúde. Cabe às Secretarias Estaduais e Municipais de Saúde a
+gestão da distribuição às unidades que atendem pacientes de hanseníase
+onde são dispensados, zelando para que não haja descontinuidade na oferta
+desses medicamentos.
+Os medicamentos antirreacionais também são adquiridos e distribuídos às
+Secretarias Estaduais de Saúde pelo Ministério da Saúde. As secretarias e unidades
+45
+de saúde devem dar atenção ao cumprimento da Lei nº 10.651, de 16 de abril de
+2003, que dispõe sobre o uso da talidomida para mulheres em idade fértil.
+Da mesma forma, devem-se seguir protocolos para corticoterapia
+prolongada e uso dos insumos para apoio à prevenção de incapacidades físicas
+de olhos, mãos e pés, durante e após o tratamento, conforme indicação.
+Outros insumos, como material para testes de sensibilidade (estesiômetro)
+e para coleta de material para baciloscopia, devem estar disponíveis em todos
+os serviços de saúde. Os serviços de referência precisam dispor de insumos
+para exames complementares na elucidação de casos de difícil diagnóstico.
+6.3 referência e cOntrarreferência
+Para atenção integral à pessoa com hanseníase e suas complicações ou
+sequelas, os serviços com incorporação de tecnologias diferenciadas na rede
+de saúde, deve-se estruturar, organizar e oficializar as referências municipais,
+estaduais e regionais e o sistema de contrarreferência, conforme as políticas
+vigentes do SUS, definidas por meio de pactuações do Contrato Organizativo
+de Ação Pública de Saúde (Coap) e das Comissões Bipartites e Tripartite, que
+estabelecem as atribuições das Secretarias de Saúde dos Estados, do Distrito
+Federal e dos Municípios, de acordo com as respectivas condições de gestão e
+divisão de responsabilidades.
+Na presença de intercorrências clínicas, reações adversas ao tratamento,
+reações hansênicas, recidivas e necessidade de reabilitação cirúrgica, além de
+dúvidas no diagnóstico e na conduta, o caso deve ser encaminhado para os
+serviços de referência. Após agendamento prévio na unidade de referência,
+o paciente deverá estar acompanhado de formulário contendo todas as
+informações necessárias ao atendimento (motivo do encaminhamento, resumo
+da história clínica, resultados de exames realizados, diagnóstico, evolução clínica,
+esquema terapêutico e dose a que o paciente está submetido, entre outras).
+Do mesmo modo, a contrarreferência deve ser acompanhada de
+formulário próprio, contendo informações detalhadas a respeito do
+atendimento prestado, condutas e orientações para o seguimento do doente
+no estabelecimento de origem.
+Diante da necessidade de atendimento psicológico ou psiquiátrico, o paciente
+de hanseníase ou seus familiares devem ser encaminhados para acompanhamento
+em saúde mental, na própria unidade básica ou em serviço de referência.
+46
+REFERÊNCIA
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Básica. vigilância em saúde: dengue, esquistossomose, hanseníase,
+malária, tracoma e tuberculose. 2. ed. rev. Brasília, 2008. (Série A. Normas e
+Manuais Técnicos) (Caderno da Atenção Básica, 21).
+47
+BIBLIOGRAFIA
+BRASIL. Ministério da Saúde. Gabinete do Ministro. portaria gm/ms nº 3.125,
+de 7 de outubro de 2010. Aprova as Diretrizes para Vigilância, Atenção e
+Controle da Hanseníase. [Brasília], 2010. Disponível em: <http://bvsms.saude.
+gov.br/bvs/saudelegis/gm/2010/prt3125_07_10_2010.html>. Acesso em: 25 jan.
+2016.
+______. Ministério da Saúde. guia de vigilância em saúde: volume único.
+Brasília, 2014. Disponível em: <http://portalsaude.saude.gov.br/images/pdf/2014/
+novembro/27/guia-vigilancia-saude-linkado-27-11-14.pdf>. Acesso em: 25 jan.
+2016.
+______. Ministério da Saúde. guia para controle da Hanseníase. 2. ed. Brasília:
+1984. (Série A. Normas e Manuais Técnicos, 6).
+______. Ministério da Saúde. Hanseníase na atenção básica de saúde. 2. ed.
+Brasília, 2006.
+______. Ministério da Saúde. Secretaria de Atenção à Saúde. portaria gm/ms nº
+594, de 29 de outubro de 2010. [Brasília], 2010. Disponível em: <http://bvsms.
+saude.gov.br/bvs/saudelegis/sas/2010/prt0594_29_10_2010.html>. Acesso em:
+25 jan. 2016.
+______. Ministério da Saúde. Secretaria de Vigilância em Saúde. portaria
+conjunta svs/sas nº 125, de 26 de março de 2009. Define as ações de controle
+da hanseníase. [Brasília], 2009. Disponível em: <http://bvsms.saude.gov.br/bvs/
+saudelegis/svs/2009/poc0125_26_03_2009.html>. Acesso em: 25 jan. 2016.
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. enhanced global strategy for further
+reducing the disease burden duo to leprosy (2011-2015). Genebra, 2009.
+______. enhanced global strategy for further reducing the disease burden
+duo to leprosy: questions and answers. Genebra, 2012.
+______. guia para a eliminação da Hanseníase como problema de saúde
+pública. Genebra, 2000.
+______. resolução ams 44.9. Genebra, 1991.
+48
+ANEXOS
+aneXO a ficHa de nOtificaçãO / investigaçãO Hanseníase
+49
+esaínesnaH
+ed
+OtnemaHnapmOca
+ed
+mitelOb
+b
+OXena
+05
+aneXO c prOtOcOlO cOmplementar de investigaçãO diagnós-
+tica de casOs de Hanseníase em menOres de 15 anOs –
+pcid<15
+51
+VIGILÂNCIA EPIDEMIOLÓGICA DE CASOS DE HANSENÍASE EM MENORES DE
+vIGILÂNCIA EPIDEMIOLÓGICA DE CASOS DE HANSENÍASE EM MENORES DE 15 ANOS
+15 ANOS
+Unidade Notificadora
+Examina os sintomáticos dermatoneurológicos < 15 anos
+Suspeito de Hanseníase?
+Preenche o Protocolo de
+Investigação – PCID < 15
+Trata, previne
+incapacidades
+e cura o caso
+Dúvida
+Confirma o caso
+Examina todos
+Unidade de Referência Preenche a ficha de os contatos
+notificação do Sinan domiciliares
+e anexa PCID < 15
+Descarta Confere o PCID <
+Confere VE - SMS 15
+rotineiramente
+a base de dados
+do Sinan em VE - SES
+Promove
+relação aos < 15
+investigação, se
+anos e executa
+as outras VE - MS necessário
+rotinas
+padronizadas
+1 – As Unidades de Saúde dos municípios, diante de um caso suspeito, preenchem o “Protocolo Complementar
+de
+1
+In
+–
+ve s
+A
+ti
+s
+g a
+U
+çã
+n
+o
+i d
+D
+a
+ia
+d
+g
+e
+n
+s
+ó s
+d
+ti
+e
+ca
+S
+d
+a
+e
+ú
+C
+d
+a
+e
+so s
+d o
+de
+s
+H
+m
+an
+u
+s
+n
+e
+i
+n
+c
+í
+í
+a
+p
+se
+io
+e
+s
+m
+, d
+M
+ia
+e
+n
+no
+te
+re s
+d e
+de
+u
+1
+m
+5 A
+c
+n
+a
+o
+s
+s
+o
+–
+s
+PC
+u
+I
+s
+D
+p
+-
+e
+<
+ito
+15
+, p
+e,
+r e
+se
+e n
+co
+c
+n
+h
+fi
+e
+rm
+m
+a d
+o
+o
+“Protocolo Complementar de Investigação Diagnóstica de Casos de Hanseníase em
+o caso, remetem esse protocolo à Secretaria Municipal de Saúde com a da ficha de notificação do Sinan,
+aneMxaenndoor ecósp diae n o1 5p rAonntouásr i–o dPoC pIaDc ie- n<te1.5 e, se confirmado o caso, remetem esse protocolo à
+Secretaria Municipal de Saúde com a da ficha de notificação do Sinan, anexando cópia
+2 –
+n
+A
+o
+s
+p
+Se
+ro
+cr
+n
+e
+t
+t
+u
+ar
+á
+ia
+r
+s
+io
+M
+d
+u
+o
+n ic
+p
+ip
+a
+a
+c
+i
+i
+s
+e
+d
+n
+e
+t e
+S
+;
+a úde (SMS), mediante a análise do PCID <15, encaminhados pelas Unidades
+de Saúde, avaliam a necessidade de promover a investigação/validação do caso ou de referenciá-lo para
+serviços com profissionais mais experientes, ou referência regional/estadual, para confirmação do diagnóstico.
+2 – As Secretarias Municipais de Saúde – SMS, mediante a análise do PCID <15,
+3 –e nAcs aSmecirnehtaaridaos sE stpadeulaasis dUen Sidaúaddee (sS EdS)e, pSora iúndteerm, éadvioa ldiaams C oao rdneencaeçõsessi dEasdtaed uadies dpor oPrmogorvaemra ade
+Hanseníase, ao identificarem o caso no sistema de informação, confirmam com as SMS ou Regionais de Saúde
+investigação/validação do caso ou de referenciá-lo para serviços com profissionais
+correspondentes, o preenchimento do PCID <15, ou solicitam cópia dele, quando necessário, para avaliarem
+mais experientes, ou referência regional/estadual, para confirmação do diagnóstico;
+a necessidade de confirmação diagnóstica.
+4 –3 O – M Ainsis tSéreioc rdeat aSarúiadse , Eposrt amdeuioa idsa dCeoo Srdaeúndaçeã o–-G SerEalS d,e a Htaransveénsía sdea es D Coeonoçrads eenma Eçlõimeisn aEçãsot a(CdGuHaDisE /
+SVdS)o, aoP irdoegnrtaifimcaar od ceas oH naon ssisetenmíaas dee, inafoor midaeçãnot,i fciconafirermma coo mc aass SoE Sn oo p rseiesntcehmimae ndtoe d oin pforortmocaoçloã,o o,u
+solcicoitnaf cirómpiaa mde lceo, mqu aansd oS nMecSe sosáur ioR, epgairoa naavaisli adr ea nSeaceúsdsied acdoer dree svpaloidnadçãeon tdeos c, aoso p.reenchimento do
+PCID <15, ou solicitam cópia do mesmo, quando necessário, para avaliarem a
+necessidade de confirmação diagnóstica.
+4 – O Ministério da Saúde, através da Coordenação Geral de Hanseníase e Doenças
+em Eliminação – CGHDE/SVS, ao identificar o caso no sistema de informação,
+confirma com as SES o preenchimento do protocolo, ou solicita cópia do mesmo,
+quando necessário, para avaliar a necessidade de validação do caso.
+52
+aneXO d ficHa de investigaçãO de suspeita de recidiva
+53
+54
+aneXO e fOrmulÁriO de avaliaçãO dO grau de incapacidade
+física nO diagnósticO e na alta de pQt
+55
+56
+aneXO f fOrmulÁriO para avaliaçãO neurOlógica simplificada
+57
+58
+ISBN 978-85-334-2348-0
+9 788533 423480
+Secretaria de Vigilância em Saúde:
+www.saude.gov.br/svs
+Biblioteca Virtual em Saúde do Ministério da Saúde:
+www.saude.gov.br/bvs

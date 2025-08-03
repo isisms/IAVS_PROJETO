@@ -1,0 +1,2058 @@
+Ministério da saúde
+Guia de tratamento
+da malária no Brasil
+0202
+FD ailísarB
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+MINISTÉRIO DA
+GRATUITA
+SAÚDE
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+0202
+FD
+ailísarB
+Guia de tratamento
+da malária no Brasil
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+GRATUITA
+2020 Ministério da Saúde.
+Esta obra é disponibilizada nos termos da Licença Creative
+Commons – Atribuição – Não Comercial – Compartilhamento
+pela mesma licença 4.0 Internacional. É permitida a reprodução
+parcial ou total desta obra, desde que citada a fonte.
+A coleção institucional do Ministério da Saúde pode ser acessada, na íntegra, na Biblioteca
+Virtual em Saúde do Ministério da Saúde: www.saude.gov.br/bvs.
+Tiragem: 1ª edição – 2020 – versão eletrônica
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Vigilância em Saúde
+Departamento de Imunização e Doenças Transmissíveis
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão Vetorial
+SRTVN Quadra 701, Via W 5 Norte, Lote D, Edifício PO 700, 6º andar
+CEP: 70719-040 – Brasília/DF
+Site: http://www.saude.gov.br/saude-de-a-z/malaria
+E-mail: malaria@saude.gov.br
+Projeto gráfico:
+Nucom/GAB/SVS
+Diagramação:
+Sabrina Lopes – Nucom/GAB/SVS
+Normalização:
+Luciana Cerqueira Brito – Editora MS/CGDI
+Revisão:
+Khamila Silva – Editora MS/CGDI
+Tatiane Souza – Editora MS/CGDI
+Ficha Catalográfica
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Imunização
+e Doenças Transmissíveis.
+Guia de tratamento da malária no Brasil [recurso eletrônico] / Ministério da Saúde,
+Secretaria de Vigilância em Saúde, Departamento de Imunização e Doenças Transmissíveis. –
+Brasília: Ministério da Saúde, 2020.
+76 p. : il.
+Modo de acesso: World Wide Web: <http://bvsms.saude.gov.br/bvs/publicacoes/guia_
+tratamento_malaria_brasil.pdf>
+ISBN 978-85-334-2754-9
+1. Malária. 2. Tratamento farmacológico. 3. Guia. I. Título.
+CDU 616-936(036)
+Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2020/0006
+Título para indexação:
+Malaria’s treatment in Brazil guide
+LISTA DE ABREVIATURAS E SIGLAS
+ACT Artemisinin-Combined Therapy na sigla em inglês
+AL Artemeter+Lumefantrina
+Anvisa Agência Nacional de Vigilância Sanitária
+ASMQ Artesunato+Mefloquina
+CGZV Coordenação-Geral de Vigilância de Zoonoses e Doenças
+de Transmissão Vetorial
+CQ Cloroquina
+Deidt Departamento de Imunizações e Doenças Transmissíveis
+D0 Dia zero. Dia em que se inicia o tratamento
+D3 3o dia após o início do tratamento
+Eacs Equipes de Agentes Comunitários de Saúde
+ESF Equipes de Saúde da Família
+G6PD Glicose-6-fosfato desidrogenase
+GT Grupo técnico
+IM Intramuscular
+IPA Incidência Parasitária Anual
+IV Intravenoso
+LVC Lâmina de verificação de cura
+MS Ministério da Saúde
+OMS Organização Mundial da Saúde
+ONU Organização das Nações Unidas
+Sivep Sistema de Informação de Vigilância Epidemiológica – Malária
+Sinan Sistema de Informação de Agravos de Notificação
+SUS Sistema Único de Saúde
+SVS Secretaria de Vigilância em Saúde
+TDR Teste de Diagnóstico Rápido
+VigiMED Sistema da Anvisa para notificação de reações inesperadas
+a medicamentos e vacinas
+Sumário
+APRESENTAçãO 7
+1 SITUAçãO ATUAL DA MALáRIA NO BRASIL 10
+2 NOçõES GERAIS DE MALáRIA 15
+2.1 Ciclo biológico do Plasmodium 15
+2.2 Manifestações clínicas da malária 17
+2.2.1 MALáRIA NãO COMPLICADA 17
+2.2.2 MALáRIA COMPLICADA 18
+2.3 Diagnóstico laboratorial 20
+2.3.1 DIAGNóSTICO MICROSCóPICO 20
+2.3.2 TESTES DIAGNóSTICOS RáPIDOS – TDR 22
+2.3.3 DIAGNóSTICO POR TÉCNICAS MOLECULARES 23
+3 TRATAMENTO DE MALáRIA 24
+3.1 Objetivos do tratamento de malária 24
+3.2 Orientações para o tratamento da malária no Brasil 24
+3.2.1 COMPONENTE ESTRATÉGICO DA ASSISTêNCIA
+FARMACêUTICA 24
+3.2.2 A PRESCRIçãO E A DISPENSAçãO DOS ANTIMALáRICOS 25
+3.2.3 BOAS PRáTICAS DE ARMAZENAMENTO 27
+3.3 Esquemas recomendados para a malária não-complicada 28
+3.3.1 MALáRIA POR P. vivax OU P. ovale 28
+3.3.2 MALáRIA POR P. malariae 41
+3.3.3 MALáRIA POR P. falciParum E INFECçõES MISTAS 41
+3.3.4 MALáRIA POR INFECçõES MISTAS 48
+3.3.5 RECORRêNCIA POR P. falciParum 51
+3.4 Esquemas recomendados para malária complicada 52
+3.5 Eventos adversos 56
+4 PREVENçãO E PROFILAxIA DE MALáRIA NO BRASIL 58
+4.1 Medidas de prevenção para reduzir o risco de
+adquirir malária 58
+4.2 Diagnóstico e tratamento oportunos 60
+4.3 Comentários importantes sobre a prevenção de
+malária em viajantes 61
+4.4 Quimioprofilaxia 62
+5 PERGUNTAS FREQUENTES 63
+6 VIGILâNCIA EPIDEMIOLóGICA DE MALáRIA 71
+EQUIPE TÉCNICA 74
+
+APRESENTAçãO
+Os principais objetivos do Ministério da Saúde em relação à malária
+são: reduzir a mortalidade e a gravidade dos casos, reduzir a incidência,
+manter a doença ausente em locais onde a transmissão foi interrompida
+e eliminá-la do Brasil. O Programa Nacional de Controle da Malária
+(PNCM) utiliza várias estratégias para alcançar esses objetivos,
+sendo as mais importantes: o diagnóstico e o tratamento oportunos
+e adequados, por meio, por exemplo, do estímulo à busca rápida do
+diagnóstico e da adesão ao tratamento; além de medidas específicas
+de controle do mosquito transmissor.
+As ações de controle devem ser rediscutidas de forma permanente,
+localmente e na esfera tripartite, considerando que a área endêmica
+para malária no território nacional é vasta e nem sempre as ações
+desenvolvidas em uma área hiperendêmica se aplicam às áreas com
+baixa endemicidade.
+O MS orienta, em todo o território nacional, a terapêutica para a
+malária e disponibiliza gratuitamente os medicamentos antimaláricos
+preconizados em todo o País nas unidades de saúde do Sistema Único
+de Saúde (SUS). A Coordenação-Geral de Vigilância de Zoonoses e
+Doenças de Transmissão Vetorial (CGZV) da Secretaria de Vigilância em
+Saúde do Ministério da Saúde preocupa-se em revisar o conhecimento
+vigente sobre o arsenal terapêutico da malária e sua aplicabilidade para
+o tratamento dos indivíduos que dela padecem. As atualizações são
+fundamentadas em recomendações da Organização Mundial da Saúde
+(OMS) e em estudos de eficácia e segurança realizados prioritariamente
+no Brasil em centros de pesquisa de referência.
+Guia de tratamento da malária no Brasil 7
+Para otimizar o trabalho dos profissionais de saúde e garantir a padro-
+nização dos procedimentos necessários para o tratamento da malária, o
+presente Guia traz, na forma de tabelas e quadros, todas as orientações
+relevantes sobre a indicação e o uso dos antimaláricos preconizados
+no Brasil, de acordo com a espécie parasitária, o grupo etário e o peso
+dos pacientes. Assim, este documento constitui-se em um guia de
+orientação geral para o tratamento da malária, e fundamenta-se em
+uma revisão das melhores evidências da eficácia e da segurança dos
+antimaláricos. Entretanto, é indispensável lembrar-se de que casos que
+não estejam contemplados neste Guia devem ser discutidos direta-
+mente com profissionais e unidades de referência.
+É da maior importância que todos os profissionais de Saúde envolvidos
+no tratamento da malária, desde o agente de controle de endemias e o
+agente comunitário de saúde até o médico, orientem adequadamente
+os pacientes e seus acompanhantes, com linguagem compreen sível,
+para que o tratamento seja realizado adequadamente. Para o controle
+da malária é necessária a integração, não apenas dos programas
+municipais de controle da malária, mas também do envol vimento
+da atenção primária, no modelo da Estratégia de Saúde da Família
+(ESF). Trata-se de uma doença cujo diagnóstico e tratamento não
+estão exclusivamente ao encargo de farmacêuticos-bioquímicos e
+médicos, mas contam com a participação de um diversificado grupo
+de profissionais e técnicos qualificados, incluindo os de nível médio
+de escolaridade, que garantem assim o acesso universal, mesmo em
+regiões remotas onde há carência de médicos.
+A Portaria n.o 3.238, de 18 de dezembro de 2009, estabeleceu o
+incentivo financeiro referente à inclusão do microscopista na atenção
+básica para realizar, prioritariamente, ações de controle da malária
+8 Secretaria de Vigilância em Saúde | MS
+junto às Equipes de Agentes Comunitários de Saúde (Eacs) e/ou
+às Equipes de Saúde da Família (ESF), na Amazônia Legal, o que
+permitiu a expansão da rede de diagnóstico e tratamento (atualmente
+as Portarias de Consolidação n.o 2 e n.o 6 de 2017 redistribuem seu
+conteúdo). Entretanto, é importante considerar que, na presença de
+um médico, especialmente nos casos graves, esse profissional pode
+avaliar o caso de forma isolada e, eventualmente, prescrever esquemas
+distintos dos recomendados neste Guia. Nesse caso, na ficha de
+notificação/investigação, o esquema deve ser descrito no item “outros”.
+O tratamento adequado e oportuno previne a ocorrência de casos
+graves e, consequentemente, o óbito por malária, além de eliminar
+fontes de infecção para os mosquitos, contribuindo para a redução
+da transmissão da doença. Trata-se da principal ferramenta utilizada
+para o controle da doença e suas complicações, razão pela qual este
+Guia precisa ser amplamente divulgado em todos os níveis de atenção
+à saúde.
+Guia de tratamento da malária no Brasil 9
+1
+SITUAçãO ATUAL DA
+MALáRIA NO BRASIL
+A malária representa importante problema de saúde pública global
+e, segundo a OMS, atinge milhões de pessoas em todo o mundo. No
+Brasil, cerca de 99% da transmissão da malária concentra-se na região
+da Amazônia Legal, composta por 9 estados (Acre, Amapá, Amazonas,
+Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocan tins) e 808
+municípios. A região extra-amazônica, composta pelos outros 17
+estados e o Distrito Federal, é responsável por apenas 1% do total de
+casos notificados no Brasil, que ocorrem geralmente em área de Mata
+Atlântica e possuem maior letalidade devido, principalmente, ao retardo
+no diagnóstico e no tratamento.
+A maioria dos casos de malária notificados na extra-amazônica são
+importados de outros estados endêmicos ou outros países, tanto das
+Américas quanto da áfrica e ásia. Indivíduos provenientes de regiões
+livres de malária, que se deslocam para áreas onde existe transmissão
+da doença, são altamente vulneráveis – têm pouca ou nenhuma
+imunidade – e muitas vezes, expostos à malária, acabam por ter um
+diagnóstico tardio ou errado quando regressam ao local de origem.
+A malária é a causa mais comum de morte evitável entre as doenças
+infecciosas em viajantes, e também a causa mais frequente de febre
+pós-viagem. Embora a região extra-amazônica tenha participação
+pequena nos casos, a doença não pode ser negligenciada, pois se
+o acesso ao diagnóstico e ao tratamento for tardio, a malária pode
+progredir para formas graves, e mesmo para óbito, ou ainda, na
+10 Secretaria de Vigilância em Saúde | MS
+existência de mosquitos do gênero Anopheles, que são transmissores
+da doença, possivelmente resultar em aumento da transmissão nos
+locais onde este paciente permanece infectado.
+Os estados da região extra-amazônica que mais registram casos
+autóctones de malária são: Espírito Santo, Minas Gerais, São Paulo,
+Rio de Janeiro, Bahia e Paraná. Em anos anteriores, a maior parte dos
+casos notificados na extra-amazônica eram importados de outros
+estados endêmicos e outros países, tanto das Américas quanto da
+áfrica e ásia. Atualmente, os casos autóctones de malária dessa
+região representam um terço (1/3) do total de casos notificados, o
+que demonstra que a doença pode voltar a ser endêmica nessa área,
+principalmente devido à ocorrência de surtos e à presença dos vetores.
+Recentemente, a ocorrência de infecção por Plasmodium simium no
+Rio de Janeiro colocou novo desafio ao controle da doença, porque essa
+espécie usa macacos como reservatório1 e o diagnóstico microscópico
+quase sempre é tido como infecção por P. vivax. Embora a distinção
+com P. simium dependa de técnicas moleculares mais sofisticadas,
+o tratamento é idêntico ao de P. vivax e esses casos têm evolução
+benigna, sintomatologia leve e baixa parasitemia.
+A interrupção da transmissão de malária é o objetivo final do controle da
+doença. Com ampliação rápida e esforços sustentáveis, a eliminação da
+malária é possível em todos os cenários de transmissão. Os Objetivos de
+Desenvolvimento Sustentável lançados pela Organização das Nações
+Unidas (ONU), estabelecem no Objetivo 3.3 acabar com as epidemias
+1BRASIL, P. et al. Outbreak of human malaria caused by Plasmodium simium in
+the Atlantic Forest in Rio de Janeiro: a molecular epidemiological investigation.
+The Lancet Global Health, Rio de Janeiro, v. 5, p. e1038-1046, 31 Aug. 2017.
+Guia de tratamento da malária no Brasil 11
+de malária até 2030. A Estratégia Técnica Global para Malária da OMS
+tem como meta a redução de pelo menos 90% dos casos até 2030
+e a eliminação da malária em pelo menos 35 países.
+Para o alcance das metas a Estratégia prevê o estabelecimento de três
+pilares: 1 – Garantir acesso universal à prevenção, ao diagnóstico e
+ao tratamento da malária; 2 – Acelerar os esforços para a eliminação
+e obtenção do status livre de malária; 3 – Transformar a vigilância de
+malária em intervenção essencial.
+áreas com baixa transmissão devem seguir a fase de eliminação, com
+a eliminação de P. falciparum, que normalmente ocorre antes de P. vivax
+onde essas espécies coexistam. Importante considerar a factibilidade
+total da eliminação, que considera: a situação entomológica, a capa-
+cidade programática, o comprometimento político e de recursos, além
+das potenciais ameaças ao sucesso da estratégia, inclusive a situação
+da malária nas áreas e países vizinhos. A eliminação da malária requer
+iniciativas regionais e forte comprometimento político.
+A distribuição espacial do risco de transmissão da doença no Brasil,
+baseando-se nos registros do ano de 2018, quando foram notificados
+cerca de 190 mil casos, é apresentada na Figura 1. Nota-se a presença
+de casos na maioria dos estados brasileiros, o que pode revelar a
+presença de áreas receptivas e vulneráveis para a transmissão da
+doença. A transmissão geralmente ocorre em áreas rurais, como
+comunidades ribeirinhas, assentamentos, áreas indígenas e garimpos,
+mas também são registrados casos em áreas urbanas e periurbanas. Na
+região amazônica, os casos são notificados pelo Sistema de Informação
+de Vigilância Epidemiológica da Malária (Sivep-Malária), enquanto
+na extra-amazônia, por ser uma doença de notificação compulsória
+imediata, todo caso suspeito deve ser notificado as autoridades de
+12 Secretaria de Vigilância em Saúde | MS
+Saúde em até 24 horas, pelo meio mais rápido disponível (telefone,
+fax e e-mail) e registrado no Sistema de Informação de Agravos de
+Notificação (Sinan). A endemicidade da doença é dinâmica, ocorrendo
+variações na incidência e na área de um ano para outro. Assim, a redução
+de número de casos não deve enfraquecer as ações de controle.
+Nos últimos anos no Brasil, a transmissão do P. falciparum – espécie
+sabidamente mais grave e letal – tem apresentado redução importante,
+enquanto o P. vivax tem contribuído para o aparecimento de casos
+considerados complicados, inclusive com mortes associadas, motivo
+pelo qual seu controle não deve ser menos importante.2
+2SIQUEIRA, A. M. et al. Plasmodium vivax landscape in Brazil: Scenario and
+challenges. American Journal of Tropical Medicine and Hygiene, Bethesda,
+v. 95, p. 87-96, Dec. 2016. Suppl. 6.
+Guia de tratamento da malária no Brasil 13
+FiGurA 1 – Mapa do Brasil que destaca as áreas de risco para malária,
+de acordo com os diferentes níveis de incidência parasitária anual – iPA –,
+em 20183,4
+risco de transmissão
+Sem transmissão
+Baixo risco
+Médio risco
+Alto risco
+Fonte: Sinan e Sivep-malária (SVS/mS).
+3BRASIL. Ministério da Saúde. SiVEP-Malária: Sistema de Informação de Vigilância
+Epidemiológica: notificação de casos. Disponível em: http://portalweb04.saude.gov.br/
+sivep_malaria/. Acesso em: 13 dez. 2019.
+4BRASIL. Ministério da Saúde. SiNAN Sistema de informação de Agravos de Notificação.
+Disponível em: http://portalsinan.saude.gov.br/. Acesso em: 13 dez. 2019.
+14 Secretaria de Vigilância em Saúde | MS
+2
+NOçõES GERAIS
+DE MALáRIA
+2.1 Ciclo biológico do Plasmodium
+A malária é uma doença infecciosa cujo agente etiológico é um
+protozoário do gênero Plasmodium. As espécies associadas à malária
+humana são: P. falciparum, P. vivax, P. malariae e P ovale. Plasmódios que
+infectam macacos também podem causar doença em seres humanos,
+como o P. knowlesi e o P. simium, sendo este último já detectado no
+Brasil. Nunca foi registrada, no Brasil, transmissão autóctone de
+P. ovale, espécie restrita a determinadas regiões da áfrica. A trans-
+missão natural da malária ocorre por meio da picada de fêmeas
+infectadas de mosquitos do gênero Anopheles, sendo mais importante
+no País a espécie Anopheles darlingi, cujos criadouros preferenciais
+são coleções de água limpa, quente, sombreada e de baixo fluxo, muito
+frequentes na Amazônia brasileira.
+A infecção inicia-se quando os parasitos (esporozoítos) são inoculados
+na pele pela picada do mosquito vetor, os quais invadirão as células do
+fígado, os hepatócitos. Nessas células, multiplicam-se e dão origem a
+milhares de novos parasitos (merozoítos), que rompem os hepatócitos,
+caem na circulação sanguínea e invadem as hemácias; o que dá início
+à segunda fase do ciclo, chamada de esquizogonia sanguínea. É nessa
+fase sanguínea que aparecem os sintomas da malária.
+Guia de tratamento da malária no Brasil 15
+O desenvolvimento do parasito nas células do fígado requer aproxi-
+madamente uma semana para P. falciparum e P. vivax, e cerca de duas
+semanas para P. malariae. Nas infecções por P. vivax e P. ovale, alguns
+parasitos desenvolvem-se rapidamente, enquanto outros ficam em
+estado de latência no fígado. Estas formas latentes são denominadas
+hipnozoítos e são responsáveis pelas recaídas da doença, que ocorrem
+após períodos variáveis de incubação, geralmente dentro dos seis
+primeiros meses após o tratamento, mesmo sem nova picada do
+mosquito ou ida do indivíduo à área endêmica. Sem o uso correto das
+8-aminoquinoleínas (primaquina ou tafenoquina), as recaídas são
+muito frequentes, acometendo cerca de 70% das pessoas.5 Por esse
+motivo, todas as pessoas com diagnóstico de malária por P. vivax,
+desde que não tenham contraindicação, precisam fazer uso de uma
+dessas medicações.
+Na fase sanguínea do ciclo, os merozoítos formados rompem as hemá-
+cias infectadas e invadem outras, o que dá início a ciclos repetitivos
+de multiplicação eritrocitária. Os ciclos eritrocitários repetem-se a cada
+48 horas nas infecções por P. vivax e P. falciparum e a cada 72 horas nas
+infecções por P. malariae. Depois de algumas gerações de merozoítos
+nas hemácias, alguns se diferenciam em formas sexuadas, os game-
+tócitos. O gametócito feminino é o macrogameta e o masculino é o
+microgameta. Esses gametas no interior das hemácias não se dividem
+e, quando ingeridos pelos insetos vetores, fecundar-se-ão para dar
+origem ao ciclo sexuado do parasito e a formação do esporozoíto, forma
+que é transmitida ao homem no momento da picada pelo inseto.
+5LACERDA, M. V. G. et al. Single-dose tafenoquine to prevent relapse of plasmodium
+vivax malaria. New England Journal of Medicine, [s. l.], v. 380, n. 3, 17 Jan. 2019.
+16 Secretaria de Vigilância em Saúde | MS
+É importante lembrar que infecções por P. vivax apresentam game-
+tócitos circulantes desde o primeiro dia da infecção clínica, enquanto a
+infecção por P. falciparum costuma apresentar gametócitos na circulação
+periférica apenas mais tardiamente, após sete dias de infecção. Por
+essa razão, o diagnóstico e tratamento oportunos impactam mais
+rapidamente no controle da malária falciparum.
+2.2 Manifestações clínicas da malária
+2.2.1 MALáriA NãO COMPLiCADA
+O período de incubação da malária varia de acordo com a espécie
+de plasmódio. Para P. falciparum, de 8 a 12 dias; P. vivax, 13 a 17 dias;
+e P. malariae, 18 a 30 dias.
+A crise aguda da malária (acesso malárico) caracteriza-se por episó-
+dios de calafrio, febre e sudorese. Tem duração variável de 6 a 12 horas
+e pode cursar com temperatura igual ou superior a 40oC. Contudo, nem
+sempre se observa o clássico padrão de febre a cada dois dias (terçã).
+Portanto, não se deve aguardar esse padrão característico para pensar
+no diagnóstico de malária. Em geral, os paroxismos são acompanhados
+por cefaleia, mialgia, náuseas e vômitos. Após os primeiros paroxismos,
+a febre pode passar a ser intermitente. Nem sempre o quadro clínico
+é característico da doença. Por essa razão, qualquer pessoa que
+apresente um dos sintomas descritos anteriormente e que foi exposta
+à área com risco de transmissão, deve procurar um local que realize
+o diagnóstico para malária. É o retardo no diagnós tico que leva à
+gravidade da doença.
+O quadro clínico da malária depende da espécie do parasito, da quan-
+tidade de parasitos circulantes (parasitemia), do tempo de doença
+e do nível de imunidade adquirida pelo paciente. Gestantes, crianças
+Guia de tratamento da malária no Brasil 17
+e primoinfectados estão sujeitos a maior gravidade e devem ser
+acompanhadas preferencialmente por um médico, principalmente
+se a infecção for por P. falciparum, que é responsável pela maioria
+dos casos letais. O diagnóstico oportuno e o tratamento correto
+são os meios mais adequados para reduzir a gravidade e a letalidade
+por malária.
+Os sinais e os sintomas provocados por Plasmodium não são
+específicos, assemelhando-se aos de outras doenças febris agudas
+tais como dengue, chikungunya, zica, febre amarela, leptospirose,
+febre tifoide, infecção urinária, gripe e muitas outras. Essa ausência
+de especificidade dos sinais dificulta o diagnóstico clínico da doença.
+Dessa forma, a tomada de decisão para o tratamento da malária deve
+ser sempre baseada na confirmação laboratorial.
+2.2.2 MALáriA COMPLiCADA
+O espectro clínico da malária pode variar de manifestações oligos-
+sintomáticas (poucos sintomas) até quadros graves e letais. Portanto,
+é importante que os profissionais de Saúde estejam alertas e reconhe-
+çam os sinais de malária grave (Quadro 1) para que as medidas
+adequadas sejam instituídas imediatamente. Observado qualquer
+sinal de gravidade, deve-se conduzir o paciente de acordo com as
+orientações para tratamento da malária grave.
+18 Secretaria de Vigilância em Saúde | MS
+QuADrO 1 – Manifestações clínicas e laboratoriais indicativas de malária
+grave e complicada6
+MANiFESTAçõES CLíNiCAS
+ Dor abdominal intensa (ruptura de baço, mais frequente em P. vivax)
+ Mucosas amareladas, icterícia (não confundir com mucosas hipocoradas)
+ Mucosas muito hipocoradas (avaliada fora do ataque paroxístico febril)
+ Redução do volume de urina a menos de 400 mL em 24 horas
+ Vômitos persistentes que impeçam a tomada da medicação por via oral
+ Qualquer tipo de sangramento
+ Falta de ar (avaliado fora do ataque paroxístico febril)
+ Extremidades azuladas (cianose)
+ Aumento da frequência cardíaca (avaliar fora do acesso malárico)
+ Convulsão ou desorientação (não confundir com o ataque paroxístico febril)
+ Prostração (em crianças)
+ Comorbidades descompensadas
+MANiFESTAçõES LABOrATOriAiS
+ Anemia grave
+ Hipoglicemia
+ Acidose metabólica
+ Insuficiência renal
+ Hiperlactatemia
+ Hiperparasitemia (> 250.000/mm3 para P. falciparum)
+6WORLD HEALTH ORGANIZATION. Guidelines for the Treatment of Malaria. Geneva:
+WHO, 2015.
+Guia de tratamento da malária no Brasil 19
+2.3 Diagnóstico laboratorial
+O diagnóstico de malária, em pessoas procedentes de área de trans-
+missão de malária, deve ser pensado nas seguintes situações:
+ Presença de febre de qualquer intensidade, duração e frequência.
+ Mal-estar, dor no corpo, dor nas articulações, fadiga, falta de apetite.
+ Síndrome febril hemorrágica.
+ Síndrome febril ictérica.
+ Síndrome febril neurológica.
+ Síndrome febril respiratória.
+ Síndrome febril com forte dor abdominal, que pode ser ruptura do
+baço.76
+ Indivíduos assintomáticos que residam na mesma localidade de
+pacientes com diagnóstico de malária.
+ Gestantes, ainda que assintomáticas, durante as consultas do pré-natal.
+ Doadores de sangue (seguindo métodos definidos pelo MS e pela
+Agência Nacional de Vigilância Sanitária – Anvisa).
+2.3.1 DiAGNóSTiCO MiCrOSCóPiCO
+O diagnóstico confirmatório da malária baseia-se no encontro de para-
+sitos no sangue. O método mais utilizado é a microscopia de gota
+espessa de sangue, colhida por punção digital e corada pelo método
+de Walker. O exame cuidadoso da lâmina é considerado o padrão-ouro
+para a detecção e a identificação dos parasitos, que possibilita detectar
+67SIQUEIRA, A. et al. Spleen Rupture in a Case of Untreated Plasmodium vivax Infection.
+PLoS Neglected Tropical Diseases, California, v. 6, n. 12, p. e1934, 2012.
+20 Secretaria de Vigilância em Saúde | MS
+densidades baixas de parasitos (5-10 parasitos/µL de sangue), quando
+o exame é feito por profissional experiente. Contudo, nas condições de
+campo, a capacidade de detecção é de 100 parasitos/µL de sangue.
+Com experiência, o exame da gota espessa permite diferenciação
+das espécies de Plasmodium e do estágio de evolução do parasito
+circulante. No entanto, um esfregaço pode ser feito em caso de dúvida
+ou inexperiência, porque permite melhor visualização das formas. Pode-
+se ainda calcular a densidade da parasitemia em relação aos campos
+microscópicos examinados (Quadro 2). A técnica demanda cerca de
+60 minutos entre a coleta do sangue e o fornecimento do resultado. Sua
+eficácia diagnóstica depende da qualidade dos reagentes, de pessoal
+bem treinado e experiente na leitura das lâminas e de permanente
+supervisão, conforme controle de qualidade do diagnóstico de malária
+recomendado no Brasil. A densidade parasitária tem maior utilidade
+nas infecções por P. falciparum, já que alta parasitemia pode significar
+maior risco de desenvolvimento de formas graves da doença, situação
+em que o tratamento com drogas injetáveis deve ser considerado.
+QuADrO 2 – Avaliação semiquantitativa e quantitativa da densi dade
+parasi tária pela microscopia da gota espessa de sangue8
+NÚMErO DE PArASiTOS PArASiTEMiA PArASiTEMiA
+CONTADOS/CAMPO QuALiTATiVA QuANTiTATiVA (por mm3)
+40 a 60 por 100 campos +/2 200-300
+1 por campo + 301-500
+2-20 por campo ++ 501-10.000
+21-200 por campo +++ 10.001-100.000
+200 ou mais por campo ++++ > 100.000
+8BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Manual de diagnóstico
+laboratorial da malária. 2. ed. Brasília, DF: Ministério da Saúde, 2009. 116 p.
+Guia de tratamento da malária no Brasil 21
+2.3.2 TESTES DiAGNóSTiCOS ráPiDOS – TDr
+Baseiam-se na detecção de antígenos dos parasitos por anticorpos
+mono e policlonais, que são revelados por método imunocromato-
+gráfico. Comercialmente estão disponíveis em kits que permitem
+diagnósticos rápidos, entre 15 e 20 minutos. A sensibilidade para
+P. falciparum é maior que 90% quando comparado à gota espessa,
+para densidades maiores que 100 parasitos/µL de sangue. São de
+fácil execução e interpretação de resultados, dispensam o uso de
+microscópio e de treinamento prolongado de pessoal. Entre suas
+desvantagens estão: não medir o nível de parasitemia e a possível perda
+de qualidade quando armazenado por muitos meses em condições de
+campo. Os testes rápidos apresentam como resultado P. falciparum,
+P. vivax e malária mista devendo ser administrado o tratamento imediato
+conforme resultado apresentado no teste. Apesar de menos sensíveis
+para P. vivax, os testes rápidos aplicam-se ao diagnóstico dessa espécie
+na ausência de microscopia ou profissional capacitado no local.
+Não se deve utilizar os testes rápidos para o seguimento clínico do
+paciente, porque podem ainda ser positivos, mesmo na ausência
+de parasitos viáveis. Isso pode, portanto, gerar o falso diagnóstico de
+resistência parasitária. Deve-se ter cautela com o uso de TDR até um
+mês após diagnóstico prévio confirmado.
+No Brasil, conforme recomendações do PNCM, deve-se priorizar o uso
+dos TDRs em localidades onde o acesso ao diagnóstico microscópico
+é dificultado por distância geográfica ou incapacidade local do serviço
+de saúde (região extra-amazônia), bem como com intuito de ampliar a
+capacidade de diagnóstico, como nos casos de utilização nos finais de
+semana e após o horário de expediente.
+22 Secretaria de Vigilância em Saúde | MS
+Quando o diagnóstico da malária for realizado pelo TDR, deve-se marcar
+na ficha de notificação/investigação que o diagnóstico foi feito por este
+método, para evitar a subestimação do uso desse insumo pelos gestores.
+2.3.3 DiAGNóSTiCO POr TéCNiCAS MOLECuLArES
+O uso de técnicas de biologia molecular tem sido frequente em unidades
+de referência de diagnóstico ou como forma de se fazer o controle de qua-
+lidade do exame microscópico.79 Contudo, em função do custo e demora
+para emissão do resultado, não é método diagnóstico rotineiro. Entretanto,
+quando realizada e apresentar resultado positivo, confirmam o diagnósti-
+co de malária e, portanto, deve gerar notificação e tratamento apropriados.
+iMPOrTANTE LEMBrANçA
+A sorologia para pesquisa de anticorpos antiPlasmodium não
+deve ser realizada no caso de suspeita de malária! Seu resultado
+é relacionado a exposição prévia e é restrito apenas a estudos
+científicos. Sua solicitação no contexto clínico leva à demora no
+diagnóstico e maior risco de complicações.
+A pesquisa de IgM antiPlasmodium deve ser solicitada apenas em
+casos de suspeita de esplenomegalia tropical (esplenomegalia
+hiper-reativa da malária), condição rara na atualidade, em que um
+indivíduo com exposição repetida à infecção malárica apresenta
+aumento volumoso do baço, anemia, sem febre, com gota espessa
+negativa. Nesse caso, o tratamento deverá ser realizado com
+cloroquina semanal (0,5 mg/kg por semana por seis meses).810
+79TORRES, K. L. et al. Standardization of a very specific and sensitive single PCR for detection
+of Plasmodium vivax in low parasitized individuals and its usefulness for screening blood
+donors. Parasitology research, [s. l.], v. 98, n. 6, p. 519-524, May 2006.
+180ALECRIM, W. D.; ALECRIM, M. G.; ALBUQUERQUE, B. C. Esplenomegalia no Rio Ituxi,
+Amazonas, Brasil. revista do instituto de Medicina Tropical de São Paulo, São Paulo, v. 24,
+p. 54-57, 1982. Supl. 6.
+Guia de tratamento da malária no Brasil 23
+3
+TRATAMENTO DE MALáRIA
+3.1 Objetivos do tratamento de malária
+O tratamento da malária visa atingir o parasito em pontos-chaves
+de seu ciclo evolutivo, que podem ser didaticamente resumidos em:
+a. interrupção da esquizogonia sanguínea, responsável pela patogenia
+e manifestações clínicas da infecção;
+b. destruição de formas latentes do parasito no ciclo tecidual (hipno-
+zoítos) das espécies P. vivax e P. ovale, evitando assim as recaídas;
+e
+c. interrupção da transmissão do parasito, pelo uso de drogas que
+impedem o desenvolvimento de formas sexuadas dos parasitos
+(gametócitos).
+3.2 Orientações para o tratamento da malária
+no Brasil
+3.2.1 COMPONENTE ESTrATéGiCO DA ASSiSTêNCiA
+FArMACêuTiCA
+O MS considera que todas as doenças de perfil endêmico no País e
+que provocam impacto socioeconômico na população sejam alvos
+de políticas públicas específicas para seu controle, o que inclui a
+disponibilização gratuita de recursos diagnósticos e terapêuticos. Esses
+24 Secretaria de Vigilância em Saúde | MS
+recursos são gerenciados e disponibilizados aos usuários por meio de
+Programas Estratégicos, que seguem protocolos e normas específicas.
+Os medicamentos e os imunobiológicos contemplados nos Programas
+Estratégicos são adquiridos pelo MS e distribuídos aos estados, abran-
+gendo vários programas, entre eles o da malária. É responsabilidade
+das Secretarias de Estado de Saúde o armazenamento dos produtos
+e a distribuição às regionais de saúde e aos municípios.
+Em razão disso, medicamentos específicos para o tratamento de malária
+não são disponibilizados comercialmente em farmácias privadas, o que
+tende a evitar a automedicação.
+3.2.2 A PrESCriçãO E A DiSPENSAçãO DOS ANTiMALáriCOS
+A prescrição e a dispensação dos antimaláricos no Brasil deve ser
+feita apenas com resultado laboratorial confirmatório. Persistindo os
+sintomas, com exame negativo para malária, o exame poderá ser repe-
+tido a cada 24 horas, até que um diagnóstico seja definido.
+Não é privativo do médico o manejo de malária e, portanto, pode ser
+realizado por profissionais de outras áreas da Saúde. Isso viabiliza a
+manutenção de ações preconizadas em rotinas, protocolos e diretrizes
+clínicas estabelecidas no SUS, incluindo estabelecimentos de saúde
+privados, que funcionam a partir da atuação integrada dos profissionais
+de Saúde.
+Embora as dosagens dos medicamentos descritas nas tabelas deste
+Guia levem em consideração o grupo etário do paciente, é recomendável
+que as doses sejam fundamentalmente ajustadas ao peso do paciente
+sempre que possível, visando garantir a boa eficácia e a baixa toxicidade
+no tratamento da malária. Todavia, quando uma balança para verificação
+Guia de tratamento da malária no Brasil 25
+do peso não estiver disponível, recomenda-se utilizar a dosagem de
+prescrição conforme a faixa etária indicada nas tabelas.
+Tendo em vista que nenhuma medicação antimalárica está disponível
+na forma de xarope, no Brasil, e que a partição de comprimidos pode
+levar a subdosagens, as doses selecionadas para as faixas etárias nas
+tabelas foram definidas considerando a melhor relação entre eficácia
+e segurança.
+iMPOrTANTE LEMBrANçA
+ÎÎÉ da maior importância que todos os profissionais de Saúde envol-
+vidos no tratamento da malária, desde o agente comunitário de
+saúde até o médico, orientem adequadamente, com linguagem
+compreensível, os pacientes quanto:
+ ao tipo de medicamento que está sendo oferecido;
+ à forma de ingeri-los e os respectivos horários; e
+ à importância de se completar o tratamento.
+ÎÎToda a medicação deve ser ingerida preferencialmente no mesmo
+horário, todos os dias, após uma refeição, evitando assim vômitos.
+Em caso de vômitos até 60 minutos da tomada, repetir toda a
+medi cação e, se ocorrer após 60 minutos, não é necessário repetir
+a medicação.
+ÎÎA parceria com profissionais da Estratégia de Saúde da Família
+(ESF) é fundamental. Sempre que possível procurar supervisionar a
+tomada das medicações antimaláricas, especialmente em crianças
+menores de 1 ano, gestantes, idosos, pessoas com outras doenças
+descompensadas, pessoas iletradas ou com alguma dificuldade de
+compreender a forma de tomada das medicações.
+26 Secretaria de Vigilância em Saúde | MS
+ÎÎPara evitar novo episódio de malária, lembrar sempre aos
+pacientes das medidas preventivas. Orientar o uso e distribuir,
+quando disponível, mosquiteiro impregnado com inseticida de
+longa duração (Mild) ou mosquiteiro comum para paciente com
+diagnóstico de malária e seus familiares.
+ÎÎCaso esteja disponível no serviço um teste para detecção de
+deficiência da glicose-6-fosfato desidrogenase (G6PD), esse
+deve ser realizado antes da utilização da primaquina.911 No caso
+do uso de tafenoquina, a realização do teste quantitativo de G6PD
+é obrigatória.
+3.2.3 BOAS PráTiCAS DE ArMAzENAMENTO
+As boas práticas de armazenamento dos medicamentos são indispen-
+sáveis para a preservação de todo e qualquer fármaco de natureza
+perecível. Manter a estabilidade dos medicamentos durante a distri-
+buição e o armazenamento é fundamental para garantir sua eficácia,
+reduzir perdas e, por fim, controlar problemas na saúde.
+Um erro de armazenamento pode causar danos sérios à saúde, sua
+preservação deve ser garantida desde o início de sua produção até
+o momento de utilização pelo paciente. Sendo assim, as condições
+de estoque, tais como temperatura, armazenagem em ambientes
+controlados e, por fim, transporte, devem ser adequadas, garantindo
+a qualidade dos medicamentos dentro dos padrões ideais.
+191PEIXOTO, H. M. et al. Cost-effectiveness analysis of rapid diagnostic tests for G6PD
+deficiency in patients with Plasmodium vivax malaria in the Brazilian Amazon. Malaria
+Journal, [s. l.], v. 15, n. 82, 2016.
+Guia de tratamento da malária no Brasil 27
+3.3 Esquemas recomendados para a malária
+não complicada
+3.3.1 MALáriA POr P. vivAx Ou P. ovAle
+Das espécies de Plasmodium que afetam o ser humano, apenas
+o P. vivax e o P. ovale têm hipnozoítos, a forma do parasito que se
+mantém dormente no fígado, e é responsável pelas recaídas. Dessa
+maneira, uma única picada de mosquito infectado pode causar vários
+episódios de malária subsequentes. Mesmo em pessoas que usaram
+a primaquina de forma correta, cerca de 30% ainda podem recair,1012
+o que está possivelmente ligado à predisposição genética do indivíduo,
+que não metaboliza a droga para a sua forma ativa,1113 ou resistência do
+parasito, o que ainda não está bem descrito na literatura. Nesses casos,
+uma solução para se evitar as frequentes recaídas é o aumento da dose
+da primaquina.
+O objetivo do tratamento de P. vivax e de P. ovale é curar tanto a forma
+sanguínea quanto a forma hepática (cura radical), e assim prevenir
+recrudescência e recaída, respectivamente. Para isso, usa-se a combi-
+nação de dois medicamentos: cloroquina e primaquina. Apenas as
+8-aminoquiloninas têm atividade contra os hipnozoítos (primaquina
+é a única desta classe, atualmente, em uso em todo o Brasil). A tafeno-
+quina encontra-se em fase de implementação gradual no Brasil.
+011B2OULOS, M. et al. Frequency of malaria relapse due to Plasmodium vivax in a non-endemic
+region (São Paulo, Brazil). revista do instituto de Medicina Tropical de São Paulo, São Paulo,
+v. 33, n. 2, p. 143-146, mar./abr. 1991.
+111S3ILVINO, A. C. R. et al. Variation in Human Cytochrome P-450 drug-metabolism genes:
+A gateway to the understanding of plasmodium vivax relapses. PLoS ONE, California, v. 13,
+n. 2, p. e0192534, 2016.
+28 Secretaria de Vigilância em Saúde | MS
+O tratamento é realizado com cloroquina por três dias (10 mg/kg no
+dia 1 e 7,5 mg/kg nos dias 2 e 3) e, para o tratamento radical, utiliza-se
+também primaquina, na dose de 0,5 mg/kg/dia, por sete dias. No Brasil
+o esquema de sete dias é usado para melhorar a adesão à primaquina,
+o que é reforçado pelo fato do esquema de 0,25 mg/kg por 14 dias não
+parecer ser superior ao de 7 dias.1214 A primaquina tem também ação
+sinérgica com a cloroquina contra formas assexuadas. Portanto, quando
+a pri maquina não é utilizada, o clareamento da paras itemia é mais lento
+e é maior a chance de recrudescência, isto é, o exame microscópico
+de seguimento positivar, geralmente dentro dos primeiros 42 dias
+após início do tratamento.1315 Essa é a razão pela qual se faz a cloroquina
+profilática nas gestantes durante toda a gravidez, já que não se pode
+usar a primaquina nesse grupo populacional. Pela mesma razão,
+também se observa menor velocidade de clareamento da parasitemia
+em crianças abaixo de 6 meses de idade.1416 A primaquina precisa ter sua
+dose corrigida pelo peso do paciente, porque sua distribuição acontece
+em todos os tecidos do corpo, diferentemente da cloroquina. Por
+isso, pacientes acima do peso, quando usam primaquina nas doses
+habituais, apresentam mais recaídas do que pacientes mais magros.1517
+211D4 AHER, A. et al. Evaluation of Plasmodium vivax malaria recurrence in Brazil.
+Malaria Journal, [s. l.], n. 18, 2019.
+311C5OMMONS, R. J. et al. The effect of chloroquine dose and primaquine on
+Plasmodium vivax recurrence: a WorldWide Antimalarial Resistance Network
+systematic review and individual patient pooled meta-analysis. The Lancet
+infectious Diseases, [s. l.], v. 18, n. 9, p. 1025-1034, Sept. 2018.
+1416SIQUEIRA, A. M. et al. Slow clearance of Plasmodium vivax with chloroquine
+amongst children younger than six months of age in the Brazilian Amazon.
+Memorias do instituto Oswaldo Cruz, Rio de Janeiro, v. 109, n. 5, ago. 2014.
+511D7 UARTE, E. C. et al. Association of subtherapeutic dosages of a standard drug
+regimen with failures in preventing relapses of vivax malaria. American Journal of
+Tropical Medicine and Hygiene, [s. l.], v. 65, n. 5, p. 471-476, Nov. 2001.
+Guia de tratamento da malária no Brasil 29
+Esquemas de tratamento para P. vivax ou P. ovale estão ilustrados nas
+tabelas 1, 2, 3, 4 e 5.
+Crianças até os 6 meses de idade devem ser tratadas com Artemisinin-
+-Combined Therapy (ACT).
+iMPOrTANTE LEMBrANçA
+ÎÎCrianças menores de 10 kg não devem fazer tratamento com
+cloroquina com comprimidos fracionados, sendo necessária a
+escolha entre artemeter/lumefantrina (Tabela 1) ou artesunato/
+mefloquina (Tabela 2).
+ÎÎGestantes, puérperas até um mês de lactação1618 e crianças menores
+de 6 meses não podem usar primaquina nem tafenoquina.
+ÎÎPessoas com deficiência suspeita ou confirmada de G6PD
+(atividade abaixo de 30%) deverão fazer a primaquina na dose
+semanal (0,75 mg/dose) por 8 semanas1719 (Tabela 5).
+ÎÎGestantes, puérperas, menores de 16 anos e pessoas com
+atividade de G6PD abaixo de 70% não podem usar tafenoquina.
+ÎÎGestantes com infecções por P. vivax ou P. ovale devem usar o
+tratamento convencional com cloroquina por três dias e cloroquina
+profilática (5 mg/kg/dose/semana) até o fim do primeiro mês de
+lactação, para prevenção de recaídas.
+ÎÎComo a primaquina é utilizada por sete dias, muitos pacientes
+não costumam tomar a medicação até o final. Após o terceiro dia
+de tratamento, quando já se sentem melhores, alguns pacientes
+param de tomar a primaquina. Assim, é preciso orientar sobre a
+necessidade de adesão, ainda que o paciente esteja sem sintomas.
+611G8 ILDER, M. E. et al. Primaquine Pharmacokinetics in Lactating Women and Breastfed
+Infant Exposures. Clinical infectious Diseases, [s. l.], v. 67, n. 7, p. 1000-1007, Oct. 2018.
+711K9HENG, S. et al. Tolerability and safety of weekly primaquine against relapse of Plasmodium
+vivax in Cambodians with glucose-6-phosphate dehydrogenase deficiency. BMC Medicine,
+[s. l.], v. 13, n. 203, 2015.
+30 Secretaria de Vigilância em Saúde | MS
+TABELA 1 – Tratamento de malária por P. vivax ou P. ovale – OpçãO 1
+dIa 1 dIa 2 dIa 3
+Idade/PeSO dIa 4 dIa 5 dIa 6 dIa 7
+<6 meses
+aL aL aL aL aL aL
+<5 Kg
+6-11 meses
+aL aL 5 aL aL 5 aL aL 5 5 5 5 5
+5-9 Kg
+1-3 anos
+CQ 5 5 CQ 5 5 CQ 5 5 5 5 5 5 5 5 5 5
+10-14 Kg
+4-8 anos
+CQ CQ 15 CQ 15 CQ 15 15 15 15 15
+15-24 Kg
+9-11 anos
+CQ CQ 15 CQ CQ 15 CQ CQ 15 15 15 15 15
+25-34 Kg
+12-14 anos CQ CQ CQ CQ CQ CQ
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+35-49 Kg
+CQ CQ CQ
+>15 anos CQ CQ CQ CQ CQ CQ 15 15
+15 15 15 15 15 15 15 15 15 15 15 15
+50-69 Kg
+CQ CQ CQ CQ
+CQ CQ 15 15 CQ CQ 15 15 CQ CQ 15 15 15 15 15 15 15 15 15 15
+70-89 Kg
+CQ CQ 15 CQ 15 CQ 15 15 15 15 15
+CQ CQ 15 15 CQ CQ 15 15 CQ CQ 15 15 15 15 15 15 15 15 15 15
+90-120 Kg
+CQ CQ 15 15 CQ 15 15 CQ 15 15 15 15 15 15 15 15 15 15
+CQ Cloroquina 150 mg aL Artemeter 20 mg + Lumefantrina 120 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+TaBeLa 2 – Tratamento de malária por P. vivax ou P. ovale – OpçãO 2
+Idade/PeSO dIa 1 dIa 2 dIa 3 dIa 4 dIa 5 dIa 6 dIa 7
+<6 meses
+25 25 25
+<5Kg 50 50 50
+6-11 meses
+25 5 25 5 25 5 5 5 5 5
+5-9Kg 50 50 50
+1-3 anos
+CQ 5 5 CQ 5 5 CQ 5 5 5 5 5 5 5 5 5 5
+10-14Kg
+4-8 anos
+CQ CQ 15 CQ 15 CQ 15 15 15 15 15
+15-24Kg
+9-11 anos
+CQ CQ 15 CQ CQ 15 CQ CQ 15 15 15 15 15
+25-34Kg
+12-14 anos CQ CQ CQ CQ CQ CQ
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+35-49Kg
+CQ CQ CQ
+>15 anos CQ CQ CQ CQ CQ CQ
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+50-69Kg
+CQ CQ CQ CQ
+CQ CQ 15 15 CQ CQ 15 15 CQ CQ 15 15 15 15 15 15 15 15 15 15
+70-89Kg
+CQ CQ 15 CQ 15 CQ 15 15 15 15 15
+CQ CQ 15 15 CQ CQ 15 15 CQ CQ 15 15 15 15 15 15 15 15 15 15
+90-120Kg
+CQ CQ 15 15 CQ 15 15 CQ 15 15 15 15 15 15 15 15 15 15
+CQ Cloroquina 150 mg 25 Artesunato 25 mg + Mefloquina 50 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+50
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+GESTANTES
+Malária por P. vivax ou P. ovale
+Gestantes e crianças com menos de 6 meses de idade não podem usar
+primaquina. No caso de infecções por P. vivax ou P. ovale, as gestantes
+devem usar o tratamento com cloroquina por três dias e cloroquina
+profilática (5 mg/kg/dose) semanalmente até um mês de aleitamento,
+para prevenção de recaídas.
+Guia de tratamento da malária no Brasil 33
+TABELA 3 – Tratamento de malária por P. vivax ou P. ovale em gestantes
+CLOROQUINa SeMaNaL
+Idade/PeSO dIa 1 dIa 2 dIa 3
+aTÉ UM MÊS de aLeITaMeNTO
+9-11 anos
+CQ CQ CQ CQ CQ CQ CQ
+25-34Kg
+12-14 anos CQ CQ CQ CQ CQ CQ
+CQ CQ
+35-49Kg
+CQ CQ CQ
+>15 anos CQ CQ CQ CQ CQ CQ
+CQ CQ
+50-69Kg
+CQ CQ CQ CQ
+CQ CQ CQ CQ CQ CQ
+70-89Kg CQ CQ CQ
+CQ CQ CQ CQ
+CQ CQ CQ CQ CQ CQ
+90-120Kg CQ CQ CQ CQ
+CQ CQ CQ CQ
+CQ Cloroquina 150 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg
+(não contemplados nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Se surgir urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar,
+buscar urgentemente auxílio médico. • Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+34 Secretaria de Vigilância em Saúde | MS
+Tratamento para recorrência entre 5 e 60 dias
+Caso o paciente volte a apresentar malária por P. vivax do Dia 5 (D4)
+ao Dia 60, após início de tratamento, pode ter havido falha tanto da
+cloroquina quanto da primaquina, ou de ambos. Nesses casos, o
+ideal é utilizar um novo esquema que seja mais eficaz. O tratamento
+recomendado é o uso de artemeter/lumefantrina (Tabela 4) ou arte-
+sunato/mefloquina (Tabela 5) durante três dias (opção em caso
+de falha da cloroquina), e primaquina (0,5 mg/kg/dia) por 14 dias,
+esquema com maior eficácia na ação anti-hipnozoítos1820.
+812G0 OLLER, J. L. et al. Regional differences in the response of Plasmodium vivax
+malaria to primaquine as anti-relapse therapy. American Journal of Tropical
+Medicine and Hygiene, [s. l.], v. 76, n. 2, p. 203-207, Feb. 2007.
+Guia de tratamento da malária no Brasil 35
+TABELA 4 – Tratamento de recorrência em até 60 dias para P. vivax – OpçãO 1
+dIa 1 dIa 2 dIa 3
+dIa 4 aTÉ
+Idade/PeSO
+dIa 14
+<6 meses
+aL aL aL aL aL aL
+<5Kg
+6-11 meses
+aL aL 5 aL aL 5 aL aL 5 5
+5-9Kg
+1-3 anos
+aL aL 5 5 aL aL 5 5 aL aL 5 5 5 5
+10-14Kg
+4-8 anos
+aL aL aL aL 15 aL aL aL aL 15 aL aL aL aL 15 15
+15-24Kg
+9-11 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15
+25-34Kg aL aL aL aL aL aL
+12-14 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15 15 15 15 15
+35-49Kg aL aL aL aL aL aL aL aL aL aL aL aL
+>15 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15 15 15 15 15
+50-69Kg aL aL aL aL aL aL aL aL aL aL aL aL
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15
+70-89Kg
+aL aL aL aL 15 aL aL aL aL 15 aL aL aL aL 15 15
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15
+90-120Kg
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15
+aL Artemeter 20 mg + Lumefantrina 120 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+TABELA 5 – Tratamento de recorrência em até 60 dias para P. vivax – OpçãO 2
+Idade/PeSO dIa 1 dIa 2 dIa 3 dIa 4 aTÉ dIa 14
+<6 meses
+25 25 25
+<5Kg 50 50 50
+6-11 meses
+25 5 25 5 25 5 5
+5-9Kg 50 50 50
+1
+10
+-6
+-1
+a
+8
+n
+K
+o
+g
+s
+2
+5
+5
+0
+2
+5
+5
+0
+5 5 2
+5
+5
+0
+2
+5
+5
+0
+5 5 2
+5
+5
+0
+2
+5
+5
+0
+5 5 5 5
+7-11 anos
+100 15 100 15 100 15 15
+19-29Kg 200 200 200
+12-14 anos
+30-49Kg
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 15 15
+>15 anos
+50-69Kg
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 15 15
+15 15 15 15 15 15 15 15
+70-89Kg 100 100 100 100 100 100
+200 200 15 200 200 15 200 200 15 15
+15 15 15 15 15 15 15 15
+90-120Kg 100 100 100 100 100 100
+200 200 15 15 200 200 15 15 200 200 15 15 15 15
+25 Artesunato 25 mg + Mefloquina 50 mg 100 Artesunato 100 mg + Mefloquina 200 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+50 200
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+Secretaria de Vigilância em Saúde | MS 37
+TrATAMENTO DE PACiENTES DEFiCiENTES DE G6PD
+Pessoas com deficiência de G6PD não costumam ter sintoma ao longo
+da vida, exceto quando fazem uso de medicações como a primaquina.
+Como a deficiência está ligada ao cromossomo X, homens têm mais
+chance de apresentá-la, o que ocorre em cerca de 5% das pessoas que
+vivem na Amazônia brasileira.1921 O uso de primaquina em pessoas com
+deficiência mais grave pode até levar à morte, como já demonstrado no
+Brasil, caso não haja atendimento especializado oportuno.2022 A possibi-
+lidade de que isso seja observado com o uso de tafenoquina é alta.
+Caso esteja disponível no serviço de saúde teste quantitativo ou
+qualitativo para detecção de deficiência da G6PD, ele deverá ser
+realizado antes do uso da primaquina. Pacientes deficientes devem ser
+tratados com cautela. No caso de um paciente com atividade enzimá-
+tica abaixo de 30%, o regime de primaquina com dose semanal por oito
+semanas (0,75 mg/kg/semana) é recomendado desde que realizado
+sob supervisão médica em áreas com acesso a cuidados de saúde
+terciários. A dose de primaquina ajustada por peso (0,75 mg/kg/dia)
+deve ser iniciada no dia 4 após o tratamento com cloroquina (dia 1 ao
+dia 3). A Tabela 6 mostra o tratamento semanal ajustado pelo peso
+do paciente.
+912M1 ONTEIRO, W. M. et al. G6PD deficiency in Latin America: systematic review
+on prevalence and variants. Memórias do instituto Oswaldo Cruz, Rio de Janeiro,
+v. 109, n. 5, Aug. 2014.
+022L2ACERDA, M. V. G. et al. Postmortem characterization of patients with clinical
+diagnosis of plasmodium vivax malaria: To what extent does this parasite kill?.
+Clinical infectious Diseases, [s. l.], v. 55, n. 8, p. e67-74, Oct. 2012.
+38 Secretaria de Vigilância em Saúde | MS
+TABELA 6 – Tratamento semanal de primaquina (0,75mg/Kg/semana) para malária por P. vivax em deficiência de G6PD
+Idade/PeSO SeMaNa 1 SeMaNa 2 SeMaNa 3 SeMaNa 4 SeMaNa 5 SeMaNa 6 SeMaNa 7 SeMaNa 8
+6-11 meses
+5 5 5 5 5 5 5 5
+5-9Kg
+1-3 anos
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+10-14Kg
+4-8 anos
+15 15 15 15 15 15 15 15
+15-24Kg
+9-11 anos
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+25-34Kg
+12-14 anos 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+35-49Kg 15 15 15 15 15 15 15 15
+>15 anos 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+50-69Kg 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+70-89Kg
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+90-120Kg
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+5 Primaquina 5 mg 15 Primaquina 15 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+Secretaria de Vigilância em Saúde | MS 39
+iMPOrTANTE LEMBrANçA
+ÎÎO uso da primaquina e da tafenoquina em pessoas com deficiência
+de G6PD pode resultar em manifestações clínicas de hemólise
+(destruição das hemácias) como anemia grave, urina escura (cor
+semelhante a café ou refrigerante de cola), fadiga e icterícia (pele e
+olhos amarelados) (Figura 2). Tais manifestações costumam surgir
+até o quinto dia de uso da primaquina, podendo apresentar como
+complicação anemia grave, com necessidade de transfusão de
+hemácias, e insuficiência renal aguda, com necessidade de diálise.2123
+O diabetes é mais frequente em pessoas com deficiência de G6PD.2224
+FIgURa 2 – urina escura (cor de café ou refrigerante de cola) de
+paciente deficiente de G6PD com hemólise por primaquina25
+122B3RITO-SOUSA, J. D. et al. Clinical Spectrum of Primaquine-induced Hemolysis in Glucose-
+6-Phosphate Dehydrogenase Deficiency: A 9-Year Hospitalization-based Study From the
+Brazilian Amazon. Clinical infectious Diseases, [s. l.], v. 69, n. 8, p. 1440-1442, Sept. 2019.
+222S4ANTANA, M. S. et al. High frequency of diabetes and impaired fasting glucose in patients with
+glucose-6-phosphate dehydrogenase deficiency in the Western Brazilian Amazon. American
+Journal of Tropical Medicine and Hygiene, [s. l.], v. 91, n. 1, p. 74-76, July 2014.
+2325FIDELIS JUNIOR, E. S. Efeito hemolítico da primaquina. 2019. 1 Fotografia.
+40 Secretaria de Vigilância em Saúde | MS
+ÎÎNa ausência de teste quantitativo ou qualitativo para detecção
+de deficiência de G6PD, é importante aconselhar o paciente a
+monitorar manifestações clínicas de hemólise durante o trata-
+mento. Caso haja aparecimento desses sintomas ou suspeita da
+deficiência de G6PD, a primaquina diária deverá ser interrompida
+e o paciente deverá ser encaminhado para a referência médica
+estadual para investigação e manejo, tendo em vista que o caso
+pode ser fatal e facilmente confundido com outras síndromes
+ictéricas como hepatite. Após a estabilização do paciente, o
+regime de primaquina semanal deverá ser iniciado contra recaídas
+(Tabela 7).
+ÎÎCasos com suspeita de hemólise devem ser notificados à Anvisa
+pelo sistema on-line VigiMed (http://portal.anvisa.gov.br/vigimed).
+Qualquer pessoa pode notificar um caso.
+3.3.2 MALáriA POr P. mAlAriAe
+O tratamento de P. malariae assemelha-se ao tratamento para malária
+vivax (apenas cloroquina por três dias), porém sem a necessidade de
+uso da primaquina.
+3.3.3 MALáriA POr P. fAlciPArum E iNFECçõES MiSTAS
+É recomendação da OMS o tratamento de P. falciparum com uma terapia
+combinada com algum derivado de artemisinina (ACT). A eficácia e a
+segurança de artesunato/mefloquina e artemeter/lume fantrina são
+bastante semelhantes. Recomenda-se o uso de artemeter/lumef an trina
+(Tabela 7) ou artesunato/mefloquina (Tabela 8) para o tratamento de
+P. falciparum, conforme a disponibilidade local. A combinação arte-
+sunato/mefloquina possui a vantagem de ter apenas uma adminis-
+tração diária, maior meia-vida da mefloquina, o que permite profilaxia
+Guia de tratamento da malária no Brasil 41
+pós-tratamento, sem aparente risco de indução de resistência,2426 além
+da apresentação pediátrica na forma de comprimido que se degrada
+em água, o que facilita a administração para crianças menores. A meflo-
+quina, na dose fracionada em três dias, está associada a menor risco
+de eventos neuropsiquiátricos. Caso ocorram, o fracionamento da dose
+os torna mais brandos,2527 em comparação com mefloquina administrada
+em dose única.
+Apesar da ausência de evidências robustas para o uso de ACT em
+gestantes no primeiro trimestre e crianças abaixo de 6 meses de idade,
+trata-se da melhor opção nesses grupos, com comprovada diminuição
+da morbimortalidade, quando comparados ao grupo tratado com
+quinina.2628 Portanto, ACT devem ser utilizados, quando necessário, ao
+longo de toda a gestação (tabelas 9 e 10), incluindo o primeiro trimestre.
+Recomenda-se nesses casos o seguimento da mãe ao longo de toda
+a gestação – com realização mensal de Lâmina de Verificação de Cura
+(LVC) – e o monitoramento do bebê após o nascimento.
+2426PEIXOTO, H. M.; MARCHESINI, P. B.; DE OLIVEIRA, M. R. F. Efficacy and safety of artesunate-
+mefloquine therapy for treating uncomplicated Plasmodium falciparum malaria: systematic
+review and meta-analysis. Transactions of The royal Society of Tropical Medicine and
+Hygiene, [s. l.], Dec. 2016.
+522F7REY, S. G. et al. Artesunate-mefloquine combination therapy in acute Plasmodium
+falciparum malaria in young children: A field study regarding neurological and neuro-
+psychiatric safety. Malaria Journal, [s. l.], v. 9, n. 291, 2010.
+6228MCGREADY, R. et al. Adverse effects of falciparum and vivax malaria and the safety of
+antimalarial treatment in early pregnancy: A population-based study. The Lancet infectious
+Diseases, [s. l.], v. 12, n. 5, p. 388-396, May 2012.
+Guia de tratamento da malária no Brasil 42
+A primaquina deve ser administrada em dose única no primeiro dia
+do tratamento, na dose de 0,5 mg/kg (tabelas 8 e 9), independente-
+mente da atividade da enzima G6PD, por se tratar de baixa dose.
+O uso dessa medicação, com as artemisininas, garante a eliminação
+de gametócitos maduros circulantes na periferia, bloqueando assim
+a transmissão para os vetores, interrompendo o ciclo da doença.2729 Ainda
+que o gametócito não seja visto ao exame da gota espessa, a primaquina
+deve ser administrada de forma sistemática, exceto em menores de
+6 meses e gestantes.
+2729WHITE, N. J. Primaquine to prevent transmission of falciparum malaria. The Lancet
+infectious Diseases, [s. l.], v. 13, n. 2, p. 175-181, Feb. 2013.
+Guia de tratamento da malária no Brasil 43
+TABELA 7 – Tratamento de malária por P. falciparum – OpçãO 1
+dIa 1 dIa 2 dIa 3
+Idade/PeSO
+<6 meses
+aL aL aL aL aL aL
+<5Kg
+6-11 meses
+5-9Kg
+aL aL 5 aL aL aL aL
+1-3 anos
+10-14Kg
+4-8 anos
+aL aL aL aL 15 aL aL aL aL aL aL aL aL
+15-24Kg
+9-11 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15
+25-34Kg aL aL aL aL aL aL
+12-14 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15
+35-49Kg aL aL aL aL aL aL aL aL aL aL aL aL
+>15 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15
+50-69Kg aL aL aL aL aL aL aL aL aL aL aL aL
+aL aL aL aL 15 15 aL aL aL aL aL aL aL aL
+70-89Kg
+aL aL aL aL 15 aL aL aL aL aL aL aL aL
+aL aL aL aL 15 15 aL aL aL aL aL aL aL aL
+90-120Kg
+aL aL aL aL 15 15 aL aL aL aL aL aL aL aL
+aL Artemeter 20 mg + Lumefantrina 120 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Se surgir urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+TABELA 8 – Tratamento de malária por P. falciparum – OpçãO 2
+Idade/PeSO dIa 1 dIa 2 dIa 3
+<6 meses
+25 25 25
+<5Kg 50 50 50
+6-11 meses
+25 5 25 25
+5-9Kg 50 50 50
+1-6 anos
+25 25 15 25 25 25 25
+10-18Kg 50 50 50 50 50 50
+7-11 anos
+100 15 100 100
+19-29Kg 200 200 200
+12-14 anos
+30-49Kg
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+>15 anos
+50-69Kg
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15 1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+15 15
+70-89Kg 100 100 100 100 100 100
+200 200 15 200 200 200 200
+15 15
+90-120Kg 100 100 100 100 100 100
+200 200 15 15 200 200 200 200
+25 Artesunato 25 mg + Mefloquina 50 mg 100 Artesunato 100 mg + Mefloquina 200 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+50 200
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg
+(não contemplados nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar,
+buscar urgentemente auxílio médico. • Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+Secretaria de Vigilância em Saúde | MS 45
+TABELA 9 – Tratamento de malária por P. falciparum em gestantes – OpçãO 1
+DiA 1 DiA 2 DiA 3
+Idade/PeSO
+9-11 anos aL aL aL aL aL aL aL aL aL aL aL aL
+25-34Kg aL aL aL aL aL aL
+12-14 anos aL aL aL aL aL aL aL aL aL aL aL aL
+35-49Kg aL aL aL aL aL aL aL aL aL aL aL aL
+>15 anos aL aL aL aL aL aL aL aL aL aL aL aL
+50-69Kg aL aL aL aL aL aL aL aL aL aL aL aL
+aL aL aL aL aL aL aL aL aL aL aL aL
+70-89Kg
+aL aL aL aL aL aL aL aL aL aL aL aL
+aL aL aL aL aL aL aL aL aL aL aL aL
+90-120Kg
+aL aL aL aL aL aL aL aL aL aL aL aL
+aL Artemeter 20 mg + Lumefantrina 120 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio
+médico. • Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+46 Secretaria de Vigilância em Saúde | MS
+TABELA 10 – Tratamento de malária por P. falciparum em gestantes – OpçãO 2
+Idade/PeSO DiA 1 DiA 2 DiA 3
+12-14 anos
+100 100 100 100 100 100
+35-49Kg 200 200 200 200 200 200
+>15 anos
+100 100 100 100 100 100
+50-69Kg 200 200 200 200 200 200
+70-89Kg 100 100 100 100 100 100
+200 200 200 200 200 200
+90-120Kg 100 100 100 100 100 100
+200 200 200 200 200 200
+100 Artesunato 100 mg + Mefloquina 200 mg
+200
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg
+(não contemplados nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta
+de ar, buscar urgentemente auxílio médico. • Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+Secretaria de Vigilância em Saúde | MS 47
+3.3.4 MALáriA POr iNFECçõES MiSTAS
+Para pacientes com infecção mista por P. falciparum e P. vivax (ou
+P. ovale), o tratamento deve incluir artemerter/lumefantrina (Tabela 8)
+ou artesunato/mefloquina (Tabela 9), que são drogas esquizonticidas
+sanguíneas eficazes para todas as espécies, associando-as à prima-
+quina por sete dias (para o tratamento radical de P. vivax), nas doses
+especificadas nas tabelas 1 e 2.
+48 Secretaria de Vigilância em Saúde | MS
+TABELA 11 – Tratamento de malária mista – OpçãO 1
+DiA 1 DiA 2 DiA 3
+Idade/PeSO DiA 4 DiA 5 DiA 6 DiA 7
+<6 meses
+aL aL aL aL aL aL
+<5Kg
+6-11 meses
+aL aL 5 aL aL 5 aL aL 5 5 5 5 5
+5-9Kg
+1-3 anos
+aL aL 5 5 aL aL 5 5 aL aL 5 5 5 5 5 5 5 5 5 5
+10-14Kg
+4-8 anos
+aL aL aL aL 15 aL aL aL aL 15 aL aL aL aL 15 15 15 15 15
+15-24Kg
+9-11 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15 15 15 15
+25-34Kg aL aL aL aL aL aL
+12-14 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+35-49Kg aL aL aL aL aL aL aL aL aL aL aL aL
+>15 anos aL aL aL aL aL aL aL aL aL aL aL aL
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+50-69Kg aL aL aL aL aL aL aL aL aL aL aL aL
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15 15 15 15 15 15 15
+70-89Kg
+aL aL aL aL 15 aL aL aL aL 15 aL aL aL aL 15 15 15 15 15
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15 15 15 15 15 15 15
+90-120Kg
+aL aL aL aL 15 15 aL aL aL aL 15 15 aL aL aL aL 15 15 15 15 15 15 15 15 15 15
+aL Artemeter 20 mg + Lumefantrina 120 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+TABELA 12 – Tratamento de malária mista – OpçãO 2
+Idade/PeSO DiA 1 DiA 2 DiA 3 DiA 4 DiA 5 DiA 6 DiA 7
+<6 meses
+25 25 25
+<5Kg 50 50 50
+6-11 meses
+25 5 25 5 25 5 5 5 5 5
+5-9Kg 50 50 50
+1-6 anos
+25 25 5 5 25 25 5 5 25 25 5 5 5 5 5 5 5 5 5 5
+10-18Kg 50 50 50 50 50 50
+7-11 anos
+100 15 100 15 100 15 15 15 15 15
+19-29Kg 200 200 200
+12-14 anos
+100 100 15 15 100 100 15 15 100 100 15 15 15 15 15 15 15 15 15 15
+30-49Kg 200 200 200 200 200 200
+>15 anos
+100 100 15 15 100 100 15 15 100 100 15 15 15 15 15 15 15 15 15 15
+50-69Kg 200 200 200 200 200 200
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+70-89Kg 100 100 100 100 100 100
+200 200 15 200 200 15 200 200 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15
+90-120Kg 100 100 100 100 100 100
+200 200 15 15 200 200 15 15 200 200 15 15 15 15 15 15 15 15 15 15
+25 Artesunato 25 mg + Mefloquina 50 mg 100 Artesunato 100 mg + Mefloquina 200 mg 5 Primaquina 5 mg 15 Primaquina 15 mg
+50 200
+iMPOrTANTE: • Gestantes, puérperas até um mês de lactação e crianças menores de 6 meses não podem usar a primaquina. • Pacientes que pesem mais de 120 kg (não contemplados
+nessa tabela) devem ter sua dose de primaquina calculada pelo peso. • Caso surja urina escura, icterícia, pele e olhos amarelos, tontura ou falta de ar, buscar urgentemente auxílio médico.
+• Sempre que possível, supervisionar o tratamento. • Administrar os medicamentos preferencialmente após as refeições.
+Fonte: Autoria própria.
+50 Secretaria de Vigilância em Saúde | MS
+Em infecções mistas, gestantes em qualquer trimestre e crianças
+menores de 6 meses devem ser tratadas somente com o ACT, no
+entanto, gestantes devem fazer cloroquina profilática de recaídas
+(5 mg/kg/dose) semanalmente até o primeiro mês da lactação, para
+prevenção de recaídas, já que não podem usar primaquina por sete dias.
+3.3.5 rECOrrêNCiA POr P fAlciPArum
+No caso de falha de tratamento após o uso de artemeter/lumefantrina
+(Opção 1) em até 28 dias após o início do tratamento, recomenda-se
+o uso do esquema terapêutico com artesunato/mefloquina – Tabela 7
+(Opção 2).
+Em caso de falha de tratamento após o uso de artesunato/mefloquina
+(Opção 2) em até 42 dias após o início do tratamento, recomenda-se
+o uso do esquema terapêutico com artemeter/lumefantrina – Tabela 6
+(Opção 1).
+iMPOrTANTE LEMBrANçA
+Caso o exame da gota espessa ainda seja positivo no D3, com
+presença de formas assexuadas, e não apenas o gametócito de
+P. falciparum, e com a garantia de que houve adesão ao tratamento
+preconizado, comunicar o fato imediatamente ao gestor municipal,
+estadual e à CGZV/SVS/MS, pois existe a possibilidade de resis-
+tência à artemisinina, que ainda não foi detectada em nosso País2830.
+2830MÉNARD, D. et al. A worldwide map of Plasmodium falciparum K13-propeller polymor-
+phisms. New England Journal of Medicine, [s. l.], June 2016.
+Guia de tratamento da malária no Brasil 51
+Caso o paciente apresente alguma parasitemia na gota espessa, seja
+de formas sexuadas ou assexuadas, e já tenha sido tratado para malária
+P. falciparum há mais de 42 dias, tratar como se fosse caso novo, ainda
+que o paciente não apresente sintomas.
+3.4 Esquemas recomendados para malária complicada
+Embora a maioria dos casos de malária grave seja causada por
+infecções por P. falciparum, as por P. vivax também podem causar
+doença grave e morte, seja por ruptura espontânea ou traumática do
+baço, complicações respiratórias ou anemia grave, especialmente
+em pacientes com doenças concomitantes, pacientes debilitados e
+desnutridos.2931 Também não é raro que formas complicadas de malária
+vivax (com icterícia ou sangramento) estejam associadas a coinfecções,
+tais como dengue.3032
+Qualquer paciente com exame positivo para malária que apresente
+um dos sinais e/ou sintomas relacionados no Quadro 1 deve ser
+considerado um doente grave, e o tratamento deve ser realizado de
+preferência em unidade hospitalar de referência. Nesses casos, o
+principal objetivo do tratamento é evitar a morte do paciente. Quanto
+mais rápida for iniciada a terapia antimalárica, mais alta a chance de
+recuperação do paciente.
+2931SIQUEIRA, A. M. et al. Characterization of Plasmodium vivax-associated admissions to
+reference hospitals in Brazil and India. BMC Medicine, [s. l.], v. 13, p. 57, Mar. 2015.
+3032MAGALHãES, B. M. L. et al. P. vivax Malaria and Dengue Fever Co-infection: A Cross-
+Sectional Study in the Brazilian Amazon. PLoS Neglected Tropical Diseases, [s. l.], v. 8, n. 10,
+p. e3239, Oct. 2014.
+52 Secretaria de Vigilância em Saúde | MS
+A malária grave deve ser considerada emergência médica. Portanto, a
+permeabilidade das vias aéreas deve estar garantida e os parâmetros
+da respiração e circulação avaliados. Caso seja possível, o peso do
+paciente deve ser aferido ou estimado, para facilitar os cálculos dos
+medicamentos a serem administrados. Um acesso venoso adequado
+deve ser providenciado e as seguintes determinações laboratoriais
+solicitadas: glicemia, hemograma, quantificação da parasitemia (em
+caso de infecção por P. falciparum), gasometria arterial e exames de
+função renal e hepática. Exame clínico-neurológico minucioso deve
+ser realizado, com especial atenção para o estado de consciência do
+paciente, registrando-se o escore da escala de coma (por exemplo,
+a escala de Glasgow em adultos e a escala de coma de Blantyre em
+crianças). A malária grave geralmente é conduzida como um caso de
+sepse grave, sendo que a prescrição de antibióticos de amplo espectro
+deve ser sempre avaliada a todo instante, devido à possibilidade de
+coinfecção bacteriana, especialmente em pacientes imunodeprimidos,
+sondados ou internados em unidade de tratamento intensivo (UTI).
+A orientação da OMS é tratar adultos e crianças com malária grave
+(incluindo crianças menores/lactentes e gestantes em todos os trimes-
+tres de gestação e em período de amamentação) com artesunato
+intravenoso (IV) ou intramuscular (IM), um antimalárico potente e
+de ação rápida, por no mínimo 24 horas e até que possam tomar
+medicação oral (completar então o tratamento preconizado por
+espécie parasitária – respeitando as restrições de uso da primaquina)
+(Figura 3). Crianças com peso inferior a 20 kg devem receber maior
+dose parenteral de artesunato (3,0 mg/kg/dose) do que crianças com
+mais de 20 kg e adultos (2,4 mg/kg/dose) para garantir uma exposição
+equivalente ao medicamento.
+Guia de tratamento da malária no Brasil 53
+Assim que o paciente puder usar a medicação oral, deve-se prescrever
+um ACT por três dias, ainda que ao final dos sete dias de uso de arte-
+sunato injetável.
+Caso um paciente tenha o diagnóstico de malária complicada e o
+artesunato injetável não estiver disponível na unidade para uso imediato,
+deve-se fazer uso de algum ACT disponível até que a medicação
+injetável seja disponibilizada . O uso de clindamicina IV também é uma
+opção alternativa, apesar de sua ação esquizonticida lenta (20 mg/kg/
+dia, dividido em três doses, por sete dias).
+54 Secretaria de Vigilância em Saúde | MS
+FiGurA 3 – Esquema de tratamento de malária grave33
+26 26
+33WORLD HEALTH ORGANIZATION. Artesunato injectável para tratamento da malária grave. Disponível em: https://www.mmv.org/sites/
+default/files/uploads/docs/access/Injectable_Artesunate_Tool_Kit/InjectableArtesunate_posterPT.pdf. Acesso em: 16 dez. 2019.
+Secretaria de Vigilância em Saúde | MS 55
+Com o tratamento medicamentoso, deve-se manter todas as
+medidas de suporte à vida do paciente. Após evidência de melhora
+das complicações da malária grave, deve-se preocupar com a
+prevenção de recrudescência, da transmissão ou da emergência
+de resistência.
+3.5 Eventos adversos
+Notificar qualquer reação adversa aos antimaláricos à Anvisa, pelo
+VigiMED (http://portal.anvisa.gov.br/vigimed). Qualquer pessoa pode
+notificar um caso nesse sistema.
+O evento adverso mais sério associado ao uso de antimaláricos é
+a hemólise, que acontece após uso de primaquina em pessoas com
+deficiência de G6PD. O quadro de hemólise geralmente acontece
+após dois dias de uso da primaquina, o que faz com que pacientes e
+profissionais de saúde não associem o quadro ao uso da medicação.
+O primeiro sinal de hemólise é o escurecimento da urina, sendo que
+mal-estar, fadiga, icterícia (pele e olhos amarelados), ausência de urina
+e mesmo febre podem aparecer. Muitas vezes o quadro é confundido
+com anemia da malária ou hepatite após malária.
+Para pacientes que apresentam prurido após o uso de cloroquina –
+cerca de 20% da população 34–13 raramente a medicação deve ser suspens a.
+Portanto, deve-se tranquilizar o paciente, considerando que o evento
+será transitório, porém costuma repetir-se em futuras administrações.
+3134BALLUT, P. C. et al. Prevalence and risk factors associated to pruritus in Plasmodium
+vivax patients using chloroquine in the Brazilian Amazon. Acta Tropica, [s. l.], v. 128, n. 3,
+p. 504-508, Dec. 2013.
+56 Secretaria de Vigilância em Saúde | MS
+O prurido pode também ser minimizado pelo fracionamento da dose
+diária, ou utilização de codeína e tramadol. Sugere-se que novos
+episódios de malária nesses pacientes sejam tratados com ACTs, como
+discriminado nas tabelas de tratamento de malária mista.
+No caso do uso de artesunato injetável ou ACT, os derivados de
+artemisinina podem induzir importante anemia até um mês após
+seu uso.3235 Isso ocorre com maior frequência em primoinfectados,
+com parasitemias elevadas, caracterizando-se pela ocorrência súbita
+de hemólise cerca de 10 a 21 dias após o tratamento com derivados
+de artemisinina, acompanhada de anemia por elevado DHL sem
+a presença de parasitemia. Esta ocorrência deve ser notificada à Anvisa.
+Raramente, na dose dividida em três dias, a mefloquina contida na
+combinação artesunato/mefloquina pode levar a eventos neuro-
+psiquiátricos, mas caso isso seja observado em concomitância com o
+uso da medicação, o evento também deve ser relatado à Anvisa.
+233J5AURÉGUIBERRY, S. et al. Postartesunate delayed hemolysis is a predictable event related
+to the lifesaving effect of artemisinins. Blood, [s. l.], v. 124, n. 2, p. 167-175, July 2014.
+Guia de tratamento da malária no Brasil 57
+4
+PREVENçãO E PROFILAXIA
+DE MALáRIA NO BRASIL
+4.1 Medidas de prevenção para reduzir o risco de
+adquirir malária
+Fora de áreas de transmissão de malária, para determinar o risco
+individual de adquirir malária, é necessário que o profissional obtenha
+informações detalhadas sobre possíveis viagens cujos roteiros incluam
+as características descritas a seguir, que são aquelas que oferecem
+risco elevado de transmissão e, consequentemente, de manifestação
+de malária grave em viajantes.
+SiTuAçõES DE riSCO ELEVADO DE TrANSMiSSãO DE MALáriA
+ÎÎitinerário da viagem: destino que inclua local com níveis elevados
+de transmissão de malária e/ou transmissão em perímetro urbano.
+Nesses casos considerar ainda:
+ÎÎObjetivo da viagem: viajantes que realizam atividades do pôr do
+sol ao amanhecer.
+ÎÎCondições de acomodação: dormir ao ar livre, em acampamentos,
+barcos ou habitações precárias sem proteção contra mosquitos.
+ÎÎDuração da viagem: período da viagem maior que o período de
+incubação da doença, ou seja, permanecer no local tempo maior
+que o período mínimo de incubação da doença (sete dias).
+ÎÎépoca do ano: viagem próxima ao início ou término da estação
+chuvosa.
+58 Secretaria de Vigilância em Saúde | MS
+ÎÎAltitude do destino: destinos até 1.000 m de altitude.
+ÎÎCaso o acesso ao sistema de saúde no destino seja distante mais
+de 24 horas.
+APrESENTAM riSCO ELEVADO DE DOENçA GrAVE
+ÎÎIndivíduos provenientes de áreas onde a malária não é endêmica.
+ÎÎCrianças menores de 5 anos de idade.
+ÎÎGestantes.
+ÎÎIdosos.
+ÎÎEsplenectomizados.
+ÎÎPessoas com imunodeficiência.
+ÎÎNeoplasias em tratamento.
+ÎÎTransplantados.
+Independentemente do risco de exposição à malária, o viajante deve
+ser informado sobre as principais manifestações da doença e orientado
+a procurar assistência médica imediatamente ao apresentar qualquer
+sinal ou sintoma. As medidas de proteção contra picadas de mosquitos
+devem ser enfaticamente recomendadas a todos os viajantes com
+destino a áreas com risco de transmissão de malária.
+Guia de tratamento da malária no Brasil 59
+PrOTEçãO CONTrA PiCADAS DE iNSETOS
+ÎÎInformação sobre o horário de maior atividade de mosquitos
+vetores de malária, do pôr do sol ao amanhecer.
+ÎÎUso de roupas claras e com manga longa, durante atividades de
+exposição elevada.
+ÎÎUso de medidas de barreira, tais como telas nas portas e janelas,
+ar-condicionado e uso de mosquiteiro impregnado com inseticida
+de longa duração.
+ÎÎUso de repelente à base de DEET (N-N-dietilmetatoluamida)
+que deve ser aplicado nas áreas expostas da pele, seguindo a
+orientação do fabricante. Em crianças menores de 2 anos de idade
+não é recomendado o uso de repelente sem orientação médica.
+Para crianças entre 2 e 12 anos, usar concentrações até 10% de
+DEET, no máximo três vezes ao dia, evitando-se o uso prolongado.
+4.2 Diagnóstico e tratamento oportunos
+O acesso rápido ao diagnóstico e ao tratamento é estratégia importante
+para a prevenção de doença grave e de morte por malária. Portanto,
+é fundamental reconhecer, previamente, se no destino a ser visitado,
+o viajante terá acesso ao serviço de saúde em menos de 24 horas.
+No Brasil, a rede de diagnóstico e de tratamento de malária encontra-se
+distribuída nos principais destinos da Amazônia, permitindo o acesso
+do viajante ao diagnóstico e ao tratamento oportunos. Nas regiões
+em que a malária não é endêmica, tem-se observado manifestações
+graves da doença, possivelmente pelo atraso na suspeita clínica e,
+consequentemente, no diagnóstico e no tratamento. Por conseguinte,
+o viajante deve ser informado de que, na ocorrência de febre até um mês
+60 Secretaria de Vigilância em Saúde | MS
+após a saída da área de transmissão de malária, deve procurar serviço
+médico especializado e informar sobre o risco de infecção pela malária.
+As unidades de atendimento para diagnóstico e tratamento de malária
+nos estados do Brasil estão disponíveis no site do Ministério da Saúde,
+item Vigilância em Saúde, Malária (http://saude.gov.br/saude-de-a-z/
+malaria). Para viagens internacionais, os contatos de alguns Centros
+de Referência estão disponíveis no site da Sociedade Internacional de
+Medicina de Viagem (https://www.istm.org/AF_CstmClinicDirectory.asp).
+4.3 Comentários importantes sobre a prevenção
+de malária em viajantes
+Diante da complexidade que envolve a prevenção da malária em
+viajantes, recomenda-se avaliação criteriosa do risco de transmissão
+nas áreas a serem visitadas, para a adoção de medidas preventivas
+contra picadas de insetos, bem como procurar conhecer o acesso à rede
+de serviços de diagnóstico e de tratamento da malária na área visitada.
+Nos grandes centros urbanos do Brasil, o trabalho de avaliação e
+orientação do viajante é feito em Centros de Referência cadastrados
+pelo Ministério da Saúde. A lista das unidades de atendimento para
+diagnóstico e tratamento está disponível em: http://portalms.saude.
+gov.br/saude-de-a-z/malaria/centros-de-diagnostico-e-tratamento-
+no-brasil.
+Guia de tratamento da malária no Brasil 61
+4.4 Quimioprofilaxia
+No Brasil, há predomínio de infecções por P. vivax, portanto
+deve-se lembrar que a eficácia da profilaxia para essa espécie
+(em especial as recaídas) é baixa. Assim, pela ampla distribuição
+da rede de diagnóstico e de tratamento para malária, não se
+indica a quimioprofilaxia para viajantes em território nacional.
+62 Secretaria de Vigilância em Saúde | MS
+5
+PERGUNTAS FREQUENTES
+O uso de medicação para febre interfere na positivi-
+dade da gota espessa?
+Não, o ciclo sanguíneo do parasito não sofre qualquer interferência de
+medicações utilizadas no controle da febre, tais como aspirina, dipirona,
+ibuprofeno, paracetamol ou outros anti-inflamatórios não esteroidais.
+Não se deve adiar a coleta de amostra para gota espessa quando um
+paciente se queixar de sintomas de malária, ainda que não tenha febre
+no momento da coleta, sob risco de retardo do diagnóstico e aumento
+de gravidade clínica.
+Alguma outra medicação pode interferir na positivi-
+dade da gota espessa?
+Sim, pacientes que estejam em uso de antibióticos, tais como
+doxiciclina, tetraciclina, clindamicina, ciprofloxacina ou sulfas, podem
+ter parasitemia mais baixa ou negativa no momento da realização do
+exame. Nesses casos, caso persista a febre, novos exames de gota
+espessa devem ser repetidos a cada 48 horas. É muito importante a
+interação com o médico prescritor do antibiótico para se avaliar sua
+real necessidade. Há casos em que pacientes são diagnosticados com
+falsas infecções bacterianas sem que o exame de malária tenha sido
+realizado, o que pode retardar o diagnóstico e, consequentemente,
+aumentar o risco de o caso agravar.
+Guia de tratamento da malária no Brasil 63
+O uso de alimentos ricos em açúcar aumenta a
+positividade da gota espessa?
+Não, o aumento da glicemia não leva a aumento da parasitemia.
+Portanto, não se deve retardar a realização do exame da gota espessa
+enquanto o paciente é suplementado com alimentos tipo caldo de
+cana, suco adoçado ou outros.
+A coleta de sangue venoso aumenta a positividade
+da gota espessa?
+Não, desde que a técnica de coleta de sangue periférico a partir de
+punção digital tenha sido realizada de forma correta, desprezando-se
+a primeira gota após a punção, não há razão para se proceder à coleta de
+sangue venoso. A coleta venosa acarreta o aumento do risco de hemato-
+mas no local da punção e os custos do procedimento. Entretanto, caso
+o paciente já tenha a indicação de coleta de sangue venoso para reali-
+zação de outros exames complementares, pode-se utilizar esse sangue
+para a confecção da gota espessa, sem necessidade de dupla punção.
+Pacientes que não apresentam febre do tipo terçã
+(ou seja, a cada 48 horas) devem realizar o exame de
+malária mesmo assim?
+Sim, nem sempre a malária vem acompanhada de febre do tipo
+terçã. Muitas vezes a febre é diária e constante. Alguns pacientes
+não apresentam febre, mas dor de cabeça, dor no corpo, dor nas
+articulações, mal-estar, fadiga ou apenas falta de apetite. Os sintomas
+da malária são muito diferentes de uma pessoa para outra, portanto,
+qualquer sintoma clínico em uma pessoa que esteve em área de
+transmissão de malária deve indicar a realização da gota espessa.
+64 Secretaria de Vigilância em Saúde | MS
+Medicações para malária podem causar aborto ou
+malformações congênitas?
+Tanto cloroquina quanto as combinações artesunato/mefloquina ou
+artemeter/lumefantrina são medicações seguras e bem toleradas em
+grávidas, em qualquer período gestacional. A primaquina não causa
+malformação ou aborto, entretanto, não deve ser usada durante todo o
+período da gestação, sob risco potencial de causar hemólise grave no
+feto se este apresentar deficiência de G6PD.
+A primaquina pode ser usada em mulheres que estão
+amamentando?
+Sim, evidências recentes mostram que a concentração de primaquina
+que é excretada pelo leite é mínima e não tem qualquer influência para
+o bebê. Portanto, mulheres a partir do segundo mês de lactação, devem
+realizar o tratamento completo para malária vivax com cloroquina e
+primaquina.
+A primaquina pode ser usada em pacientes com
+diminuição da contagem de plaquetas?
+Sim, a diminuição da contagem de plaquetas abaixo de 150.000/mm3
+(plaquetopenia) é uma complicação relativamente frequente na malária,
+geralmente sem levar a quadros de sangramento, retornando ao normal
+assim que a parasitemia é controlada. A primaquina não tem qualquer
+ação nesse fenômeno, portanto, seu uso não deve ser adiado, sob risco
+de não adesão por parte do paciente.
+Guia de tratamento da malária no Brasil 65
+As medicações da malária devem ser sempre tomadas
+no mesmo horário todos os dias?
+Preferencialmente sim, para que o paciente não se esqueça da tomada
+diária e para que as doses tenham o intervalo de 24 horas. Entretanto,
+caso não seja possível, a qualquer momento do dia a medicação deve
+ser ingerida, preferencialmente após a alimentação, para evitar vômitos
+ou dores abdominais. Caso haja alguma falha, a doença pode demorar
+mais a curar ou retornar posteriormente.
+Por que a cloroquina não deve ser ajustada pelo peso,
+mas a primaquina sim?
+Porque a cloroquina não se distribui no tecido gorduroso do corpo, ou
+seja, sua dose é calculada pelo peso ideal do paciente. Já a primaquina
+se distribui por todos os tecidos, incluindo o gorduroso, e por isso sua
+dose deve ser calculada pelo peso real do paciente, sem limites de
+peso máximo.
+A mesma cloroquina usada no tratamento da malária
+pode ser usada no tratamento do lúpus?
+Não, a cloroquina usada para tratar malária é o difosfato de cloroquina,
+que pode levar a mais lesões na retina quando seu uso é prolongado,
+como no caso do lúpus. Por essa razão, a cloroquina de escolha para
+o tratamento do lúpus é a hidroxicloroquina. Além disso, outros usos
+da cloroquina adquirida pelo MS podem comprometer o estoque local,
+o que pode levar à falta de medicação para o tratamento de casos
+de malária.
+66 Secretaria de Vigilância em Saúde | MS
+Derivados de artemisinina (artesunato ou artemeter)
+são capazes de eliminar os gametócitos de P. falci-
+parum?
+Sim, existem evidências de redução de gametócitos em pacientes que
+usam derivados de artemisinina, além de levar a menor infectividade para
+o mosquito. Entretanto, essa ação é principalmente sobre gametócitos
+imaturos. Gametócitos maduros podem permanecer circulando por
+semanas ou meses após o tratamento das formas assexuadas. Por isso,
+recomenda-se, adicionalmente, o uso de primaquina em dose única, no
+tratamento da malária falciparum, independentemente da presença ou
+não do gametócito na gota espessa, já que existem várias evidências
+de que seu uso diminui a transmissão na comunidade.
+Pacientes que vivem fora da Amazônia precisam
+fazer a dose única de primaquina quando tiverem
+diagnóstico de malária falciparum?
+Sim, é muito importante que façam o uso da primaquina para evitar
+a presença de gametócitos, que potencialmente podem infectar os
+vetores locais, podendo dar origem a um surto de malária em áreas
+consideradas até então não endêmicas.
+A alimentação tem alguma relação com a recaída de
+malária vivax?
+Não existe qualquer evidência científica de que o tipo da dieta interfira
+na recaída da malária vivax. Muitas vezes os pacientes relacionam
+comida mais gordurosa (reimosa ou ácida) ou bebidas alcoólicas ao
+episódio da recaída, mas se deve orientar o paciente a usar correta-
+mente a primaquina, em doses adequadas, e eventualmente em doses
+Guia de tratamento da malária no Brasil 67
+mais altas, quando for o caso. Estimular crendices na população pode
+desviar sua boa adesão à primaquina.
+Pessoas que fazem uso de bebida alcoólica podem
+usar a medicação antimalárica?
+Sim, até porque não existe qualquer estudo que demonstre alguma
+interação importante entre antimaláricos e uso de álcool. Muitas
+vezes, pelo mito da interação, pacientes usuários de álcool não usam a
+medicação para malária, podendo evoluir para formas mais graves ou
+apresentar recaída.
+A malária pode causar hepatite?
+Em raras situações a malária pode causar desconforto ou dor abdo-
+minal, aumento do fígado, vômitos e pele amarela (icterícia), o que de
+fato é hepatite aguda por malária, por vivax ou falciparum. Entretanto,
+o prognóstico é bom e o paciente recupera-se bem após o tratamento
+completo, em poucos dias, sem qualquer medicação adicional. Deve-
+-se evitar que o paciente faça uso de fitoterápicos com ação dita
+hepatoprotetora, pois não há evidência alguma de benefício clínico.
+Além disso, a malária não causa hepatite crônica e o paciente não
+necessita em geral de investigação adicional. Vale ressaltar que o uso
+de primaquina em pacientes com deficiência de G6PD pode levar
+ao aparecimento de sintomas similares e, portanto, também deve
+ser investigada.
+68 Secretaria de Vigilância em Saúde | MS
+Pessoas com malária aguda podem ser vacinadas?
+O Programa Nacional de Imunizações (PNI) contraindica o uso de vacinas
+em qualquer pessoa na vigência de doença febril aguda, em especial
+as vacinas de organismos vivos, pelo maior risco de efeitos adversos.
+Entretanto, não se sabe ainda o impacto que a imunodepressão
+causada pela malária pode ter sobre a eficácia das principais vacinas.
+É importante ressaltar que, especialmente as crianças, não podem ter
+suas vacinas adiadas por muito tempo, o que se configuraria como
+oportunidades perdidas de vacinação. Dessa forma, assim que houver
+a melhora do quadro clínico agudo, os pacientes podem se vacinar
+normalmente.
+Está indicada a quimioprofilaxia para malária para
+viajantes?
+No Brasil, onde predomina infecção por P. vivax, que também pode
+apresentar complicações graves, a quimioprofilaxia não é plenamente
+eficaz. Situações especiais devem ser tratadas em clínicas de viagem,
+com a ajuda de um infectologista. A profilaxia depende do local da
+viagem, do tempo de exposição e do perfil de cada viajante. O mais
+importante é que o viajante, ao retornar, comunique ao médico, se
+adoecer, que esteve em área endêmica de malária, para que seja
+realizado exame oportuno para diagnóstico e tratamento.
+uso de vitaminas como complexo B podem evitar
+a picada de insetos?
+Não há evidências de que a dieta ou suplementos vitamínicos interfiram
+na maior atração de vetores. Sabe-se, entretanto, que gestantes atraem
+mais os mosquitos, razão pela qual têm sim maior risco de infecção.
+Guia de tratamento da malária no Brasil 69
+O que fazer quando o paciente apresenta condição
+clínica ou complicação não especificada neste Guia
+de tratamento?
+É importante lembrar-se de que este Guia de tratamento contempla
+a maior parte das recomendações para grande parte dos pacientes, no
+entanto, em situações adversas, as Secretarias Estaduais de Saúde e a
+CGZV/SVS/MS devem ser consultadas, para que o caso seja discutido
+com algum especialista de referência. Condutas não contempladas
+neste Guia, que forem sugeridas, devem ser registradas em campo
+‘Outros’ de Tratamento no Sivep-Malária/Sinan.
+70 Secretaria de Vigilância em Saúde | MS
+6
+VIGILâNCIA
+EPIDEMIOLóGICA
+DE MALáRIA
+Objetivos:
+ Estimar a magnitude da morbidade e mortalidade da malária.
+ Identificar tendências temporais, grupos e fatores de risco.
+ Detectar surtos e epidemias.
+ Recomendar as medidas necessárias para prevenir ou controlar a
+ocorrência da doença.
+ Avaliar o impacto das medidas de controle.
+A seguir são apresentadas informações úteis para a notificação e a in-
+vestigação de casos de malária, de acordo com o Guia de Vigilância em
+Saúde da Secretaria de Vigilância em Saúde do Ministério da Saúde
+(SVS/MS).
+definição de caso suspeito – Toda pessoa que apresente febre seja
+residente ou tenha se deslocado para área onde haja transmissão
+de malária.
+definição de caso confirmado – Toda pessoa cuja presença de para-
+sito no sangue, sua espécie e parasitemia tenham sido identificadas
+por meio de exame laboratorial (lâmina, TDR ou PCR).
+Guia de tratamento da malária no Brasil 71
+definição de caso descartado – Caso suspeito com diagnóstico
+laboratorial negativo para malária.
+lâmina de verificação de cura (LVC) – Classifica-se como LVC o
+exame de microscopia realizado durante e após tratamento recente,
+em paciente previamente diagnosticado para malária, por busca ativa
+ou passiva.
+Outras definições importantes:
+recorrência ou recidiva – Reaparecimento de gota espessa positiva,
+com ou sem sintomas.
+recrudescência – Recorrência a partir de formas sanguíneas.
+recaída – Recorrência a partir de formas hepáticas (hipnozoítos de
+P. vivax).
+reinfecção – Recorrência a partir de uma nova picada infectante.
+OBJETiVOS DA rEALizAçãO DE LVC
+ÎNo que diz respeito à atenção clínica (individual) – Acompanhar
+o paciente para verificar se o tratamento foi eficaz.
+ÎNo que diz respeito à vigilância epidemiológica (coletivo) – A LVC
+constitui importante indicador para a detecção de deficiências dos
+serviços de saúde na vigilância de fontes de infecção, atenção e
+tratamento do doente com malária. Além disso, é útil para diferenciar
+uma nova infecção (caso novo) de uma recidiva (recrudescência
+ou recaída).
+72 Secretaria de Vigilância em Saúde | MS
+CriTériOS PArA A rEALizAçãO DE LVC
+CONTrOLE DE CurA
+Recomenda-se o controle de cura, por meio da lâmina de verificação
+de cura (LVC), para todos os casos de malária. O controle de cura
+tem como objetivos verificar a redução progressiva da parasitemia,
+observar a eficácia do tratamento e identificar recaídas oportunamente.
+Recomenda-se a realização de LVC da seguinte forma:
+ P. falciparum – Em 3, 7, 14, 21, 28 e 42 dias após o início do tratamento.
+ P. vivax ou mista – Em 3, 7, 14, 21, 28, 42 e 63 dias após o início do
+tratamento.
+O dia em que o diagnóstico é realizado e que se inicia o tratamento
+é considerado como dia zero (D0). Por exemplo, se o tratamento foi
+iniciado no dia 2 de agosto, este dia é considerado o D0; três dias após
+o início do tratamento será o dia 5 de agosto (D3). A periodicidade da
+realização da LVC deverá considerar a capacidade operacional local,
+devendo ser priorizadas em D3 e D28 para infecções por P. vivax (CQ),
+P. falciparum ou mista (AL), ou D3 e D42 para infecções por P. falciparum
+ou mista (ASMQ).
+Guia de tratamento da malária no Brasil 73
+EQUIPE TÉCNICA
+eLaBORaçãO
+André Machado de Siqueira
+Instituto de Pesquisa Clínica Evandro Chagas/Fiocruz/RJ
+Claudio Tadeu Daniel Ribeiro
+Instituto Oswaldo Cruz/Fiocruz/RJ
+Cor Jesus Fernandes Fontes
+Universidade Federal de Mato Grosso/Faculdade de Ciências Médicas/
+Hospital Universitário Júlio Müller
+Dhelio Batista Pereira
+Centro de Pesquisas em Medicina Tropical de Rondônia
+José Manoel de Souza Marques
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Maria das Graças Costa Alecrim
+Coordenação do Curso de Medicina da Faculdade Metropolitana
+de Manaus/Fametro
+Marcos Boulos
+Universidade de São Paulo/Faculdade de Medicina
+Marcus Vinicius Guimarães Lacerda
+Fundação de Medicina Tropical Dr. Heitor Vieira Dourado e Fiocruz/AM
+Mauro Sugiro Tada
+Centro de Pesquisa em Medicina Tropical de Rondônia
+Paola Barbosa Marchesini
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Pedro Luiz Tauil
+Universidade de Brasília/Faculdade de Medicina/Medicina Social
+Tânia do Socorro Souza Chaves
+Instituto Evandro Chagas e Faculdade de Medicina da Universidade Federal
+do Pará
+74 Secretaria de Vigilância em Saúde | MS
+COLaBORaçãO
+André Peres Barbosa de Castro
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Anielle Pina Costa
+Instituto Nacional de Infectologia Evandro Chagas/Fiocruz/RJ
+Brenda Marcela Coelho
+Projeto Apoiadores Municipais para Prevenção, Controle e Eliminação de
+Malária/Cooperação Técnica entre o Ministério da Saúde e a Fundação
+Oswaldo Cruz
+Cássio Roberto Leonel Peterka
+Diretoria de Vigilância Epidemiológica/GDF
+Djane Baisa da Silva
+Fundação de Medicina Tropical Dr. Heitor Vieira Dourado
+Edilia Samela Freitas Santos
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Edson Fidelis da Silva Junior
+Projeto Apoiadores Municipais para Prevenção, Controle e Eliminação de
+Malária/Cooperação Técnica entre o Ministério da Saúde e a Fundação
+Oswaldo Cruz
+Eurenice Neves Lima
+Fundação de Vigilância em Saúde do Amazonas/AM
+Francisco Edilson Ferreira de Lima Junior
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Gilberto Gilmar Moresco
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+José Diego de Brito Sousa
+Universidade do Estado do Amazonas/Fundação de Medicina Tropical Heitor
+Vieira Dourado
+Guia de tratamento da malária no Brasil 75
+Klauss Kleydmann Sabino Garcia
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Liana Reis Blume
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Marcelo Yoshito Wada
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Márcio Pereira Fabiano
+Projeto Apoiadores Municipais para Prevenção, Controle e Eliminação
+de Malária/Cooperação Técnica entre o Ministério da Saúde e a
+Fundação Oswaldo Cruz
+Marly Marques de Melo
+Fundação de Medicina Tropical Dr. Heitor Vieira Dourado
+Poliana de Brito Ribeiro Reis
+Coordenação-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+Vetorial/Secretaria de Vigilância em Saúde/Ministério da Saúde
+Sheila Rodrigues Rodovalho
+Organização Pan-Americana de Saúde/Brasília
+Wuelton Marcelo Monteiro
+Universidade do Estado do Amazonas e Fundação de Medicina Tropical
+Dr. Heitor Vieira Dourado
+76 Secretaria de Vigilância em Saúde | MS
+Ministério da saúde
+Guia de tratamento
+da malária no Brasil
+0202
+FD ailísarB
+Biblioteca Virtual em Saúde do Ministério da Saúde
+www.saude.gov.br/bvs
+VEN
+DIST
+D
+RI
+A
+BU
+P
+IÇ
+R
+ÃO OIBIDA
+MINISTÉRIO DA
+GRATUITA
+SAÚDE

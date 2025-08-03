@@ -1,0 +1,1406 @@
+
+
+Arboviroses
+na prática:
+REALIZAÇÃO
+Fundo das Nações Unidas para s Infância (UNICEF)
+Youssouf Abdel-Jelil
+Representante do UNICEF no Brasil
+Luciana Phebo
+Chefe de Saúde e Nutrição do UNICEF Brasil
+Gregory Bullit
+Chefe de Água, Saneamento e Higiene do UNICEF Brasil
+AUTORAS
+Denise Valle
+Bióloga, Pós-Doutora em Biologia do Desenvolvimento
+Raquel Aguiar
+Jornalista, Doutora em Informação e Comunicação em Saúde
+REVISÃO
+Luciana Phebo
+Chefe de Saúde e Nutrição do UNICEF Brasil
+Gregory Bullit
+Chefe de Água, Saneamento e Higiene do UNICEF Brasil
+Gerson da Costa Filho
+Oficial de Saúde do UNICEF Brasil
+PROJETO GRÁFICO E DIAGRAMAÇÃO
+Carol Cardinali / SB Comunicação
+Dados Internacionais de Catalogação na Publicação (CIP)
+(Câmara Brasileira do Livro, SP, Brasil)
+Valle, Denise
+Arboviroses na prática [livro eletrônico] :
+guia rápido para profissionais de saúde / Denise
+Valle, Raquel Aguiar. -- Rio de Janeiro, RJ :
+SB Comunicação, 2023.
+PDF
+Bibliografia.
+ISBN 978-65-981858-0-0
+1. Arboviroses 2. Profissionais da saúde
+3. Saúde pública I. Aguiar, Raquel. II. Título.
+23-180068 CDD-614.4
+Índices para catálogo sistemático:
+1. Arbovírus : Doenças neuroinvasivas : Saúde
+pública 614.4
+Tábata Alves da Silva - Bibliotecária - CRB-8/9253
+ÍNDICE
+Introdução ....................................................................................... 5
+Capítulo 1 – Histórico das arboviroses no Brasil ...........9
+Capítulo 2 – Biologia de Aedes aegypti ..........................13
+Capítulo 3 – Controle de Aedes aegypti ........................21
+Capítulo 4 – Transmissão das arboviroses urbanas ...29
+Capítulo 5 – Sintomas, manifestações e manejo
+clínico das arboviroses urbanas ..............33
+Capítulo 6 – Resposta das diversas esferas da
+Saúde às arboviroses urbanas ..................40
+Capítulo 7 – Sobre a febre amarela .................................42
+Capítulo 8 – Sobre a malária .............................................47
+Referências ...............................................................................53
+Refe
+INTRODUÇÃO
+Olá!
+No imenso conjunto das questões de saúde-doença, convidamos você,
+profissional de saúde, a conhecer este guia prático sobre arboviroses.
+Aqui, falamos de dengue, Zika, chikungunya1 (transmitidas em am-
+bientes urbanos) e febre amarela (que ocorre em regiões de matas),
+com especial atenção para os mosquitos transmissores e para as es-
+tratégias focadas na redução de transmissão destas doenças. Tratamos
+também de alguns pontos importantes sobre malária, já que em muitos
+municípios do país este esclarecimento é fundamental para o diagnós-
+tico e o tratamento diferencial em relação às arboviroses.
+Escolhemos usar uma linguagem clara, objetiva e sintética, para
+que este Guia possa ser um aliado de consulta rápida entre profis-
+sionais que atuam em diferentes frentes da saúde: agentes comu-
+nitários de saúde, agentes de combate às endemias, agentes indígenas
+de saúde, agentes indígenas de saneamento, profissionais da enfer-
+magem, médicos, assistentes sociais, gestores e os demais perfis
+profissionais que atuam neste campo.
+Sabemos que o tema das arboviroses envolve o dia-a-dia do serviço
+de saúde, da prevenção, da vigilância, da definição de políticas públi-
+cas e muito mais. Por isso, agregamos aqui as principais informações
+e práticas sobre o assunto.
+1 A grafia do termo Zika recebe letra maiúscula porque se refere a um lugar: a floresta de Zika, em Uganda,
+onde o vírus foi descrito pela primeira vez, em 1947. Já os termos dengue e chikungunya fazem alusão a
+sintomas associados a estas doenças: ‘chikungunya’ significa ‘aquele que se dobra’; e o termo dengue tem
+relação com a rigidez derivada das dores nos músculos e articulações.
+Introdução 5
+Damos
+largada a este Guia com
+base nos seguintes pontos de partida:
+se, no campo dos conceitos, a perspectiva
+de saúde como ausência de doença já está supe-
+rada há muito tempo, esta virada de página é ainda
+mais importante quando falamos de arboviroses. Consi-
+derando sua dinâmica de transmissão, as arboviroses exi-
+gem uma resposta intersetorial. Podemos preparar leitos
+para pessoas com quadros graves e capacitar as equipes de
+atenção primária nas técnicas mais avançadas, mas, sem
+uma resposta concreta, ao mesmo tempo individual e co-
+letiva, do ponto de vista da ação sobre os mosquitos
+transmissores, e sobre as condições que permitem
+seu convívio conosco, teremos o famoso cenário
+de “enxugar gelo”, com esforços em vão e Quando
+muitas pessoas em condição vulne- o assunto são as arbo-
+rável para o adoecimento. viroses urbanas, é central con-
+siderar os serviços públicos básicos
+de coleta de lixo e de abastecimento
+regular de água – que, juntamente com
+o saneamento e a redução de desigual-
+Também estamos falando dades, integram o painel de fatores que
+sobre ações de controle do vetor2 permite que as arboviroses se esta-
+nos ambientes domésticos: o mosquito beleçam de forma tão eficaz no
+não voa muito longe e leva pouco tempo para nosso país.
+se reproduzir. Então, quando não agimos no con-
+trole do mosquito uma vez por semana (entenda
+o motivo deste prazo no capítulo 2), de forma per-
+sistente e continuada, o risco de transmissão acon-
+tece dentro de casa e na vizinhança próxima. Nes-
+te ponto, o engajamento das pessoas é fundamen-
+tal para garantir que acúmulos de água dentro
+de suas moradias não se tornem criadouros
+de mosquitos – com isso, a comuni-
+cação entra em cena como uma
+estratégia necessária.
+2 Vetor é o organismo que transmite um parasito. No caso, Ae. aegypti é o vetor, ou transmissor, de vários arbovírus.
+6 Arboviroses na prática: guia rápido para profissionais de saúde
+Na realidade de diversos
+municípios brasileiros, problemas no
+abastecimento de água exigem que a po-
+pulação armazene água para consumo dentro
+de casa (em toneis e outros tipos de recipientes
+ou reservatórios). Nesta situação, a vedação com-
+pleta dos recipientes é fundamental para que
+Quando o assunto é a
+não se convertam em grandes criadouros de
+febre amarela, temos um aliado:
+mosquitos dentro dos lares. Esta medida
+a vacinação. Existe uma vacina eficaz
+preventiva deve ser garantida ao longo de
+e segura disponível de forma gratuita
+todo o dia – e não apenas à noite, quan-
+no Sistema Único de Saúde (SUS). Este imu-
+do os reservatórios de água não estão
+nizante está em uso há décadas, mas, acom-
+em uso – contribuindo para reduzir
+panhando a queda de taxas vacinais de forma
+o número de pessoas que contra-
+geral, é fundamental estimular e garantir a
+em essas doenças e acabam
+vacinação efetiva das pessoas. O esforço
+precisando de atendimento
+dos profissionais de saúde – de todos
+de saúde.
+os perfis – no estímulo à vacinação
+é estratégico para a proteção
+das pessoas.
+As arboviroses de que
+falamos neste Guia são endêmi-
+cas no Brasil (na maioria das vezes, Para
+com casos concentrados no verão). Sua o conjunto das ar-
+notificação é obrigatória e a deflagração de boviroses urbanas, exis-
+ações de resposta tem grande potencial de tem protocolos de prepara-
+sucesso em municípios de pequeno porte, ção e de resposta a contextos
+em que a identificação de casos iniciais de possíveis emergências
+permite adotar medidas que interrom- sanitárias relacionadas
+pam ou reduzam fortemente a a estas doenças.
+transmissão.
+Sabemos que cada um dos temas tratados neste opções de consulta aprofundada, recorrendo a
+Guia interessa e impacta de forma variada os di- fontes seguras disponíveis no momento em que
+ferentes perfis de profissionais da saúde. Por isso, este documento foi elaborado.
+este documento é um pontapé inicial de informa-
+ção e de práticas, que podem ser aprofundadas E viva a saúde. Que possamos sempre contribuir
+com a busca de outros documentos, mais espe- para pessoas e condições de vida saudáveis.
+cíficos e detalhados. Ao longo do Guia, indicamos Boa leitura!
+Introdução 7
+
+Capítulo 1.
+HISTÓRICO DAS
+ARBOVIROSES
+no Brasil
+No Brasil, o mosquito Aedes aegypti é o único reconhecido como trans-
+missor dos vírus que causam as principais arboviroses3: dengue, Zika
+e chikungunya. Também já foi o transmissor do vírus da febre amarela,
+em área urbana (atualmente, os casos acontecem em ambientes sil-
+vestres ou em suas proximidades, envolvendo mosquitos que habitam
+matas e florestas). A linha do tempo de acontecimento desde a intro-
+dução do vetor no país mostra uma sucessão de mudanças no cenário
+epidemiológico. Vale ressaltar: historicamente, o Brasil é o país com
+maior número de casos de dengue nas Américas.
+3 A palavra “arboviroses” é a contração dos termos, em inglês, “arthropod”, “born” e “virus”, e serve para designar vírus transmitidos por artrópodes.
+“Artrópode”, por sua vez, se refere a animais que têm patas (“podes”) articuladas (“artro”). Insetos – incluindo os mosquitos – são artrópodes, assim
+como aranhas, carrapatos, crustáceos, entre outros. No entanto, as principais arboviroses são aquelas transmitidas por mosquitos.
+Histórico das arboviroses no Brasil 9
+Linha do tempo das arboviroses
+no Brasil
+4 Instituição filantrópica criada nos EUA com os objetivos de promover a saúde pública e a educação em âmbito internacional.
+5 Siqueira E. Aedes aegypti está presente em 86% dos municípios, afirma coordenador-geral das arboviroses [Internet]. Salvador: Universida-
+de Federal da Bahia – Instituto de Saúde Coletiva; 2019 [atualização 2019 Jul 15; citado 2023 Jun29]. Disponível em: http://www.isc.ufba.
+br/espanol-aedes-aegypti-esta-presente-em-86-dos-municipios-afirma-coordenador-geral-das-arboviroses/
+10 Arboviroses na prática: guia rápido para profissionais de saúde
+6 Mais informações no documento ‘Alerta epidemiológico Febre Amarela’, de 2022. Disponível em: https://www.paho.org/pt/documentos/alerta-epi-
+demiologico-febre-amarela-31-agosto-2022
+Histórico das arboviroses no Brasil 11
+Erradicação ou controle?
+O Brasil já alcançou a erradicação de Aedes aegypti duas vezes: em 1955 e em 1973. Nestas
+ocasiões, o relaxamento da vigilância continuada, e a falta de sustentabilidade das ações de
+monitoramento e controle, resultaram na reinfestação do território. Desde 2001, o Ministério da
+Saúde reconhece que não é mais possível erradicar Ae. aegypti do Brasil.
+Por que não é possível erradicar
+o mosquito Aedes aegypti?
+{ Intenso fluxo de pessoas entre as diferentes regiões do Brasil
+{ Intenso fluxo entre o Brasil e outros países
+{ Dimensão territorial gigantesca do país, com rotas de acesso
+via mar, ar e terra
+{ Impossibilidade de controle permanente de todas as fronteiras
+e rotas de acesso
+Mesmo se fosse possível eliminar Ae. aegypti do país novamente, a manutenção desta condição
+livre do vetor seria insustentável, dado o volume de investimento necessário, em termos de
+recursos humanos, financeiros e tecnológicos.
+A opção atual é agir no controle do vetor, com o objetivo de garantir níveis de infestação bai-
+xos, o que reduz muito o risco de infecção7.
+Hoje, a presença de Ae. aegypti está disseminada em todo o país. Está evidente que o uso de inse-
+ticidas como principal forma de controle não foi e não é uma “bala de prata”: não há solução única,
+nem pronta, para responder a complexa questão destas arboviroses, que estão associadas a mos-
+quitos altamente favorecidos pelo ambiente urbano. É importante trabalhar diferente, e em várias
+abordagens. Soluções técnicas, com viés assistencialista, baseadas na mobilização prioritária de
+agentes de saúde, ou guardas de endemias, não têm sido eficientes para resolver a questão.
+Muitas soluções novas, em termos de produtos e de estratégias de controle, têm se pautado
+no conhecimento sobre vários aspectos da biologia do vetor. Profissionais das ciências sociais
+e da comunicação também têm sido chamados a participar, tanto para identificar os diversos
+fatores que podem influenciar a ocorrência de epidemias, quanto para elaborar estratégias de
+estímulo à participação da sociedade nas atividades de controle e prevenção.
+7 No contexto deste Guia, infecção se refere à presença de parasito microscópico; já a infestação é relativa à presença de parasitos, ou de transmisso-
+res, que podem ser visualizados sem a necessidade de uso de equipamentos (ou seja: há infecção pelo vírus dengue e infestação por Ae. aegypti).
+12 Arboviroses na prática: guia rápido para profissionais de saúde
+Capítulo 2.
+BIOLOGIA DE
+Aedes aegypti
+Ciclo de vida
+{ Mosquitos passam por quatro fases: ovo, larva, pupa e adulto.
+{ O adulto voa, as outras fases vivem na água.
+{ O desenvolvimento de Aedes aegypti de ovo até adulto é veloz: dura de sete a 10 dias,
+variando de acordo com condições do clima.
+{ As fases aquáticas de Ae. aegypti resistem bem a escassez de alimento e a extremos de
+temperatura.
+{ Quanto mais quente, mais rápido acontece o desenvolvimento – por isso, o verão é a esta-
+ção em que há mais mosquitos.
+Acompanhe o ciclo de vida
+e alguns hábitos do vetor
+em vídeo
+https://youtu.be/JZULW7ENc3I
+Biologia de Aedes aegypti 13
+Ovos
+{ São principalmente encontrados em recipientes artificiais e escuros (o que contribui para a
+rápida disseminação deste mosquito em ambientes urbanos).
+{ As fêmeas colocam os ovos nas paredes dos recipientes preenchidos com água, bem perto
+da borda da água, em contato com a parede do criadouro.
+{ Os ovos de Aedes têm uma espécie de cola, que os gruda firmemente nos recipientes. Por-
+tanto, ainda que a água seja esvaziada, os ovos não se desgrudarão (por isso, em alguns
+municípios do país onde há abastecimento irregular de água, a necessidade de armazena-
+mento de água potável requer atenção para a vedação completa e limpeza dos toneis, barris
+e demais depósitos utilizados).
+{ Por sua característica reprodutiva de postura aos saltos, a fêmea de Aedes espalha os
+ovos em vários locais: quanto maior a oferta de criadouros, maior chance de dispersão
+territorial do mosquito.
+{ Assim que são postos, os ovos são brancos, moles e permeáveis. Em poucas horas, ficam
+escuros, duros e impermeáveis. Com esta ‘carapaça’ formada, podem resistir por longos pe-
+ríodos sem contato com água (em algumas situações, o ovo pode resistir até um ano no seco).
+{ Os ovos de Aedes têm a forma de um grão de arroz, mas são muito menores: menos de meio
+milímetro. Por isso, é difícil visualizá-los. Além disso, costumam estar afixados a criadouros
+e objetos com paredes escuras, o que reduz ainda mais a capacidade de identificação visu-
+al imediata.
+{ O processo de desenvolvimento dos ovos, até a fase de larva, dura de dois a três dias. No
+entanto, a eclosão8 da larva só ocorre quando os ovos, que estão depositados nas paredes
+de recipientes e criadouros, são recobertos de água. Isso acontece com mais frequência
+nos verões, chuvosos.
+Processo de endurecimento e de escurecimento dos ovos
+CRÉDITO: DENISE VALLE
+Para eliminar ovos de Aedes é preciso esfregar os recipientes com a parte
+mais áspera da esponja. Além de desgrudar os ovos das paredes, é necessário
+amassá-los antes do descarte. Se não forem devidamente destruídos, os ovos
+podem simplesmente ser transferidos para outro potencial criadouro.
+8 A eclosão é a saída da larva, já desenvolvida, de dentro da casca do ovo.
+14 Arboviroses na prática: guia rápido para profissionais de saúde
+Larvas
+{ As larvas de Ae. aegypti passam por quatro etapas,
+ou estádios (chamados de L1 até L49), em um pro-
+cesso que costuma durar de 4 a 6 dias.
+{ A larva é bastante ativa e se alimenta de pequenas
+quantidades de matéria orgânica presente no criadou-
+ro. Respira com ajuda de um sifão, que fica no final do
+corpo, sempre posicionado na superfície da água.
+{ Ao contrário dos ovos, as larvas resistem muito pouco
+no seco e morrem em seguida.
+Pupas
+{ Nesta fase acontece a metamorfose, ou seja, a trans-
+formação da larva em adulto, processo que leva ape-
+nas dois dias.10
+{ A pupa não se alimenta e se movimenta muito menos
+do que a larva.
+{ A pupa é muito resistente desde que o ambiente aquá-
+tico esteja assegurado, sendo capaz de sobreviver, por
+exemplo, a altas doses de inseticidas usados para con-
+trole de criadouros.
+Como descartar larvas, pupas e a água dos criadouros
+Basta jogá-las em ambiente seco: na terra, no cimento, no asfalto. Em pouco
+tempo elas ressecam e morrem.
+É indicado que o descarte de água acumulada em recipientes com larvas ou
+pupas seja realizado em terra, cimento, asfalto ou outra superfície seca. É
+importante evitar o uso de ralos, pias e vasos sanitários, já que pode ocorrer
+o deslocamento das larvas e pupas descartadas juntamente com a água para
+novos criadouros.
+9 O esqueleto dos insetos é externo ao corpo, é um “exoesqueleto”. Para crescer é necessário descartar o esqueleto antigo e construir um novo,
+maior. Este processo se chama “muda”.
+10 Depois que a metamorfose se completa, o exoesqueleto da pupa se rompe e ocorre a emergência do adulto.
+Biologia de Aedes aegypti 15
+Adultos
+Aspectos visuais
+{ Os adultos são escuros, com lis-
+tas brancas nas patas. Na parte
+dorsal do tórax, Ae. aegypti tem
+escamas brancas que compõem
+o desenho de uma lira (instrumen-
+to musical formado por um arco
+em semicírculo conectado por
+cordas acústicas).
+{ Machos são menores que as fême-
+as e têm antenas mais plumosas.
+{ Adultos se alimentam de seiva de plantas, mas apenas as fêmeas também se alimentam de
+sangue – ou seja, são hematófagas, com preferência por sangue humano.
+{ Como só as fêmeas são hematófagas, apenas elas transmitem os vírus.
+{ Fêmeas usam todo o sangue que comem para produzir seus ovos.
+Distâncias de deslocamento
+{ Em sua forma adulta (com asas), Ae. aegypti pode percorrer distâncias consideráveis. Há
+registro de que adultos possam voar mais de 1000 metros.
+{ Ao mesmo tempo, esta espécie só voa se precisar – no caso das fêmeas, para buscar
+sangue ou para localizar criadouros disponíveis para depositar seus ovos.
+{ Em ambientes urbanos desorganizados, com ocupação desigual e condições precárias de
+saneamento, abastecimento de água e coleta de lixo, fêmeas podem se manter em um raio
+de apenas 20 a 30 metros, já que há proximidade na oferta de condições favoráveis.
+Diurno, mas oportunista
+{ Aedes aegypti é mais ativo durante o dia, no começo da manhã e no final da tarde.
+{ Se houver oferta de alimento (pessoas disponíveis para serem picadas), a fêmea de Ae. aegypti
+pode se deslocar a qualquer horário (dia ou noite).
+Tempo de vida de um Aedes adulto
+{ Quanto menos se deslocar, mais energia o mosquito economiza e mais tempo o Aedes
+adulto vive.
+16 Arboviroses na prática: guia rápido para profissionais de saúde
+{ Em ambientes urbanos, densamente povoados, desorganizados e desassistidos, fêmeas
+adultas podem viver por até 30 dias, ou mais.
+Reprodução
+{ Fêmeas de insetos, em geral, são inseminadas apenas uma vez na vida e tendem a recusar
+outros machos.
+{ Fêmeas têm espermateca, uma estrutura que armazena os espermatozoides recebidos na
+inseminação.
+{ Os espermatozoides permanecem viáveis por toda a vida da fêmea e são liberados aos
+poucos para fertilizar os óvulos.
+{ As fêmeas comem de duas a três vezes o seu peso em sangue (por isso repousam após
+a picada, em ambientes sombreados como estantes, cortinas e embaixo de móveis).
+{ O sangue ingerido é todo usado para produzir ovos.
+{ As fêmeas de Ae. aegypti colocam aproximadamente 100 ovos a cada ciclo entre uma ali-
+mentação com sangue, a postura e a procura por nova alimentação com sangue. Chamado
+ciclo gonotrófico, este processo dura aproximadamente quatro dias.
+{ As fêmeas de Aedes não concentram todos os ovos no mesmo local: espalham os ovos por
+muitos criadouros, o que aumenta a chance de sobrevivência da prole.
+É frequente ouvir que a responsabilidade sobre a presença de Aedes é
+dos vizinhos. Porém, considerando que o mosquito procura voar pou-
+co, ao encontrar ovos ou larvas de Ae. aegypti onde você mora, pro-
+cure outros criadouros em sua própria casa – é provável que existam.
+Sobre água limpa e criadouros
+{ Diz-se que Ae. aegypti prefere água limpa e parada. No entanto, o que chamamos de “água
+limpa” para Aedes pode ser diferente do que entendemos como água “boa para beber”.
+{ Para o Aedes, um bom criadouro deve conter água com uma pequena quantidade de matéria
+orgânica, para sustentar, como alimento, o desenvolvimento da larva até a fase adulta.
+{ O termo “água limpa”, em alusão à preferência de Aedes, é usado em oposição a “água suja“,
+ou de valão, que é a opção do pernilongo, nome popular para o barulhento Culex quinque-
+fasciatus.11
+11 Pernilongos são mosquitos do gênero Culex. Também são urbanos, mas são ativos no final do dia e preferem depositar seus ovos em acúmulos
+de água com muita matéria orgânica.
+Biologia de Aedes aegypti 17
+MAS:
+{ Caso não encontre criadouros em condições favoráveis nas proximidades, a fêmea de Aedes
+pode depositar seus ovos em recipiente ou local com água não tão limpa quanto seria de
+seu hábito.
+{ Aedes aegypti prefere usar recipientes artificiais para pôr seus ovos. Isso inclui ralos, caixas
+d’água, tanques, vasos de planta, e também calhas, poços de elevador, áreas mal niveladas,
+bandejas atrás de geladeiras, garrafas, entulho…
+{ Além dos “criadouros clássicos”, há aqueles que dependem de “olhar com olhos de mosqui-
+to“: são locais não convencionais, mas que podem acumular água.
+Aedes não gosta de luz. Gosta de sombra e água fresca. Por isso, curio-
+samente, um tanque amplamente exposto à luz tem menos chance de
+se tornar um criadouro em comparação com um tanque mal tampado,
+com pequenas frestas que possibilitam a entrada de Aedes e com con-
+dições internas sombreadas.
+Em municípios com instabilidade no abastecimento de água e em que
+ocorre necessidade de armazenamento de água para consumo das
+famílias dentro da casa, é fundamental providenciar medidas de orien-
+tação e de disponibilização de materiais para vedação completa da
+tampa usada para os reservatórios, tonéis e demais recipientes usados
+para guardar água. Outra alternativa, caso a vedação da tampa não
+seja possível, é o fechamento com uso de tela.
+Em situações de coleta de lixo limitada ou demorada, o armazena-
+mento até a retirada também requer atenção: o depósito de lixo deve
+ser devidamente tampado, evitando que se torne um criadouro.
+Em diversos locais do país, sobretudo no Nordeste, é necessário ter
+atenção às cisternas e demais depósitos para armazenamento de
+água, muitas vezes instalados em locais de difícil acesso ou que reque-
+rem o uso de escadas para serem verificados. A recomendação para
+estes casos é de vedação total (com uso de tampas que não deixem
+frestas) ou de uso de telas, também com a cautela de não deixar frestas e
+buracos que permitam a passagem de fêmeas dos mosquitos.
+18 Arboviroses na prática: guia rápido para profissionais de saúde
+Produtividade dos criadouros
+{ Um criadouro, para ser produtivo, precisa ter água em quantidade adequada para sustentar
+o desenvolvimento do mosquito até a fase adulta.
+{ Há ainda os macrocriadouros, que, por sua grande dimensão, são capazes de assegurar o
+desenvolvimento de muitos mosquitos. Exemplos: o chafariz da praça sem manutenção, a
+piscina não tratada, uma caixa d’água mal fechada, um canteiro de obras abandonado.
+{ Pontos estratégicos incluem conjuntos de criadouros, como cemitérios, ferros-velhos, de-
+pósitos de sucata ou de carros abandonados. Os pontos estratégicos devem ser tratados
+de forma diferenciada pelos agentes de saúde pública.
+A fêmea de Aedes espalha seus ovos por vários
+criadouros, que são depósitos de água onde o vetor
+vive sua fase aquática: ovo, larva e pupa.
+“Olhar com olhos de mosquito”: criadouros podem
+ser convencionais ou não; podem estar localizados
+em ambientes domésticos, privados, coletivos,
+públicos; no chão ou no alto.
+Criadouros produtivos sustentam o
+desenvolvimento de muitos ovos até a fase de
+mosquito adulto.
+Ralo
+Pneus
+Caixa d'água Vaso de
+não vedada plantas
+Vasilha de
+água do animal Entulho
+A cada dez criadouros de Aedes aegypti oito estão
+Calha
+localizados em ambientes domésticos.
+Por isso, encontrar um criadouro em casa é sinal de que,
+provavelmente, existem outros próximos que precisam ser
+igualmente identificados e eliminados.
+Biologia de Aedes aegypti 19
+i
+Fontes para informação detalhada
+Orientação sobre aspectos legais envolvidos no
+acesso a imóveis fechados, abandonados ou com
+acesso impedido pelo morador
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/dengue/dengue_amparo_legal_web.pdf/view
+20 Arboviroses na prática: guia rápido para profissionais de saúde
+Capítulo 3.
+CONTROLE DE
+Aedes aegypti
+Informações chave
+Para abordar as alternativas de controle de Aedes aegypti, é central considerar alguns pontos
+sobre a biologia o vetor:
+{ No Brasil, de cada 10 criadouros de Ae. aegypti, oito estão nos domicílios (o que envolve
+questões de público e privado). É importante que a sociedade participe do controle do
+vetor, em uma concepção de cidadania e sustentabilidade.
+{ Larvas não voam, só os adultos. Larvas não transmitem o vírus, só os adultos. Localizar
+larvas confinadas em recipientes é mais previsível, fácil, seguro e eficiente do que capturar
+adultos alados.
+{ O ciclo de vida de Ae. aegypti dura de 7 a 10 dias. Por isso, o estímulo à ação semanal pre-
+ventiva, de busca de recipientes com ovos, larvas ou pupas no espaço domiciliar, por cada
+cidadão, colabora para reduzir a população de mosquitos adultos.
+{ A fêmea de Ae. aegypti espalha os ovos por muitos lugares. Encontrar um recipiente com
+ovos, larvas ou pupas em casa pode indicar que provavelmente há outros criadouros no local.
+{ Existem muitas limitações no uso de inseticidas e estes recursos precisam ser preser-
+vados para uso estratégico em situações críticas, sempre de acordo com as recomen-
+dações do Ministério da Saúde, mantendo-se o controle mecânico como estratégia
+primária de controle.
+Tipos de controle de Aedes aegypti
+São várias as formas de controle do vetor, com um panorama que conta com os destaques
+detalhados a seguir.
+Controle de Aedes aegypti 21
+{ Controle mecânico: para Ae. aegypti sig-
+nifica eliminar recipientes e locais que
+podem acumular água, agindo sobre po-
+tenciais reservatórios de água que possam
+ser escolhidos pela fêmea para postura
+de ovos. Caso não seja possível eliminar
+(como o caso de água armazenada para
+consumo familiar), o reservatório precisa
+ser tampado de forma completa (com
+vedação de frestas que poderiam ser aces-
+sadas pelas fêmeas do mosquito na bus-
+ca por locais para colocar seus ovos).
+Outra alternativa é o uso de telas, com
+a cautela de garantir a cobertura total.
+» O controle mecânico retira de cir-
+culação, ao mesmo tempo, ovos
+e larvas suscetíveis e resistentes
+a inseticidas. A diversidade da
+população de mosquitos é man-
+tida e com isso indivíduos susce-
+tíveis aos produtos continuam
+presentes. Assim, caso seja efe-
+tivamente necessário aplicar os
+inseticidas, como medida com-
+plementar de controle, eles pode-
+rão ter eficácia.
+» Para impedir o acesso de mosquitos adultos ao interior de moradias, o uso de
+telas em portas e janelas pode ser adotado. Neste caso, é fundamental garantir
+a cobertura completa, com cuidado para que furos e outros possíveis danos à
+tela sejam solucionados – afinal, o mosquito precisa de frestas pequenas para
+conseguir driblar este tipo de barreira. O uso de mosquiteiros em camas e berços
+também é uma alternativa adicional. Essas medidas de barreira de contato podem
+ser oportunas, assim como o uso de repelentes, mas não atuam no controle de
+mosquitos. É importante, portanto, situar que são medidas paliativas de redução
+de contato do mosquito com as pessoas, sem, porém, agir no controle do vetor.
+{ Controle químico: uso de produtos químicos com efeito inseticida – ou seja, capazes de
+matar os mosquitos.
+» Os inseticidas mais conhecidos e usados há mais tempo atuam no sistema nervoso
+dos insetos.
+» A resistência a inseticidas é um aspecto herdado geneticamente: um mosquito já
+nasce resistente ou suscetível a determinado inseticida, antes do contato com o produto.
+» Tipos diferentes de inseticidas podem agir, de maneira geral, sobre as larvas ou
+sobre os adultos.
+» O inseticida mata os mosquitos suscetíveis àquele produto específico e não tem
+efeito sobre os mosquitos resistentes.
+22 Arboviroses na prática: guia rápido para profissionais de saúde
+» Exagerar o uso de inseticida resulta em aumento da quantidade de mosquitos re-
+sistentes na população. Com isso, quando há poucos mosquitos suscetíveis (ou
+nenhum), o inseticida perde seu efeito.
+Inseticidas devem ser usados com parcimônia para que, em situações
+específicas, possam ser usados como um recurso eficaz. Sua indicação
+deve seguir estritamente as orientações técnicas.
+Uso de inseticidas de acordo com
+recomendações do Ministério da Saúde
+{ Inseticidas são uma estratégia complementar de controle.
+{ O uso de inseticidas contra larvas (larvicidas) é
+indicado apenas nos recipientes que não é possível
+eliminar (ou seja, descartar) ou vedar completamente.
+{ O uso de inseticidas contra adultos12 é uma estratégia para bloquear
+surtos (ou seja, para conter a proliferação de mosquitos em áreas onde
+foram detectados os primeiros casos humanos antes de seu espalhamento).
+{ Inseticidas contra adultos não são uma medida preventiva.
+Na prática, o bom uso do controle mecânico (pela eliminação ou veda-
+ção de criadouros) garante que o inseticida seja preservado como um
+método eficaz se for necessário usá-lo como recurso adicional.
+12 São conhecidos como UBV (ultra baixo volume), ou fumacê, em algumas regiões do país.
+Controle de Aedes aegypti 23
+Nota: Nas caixas, cada figura representa um indivíduo
+24 Arboviroses na prática: guia rápido para profissionais de saúde
+Desde 2012, o Ministério da Saúde adota o protocolo de rotação de inse-
+ticidas: idealmente, a cada quatro anos é recomendado um tipo de inse-
+ticida com mecanismo de ação diferente. O objetivo é preservar os poucos
+inseticidas ainda efetivos. Por isso, a contratação de qualquer ação envol-
+vendo inseticidas deve considerar as orientações oficiais. No momento
+em que este guia foi elaborado, o documento norteador para este assunto
+estava em revisão no Ministério da Saúde.
+{ Controle biológico: uso de predadores ou patógenos para controle de Ae. aegypti. Alguns
+exemplos incluem bactérias e peixes, em reservatórios de água que não podem ser eliminados
+» O uso da bactéria Bti13
+• Ao ser ingerido pela larva do mosquito, o Bti danifica seu intestino e causa sua morte.
+» O “peixamento” de caixas, tanques ou tipos semelhantes de reservatórios de água:
+• É utilizado em algumas localidades da Região Nordeste.
+• Alguns peixes usados nesta estratégia de controle, como o barrigudinho (Poeci-
+lia reticulata), são bastante resistentes a variações de temperatura e outras ca-
+racterísticas da água.
+• Estes peixes se alimentam de larvas que encontram nos recipientes onde são
+instalados, mantendo-os livres de infestação, e a um custo muito baixo.
+• Na década de 1930, o então Serviço de Controle da Febre Amarela já usava peixes
+para controlar Ae. aegypti em poços de algumas localidades do Nordeste.
+Exemplos de produtos e estratégias alternativos
+Mais recentemente, estão sendo usados produtos conhecidos como reguladores do desen-
+volvimento de insetos: esta categoria de inseticida interfere sobre aspectos específicos da fi-
+siologia dos insetos e, por isso não é tão agressiva aos humanos.
+Já as estações disseminadoras se beneficiam da característica reprodutiva de postura aos
+saltos. São recipientes atrativos para as fêmeas mas que também contêm inseticida – a subs-
+tância fica aderida ao corpo da fêmea e é propagada enquanto espalha seus ovos em outros
+criadouros.
+A liberação de mosquitos machos estéreis para reduzir a população de mosquitos está base-
+ada na recusa da fêmea inseminada por copular com outros machos. Ao copular com machos
+estéreis, a prole da fêmea não é viável. No caso de Ae. aegypti, não é um procedimento susten-
+13 Sigla de Bacillus thuringiensis variedade israelensis.
+Controle de Aedes aegypti 25
+tável, pois necessita de reposição periódica dos mosquitos machos estéreis no local onde a
+estratégia estiver sendo implementada.
+A soltura de mosquitos Aedes com Wolbachia também é uma estratégia em uso em algumas
+localidades. A Wolbachia é uma bactéria normalmente presente em muitas espécies de insetos.
+Essa bactéria é transmitida da mãe para a prole e, portanto, sua perpetuação é sustentável.
+Mosquitos Ae. aegypti com a bactéria Wolbachia são maus transmissores dos vírus dengue,
+Zika ou chikungunya.
+Considerando que os mosquitos circulam, ultrapassando os limites de cada
+casa, a aplicação destes métodos alternativos de controle depende da adoção
+em determinado território, sendo inócuo o uso individual.
+PÚBLICO X PRIVADO:
+o desafio da prevenção e do controle
+de Aedes aegypti
+{ De cada 10 criadouros, 8 são domésticos. Portanto, a pre-
+venção depende de ações em ambiente privado, mas que têm
+impacto no coletivo.
+{ Ao mesmo tempo, existe uma vulnerabilidade adicional em territó-
+rios com dificuldades no acesso a água, o que exige a rotina de ar-
+mazenamento de água para uso doméstico (em toneis, barris e demais
+recipientes).
+{ O Brasil tem dezenas de milhares de agentes de saúde. Uma de suas funções é
+realizar as visitas casa a casa, idealmente a cada dois meses. Neste caso, estamos
+falando de agentes públicos atuando em ambientes privados.
+{ No entanto, o trabalho dos agentes de saúde não substitui as ações de cada mo-
+rador, já que para interromper o ciclo de vida do mosquito são necessárias ações
+semanais (mais informações no capítulo 2).
+{ A prevenção no interior dos domicílios não é suficiente. Existem criadouros em
+locais públicos, que precisam ser eliminados ou tratados. Chafarizes e depósitos
+abandonados são exemplos deste tipo de situação.
+{ Os serviços públicos básicos de saneamento, abastecimento regular de água e
+coleta de lixo precisam ser garantidos para que a oferta de criadouros para o mos-
+quito seja reduzida.
+{ Portanto, ao mesmo tempo em que exige ação no ambiente doméstico, o con-
+trole do vetor demanda ações contínuas do setor público.
+26 Arboviroses na prática: guia rápido para profissionais de saúde
+Inimigo público ou mosquito de estimação?
+Os animais sinantrópicos são aqueles que convivem próximo ao
+homem independentemente de sua vontade. Em oposição, o convívio
+com animais domésticos é uma opção do homem.
+Mosquitos são “sinantrópicos” no discurso: são tratados como um ini-
+migo a ser combatido. Mas, mosquitos são “domésticos” na medida em
+que as condições propícias para sua convivência são criadas: o cuidado
+(ou sua falta) em relação ao lixo, ao armazenamento de água (quando
+necessário) e à eliminação de criadouros.
+Neste contexto, uma mudança conceitual é necessária:
+{ O discurso de “combate” ou “guerra” ao mosquito sugere postura de exceção (o
+que não é sustentável) e estabelece uma ação “contra” um inimigo “externo”.
+{ Vale reposicionar o controle do mosquito como questão de mudança de conduta,
+em lugar do paradigma de “guerra” ou de “combate”. Nesta nova abordagem, é
+fundamental garantir que os espaços (privados e públicos) tenham condições
+saudáveis e sustentáveis.
+Comunicação como aliada do controle
+A partir do conjunto de aspectos da biologia do vetor e de todas as dimensões individuais e
+coletivas que envolvem seu controle, fica evidente que ações de informação e comunicação
+são uma estratégia fundamental. Sobretudo os profissionais de todos os perfis que atuam no
+campo da Saúde são centrais para a propagação de informações confiáveis, inclusive na
+interação direta com pacientes e com a sociedade, e também nas interfaces junto a familiares
+e amigos – no contexto em que as informações falsas e os boatos se tornam um desafio cada
+vez maior, os profissionais que atuam no tema ganham papel ainda mais relevante.
+Especialmente nos contextos de municípios de pequeno porte, existe grande potencial de uso
+de estratégias de comunicação para contribuir na redução de casos.
+É evidente que a ação de controle do mosquito precisa ser permanente, mas, quando um au-
+mento de casos de arboviroses é notado, existe a alternativa de imediata articulação para
+reforço do estímulo às ações de controle.
+Para isso, é importante agir de forma intersetorial, ao mesmo tempo junto às instâncias muni-
+cipais (alertando quanto à necessidade de agir sobre aspectos determinantes, como a coleta
+de lixo, o acesso a água e a remoção e/ou limpeza de criadouros em prédios públicos como
+prefeitura, colégios e praças) e também compartilhando orientações e estimulando a mobiliza-
+ção individual do cidadão para agir na remoção e/ou limpeza de criadouros dentro dos seus
+locais de moradia.
+Controle de Aedes aegypti 27
+Possíveis ações de mobilização diante do
+aumento de casos de arboviroses
+{ Nos contatos de municípios de pequeno porte, o estabe-
+lecimento de uma rede de parcerias pode ser altamente
+eficaz para reforçar a ação de controle de criadouros jun-
+to aos cidadãos.
+{ É importante abordar claramente que existe um crescimen-
+to de casos e que a ação do conjunto de moradores é funda-
+mental para a redução de novos adoecimentos, a partir do controle de Ae. aegypti.
+Também é importante destacar a orientação de que, em caso de sintomas e sinais
+das arboviroses, a orientação é de ir a uma unidade de saúde e não se automedicar.
+{ O uso de cartazes e folhetos pode ser realizado de forma rápida e a baixo custo.
+Estes produtos podem ser disponibilizados na sala de espera de unidades de saú-
+de, em estabelecimentos comerciais, quadras de esportes e instituições religiosas.
+{ No ambiente digital, a postagem em perfis de redes sociais ou o compartilhamen-
+to de orientações em aplicativos de mensagens instantâneas (como o Whatsapp)
+também é uma alternativa.
+{ Caso existam veículos e canais de comunicação, como jornais e rádios, o esta-
+belecimento de contato para mobilizar a circulação de informes sobre o tema
+também é recomendado.
+* Nos municípios em que a vigilância de vetores está estabelecida, o acompanhamento do aumen-
+to de infestação por Ae. aegypti também pode ser um fator de alerta para fortalecer a comunicação
+sobre o tema.
+Modelos de cartazes e folhetos para uso gratuito estão
+disponíveis no projeto ‘10 Minutos Contra o Aedes’, em
+https://www.ioc.fiocruz.br/dengue/10minutos.html
+O problema é o mosquito? Aedes aegypti e arboviroses
+urbanas - contradições e reflexões
+https://www.scielo.br/j/ress/a/BQJjMctrbRxZ8RzMr3xjWtz/?lang=pt
+28 Arboviroses na prática: guia rápido para profissionais de saúde
+Capítulo 4.
+TRANSMISSÃO das
+Arboviroses Urbanas
+mbora o mosquito Ae. aegypti seja apto
+E
+a atuar como vetor de várias arboviroses,
+nem todo mosquito transmitirá vírus:
+mesmo em períodos de epidemia, apenas um
+Mosquitos infectados
+ou dois a cada 100 mosquitos transmitem vírus.
+são aqueles que adquirem o
+vírus, em geral quando se alimentam
+de uma pessoa com o vírus circulante em
+seu sangue (apresente ou não sintomas14).
+Como o vírus está presente no estômago ou
+disseminado no corpo do inseto, ele ainda não
+é capaz de propagar a infecção.
+Apenas os mosquitos
+14 Nem toda pessoa infectada apresenta sintomas ou ma- infectivos são capazes de
+nifestações clínicas da doença, embora possa infectar uma pessoa: neles, o vírus
+transmitir o vírus para um mosquito.
+alcançou as glândulas salivares, onde
+se replica produzindo novos vírus. Com
+isso, estes mosquitos são capazes
+de injetar o vírus presente em sua
+saliva ao mesmo tempo em que
+se alimentam de sangue.
+Transmissão das arboviroses urbanas 29
+Mosquito infectado
+X
+2 Na glândula,
+1 Após ingerir sangue de uma pessoa
+o vírus começa
+infectada, o mosquito também fica
+a ser replicado,
+infectado. Inicialmente, o vírus se
+gerando cópias
+aloja no estômago. Depois, precisa
+de si mesmo.
+atravessar uma série de barreiras
+até chegar à glândula salivar.
+3 Uma pequena fração
+dos mosquitos vive tempo
+suficiente para que o vírus,
+depois de replicado, chegue
+até a saliva. É quando o vetor se torna infectivo,
+podendo transmitir o patógeno em suas próximas
+alimentações sanguíneas, até o fim de seus dias.
+Como a saliva do mosquito
+contribui para a transmissão
+Ao mesmo tempo em que o Aedes suga o
+sangue, ele “cospe” saliva no indivíduo.
+A saliva de Aedes tem propriedades
+anestésicas (contribui para a picada não ser
+sentida), antiplaquetárias (evita a coagulação)
+e vasodilatadoras (facilita a sucção do sangue).
+30 Arboviroses na prática: guia rápido para profissionais de saúde
+Quando uma pessoa tem suspeita ou confirmação de infecção por alguma
+arbovirose, é indicado o uso de repelente para bloquear a transmissão.
+Nesse caso, é importante ‘proteger o mosquito’, garantindo que a pessoa
+infectada não seja picada, o que interrompe o ciclo de transmissão do vírus.
+Para que um mosquito infectado se torne um
+mosquito infectivo, o vírus (que foi ingerido
+com sangue durante a alimentação em uma
+pessoa infectada) precisa migrar do estômago
+até as glândulas salivares. Este percurso va-
+ria de acordo com cada vírus15:
+- 8 a 12 dias para o vírus dengue
+- 7 a 10 dias para o vírus Zika
+- 3 a 7 dias para o vírus chikungunya
+Na prática, poucos mosquitos sobrevivem o
+suficiente para se tornarem infectivos e se-
+rem capazes de transmitir vírus.
+Este é mais um argumento para manter os
+níveis de infestação baixos. Embora o percen-
+tual de mosquitos infectivos seja geralmente
+reduzido (em torno de 1% a 2% do total de
+mosquitos em determinado local), em números
+absolutos tudo muda de figura: por exemplo, se
+100 mosquitos estão circulando em uma área,
+1 ou 2 serão capazes de transmitir o vírus; porém,
+se 100.000 mosquitos estiverem circulando,
+haverá mil a 2 mil mosquitos infectivos.
+15 No mosquito, esse intervalo é chamado de período de incubação extrínseco: é o tempo que o agente causador de uma doença (no caso, o vírus)
+leva para tornar um vetor infectivo. Já no homem, ocorre o período de incubação intrínseco (ou simplesmente período de incubação), que é o in-
+tervalo entre o contato com o vírus e o aparecimento dos sintomas.
+Transmissão das arboviroses urbanas 31
+Uma fêmea de Ae. aegypti pode se alimentar em várias pessoas em um
+ciclo gonotrófico, (intervalo de tempo entre a alimentação com sangue até
+a postura de seus ovos16). Se esta fêmea estiver infectiva, transmitirá o
+vírus para todas as pessoas que forem picadas.
+Em algumas situações, fêmeas de Ae. aegypti infectadas podem trans-
+mitir o vírus para uma parte de seus ovos. Os adultos que resultarem
+do desenvolvimento destes ovos já podem estar infectivos mesmo
+antes da primeira alimentação com sangue. No entanto, vale reforçar
+que estes são casos eventuais: a principal forma de infecção do mos-
+quito é por meio da picada em uma pessoa com o vírus circulante em
+seu organismo.
+16 Este fenômeno, típico de Ae. aegypti, se chama discordância gonotrófica. É um dos aspectos que
+contribuem para que a espécie seja um transmissor eficaz de vírus e outros patógenos.
+32 Arboviroses na prática: guia rápido para profissionais de saúde
+Capítulo 5.
+SINTOMAS,
+MANIFESTAÇÕES E
+MANEJO CLÍNICO
+das
+Arboviroses Urbanas
+No Brasil, a principal forma de transmissão de dengue, Zika e chikungunya para o homem é
+vetorial, ou seja, ocorre a partir da picada de uma fêmea de Aedes aegypti infectada. No entan-
+to, existem relatos raros de infecção da mãe para o bebê (vertical) e por transfusão de sangue
+infectado. No caso específico do vírus Zika, a transmissão por via sexual também deve ser
+considerada.
+Os vírus dengue, Zika e da
+febre amarela são da famí-
+lia dos flavivírus. Já o vírus
+chikungunya é da família
+dos alfavirus.
+A manifestação de sintomas não acontece
+em todas as pessoas infectadas e varia mui-
+to entre estes arbovírus. Ainda que não apre-
+sente sintomas, toda pessoa infectada tem o
+risco de transmitir o vírus, dando continuidade
+ao ciclo de propagação destas doenças.
+Ilustração digital do vírus da Dengue.
+FOTO: ADOBESTOCK
+Sintomas, manifestações e manejo clínico das arboviroses urbanas 33
+Ausência de sintomas em pacientes
+com arboviroses urbanas
+{ Dengue: os assintomáticos correspondem a 40 a 60%
+do total de infectados.
+{ Chikungunya: os assintomáticos são menos frequentes,
+chegando a apenas 20% (ou seja, 4 de cada 5 pessoas in-
+fectadas têm os sintomas)
+{ Zika: a taxa de assintomáticos é de 80% (a cada 5 pessoas
+infectadas, apenas uma fica doente)
+Há também variações no período de incubação17 de cada vírus no homem, ou seja, o intervalo
+de tempo entre a infecção e o aparecimento dos sintomas.
+Tempo de incubação dos vírus
+{ Dengue: 4 a 10 dias
+{ Chikungunya: 1 a 12 dias
+{ Zika: 2 a 7 dias
+Entre as três principais arboviroses urbanas atuais, a dengue tem uma particularidade: existem
+quatro sorotipos do vírus (chamados DENV-1, DENV-2, DENV-3 e DENV-4). Eles correspondem
+a pequenas variações na estrutura do vírus18 e todos eles circulam no Brasil.
+O sorotipo de cada caso não altera o tratamento e a abordagem clínica do paciente, mas
+existe um impacto importante no que se refere à imunidade adquirida depois da infecção: a
+pessoa está protegida de forma permanente apenas contra o sorotipo específico que originou
+a infecção. A proteção contra os outros sorotipos é temporária e parcial. Ou seja, uma pessoa
+pode ter dengue até quatro vezes na vida.
+17 Também chamado de período de incubação intrínseco (PII).
+18 Dentro de cada sorotipo podem ocorrer variações sutis do material genético do vírus, que são chamadas de genótipos. Qualquer sorotipo do vírus
+dengue pode ter genótipos mais ou menos “agressivos”, ou seja, associados a sintomas de maior ou menor gravidade, mesmo em pacientes com
+infecção primária.
+34 Arboviroses na prática: guia rápido para profissionais de saúde
+A classificação dos casos de dengue mudou: hoje, é baseada em critérios
+clínicos, e não mais em laudos laboratoriais. Com isso, é possível acom-
+panhar a evolução das manifestações de forma dinâmica e intervir
+mais precocemente. O termo “dengue hemorrágica” não é mais utilizado:
+as infecções sintomáticas são classificadas em “com” ou “sem” sinais
+de alarme, e há também a categoria “dengue grave”.
+A situação para Zika e chikungunya19 é mais simples: só há um sorotipo para cada um desses
+vírus. Como estão circulando há bem menos tempo entre as pessoas quando comparados com o
+vírus dengue, é necessário continuar investigando o tempo de imunidade relacionado a eles. As
+evidências acumuladas até o momento indicam que, aparentemente, a infecção provoca imunida-
+de permanente. Isso significa que, em princípio, só se contrai Zika ou chikungunya uma vez na vida.
+É muito importante estar alerta aos sintomas para que estas arboviroses sejam diagnosticadas
+no início. São doenças de progressão rápida e, embora de maneira geral a maior parte dos
+casos evolua de forma satisfatória, se não forem detectados e tratados logo, podem se agravar
+e até mesmo resultar em morte.
+Vale lembrar que pessoas de qualquer idade podem ser acometidas por essas arboviroses e
+apresentar manifestações clínicas. No entanto, idosos e pessoas com doenças crônicas (co-
+morbidades) têm risco aumentado de desenvolver quadros graves.
+Notificação compulsória de casos
+No Brasil, as três arboviroses urbanas são doenças de
+notificação compulsória. Isto significa que os gestores
+de saúde, de todos os níveis, precisam informar os casos
+suspeitos de arboviroses em sua região.20
+{ Dengue, Zika (exceto gestantes) e chikungunya:
+notificações semanais
+{ Zika em gestantes: notificação imediata (até 24 horas)
+{ Óbitos suspeitos para dengue, Zika ou chikungunya:
+notificação imediata (até 24 horas)
+19 Embora cada um tenha apenas um sorotipo, os vírus Zika e chikungunya também apresentam vários genótipos (resultantes de pequenas variações
+no material genético do vírus).
+20 Os prazos são especificados em portaria do Ministério da Saúde. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/z/zi-
+ka-virus/publicacoes/portaria-de-consolidacao-no-4-de-28-de-setembro-de-2017.pdf
+Sintomas, manifestações e manejo clínico das arboviroses urbanas 35
+As confirmações laboratoriais são necessárias para confirmar os pri-
+meiros casos suspeitos de uma área. Porém, durante uma epidemia já
+estabelecida, a confirmação de casos suspeitos pode ser feita por cri-
+térios clínicos, sem necessidade de confirmação por exames laborato-
+riais. Isso agiliza o manejo dos pacientes.
+Um dos desafios nos serviços de saúde é o fato de que alguns sintomas das arboviroses
+urbanas não são específicos, o que pode confundir o diagnóstico.
+Principais manifestações das arboviroses urbanas
+DENGUE CHIKUNGUNYA ZIKA
+Febre alta, dor no corpo Dores e inchaços nas Manchas vermelhas na pele,
+e atrás dos olhos, articulações dos pés, coceira, febre leve,
+fraqueza e vômitos mãos, tornozelos dores musculares ou
+e pulsos nas articulações
+Não existe tratamento específico para dengue, Zika ou chikungunya. De maneira geral, entre
+as principais recomendações estão o repouso e a ingestão de líquidos.
+No caso de infecção por Zika, a apreensão recai sobre a associação do vírus com complicações
+neurológicas (como a síndrome de Guillain-Barré) e, em gestantes, com a ocorrência de Sín-
+drome Congênita do vírus Zika (SCZ).
+Já em relação à infecção por chikungunya, a principal característica é a dor intensa nas arti-
+culações (artralgia). É frequente que esta dor perdure por até três meses e, em mais da meta-
+de dos pacientes, torna-se crônica, permanecendo por anos. A chikungunya é uma doença com
+potencial de evoluir para formas graves e mesmo óbitos.
+36 Arboviroses na prática: guia rápido para profissionais de saúde
+i
+Fontes para informação detalhada
+Dengue:
+Informações oficiais do Ministério da Saúde
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue
+Manual de enfermagem
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/dengue/dengue_manual_enfermagem.pdf/view
+Manual sobre diagnóstico e manejo clínico da
+doença em adultos e crianças.
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/dengue/dengue-manejo-adulto-crianca-5d-1.pdf/view
+Orientações sobre classificação de risco e
+manejo do paciente
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/dengue/dengue_classificacao_risco_manejo_paciente.pdf/view
+Informações da Organização Pan-americana
+da Saúde (OPAS)
+https://www.paho.org/pt/topicos/dengue
+Zika
+Informações oficiais do Ministério da Saúde
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/z/zika-virus
+Informações oficiais do Ministério da Saúde
+sobre Síndrome Congênita do vírus Zika (SCZ)
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/scz
+Sintomas, manifestações e manejo clínico das arboviroses urbanas 37
+Principais causas de morte dos casos confirmados
+para síndrome congênita pelo vírus Zika no Brasil
+(2015-2020)*
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/
+vigilancia/saude_brasil_2020_2021_situacao_saude_web.pdf/view
+* Disponível na página 89 do documento “Saúde Brasil 2020-2021 - Uma análise da situação de saúde e da quali-
+dade da informação”
+Situação epidemiológica da síndrome congênita
+associada à infecção pelo vírus Zika (2015-2022)
+http://plataforma.saude.gov.br/anomalias-congenitas/boletim-epi-
+demiologico-SVS-35-2022.pdf
+Informações da Organização Pan-americana da
+Saúde (OPAS)
+https://www.paho.org/pt/topicos/zika
+Chikungunya
+- Informações oficiais do Ministério da Saúde
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/chikungunya
+- Orientações sobre manejo clínico
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/chikungunya/chikungunya_manejo_clinico_2017.pdf/view
+38 Arboviroses na prática: guia rápido para profissionais de saúde
+As manifestações clínicas da dengue variam muito, desde formas assin-
+tomáticas até quadros graves, que podem resultar em óbito. Entre as cau-
+sas da gravidade da dengue estão fatores particulares de cada pessoa e
+fatores do vírus.
+Ha indícios de que uma segunda infecção por dengue (sempre por um sorotipo diferente da
+infecção primária) pode ser mais grave. Uma das causas deste fenômeno é que os anticorpos
+produzidos contra o primeiro sorotipo são capazes de se ligar aos vírus de um sorotipo diferen-
+te, mas são menos eficientes, e incapazes de neutralizá-los. Normalmente, os anticorpos con-
+duzem o vírus neutralizado para as células de defesa, onde é destruído. No entanto, se o vírus
+não tiver sido neutralizado, ele será capaz de se multiplicar nas células de defesa.
+Na prática, as células de defesa são justamente os locais onde o vírus dengue se multiplica.
+Portanto, uma infecção secundária pode ser mais grave porque os anticorpos existentes contra
+o sorotipo da primeira infecção não são capazes de neutralizar o segundo sorotipo e, além
+disso, conduzem as partículas do vírus precisamente para seu lugar de replicação natural – ou
+seja: os anticorpos existentes acabam favorecendo o aumento da quantidade de vírus e agra-
+vando a infecção.
+Este aspecto da imunidade é fundamental quando pensamos em uma vacina segura contra o
+vírus dengue, já que precisa ser capaz de induzir, na pessoa vacinada, a produção de anticorpos,
+e outros mecanismos de defesa, em quantidade e especificidade suficientes para proteger
+contra os quatro sorotipos do vírus.
+Para o vírus da febre amarela existe uma vacina segura, eficaz e acessível no sistema de
+saúde pública. Disponível desde 1937, é uma das vacinas mais eficientes de que se tem notícia:
+confere mais de 98% de proteção duradoura com apenas uma dose.
+Há esforços científicos dentro e fora do Brasil para desenvolvimento de
+vacinas capazes de proteger as pessoas contra a dengue. Atualmente, no
+Brasil já existe uma vacina aprovada pela Agência Nacional de Vigilância
+Sanitária (ANVISA), disponível em clínicas privadas e sob análise para
+possível incorporação no Programa Nacional de Imunicações (PNI), como
+parte do calendário vacinal associado ao SUS. No entanto, ainda que uma
+vacina para dengue seja implementada em larga escala, permanece o
+desafio de controle do vetor: afinal, o ciclo de transmissão de outras ar-
+boviroses por Ae. aegypti não seria alterado.
+Sintomas, manifestações e manejo clínico das arboviroses urbanas 39
+Capítulo 6.
+RESPOSTA DAS
+DIVERSAS ESFERAS
+DA SAÚDE às
+arboviroses urbanas
+Dengue, Zika e chikungunya são arboviroses de notificação obrigatória no país.
+A circulação (muitas vezes simultânea) desses vírus em várias regiões é um
+desafio para o SUS: exige que a rede de atenção à saúde esteja organizada e
+integrada, contemplando a vigilância, a atenção primária e a rede especia-
+lizada para cuidado de casos graves.
+Uma vez que estas arboviroses ultrapassam não apenas limites terri-
+toriais, mas também administrativos, é necessário alinhamento
+dos três níveis de gestão – nacional, estadual e municipal, base
+de articulação do SUS.
+Tendo em vista a complexidade da questão de saúde pública
+imposta pelas arboviroses, é importante que diferentes seto-
+res estejam integrados, na saúde e em outras esferas, garan-
+tindo agilidade e sustentabilidade para as iniciativas de preven-
+ção, vigilância, controle e resposta. Isso inclui áreas e serviços
+40 Arboviroses na prática: guia rápido para profissionais de saúde
+de gestão, saneamento, assistência, transportes, segurança,
+comunicação, educação, ciência e tecnologia, entre outros.
+A partir da experiência acumulada de décadas, hoje o
+Brasil conta com um plano de contingência específico
+para responder a emergências relacionadas às arbo-
+virses urbanas. Trata-se de documento de referência,
+RESPOSTA DAS
+a ser adotado no âmbito do SUS, com o objetivo de
+conter a transmissão e reduzir os casos graves. Este
+plano de contingência deve ser usado como base para
+DIVERSAS ESFERAS o planejamento local da resposta a cenários específicos,
+levando em conta a gravidade da situação e os contextos
+socioambientais.
+DA SAÚDE às São preconizadas ações preparatórias nos períodos não epidêmicos, no sentido de estabe-
+lecer condições adequadas de monitoramento, prevenção e controle. O foco é qualificar a
+resposta nos períodos epidêmicos, de maior transmissão. O Plano também orienta sobre a
+arboviroses urbanas estruturação de Sala de Situação para resposta a novos cenários de doenças.
+i
+Fontes para informação detalhada
+Plano de contingência para resposta às emergências
+em saúde pública por dengue, chikungunya e Zika
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/dengue/plano-de-contingencia-para-resposta-as-emergencias-
+-em-saude-publica-por-dengue-chikungunya-e-zika/view
+Diretrizes para a organização dos serviços de
+atenção à saúde em situação de aumento de casos
+ou de epidemia por arboviroses
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/chikungunya/diretrizes-para-a-organizacao-dos-servicos-de-a-
+tencao-a-saude-em-situacao-de-aumento-de-casos-ou-de-epidemia-
+-por-arboviroses
+Painel de monitoramento de casos de arboviroses
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/aedes-ae-
+gypti/monitoramento-das-arboviroses
+Resposta das diversas esferas da saúde às arboviroses urbanas 41
+Capítulo 7.
+SOBRE A
+Febre Amarela
+O vírus da febre amarela é um Flavivírus, da mesma família dos vírus dengue e Zika. Possui
+apenas um sorotipo. É endêmico na África e nas Américas do Sul e Central. Em muitas áreas
+silvestres do Brasil, está em circulação permanente, em um ciclo que envolve macacos (“pri-
+matas não humanos”), sendo transmitido por mosquitos dos gêneros Sabethes e Haemagogus.
+O homem se infecta apenas acidentalmente, quando picado por mosquitos em ambientes
+de mata onde o vírus está em circulação. No entanto, durante décadas o vírus da febre amare-
+la foi transmitido também em ambiente urbano – neste caso, tendo o mosquito Aedes aegypti
+como vetor.
+Do ponto de vista clínico, as formas silvestre e urbana da
+febre amarela são a mesma doença, provocada pelo
+mesmo vírus. A diferença reside na especificidade
+dos mosquitos transmissores, de acordo com o
+ambiente.
+A primeira epidemia de febre amarela urbana
+no país data de 1850, sucedida por diversos
+eventos nos anos seguintes. Foi considerada
+um flagelo nacional, tendo mobilizado muitos
+profissionais, de várias áreas, em um esforço
+de erradicação da doença e de Ae. aegypti.
+Desde 1942 não há mais registros de febre
+amarela urbana no Brasil. Os últimos casos
+se localizaram no Acre e não há mais trans-
+missão de febre amarela por Ae. aegypti no país.
+42 Arboviroses na prática: guia rápido para profissionais de saúde
+Ocorre que o vírus não desapareceu: continua circulando em áreas de floresta. Ocasionalmen-
+te são observados surtos localizados, principalmente entre dezembro e maio, o período mais
+quente do ano. Entre 1960 e 2015, um intervalo de 55 anos, foram registrados 1150 casos e 407
+óbitos por febre amarela.
+No entanto, entre 2016 e 2018, um período de 2 anos apenas, houve um grande surto no país:
+foram mais de 2 mil casos e aproximadamente 700 mortes. Este surto foi precedido e acom-
+panhado por mortes de macacos, muito sensíveis ao vírus da febre amarela, e expandiu a área
+histórica de transmissão. Começou na Região Norte e se deslocou em direção ao sul, nas regiões
+mais densamente povoadas – e mais urbanizadas – do Sudeste. Identificou-se também que o
+vírus circulante neste período recente acumulou várias modificações em sua estrutura – o que,
+embora não impacte a eficácia da vacina, pode estar associado a uma replicação mais eficiente.
+Houve grande apreensão em relação ao risco de reurbanização da febre amarela, dado o po-
+tencial de Ae. aegypti voltar a transmitir este vírus – o que, felizmente, não se concretizou.
+Os transmissores silvestres
+Espécies de mosquitos dos gêneros Haema-
+gogus e Sabethes podem transmitir o vírus da
+febre amarela. Todos são diurnos, ativos nas
+horas mais quentes do dia, e fazem a postura
+de seus ovos em buracos e ocos nos troncos
+de árvores. Vivem na copa das árvores, assim
+como os macacos, que picam com frequência.
+São bastante longevos.
+O gênero Haemagogus, que tem aparência se-
+melhante ao Aedes, é o principal transmissor.
+Assim como Aedes, a fêmea deposita seus ovos
+na parede do criadouro, perto da lâmina de água
+(porém, enquanto as fêmeas de Aedes escolhem
+recipientes artificiais, as fêmeas de Haemagogus
+preferem criadouros naturais). Os ovos resistem
+ao seco, embora não tanto quanto os de Aedes.
+Por vezes, necessitam ser recobertos de água Sabethes e Haemagogus
+CRÉDITO: JOSUÉ DAMACENA/IOC/FIOCRUZ
+várias vezes, antes de eclodir.
+Enquanto Haemagogus podem ser encontrados na periferia das florestas (e eventualmente
+voar através de áreas descampadas, no deslocamento entre um fragmento de mata e outro,
+possivelmente atravessando o terreno de moradias humanas), os mosquitos do gênero Sabe-
+thes são estritamente silvestres. Eles são menos relevantes no ciclo da doença no cenário
+epidemiológico do país – por isso, são chamados transmissores “secundários” da febre amarela.
+Sobre a Febre Amarela 43
+Os adultos têm corpo com aparência metálica
+Principais
+e possuem estruturas parecidas com remos
+manifestações
+nas patas. A fêmea faz a postura diretamente
+sobre a água e seus ovos não sobrevivem em iniciais da
+ambientes secos.
+FEBRE AMARELA
+Febre repentina, dor de cabeça,
+Sintomas e tratamento
+dor no corpo, náusea, perda de apetite
+Os sintomas iniciais da febre amarela são febre
+de início rápido, dores de cabeça e no corpo,
+além de perda de apetite e náuseas. Estes sin-
+tomas duram de três a quatro dias e desaparecem.
+No entanto, em aproximadamente 15% das
+pessoas, depois de um dia sem sintomas, a
+febre alta pode reaparecer, acompanhada
+de icterícia (pele amarelada, assim como a
+parte branca dos olhos, daí seu nome). As
+manifestações podem incluir hemorragias,
+urina escura, dores abdominais e vômitos. Em
+geral, de 20 a 50% dos casos graves não re-
+sistem e morrem, em um processo rápido, de
+sete a 10 dias.
+Não há tratamento específico para os casos graves de febre amarela, que se
+baseia em repouso, reposição de líquidos e de perdas de sangue. Embora a
+febre amarela se confunda com outras doenças, o diagnóstico precoce é im-
+portante para aumentar as chances de sucesso no tratamento.
+Macacos sentinela e notificação
+A febre amarela é uma doença de notificação compulsória e imediata
+(em até 24 horas). A notificação deve ser feita também quando forem
+encontrados macacos doentes ou mortos, em todo o território nacional.
+A morte de macacos em determinada região geralmente é um fator
+de alerta: estes animais são adotados como “sentinelas” para identificar áreas onde pode
+haver circulação do vírus. O Brasil é pioneiro na vigilância de mortes de macacos. Desde 1999,
+quando ocorreu transmissão intensa na Região Centro Oeste, as causas das mortes de maca-
+cos são investigadas e servem como alerta para o cuidado com as pessoas.
+44 Arboviroses na prática: guia rápido para profissionais de saúde
+É fundamental lembrar que macacos não transmitem a febre amarela.
+Além de ser um crime ambiental, a violência contra macacos prejudica o
+controle da doença: quando o alto das árvores deixa de ser habitado por
+macacos, os mosquitos Haemagogus e Sabethes passam a voar mais baixo
+na busca por outras fontes de alimento, o que aumenta o risco de infecção
+de pessoas que estejam transitando na mata ou em seus arredores.
+Vacina contra febre amarela
+Como ação de resposta às recentes mudanças no cenário epidemiológico do país, desde 2017
+a vacinação contra a febre amarela passou a estar disponível em todo o território nacional.
+O imunizante é eficaz, seguro e gratuito. O Brasil adota o esquema vacinal de apenas uma dose
+durante toda a vida – medida que está de acordo com as recomendações da OMS. Os estudos
+recentes constatam a alta eficácia da vacina e deste esquema de aplicação: mais de 98% das
+pessoas ficam imunizadas por toda a vida contra a doença com apenas uma dose.
+A vacina, que tem efeito 10 dias depois da aplicação, pode ser administrada a partir dos 9 me-
+ses de idade.
+Especificamente no caso da febre amarela, a vacinação é o foco central
+da comunicação diante de cenários em que seja necessário intensificar
+a prevenção. Neste caso, enfatizar a segurança e a gratuidade do imu-
+nizante, bem como seu longo tempo de uso no Brasil e no mundo, são
+estratégias úteis.
+Além da proteção individual, a vacinação também protege a coletividade na
+medida em que contribui para reduzir a circulação do vírus. A OPAS reco-
+menda cobertura vacinal de 95% em áreas de risco para febre amarela.
+A vacina contra febre amarela pode produzir alguns efeitos adversos, principalmente para quem
+tem alergia ao ovo, usado na produção do imunizante. Os relatos de efeitos secundários graves
+da vacina são raros, da ordem de 1 a cada 400 mil doses aplicadas. É um risco muito baixo
+quando se leva em conta que a mortalidade dos casos graves de febre amarela chega a 50%.
+Sobre a Febre Amarela 45
+Vários países exigem o certificado de vacinação contra febre amarela
+para entrada em seu território, principalmente de viajantes provenientes
+de áreas onde o vírus é endêmico.
+i
+Fontes para informação detalhada
+Informações oficiais do Ministério da Saúde
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-
+-amarela
+Manual de manejo clínico
+https://bvsms.saude.gov.br/bvs/publicacoes/manual_manejo_cli-
+nico_febre_amarela.pdf
+Plano de Contingência para Resposta às
+Emergências em Saúde Pública - Febre Amarela
+(2021)
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-
+-amarela/publicacoes/plano_contingencia_emergencias_febre_ama-
+rela_2_ed.pdf/view
+Guia de Vigilância de Epizootias em Primatas Não
+Humanos e Entomologia Aplicada à Vigilância da
+Febre Amarela
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-
+-amarela/publicacoes/guia_vigilancia_epizootias_primatas_ento-
+mologia.pdf/view
+Febre amarela no século XXI: processos endêmico-
+epidêmicos e perspectivas para a vigilância e
+resposta no Brasil*
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+cartilhas/2021/saude_brasil_2020_2021.pdf/view
+* Disponível na página 199 da publicação “Saúde Brasil 2020-2021 – uma análise da Situação de Saúde e da
+qualidade da informação”
+Informações da Organização Pan-americana da
+Saúde (OPAS)
+https://www.paho.org/pt/topicos/febre-amarela
+46 Arboviroses na prática: guia rápido para profissionais de saúde
+Capítulo 8.
+SOBRE a Malária
+A malária é uma doença causada por organismos totalmente diferentes dos arbovírus: são
+protozoários do gênero Plasmodium. Embora sejam constituídos por uma célula apenas (ou
+seja, são unicelulares), estes organismos são muito mais complexos que os vírus, o que dificul-
+ta o desenvolvimento de formas de tratamento ou de prevenção que sejam específicas para a
+doença, como um medicamento ou uma vacina.
+No Brasil, a maior parte dos casos de malária está relacionada a duas espécies de Plasmodium:
+Plasmodium vivax, que compreende a maioria dos casos, e Plasmodium falciparum, que provo-
+ca manifestações clínicas mais graves. Também ocorre, em menor quantidade, malária deriva-
+da de infecção por Plasmodium malariae.
+Os mosquitos que transmitem os parasitos causadores da
+malária pertencem ao gênero Anopheles. São conhe-
+cidos como mosquitos-prego, por causa da forma
+como pousam nas superfícies. No Brasil, a malá-
+ria acontece principalmente em áreas rurais e
+na periferia de áreas urbanas, sobretudo em
+ambientes ocupados de forma precária. Na
+Região Amazônica, a ausência (total ou par-
+cial) de paredes nas casas, além do hábito
+de manter grande parte do corpo descoberto,
+em função do calor, contribuem para a trans-
+missão sustentada de malária.
+Os anofelinos são muito diferentes dos mos-
+quitos Aedes. Acredita-se que, na linha evolutiva
+dos insetos, eles tenham se separado há mais de
+200 milhões de anos – a título de comparação, des-
+de a época em que surgiram os dinossauros e também
+os primeiros mamíferos.
+Sobre a Malária 47
+Histórico
+A malária provavelmente chegou ao Brasil com o tráfico de pessoas escravizadas, na época
+colonial. No entanto, a descoberta de que essa doença é provocada por um parasito transmi-
+tido por mosquitos ocorreu apenas no século XIX.
+O nome “malária” deriva da fusão das palavras “mala” e “aria”, o mesmo que
+“ar ruim” em italiano. Desde a antiguidade, a malária é relacionada ao
+cheiro ruim do ar dos pântanos. Aliás, malária também é conhecida como
+“paludismo”, que vem de “pântano” em italiano (“palude”).
+No início da década de 1930, foram identificadas larvas do mosquito africano Anopheles gambiae
+no Nordeste do Brasil, mais precisamente em Natal (Rio Grande do Norte). Esta espécie tem origem
+na África, onde é um vetor extremamente eficiente. De fato, a maior parte dos casos de malária no
+mundo está concentrada na África, principalmente na região abaixo do deserto do Saara.
+Logo depois da detecção de An. gambiae em Natal houve um surto de malária com milhares
+de casos. Ainda que o surto tenha sido rapidamente contido, na época os criadouros foram
+combatidos, mas não eliminados.
+Por alguns anos, o mosquito se espalhou silenciosamente ao longo da costa do Nordeste, até que, em
+1938, provocou a maior epidemia de malária de que se tem notícia até hoje no continente americano.
+Houve intensa mobilização, que incluiu cooperação do governo brasileiro com a Fundação
+Rockefeller, instituição que já atuava no controle de febre amarela. A partir de medidas rígidas
+e verticalizantes, baseadas na busca e eliminação de criadouros, realizadas por milhares de
+profissionais, em apenas dois anos An. gambiae estava erradicado do país.
+Considera-se que o sucesso na erradicação de An. gambiae do Nordeste
+tenha sido o argumento que “justificou”, até recentemente, as tentativas
+de erradicação de outros vetores (como Aedes aegypti) no país e as condu-
+tas assistencialistas, verticalizadas e com viés eminentemente técnico.
+Situação
+No Brasil, 99% dos casos de malária acontecem na Amazônia, que é endêmica para esta
+doença. Justamente por isso, os profissionais de saúde da região estão alertas: a malária, via
+de regra, é diagnosticada precocemente e os pacientes são rapidamente direcionados para
+tratamento. Assim, em geral, a mortalidade por malária na Amazônia é baixa, em torno de um
+caso a cada 250 pessoas diagnosticadas. Fora da Amazônia, ao contrário, a mortalidade é
+muito maior, podendo ser de quase 1 pessoa a cada 10 acometidos – isto, em parte, por difi-
+culdade dos profissionais de saúde de associar rapidamente os sintomas com a doença, espo-
+rádica nos territórios fora da Amazônia.
+48 Arboviroses na prática: guia rápido para profissionais de saúde
+Os sintomas iniciais da malária podem se confundir com várias outras doenças, incluindo dengue,
+febre amarela, Covid-19, febres hemorrágicas e mesmo doença de Chagas. Em alguns casos, a
+malária pode ainda ser diagnosticada como infecção respiratória, urinária ou até digestiva. Por
+esse motivo, é importante ter diagnóstico laboratorial, que pode confirmar ou descartar a infecção.
+No Brasil, entre os casos que acontecem fora da Região Amazônica, 80% são importados (pes-
+soas que contraíram a doença na própria Região Amazônica ou na África). Existe também
+transmissão autóctone de malária fora da Região Norte, principalmente na Mata Atlântica.
+Um “caso importado” de malária significa infecção em local diferente de
+onde o diagnóstico foi realizado. Ao contrário, um “caso autóctone” apon-
+ta que a infecção ocorreu na mesma área onde a pessoa reside (ou seja,
+aponta que existe transmissão local do Plasmodium).
+Mosquitos transmissores
+Os anofelinos são mosquitos de hábito no-
+turno, geralmente com maior atividade no
+final da tarde e no começo da manhã. A cada
+ciclo de postura (ciclo gonotrófico), deposi-
+tam todos os seus ovos de uma vez só,
+sobre a água. Os ovos desta espécie têm
+estruturas de flutuação responsáveis por
+mantê-los na superfície. Os ovos dos mos-
+quitos anofelinos encontrados no Brasil não
+resistem ao ambiente seco mais do que al-
+gumas horas – situação bem diferente dos
+ovos de Aedes.
+Os anofelinos estão em atividade durante todo
+o ano, mas costumam ser mais abundantes
+no final da estação chuvosa. No Brasil, o prin-
+cipal vetor é a espécie Anopheles darlingi.
+Está presente em quase todo o país, com ex-
+ceção do sul e das áreas secas do Nordeste.
+Na Região Norte, encontra o ambiente ideal para procriar: grandes cursos de água limpa, profunda
+e com pouca correnteza, como lagoas e rios. Também podem habitar açudes e represas. As larvas
+ficam nas margens, escondidas na vegetação.
+Quando adulto, Anopheles darlingi é o anofelino brasileiro com maior contato com o homem
+e que mais se abriga dentro das casas. Em função de sua fisiologia, também é a espécie mais
+envolvida no ciclo de transmissão da malária.
+Sobre a Malária 49
+Há ainda Anopheles aquasalis, que, como o nome sugere, tem preferência por águas salobras.
+Essa espécie está presente em quase toda a costa do Brasil, da Região Norte até a Região
+Sudeste. Anopheles albitarsis é mais um vetor da malária, espalhado em quase todo o país. As
+fêmeas de ambas espécies podem invadir as casas para se alimentar, mas não se abrigam
+nestes ambientes. Preferem se alimentar de animais e repousar em áreas externas. Em geral,
+são transmissores secundários do parasito da malária, especialmente quando ocorre alta den-
+sidade populacional destes mosquitos.
+Finalmente, há alguns outros vetores da malária, também do gênero Anopheles, encontrados
+principalmente na região de Mata Atlântica. Vivem nas copas das árvores e depositam seus
+ovos em criadouros naturais, como bromélias (“gravatás”), geralmente em locais sombreados.
+Oportunistas e versáteis, são conhecidos como transmissores da “malária de bromélias”. A
+principal espécie é Anopheles cruzii, encontrada no litoral, desde o Rio Grande do Sul até o
+Nordeste. É o principal vetor de malária no sul do país. É o único vetor natural de malária de
+macacos no Brasil. Em locais onde está quase que exclusivamente localizado nas copas das
+árvores, transmite malária para macacos. Em locais onde pode ser encontrado tanto nas copas
+das árvores quanto no solo, transmite a infecção também para o homem.
+Sintomas, transmissão,
+Principais manifestações
+diagnóstico e tratamento
+iniciais da
+Em geral, as primeiras manifestações de ma-
+lária acontecem pelo menos uma semana de- MALÁRIA
+pois da picada por uma fêmea de mosquito Febre, calafrios,
+infectiva (este período pode ser mais longo, náusea, suor, dor de cabeça
+chegando a até 30 dias, dependendo da espé-
+cie de plasmódio). Não ocorre transmissão
+direta entre pessoas, porém existem relatos de
+infecção por transfusão sanguínea, congênita
+ou por meio de compartilhamento de seringas
+contaminadas.
+Os sintomas mais comuns da malária são fe- A febre
+contínua é
+bre alta, que pode vir acompanhada por cala- substituída
+frios e tremores, além de suor e dor de cabe- por episódios
+de febre com
+ça. Também são frequentes, inicialmente, intervalos
+sintomas como náusea, cansaço e falta de
+apetite. Em um primeiro momento, a febre é
+contínua, mas depois pode acontecer com in-
+50 Arboviroses na prática: guia rápido para profissionais de saúde
+tervalos (a cada dois dias, no caso de P. vivax e P. falciparum, ou a cada três dias, no caso de
+infecção por P. malariae). Em áreas endêmicas, pode acontecer o quadro conhecido como
+malária mista, quando uma pessoa é infectada por mais de uma espécie de plasmódio simul-
+taneamente (o que pode ter impacto na manifestação dos sintomas).
+A evolução do paciente para o quadro de malária grave é caracterizada por sintomas que in-
+cluem alteração de consciência, prostração, convulsões e hemorragias, entre outros. Uma
+parte das infecções por P. falciparum pode evoluir para malária cerebral.
+Uma pessoa pode adoecer por malária diversas vezes, já que a imunidade
+obtida a partir de uma infecção não é duradoura. Ao longo do tempo,
+quem vive em áreas endêmicas adquire imunidade parcial contra a in-
+fecção, ficando protegido em relação a manifestações graves. No entanto,
+se esta pessoa se desloca para regiões não endêmicas por períodos pro-
+longados, a imunidade pode não ser mantida.
+O diagnóstico da infecção por malária depende da identificação do parasito no sangue do
+paciente. O tratamento pode garantir a cura se realizado precocemente e de forma corre-
+ta. A hospitalização acontece apenas em pacientes graves. Para a maior parte dos casos, o
+tratamento é ambulatorial e depende de fatores como a espécie do plasmódio e condições
+do paciente, como peso, idade e outras questões de saúde. O SUS fornece a medicação
+usada no tratamento. Além do cuidado com o paciente, um dos objetivos do tratamento é
+a redução das formas do parasito que infectam o mosquito, de forma a interromper a
+cadeia de transmissão.
+Prevenção
+Nas áreas endêmicas, em que a transmissão
+está estabelecida, as medidas de proteção
+individual procuram impedir o contato com
+o mosquito transmissor: uso de roupas
+com calças e mangas compridas, além
+de repelentes. Dentro das moradias, a re-
+comendação é de instalação de telas em
+portas e janelas, além de mosquiteiros so-
+bre as camas, já que a maior atividade dos
+anofelinos acontece durante a noite.
+Sobre a Malária 51
+Não há vacina contra a malária disponível no Brasil. De acordo com o
+Ministério da Saúde, cerca de 90% dos casos da doença é associada ao
+Plasmodium vivax e não há previsão de vacina eficaz para esta espécie.
+As medidas de proteção coletiva incluem a borrifação de inseticidas específicos dentro das
+casas e a distribuição de mosquiteiros impregnados com inseticidas de longa duração. Porém,
+o Ministério da Saúde também reconhece que, entre as soluções que visam garantir prevenção
+sustentável, estão intervenções sobre a disponibilidade de criadouros, que podem abranger
+obras de saneamento, limpeza das margens de lagos e rios, com controle da vegetação, dre-
+nagem e aterro, além de melhoras tanto das moradias quanto das condições de trabalho.
+i
+Fontes para informação detalhada
+Informações oficiais do Ministério da Saúde
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/malaria
+Orientações sobre tratamento
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
+svsa/malaria/tratamento
+Plano Nacional de Eliminação da Malária
+https://docs.bvsalud.org/biblioref/2022/08/1391228/elimina-ma-
+laria-brasil_plano-nacional-de-eliminacao-da-malaria-1.pdf
+52 Arboviroses na prática: guia rápido para profissionais de saúde
+Referências
+- Consoli, R, Lourenço-de-Oliveira, R. Principais mosquitos de importância sanitária no Brasil. Rio de
+Janeiro: Editora Fiocruz; 1994. 224 p. [https://static.scielo.org/scielobooks/th/pdf/
+consoli-9788575412909.pdf]
+- Lopes G. O feroz mosquito africano no Brasil: o Anopheles gambiae entre o silêncio e a sua
+erradicação (1930-1940). Rio de Janeiro: Editora Fiocruz; 2020. 227p.
+- MS/SVS - Ministério da Saúde/Secretaria de Vigilância em Saúde. II Seminário Internacional para
+avaliações de ações de controle químico de Aedes aegypti no Brasil. Rio de Janeiro: Ministério da
+Saúde/Secretaria de Vigilância em Saúde/Programa Nacional de Controle da Dengue; 2012.
+- Valle D, Aguiar R, Pimenta DN, Ferreira V. Aedes de A a Z. Rio de Janeiro: Editora Fiocruz; 2021. 172
+p. (Coleção temas em saúde).
+- Valle D, Pimenta DN, Cunha RV. Dengue: teorias e práticas. Rio de Janeiro: Editora Fiocruz; 2015. 458 p.
+- Organização Mundial da Saúde. Keeping the vector out: Housing improvements for vector control
+and sustainable development. 2017. Disponível em: https://iris.who.int/bitstream/hand
+le/10665/259404/9789241513166-eng.pdf?sequence=1
+O material de leitura indicado ao longo do livro também foi usado como referência para composição
+dos textos.
+Os infográficos das páginas 19, 24 e 30 foram gentilmente cedidos pela Editora Fiocruz (originalmente
+publicados no livro ‘Aedes de A a Z’, conforme referência acima).
+Referências 53
+
+

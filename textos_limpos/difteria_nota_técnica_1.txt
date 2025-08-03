@@ -1,0 +1,673 @@
+1 Tipo de Notificação
+2 - Individual
+5 Município de Notificação
+6 Unidade de Saúde (ou outra fonte notificadora) 7 Data dos Primeiros Sintomas
+| | | | | | |
+8 Nome do Paciente 9 Data de Nascimento
+| | | | | | |
+2 Agravo/doença Código (CID10) 3 Data da Notificação
+PARALISIA FLÁCIDA AGUDA / POLIOMIELITE A 8 0. 9 | | | | | | |
+4 UF Código (IBGE)
+| | | | | |
+| | | | | |
+10 ( o | u ) I d | ade 1 2 3 4 - - - - D M H An i o ê a o r s a 11 SexoM F I - - - I F g M e n a m o s r i c a n u d in l o in o o 12G 4 1 9 e - - - 1 I s I g d º t n T a a o r d n i r m e a t d e e g o s e t s re ta c io 2 n -2 a º l T I r g im no e r s a t d re a 5 - 3 N - ã 3 o ºT r i m 6 e - s N tre ão se aplica 1 1 4 3 - - B P R r a a r a n d c a ç a a / C 2 5 o - - P I r n r d e í t g a e n a 9 3 - - A Ig m n a o r r e a l d a o
+14Escolaridade
+0-Analfabeto 1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau) 2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª a 8ª série incompleta do EF (antigo ginásio ou 1º grau) 4-Ensino fundamental completo (antigo ginásio ou 1º grau) 5-Ensino médio incompleto (antigo colegial ou 2º grau )
+6-Ensino médio completo (antigo colegial ou 2º grau ) 7-Educação superior incompleta 8-Educação superior completa 9-Ignorado 10- Não se aplica
+15 Número do Cartão SUS 16 Nome da Mãe
+| | | | | | | | | | | | | | |
+17UF 18MMuunniiccííppiioo ddee RReessiiddêênncciiaa CCóóddiiggoo ((IIBBGGEE)) 19 Distrito
+| || || || || ||
+20 Bairro 2211Logradouro (rua, avenida etc.) Código
+|| || || || ||
+22 Número 23Complemento (apto., casa etc.) 24Geo Campo 1
+25 Geo Campo 2 26 Ponto de Referência 27 CEP
+| | | | - | |
+28 (DDD) Telefone 29 Zona 30País (se residente fora do Brasil)
+1 - Urbana 2 - Rural
+3 - Periurbana 9 - Ignorado
+31 Data da 1ª Consulta
+| | | || | | |
+35 Data da Última Dose da Vacina
+| | | | | | |
+Sinan NET SVS 19/12/2006
+96 GUIA RÁPIDO PFA/POLIOMIELITE
+).tnoC(socinílCsodaD
+49 Reflexo Cutâneo-Plantar 1 - Sim 2 - Não 9 - Ignorado 50 Sinais de Irritação Meníngea
+51 Contato ou Ingestão de Substâncias 1 - Sim 52 Caso Afirmativo, Especifique (Preenchimento apenas na ficha)
+Tóxicas (Agrotóxicos, Chumbo, 2 - Não
+Mercúrio, Medicamentos) 9 - Ignorado
+53 História de Injeção Intramuscular Local de Aplicação
+1 - Sim 2 - Não 9 - Ignorado
+-idnetA otnem
+56Ocorreu Hospitalização 57 Data da Internação
+| | | | | | |
+60 Data da Coleta 61 Nível Local para o Estadual 62 Nível Estadual para o LRR
+| | | | | | | | | | | | | | | | | | | | |
+63Data do Recebimento no LRR 65 Data do Resultado
+| | | | | | | | | | | | | |
+1-Ausente 2-Presente 9-Ignorado
+1-MIE 2-MSE 3-MID 4-MSD 5-Glúteo E 6-Glúteo D
+55 Hipótese Diagnóstica
+(Vide Tabela Anexa) 1-Sim 2-Não 9-Ignorado
+58 UF 59 Município do Hospital
+64Quantidade Condições 66
+1 - Suficiente 1 - Temperatura Adequada 2 - Insuficiente 2 - Temperatura Alterada
+67 Resultado
+1- P1 Vacinal 2- P2 Vacinal 3 - P3 Vacinal 4 -P1 Selvagem 5 - P2 Selvagem 6 - P3 Selvagem
+7 - Negativo 8- Não Pólio 9- Outros 10- Inconclusivo 11- PVDV1 12- PVDV2 13- PVDV3
+68 Exames Complementares
+Data da Coleta Nº de Células/mm Linfócitos % Proteínas mg% Glicose mg% Cloreto mg%
+/ /
+/ /
+69 Data da Realização 70 Diagnóstico Sugestivo de (tabela anexa)
+| | | | | | |
+71 Coletado Material Anatomopatológico? 1 - Sim 72 Data da Coleta 73 Resultado
+2 - Não
+Cérebro Medula Intestino 9 - Ignorado 1 - Compatível com poliomielite
+| | | | | | | 2 - Não compatível com poliomielite
+74 Data da Revisita
+| | | | | | |
+PFA/Poliomielite
+)atisiver(osaCodoãçulovE
+77 Reflexos 1-Diminuído 2-Ausente 3-Normal 4- Aumentado 9-Ignorado
+78 Reflexo Cutâneo Plantar 1 - Sim 2 - Não 9 - Ignorado 79 Atrofia 1 - Presente 2 - Ausente 9 - Ignorado
+80 Sensibilidade 1-Diminuída 2-Ausente 3-Normal 4-Parestesia 5-Prejudicada 9-Ignorado
+81 Data da Revisão
+| | | | | | | oãsulcnoC
+82 Classificação Final
+1-Confirmado Poliovírus Selvagem 2-Compatível
+3-Associado à vacina 4-Descartado 5-Confirmado PVDV
+86 Data do Óbito 87 Data do Encerramento
+| | | | | | | | | | | | | |
+Código (IBGE)
+| | | | |
+75 Força Muscular 76 Tônus Muscular 1-Diminuído
+11--DDiimmiinnuuííddaa 2-Ausente
+MIE MSE 22--AAuusseennttee MIE MSE MID MSD 3-Normal
+33--NNoorrmmaall Musc. Cervical Face 4- Aumentado
+MID MSD 99--IIggnnoorraaddoo 9-Ignorado
+83 Critério de Classificação
+1-Laboratorial 2-Clínico Epidemiólogico
+3-Perda de Seguimento 4-Óbito 5-Evolução
+84 Diagnóstico do Caso Descartado 85 Evolução
+(vide tabela em anexo) 1-Cura com sequela 2-Cura sem sequela
+3-Óbito por PFA/Pólio 4-Óbito por outras causas 9-Ignorado
+Município/Unidade de Saúde Cód. da Unid. de Saúde
+| | | | | |
+Sinan NET SVS 19/12/2006
+CAPÍTULO 7:
+98 GUIA RÁPIDO TÉTANO
+7.1 FLUXOGRAMA DO TÉTANO ACIDENTAL
+Todo paciente acima de 28 dias de vida que apresenta um ou mais dos seguintes sinais/sintomas: disfagia,
+trismo, riso sardônico, opistótono, contraturas musculares localizadas ou generalizadas, com ou sem espasmos,
+independentemente da situação vacinal, história prévia de tétano e de detecção ou não de solução de continuidade de
+pele ou mucosa.
+Confirmação do Caso:
+para Tétano Acidental. A lucidez do paciente reforça o diagnóstico.
+Serviço de Saúde Municipal Vigilância Epidemiológica municipal investigar em 48 horas e
+encerrar Ficha de Investigação Epidemiológica até 60 dias.
+Formas moderadas e graves Tratar preferencialmente em UTI.
+Tratar em Unidade de Terapia Intensiva (UTI). Podem ser tratados em quarto individual com
+monitoramento contínuo.
+Medidas Gerais:
+• Sedar o paciente antes de qualquer procedimento e manipular o menos possível;
+• Garantir a assistência multiprofissional e especializada. Se necessário, oxigênio e suporte ventilatório;
+• Verificar histórico vacinal e completar o esquema se necessário, e orientar seus familiares;
+• Administrar Soro Antitetânico (SAT) e ou Imunoglobulina Humana Antitetânica (IGHAT) conforme indicado;
+• Administrar (SAT ou IGHAT) o mais breve possível, exclusivamente em ambiente hospitalar;
+• Debridamento e retirada de corpo estranho deverá ser de uma a seis horas após administração de (SAT ou IGHAT);
+• Limpar local com água e sabão ou soro fisiológico;
+• Realizar assepsia com água oxigenada ou solução de permanganato de potássio a 1:5000.
+• Em caso de ferimento puntiforme profundo, abrir em cruz e lavar em abundância com solução antisséptica (álcool a
+70%, clorexidina ou solução de permanganato de potássio a 1:5000).
+Penicilina G Cristalina:
+2.000.000UI/dose EV de 4 em 4 horas, de sete a dez
+dias, ou
+Dose de 20.000 UI para uso terapêutico e 5.000
+UI para uso profilático, IM em duas massas Metronidazol:
+musculares diferentes. Quando EV diluír em soro 500 mg EV - de 8 em 8 horas, de sete a dez dias.
+glicosado 5% lento (dose individualizada).
+Imunoglobulina Humana Antitetânica* Penicilina G Cristalina:
+Dose de 250 UI somente IM em duas massas 50.000 a 100.000UI/Kg/dia EV - 4/4 h de 7 a 10 dias ou
+musculares diferentes.
+Metronidazol (500 mg):
+7,5 mg EV - 8/8h de 7 a 10 dias.
+Obs: *A posologia deve ser individualizada e a critério médico. Trabalhos recentes
+mostram que a dose de 250 UI é tão eficaz quanto doses maiores.
+7.2 PERÍODO DE INCUBAÇÃO E CLASSIFICAÇÃO
+Identificar o foco tetânico é fundamental para estabelecer o período de incubação e progressão da doença.
+Período de Incubação*
+10 dias 7 dias 4 dias
+(PI)
+Período de Progressão**
+24 horas 12-24 horas 12 horas
+(PP)
+1-5/dias 60-80/dias 200/dias
+- Frequência
++ ++ +++
+- Intensidade
++ ++ +++
+- Duração
+* Período de incubação (PI): Tempo entre o possível ferimento/foco tetânico e o aparecimento do primeiro
+sintoma, geralmente o trismo.
+** Período de progressão (PP): O intervalo entre o aparecimento do primeiro sintoma e o do primeiro espasmo.
+7.3 DIAGNÓSTICO DIFERENCIAL DO TÉTANO ACIDENTAL
+Ausência de trismo e hipertonia generalizada, durante os intervalos de espasmo.
+Febre alta desde o início, ausência de trismo, presença sinais de Kernig e Brudzinski,
+cefaleia e vômito.
+Os espasmos são, principalmente, nas extremidades, sinais de Trousseau e Chvostek
+presentes, hipocalcemia e relaxamento muscular entre os paroxismos.
+História de mordedura, arranhadura ou lambedura por animais, convulsão.
+Ausência de trismo, hipersensibilidade cutânea e alterações de comportamento.
+Ausência de ferimentos e espasmos intensos. Quando o paciente se distrai,
+desaparecem os sintomas.
+Podem levar a trismo e hipertonia muscular.
+Dentre as principais entidades que podem causar o trismo, citam-se: abscesso
+DA BOCA E DA FARINGE,
+dentário, periostite alvéolo dentária, erupção viciosa do dente siso, fratura e/ou
+osteomelite de mandíbula, abscesso amigdaliano e/ou retrofaríngeo.
+100 GUIA RÁPIDO TÉTANO
+Pode causar trismo, que é decorrente da artrite temporomandibular, que se instala
+DOENÇA DO SORO após uso de soro heterólogo. Ficam evidenciadas lesões maculopapulares cutâneas,
+hipertrofia ganglionar, comprometimento renal e outras artrites.
+É importante chamar a atenção para as condições que, mesmo excepcionalmente,
+podem figurar no diagnóstico diferencial do tétano, tais como:
+• Osteartrite cervical aguda com rigidez de nuca;
+• Espondilite septicêmica;
+OUTRAS DOENÇAS • Hemorragia retroperitonial;
+• Úlcera péptica perfurada;
+• Outras causas de abdome agudo;
+• Epilepsia;
+• Outras causas de convulsões.
+7.4 HISTÓRIA DE VACINAÇÃO PRÉVIA E CONDUTA FRENTE
+Ferimentos com risco mínimo de Tétano1 Ferimentos com alto risco de Tétano2
+Sim3 Não Sim3 Sim
+Desinfecção:
+Três doses ou mais,
+desinfecção: oxidantes ou
+Três ou mais doses, Lavar com soro antissépticas e
+sendo a última dose Não Não fisiológico e Sim Não4 remover corpos
+há mais de cinco anos substâncias (1 reforço) estranhos e tecidos
+Três ou mais doses, debridar o foco
+com a última dose há Sim Não de infecção Não4
+(1 reforço)
+Três ou mais doses,
+há dez ou mais Sim Não Sim5
+(1 reforço) lavar com água
+1) Ferimentos superficiais limpos, sem corpos estranhos ou tecidos desvitalizados.
+2) Ferimentos profundos ou superficiais sujos; com corpos estranhos ou tecidos desvitalizados; queimaduras; feridas puntiformes ou por
+armas brancas ou de fogo; mordeduras; politraumatismos e fraturas expostas.
+3) Vacinar e aprazar as próximas doses para completar o esquema básico. A vacinação protege contra o risco de tétano futuro. Se o
+profissional que presta o atendimento suspeitar que os cuidados posteriores com o ferimento não serão adequados, deve considerar a
+indicação de imunização passiva com SAT ou IGHAT. Quando indicado o uso de vacina e SAT ou IGHAT, concomitantemente, devem ser
+aplicados em locais diferentes.
+4) Para paciente imunodeprimido, desnutrido grave ou idoso, além do reforço com a vacina, também está indicada IGHAT ou SAT.
+5) Se o profissional que presta o atendimento suspeita que os cuidados posteriores com o ferimento não serão adequados, deve conside-
+rar a indicação de imunização passiva com SAT ou IGHAT. Quando indicado o uso de vacina e SAT ou IGHAT, concomitantemente, devem
+ser aplicadas em locais diferentes.
+intramuscular musculares diferentes.
+IGHAT 250 UI
+(IM), por conter Em grupo muscular diferente do local
+musculares diferentes.
+SAT 5000 UI IM
+Se endovenoso, diluir em soro glicosado
+a 5%, com gotejamento lento.
+7.5 ESQUEMA BÁSICO DE VACINAÇÃO
+VACINA PROTEÇÃO IDADE DOSE/VIA REFORÇO
+1ª Dose
+Difteria 2 meses
+0,5 ml/IM
+Intervalo recomendado Coqueluche 2ª Dose
+entre as doses: Hepatite B 4 meses 0,5 ml/IM
+60 dias, com o mínimo Meningite por
+de 30 dias Haemophilus 3ª Dose
+6 meses
+influenzae b 0,5 ml/IM
+Tétano 15 meses 0,5 ml/IM 1° Reforço
+Tétano 4 anos 0,5 ml/IM 2° Reforço
+A cada 10 anos.
+após o último 0,5 ml/IM
+cada cinco anos.
+dTpa ( Acelular) Gestantes
+Para gestante, a partir da 27ª até Uma dose em
+Tétano 0,5 ml/IM
+mínimo 30 dias a 36ª semana de cada gestação
+102 GUIA RÁPIDO TÉTANO
+| | | | | | | | |
+31 Data da Investigação 32
+| | | || | | |
+33 Possível Causa 34 Local da Lesão
+1 - Injeção 2 - Laceração 3 - Queimadura 4 - Cirúrgica
+5 - Perfuração 6 - Escoriação 7 - Abortamento Séptico
+8 - Outros_________________ 9 - Ignorado
+CASO SUSPEITO: Todo paciente acima de 28 dias de vida que apresenta um ou mais dos seguintes sinais/sintomas: disfagia,
+trismo, riso sardônico, opistótono, contraturas musculares localizadas ou generalizadas, com ou sem espasmos, independentemente
+da situação vacinal, história prévia de tétano e de detecção ou não de solução de continuidade de pele ou mucosa.
+1-Membros Inferiores 2-Membros Superiores 3-Tronco
+4-Cabeça/Pescoço 5-Cavidade Oral 9-Ignorado
+Situação Vacinal (DTP, DT, Dt, TT ou Tetravalente) antes da lesão Profilaxia Pós - Ferimento
+35 Número de Doses Aplicadas 36 Data da Última Dose 37 Tratamento Específico e outras medidas:
+1-Uma 2-Duas 3-Três 4-Três+1 Reforço 1-Soro Antitetânico 2-Imunoglobulina
+5-Três+2 Reforços 6-Nunca Vacinado 9-Ignorado | | | | | | | 3-Vacina 4-Antibiótico 5-Nenhum
+38 Manifestações Clínicas Trismo Riso Sardônico Opistótono 39 Origem do Caso
+1 - Sim Rigidez de Nuca Rigidez Abdominal Rigidez de Membros 1- Notificação
+2 - Não 2- Busca Ativa
+9 - Ignorado Crises de Contraturas Outros:______________________________ 3- Declaração de Óbito
+40 Ocorreu hospitalização 41 Data da Internação 42 UF 43 Município de Hospitalização
+1-Sim 2-Não
+9-Ignorado | | | | | | | |
+44 Medidas de Controle 1 - Sim 2 - Não 9 - Ignorado
+SVS 27/09/2005
+1 Tipo de Notificação
+2 - Individual
+5 Município de Notificação
+6 Unidade de Saúde (ou outra fonte notificadora) 7 Data dos Primeiros Sintomas
+| | | | | | |
+8 Nome do Paciente 9 Data de Nascimento
+| | | | | | |
+2 Agravo/Doença Código (CID10) 3 Data da Notificação
+TÉTANO ACIDENTAL A 3 5 | | | | | | |
+4 UF Código (IBGE)
+| | | | | |
+| | | | | |
+10 ( o | u ) I d | ade 1 2 3 4 - - - - D M H An i o ê a o r s a 11 SexoM F I - - - I F g M e n a m o s r c i a n u d in l o in o o 12G 4 1 9 e - - - 1 I s I g d º t n T a a o r d n i r m e a t d e e g o s e t s re ta c io 2 n -2 a º l T I r g im no e r s a t d re a 5 - 3 N - ã 3 o ºT r i m 6 e - s N tre ão se aplica 1 1 4 3 - - B P R r a a r a n d c a ç a a / C 2 5 o - - P I r n r d e í t g a e n a 3 9 -A - m Ig a n r o e r l a a do
+14Escolaridade
+0-Analfabeto 1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau) 2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª a 8ª série incompleta do EF (antigo ginásio ou 1º grau) 4-Ensino fundamental completo (antigo ginásio ou 1º grau) 5-Ensino médio incompleto (antigo colegial ou 2º grau )
+6-Ensino médio completo (antigo colegial ou 2º grau ) 7-Educação superior incompleta 8-Educação superior completa 9-Ignorado 10- Não se aplica
+15 Número do Cartão SUS 16 Nome da Mãe
+| | | | | | | | | | | | | | |
+17UF 18MMuunniiccííppiioo ddee RReessiiddêênncciiaa CCóóddiiggoo ((IIBBGGEE)) 19 Distrito
+| || || || || ||
+20 Bairro 2211Logradouro (rua, avenida etc.) Código
+|| || || || ||
+22 Número 23Complemento (apto., casa etc.) 24Geo Campo 1
+25 Geo Campo 2 26 Ponto de Referência 27 CEP
+| | | | - | |
+28 (DDD) Telefone 29 Zona 30País (se residente fora do Brasil)
+1 - Urbana 2 - Rural
+| 3 - Periurbana 9 - Ignorado
+Código (IBGE)
+| | | | | |
+45 Classificação Final
+1 - Confirmado 2 - Descartado
+46 Local provável da fonte de infecção
+1-Domicílio 2-Trabalho 3-Via Pública 4-Escola 5-Campo 6-Unidade de Saúde 7-Outro Local 9-Ignorado
+54 Data do Óbito 55 Data do Encerramento
+| | | | | | | | | | | | | |
+47 O caso é autóctone do município de residência? 48 UF 49 País
+1-Sim 2-Não 3-Indeterminado
+50Município Código (IBGE) 51 Distrito 52 Bairro
+| | | | |
+53 Evolução do caso
+1- Cura 2- Óbito por Tétano Acidental
+3-Óbito por Outras Causas 9- Ignorado
+Município/Unidade de Saúde Cód. da Unid. de Saúde
+| | | | | |
+Tétano Acidental Sinan NET SVS 27/09/2005
+1. BRASIL. Ministério da Saúde. Guia de bolso, doenças infecciosas e parasitárias. 8. ed. Brasília: MS, 2010.
+2. ______. Ministério da Saúde. Guia de vigilância epidemiológica. Brasília: MS, 2014.
+3. ______. Ministério da Saúde. Manual de normas de procedimentos para vacinação. Brasília: MS, 2014.
+4. ______. Ministério da Saúde. Protocolo de tratamento de Influenza. Brasília: MS, 2014.
+5. ______. Ministério da Saúde. Sinan. Dicionário de dados: meningite. Paraná: Secretaria de Estado da Saúde,
+2010.
+6. BRAUNER S. et al. Diretrizes para o manejo do tétano acidental em pacientes adultos. Revista Brasileira de
+Terapia Intensiva, São Paulo, v. 23, n. 4 , p. 394-409, out./dez. 2001.
+7. PARANÁ. Secretaria de Estado da Saúde. Divisão de vigilância do programa estadual de imunização, esque-
+ma de vacinação. Curitiba: Secretaria de Estado de Saúde, 2014.
+8. ______. Secretaria de Estado de Saúde. Manual de coleta e envio de amostras biológicas ao Lacen. Curitiba:
+CAPÍTULO 8:
+106 GUIA RÁPIDO ANEXOS
+ANICAV GCB B etitapeH )etnanibmocer BH( 3,2,1 etileimoiloP )adavitani - PIV( 3,2,1 etileimoiloP )adauneta - POV( onamuh surívatoR )HROV( 1P1G BH+biH+PTD )atneP( acicócomuenP etnelav 01 )01 ccnP( acicócognineM adagujnoc C )CcnM( aleramA erbeF )AF( ,abmuxaC ,opmaraS aloébuR )6( )RCS( ar a m p o, C a x u m b a, R u b é ol a, V aric el a ( S C R V) S
+SOT S N O E S V R E E S V N D U A GLA O S E Ó C D S P A A O R P E F D M O A E T D T R * IL E * A * B * V A A A D C A I A M D H N R L É E U D M G O O A P C I E H R
+MEGASOD*
+O O Ã Ç Ç R A O N F I E C R A U VE O S R ESOD ºN OÃ A Ç C A I N SÁ IC B AV OÃÇISOPMOC O A Ã R Ç T E N TO O R C P
+,os s .s e ia . c s n s ia b o n a ig o ,m e ig r c e u r 1 o s > / a e a i t r s a e i p a c c l o Ú o n l . e a s d m e a õ o f ç n l a u il e n R arG )es s o a d ro it h lu 6 m( 8,3x31
+r o o t i o i r e e lu r f i n c d s i e ú o d m ã i ç o o r t e d le sn d I acim ) r D éd I( artnI
+lm 1,0 -
+- ) 1 1 e 1 ( s , s s e a o s id n em a 9 4 2
+oã e ç d a n c ) e 1 id p ( e n D i ad acinú esoD av a i d v a a u ir n é e tc ta aB esolucrebuT
+- es od amU B etitapeH
+)MI(
+)2( sesodsauD esodamU sesodsauD sesodsêrT sesodsêrT sesodsauD A etitapeH )AH( ,onatéT ,airetfiD sissutreP )PTD( )7( onatéT ,airetfiD )Td(
+u o /e 0 1 said 5 1 )eso d itlu m ( ARUGES OÃÇANICAV
+rop odivlovnesed lairetaM EDÚAS AD ODATSE ED AIRATERCES IPEC – aigoloimedipE ed ortneC / SVS - edúaS me aicnâligiV ed aicnêdnetnirepuS IPVVD - oãçazinumI ed laudatsE amargorP od aicnâligiV ed oãsiviD
+, a o ie tr l o af f e n c o c ,e s r e b d e F .a . r s u ia p c r o ú l p s ,a e g õ i ç d a a e f R 5 6 ,5 x x 5 0 2 2
+lm 5,0
+said 03
+.evel etiretniortsag
+seõça . e e r d ,e ad rb il e ib F i . s s n ia e c s o re l p s i e h õçaeR )eso sa d id it l 7 um( 5 6 ,5 x x 5 0 2 2
+a a d d r la e r u e ) q t e a se l t o n a t x s a B o a c V n e ib ti m traal o puc c e s )e u M Hm rI( a B rt H nI (
+lm 5,0 said 03
+said 06 sai d 1 1 9 , 2 s o e n s a e s 4 em
+sesem 2
+- o I d II a e v i , t II a , n I i s o su p r i í t V etileimoiloP
+.P a P d A a V ic – o s la sa n i e c t a il v e s im ur o ív il o o P a u sa o n /e a m sa e id s 4 5 -
+laro ed a3d,iv2a,C1 etileim ) l O a o r V i O l ( oP
+satog 2 s s . e e e s s s e e o m m d ª 6 6 3 . . s f f e e ó r r p º º a 1 2
+º s s 2 ó e p . s e a e s m o so d 9 n ª a 3 .f e 3 s r ó . f º p e 1 a r 1 e 1 s ,s e o s n em a 4
+sesem 6
+s e so se n m a 4 5 1 .fe .f r e º r 2 º 1 )3( o o v d i a v u s n u e r t íV a etileimoiloP
+)esoditlum(
+)adavitani - PIV(
+.fer º1 sópa
+.fer º1 said 92
+III e ,II ,I sopit
+3:esod ª1
+:esod ª1
+e .l a . o s n o t i i d t m s a e ô r t e v n d i , e o o d m ã a ç d a a i i n e li i b r g r a a a t i v i d r n r I I o ) t e a s id o e d m on i o o m sU ( -
+laro e d 3 ) a , a d 2 d iv , a 1 a C u e n ti e le ta im - ) l O ao P r V Oi O( lo V P (
+lm 5,1 0 s 3 a i * d *
+said 06 : 9 e 5 2 s 1 o e e d s s e ª e 2 s s e s e m a m id 7
+:e 5 e s 1 o s d e e s ª s e 2 ê m m .s a 3 1 id
+- )4( o o d vi a v u s n u e r t íV a su r a ív ie a r t r o a R iD rop
+said 51
+,erbef ,siacol seõçaeR
+e atrom airétcaB ,onatéT ,airetfiD
+s o ,o e r ,H t õ o im ç H h a c E ô e , v r , e e e d , t a n a o ic e d ã n t i s l s ê i l i b u s lo r a v e n t n i p o o rr s c i o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a ( 5 6 ,5 x x 5 0 2 2
+a a l o x a t o t ro ie s e c a r nt i a a V ) d a d l H m R u O h V r ( sa ul 1 urc P sí )1 vu M ma GI( taortnRI
+lm 5,0 said 03
+said 06 e s ,s a s o i e 1 d n s 1 a e 9 m 2 4
+sesem 2
+se s a o s n e n i m c a a P 4 v 5 T 1 . D a fe . m f r e º r o 2 c º 1 .s o a a d n o / e i a o d x d n e o a í d o e g t t n í u e o r e d j a r n p g c o o a í a t t c s m n u s , a d b i u lo o iH P rp r , o . s b e u p h e l i c e a h u t z p i l n g o e e n m u u i q n e fl o a e n C H M I
+.sacigrélaonumi
+,se ,a õ , i s e c l r n u b ê v e l n o F o n . c s o i , . a s e H c t , H e o it d l E e a p s d e a i õ l e i ç b d a a e a t R i d r r r e i p o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a ( 5 6 ,5 x x 5 0 2 2
+la a r a e d x t r a o e l c u o q a t B d s s e a H V +bi r H al + uc P s ) u M T m D I( artnI
+lm 5,0 said 03
+said 06 9 1 2 1 e s , a o s i e n d s a e 1 m
+sesem 2
+sesem 21 s s o o o e p c d r i o t a í o r c l a u o r c o s m a p s s u a 0 s c e i 1 l n o e p P d a ,s n e s i e t , o c s i u t a l a e O q v i p n a s , o s o s e m m e p t t i i e u i g t s õ o e n u p r n i n o n m P i s S e o M c
+,a , i e c r n b ê e lo F n .s o ia s c ,e o d l a s d e i õ li ç b a a e t R irri sópa o o s ta U idemi 5,5x02
+lar a e x ta o l c o a t d saV)atn ra e lu P c ( sumartnI
+lm 5,0 said 03
+said 06 9 1 2 1 e , o se n s a e 1 m
+sesem 3
+sese m 51 a o m ed o í c ra o c d a a ss g o u g jn il o O c etignineM
+.otimôv e aierraid ,aielafec o ) ã e ç s iu o t d it o s n n o o m ce ( r 6x52
+adreuqse )MI(
+)79 a 1 ( n M íe R t C o rp C opiT
+.D . a .a d i u e .s g la i A a f c e . o a c c l , a i s p e ig ó õ l r ç a t a i o m e re R , c e s r i b V eF )es s o a d ro it h lu 4 m( 5,4x31
+an a o e ã d ig i o ea t R l c ee i d c tn ó e co la ma v en u 0 â ) e 1 t C un S c ( PbuS
+lm 5,0 said 03
+- -
+s e 9 s * e * m *
+e d so a n d a i e 4 d esoda mU o o d vi a v u s n u e r t íV a aleram )5 A ( erbeF
+)01 ccnP(
+,ametnaxe ,aielafec ,erbeF uo/e 6
+sesem 51 opmaraS
+aruprúp ,etirtra ,aiglartra saroh 8 5,4x31
+lm 5,0 -
+- -
+sesem 21
+)esoditlum(
+anaed i a ot c le i d cócogni n )C e S M (
+)6(
+,l a ,o c ã o ç u l a o o c ã s i ç l a p a l a u e r p l a + a c p o R o l C l s u S a c l a u a d m c í V s P e A v E o s ó ) ã e ç p s i a u o t d o o i s t o t s a U n n id o o e m c m e ( r i 5,4x31
+an a o e ã d ig io e t R a le d d a )C g c u n j a n Men o (â c ) t C u C S c ( buS
+lm 5,0 -
+- 9 1 2 1 e s , a o s i e n d s a e 1 m
+se 5 s 1 em
+- esodam U o o d vi a v u s n u e r t íV a aleci a r o a b p V m m + u a a x ra l a o S C ébuR
+,otim .s ô ia v c , o a l i e s r e r õ a ç id a e ,e R rbeF o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a ( 5 6 ,5 x x 5 0 2 2
+lar a e x ta o l c o a t d saV )ArFa(lu c s ) u M m I ( a r t n I
+l m 5,0 -
+- s s e a ,o i s d e n m 9 a 2 1 1 e 1
+se 2 se 1 m
+- esodam U a l m ep e s s a e d ra a l v u i l t e a c ni A etitapeH
+,abmuxaC ,opmaraS
+o s ,e e r d o , õ e a h ç r d b a c .s i e e l , a o i r F b c t e i a . i g s m t o i r i a r é ã ô c r l s v i o a l , u o l e , a v s n t i e n n c u õ n e o m ç t ê c s a i l i , o e H s n r R H e o p E s )es s o a d id it 5 lu 1 m( 5 6 ,5 x x 5 0 2 2
+lar a e a x t t a o ie l c r o i a d t d s a ) V 6 al ( o )R é r b Cal u uSc R ( s ) u M m I ( artnI
+lm 5,0 s s , e e e .f s s s e e e o r m m d º1 6 ª 6 3 s . . f ó s f e e ó p r r p a º º a 2 1
+s . e s e . o s f s e e n o r m a d º 3 1 ª 9 3 . s f . ó s e f ó e r p r p º a 2 º a 1 1 e 1 s a s ,s i e d o s n e 9 m a 2 6
+se 5 s 1 em
+so s n e . a f s e e ) 4 r 7 m . ( º f e 1 5 r 1 º2 ) r s s a e e r s r s e o o e d d i s r i o s e s n d t ê n o r a T C ( a e tr d o a ) o a m ir n t é u i a t x d i c o r o a é T r b t ( p c a e B eh a c o i u n re l a e t t u f é i q D T oC
+.siacol seõçaeR
+,ediotleD
+.sona 01 adac A raredisnoC otudorP
+,a e ie . a o la i t l f i a e m g c ô e ,e m v r , b o a e d ic f o n , n s ê o o lo l f u n n d i o l ó s N )es s o a d id it 5 lu 1 m( 6x52
+a t la ie r r e i t d a l a o xo ts c a a v d raluc s ) u M m I( artnI
+lm 5,0 said 03
+said 06 -
+sona 7
+sev s a o r n g a s 5 o t a n d e a m c i a reF ) s s e e s r s o o e i d s r o e s t d ê n r a T ( ai ) r a é n t i c x a o b T e ( d o a n ir a e t t é f T iD e
+m b a, el a c p o, C a x u ol a, V a ri ( S C R V) mb é au a rR S
+O S E Ó C D S P A A O R P E F D M O A E T D T R * IL E * A * B * V A
+MEGASOD*
+ºN OÃ A Ç C A I N SÁ IC B AV OÃÇISOPMOC O A Ã R Ç T E N TO O R C P
+,os s .s e ia . c s n s ia b o n a ig o ,m e ig r c e u r 1 o s > / a e a i t r s a e i p a c c l o Ú o n l . e a s d m e a õ o f ç n l a u il e n R arG
+)es s o a d ro it h lu 6 m(
+8,3x31
+) r D éd I( artnI
+1,0
+) 1 1 e 1 ( s , s s e a o s id n em a 9 4 2
+oã e ç d a n c ) e 1 id p ( e n D i ad
+)MI(
+)2( sesodsauD esodamU sesodsauD sesodsêrT sesodsêrT sesodsauD
+A etitapeH )AH( ,onatéT ,airetfiD sissutreP )PTD( )7( onatéT ,airetfiD )Td(
+)e u o /e 0 1 s a id 5 1 s o d itlu m (
+IPEC – aigoloimedipE ed ortneC / SVS
+- edúaS me aicnâligiV ed aicnêdnetnirepuS
+IPVVD - oãçazinumI ed
+ANICAV GCB B etitapeH )etnanibmocer BH( 3,2,1 etileimoiloP )adavitani - PIV( 3,2,1 etileimoiloP
+,aielafec ,erbeF .siacol seõçaeR
+)adauneta - POV(
+5,5x02
+otrofnocsed .aruprúp ,agidaf
+5,0
+said 03
+6x52
+.evel etiretniortsag
+)HROV( 1P1G
+seõça . e e r d ,e ad rb il e ib F i . s s n ia e c s o re l p s i e h õçaeR
+)eso sa d id it l 7 um(
+5 6 ,5 x x 5 0 2 2
+s ) u M m I( artnI
+5,0
+said 03
+said 06
+sai d 1 1 9 , 2 s o e n s a e s 4 em
+sesem 2
+o I d II a e v i , t II a , n I i s o su p r i í t V etileimoiloP
+BH+biH+PTD )atneP(
+.P a P d A a V ic – o s la sa n i e c t a il v e s im ur o ív il o o P a
+) u s e a o s n o /e a d m s it a l e u id s m 4 5 (
+) l O ar V O (
+s s . e e e .f s s s e e e o r m m d º 1 ª 6 6 3 s . . s f f ó e e ó p r r p a º º a 1 2
+º s s 2 ó e p . s e a e s . m o s fe o d r 9 n ª º a 3 . 1 f e 3 s r ó . f º p e 1 a r
+1 e 1 s a s ,s i e d o s n e 9 m a 2 4
+sesem 6
+s e so se n m a 4 5 1 .fe .f r e º r 2 º 1
+)3( II I o o e v d , i a I v I u , s I n u s e r o t íV a pit etileimoiloP
+ac e i ) c t 0 n ó 1 e c o c la c m v n u P 0 e ( 1 nP acicócognineM
+3:esod ª1
+:esod ª1
+ada )C g c u n jn M o ( c C
+e .l a . o s n o t i i d t m s a e ô r t e v n d i , e o o d m ã a ç d a a i i n e li i b r g r a a a t i v i d r n r I I
+o ) t e a s id o e d m on i o o m sU (
+) l O ar V O (
+5,1
+0 s 3 a i * d *
+said 06
+: 9 e 5 2 s 1 o e e d s s e ª e 2 s s e s e m a m id 7
+:e 5 e s 1 o s d e e s ª s e 2 ê m m .s a 3 1 id
+)4( o o d vi a v u s n u e r t íV a su r a ív ie a r t r o a R iD rop
+,ab a m le u ra x m a )A C A F , ( o e p r b m e a F r a S
+said 51
+)6 al ( o )R éb C u S R (
+,erbef ,siacol seõçaeR
+e atrom airétcaB ,onatéT ,airetfiD
+,otimôv ,aicnêlonos
+,sona 4
+sesem 51 .fer º1
+.sanixot ed otudorp .ehculeuqoC
+s o e r ,H õ o ç H h a c E e , r , e e e d tn a o e d ã t i s l s i l i b u sr a v e t n i p o rr c i
+o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2
+s ) u M m I( artnI
+5,0
+said 03
+said 06
+e s a s i e 1 d s 1 e 9 m 2
+sesem 2
+s a o n n ic a a P 4 v T . D a fe m r º o 2 c
+o a d o / e a o d d n e a í d o e g t n í u o r e j a r n p g c o a í a t c s m n s , a b i u lo iH P r , o s b u p e l i e a h t z p i n g o e n m u in e fl a e n H M I
+.sacigrélaonumi
+BH ed eicífrepus B etitapeH ,sainomuenP oedíracassiloP
+,se ,a õ , i s e c l r n u b ê v e l n o F o n . c s o i , . a s e H c t , H e o it d l E e a p s d e a i õ l e i ç b d a a e a t R i d r r r e i p
+o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2
+s ) u M m I( artnI
+5,0
+said 03
+said 06
+9 1 2 1 e s , a o s i e n d s a e 1 m
+sesem 2
+sesem 21
+s s o o p c r i o t a o c lu o ro s m p s u a 0 c e 1 n e p d a ,s n e s i e t o c i u t a le O q v p a s , s o s e m e p t t i i e i g t s õ o n u p r i n o n m i s S e o M c
+,erbeF .siacol seõçaeR
+11 ,ona 1
+,aicnêlonos ,edadilibatirri
+5,5x02
+5,0
+said 03
+said 06
+92 e sesem
+sesem 3
+sesem 51
+.otimôv e aierraid ,aielafec
+6x52
+)MI(
+)esodonom(
+)791 ( MRC
+.D . a .a d i u e .s g la i A a f c e . o a c c l , a i s p e ig ó õ l r ç a t a i o m e re R , c e s r i b V eF
+)es s o a d ro it h lu 4 m(
+5,4x31
+) t C u S c ( buS
+5,0
+said 03
+s e 9 s * e * m *
+e d so a n d a i e 4 d
+esoda mU o o d vi a v u s n u e r t íV a aleram )5 A ( erbeF
+,ametnaxe ,aielafec ,erbeF
+uo/e 6
+sesem 51
+aruprúp ,etirtra ,aiglartra
+saroh 8
+5,4x31
+5,0
+sesem 21
+)esoditlum(
+)CS(
+)6(
+,l a ,o c ã o ç u l a o o c ã s i ç l a p a l a u e r p l a + a c p o R o l C l s u S a c l a u a d m c í V s P e A v E
+o s ó ) ã e ç p s i a u o t d o o i s t o t s a U n n id o o e m c m e ( r i
+5,4x31
+) t C u S c ( buS
+5,0
+9 1 2 1 e s , a o s i e n d s a e 1 m
+se 5 s 1 em
+esodam U o o d vi a v u s n u e r t íV a aleci a r o a b p V m m + u a a x ra l a o S C ébuR sarutluC
+,ona1
+,otim .s ô ia v c , o a l i e s r e r õ a ç id a e ,e R rbeF
+o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2
+s ) u M m I( artnI
+5,0
+s s e ai s d e m 92 1 e 1
+se 2 se 1 m
+o s ,e e r d o , õ e a h ç r d b a c .s i e e l , a o i r F b c t e i a . i g s m t o i r i a r é ã ô c r l s v i o a l , u o l e , a v s n t i e n n c u õ n e o m ç t ê c s a i l i , o e H s n r R H e o p E s
+)es s o a d id it 5 lu 1 m(
+5 6 ,5 x x 5 0 2 2
+s ) u M m I( artnI
+5,0
+s s , e e e .f s s s e e e o r m m d º1 6 ª 6 3 s . . f ó s f e e ó p r r p a º º a 2 1
+s . e s e . o s f s e e n o r m a d º 3 1 ª 9 3 . s f . ó s e f ó e r p r p º a 2 º a 1
+1 e 1 s a s ,s i e d o s n e 9 m a 2 6
+se 5 s 1 em
+so s n e . a f s e e ) 4 r 7 m . ( º f e 1 5 r 1 º2
+) r s s a e e r s r s e o o e d d i s r i o s e s n d t ê n o r a T C ( a e tr d o a ) o a m ir n t é u i a t x d i c o r o a é T r b t ( p c a e B eh a c o i u n re l a e t t u f é i q D T oC
+.siacol seõçaeR
+,ediotleD
+.sona 01 adac A
+,aielafec ,erbef ,soludóN
+said 51
+6x52
+5,0
+said 03
+said 06
+sona 7
+e otimôv ,aicnêlonos
+)esoditlum(
+)MI(
+sona 5 adac a
+seroiretna )anixoT( onatéT e
+.ailagemodonofnil
+)sesod sêrT(
+Sara mpo, Caxu mba, Rubéola, Varicela (SCRV)
+SOT S N O E S V R E E S V N D U A GLA O S E Ó C D S P A A O R P E F D M O A E T D T R * IL E * A * B * V A
+MEGASOD*
+SE O SO M D IN S Í A M ERTN O E D O A L D A N V E R M E O T C N E I R OÃ A Ç M AN IX I Á CA M V AD O A IC M Í I N N I ÍM O O Ã Ç Ç R A O N F I E C R A U VE O S R ESOD ºN OÃ A Ç C A I N SÁ IC B AV OÃÇISOPMOC O A Ã R Ç T E N TO O R C P
+,os s .s e ia . c s n s ia b o n a ig o ,m e ig r c e u r 1 o s > / a e a i t r s a e i p a c c l o Ú o n l . e a s d m e a õ o f ç n l a u il e n R arG )es s o a d ro it h lu 6 m(
+8,3x31 r o o t i o i r e e lu r f i n c d s i e ú o d m ã i ç o o r t e d le sn d I acim ) r D éd I( artnI
+lm 1,0
+- - ) 1 1 e 1 ( s , s s e a o s id n em a 9 4 2 re c o s A an oã e ç d a n c ) e 1 id p ( e n D i ad acinú esoD av a i d v a a u ir n é e tc ta aB esolucrebuT
+raluc s ) u M m I( artnI
+- - re c o s A an - es od )2 a ( mU B etitapeH sesodsauD esodamU sesodsauD sesodsêrT sesodsêrT sesodsauD A etitapeH )AH( ,onatéT ,airetfiD sissutreP )PTD( )7( onatéT ,airetfiD )Td(
+uo/e 01 said 51 )esoditlum (
+rop odivlovnesed lairetaM EDÚAS AD ODATSE ED AIRATERCES IPEC – aigoloim IPeVdVipDE - oedãç oarztinneuCm /I S eVdS l a- ueddúatasSE m ame aaircgnoârlPig oiVd eadic naiâclnigêidVn eedt noiãresipvuiDS
+, a o ie tr l o af f e n .e c o v c , e e s l r e e b d t e i F r .a e . r t s u n ia p io c r o r ú t l p s a s , g a e g õ i ç d a a e f R
+5 6 ,5 x x 5 0 2 2 a a d d r la e r u e q ta se l o a t x s o a c V
+lm 5,0
+said 03 a l o u n s e e p i g c á í í c f t r n a e a d p s u a u l s u r í e c v d í t o r d aP
+seõça . e e r d ,e ad rb il e ib F i . s s n ia e c s o re l p s i e h õçaeR )eso sa d id it l 7 um(
+5 6 ,5 x x 5 0 2 2 aadd rlaerueqtasel oatxsoacV raluc s ) u M m I( artnI
+lm 5,0
+said 03 said 06 sai d 1 1 9 , 2 s o e n s a e s 4 em sesem 2 - o IdIIa ev i,tIIa ,nI is osupriítV etileimoiloP
+.P a P d A a V ic – o s la sa n i e c t a il v e s im ur o ív il o o P a ) u s e a o s n o /e a d m s it a l e u id s m 4 5 (
+- laro edadivaC ) l O ar V O (
+satog 2
+s s . e e e .f s s s e e e o r m m d º 1 ª 6 6 3 s . . s f f ó e e ó p r r p a º º a 1 2 º s s 2 ó e p . s e a e s . m o s fe o d r 9 n ª º a 3 . 1 f e 3 s r ó . f º p e 1 a r 1 e 1 s a s ,s i e d o s n e 9 m a 2 4 sesem 6 s e so se n m a 4 5 1 .fe .f r e º r 2 º 1 )3( II I o o e v d , i a I v I u , s I n u s e r o t íV a pit etileimoiloP
+e .l a . o s n o t i i d t m s a e ô r t e v n d i , e o o d m ã a ç d a a i i n e li i b r g r a a a t i v i d r n r I I o ) t e a s id o e d m on i o o m sU (
+- laro edadivaC ) l O ar V O (
+lm 5,1
+0s3a i*d* said 06 : 9 e 5 2 3 s 1 o : e e e d s s s o e ª e 2 d s s e s e ª m a 1 m id 7 :e 5 e s 1 : o e s d e s e o s ª s e d 2 ê m m ª .s 1 a 3 1 id - )4( o o d vi a v u s n u e r t íV a su r a ív ie a r t r o a R iD rop said said 51
+, e s o ,o r e r , b H t . õ o s i e m ç a H h f a c c E ô e i , g s , v r , e e i r a e d , é t a c n a l o i o a c e d ã o l n t i s s l s n ê i l e i b u u s l õ o r a v m e ç n t n i p a i o o r e r s c i R o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2 a a l o x a t o t r ie s e c a r t i a a V d d l raluc s ) u M m I( artnI
+lm 5,0
+said 03 said 06 e s ,s a s o i e 1 d n s 1 a e 9 m 2 4 sesem 2 se s a o s n e n i m c a a P 4 v 5 T 1 . D a fe . m f r e º r o 2 c º 1 . s o a B a e d n H o a / e i a o d t x d n r e e o a o í d d o e g t m t n u í e e o r e d j a i r a n c p g c i í o o r a f í a é r t t c s m e n u t s , c p a d b i u l a u o o i B H s P rp , o r , o . s n b e u B p a h e l t i e c e a h é t u t z T p i i l t n g o e , a a e n m u p i u i r q e n e fl e o H a e n t C f H M I iD
+,se ,a õ , i s e c l r n u b ê v e l n o F o n . c s o i , . a s e H c t , H e o it d l E e a p s d e a i õ l e i ç b d a a e a t R i d r r r e i p o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2 la a r a e d x t r a o e l c u o q a t d s s e aV raluc s ) u M m I( artnI
+lm 5,0
+said 03 said 06 9 1 2 1 e s , a o s i e n d s a e 1 m sesem 2 sesem 21 s s o o o e p c d r i o t a í o r c l a u o r c o s m a p s s u a 0 s c e i 1 l n o e p P d a ,s n e s i e t , o c s i u t a l a e O q v i p n a s , o s o s e m m e p t t i i e u i g t s õ o e n u p r n i n o n m P i s S e o M c
+. , o a t , i e i c m r n b ê ô e l v o F e n .s o a ia s ie c , r e o r d l a a i s d d e i , õ a li ç b ie a a l e a t R i f r e r c i o s ó ) ã e ç p s i a u o t d o o i s t o t s a U n n id o o e m c m e ( r i
+5 6 ,5 x x 5 0 2 2 la a r a e d x t r a o e l c u o q a t d s s e aV raluc s ) u M m I( artnI
+lm 5,0
+said 03 said 06 9 1 2 1 e s , a o s i e n d s a e 1 m sesem 3 sese m 51 a o m e )7 d o 9 a 1 í c r ( n a M o í c e d R a t a C s o s g r o p u g jn il o O c e t C ig o n p in iT eM
+.D . a .a d i u e .s g la i A a f c e . o a c c l , a i s p e ig ó õ l r ç a t a i o m e re R , c e s r i b V eF )es s o a d ro it h lu 4 m(
+5,4x31 an a o e ã d ig io e t R led aenâ ) t C u S c ( buS
+lm 5,0
+said 03 - - s e 9 s * e * m * e d so a n d a i e 4 d esoda mU o o d vi a v u s n u e r t íV a aleram )5 A ( erbeF
+, a a m ru e p t r n ú a p x , e e t ,a ir i t e r l a a f ,a e i c g , l e a r r b tr e a F )es s u o a o d ro / i e t h l u 6 8 m(
+5,4x31 an a o e ã d ig io e t R led aenâ ) t C u S c ( buS
+lm 5,0
+- - - sese )6 m ( 21 l s a e r i s m V e m o ar c t 5 e 1 T esodam U o o d vi a v u s n u e r t íV a a o a b p lo m m é u b a x r u a a R S C
+,l a ,o c ã o ç u l a o o c ã s i ç l a p a l a u e r p l a + a c p o R o l C l s u S a c l a u a d m c í V s P e A v E o s ó ) ã e ç p s i a u o t d o o i s t o t s a U n n id o o e m c m e ( r i
+5,4x31 an a o e ã d ig io e t R led aenâ ) t C u S c ( buS
+lm 5,0
+- - 9 1 2 1 e s , a o s i e n d s a e 1 m se 5 s 1 em - esodam U o o d vi a v u s n u e r t íV a aleci a r o a b p V m m + u a a x ra l a o S C ébuR sarutluC
+,otim .s ô ia v c , o a l i e s r e r õ a ç id a e ,e R rbeF o o ) r e t a a s p i o d e d e r o p m n s i o ó o m p sU a (
+5 6 ,5 x x 5 0 2 2 lar a e a x t t a o ie l c r o i a d t d saV raluc s ) u M m I( artnI
+lm 5,0
+- - s s e a ,o i s d e n m 9 a 2 1 1 e 1 se 2 se 1 m - esodam U a l m e a p e n s s il a e a d r m a a l v r u o i l t e f a c ni A etitapeH
+o s ,e e r d o , õ e a h ç r d b a c .s i e e l , a o i r F b c t e i a . i g s m t o i r i a r é ã ô c r l s v i o a l , u o l e , a v s n t i e n n c u õ n e o m ç t ê c s a i l i , o e H s n r R H e o p E s )es s o a d id it 5 lu 1 m(
+5 6 ,5 x x 5 0 2 2 lar a e a x t t a o ie l c r o i a d t d saV raluc s ) u M m I( artnI
+lm 5,0
+s s , e e e .f s s s e e e o r m m d º1 6 ª 6 3 s . . f ó s f e e ó p r r p a º º a 2 1 s . e s e . o s f s e e n o r m a d º 3 1 ª 9 3 . s f . ó s e f ó e r p r p º a 2 º a 1 1 e 1 s a s ,s i e d o s n e 9 m a 2 6 se 5 s 1 em so s n e . a f s e e ) 4 r 7 m . ( º f e 1 5 r 1 º2 ) r s s a e e r s r s e o o e d d i s r i o s e s n d t ê n o r a T C ( a e tr d o a ) o a m ir n t é u i a t x d i c o r o a é T r b t ( p c a e B eh a c o i u n re l a e t t u f é i q D T oC
+,a e ie . a o la i . t l s f i a e i m a g c c ô e , o e m v l r , b s o a e e d ic õ f o n ç , n s ê a o o l e o l f R u n n d i o l ó s N )es s o a d id it 5 lu 1 m(
+6x52 a t la i e , r e r e d i t d a io l a t o x le o ts D c a a v d raluc s ) u M m I( artnI
+lm 5,0
+said 03 said 06 - sona 7 se .s v s o a o n r n g a a s 0 5 o 1 t a n a d d e a m a c c i a r A eF ) r s s a e e r s r s e o o e d i d s r i o e s s n t d ê n o r a T C ( ai ) r o a é t n t u i c x d a o o b T r e P ( d o a n ir a e t t é f T iD e
+108 GUIA RÁPIDO ANEXOS
+***** Considerar histórico de vacinação anterior. Febre Amarela, estabelecendo o intervalo mínimo de 30 dias. semana até a 36ª semana de gestação. ***** Considerar h*i*s*tó*r Picood deer áv avcainriaaçrã doe a ancteorridoor. com o laboratório produtor. regurgitar ou vomitar. Febre Anmaaçrãeola ,n eãsota bpeoldecee nsedro aop inlicteardvaal osi mmíunlitmano edaem 30e ndtiaes .com a vacina dsae mana a1té0 a 3E6sªs sae mvaacnian ad es egreás tdaçisãpoo.nibilizada para gestantes, a* *p*a*r tPiro ddae r2á7 vªa riar de acordo com o laboratório produtor. 3 3a I r n a I c e on o i go c si u c n i s a 2 i r f a r g2 o r e e i r t s e e m a q 4 r s u e q 4o m e u u h m m e e i v s sm a oe t e ó ms s a a r e p i i d c ts a ó a e o p s rd . ó v a i e ds a p a c l a i i d d i c p n e a a l a . ç i d c l ã R . e a o e . ç p d ã R e a o e t i p 1 rd ª e a a e t i 1 r d 2 ªo ª a es d e d o 2 o s sª e e s d e c ao o s s m ce e r i ac a a no v çm c a a r c i i a ac n n u a v ç s a V p a c I i P ri c ,n u a s V p I i P r, 6 I r d n n u a a d b ç 6 -s i é ã c e o o a l d n a n ã a d r I a ã n u o v a o dp b a - e s ai c é p c n e r i o o a n t g i d l d a n r ra ç a e d ã a a ã v o o v s o ip s d e a e e r 6 aa c n m r r i a m n t gp p i b ae r rl o i ç l a d s c o r eã va o q u so id s d . u m a Ae 6 a e mp s i r mp o i ó mp s e bs e r o d u a í l so e o rl e a t d q a c u s p o a n . u m l A s i e ec d o a p ai e s p o m ç ó s s e ã 3s u e o r d 0 s n a í o ed p d t a d e a e c ipa i o av c t sl o a s o i.c d o s c m Aa i e d sn ç p e sa a ã 3 u r , s o 0 i v r a s m e a d p r d c a c oa eo ii m v an im v t a sa p o ac . e o s c d i A n - i e a d n - p e a r , s i r a m e r c a o1 o m v m 0a p c e o i h d E n - e s o - o s s s a p e i v a t a a d c i i s c i , n i o a a s n i s a l e o l q h d r s 5 á , o u o a c s d s ea np e i s o s i av p a ts s a i d o a v i d n i ps e c e , i ó m i b o as r i s l e n a i i z p a e l a do o l m d os 5 u a ,s s a ec oi p a n n i . a ns o sQ r ai t c a s ui s i t a a a g u dl p n , e i e ç u d ó s õ t m o s r a e e a n i a s p n t d ú d e o f o n s i u ec , i s ca sc e ao dh a i . aa v n p , Qe d i a a c z a u r d . i s t a a m i r l n , c i d u d no a m o ims t 2 i a r n o 7 a ú d :r ª n i c c i a a ca s d* * a a v * * s , e * Ca z g E do . e m mn ri s á i s nid t it i r se u ic trr a a aa ç s rr , õ i e d s a d d* * e e* * * m rC i E so í c n m no im s s oid i a u t e u p sr a u a a ç r rr a t õ oi a e ds d s a, m vd d ae e i c n im r i n s is a t í r c nr a o ai r m o p 2 a ª a u r d pt s o i u ar s r r d e a t o . o as s d , 6 m v m a i c en i si n se a tsr r da a re p 2 ª a r d t o ir s d e o . s 6 meses de 22e p c E d E d e po m s o a m sq o an r s q a e u r s c f a e o ue rc i c i n r e r m o a i c m i n d n m no a a i d ç e n fn v o a a c i í ç f hv r d o o s m a c íi , u r m sd o si m o e t n, uó m s ii D p ro e cn i a o i T c s ia D p c r o P p r t a o i T + a a a e v rr P p r H r i a s ta t + q a ca e i i r b r v i u H r i s n ia + t d g qe a i i bH r e v m e u l . i n + d B g e 5 a t .H e m ee a c E nM B n o 5 s a t s. o m e S a a c E s .M n o sv V d s o m a H S e ac s . B i i v V n d d m aa H a e c d o e B i i e ns n d m t , a o a á i n v d o ed a c e s n i l l st e u , o pá n i i n v n o t d a d c e ni l l o sí e u e vp n e i p n g ol tr d e e nt o a s o í se m t v s a e e p n b g l gr t é e t ou e ma s s isr m t , s a e n b g t é u e m s ir , 5 i p E b q m s u r e s i 5 u n e m a n e e o v f o s í v a c d t a c e i i b p q E e o m i c j sn u r e p a i s in p a m u n e m r a i a a n e m n e ço r v a f o ã ã a s í i m v a d c o d o t a c e i o v . a e o pi c j a s n m p a i o . c Cn p a m r i e d o n i a a m n ne a nç r at ã ç ã a s i s am d ã i o o e d n o o v r . ad e p a s u m r o d o a . c C t ei c r i e dl o n i rn ze i ia n a n r a t i ç s n sd a s dã ic e ç d n a ivo o a r d e í e s d u r o m d d a u b t e ec r i o e l g i r s n z ai i e a n re a t d s i én f d s d t í e c a c ç6 a i v i n o a 6 o m í e s t d 0 e m ed u b s p a s e o ea e e n g s rn sa o a ee . e t s m d A s é f t í e v e i a cn 6 m a i n d m l 6 o mi ut i a 0 v e a l re í h s i dp r sa s e i u a e se n r n c o e r s o o a e a s . s s m A v e i n m a d m li u i a v a 9 8l r í h i d r s e i u s r n c o eO A V q o a s s a u d f e c e m r i n e i v n a c i i ç i v d s ã e t a o r m 9 8 a , r c a o e n 1 n m uO V A f ( a oa d f u l r e c m i mm m n r in e s e ai e t n a cn ) i o t i ç i td u s e d ãr t i i a o o e ç r a õ n s , d re c e t a u a o s n 1 r ç d n a ã u f u n f e o ( a o r t c u a le Pr h m nm m N a t e I d ea a e/ n M a ) o a s t S eC d r i. c a Co e o m a n s d m em t pu a o a p r ç d : na a ã u hn n o c r at a h a e P s an a N N t s N I e a / a a M g c ca i e o i S C o r n i . a Cn á am t aa l r lm i p c d d a a p s e en a , h n a h a N N - af d d A a ac e o c li s ot i s 3 o a o e n 0 n m u s a a . l d t . l r ( i a a D d d s s e eE . v S C a D a c s i E n o Q a s s- U e f d d dA a j E ae o e l s A m t s 3 v a o e P í 0 m v ur s R u a . E d t . s c r S( i a ia v DE n s s i N a v E . v s o TS C a E d D a a c e R t s E ien o E v n Q a G i as us UI es S ad j E d T d a e R i o A mf O e vp P r í ve or RD u an d EE s ct e S e V i mv E ns A i N ,a v C p s s o TI e o N E d ra d A a e R t e Ç de E mv Ã mn G ia O u s i I s n e S a .) i rd T ds a t R i or fd O e a p m d r e o D a inn ds E it en s e V t mo rs A a , m C dp s I e a e o N s rs d m A c a eo Ç do mm Ã m d O s i q ian e . u ) io ra s u a t lq r d ra u e m d e spa ri n se in i in s t t a te o r r ra v mo da i la en os st e me cn r o vo tm a r e dlo i aq a su o a u lq r u e e sp r e in it t a e r r v o a i l n o t e e n rv t a re lo a s eenntrtere a sa sd odsoesse. sP. aPraa rcao mcoumniucannicteasn dtee s Hdaen sHeanníasseen, aíadsme,in aidstmrairn uismtraa r uma - Se o esquema da- vSaec ion aeçsãqou feomr ian tdearr ovmacpinidaoç,ã noã ofo ér ninetceersrsoámriop riedion,i cniáã-olo é; bnaesctae scsoámripol eretainr iccoiám-l oa;s bdaossteas cqoume pletar com as doses que 11 N m N m a e a es a es au es us se ês n e ê 2 cn 92 iac 9d i ad ida ed si a ce ds i e c c d a i i t de crai a z i t dd ,r e ei a z . s d , C s e ea o. s n v C sa s a oi c dn ivn e a sr a i c ad ip r n e o or ad ai n p r e t o oe sed rivn re a a t le s o pe r l vm irc a aa íln d o p i a m l m ica o at í é n d d i a e 4 m 6 aa o tn m é d o e s e 4 s 1 e6 a1 s n m o e s s 1 e 1 s 4 d Se o 4 s r e e , g c u od Sr n ge os i si tr d a e e e r , g, r ca cu or ur nd gsp so i i ti sd ra e e ro , vr u aá c r u l v i dd os a pm o. i s ri e t ao v ru á a l pv id oó a ms . ait vaar cainpaóçsã oa, vnaãcoi nreapçeãtoir, an ão rep 7 etirU t e at t i r li a z v a a d l a e n 7 te p / a p r t U e a e n t tt i r l a 1i a z ª (v a D a d Tl ea eP n+tH 2 e p i ª /b a p/ r De ad nT o tP s a 1e + ª (HD ib d T e + e P H+BH r2 ) e .i ªf b o / r D çdo T o P se + d H a i s b d + ev H a B cri ) en . faosr ço dap d s i r a im s v . oavciancaisn ação dp d as i r a ivm s a . coivnaacs iSnCaRç/ãSoC RdVa se v Faecbirnea As mSCarRe/lSa)C, RdVev ee nFdeob rsee rA rmesapreeitlaad), od oe vinetnedrvoa lsoe mr ríensimpeoi tdaed 3o0 o intervalo mínimo de 30 OOBBSSEERRVVAAÇÇÃÃOO:: - A aplicação de um- Aa aopu lmicaaiçsã voa cdien ausm, nao omue msmaois d viaa,c ninãaos o, fneore mcee nsemnoh udmia ,r inscãoo à o pfeersesocea vnaecninhaudma (reixscceot oà npae ssoa vacinada (exceto na VVAACCIINNAASS A APPLILCICAADADSA ESM E MCA CMAPMANPAHNASH DAES VDAEC VINAACÇINÃOA Ç–Ã COO N–S CUOLTNES EUSLQTUE EEMSQA UBÁEMSICAO B: Á wSwICwO.s:a wudwew.p.rs.gaouvd.be.rp/vra.gcoinva.sb or/uv Parcoingarasm oaus P: Proroggrraammaas E: sPtraodguraal mdea I Emsutandizuaaçãl od.e I munização. P P ( n (2 P n 2 P e 3 n e 3 n u - c u v - c m c v m ac 2 ao l 2e 3 o lce n3 ) ó c n t ( ) ó c 9 e it ( c c ) 9 e i a c ) a P S b M n i a n e P e c S b u M u n n t i s a e mn i e e i n c r t u ui n o e gt a s e m n i i n e i t n r ti e t a a i o e g c as s s n . i , n e, t i e t a a c s s s . , , c p P a o n p s l e i o s s u u s r c p P m o a l a o a n c t o p rs i l e a p i c o s d s r uo o uí s re d ms o c a l e a 2 o c t o or 3i s a p c d r o o í e d s c e 2 o o 3 s Um ad U o m se adoseS 5 e a n 1 n e ª o c d (9 s e o ) s S a s s5 p e e á ó ar n 1 i s no e ª o c d (9 s e o ) s a s s p e á ó r a i s 6 n o 0 o s a 6 n 0 o s- - - - - 0 - ,5 ml 0 In ,5 t r m am ( l IM u ) s cular Intra d M m ( e I ú M lt u s o c ) s i u c d l u e o l ar d M e ú 2 2 lt s 5 5 o c x xi u 7 6d l e o U a ( p m so ó o s i n m p 2 2 o e r 5 5 d e d o xp x ia s 7 6 a e t r o o ) febr c e U aR ( e , p m s e m f o ó a a o l s i ç i e an m õp i lo a g e e r d , e i s d a a o pl i s s o a s a , t e t cr a e o o ) a r n t i i s r a a , . lgi f a e , br c e R e , e m fa a l i ç e a õ i l a g e , i s a a l s s o , t c a e a r n t i i s r a a , . lgia, (8 ( ) 8) Gri G pe ri p p e o r p or Víru i s n V f a í r r t a u iv ci s ni a o f a d r nt o a aiv c d i a o od, n o ado, Um ad U o m se adose D an o u s a e l D an o u s a e l a 6 n 0 o s a 6 n 0 o s - - - - - 0 - ,5 ml 0 In ,5 t r m am ( l IM u ) s cular Intra d M m ( e IúM lt u s o c) s i u c d l u e o l ar d M e ú l2 2 t s 5 5 o c x xi u d 7 6 l e o (mu 7 l t d id i 2 2a o 5 5s s x x e 7 6 ) feb R re e , a ( m çmõ a eu l 7 - s e l t d l s oi t d i c a a a r o s , i ss m ,e c i ) a e l f g a i l a e . i fa S e, G b B R r . e e , a m çõ a e l- s e l s o t c a a r, i s m , c ia e l f g a i l a e . i a S , GB. S S a a F F r r e a e a m b m b R r p R ( r e p u S ( ( o e u F S ( b o C A , F b C A C A é R , m C A a é oR ) ) m x a o l ( ) ) a a 6 u x l ( r a a ) m 6 u e r ) m l e b a l a b a , a, Ca C xu a A m xS m ua A F b a rm e S m a a r b a F e mb e r a r e l e a a a r p R b e m ( o u e 5 r l e , a ) b p R é ( o u 5 o , ) b la éola V a V a t ír e t í u r e n u s n u V a s u v V a t a í v r ie a t í d v u i r e d n v o o u s n o o u s u v a v i a d v i d v o o o o U c m o U a n a s d m i n o d t s a U e e e c r r m a d i o ( o > r U a n o r d e 1a s d m s s o 9 i n e ) o d s ta e s a e en e s r ro a d i ( os > r o r d e 1 s s o 9 e ) s a Ú e n s n o 1 i s c 0 o - a , n a Ú o p s ó n 1 s ic 0 o - a , n a o p s ós - - - - 49 an - os 4 9 a n - o d 9 s i 0 a - s d 9 i 0 a - d s3 i 0 - a s d 3 i 0 0 0 - a , , 5 5 s m m l l 0 0 , , S S 5 5 u u m m b b ( ( c c S l l S u u C C t t ) ) â â n n e e a a S S u u d d b b e e ( ( c c l l R R t t S S u u e e o o C C g g i i t t d d ) ) i i â â ã ã e e n n o o a a e e n n a a a a d d e e l l R R t t 1 1 e e o o 3 3 g g i i d d x x i i ã ã e e 4 4 o o a a , , 5 5 n n a a ( ( m m 8 4 6 u u h l h e l t t o 1 1 i / o i d d o r 3 3 r a o a u o x x s s s s 4 4 e e , , ) 5 5 ) F F e a e V b r b t i r s r r e a( c e ( m , R l e m , g m e r c 8 i 4 6o ua e au i t a , f h ç l h er l a ta l õt ó o g l i / o r i e e d p t d i o r i a r r s i a a oi a u o c , t l , s o e a c s s e s e , . e c e x p A f a ) a a ) ú i g n s le r u . t p e i d a u m . a r . a a D F , F . e a e V b r b t i r s r r e a c e , l e , g m r c i o a e i t a , f r a a l ó g l r e p t i i a r i a i c , t , e a c e e , . x p A f a a ú g n le r u t p e i d a u m . a r . a a D , . D D ( ( H H i i B f B f t t r V e H r e V e H r e e A c r i e A c p o ( a i C d o p ( ( m a a C 2 , d ( I m a t T 2 ), N b T i I t T t ) ) N b i T i é e A n t ) i é t e B a A n a n t B a n a t n e o n t ) e o ) H e e P D H p T C R i e a e f é P O O D t t p t e T i C R a N T i t a r f é e n O O i E t Tt a t e o i B Ç a R N T t r e Ã n A i E T a o O B Ç R Ã A O d P o C a r O v t í í d r c M P P s u u o u C a r s b ( l P o p r T a O v a a t e d O o í d í n c r c r M P s u x a t u f S t u í í u r i é c g t s b ( c I n l P o p o i T a Ç r e á e a a a i e d p n O o Ã a d n d c ) r o s u x a t f e O S t u í í d i é c g t l c I n a o e i Ç r e á e a i p n Ã a d ) o s e O u d la e ( ( c c V o o n n A T T a a B s s n n r r C i i Á ê ê t t d d I e e ( ( N s s S e e c c r r I d d r r A V i i o o C o o a a o o Ç n n A r r T T a a A r r B e e s s Ã s s n n d d r r C N s s e e i i Á ê ê o o O t t d d ) ) I s s e e N s s º s s S e e r r e e I D d d r r A i i * s s C o o a a o o O Ç* r r A r r e e s s *Ã d d S F N s s e e * o o e O R E ) )A s s O r a º * E s s S i c m e e U V c D a s s a A e d R d O n a C E a - t S I 1 F F o 5 N 0 e R s O E A a A O r a g a E S R n i Ç c m n r U V c o Ç a a Ã oa s v O A e d s R d O e n a C E s a - t I 1 F o 5 N 0 I s O N a A M g a R n Í Ç n r C o Ç a Í Ã o N s v IO s O - - O e I M s D A A IN M V ÍC A ÍN I C M O - - I I M N Á D A X A - - A Ç IM Ã V O A AC M I I N R N Á a E A d T 2 p a X C - - ª o p E ó Ç O I d s ó s R M e M 1 Ã o s d V 6 ª s 5 2 E i O A e A 0 d a ª m N o 1 L s d D e s m O o e s A s ê , e e E I D 3 s s R N N ª Oa E d T 2 p a T C ª o p E ó R O d s a ó s R E e M 1 p d 2 o s a d V 6 Mª ª A ó o p s 5 2 E i e A s d s 0 d ó a S ª m N e Í o 1 s d o 1 L s N d 3 D s D 2 ª e s 2 m i O o e 0 a Ie d ª s O m A M s ê e , 1 s o d e E D S 3 e m s s s o O N s e E ª O s ê e , S e T s s 3 ª R a E p d 2 a 0 M ª A ó o p , 5 s d s ó * S e Í - o 1D s d m N 3 D a s 2 ª 2 0 i O e l 0 c a I d ª O m , a M i 5 1 s So m d t S e m s é A o m O a s e E s ê 1 e G , S e 1 l s s 3 9 E m ª a M l no 0 s ,5 * - D m a A 0 O l I I c D n n , a i 5 S m t t Mt r r é A m a a I a V N1 G m m ( ( I 1 I l I I A 9S M M E m u u T D a M ) ) s s R l n E c c A o u u Çs l l Ã a a O r r A I I D n n At t M r r L Pa a I d d M M V O N Lm m ( ( e e I I I I ú ú I A C S M M l l C t t u u s s A T D o o A c c ) ) s s R L i i E u u c c Ç d d A l l D u u e e Ã o o Ç l l E Ã Oa a O r r R A H E L P I d d M M C O P L A Oe e Oú ú I C 2 2 2 2 G l l M C D t t s s 5 5 5 5 A U o o A c c E É x x x x L L i i u u N 7 7 6 6 R Ç d d H Ml l D De e Ã o o A A I E O C D A A A R V ( ( * B H A m m * E E * L I R 1 1 C * I u u P D T T A 5 5 O l l O O E A t t 2 2 2 2 G M d d M i i D D d d F5 5 5 5 U P E i i R a a o o E É x x O x x A A L s s N s s 7 7 6 6 R P S D H e e Ó C M E D ) ) A O S A I C D c A R e A e v f R a a ô f e ç l a m e a õ A d i ç e i i a L A õ g t V s , o ( ( g e a * G B A m m * l , A s a s a E o * U p L , s b R 1 1 * D l c I t l u u ú o D s i T T r N a 5 5 n r o c c V l l O E A p i t t a f S i e s M n d d o u i i D E i , s s d d F t r n E n P E i i s R . e a R a a o o F o O o ó V r . A A S i e s s s D d s s d t P S E D O b e , e e e o u Ó C s r N E l s S e m ) ) l o O e S c o , T v n o c s e e O n o e . g . c f f F l R o S a a ê e e l e r l n v e i f b t R a a a o i c ô a f r . e ç i l a e , m a e a õ A d , , i ç e i i a L õ g t s , o g e a G R l , A s a s a e o U p , s b a D l c t l ú o s i r N ç a n r o c c V õ p i a f S i e s n o e u E i , s s t r s n E n s R . e a F o o l ó V r . S o i e s D d d t E c O b e , e o u a s r N l s S e m l o e i c o s , T v n o . c s e e O n o e . g . f f F l o S a a ê e l r l n e i b t a o i c a r . i e , a , , D D P i i f a ( f t( d p t P ed h a P e T i a e r u ( T c l p e r i o H r c e a m p i t r a m e a l P , u t a u ) a l T , Vu s a u ) l nT é ( s a )s v 1 l o i t é ( r s a í s 0 a1 r i t r u n ) s 0 a s o n ) , o , H ( u re C m c o o a D T C q m n é e i u o f o t t D b e T q 1 a e 6 l éi n 8i u u r n f , i t o t c e a a 1 a e h n l 1 n u r e t , i o c e a 1 h ) 6 e c B á e a a p n s c P s ( B u t t r u T é B í a o p g l o e r a c a d e i e x t a c P u r d i é n ( B f n t r M t T o í r o é c a o o a i o a i r o v c ) d d e d i x í t r a e r u e ti é u n a M t r s o a i a o ) d r e ta U Tr m ês a d d o U o s s m e e s a dose U g m a e s c a t * a - a d * d ç o * ã a U s o g * e m a e * s c a t a a d a d a ç a o n G p ã a p 3 o s e a o a 6 e s r s a r ª t t d t i n a i s r 9 r e e n o d d m i t e d s a e a a a 1 s a a 2 d n n G 0 p a 7 p 3 a e o ª e a a , 6 s r s r ª t t d t i a i s a e r r e ( e n n m d 2 d m i t 0 oe d a e 1 d s a a 1 s 2 5 d n i - (0 a a 7 2 ) a e n ª 0 e , t 1 e 9 6 ) 1ª 6 - d 5 m a o a 6 1 p s e n ª 0 e s ó o d . e d s s 3 o s i d a s a ª a e p T s p d ó ó o s s s e: a 6 p m d 0 6 ó o a e m s d 3 s s 1 p e e e 0 iª . d ó s a s 3 d e d s a T s o s ª p i d s d a a ó e p o T s s ó s 1 e s ª : a 3 p 0 ó d 0 0 s , , i d 5 5 a T s m m l l 0 I I n n ,5 t t r r a a m m m ( ( I I l M M u u ) ) s s c c u u l l a a r r Intra d M d M m ( e e ú ú I l l M t t s s u o o c c ) s i i u u c d d l l u e e o o l ar d M e ú l 2 2 2 2 t s 5 5 5 5 o c x x x x i u d 7 7 6 6 l e o U U a a ( ( p p m m s s o o ó ó o o s s i i n n m m p p 2 2 o o e e r r d d 5 5 e e d d o o p p x x i i a a s s a a 7 6 e e t t r r o o o o ) ) ce R R f e e U a E a a a ( l H p m s e ç ç o ó H õ õ i o a s e e i , , n m s s c p g o o e r l l a d o o e n d s o p c c t v ia a a r s a u o e t i i r s s l o o e ) s , , ã n f f e e o te b b e r r r i e e te , , , Re E a H ç H õe , s c o lo n c v a u is ls , ã fe o b e r e, Cax P u a S m p a h (S i b r u ( la C o H am m R , m P R ) a p V a u ( n o 6) v b , o ) í é r o u l s a Sar P aH a m ( e p u P r e p i R a m l c o o u p o a m , b i C l m n é o e a ao o m v b x 1l í a u6 i r 8 a n u m, v a s 1b í n 1 r a u t , e s 1 ) 6 P V a a c t í r r e t á u í n a P p c s u n s u a s v u a l t u r a i í d t p v g l í a d o o c e e a u r d n f l o í o a c i v d d e í a de r D au o n u s so a e s s s , d c a o o n n s t e e sT s r id i r o ( êe > r rs e 1 ad s 9 r ) oses - - - an 9 o 1 s 1 a - nos a e ( n m 2 1 0 o 1 1 d s a 5 i ( a n 2 ) n o 2 0 e t ª s 1d 9 e 9 d 6i 0 ) a o s se: 1ª 6 d 5 m o 2 a 1 s e ª n ª e s o d d . 2 e s o 3 ªo s d d s 3 a s ª a e i oe p 0 a p d s : ó s e ó o : s s s 2 e : m d 6 o e m 2 s s 1 ª e e e ª . d s s 3 d 0 o e a o s s ª, p 5 e s d a ó e : p mo s 2 ó s 1 le s ª : 0 S ,5 u b m( c Sl u C t ) â nea Intr d a e m ( l R t IM e o ug id ) siã e co a u n l a ar d M e 1ú l 3 t sx o c4 i u d ,5l e o (m 8 6 u h l e t 2 2 o i / d o 5 5 ra o u x x s s7 6 e) F a e r b tr r Ua a e ( l p m , sg c o ó ia e o s i, f n m a a p l o r e et r d i r e a dit o p , ie e a s a , x e tp r a o o ) ú n r t p e u m ra a , ce R f e a a le çõ ia e , s g l a o s c t a ro is e , n fe te b r r i e te , , CaFxe ub S rm e a ((S b r F a a CA am m R , ) aR ) p r u ( e o 6 lb , a ) é ola Sa A raF m me e ( a 5 b p Rr ) r e oe ul , ab C é a o x la umba V at ír e u n V as u t í v a r ei u d vn s o ou v a i d v o o Umd D a ao n u ds o a oe s s ss , e d c a o o n n s t e e s s r id i o ( e > Ú r r e 1 a n 1 s 9 r i ) 0 c o a , n a o p s ós - - - - - - d 9 i 0 a a s1 n 0 os d 3 i 0 0 a , 5 s ml 0, S 5 u m b ( c l S u C t ) â nea Su d b e ( c l RS t u e o Cg i t d ) â i ã e n o a e n a a del R t 1 e o 3 g id x iã e 4 o a ,5 na (m 4 u 1 h lt 3 o id x ra o 4 s s ,5 e) Fe V b i r s e ( c m , R e m e8 r 6 u o a i h a ç t l e t r l õo ó g i / d e o p i r a sa o i u , c l s s o c a e e c . f a A ) a i g s le . u ia d . a D F . a e r b tr r a e l , g c ia e , f a a l r e t i r a it , e e , x p a ú n r t p e u m ra a , D F if e t b er r i ( e a d ( ,F a T TA m ) é)t a a r n e o la e D T iAf é t F m t e a e ( r n a 5 i b a o r ) r e e l a Pr b ( o T a d o c u x t i é tV a n o rt a í i r ae d ) u n es u v a i d v o o a ( T c n r o ê t d n e s o s r d i i s o d o e U r e s s e r e m s a s ) ra dos g A e r a c F v a e e d ri s a a m , n a 1 e o 0 n s c Ú a t a o nn d1 s o a i 0 cs 5 . o a , n a o p s ós - - - - d 6 i 0 a s - d 3 i 0 a s a 1 n0 0 o,5s ml 0In,5t rmam ( l IM u ) s cular Sub d M (e cú Sl u t s Co tc ) â i u d nl e oe a del R t e 2 2 o g 5 5 id i x x ã e 7 6 o a na (m 1 u 5 l 1 t d i 3 d iax o s4 se ,5 ) c R e e v f a a ô ç l m e õ i e i a t ( s , o m l a s o4 , bu c l s i h l a n ct io f ie s o d , s r n n s a oo o ós ss d d e, o u s) m l o o n s e o . g F l a ê e l n i bF a c re . i e aV b, , i r s e c , R e m e ro a ia ç tr l õ ó g e p ia s i , c l o c a e c . f a A a i g s le . u ia d . a D. ( ( H H B B D r r e i e f H c H t c o V e e o e m p A r m p i a( C a b d a t b I , i i N t T n t T i i e) n A a t é e n B a t t a n B e n t ) e o ( ) 2 ( ) 2) P H C R e O O H p e D a N T e T t E p i T i f é t Ç t a R e t e Ã t a A B r i n O t i a e o B P d a C r o t O d í v c P e M í u d r a s u l r o P u a s t P d p O í d v a c r e e b ( a í n u S o T r r s a t u f c l I d o u a í í Ç ác c g s u x p p i Ã t d e e a i é t e s n a n O n o ur r o a t f c il aa í í d á ) c g p i e e e d s n o u o s ( l T V c e a r A o s B ê C n Á a s d I s N n S d o i I A t d o C s e ( Ç T a ( A e s c e T * r c Ã n e r r i o s r o * o a ê O s ê t N d n r a r n * s e s e o s nº s * d rs d i i i s Dt d )o o * d o e e e O r s e s r s e e r i r e So a s a s s E ) r r r R Se O E s U V ) A R C E I - F N O g A AR r Ç a Çc F Ã O v a e O e d r i s a a m , n - a 1 e o 0 n s c a t a M o n d s Í o a N I N s 5- I . Í M C A IO DA V M - - AC Á I X N I - M AÇ A ÃO m 2 R 1 ª I e E N ª - - d s C d o T e O o s s E s e M a e R p 1 , E V 3 ó m N ª s A ê d D 2 L s o ª A O a s d m D 2 e p o 1 ª E ó O 5 s e ª d e N s s d o eT o s s a R s e 2 p a e 2 d E ª p 1 ó 6 , M m d i 3 ó s A 0 m 2 a o ª s e Í ª 1 S s s ê d N 2 s d ª e s e o D . ª I o : s 3 a M s d 1 s O ª e p a e o m O p d ó S 5 s ó o e s E ê s s s S e a 2 p 2 0 ª ó , m d 2 5 s 2 * 0 o e dm ª 1 D 3 s s a d ª e i e l 0 . O a o : e a s 3 1 s s S t ª m a e é m A p d a 1 ó o ê G i 9 s s s s E e 1 a M m no 0 l s , 2 5 . 0 m A a 0 l D I e n a ,5 M t t m é r I ma V N a 1 m ( I i I l I 9 A s S M u T 1 a D ) s R m n E c A o u l Ç s l . a Ã r O I I n n A t t r r L P a a d M O L m m ( ( e ú I I I C l M M C t s u u A o c A ) ) s s i u L d c c Ç l D u u e o Ã l l E O a a r r R H E I C d d M M P A O e e O ú ú Gl l M 2 2 t t s s D Uo o5 5 c cE É x x i i u u Ld d N R 7 6 H l l e e o o M D A A I C D A A F V ( * R A m * A * L 1 * S I u D T C 5 l E A O t 2 2 2 2 M d D i A d 5 5 5 5 P E i B a o Ox x x x A E s s 7 7 6 6 P R D e Ó T E ) O S R f e a a d ç i õ g g e A a, s a ( ( L p m m s G l t ú o A 1 1 r u ur U o c 5 5 p D a i l l N n t tu i V d ds i i t r S d d . e a E i iF a a r o o. E R i e D s s t s s V b e S e e e r E O l s e ) ) e c N , S v o c e T n e . O R c f f R o a f e e S a e l rv ef a t d a a ôo i ç a ç i l m õ g e, õ g e a i e i a t , s a s , o p s l l a s t ú o o r , b r o c c l p s i a a i n c n u i i f e s s t r o , . e s a n n F s r . o i e o ó D t b s e d d e , r o u l s s e e m c l o , o v o n c e s e n e o . . g f f F l o a a ê e l l r n e i b t a c o i r a . i e a , , , VACINA P C R O O N TE T Ç R Ã A O COMPOSIÇÃO VA B C Á IN SI A C Ç A Ã O Nº DOSE R S O E U VA R C E I F N O A R Ç Ç Ã O O MÍN IN I Í M C A IO DA V M AC Á I X N IM AÇ A ÃO R I E N C T O E M R E V N A D L A O D E O NTRE M A Í S N D IM O O SES *DOSAGEM ADMI V N I I A S T D R E A ÇÃO A L P O LI C C A A L Ç D Ã E O R H E I C P A O O G M D U E É L N R H M D A A I C D A A F V * R A * A * L * S ID T C E A O M D A P E B O A E P R D Ó T E O S ALG A U D N V S E E R V S E O N S T OS ***** As atualizações do Esquema Vacinal estão disponíveis em: www.saude.pr.gov.br
