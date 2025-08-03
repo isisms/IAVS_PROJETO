@@ -1,0 +1,225 @@
+1.1. A leptospirose, é uma doença infecciosa febril de início abrupto,
+cujo agente etiológico é uma bactéria do gênero Leptospira, sendo endêmica no
+Brasil e tornando-se epidêmica em períodos chuvosos, principalmente nas
+capitais e áreas metropolitanas, devido às enchentes associadas à aglomeração
+populacional, condições inadequadas de saneamento e alta infestação de
+roedores. No ano de 2023, foram notificados 19.565 casos de leptospirose, dos
+quais 3.100 foram confirmados para a doença, resultando em 254 óbitos e uma
+taxa de letalidade equivalente a 8,2%. Até a semana epidemiológica 5 de 2024,
+foram notificados 625 casos, com 38 confirmações e 4 óbitos.
+1.2. Dada a relevância da doença, especialmente durante o período de
+chuvas e o aumento das arboviroses no país, podendo levar ao confundimento
+dos sintomas, esta Coordenação-Geral de Vigilância de Zoonoses e Doenças de
+Transmissão Vetorial (CGZV), do Departamento de Doenças Transmissíveis
+(DEDT) da Secretaria de Vigilância em Saúde e Ambiente (SVSA) do Ministério
+da Saúde, intensifica a importância das abordagens para identificação de casos
+leptospirose.
+2. ANÁLISE
+2.1. Durante o período chuvoso, as inundações podem causar diversos
+problemas de saúde pública, entre eles, a leptospirose. Em meio à esta
+situação, o país um aumento de casos de dengue e outras arbovirores que
+corroboram para a subnotificação de casos de leptospirose, devido os seus
+sintomas iniciais serem bastante semelhantes.
+2.2. A leptospirose é uma doença que pode acometer diversos órgãos e
+suas funcionalidades, caracterizada pelo início abrupto de febre, comumente
+acompanhada de cefaleia, mialgia, anorexia, náuseas e vômitos, podendo ser
+confundida com outras causas de doenças febris agudas.
+2.3. É uma doença com manifestações clínicas variadas, possuindo
+quadros mais leves até mais grave comprometendo diversos órgãos, podendo
+cursar de forma anictérica ou ictérica.
+2.4. É uma doença de curso bifásico, tanto a forma anictérica quanto à
+forma ictérica. Possui a fase precoce (séptica), na qual há maior circulação da
+bactéria no sangue (leptospiremia) que dura de 4 a 7 dias com sintomas mais
+inespecíficos e febre bastante alta, dores musculares, acometendo com mais
+frequência os da panturrilha, resultando em palpação dolorosa e congestão
+conjuntival (figura 1).
+2.5. No segundo momento, na fase tardia (imune), momento em que há
+aumento de produção de anticorpos, na forma anictérica pode ocorrer pequenos
+sangramentos e na forma grave (ictero-hemorrágicas) pode ocorrer a Síndrome
+de Weil, com hemorragias, principalmente pulmonar, insuficiência renal e
+icterícia.
+2.6. A icterícia é considerada um sinal característico da e apresenta uma
+tonalidade alaranjada muito intensa (icterícia rubínica), no exame complementar
+a bilirrubina direta é elevada.
+2.7. O comprometimento renal é frequente na forma grave. Caracteriza-
+se por elevação dos níveis de ureia e creatinina, aumento da excreção de sódio
+e alterações variadas na urina como proteinúria e hematúria.
+2.8. O comprometimento pulmonar da leptospirose apresenta-se com
+tosse seca, dispneia, expectoração hemoptoica e, ocasionalmente, dor torácica
+e cianose, e pode indicar agravamento da doença.
+2.9. Os casos com comprometimento pulmonar podem evoluir para
+insuficiência respiratória aguda, hemorragia maciça ou síndrome de angústia
+respiratória do adulto; e, muitas vezes, esse quadro precede o quadro de
+icterícia e insuficiência renal. Nesses casos, pode ocorrer óbito nas primeiras 24
+horas de internação.
+Figura 1. Progressão clínica da leptospirose com sinais e sintomas mais
+característicos.
+Fonte: SVSA, 2024.
+2.10. O diagnóstico diferencial deverá basear-se principalmente nos
+dados epidemiológicos e clínicos. Deve ser considerado o histórico de
+possíveis exposições de risco para transmissão da leptospirose nos 30 dias
+anteriores ao início dos sintomas.
+2.11. O auxílio de exames complementares pode ser importante para o
+direcionamento do diagnóstico. Algumas manifestações clinicas podem ajudar a
+diferenciar a leptospirose das arboviroses (Quadro 1).
+Quadro 1. Diagnóstico diferencial entre Leptospirose, Dengue, Zika e
+Fonte: Brito e Cordeiro (2016), adaptado em Dengue: diagnóstico e manejo
+clínico. Modificado por Marcos Vinicius da Silva e Rodrigo Nogueria Angerami,
+2.12. A suspeita oportuna ajuda a reduzir a gravidade. O tratamento
+deve ser iniciado no momento da suspeita clínica, não necessitando
+aguardar a confirmação dos resultados laboratoriais.
+2.13. O Quadro 2 apresenta opções de medicamentos para tratamento da
+leptospirose de acordo com cada fase da doença. O médico deverá avaliar e
+conduzir o tratamento clínico de acordo com cada paciente.
+2.14.
+Quadro 2. Opções de tratamento para leptospirose
+Fonte: SVSA, 2024.
+2.15. Além do manejo terapêutico, é importante que estes casos sejam
+notificados, principalmente para subsidiar medidas de prevenção e controle e
+planejamento da assistência.
+2.16. Assim, deve-se considerar a seguinte definição de caso suspeito,
+conforme determina o Guia de Vigilância em Saúde da doença (Figura 2).
+2.17.
+Figura 2. Definição de caso suspeito para leptospirose.
+Fonte: SVSA, 2024.
+2.18. Durante o atendimento, é importante considerar a história clínica
+do paciente, além de questionar sobre exposições de riscos que podem
+estar relacionadas à leptospirose, já que outras doenças
+apresentam sintomatologias semelhantes.
+2.19. A condução clínica adequada do paciente será determinada a
+partir dos sinais e sintomas apresentados, conforme fluxograma apresentado na
+figura 3 abaixo.
+Figura 3. Fluxograma para atendimento e condução clínica de pacientes
+suspeitos de leptospirose.
+Fonte: Marcos Vinicius da Silva / PUC-SP.
+2.20. O Anexo A (0038934024) fornece uma ferramenta essencial para a
+avaliação apropriada de casos suspeitos, destacando os sinais de alerta
+associados à doença.
+2.21. Os profissionais de saúde devem estar atentos ao início dos
+à sorologia. É importante ressaltar que, em média, a produção de anticorpos
+pode começar a partir do 7º dia do início dos sintomas. Portanto, pacientes
+cujas amostras tenham sido coletadas anteriormente, dependendo do resultado
+da sorologia, podem necessitar de uma nova coleta para confirmar o
+diagnóstico, conforme descrito no Guia de vigilância 2023- volume 3.
+2.22. Reforça-se que o uso de quimioprofilaxia não é indicado pelo
+enchentes, em virtude da insuficiência de evidências científicas sobre benefícios
+e riscos para um grande contingente populacional.
+3. CONCLUSÃO
+3.1. A vigilância em saúde deve intensificar as ações e apoiar os
+leptospirose, devendo notificar e registrar todos os casos suspeitos no Sistema
+de Informação de Agravos de Notificação - Sinan.
+3.2. Para outras informações sobre a leptospirose acessar página do
+3.3. Para informações adicionais, contatar o grupo técnico por meio do
+telefone (61) 3213- 3563 ou pelo e-mail: gtroedores@saude.gov.br.
+4. BIBLIOGRAFIA
+4.1. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e
+Ambiente. Departamento de Articulação Estratégica de Vigilância em Saúde e
+Ambiente. Guia de vigilância em saúde : volume 3 [recurso eletrônico] /
+Ambiente, Departamento de Articulação Estratégica de Vigilância em Saúde e
+Ambiente. - 6. ed. - Brasília : Ministério da Saúde, 2023.
+4.2. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e
+Ambiente. Departamento de Doenças Transmissíveis. Dengue : diagnóstico e
+manejo clínico : adulto e criança [recurso eletrônico] / Ministério da Saúde,
+Transmissíveis. - 6. ed. - Brasília : Ministério da Saúde, 2024.
+4.3. Brito, C. A.; Cordeiro, M. T. One year after the Zika virus outbreak in
+Brazil: from hypotheses to evidence. Rev. Soc. Bras. Med. Trop., v. 49, n. 5, p.
+537-543, Sep./Oct. 2016.
+4.4. Haake DA, Levett PN. Leptospirosis in humans. Curr Top Microbiol
+Immunol. 2015;387:65-97. doi: 10.1007/978-3-662-45059-8_5. PMID:
+25388133; PMCID: PMC4442676.
+Atenciosamente,
+Coordenador-Geral de Vigilância de Zoonoses e Doenças de Transmissão
+De acordo,
+do Departamento de Doenças Transmissíveis, em 21/03/2024, às
+22:35, conforme horário oficial de Brasília, com fundamento no § 3º, do art.
+4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da Portaria
+nº 900 de 31 de Março de 2017.
+Lima Junior, Coordenador(a)-Geral de Vigilância de Zoonoses e
+Doenças de Transmissão Vetorial, em 22/03/2024, às 10:32, conforme
+horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº
+10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de
+Março de 2017.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+Referência: Processo nº 25000.019937/2024-65 SEI nº 0039577468
+SRTVN Quadra 701, Via W5 Norte Edifício PO700, 6º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+Site - saude.gov.br
+4102
+- lirba
+Fluxograma 1 Conduta médica diante de um paciente Fluxograma 2 Conduta clínica no primeiro atendimento
+Avaliar no primeiro atendimento Solicitar no primeiro atendimento iniciar no primeiro atendimento Síndrome Febril Aguda: + Contato físico com áreas alagadas,
+Febre, cefaléia e mialgia lama ou esgoto, principalmente • Pressão arterial • Hemograma • Penicilina cristalina 1,5 milhões ui, iv,
+6/6h ou
+após fortes chuvas ou ocorrência de • Frequência respiratória • Na+, K+, uréia, creatinina
+enchentes OU que resida ou trabalhe • Ceftriaxona: 1g iv/dia
+• Sat O2 (ar ambiente) • TGO, TGP, BT, BD, CPK
+em áreas de risco da doença, nos 30 (se houver dúvida no diagnóstico,
+SinAiS de AlertA • Escala de Glasgow • Sorologia para leptospirose
+dias antes do início dos sintomas fazer 2g iv/dia)
+Presença de um ou mais dos seguintes sinais: • Diurese nas últimas 6-12h • Hemocultura para leptospira
+• Se houver contra-indicação:
+1 Dispnéia, tosse e taquipnéia • Sangramento • Hemocultura para aeróbios Azitromicina - 500mg iv/dia
+2 Alterações urinárias, geralmente oligúria
+3 Fenômenos hemorrágicos, incluindo escarros
+4 Hipotensão
+Presença de:
+5 Alterações do nível de consciência SiM • Tosse ou nãO
+6 Vômitos freqüentes • Escarro hemoptóico ou
+7 Arritmias • Fr>28 ipm ou
+8 Icterícia • Gasometria arterial • Estertores crepitantes ou
+• Radiografia de tórax • Sato2<92% (ar ambiente)
+• Pao2< 60 mmhg ou
+• Sf 0,9% 500ml, iv bolus, repetir até 3x
+• Infiltrado bilateral ao rx ou
+• Monitorizar padrão respiratório
+• Fr>28 ipm e sato2<92% (ar ambiente)
+encaminhar para Unidade Hospitalar • Leucograma de urgência • Se piora respiratória, reiniciar
+de referência: • Preencher Ficha de Notificação
+• Iniciar condutas para o primeiro atendimento • Informar ao paciente
+leucograma: Sim: pneumonite - internação precoce em Uti
+alerta, de acordo com o Fluxograma 2
+• Acompanhar ambulatorialmente
+• Preencher Ficha de Notificação e coletar (retorno em 24-72hs) AvAliAr diUreSe APÓS HidrAtAçãO
+• Suporte ventilatório precoce (Ventilação
+mecânica com estratégia protetora)
+• Avaliar diurese
+>10.000/mm3 normais <4.000/mm3
+ObS.:
+Ausência de diurese Presença de diurese Se indicada, a diálise Ausência de diurese Presença de diurese
+1 tratamento: <0,5ml/kg/h >0,5ml/kg/h <0,5ml/kg/h >0,5ml/kg/h
+• Investigar outras doenças
+<4-6h
+• dOXiCiClinA: 100mg, VO, 12/12hs por 5 a 7 dias (não deve ser utilizada em crianças
+• Avaliar necessidade de
+menores de 9 anos, mulheres grávidas e em pacientes portadores de nefropatias ou
+hepatopatias) OU
+• AMOXiCilinA: Adultos: 500mg, VO, 8/8hs, por 5 a 7 dias OligúriCA
+• Indicar diálise. • Fazer furosemida 100mg, iv • Hidratação vigorosa
+Crianças: 50mg/kg/d VO, 8/8h, por 5 a 7 dias
+• Se creatinina ≥ 4 mg/ (dose única). com SF 0,9%
+• Se pressão arterial baixa
+2 Solicitar sorologia para leptospirose, que deve ser enviada para o LACEN. dl ou uréia ≥ 150 mg/dl (80ml/kg/dia).
+e sinais de desidratação, • Se diurese, tratar como ira não
+indicar diálise.
+3 Alguns casos de leptospirose leve, mesmo quando tratados, podem evoluir para moderados fazer hidratação mínima oligúrica. • Se PAM<60 ou PA
+e graves, em questão de horas ou dias. Cabe ao médico orientar o paciente quanto às (Sf 0,9% -500 ml) • Reposição volêmica crite- < 90x60 mmhg, iniciar
+Contatar a • Se não teve diurese, indicar diálise.
+complicações possíveis ou ocorrência de sinais de alerta com monitorização riosa com monitorização droga vasoativa.
+• Se pressão arterial baixa, iniciar
+respiratória. respiratória. Se diurese
+5 Manter vigilância do paciente até a fase de convalescença (1-2 semanas) ou Ambiental da SMS • Se piora respiratória,
+droga vasoativa.
+<500 ml em 12h ou
+• Se PA ainda baixa iniciar reiniciar fluxograma.
+6 exames laboratoriais básicos: hemograma completo, uréia e creatinina, bilirrubinas e
+uréia e creatinina cres- • Se piora respiratória, reiniciar
+droga vasoativa.
+transaminases, sódio e potássio. Se necessário, solicitar radiografia de tórax e gasometria
+centes indicar diálise. fluxograma.
+arterial. Outros exames dependem da evolução clínica.
+1. O método dialítico preferencial é a hemodiálise. O tempo do início dos cuidados
+até a diálise deve ser no máximo de 4h.
+febril aguda suspeita de leptospirose, mas não deve ser usado como o único instrumento de decisão terapêutica. Uma vez reconhecido os
+2. Pressão arterial (PA) baixa: PA média <60mmHg ou PA sistólica <90mmHg.
+sinais de alerta do paciente devem-se iniciar as condutas sugeridas no Fluxograma 2: Condutas no primeiro atendimento de pacientes
+≥ ≥
+de leptospirose e com sinais de alerta 3. Droga vasoativa: noradrenalina ( 0,05µg/kg/min) ou dopamina ( 5µg/kg/min).

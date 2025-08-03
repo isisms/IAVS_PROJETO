@@ -1,0 +1,2022 @@
+1 Introdução 15
+2 Epidemiologia 17
+2.1 Agente etiológico 17
+2.2 Vetores 19
+2.3 Roedores 20
+3 Bioecologia da peste 23
+3.1 Reservatórios da peste 23
+3.2 Focos naturais 24
+3.3 Ciclos bioecológicos da peste 25
+3.4 Manutenção da peste nos focos 26
+4 A peste no Brasil 27
+4.1 Focos de peste do Brasil 27
+5 A peste humana 33
+5.1 Fisiopatogenia 33
+5.2 Patologia 34
+5.3 Epidemiologia 34
+5.4 Manifestações clínicas 35
+5.5 Diagnóstico diferencial 39
+5.6 Tratamento 40
+5.7 Diagnóstico laboratorial 42
+6 Técnicas utilizadas no diagnóstico de peste 44
+6.1 Diagnóstico bacteriológico 44
+6.2 Diagnóstico sorológico 47
+6.3 Diagnóstico em roedores 48
+6.4 Diagnóstico em pulgas 49
+6.5 Técnicas diversas 49
+6.6 Nova técnicas 50
+7 Biossegurança 52
+8 Monitoramento da atividade pestosa 53
+8.1 Monitoramento da população de roedores 53
+8.2 Monitoramento da população de pulgas 56
+8.3 Inquéritos sorológicos entre os carnívoros 58
+9 Controle 59
+9.1 Medidas preventivas 59
+9.2 Educação em saúde e mobilização social 59
+9.3 Controle dos roedores 60
+9.4 Vacinação 60
+9.5 Busca ativa 60
+9.6 Definição de caso 61
+9.7 Investigação epidemiológica 61
+9.8 Notificação e medidas internacionais 62
+9.9 Medidas em caso de epidemia 65
+10 Vigilância e controle em áreas endemo-enzoóticas 68
+10.1 Relevância da peste e conseqüente urgência epidemiológica:
+circunstâncias condicionantes 68
+10.2 Métodos de monitoramento epidemiológico e técnicas de diagnóstico 69
+10.3 Estratégias de monitoramento epidemiológico e suas indicações 70
+11 Avaliação epidemiológica 71
+11.1 Logística 71
+11.2 Fluxo de informações 72
+11.3 Programação e acompanhamento 72
+12 A peste e a visão de controle multidoença e multissetorial 73
+13 Desenvolvimento e manutenção dos programas
+nacional, estaduais e municipais de controle da peste 74
+Referências 75
+Anexos 81
+Anexo A – Controle dos reservatórios – Anti-ratização 83
+Anexo B – Controle do vetor – Desinsetização 84
+Anexo C – Ficha Sinan 85
+Anexo D – Fichas Sispeste 87
+O termo peste é usado popularmente para designar flagelos marcantes que, por sua magnitude e
+transcendência, alteram a rotina das famílias, das sociedades e das nações. Contemporaneamente, é
+uma doença conhecida quase somente pelos poucos profissionais que lidam diretamente com seu con-
+trole, sendo considerada rara por uns e até mesmo um fato pitoresco por outros, merecendo atenção
+somente nas epidemias, quando é veiculada pela imprensa.
+O desenvolvimento socioeconômico dos estados e a evolução da saúde pública modificaram o ca-
+ráter terrificante que caracterizou a peste no passado, reduzindo sua magnitude, mas tal fato não pode
+implicar descontinuidade das ações de vigilância epidemiológica, como bem demonstram as ocorrên-
+cias na República Democrática do Congo, na Índia e no Equador, que puseram em risco as pessoas e
+as economias locais.
+A peste foi introduzida no Brasil em 1899 e atualmente é mantida como enzootia entre os roedores
+silvestres nos focos naturais remanescentes localizados no Nordeste e na Serra dos Órgãos, no Estado
+do Rio de Janeiro, situação que pode determinar sérias conseqüências médicas e socioeconômicas ao
+país, o que a torna um problema atual e merecedor de atenção. Os resultados de inquéritos sorológicos
+realizados sistematicamente pelo Programa de Controle da Peste (PCP) em roedores silvestres permi-
+casos humanos em alguns deles.
+Os últimos eventos significativos de peste humana ocorreram nos estados do Ceará e Paraíba, na
+década de 1980 onde foram notificados 76 casos e três óbitos. Dados da década de 1990, nos anos de
+1994, 1996 e 1997 revelam que o Estado do Ceará notificou e confirmou laboratorialmente três casos
+de peste humana: dois por exame sorológico, em Guaraciaba do Norte e um por isolamento da bacté-
+ria, em Ipu. O Estado da Bahia confirmou um caso de peste humana, pelo critério clínico-epidemio-
+lógico, no ano 2000. Houve um período silencioso na ocorrência de casos nos anos 2001 a 2004. No
+ano de 2005, mais um caso humano foi confirmado por exame sorológico, dessa vez no município de
+Pedra Branca, Ceará.
+A persistência nesses focos deve, pois, ser considerada uma ameaça real e permanente de acome-
+timento humano nessas regiões, que pode estender-se para outros lugares, inclusive centros urbanos,
+tornando-se imperativo que os técnicos de saúde estejam preparados para lidar com o problema.
+Assim sendo, a Secretaria de Vigilância em Saúde (SVS), cumprindo uma de suas atribuições, pro-
+duziu este manual, revisando os conhecimentos e padronizando os procedimentos de vigilância e
+controle da peste.
+14 Secretaria de Vigilância em Saúde • MS
+1 Introdução
+A peste é uma doença infecciosa primordialmente de roedores, transmitida por picadas de pulgas infec-
+tadas. O homem é infectado acidentalmente quando, em atividades de caça, agricultura, comércio ou lazer,
+penetra no ecossistema dos roedores reservatórios da doença. Ocasionalmente, com a ocorrência da peste
+pneumônica, pode ser transmitida diretamente, determinando uma emergência epidemiológica, com qua-
+dro de altíssima letalidade, o que justifica sua utilização como uma opção para bioterrorismo.
+A doença foi responsável por grande morbimortalidade em diferentes épocas. Histórica e concisamente,
+alguns eventos merecem destaque: os primeiros registros de ocorrência da peste constam no 1º Livro de
+Samuel. Durante a era cristã, ocorreram três grandes pandemias: a primeira, a Peste de Justiniano (542-602
+d. C.), iniciou-se no Egito e disseminou-se por todo o mundo civilizado, com alta letalidade. A segunda, a
+Peste Negra, iniciou-se na Ásia e estendeu-se por toda a Europa e norte da África, persistindo do século XIV
+ao XVI, expressando-se clinicamente pela pneumonia, responsável pela morte de 42.386.486 pessoas entre
+1347-1353. A terceira é a Pandemia Contemporânea. Oriunda de Yunnan, na China, estendeu-se para Hong
+Kong em 1894 e de lá se espalhou para os diversos continentes por meio de transporte marítimo, criando
+focos naturais em regiões do mundo até então indenes.
+A peste foi introduzida no Brasil em 1899 pelo porto de Santos-SP, e os primeiros casos ocorreram em
+outubro, devidamente documentados por Vital Brasil e Oswaldo Cruz. A partir daí, a zoonose disseminou-
+se pelo país: portos do Rio de Janeiro e de Fortaleza, em 1900; de Pernambuco e do Rio Grande do Sul, em
+1902; do Pará e Maranhão, em 1903; da Bahia, em 1904; do Paraná, Espírito Santo e Sergipe, em 1906; da
+Paraíba, em 1912 e de Alagoas, em 1914, pelo sertão.
+A gravidade da situação exigia medidas imediatas e eficazes, o que fez com que o governo instituísse, a partir
+de 1903, sob o comando de Oswaldo Cruz, a Campanha de Combate à Peste Urbana. Em 1936, o Departamento
+Nacional de Saúde (DNS) assumiu o controle e obteve bons resultados. A evolução da proposta levou à criação
+do Serviço Nacional da Peste (SNP), um marco na história do controle das grandes endemias. Posteriormente,
+as atividades de controle passaram para o âmbito do DNERu, da Sucam, Funasa e, finalmente, para a SVS/MS.
+A peste continua sendo uma ameaça em grandes áreas do mundo: América do Norte, no meio-oeste dos
+EUA; América do Sul, no Brasil, no Equador, no Peru e na Bolívia; África, principalmente em Madagascar
+e na República Democrática do Congo; Ásia, na China, no Laos, em Mianmá, no Vietnam, na Índia e no
+sudoeste da Europa, próximo ao Mar Cáspio, com focos na Federação Russa (Figura 1). No Brasil, atual-
+mente, merecem atenção duas áreas de focos independentes: a do Nordeste, abrangendo uma extensa área,
+correspondente ao Polígono das Secas, estendendo-se do Estado do Ceará ao norte de Minas Gerais, e a da
+Serra dos Órgãos, nos limites dos municípios de Nova Friburgo, Sumidouro e Teresópolis-RJ.
+A peste urbana foi controlada na maior parte do mundo, mas ainda ocorre na África. Esporadicamen-
+te, há registros de casos humanos no continente africano, principalmente em Madagascar e na República
+Democrática do Congo; e no asiático na Índia e em Mianmá. No Vietnã, durante a guerra contra os EUA,
+entre 1962 e 1972, ocorreram milhares de casos de peste bubônica, urbanos e rurais, surtos de pneumonia e
+detecção de portadores assintomáticos. Nas Américas, os focos do Nordeste do Brasil, os dos EUA e os dos
+países andinos continuam a produzir casos e surtos ocasionais.
+Os caracteres clínico-epidemiológicos da peste pneumônica justificaram sua inclusão no Regulamento
+Sanitário Internacional (RSI), que exige dos países a imediata notificação das ocorrências de peste humana,
+epizootias e registro de áreas infectadas, bem como a execução de medidas para controle de roedores nos
+portos e nos aeroportos internacionais.
+Figura 1. Distribuição mundial da peste (OMS) – 2000-2005
+Fonte: www.who.int/en
+x Pedra Branca/CE, Brasil: um caso, 2005
+16 Secretaria de Vigilância em Saúde • MS
+2 Epidemiologia
+2.1 Agente etiológico
+O agente etiológico da peste é a Yersinia pestis. O gênero Yersinia engloba duas outras espécies patogêni-
+cas para o homem, a Y. pseudotuberculosis e a Y. enterocolitica, ambas são enteropatogênicas, transmitem-se
+pela via orofecal e causam a Yersiniose.
+A Y. pestis é um bacilo Gram negativo, imóvel, não formador de esporos. Em microscopia óptica, as bac-
+térias apresentam-se bem coradas nas extremidades e claras no centro (coloração bipolar) e podem se mos-
+trar isoladas, em aglomerados ou formar pequenas cadeias. A característica morfológica mais importante
+da Y. pestis é seu pleomorfismo, podendo se apresentar sob formas cocóide, anelar ou bastonetes longos,
+espessos ou afilados.
+O bacilo não sobrevive bem saprofiticamente, é destruído rapidamente pela luz solar ou por temperaturas
+acima de 40ºC. É inativado pela acetona, pelo fenol e pelo álcool. Um aspecto extremamente importante
+protegidos (medula óssea), principalmente a baixas temperaturas. O fenômeno da resistência aos antimicro-
+bianos (estreptomicina, gentamicina, tetraciclinas, cloranfenicol, sulfadiazina e quinolonas) foi detectado a
+partir da década de 1990. Apesar de raro ainda, o potencial de impacto da propagação das cepas resistentes
+justifica todos os esforços feitos para seu monitoramento.
+A temperatura ideal para o crescimento da Y. pestis é de 28°C. Após 48 horas de incubação é possível
+observar pequenas colônias convexas, brilhantes e translúcidas e com bordos inteiros. Uma característica
+morfológica quando empurradas com uma alça de platina. O bacilo possui poucas reações bioquímicas
+positivas: orto-nitro-fenil-galactosidase (ONPG), fermenta a glicose sem produção de gás, o manitol, a ara-
+binose, a trealose e a esculina (Figura 2).
+Figura 2. Provas bioquímicas
+Dependendo das reações de fermentação do glicerol e redução do nitrato em nitrito, distinguem-se três
+variedades de Y. pestis denominadas regionais ou biovars: Antiqua ou Continental, Mediaevalis e Orientalis
+ou Oceânica (Figura 3).
+Figura 3. Variedades geográficas de Yesinia pestis
+G+N+ G+N- G-N+
+doença, mas possuem diferentes distribuições geográficas e cada uma foi associada a uma das três grandes
+pandemias (Quadro 1).
+Quadro 1. Variedades geográficas de Yersinia pestis e áreas de distribuição
+Antiqua + + África central, centro e norte da Ásia, China (Mandchúria), Mongólia
+Mediavalis + - Região do Mar Cáspio
+Mianmá, sul da China, Índia, África do Sul, América do Sul,
+Orientalis - +
+18 Secretaria de Vigilância em Saúde • MS
+A introdução de novas técnicas moleculares (ribotipagem, MLVA, RFLP-IS) enriqueceu essa linha de
+pesquisa, permitindo a subtipagem dos biovars clássicos.
+O conhecimento da estrutura genética da Y. pestis é indispensável para a compreensão dos mecanismos
+de patogenicidade, bem como para o desenvolvimento de novos testes diagnósticos. O genoma da Y. pestis
+consiste em um cromossomo e três plasmídeos prototípicos: pYV, pFra e pPst (Figura 4). No cromossomo
+existe uma região considerada uma “ilha de alta patogenicidade” (HPI).
+Figura 4. Plasmídeos de Yersinia pestis
+O pYV confere ao bacilo a capacidade de superar as defesas do hospedeiro; o pPst parece envolvido na
+transmissão pelas picadas das pulgas, e o pFra codifica a toxina murina e o antígeno capsular da Y. pestis
+(Fração 1 ou Fl). A F1 é a proteína utilizada na maioria dos testes aplicados na rotina diagnóstica da peste.
+2.2 Vetores
+2.2.1 Ordem Siphonaptera
+As pulgas são os vetores biológicos da peste bubônica e pertencem à ordem Siphonaptera (do grego
+siphon = tubo, aptera = sem asas), que é composta por quase 3 mil espécies, 60 das quais já identificadas
+no Brasil. Os machos e as fêmeas são hematófagos e possuem aparelho bucal do tipo picador-sugador, pa-
+rasitam mamíferos (94%) e aves (6%), sendo os roedores os hospedeiros preferenciais (74%). São insetos de
+coloração castanha, corpo achatado lateralmente, com cerdas voltadas para trás, destituídos de asas, dotados
+de três pares de patas (haxápodes) e medem 3 mm em média.
+O artrópode ingere o sangue do hospedeiro bacteriêmico e o bacilo multiplica-se no seu estômago, pre-
+enchendo a parte anterior do canal intestinal, o proventrículo, determinando o fenômeno de “bloqueio”.
+As pulgas ditas “bloqueadas” são altamente infectantes, pois ao tentar se alimentar fazem grande esforço
+para sugar e provocam a regurgitação do conteúdo do proventrículo e conseqüente inoculação de miríades
+de bactérias na corrente sangüínea do novo hospedeiro. A pulga bloqueada é, obviamente, mais ávida por
+sangue, tendendo a picar um maior número de hospedeiros. Se o bloqueio é incompleto, se é intermitente,
+tentativas de repasto até morrer por inanição ou desidratação, em contrapartida à sobrevida curta (três a
+cinco dias) da pulga totalmente bloqueada.
+As espécies mais importantes nos focos naturais de peste no Brasil estão relacionadas no Quadro 2.
+Quadro 2. Principais espécies de pulgas nos focos de peste do Brasil
+Famílias Gêneros Espécie – hospedeiros principais e secundários
+Pulex P. irritans – O homem e animais domésticos
+X. cheopis – Roedores sinantrópicos comensais e silvestres, cães
+Pulicidae C. felis felis – Cães e gatos domésticos, canídeos e felídeos silvestres
+C. canis – Cães e gatos domésticos, roedores sinantrópicos
+P. b. jordani – Roedores silvestres e sinantrópicos comensais
+P. tripus – Roedores silvestres e sinantrópicos comensais
+P. roberti roberti – Roedores silvestres e sinantrópicos comensais
+P. rimatus – Roedores silvestres e sinantrópicos comensais
+C. minerva minerva – Roedores silvestres e sinantrópicos comensais
+T. penetrans – Animais domésticos (cão, gato, suínos, bovinos),
+A. antiquorum – Marsupiais e roedores
+L. segnis – Roedores sinantrópicos comensais e silvestres
+2.3 Roedores
+Os roedores são mamíferos pertencentes à ordem Rodentia, a qual se caracteriza por uma estrutura parti-
+cular da arcada dentária: ausência de caninos, incisivos desprovidos de raízes e sempre crescendo. A ordem
+Rodentia é a mais numerosa da classe Mammalia, possui cerca de 40 famílias, 389 gêneros e 2 mil espécies,
+correspondendo a cerca de 40% das espécies de mamíferos existentes (BRASIL, 2002).
+Os roedores vivem em qualquer ambiente terrestre que lhes dê condições de sobrevivência. Apresentam
+extraordinária variedade de adaptação ecológica, suportando os climas mais frios e os mais tórridos, nas
+regiões de maior revestimento florístico e nas mais estéreis; suportam grandes altitudes e em cada região
+podem mostrar um grande número de adaptações fisiológicas.
+20 Secretaria de Vigilância em Saúde • MS
+Algumas espécies são consideradas sinantrópicas por associarem-se ao homem em virtude de terem
+seus ambientes prejudicados pela ação do próprio homem. Neste manual as diversas espécies de roedores
+estão separadas em roedores sinantrópicos comensais, isto é, aqueles que dependem unicamente do ho-
+mem, e sinantrópicos não comensais ou silvestres (Figuras 5 e 6), ainda não inteiramente dependentes do
+ambiente antrópico.
+Figura 5. Necromys lasiurus Figura 6. Calomys expulsus
+(Bolomys lasiurus) (Calomys callosus)
+Os roedores sinantrópicos comensais, os ratos, da família Muridae, acompanharam o homem em seus des-
+locamentos pelo mundo, quando se espalharam, favorecidos principalmente pelo omnivorismo a que tão
+bem se adaptaram, vivendo tanto na habitação terrestre como na aquática, isto é, nas embarcações, fator
+que muito concorreu para sua difusão de cidade a cidade e de continente a continente. Nas áreas urbanas
+predominam três espécies: Rattus norwegicus, Rattus rattus e Mus musculus (Figura 7).
+Figura 7. Roedores sinantrópicos comensais
+As principais espécies de roedores nos focos de peste no Brasil são mostradas no Quadro 3.
+Quadro 3. Principais roedores dos focos de peste do Nordeste do Brasil
+Família Subfamília Gêneros, espécies
+Rattus rattus, Rattus norvegicus, Mus musculus
+(sinantrópicos comensais)
+Akodon,Necromys lasiurus (Bolomys lasiurus), Calomys,
+Holochilus, Nectomys, Oligoryzomys, Oryzomys, Oxymycterus,
+(sinantrópicos silvestres)
+Rhipidomys, Wiedomys
+Caviidae Cavia, Galea, Kerodon
+Echimydae Trichomys, Proechimys
+22 Secretaria de Vigilância em Saúde • MS
+3 Bioecologia da peste
+3.1 Reservatórios da peste
+A peste é primordialmente uma zoonose de roedores silvestres que pode, em determinadas condições
+epizoóticas, infectar outros mamíferos, inclusive o homem. O bacilo da peste mantém-se na natureza à custa
+de complexa rede de interações, envolvendo não só características das populações do hospedeiro e do vetor,
+mas também fatores bióticos e abióticos do ambiente.
+Além dos roedores, outros mamíferos são suscetíveis à peste: primatas não humanos, alguns insetívoros
+(muscaranho, porco-espinho), predadores (raposas, gambás, castores, cães); camelos e gatos domésticos já
+foram implicados na infecção direta do homem, assim como os lagomorfos. As aves e outros vertebrados
+não tomam parte no ciclo natural da doença, embora as aves de rapina possam desempenhar papel impor-
+tante ao transportar pulgas infectadas a outras populações de roedores e ao homem.
+A principal fonte de infecção na natureza são os roedores, embora nem todas as espécies tenham a mes-
+ma importância como reservatório. Há dois tipos de reservatórios de peste: os reservatórios básicos ou
+primários (permanentes) e os secundários (temporários).
+A condição de reservatório básico não é imutável ou permanente. A mesma espécie de hospedeiro pode
+ser a dominante e o reservatório básico em uma área e ocupar posição secundária em outra. Além disso,
+quando as condições geográficas mudam, alguns reservatórios básicos podem ser substituídos por outros.
+Os hospedeiros permanentes variam em cada foco, mas geralmente são espécies de roedores pouco sus-
+cetíveis, isto é, que se infectam, mas não sucumbem facilmente à doença. As espécies muito suscetíveis,
+grande número das quais morre durante uma epizootia, são importantes para a ampliação e a difusão da
+peste, bem como para a infecção do homem.
+Das quase 2 mil espécies de roedores existentes no mundo, cerca de 230 espécies albergam naturalmente
+a Y. pestis. Entretanto, somente 30 a 40 espécies servem como reservatórios básicos ou primários, com as
+demais atuando como reservatórios secundários, assegurando a manutenção e a difusão da doença.
+Os roedores sinantrópicos comensais, os ratos, da subfamília Murinae, migraram através do mundo e
+suas populações cresceram com o desenvolvimento das cidades, dos meios de transporte e do povoamento
+das áreas rurais. A infecção penetra nas colônias desses roedores a partir dos focos silvestres, que são os
+focos primários (permanentes), e os de peste murina, os secundários (temporários).
+No Brasil, o Necromys lasiurus (Bolomys lasiurus) (Zygodontomys lasiurus pixuna) foi considerado o prin-
+epidemiológicos por sua densidade populacional, suscetibilidade à infecção e proximidade do homem.
+As famílias Caviidae e Echimydae também têm importância epidemiológica, tanto para a epizootização
+como para a manutenção da Y. pestis. O preá (Galea spixii) é relativamente resistente à Y. pestis, desenvol-
+vendo altos títulos de anticorpos, enquanto o punaré (Trichomys apereoides) é extremamente sensível. Esses
+animais mantêm estreito relacionamento com o homem, pois, além de com ele dividirem os alimentos (gra-
+míneas e cereais da roça), são fonte de proteínas, e na caça, pelo manuseio da carne contaminada, tornam-se
+fonte de graves infecções.
+3.2 Focos naturais
+Uma doença possui um nicho ou foco quando o agente patogênico, o vetor específico e o animal hos-
+pedeiro coexistem indefinidamente sob condições naturais, independentemente da existência do homem.
+Esses três elementos constituem parte da associação natural ou biogeocenose adaptada a um habitat par-
+ticular, sendo os focos encontrados em áreas geográficas com peculiaridades ecológicas bem definidas e
+determinadas pela topografia, pelo clima, pela vegetação e por outros fatores mesológicos.
+Uma das características fundamentais da peste é a sua persistência nos focos, alternando fases de inativi-
+dade com epizootias. Os períodos de silêncio epidemiológico podem durar décadas até irromper uma epi-
+zootia que se revela por mortandade entre os roedores e, freqüentemente, por casos humanos esporádicos.
+A epizootia pode dar lugar à formação de zonas temporárias de peste, onde hospedeiros suscetíveis e vetores
+foram introduzidos a partir do foco permanente.
+Os focos localizam-se em áreas com condições ecológicas e geográficas específicas, com uma fauna diver-
+sificada de roedores e pulgas, o que parece ser essencial para sua manutenção, pois asseguram a circulação
+da Y. pestis.
+As epizootias de peste tendem a se irradiar para os territórios adjacentes, desde que estes abriguem po-
+pulações muito densas de roedores suscetíveis à infecção pela Y. pestis em áreas cultivadas extensas, tal
+como nos focos do Agreste (Pernambuco), de Minas Gerais e da Bahia. Se as áreas vizinhas apresentam
+populações rarefeitas de roedores, dificilmente haverá irradiação da infecção pestosa, o que ocorre no foco
+da Serra dos Órgãos-RJ.
+podem induzir irradiação de epizootias para microrregiões mais ou menos distantes. É o caso dos surtos
+isolados que ocorrem na Chapada do Araripe, que tem como epicentro o município de Exu, de onde a peste
+se propaga e alcança outros municípios (Crato, Barbalha, Jardim, Missão Velha, Porteiras-CE; Araripina e
+Bodocó-PE; Simões-PI), atravessando extensas áreas pobremente povoadas por roedores, determinando
+curtos períodos de epizootias e infecção humana.
+O ecossistema da peste tipicamente sempre apresenta os mesmos aspectos (Figura 8) topográficos (zonas
+geralmente elevadas, sopés de serras, áreas montanhosas, chapadas, agrestes, vales); climáticos (temperatura
+ambiente geralmente amena, oscilando entre 18ºC e 25ºC; taxas de umidade relativa do ar altas); fitogeográ-
+ficos (quase sempre com vegetação de pequeno porte, própria de áreas agrícolas: capinzais, hortas, canaviais,
+roças de cereais, capoeiras) e faunísticos (grande variedade de animais silvestres e domésticos, dentre os
+quais várias espécies de roedores e pulgas, que se inter-relacionam com o homem).
+Figura 8. Regiões pestígenas do Brasil
+24 Secretaria de Vigilância em Saúde • MS
+3.3 Ciclos bioecológicos da peste
+A epidemiologia da peste pode ser resumida em quatro ciclos bioecológicos:
+• Ciclo enzoótico, que ocorre entre hospedeiros naturais moderadamente resistentes, como certas espé-
+cies de roedores silvestres.
+• Ciclo epizoótico, que inclui a transmissão do bacilo entre as espécies silvestres sensíveis (roedores, la-
+gomorfos). Essas espécies freqüentemente morrem e suas pulgas buscam outros hospedeiros, como os
+roedores comensais. Alternativamente, pequenos carnívoros, como cães e gatos domésticos ou selva-
+gens, podem contrair a infecção de roedores silvestres infectados por ingestão ou picada de suas pulgas
+infectadas. O homem (lavradores, caçadores, excursionistas) pode participar desse ciclo e contrair a
+(peste humana silvestre ou rural).
+• Ciclo domiciliar ou urbano da peste, quando as pulgas infectadas de roedores silvestres envolvidos
+nas epizootias transmitem a infecção aos roedores comensais e suas pulgas. Por sua vez, as pulgas dos
+roedores comensais picam o homem, produzindo peste bubônica primária e peste pneumônica secun-
+dária sob a forma de casos humanos isolados ou surtos. A peste pneumônica secundária origina o ciclo
+pneumônico primário.
+• Ciclo pneumônico, a transmissão ocorre diretamente de pessoa a pessoa pela inalação de aerossóis
+contendo bactérias (peste pneumônica primária), gerando epidemias humanas (peste dêmica).
+Figura 9. Ciclo bioecológico da peste
+3.4 Manutenção da peste nos focos
+Os mecanismos de manutenção da peste nos focos naturais nas diversas regiões do mundo durante os pe-
+ríodos interepizoóticos ainda não foram devidamente esclarecidos. As principais hipóteses são as seguintes:
+• Circulação permanente do bacilo pestoso em infecções esporádicas, agudas e subagudas, seguindo o
+ciclo roedor–pulga–roedor, com permanência mais prolongada no organismo dos vetores, principal-
+mente durante a estação fria. A permanência da peste nos focos naturais depende da estabilidade das
+relações entre os elos da cadeia de transmissão, particularmente no tocante à existência de alimentos.
+Quanto mais sólidas forem essas relações, mais estável será a manutenção da Y. pestis na natureza.
+Nessas áreas existem sempre roedores em número suficiente nos quais as pulgas podem alimentar-se,
+de modo que virtualmente não há ectoparasitos sem hospedeiros. Tais áreas ocupam pequeno espaço
+e nelas não costumam ocorrer epizootias intensas e amplas, embora o bacilo da peste possa nelas per-
+sistir durante longo tempo. As epizootias pestosas podem ser explosivas e envolver grande número de
+roedores, mas se não houver um sistema de vigilância eficaz nem sempre serão detectadas. A infecção
+reduzida. Nessas circunstâncias, a infecção pestosa persiste e passa despercebida até que novas popula-
+ções de roedores suscetíveis sejam afetadas.
+• Infecção latente em animais que se infectam pouco antes da hibernação ou estivação e que é reativada
+quando as funções do animal voltam à sua normalidade.
+• Infecção crônica, com os bacilos da peste se conservando durante vários meses no interior dos órgãos
+parenquimatosos, envolvidos por uma cápsula de tecido adiposo, sem perder sua virulência. Posterior-
+mente, a cápsula desagrega-se e desenvolve-se um processo infeccioso generalizado, o que possibilita a
+infecção das pulgas e a reativação da epizootia.
+• Conservação da peste pelas pulgas durante os períodos interepizoóticos. Elas podem ser consideradas
+reservatório, além de vetor, pois conservam o bacilo pestoso no seu organismo durante o período frio e
+o transmitem durante a estação quente. Pulgas infectadas podem sobreviver até seis meses em galerias
+de roedores sob condições ótimas de microclima.
+• Interação roedores resistentes/roedores sensíveis. A perenidade da peste dependeria de um ciclo limi-
+tado de epizootias periódicas que dizimariam as espécies sensíveis, mas não as resistentes, que con-
+servariam a infecção durante os períodos interepizoóticos. Essa conservação dependeria das pulgas,
+numerosos roedores que sobrevivem nas tocas, que por sua relativa resistência são capazes de manter
+a infecção em baixo nível, assegurando pelo menos a longa sobrevida das pulgas infectadas nas tocas
+profundas, de microclima estável e favorável.
+• Conservação da Y. pestis nas galerias dos roedores que possuem condições favoráveis ao bacilo, esteja
+ele no organismo do roedor, da pulga ou mesmo no solo contaminado.
+26 Secretaria de Vigilância em Saúde • MS
+4 A peste no Brasil
+As medidas de controle desencadeadas a partir da sua introdução no país e o impacto do progresso fize-
+rural, constituindo os focos naturais. A história da peste no Brasil pode ser dividida em quatro fases:
+• Fase portuária: introdução da doença em 1899 e sua manutenção nos portos e seu entorno nos primei-
+ros anos do século XX.
+• Fase urbana: interiorização da peste através das ferrovias e das rodovias a partir de 1907, atingindo
+cidades, vilas e povoados.
+• Fase rural: com o controle nas cidades, a invasão de fazendas e sítios, a partir da década de 1930.
+• Fase silvestre: assentamento em seu habitat, constituindo os focos naturais.
+4.1 Focos de peste do Brasil
+Os focos são delimitados com base nos registros de ocorrências de peste humana e animal e nas caracterís-
+ticas bioecológicas da região. Existem duas áreas principais de focos independentes no Brasil (Figura 10):
+• Focos do Nordeste: zonas pestosas do Polígono da Seca, distribuídas por vários estados do Nordeste
+(Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Bahia e Piauí) e nordeste de Minas Gerais
+(Vale do Jequitinhonha). Em Minas, há uma zona fora do Polígono, o Vale do Rio Doce.
+• Foco de Teresópolis: adstrito a uma pequena área da Serra dos Órgãos, nos limites dos municípios de
+Nova Friburgo, Sumidouro e Teresópolis-RJ.
+Os focos do Nordeste têm seus centros em elevações cujas condições de temperatura, umidade, vegetação
+e fauna são bem diferentes das que prevalecem nas regiões circunvizinhas. São os seguintes:
+• Focos no norte e no centro do Ceará: Serra da Ibiapaba, Serra de Baturité, Serra da Pedra Branca,
+Serra do Machado, Serra das Matas, Serra de Uruburetama.
+• Focos no Sul do Ceará/oeste de Pernambuco/leste do Piauí: Chapada do Araripe.
+• Foco de Triunfo: limites de Pernambuco e Paraíba.
+• Foco do Agreste: Chapada da Borborema, estendendo-se do Rio Grande do Norte a Alagoas.
+• Focos da Bahia: Planalto Oriental da Bahia, Chapada Diamantina/Piemonte da Diamantina, Planalto
+de Conquista, Serra do Formoso, na microrregião de Senhor do Bonfim.
+• Chapada do Apodi: Rio Grande do Norte (sem registro de casos humanos).
+Figura 10. Focos de peste do Brasil
+AM PA 1 2
+4RN Natal
+3 5 João Pessoa
+AC TO PI PE 6 Recife
+Rio Branco Porto Velho Palmas 100 9 8 7 SE AL Maceió
+Cuiabá Brasília 11
+DF 12
+13 ES
+SP 114
+1. Serra da Ibiapaba 8. Serra do Formoso
+2. Serra de Baturité 9. Piemonte da Diamantina
+3. Chapada do Araripe 10. Chapada Diamantina
+4. Chapada do Apodi 11. Planalto de Conquista
+5. Serra do Triunfo 12. Foco do Vale do Jequitinhonha
+6. Chapada da Borborema/Agreste 13. Foco do Vale do Rio Doce
+7. Planalto Oriental da Bahia 14. Serra dos Órgãos
+28 Secretaria de Vigilância em Saúde • MS
+No Quadro 4 pode-se observar a morbimortalidade por peste no período de 1935 a 2007. Até a década
+de 1970 o número de casos registrados anualmente situou-se de 20 a 100, geralmente de modo isolado, no
+entanto esporadicamente ocorrem epidemias, como em 1974-1975, na Bahia (com maior intensidade no
+foco do Planalto Oriental); em 1975, no foco da Chapada do Araripe (Ceará e Pernambuco); em 1986-1987,
+na área paraibana do foco da Chapada da Borborema. Desde os anos 90 as ocorrências de peste humana
+limitaram-se a raros e esporádicos casos.
+Quadro 4. Morbimortalidade por peste, por estado, Brasil, período de 1935 a 2007
+1935 - 148 - - 421 - - - - 2 - 571 233
+1936 16 146 - 4 90 - - 72 - 31 - 359 136
+1937 - 2 - 5 23 - - 5 - 1 - 36 15
+1938 - 16 - 5 94 19 - - 12 - - 146 61
+1939 - 5 - 1 44 55 - 2 - 4 - 111 45
+1940 - 11 - - 104 83 - 57 - - - 255 53
+1941 - 2 - - 145 112 - 36 7 - - 302 87
+1942 - 4 - - 16 12 - - - - 3 35 7
+1943 - 22 - - 25 13 - 6 - - - 66 22
+1944 - 69 - - 22 36 - 27 - - - 154 36
+1945 - 31 - - 151 9 - 1 - - - 192 42
+1946 - 175 - 19 66 2 1 36 - - 34 333 71
+1947 - 3 - 4 47 17 - 10 - - 7 88 11
+1948 - 33 - - 71 25 - 257 - - - 386 54
+1949 - 10 - - 24 1 - 52 - - 9 96 18
+1950 - 3 - 5 11 19 - 17 - - - 55 10
+1951 - 6 - - 7 3 - 4 - - - 20 4
+1952 - - - - 19 41 - 1 4 - - 65 6
+1953 - - - - 5 2 - 3 - - - 10 1
+1954 - - - - 2 - - 4 - - - 6 1
+1955 - 4 - - 3 - - 20 - - - 27 10
+1956 - - - - 4 - - - - - - 4 -
+1957 - - - - 12 5 - 20 - - - 37 7
+1958 - - - - - - - 25 - - - 25 5
+1959 - - - - - - - 16 - - - 16 -
+1960 - - - - - 13 - 13 2 - - 28 8
+1961 - 7 - 31 39 12 - 15 - - 2 106 11
+1962 - 16 3 3 13 1 - - - - - 36 1
+1963 - 13 - 2 7 3 - 14 - - - 39 12
+1964 - 145 - 2 66 60 - 12 - - - 285 24
+1965 - 36 15 3 23 4 - 37 - - 1 119 22
+1966 - 30 3 - 2 - - 13 - - - 48 2
+1967 - 106 - 1 24 6 - 10 9 - 1 157 10
+1968 - 198 - 1 52 17 - 17 - - - 285 16
+1969 - 98 - 3 28 - - 99 - - 65 293 34
+1970 - 79 - - 10 1 - 11 - - - 101 5
+1971 - 122 - 3 17 - - 4 - - - 146 6
+1972 - 107 - - 2 5 - 55 - - - 169 9
+1973 - 131 - - - 2 - 19 - - - 152 3
+1974 - 147 - - 11 - - 123 - - 9 290 21
+1975 16 127 - 6 271 - - 76 - - - 496 7
+1976 - 95 - - - - - 2 - - - 97 1
+1977 - 1 - - - - - - - - - 1 -
+1978 - 11 - - - - - - - - - 11 -
+1979 - - - - - - - - - - - 0 -
+1980 - 84 - - 7 - - 6 - - - 97 -
+1981 - 59 - - - - - - - - - 59 -
+1982 - 128 - - 1 - - 22 - - - 151 2
+1983 - 66 - - - - - 12 - - 4 82 -
+1984 - 19 - - - - - 16 - - 2 37 2
+1985 - 33 - - - - - 38 - - - 71 -
+1986 - 4 41 - - - 31 - - - 76 3
+1987 - - 1 11 - - - 33 - - - 45 -
+1988 - - - - - - - 25 - - - 25 -
+1989 - - - 2 - - - 24 - - - 26 -
+1990 - - - - - - - 18 - - - 18 -
+1991 - - - - - - - 10 - - - 10 -
+1992 - - - - - - - 25 - - - 25 -
+1993 - - - - - - - 14 - - - 14 -
+1994 - 1 - - - - - 17 - - - 18 -
+1995 - - - - - - - 9 - - - 9 -
+1996 - 1 - - - - - 4 - - - 5 -
+1997 - 1 - - - - - 15 - - - 16 -
+1998 - - - - - - - 4 - - - 4 -
+1999 - - - - - - - 6 - - - 6 -
+2000 2 2 -
+2001 - - - - - - - - - - - - -
+2002 - - - - - - - - - - - - -
+2003 - - - - - - - - - - - - -
+2004 - - - - - - - - - - - - -
+2005 - 01 - - - - - - - - - - -
+2006 - - - - - - - - - - - - -
+2007 - - - - - - - - - - - - -
+Total 32 2.556 22 152 1.979 578 1 1.522 34 38 137 7.050 1.134
+Fonte: CDTV/CGDT/SVS/MS
+30 Secretaria de Vigilância em Saúde • MS
+Comprovações bacteriológicas e/ou sorológicas da infecção pela Y. pestis têm sido feitas entre as seguintes
+espécies de animais:
+• Roedores: Rattus rattus, Necromys lasiurus (Bolomys lasiurus) (Zygodontomys lasiurus pixuna), Galea
+spixii, Oryzomys subflavus, Oligoryzomys nigripes (Oryzomys eliurus), Calomys expulsus (Calomys callo-
+sus), Akodon arviculoides, Trichomys apereoides (Cercomys cunicularius), Nectomys squamipes.
+• Carnívoros: Canis familiaris, Felis cattus.
+• Pulgas: Xenopsylla cheopis, Polygenis bohlsi jordani, Polygenis tripus, Pulex irritans, Ctenocephalides sp.
+• Marsupiais: Monodelphis domestica.
+No período 1966-1997, foram isoladas 917 cepas de Y. pestis dos focos do Nordeste (155 de casos huma-
+nos, 490 de roedores, 236 de pulgas). O Quadro 5 mostra a origem dos isolamentos em roedores, e o Quadro
+6 a origem dos isolamentos em pulgas.
+Quadro 5. Pesquisa de Yersinia pestis em roedores e outros pequenos mamíferos nos focos do
+Nordeste do Brasil, 1966 a 1982 (reproduzido de Almeida et al., Rev. S. Publ., 21, p. 265-267, 1987)
+Chapada do Araripe Triunfo Planalto da Norte P. Oriental
+Gêneros 1966-1974 1975-1982 1975-1982 Agreste PE leste-PB 1976-1982 1975-1979 %
+1975-1982 1975-1982
+Exam. (+) Exam. (+) Exam. (+) Exam. (+) Exam. (+) Exam. (+) Exam. (+) Exam. (+)
+Rattus 1957 (30) 336 64 (1) 265 198 42 - 2862 (31) 1,08
+Mus - 3 8 14 119 - - 144 -
+Akodon - - - 4 - - - 4 -
+Calomys 439 (2) 49 - 244 149 1 (1) - 882 (3) 0,34
+Oligoryzomys 394 (4) 37 (1) 5 451 23 (1) - 1 911 (6) 0,66
+Oryzomys 575 (18) 114 (2) 321 (5) 810 (1) 510 (1) 3 - 2333 (27) 1,16
+Necromys 7578 13954
+1311 (15) 396 (9) 2667 (11) 1404 (7) 592 (5) 6 2,73
+lasiurus (334) (381)
+Wiedomys 78 1 - 2 6 - - 87 -
+Holochilus - - - 1 18 5 - 24 -
+Oxymicterus - - - 10 - - - 10 -
+Trichomys 547 (9) 130 (4) 14 13 14 1 - 719 (13) 1,81
+Gálea 1137 (6) 503 79 101 132 10 1 1963 (6) 0,31
+Kerodon 117 - - --- - - - 117 -
+Marmosa 10 - - --- - - - 10 -
+Monodelphis 220 (1) 102 (1) 49 81 5 - 1 458 (2) 0,44
+Didelphis 24 5 - 6 - 1 - 36
+Ignorado - 76 20 - 79 1 (1) 13 (1) 189 (2) 1,06
+13076 24703
+Total 2667 (23) 956 (15) 4669 (12) 2657 (9) 656 (7) 22 (1) 1,91
+(404) (471)
+% infectados 3,09 0,86 1,57 0,26 0,34 1,07 4,54 1,90
+Quadro 6. Distribuição das pulgas examinadas e infectadas, 1966 a 1982
+Exam. Pos. Exam. Pos. Exam. Pos. Exam. Pos. Exam. Pos. Exam. Pos. Exam. Pos.
+9101 203 1731 19 569 1 2788 5 30 - 147 - 14366 228
+Triunfo 1359 2 518 - 56 - 132 - - - 46 - 2108 2
+Agreste/PE 4129 5 458 - 310 - 729 - 47 - 7 - 5680 5
+190 - 14 - 20 - 53 - 1 - 959 - 1237 -
+leste/PB
+647 - 654 - 63 - 128 - 1 - - - 1493 -
+sul/AL
+2032 1 1373 - 247 - 638 - 14 - 324 - 4628 1
+Total 17455 211 4748 19 1265 1 4468 5 93 - 1483 - 29512 236
+Polygenis = Polygenis bolhsi jordani e Polygenis tripus; Xenopsylla = Xenopsylla cheopis; Ctenocephalides = Ctenocephalides sp;
+Pulex = Pulex irritans; Adoratopsylla = Adoratopsylla a. antiquorum; Exam. = Examinados; Pos. = Positivos
+Reproduzido de Brasil et al., Rev. Soc. Bras. Med. Trop., 22, p. 177-181, 1989.
+32 Secretaria de Vigilância em Saúde • MS
+5 A peste humana
+5.1 Fisiopatogenia
+A Y. pestis pode penetrar no organismo através da pele e da conjuntiva por inoculação; da mucosa do
+aparelho respiratório por aspiração ou do aparelho digestivo por deglutição. A via de infecção mais comum
+é a picada de uma pulga que inoculará intradermicamente o bacilo. De acordo com a via de penetração,
+o inóculo e as defesas do hospedeiro, a infecção vai se expressar espectralmente, desde formas clínicas de
+altíssima letalidade a aquelas assintomáticas e oligossintomáticas, somente detectáveis em inquéritos soro-
+lógicos. No Vietnã, foram registradas infecções inteiramente assintomáticas, diagnosticadas pelo isolamento
+pareadas de contatos clinicamente sadios.
+5.1.1 Peste bubônica
+Após picar um hospedeiro bacteriêmico, a pulga produz uma coagulase que vai determinar a coagulação
+do sangue ingerido no seu proventrículo, o que vai determinar o bloqueio, impedindo que no próximo re-
+pasto o sangue ingerido chegue ao estômago. Ao picar a pele do novo hospedeiro, a pulga bloqueada regur-
+gitará, inoculando-lhe milhares de bactérias. Nos indivíduos com elevada imunidade pode se formar uma
+flictena rica em bacilos no local da picada, mas este é um achado incomum, de tal sorte que dificilmente a
+porta de entrada é identificada. Habitualmente, os microorganismos inoculados difundem-se pelos vasos
+linfáticos até os linfonodos regionais, que passarão a apresentar inflamação, edema, trombose e necrose
+hemorrágica, circundados por uma bainha de periadenite, constituindo os característicos bubões pestosos.
+Há replicação extracelular e os bacilos fagocitados por mononucleares sobrevivem intracelularmente, resis-
+tindo à fagocitose. A bacteriemia inicial pode estabelecer focos em todo o organismo: gânglios linfáticos,
+pele, pulmões, baço, fígado e sistema nervoso central (SNC). Se não for diagnosticada precocemente e o
+tratamento logo implantado, pode evoluir para as formas pneumônica e septicêmica.
+5.1.2 Peste pneumônica
+Se a infecção ocorrer por inalação direta de gotículas de humanos e animais doentes, principalmente os
+gatos, com inóculos contendo milhares de bactérias, tem-se a peste pneumônica primária. Na vigência de
+complicações das formas bubônica e septicêmica, por disseminação hematogênica, ocorre a peste pneumô-
+nica secundária. Ao exame, os pulmões estão congestos, com edema intra-alveolar. O comprometimento
+inicialmente é lobular, mas habitualmente progride para uma consolidação lobar. O diagnóstico das duas
+formas é difícil, mas na pneumonia primária, que vem sendo mais estudada em virtude do terrorismo,
+encontram-se freqüentemente: a) hemorragias nas mucosas traqueal e brônquica; b) pleurite fibrinosa e he-
+morragia subpleral e pneumonia exsudativa; c) lesão lobular com mais exsudação que inflamação e necrose;
+d) focos de pneumonia ao longo dos brônquios principais; e) os linfonodos hilares sendo os mais compro-
+metidos; f) o comprometimento de outros órgãos é irrelevante quando comparado ao dos pulmões; g) a
+evolução do quadro leva à sepsis, ao comprometimento sistêmico, à coagulação intravascular disseminada
+(CIVD), ao choque e à morte se o tratamento não for instituído nas primeiras 24 horas da doença.
+5.1.3 Peste septicêmica
+A primária é aquela em que não há comprometimento evidente dos linfonodos e de outros órgãos, en-
+quanto a secundária ocorre após quadros de peste bubônica ou pneumônica primária. O baço, o fígado,
+os rins, a pele e o cérebro são comumente afetados, assim como as meninges. A ação da endotoxina nas
+arteríolas e nas capilares determina hemorragias e necroses, com a CIVD sendo caracterizada pelos focos
+necro-hemorrágicos e trombos capilares de fibrina, comprometendo os glomérulos renais, as glândulas su-
+pra-renais, a pele, os pulmões e outros sítios nos casos fatais. Petéquias e equimoses são encontradas quase
+sempre na pele e nas mucosas. Há hemorragias nas cavidades serosas, nos aparelhos respiratório, digestivo e
+urinário. Podem também ocorrer lesões arteriolares, determinando obstrução e necrose do segmento atin-
+gido. Evolui com um quadro avassalador: comprometimento de múltiplos órgãos, choque e morte precoce
+se o tratamento não for instalado prontamente, o que justifica a ausência das lesões patológicas típicas da
+doença. A detecção de grandes bacteriemias ao exame do sangue periférico constitui uma manifestação de
+péssimo prognóstico.
+5.2 Patologia
+A lesão primária típica da peste bubônica é o bubão, que consiste numa massa de gânglios linfáticos coa-
+lescentes e circundados por uma bainha de periadenite. Nesta estrutura são identificados ao exame micros-
+cópico: destruição da estrutura ganglionar, dissociação dos folículos linfáticos, edema do tecido conectivo,
+zonas de hemorragia e focos de necrose ricos em bacilos. O endotélio dos vasos linfáticos e dos capilares
+também é acometido, sendo responsável pelo surgimento de sufusões hemorrágicas em diversos setores do
+organismo, o que constitui macroscopicamente o quadro mais freqüente no exame post-mortem. A septice-
+mia pestosa não possibilita a formação dos bubões, caracterizando-se por hemorragias petequiais cutâneas
+e viscerais, acompanhadas de profunda toxemia. Nesta forma, os linfonodos encontram-se geralmente con-
+gestos, pouco aumentados de volume, sendo dificilmente palpáveis. Em virtude da sepsis, todos os órgãos
+mostram-se ricamente parasitados, particularmente os alvéolos pulmonares e a luz dos túbulos renais. Na
+peste pneumônica, as mucosas traqueal e brônquica apresentam-se congestionadas e contêm líquido sero-
+sanguinolento. As lesões pulmonares mais características são a congestão aguda com edema sem sinais de
+hepatização; focos pneumônicos nodulares e pneumonia pseudolobular por confluência de áreas lobulares
+no estágio tardio da infecção. Os alvéolos são inundados por exsudato hemorrágico repleto de bacilos e
+pode haver destruição de segmentos pulmonares. Os gânglios linfáticos hilares e traqueobrônquicos tam-
+bém se apresentam afetados. As lesões em outros órgãos assemelham-se às descritas na peste bubônica. Na
+meningite pestosa, as lesões assemelham-se às de outras bacterianas.
+5.3 Epidemiologia
+5.3.1 Período de incubação
+Varia de dois a seis dias, sendo mais curto na peste pneumônica, de um a três dias, podendo ser mais
+longo em indivíduos vacinados. Incubações de poucas horas ou de oito ou mais dias são incomuns.
+5.3.2 Transmissão
+A picada de pulgas é o principal mecanismo de transmissão da doença. O homem é acometido aciden-
+roedores silvestres ou de pulgas infectadas no habitat humano. Os animais domésticos, em especial os gatos,
+34 Secretaria de Vigilância em Saúde • MS
+podem conduzir as pulgas infectadas de roedores silvestres para dentro de casa e, às vezes, podem transmitir
+a doença por arranhaduras e mordidas. Outro meio, se houver lesões cutâneas, é a manipulação de tecidos
+animais infectados, sobretudo de roedores e lagomorfos, um fato importante quando se considera o hábito
+de caçar animais tais como o preá, a paca e a cutia.
+O contágio pode ocorrer por gotículas provenientes de pessoas doentes ou animais, como o gato, com
+faringite ou pneumonia. A peste bubônica pode ser transmitida de pessoa a pessoa se houver contato com
+o pus de um bubão supurante e o aspirado contido na seringa utilizada na punção poderá também determi-
+nar a ocorrência de peste pneumônica caso haja a formação de aerossol por manipulação inadequada. Vale
+referir que em algumas circunstâncias a fonte de infecção não será precisamente determinada.
+Os casos humanos geralmente são precedidos por epizootias, mortandade de roedores sem causa aparen-
+te, fenômeno nem sempre percebido pela população e pelos técnicos. Com a morte do roedor infectado, as
+pulgas abandonam o cadáver e buscam um novo hospedeiro, mesmo que não seja o preferencial, parasitan-
+do outros animais e mesmo o homem. A “queda do rato” é um fato relatado nas epidemias, quando o rato
+(Rattus rattus) cai do telhado onde se escondia, moribundo, sem história de uso prévio de raticidas.
+A transmissão inter-humana por meio de ectoparasitos, tais como P. irritans, é rara e só é observada em
+habitações altamente infestadas e onde haja um paciente bacteriêmico. Já a pneumonia pestosa secundária,
+altamente contagiosa, que ocorre durante casos de peste bubônica ou septicêmica não tratados, determinará
+o surgimento de pneumonias primárias, uma emergência sanitária. Esta forma pode decorrer da transmis-
+são direta inter-humana ou pela aspiração acidental em laboratório, ou ainda pela inalação de poeira com
+fezes de pulgas infectadas ou escarro ressecado contendo Y. pestis. Na guerra bacteriológica esta será a via
+utilizada para os ataques – aerossóis contendo o bacilo.
+5.3.3 Período de transmissibilidade
+As pulgas podem permanecer infectantes durante meses. Na peste pneumônica o período é curto, quer
+pela evolução fatal do quadro quer pela imediata implantação da terapêutica específica. Aproximadamente
+95% destes pacientes falecem sem que cheguem a se converter em transmissores.
+5.3.4 Suscetibilidade e resistência
+A suscetibilidade é universal, e a imunidade temporária é relativa, não protegendo contra grandes inóculos.
+5.3.5 Letalidade
+Varia de acordo com as circunstâncias. Inferior a 10% quando a vigilância epidemiológica é eficaz, e
+próxima dos 100% quando ela inexiste.
+5.4 Manifestações clínicas
+Distinguem-se usualmente três formas clínicas principais da peste: bubônica, septicêmica e pulmonar.
+Outras formas, mais raras, são a cutânea primária, a faríngea, a meníngea e a endoftálmica. A rigor, pode-
+se considerar que basicamente existem duas formas de peste, com e sem bubões, uma ressalva necessária
+para que também se avente a hipótese da zoonose nos quadros clínicos que cursam sem linfadenite. Assim,
+quando houver comemorativos epidemiológicos sugestivos, os quadros clínicos de início súbito, febre alta,
+(Figura 11).
+Figura 11. Manifestações clínicas de peste
+• Mal-estar • Arrepios de frio
+• Abatimento • Dor de cabeça intensa
+• Dor de cabeça • Delírio ou prostração absoluta no leito
+• Dores no corpo • Respiração ofegante
+• Vômitos • Tosse freqüente
+• Pulso acelerado • Escarro abundante, a princípio claro,
+• Arrepios de frio depois sanguinolento
+• Febre alta • Pulso acelerado
+• Bubões • Febre sempre muito alta
+Tosse freqüente
+Febre de 39 a 41,5oC Febre de 39 a 41,5oC
+5.4.1 Peste bubônica ou ganglionar
+É a forma clínica mais freqüente, praticamente 100% dos casos, transmitida pela picada das pulgas, e res-
+ponde à terapêutica correta e oportuna. Após um período de incubação de dois a seis dias, o início do qua-
+dro geralmente é abrupto, com febre alta (39ºC-40ºC e mais), calafrios, cefaléia intensa, dores generalizadas,
+mialgias, anorexia, confusão mental, congestão das conjuntivas, pulso rápido e irregular, podendo ocorrer
+dissociação pulso–temperatura, taquicardia, hipotensão arterial, prostração e mal-estar geral. Não há uma
+fácies pestosa patognomônica. A sede é intensa e existe oligúria. Podem ocorrer distúrbios digestivos, e os
+vômitos têm duração variável, e uma diarréia abundante pode ocorrer após uma obstipação inicial.
+O bubão pestoso surge no segundo ou no terceiro dias e 1/3 dos pacientes queixa-se de dor ou refere uma
+tensão na região antes do aparecimento da lesão, o que justifica sua pesquisa precoce. O bubão tem tamanho
+variável, de 1 a 10 cm, com formato arredondado ou ovalar, apresentando a pele distendida, brilhante, com
+coloração vermelho escuro, às vezes hemorrágica e raramente ulcerada. É extremamente doloroso, com
+exacerbação dos movimentos e dos toques, levando o paciente a assumir uma atitude antálgica. De início
+é móvel, mas rapidamente adere aos planos profundos. A supuração dos bubões com flutuação é comum,
+e há resolução, apesar de lenta, após tratamento antimicrobiano. A drenagem espontânea não é comum
+nos casos tratados, e pode ser necessária a drenagem cirúrgica. A presença de linfangite é incomum, o que
+favorece o diagnóstico diferencial.
+A pulga pica mais freqüentemente os membros inferiores. Assim, a localização mais comum dos bubões é
+a região ínguino-crural (70%). Depois, por ordem de freqüência, a axilar (20%) e a cervical (10%), sendo raras
+as localizações submaxilar, clavicular, epitrocleana e poplítea (Figura 12). Os bubões múltiplos são incomuns.
+36 Secretaria de Vigilância em Saúde • MS
+Figura 12. Peste bubônica
+As manifestações neurológicas são freqüentes e diversificadas: inversão do rítmo circadiano, delírio, agi-
+tação ou estupor. A incoordenação motora é uma das manifestações mais características – marcha ébria, no
+início, com lentificação e comprometimento dos movimentos voluntários. Dentre os distúrbios da fala cha-
+ma a atenção a disartria, e podem ocorrer comprometimentos sensoriais, tais como alucinações auditivas e
+visuais. A cefaléia é cruciante. As crianças são particularmente susceptíveis ao comprometimento do SNC,
+com delírios, convulsões e coma – manifestações de péssimo prognóstico.
+A meningite pestosa na maioria das vezes é uma complicação de uma peste bubônica não tratada. Ocorre
+por disseminação hematógena e surge uma semana após o início do quadro, mas também pode acompanhar
+as formas graves da doença. Pode afligir pacientes, geralmente crianças, tratados com antimicrobianos inefi-
+cazes, tais como os betalactâmicos e os macrolídeos. A letalidade é elevada. A meningite pestosa primária é
+rara e pode ocorrer sem a presença da adenite, mas é raro a peste apresentar-se como uma infecção primária
+das meninges sem uma linfadenite antecedente. O quadro clínico é semelhante aos demais, e os bacilos e
+a endotoxina freqüentemente são detectados no líquor céfalo-raquidiano (LCR), bem como uma pleioci-
+tose neutrofílica, hipoglicorraquia e hiperproteinorraquia. Há uma relação consistente entre a meningite e
+bubões axilares, a razão é desconhecida, e a associação ocorre em cerca de 60% dos pacientes.
+Se o tratamento da peste bubônica não for instituído precocemente haverá agravamento da sintomato-
+logia, principalmente dos distúrbios cardiovasculares, e a morte ocorrerá dentro de uma semana, após uma
+síncope severa ou de um curto período de coma, dois a três dias, com uma letalidade que variará de 60% a
+95%. Nesta situação, as manifestações hemorrágicas e necróticas são freqüentes. O tratamento eficaz reduz a
+letalidade para valores como 5%, proporcionando uma rápida regressão dos sintomas gerais e do bubão (por
+reabsorção ou fistulização), evitando a ocorrência de complicações. O surgimento de eosinofilia na convales-
+cença indica um bom prognóstico. A convalescença é arrastada, com prostração severa e possíveis recaídas,
+pois a imunidade conferida pela doença é insatisfatória, podendo ocorrer mortes súbitas. As complicações
+tornaram-se raras após o advento dos antimicrobianos, e a mais grave delas é a peste pulmonar secundária.
+Sendo espectral, ela nem sempre se apresenta com a sintomatologia clássica, existindo ampla gama
+de sintomas. Em oposição às formas graves, há quadros oligossintomáticos, ambulatoriais, que se carac-
+terizam clinicamente por manifestações gerais leves, adenopatia discreta e pouco dolorosa que tende à
+supuração e à cura completa, como nos casos denominados “íngua de frio” (Pestis minor) no Nordeste.
+Essas formas provavelmente correspondem à infecção de indivíduos parcialmente resistentes à Y. pestis,
+cepa da bactéria.
+5.4.2 Peste septicêmica primária
+É uma forma pouco freqüente e nela não há reações ganglionares visíveis. Caracteriza-se pela rápida
+generalização da infecção, sinais de grave toxemia e ausência das alterações locais próprias das formas bu-
+bônica e pulmonar. O início é fulminante, com febre elevada (até 42°C ou mais). O estado geral é grave,
+com prostração intensa, pulso rápido, hipotensão arterial, dispnéia, obnubilação, hemorragias cutâneas, às
+vezes nas serosas, nas mucosas e até nos órgãos internos, e sobrevêm rapidamente o coma e a morte ao fim
+de dois ou três dias.
+sangue periférico ou em hemocultura. O diagnóstico sem prévio conhecimento da existência de peste na
+comunidade é muito difícil e passará despercebido se hemoculturas sistemáticas não forem realizadas.
+5.4.3 Peste pneumônica
+A forma pneumônica pode ser secundária à bubônica e à septicêmica ou primária, produzida por contato
+liberação de aerossóis no meio ambiente.
+Após curta incubação, dois a três dias, inicia-se um quadro infeccioso grave de rápida evolução, com
+abrupta elevação térmica (40ºC-41°C), calafrios, arritmias, hipotensão, náuseas, vômitos, astenia e con-
+fusão mental. A princípio, os sinais e os sintomas pulmonares são insignificantes ou ausentes. Às vezes,
+ocorre uma sensação de opressão torácica sem tosse ou dispnéia, mas depois surgem dor torácica cruciante
+e progressiva, com insuficiência respiratória, dispnéia, cianose e expectoração fluida, que varia de aquosa
+e espumosa a francamente hemorrágica, riquíssima em bacilos. A pneumonia e o derrame pleural às vezes
+só são detectados radiologicamente, e os sinais radiológicos podem preceder as manifestações respiratórias
+clínicas. A ausculta pulmonar é pobre, e os sinais estetoacústicos não correspondem à gravidade do caso.
+Advêm toxemia, delírios, coma e a morte da maioria absoluta dos casos não tratados adequadamente.
+riqueza de bacilos no escarro. Ocorre habitualmente em surtos que acometem grupos populacionais de con-
+vivência promíscua, principalmente em regiões frias, mas podem ocorrer nos trópicos, como já aconteceu
+em Pesqueira-PE em 1941 e na Serra de Baturité-CE em 1978 e nos últimos anos na República Democrática
+do Congo, na África.
+38 Secretaria de Vigilância em Saúde • MS
+5.4.4 Peste em crianças
+Evolui semelhantemente a dos adultos, mas os pediatras devem considerar algumas peculiaridades, pois
+esse diagnóstico pode ser difícil, mesmo em zonas endêmicas:
+• Há uma tendência maior dos casos de peste bubônica evoluírem com manifestações pneumônicas e
+meníngeas.
+• A meningite deve ser aventada se surgirem quaisquer manifestações neurológicas.
+• Os vômitos são mais freqüentes que nos adultos.
+• Na peste bubônica, a dor tem um caráter mais exuberante que o tamanho do bubão, gerando atitudes
+antálgicas.
+5.5 Diagnóstico diferencial
+O diagnóstico precoce da peste é de extrema importância não somente para salvar a vida do paciente. Ele
+de epidemias, e para que aconteça a notificação do caso ou do surto à autoridade sanitária competente deve
+ser imediata, exigindo-se a confirmação do seu recebimento. Para que esse processo decorra rapidamente,
+os médicos devem conhecer profundamente a nosologia regional, o que lhes permitará cotejá-la com a pes-
+te, fechando o diagnóstico ou descartando o caso.
+No início de uma epidemia ou quando a existência da doença na localidade é desconhecida, como já
+aconteceu inúmeras vezes em zonas tidas equivocadamente como indenes, o diagnóstico da peste é muito
+difícil. Ele se baseia no reconhecimento dos sinais e dos sintomas que caracterizam a doença, um procedi-
+mento que pode oferecer dificuldades por seu caráter proteiforme. A forma bubônica pode ser confundida
+com outras infecções, como as doenças sexualmente transmissíveis (DST) – linfogranuloma venéreo, cancro
+mole e sífilis –, com toxoplasmose infecciosa, citomegalovirose, histoplasmose aguda, tularemia, tuberculo-
+se, neoplasias, hérnias estranguladas, ricktesioses, febre tifóide e septicemias, adenite causada pela leishma-
+niose tegumentar americana e quaisquer processos que cursem com febre e linfoadenopatia, ressaltando-se
+sempre que na peste não há linfangite.
+Na ausência de comemorativos epidemiológicos, a peste septicêmica é um diagnóstico eminentemente
+laboratorial, mas a suspeita deve ser aventada no atendimento de todos os casos de sepsis que ocorram nos
+focos pestosos cuja origem seja desconhecida. Ela deve ser diferenciada das septicemias bacterianas e de
+doenças infecciosas de início agudo e de curso rápido e grave, como a meningococcemia, por exemplo, im-
+pondo-se a comprovação da presença da bactéria no sangue. Nas áreas onde grassam o tifo, a febre tifóide, a
+malária, a dengue (graus III e IV) e a febre maculosa, o diagnóstico pode oferecer dificuldades.
+A peste pulmonar, por sua transcendência, deve ser diferenciada de outras pneumonias, broncopneu-
+monias e de estados sépticos graves. Sua rápida evolução, extrema gravidade e alta contagiosidade devem
+induzir à suspeita da etiologia pestosa. Por seus caracteres epidemiológicos, a síndrome cardiopulmonar
+por hantavírus deve sempre merecer especial atenção. A detecção de cavitação ao estudo radiológico pode
+sugerir a tuberculose, o que é descartado pela história natural da doença.
+5.6 Tratamento
+A rapidez e a gravidade da evolução da peste exigem que o tratamento seja instituído o mais precoce-
+mente possível, visando a deter a bacteriemia e a superar a toxemia. A coleta de amostras para exames labo-
+ratoriais deve precedê-lo, mas não pode retardá-lo, pois o pronto tratamento é condição essencial para um
+bom prognóstico. A equipe de saúde deve adotar as medidas de biossegurança compatíveis com o caso, das
+universais na peste bubônica ao isolamento estrito na suspeita de pneumonia.
+A prescrição de antibióticos betalactâmicos (penicilinas, cefalosporinas, cefamicinas, oxicefamicinas,
+carbapanemas e monobactâmicos), de macrolídeos (eritromicina, claritromicina, roxitromicina e miocami-
+cina) e de azalídeos (azitromicina) na quimioprofilaxia ou no tratamento da peste está contra-indicada. São
+ineficazes contra a Y. pestis, contrariando o antibiograma, e levarão o paciente à morte, pois ele evoluirá com
+meningite, pneumonia e septicemia.
+A orientação geral para garantir a maior eficácia do tratamento é a seguinte:
+• Evitar ingerir os antimicrobianos com leite.
+• Não usar antiácidos à base de Al, Mg, Ca e Bi.
+• A prevenção e o tratamento de distúrbios pépticos devem ser feitos exclusivamente com ranitidina ou
+inibidores da bomba de prótons.
+• Não prescrever antidiarréicos, principalmente aqueles com caulim e pectina.
+• Jamais utilizar sais de ferro e complexos vitamínicos sob o risco de agravar o caso.
+• No tratamento parenteral, infundir cada antimicrobiano com seu próprio diluente, evitando-se asso-
+ciações incompatíveis.
+5.6.1 Tratamento de suporte
+Nos EUA, o Centers for Diseases Control and Prevention (CDC) recomenda que o paciente permaneça
+estritamente isolado durante as primeiras 48 horas do tratamento pelo risco de superveniência da pneumo-
+nia, devendo a internação ocorrer preferencialmente em unidade com estrutura que garanta a monitoração
+dinâmica e medidas de sustentação para a correção dos distúrbios hidroeletrolíticos e ácido-básicos, além
+de combate à septicemia, evitando o choque, a falência múltipla de órgãos, a síndrome da angústia respira-
+tória do adulto e a CIVD.
+As hemorragias profusas são incomuns e ocasionalmente exigem o uso de heparina. O choque endotóxi-
+co é freqüente, mas raramente os agentes vasopressores estão indicados, não havendo evidências que justi-
+fiquem a prescrição sistemática de corticosteróides. O bubão raramente requer cuidados locais, involuindo
+com a antibioticoterapia sistêmica, e a drenagem deve ser considerada um procedimento de risco.
+No Brasil, até meados da década 1970, a maioria absoluta dos pacientes era tratada ambulatorialmente, nas
+suas próprias residências, com bons resultados, tendo em vista a predominância da forma ganglionar, que se ca-
+racterizava por uma suposta benignidade e excelente resposta aos antimicrobianos. A redução de riscos de epide-
+mização durante a remoção justificavam a opção de também tratar a forma pneumônica em âmbito domiciliar.
+5.6.2 Tratamento específico
+dos anos 1990 ainda não interfere na terapêutica antimicrobiana, mas o fenômeno deve merecer a atenção
+das autoridades de saúde e o cuidado dos médicos assistentes, pois implica reduzir ao mínimo o risco de
+ocorrência de casos humanos, o que exige maiores investimentos na vigilância da doença.
+40 Secretaria de Vigilância em Saúde • MS
+Aminoglicosídeos são os antimicrobianos de eleição. A estreptomicina é o antibiótico mais eficaz con-
+tra a Y. pestis, particularmente na forma pneumônica, sendo considerado o padrão-ouro no tratamento da
+zoonose (1 g ou 30 mg/kg/dia de 12/12 horas, IM, máximo de 2 g/dia, por 10 dias). Sua dispensação pode
+oferecer dificuldades.
+A gentamicina (adultos: 5 mg/kg/dia; crianças: 7,5 mg/kg/dia, IM ou IV, de 8/8 horas, por 10 dias) é uma
+boa opção à estreptomicina e pode ser prescrita na gestação e na infância, tendo em vista os efeitos adversos
+da estreptomicina, das tetraciclinas, do cloranfenicol, das sulfas e das quinolonas. Os neonatos de mães
+doentes também devem ser tratados, e ela é a melhor indicação nesses casos. Se houver resistência aos dois
+primeiros pode-se dispor da amicacina, (15 mg/kg/dia, de 12/12 horas, por 10 dias).
+Nos casos de meningites, por sua baixa penetração no LCR, e nas septicemias, por sua gravidade, os ami-
+noglicosídeos devem ser associados ao cloranfenicol, desconsiderando-se nestas circunstâncias as restrições
+à associação.
+não complicados, devendo-se prescrever 500 mg de 6/6 horas para adultos e 25-50 mg/kg/dia para crianças,
+VO, até um máximo de 2 g por 10 dias. A doxiciclina é uma excelente opção na seguinte posologia: 200 mg
+como dose de ataque e manutenção de 100 mg de 12/12 horas ou 4 mg/kg/dia no primeiro com uma dose de
+manutenção de 2,2 mg/kg/dia para aqueles com menos de 45 kg. Deve ser ingerida com 100 ml de água, e o
+paciente deve manter o tronco elevado por alguns minutos, o que evitará a ocorrência de úlceras esofágicas
+e, se necessário, pode ser utilizada por crianças por ser tratamento de curta duração. Podem ser associadas
+a outros antimicrobianos, devendo-se, porém, evitar a associação da minociclina com os aminoglicosídeos
+por sua ação ototóxica.
+Cloranfenicol é a droga de eleição para os casos e as complicações que envolvam espaços tissulares,
+tais como a endoftalmite e principalmente a meningite, bem como a pleurite e a miocardite, em que alguns
+antimicrobianos não atingem níveis terapêuticos. Deve também ser prescrito nos casos em que há hipoten-
+são severa, nos quais uma injeção de estreptomicina IM não será bem absorvida. A posologia é de 50-100
+mg/kg/dia, IV ou VO, de 6/6 horas, por 10 dias, com doses máximas na meningite, evitando-se ultrapassar 4
+g/dia. Pode ser utilizado no tratamento de quaisquer formas de peste com bons resultados e sua associação
+com os aminoglicosídeos sempre deve ser considerada nas formas graves da doença.
+mais potentes e inócuos não estiverem disponíveis, pois os pacientes que as utilizam podem apresentar febre
+prolongada e complicações mais freqüentemente. A sulfadiazina salvou muitas vidas, sua dose de ataque
+é de 2-4 g e a manutenção de 1 g ou 100/150 mg/kg/dia, VO, de 6/6 horas, requerendo a alcalinização da
+urina. A associação trimetropim–sulfametoxazol (cotrimoxazol) (adultos 160/800 mg ou 8 mg/kg/dia de
+trimetropim de 12/12 horas, por 10 dias) continua sendo utilizada largamente e com bons resultados na
+forma ganglionar.
+Fluoroquinolonas podem ser comparadas à estreptomicina, o padrão-ouro, e são assim prescritas:
+ofloxacina (400 mg de 12/12 horas, VO), levofloxacina (500 mg de 24/24 horas, VO) e ciprofloxacina (500 a
+750 mg em adultos e 40 mg/kg/dia para crianças em duas tomadas, VO). Dispõe-se, agora, de novas opções
+nas situações de má perfusão: a ciprofloxacina (400 mg ou 30 mg/kg/dia de 12/12 horas ou, nos casos críti-
+cos, de 8/8 horas por via IV) e a levofloxacina (500 mg IV de 24/24 horas), para as quais só havia o cloranfe-
+nicol. A avaliação de risco x benefício deve ser extremamente criteriosa nas crianças.
+5.7 Diagnóstico laboratorial
+5.7.1 Exames inespecíficos
+São de inestimável valor quando analisados à luz dos caracteres clínicos e epidemiológicos do caso. O
+vacúolos nos neutrófilos, inclusive com reações leucemóides, podendo haver linfocitose. As alterações de
+aminotransferases e de fatores de coagulação são freqüentes. A radiologia poderá fornecer evidências da
+pneumopatia, inclusive de derrame pleural e cavitações. Pragmaticamente, devem ser solicitados todos os
+exames necessários para avaliar acuradamente as disfunções do paciente.
+5.7.2 Exames específicos
+O diagnóstico da peste na rotina pode ser realizado por métodos bacteriológicos e sorológicos. As técni-
+cas de biologia molecular estão sendo avaliadas e padronizadas e brevemente serão implantadas na rotina.
+A confirmação laboratorial é essencial, e para que logre êxito a coleta de espécimes merece especial atenção.
+Deve-se obter distintos materiais nas diversas formas da doença, por exemplo, aspirado de bubão e sangue
+na peste bubônica; líquor cefalorraquidiano (LCR) e sangue na peste meníngea.
+5.7.3 Coleta de material em doentes
+A coleta de amostras para exame bacteriológico depende da forma clínica da doença e do estado do pacien-
+te. Para o envio das amostras para o laboratório recomenda-se o meio de transporte Cary-Blair que é capaz de
+manter a viabilidade da Y. pestis por várias semanas, mesmo quando mantido à temperatura ambiente.
+5.7.3.1 Forma bubônica
+O material de escolha para análise é o aspirado de bubão. No início da doença, a punção do bubão for-
+nece pouca serosidade, mais tarde, porém, quando o bubão está supurando, obtém-se farto material, rico
+principalmente em contaminantes. Estes criam sérias dificuldades ou mesmo impedem o isolamento da Y.
+pestis pelo crescimento mais rápido e exuberante nos meios de cultura, sobrepujando o do bacilo da peste.
+É imprescindível, pois, a coleta de sangue para a hemocultura.
+O bubão pestoso é bastante doloroso, o que justifica a manipulação cuidadosa do doente durante a ex-
+tração do material.
+5.7.3.2 Técnica para o puncionamento do bubão
+• Observar as normas de biossegurança, utilizando luvas descartáveis, jaleco e proteção respiratória de
+nível 3 de biossegurança (P3).
+• Fazer a antissepsia do local da punção.
+• Fixar o bubão com o indicador e o polegar e introduzir a agulha (22 g x 1 ¼”) acoplada à uma seringa
+de 10 ml contendo cerca de 0,5 ml de solução fisiológica (SF) estéril que é injetada no bubão.
+• Perfurar o bubão e obter o material seroso movendo delicadamente a agulha no seu interior, ao tempo
+em que se injeta e aspira a SF.
+• Proteger o bubão com curativo.
+• Introduzir o aspirado do bubão no meio de transporte Cary-Blair.
+42 Secretaria de Vigilância em Saúde • MS
+5.7.3.3 Forma pneumônica
+A localização do bacilo é predominantemente pulmonar. O escarro, sanguinolento ou não, é coletado em re-
+cipiente estéril e transferido para o meio de Cary-Blair. É imprescindível coletar sangue para a hemocultura.
+Observar as normas de biossegurança, utilizando luvas descartáveis, jaleco e proteção respiratória de
+nível 3 de biossegurança (P3).
+5.7.3.4 Forma septicêmica
+Deve-se recorrer à hemocultura para evidenciar a presença da Y. pestis.
+5.7.4 Diagnóstico em cadáveres
+Se o óbito ocorreu nas últimas seis horas, deve-se obter sangue de uma veia superficial do cadáver para
+hemocultura e puncionar um bubão.
+estritas condições de biossegurança. Os profissionais que realizarem os procedimentos deverão usar más-
+caras específicas, jalecos, botas e luvas grossas de borracha além de receber quimioprofilaxia nas doses
+recomendadas.
+6 Técnicas utilizadas no diagnóstico de peste
+O Quadro 7 mostra as técnicas utilizadas no diagnóstico da peste no homem, em reservatórios/hospe-
+deiros e vetores.
+Quadro 7. Técnicas recomendadas para diagnóstico da peste
+Aspirado de linfonodo +++ NA
+Sangue +++ NA
+Homem Esputo +++ NA
+Medula óssea (óbito) +++ NA
+Soro NA +++
+Sigmodontineos: Akodon, Necromys lasiurus (Bolomys
+lasiurus), Calomys, Oligoryzomys, Oryzomys, Holochi-
+Roedores sensíveis +++ NR
+lus, Wiedomys, Nectomys, Oxymicterus, Rhipidomys
+etc. e os punarés: Trychomys
+Roedores resistentes Galea, Rattus + +++
+Carnívoros domésticos Cães, gatos NR +++
+Carnívoros selvagens Didelphis, Monodelphis, Marmosa + +++
+Pulgas +++ NA
++++ altamente recomendado; + recomendado; NA não se aplica; NR não recomendado
+6.1 Diagnóstico bacteriológico
+É a identificação da Y. pestis em materiais dos pacientes, reservatórios/hospedeiros e vetores.
+6.1.1 Bacterioscopia
+• Fazer esfregaço em lâmina e deixar secar à temperatura ambiente (TA).
+• Fixar o material com etanol a 96ºC.
+• Corar com o azul de metileno (azul de Loeffler) ou o corante de Wayson, instilando a solução corante
+sobre o esfregaço e deixando agir por um minuto.
+• Lavar em água corrente, secar à TA ou em toalha de papel.
+• Examinar em microscópio com lente de imersão (100 x).
+A coloração pelo método de Gram permite observar os bacilos pestosos Gram-negativos nos esfregaços.
+Entretanto, a coloração pelo azul de metileno (Figura 13) ou pelo corante de Wayson é de execução mais
+simples e ressalta o aspecto bipolar da Y. pestis, o que favorece a identificação.
+44 Secretaria de Vigilância em Saúde • MS
+Figura 13. Coloração pelo azul de metileno
+6.1.2 Semeio em placa
+• Semear duas placas de gelose peptonada (Blood Agar Base: BAB). Atentar para o fato de que algumas
+marcas de peptona não se prestam ao cultivo da Y. pestis.
+• Instilar uma gota do bacteriófago antipestoso na parte mais espessa do semeio de uma das placas.
+• Incubar a 28°C por 48 a 72 horas. A lise provocada pelo fago pode ser percebida logo após 18/24 horas,
+porém só depois de 48/72 horas as colônias da Y. pestis tomam seu aspecto característico: centro opaco
+e granuloso, circundado por zona marginal transparente e de contorno irregular (Figura 14).
+Figura 14. Cultivo de Yersinia pestis em placa
+As colônias crescidas na gelose com morfologia característica de Y. pestis são repicadas (três a cinco
+colônias por placa) em caldo peptonado (Brain Heart Infusion Broth: BHI). Atentar para o fato de que algu-
+mas marcas de peptona não se prestam ao cultivo da Y. pestis. Incuba-se a 28°C por 24 a 48 horas. Quando
+incubadas sem agitação o crescimento é flocular sem turvação. Se a bactéria turvar o caldo, seguramente
+não é Y. pestis.
+6.1.4 Teste de bacteriófago
+As culturas que apresentarem crescimento característico de Y. pestis no caldo devem ser confirmadas pelo teste
+com o bacteriófago antipestoso em placas de gelose. Para isso, de cada tubo faz-se semeadura em dois pequenos
+círculos de cerca 1,5 cm de diâmetro sobre a gelose (utilizando cotonete ou outro tipo de mecha) e instila-se uma
+gota do bacteriófago sobre um dos círculos. Caso a cultura seja positiva haverá crescimento somente no círculo
+sem bacteriófago, pois no outro ele será inibido. A lise de Y. pestis pode ser percebida depois de 12/18 horas e é
+bastante específica quando as culturas são incubadas a 28°C (Figura 15). O bacteriófago também lisa outras bac-
+térias como a Yersinia pseudotuberculosis e a Escherichia coli, mas só o faz a 37°C.
+Figura 15. Teste de bacteriófago
+6.1.5 Hemocultura
+A técnica consiste em semear 2,5 ml de sangue do doente em 25 ml de caldo peptonado (BHI). Incubar
+a 28ºC e efetuar subcultivos diários em BAB durante três a quatro dias. O subcultivo deve ser realizado logo
+após o recebimento do material pelo laboratório.
+As hemoculturas podem ser mantidas à temperatura ambiente durante várias semanas, o que favorece
+do laboratório.
+Como alternativa, pode-se semear dois a três tubos de gelose inclinada ou Cary-Blair com 0,5 ml de
+sangue em cada tubo.
+46 Secretaria de Vigilância em Saúde • MS
+6.2 Diagnóstico sorológico
+Consiste na pesquisa de anticorpos contra a proteína capsular da Y. pestis (fração antigênica 1 ou F1) nos
+soros humanos ou de animais envolvidos no ciclo epidemiológico da peste.
+Para o diagnóstico sorológico de peste humana são obtidas duas amostras de soro: a primeira na fase agu-
+da da doença (no primeiro atendimento ou no dia da investigação) e a segunda no período de convalescen-
+ça, 10 a 15 dias mais tarde. Em alguns casos pode ser necessária uma terceira amostra (pós-convalescença),
+que será colhida após um mês do início da doença.
+Entre as técnicas sorológicas, a hemaglutinação com hemácias de carneiro (HA) controlada pela reação
+de inibição da hemaglutinação (HI) é a mais recomendada e utilizada no diagnóstico dos casos humanos, no
+rastreamento da peste entre os roedores e em inquéritos sorológicos para delimitação dos focos. Em áreas
+onde não há evidência de peste recente, os carnívoros domésticos (cães e gatos) ou selvagens (marsupiais)
+podem ser testados sorologicamente como indicadores-sentinelas da presença ou da ausência da peste entre
+os roedores. A HA permite identificar a presença da infecção em áreas onde não existe evidência de epi-
+zootia por meio da detecção de anticorpos no soro de roedores, principalmente nas espécies resistentes à
+infecção pela Y. pestis ou nos animais sentinelas/indicadores.
+Os anticorpos contra a Y. pestis podem ser detectados a partir do quinto dia da infecção e permanecem
+detectáveis no homem por vários anos e nos cães e gatos por aproximadamente trezentos dias. A notificação
+dos pacientes suspeitos é realizado com base na data do aparecimento dos primeiros sintomas, mas no caso
+de roedores e carnívoros a notificação é feita pela data de coleta de material para exame, pois entre estes não
+se pode precisar a data da infecção. Entretanto, as variações quantitativas fornecem indicações, e considera-
+se que um título alto (>1/64) corresponde a uma infecção recente.
+6.2.1 Técnica de hemaglutinação (HA)
+Consiste na determinação qualitativa e quantitativa de anticorpos contra a F1 da Y. pestis (Figura 16).
+• Inativar os soros em banho-maria a 56oC e adsorver com hemácias de carneiro fixadas em Solução
+de Alsever.
+• Diluir o soro seriadamente em salina contendo soro normal de coelho (1:250) em placas de microti-
+tulação de 96 poços em “U” e em seguida colocar uma suspensão de hemácias de carneiro fixadas em
+glutaraldeído, taninizadas e sensibilizadas com a F1.
+• Fazer uma triagem inicial diluindo todos os soros de 1:4 até 1:32. Os soros reagentes nas diluições 1:16
+e 1:32 são considerados suspeitos e novamente inativados e adsorvidos com hemácias de carneiro e
+testados em maior diluição, usualmente até 1:526.
+• Paralelamente, fazer a prova de inibição da hemaglutinação (HI) para verificar a especificidade da
+reação. Na HI os soros devem ser diluídos em salina contendo soro normal de coelho (1:250) e 100
+mcg/ml de F1. Usualmente, a HI é realizada com quatro a seis diluições dos soros. Os soros com título
+de HA igual ou maior que 1:16 devem ser novamente inativados e adsorvidos e testados mais uma vez.
+Se o título persistir igual ou maior que 1:16 serão considerados positivos.
+Figura 16. Teste de hemaglutinação
+6.3 Diagnóstico em roedores
+As manifestações clínicas da peste não são típicas nos roedores. Na fase avançada da doença os animais
+geralmente se apresentam tontos, cambaleantes, indiferentes até aos seus inimigos naturais, deixando-se
+capturar facilmente. O pêlo fica eriçado e a respiração é curta e superficial.
+É incomum, mesmo na vigência de grandes epizootias, o encontro de roedores mortos por peste na natu-
+reza, pois o animal quando se sente doente procura se esconder na tentativa de escapar dos seus predadores.
+Todo roedor encontrado morto no campo ou nas casas deve ser remetido em recipiente hermético ao labo-
+ratório para diagnóstico, informando-se se na área estão sendo utilizados rodenticidas.
+Se o cadáver estiver em putrefação, o procedimento adotado restringe-se à coleta de um fêmur para diag-
+nóstico. O osso deve ser desarticulado, colocado em recipiente hermético e enviado ao laboratório.
+Apenas os roedores sensíveis à Y. pestis (Sigmodontineos: Akodon,Necromys lasiurus (Bolomys lasiurus),
+Calomys, Oligoryzomys, Oryzomys, Holochilus, Wiedomys, Nectomys, Oxymicterus, Rhipidomys etc e os pu-
+narés: Trychomys) capturados no campo pelas equipes de vigilância epidemiológica devem ser mantidos em
+quarentena por duas semanas, cumprindo-se rigorosamente as normas da biossegurança. Todos aqueles que
+perecerem durante o cativeiro serão necropsiados e examinados. Os animais que sobrevivem ao período de
+quarentena são sacrificados e necropsiados para verificação de sinais de peste crônica (bubões e abscessos
+no baço e no fígado) e colhe-se sangue do coração e fragmentos do baço e/ou fígado, que são acondiciona-
+dos em Cary-Blair (Quadros 7 e 8). Os animais pestosos freqüentemente apresentam hemorragias subcutâ-
+neas, baço e fígado friáveis, congestos e, às vezes, cobertos de pontilhado esbranquiçado.
+Os roedores resistentes a Y. pestis (preás: Galea; e ratos: Rattus rattus) não devem ser mantidos na quaren-
+tena. Logo após a captura deve-se colher amostra de soro, e em seguida são sacrificados e necropsiados para
+pesquisa de peste crônica. Os pequenos mamíferos (gambás, timbus, cassacos) capturados eventualmente
+também não são levados para a quarentena, devendo-se colher amostra de soro no local da captura e devol-
+vê-los ao ambiente (Quadros 7 e 8).
+48 Secretaria de Vigilância em Saúde • MS
+6.4 Diagnóstico em pulgas
+A identificação das pulgas deve ser realizada em lâmina com salina ou álcool 70%. Uma amostragem das
+pulgas pode conservada em álcool 70% ou “montada” em lâmina e Bálsamo do Canadá ou outro processo
+convencional de montagem para coleção e estudos taxonômicos. A montagem permanente inviabiliza a
+identificação da bactéria, mas as pulgas conservadas em álcool 70% podem ser analisadas por Reação em
+Cadeia da Polimerase (PCR).
+Para o diagnóstico bacteriológico os lotes de pulgas devem ser lavados em álcool 70% durante 10 mi-
+nutos e depois em solução salina normal (0,85%) estéril. Os insetos são triturados com bastão de vidro em
+ambiente estéril e o triturado é suspenso em salina e semeado em placas de gelose, instilando-se uma gota
+do bacteriófago antipestoso na parte mais espessa do semeio. A análise bacteriológica deve ser realizada
+preferencialmente no dia da captura ou, no máximo, em uma semana para evitar a destruição da Y. pestis
+(Quadros 7 e 8).
+6.5 Técnicas diversas
+6.5.1 Inoculação de animais
+A inoculação de animais de laboratório (cobaios e camundongos) só pode ser realizada sob estritas con-
+dições de biossegurança. O procedimento não deve ser realizado com roedores silvestres, pois eles podem
+ser portadores de hantavírus e suas excretas podem conter partículas virais infectantes, o que torna o cati-
+veiro desses animais uma situação de risco.
+Os cobaios devem ser inoculados preferencialmente por via percutânea, e os camundongos por subcu-
+tânea. Os cobaios inoculados que desenvolverem reação no ponto de inoculação e os camundongos que
+sobreviverem à inoculação devem ser sacrificados e submetidos a exames bacteriológicos. Deve-se atentar
+para o fato que algumas linhagens de camundongos são relativamente resistentes à Y. pestis.
+Na necropsia dos camundongos inoculados pela via subcutânea observam-se edema, congestão, hemor-
+ragias no ponto de inoculação e adenopatia satélite (bubão). Se o inóculo for suficientemente grande, a mor-
+te pode ocorrer em 18-72 horas, com pequeno comprometimento visceral à macroscopia. Ao exame mi-
+croscópico, porém, podem ser observados numerosos bacilos em esfregaços de sangue, baço e no exsudato
+peritoneal. Com inóculos menores o animal morre em 4-8 dias, apresentando com freqüência mediastinite
+purulenta, consolidação pulmonar e baço hiperemiado com fino pontilhado esbranquiçado.
+6.5.2 Técnicas imunoenzimáticas
+As técnicas imunoenzimáticas (Elisa, Dot-Elisa), embora ofereçam vantagens como maior sensibilidade e
+utilização de quantidades mínimas de antígeno, ainda não são utilizadas em larga escala nos inquéritos soro-
+lógicos entre os roedores e outros mamíferos pela necessidade de emprego de antissoros espécie-específicos.
+6.5.3 Teste de imunofluorescência direta (IFD)
+É um dos métodos mais rápidos para detectar a presença de Y. pestis em qualquer material, pois os ba-
+pelo laboratório (Figura 17). Sua presença pode ser demonstrada mesmo em material já em decomposição,
+tais como a medula óssea de cadáveres e as carcaças de animais, do qual não se pode isolar a bactéria pelos
+procedimentos usuais.
+Na técnica é utilizada a imunoglobulina contra o antígeno F1 da Y. pestis conjugado com isotiocianato de
+fluoresceína (FITC). O teste tem como desvantagem seu nível de especificidade, pois têm sido observados
+resultados falsamente positivos em presença da Y. pseudotuberculosis e falsamente negativos para cepas de Y.
+pestis deficientes em F1. É uma prova de que deve ser usada apenas para o diagnóstico presuntivo da peste.
+Figura 17. Teste de imunofluorescência
+6.6 Novas técnicas
+Diversas técnicas estão sendo padronizadas visando à sua inclusão no rol dos testes utilizados na confir-
+mação laboratorial.
+A aglutinação do látex baseia-se na pesquisa de anticorpos a partir de antígenos adsorvidos em micro-
+partículas de látex. Como a prova de hemaglutinação utiliza reagentes perecíveis, ela se apresenta como uma
+boa alternativa.
+A PCR pode ser utilizada a partir de amostras de material de origem humana e animal. A técnica baseia-
+se na detecção de um segmento específico do genoma da bactéria. O Multiplex-PCR é uma variação da PCR
+em que numa mesma reação podem ser detectados múltiplos segmentos do DNA da Y. pestis, proporcionan-
+do, além do diagnóstico, a identificação de diversos fatores de virulência (Figura 18). O Nested-PCR pode
+ser utilizado quando o limiar de detecção da técnica de PCR precisa ser aumentado, o que pode ser necessá-
+rio na fase inicial da doença no homem, quando o número de bactérias é pequeno. Na PCR em tempo real
+a grande vantagem é que resultados confiáveis são obtidos rapidamente.
+50 Secretaria de Vigilância em Saúde • MS
+Figura 18. Diagnóstico molecular da Yersinia petis: PCR
+anti-F1 imobilizados. A técnica consiste na imersão dessas fitas em amostras de sangue, escarro e aspirados
+de bubão e como o resultado é obtido por uma reação cromogênica, os equipamentos, a eletricidade e a
+refrigeração da amostra tornam-se desnecessários. O teste ainda não está disponível para o uso em rotina.
+6.6.1 Conservação de cepas
+As cepas de Y. pestis isoladas de casos humanos, roedores ou de pulgas devem ser inoculadas em gelose
+sob camada alta e armazenadas em refrigeração (4°C a 8°C) e um tubo de cada cepa deverá ser encaminhado
+diversos focos. Convém salientar que devem ser evitadas repicagens sucessivas, pois elas alteram as caracte-
+rísticas das culturas. Para o transporte de culturas deve-se seguir as normas nacionais de envio e transporte
+de materiais biológicos (DAC, Anvisa, CTBio) e internacionais (IATA, NU, OMS e outros).
+7 Biossegurança
+A Y. pestis está classificada como organismo patogênico de classe III. Portanto, sua manipulação só pode
+ser realizada por profissional devidamente capacitado e em laboratórios que ofereçam a segurança necessá-
+ria para o manipulador, para a equipe e para o ambiente. O acesso a esses laboratórios deve ser controlado
+com a devida identificação quanto ao risco biológico e as medidas emergenciais em caso de acidentes, os
+equipamentos e sua utilização devem ser de conhecimento geral. A manipulação de culturas do bacilo e
+carcaças de animais suspeitos deve ser realizada com uso de equipamentos de proteção coletiva (EPC),
+como as cabines de contenção biológica dotadas de fluxo laminar e uso adequado de equipamento de pro-
+teção individual (EPI). Os trabalhos em campo com quaisquer zoonoses também requerem treinamento
+rigoroso em biossegurança. As medidas de biossegurança no campo e no laboratório devem ser adotadas de
+acordo com o maior risco oferecido ao manipulador, e não apenas contra o agente patogênico pesquisado.
+Exige-se, portanto, que os profissionais tenham conhecimento e atitudes não somente contra os riscos bio-
+lógicos, mas também contra os riscos físicos (arranhaduras, mordeduras, insolação), químicos (inseticidas,
+reagentes) e radioativos, o que garantirá a qualidade das pesquisas e a redução máxima possível dos riscos
+inerentes à pesquisa.
+52 Secretaria de Vigilância em Saúde • MS
+8 Monitoramento da atividade pestosa
+As atividades de vigilância, a profilaxia e o controle da peste são desenvolvidos rotineiramente nas regiões
+pestígenas e, por exigência do RSI, nos portos e nos aeroportos internacionais. Devem ser ajustadas às con-
+dições particulares de cada foco, exigindo um estudo detalhado das áreas envolvidas e o conhecimento das
+suas características ecológicas e epidemiológicas. Um dos aspectos mais relevantes na programação, além
+dos inquéritos em carnívoros, é a captura de roedores e pulgas, o que fornecerá os melhores indicadores para
+o acionamento das medidas de controle (Quadro 8).
+Quadro 8. Roteiro para processamento dos roedores e das pulgas
+Sensíveis: Akodon, Necromys lasiurus (Bolomys lasiurus)*,
+Calomys*, Oryzomys, Oligoryzomys*, Wiedomys, Trichomys Resistentes: Galea, Rattus (ratos)
+(quarentena: 2 semanas)
+Necropsia Coletar soro, sacrificar
+ou Esfregaço: sangue e baço
+Conservação em POSITIVO (+) NEGATIVO (-) Sinais característicos: bubões,
+salina 2,0% ou abscessos no baço ou no fígado
+Cultivos: sangue, baço, fígado Cultivo: baço
+triturado em Cary-
+Blair p/ envio ou Cultivo: bubões, abscessos
+p/ exame Conservação em Cary-Blair p/ ou
+Conservação em Cary-Blair p/ envio p/ exame: pode juntar Conservação em Cary-Blair
+envio p/ exame: cada animal até cinco animais da mesma p/ envio p/ exame
+*Possíveis reservatórios de hantavírus
+8.1 Monitoramento da população de roedores
+8.1.1 Captura
+A captura de roedores objetiva obter informações sobre suas populações, obtenção de amostras de soros
+e de vísceras e a coleta de seus ectoparasitos. Na captura, no manuseio, no processamento e nas intervenções
+em roedores silvestres deve-se obter autorização e seguir as normas do Instituto Brasileiro do Meio Ambien-
+te e dos Recursos Naturais Renováveis (Ibama), bem como dos proprietários das terras (Quadro 8).
+agentes de saúde equipados com armadilhas e cubas para a coleta de pulgas. É estabelecido um roteiro se-
+manal e cada equipe utiliza oitenta armadilhas na prospecção, das quais vinte são distribuídas nas casas da
+localidade (sítio, fazenda ou povoado). As sessenta restantes são armadas no campo, geralmente em linha
+reta, em roças, hortas, capinzais, capoeiras, aceiros de roças, margens de riachos e rente a cercas de pedras,
+obedecendo a uma distância de dois metros entre uma e outra, sempre sob a vegetação e nas proximidades
+de tocas, ninhos, pistas e outros sinais de presença dos roedores. As armadilhas devem ser distribuídas
+animais capturados morram de calor, frio, fome ou sede. Cada capturador distribui metade das armadilhas
+em um local e diariamente as armadilhas são mudadas de lugar, de tal sorte que um agente cobre quatro
+biótopos diferentes durante uma semana.
+8.1.2 Técnicas e tipos de armadilhas
+Há diversos tipos de armadilhas para captura de roedores vivos. As mais usadas têm paredes de arame (tipo
+Tomahawk), folhas de alumínio (tipo Sherman) ou aço galvanizado, podendo ser dobráveis ou não. As dobrá-
+veis são embaladas e transportadas facilmente, porém são frágeis, enquanto as não-dobráveis são mais resis-
+tentes. O PCP utiliza as armadilhas do tipo Tomahawk e incentiva sua fabricação nos próprios municípios.
+As armadilhas conhecidas como guilhotina ou quebra-costas são baratas, fáceis de transportar e muito
+úteis quando se requer a captura de muitos animais em áreas extensas. Têm como desvantagens matar os
+animais, dificultando a obtenção de ectoparasitos que abandonam os cadáveres à medida que esfriam, e a
+necessidade de inspeção a cada duas horas para evitar a evasão das pulgas.
+8.1.3 Iscas
+São usadas para atrair os animais e variam de acordo com a disponibilidade local: milho, coco seco,
+mandioca, etc.
+8.1.4 Instalação de armadilhas
+Durante a colocação das armadilhas os técnicos devem usar obrigatoriamente EPI: luvas grossas de bor-
+racha, óculos de proteção e macacão ou camisa de mangas compridas. Se a armadilha for instalada em
+ambiente fechado a utilização de máscara de pressão negativa P3 torna-se imprescindível (Figura 19). Não
+se deve utilizar luvas de couro, pois elas não podem ser desinfetadas.
+Em áreas e épocas de baixa temperatura devem-se colocar dentro das armadilhas, além da isca, pedaços
+de algodão para evitar que os roedores morram por hipotermia.
+Figura 19. Colocação e retirada de armadilhas no campo
+8.1.5 Retirada de armadilhas
+Na verificação das armadilhas e retirada dos roedores os técnicos devem usar obrigatoriamente os mes-
+mos EPIs usados para a instalação, além de máscara de pressão negativa com filtro P3, tanto nos ambientes
+fechados quanto no campo.
+armadilha. Cada saco recebe apenas uma armadilha e sua boca deve ser amarrada com dois nós. O transporte é
+feito exclusivamente na carroceria dos veículos, e as armadilhas só são abertas na área de processamento, loca-
+lizada na própria área de captura, o que evita uma hipotética disseminação de patógenos para áreas indenes.
+Os roedores devem ser identificados por gênero ou espécie, sexo e idade e despulizados ao ar livre, perto
+da área de captura, à sombra, em local ventilado, ficando os técnicos de costas para o vento. A área deverá ser
+delimitada por cordas e sinalizada como área infectada, mantendo-se os curiosos, pessoas desinformadas e
+animais domésticos distantes no mínimo 10 m.
+54 Secretaria de Vigilância em Saúde • MS
+sabão, Lysol, água sanitária ou outro desinfetante.
+Durante a armação e a retirada das armadilhas deve-se ter extremo cuidado com a presença de animais
+peçonhentos e de excrementos no local.
+8.1.6 Anestesia dos roedores
+O procedimento consiste na utilização de um saco plástico reforçado que serve de câmara anestésica,
+no qual são postas compressas de gaze impregnadas com um anestésico inalável (éter sulfúrico, metofane,
+halotane ou clorofórmio). O roedor é transferido da armadilha para o saco de anestesia e observado até que
+permaneça imóvel e não apresente respostas à estimulação, demonstrando que está profundamente aneste-
+siado, e só então se dá início ao processamento.
+Figura 20. Processamento de roedores no campo
+8.1.7 Pesquisa sorológica
+A pesquisa sorológica fornece melhores resultados que as tentativas de isolamento de Y. pestis nos roe-
+dores capturados. Os roedores resistentes sobrevivem à infecção e desenvolvem anticorpos, e por isso são
+utilizados nos inquéritos sorológicos.
+As amostras de sangue podem ser obtidas do sino retroorbital de roedores anestesiados utilizando-se um
+tubo capilar heparinizado. O sangue coletado deve ser posto em tubos de polietileno de tampa rosqueada.
+prática de sangria retroorbital.
+8.1.8 Coleta de cadáveres
+A busca de cadáveres de roedores deve ser realizada sempre que houver suspeita da ocorrência de epizoo-
+tias. É importante descartar o uso de raticidas no local.
+As carcaças de roedores encontradas devem ser coletadas, identificadas e levadas ao laboratório, onde serão
+submetidas a culturas e poderão ser testadas por IFD e PCR, com grandes chances de identificação de Y. pestis.
+8.2 Monitoramento da população de pulgas
+A captura de pulgas tem como finalidade identificar as diferentes espécies em determinada localidade,
+levantar os índices e obter espécimes para avaliação da sua sensibilidade aos inseticidas.
+Obtêm-se melhores resultados quando são catadas de animais capturados vivos. A despulização deve ser
+feita no local da captura, o que permite a obtenção de índices mais precisos. As pulgas tendem a abandonar
+o animal assim que ele começa a ser manipulado, o que exige cuidados especiais.
+8.2.1 Coleta em roedores (despulização)
+A despulização é realizada em animais anestesiados ou firmemente contidos, o que reduz o risco de
+transmissão de patógenos por mordeduras ou arranhões.
+cauda-cabeça com pente fino ou escova, deslocando os ectoparasitos que caem na cuba e ficam imobilizados
+na água (Figura 21).
+As pulgas são separadas por espécie de hospedeiro e local de captura em tubos de tampa rosqueada, devida-
+mente etiquetados, contendo 2 a 3 ml de salina a 2% e remetidas ao laboratório para identificação e pesquisas.
+Figura 21. Coleta de pulgas no campo
+8.2.2 Captura nas casas
+São distribuídas duas cubas por casa. As cubas com água saponosa são postas no piso das habitações no
+final da tarde e recolhidas na manhã seguinte. A luz de vela pode ser usada para melhorar as condições de
+captura de pulgas que tenham fototropismo positivo (Figura 22). Neste caso, a verificação deverá ser feita
+uma a duas horas após. As pulgas são retiradas da água por meio de pincel ou pinça entomológica e coloca-
+das em tubos de tampa rosqueada contendo solução salina 2%, devidamente etiquetados, que são encami-
+nhados ao laboratório para identificação e análise bacteriológica.
+56 Secretaria de Vigilância em Saúde • MS
+Figura 22. Captura de pulgas na residência
+8.2.3 Outros métodos de obtenção de pulgas livres nas casas
+• Sacudir as roupas de cama e vestimentas sobre um lençol branco estendido. As pulgas são facilmente
+capturadas com o auxílio de um frasco de boca larga emborcado sobre elas. Os insetos passam para o
+fundo do frasco e daí são retirados com um pincel molhado.
+• Varrer a casa, recolher o pó e no laboratório passar em peneira fina. Os resíduos mais grosseiros onde
+as pulgas ficam aderidas são retidos. Alternativamente, pode-se despejar o pó em cuba com água e
+retirá-las da superfície da água com um pincel molhado.
+8.2.4 Coleta nas tocas
+flanela. O tubo é retirado lentamente, os parasitos aderem ao tecido, sendo capturados com pinça ou
+pincel molhado e colocados em tubos. O encontro de ixodídeos (carrapatos) e de malófagos (piolhos)
+parasitando os roedores é freqüente.
+8.2.5 Análises nas pulgas
+A identificação das pulgas deve ser realizada diretamente em lâmina com salina ou álcool 70%. O mé-
+todo dispensa a montagem permanente com Bálsamo do Canadá, que destrói os bacilos e impossibilita o
+isolamento da Y. pestis.
+Alguns espécimes devem ser conservados em álcool 70% ou montados pelas técnicas convencionais de
+montagem para referência em estudos taxonômicos.
+8.2.6 Índices
+O índice global (pulga/roedor) é a média aritmética do total de pulgas capturadas pelo número de roedo-
+res espulgados. É de grande valor na avaliação da eficiência das medidas profiláticas empregadas.
+O índice específico (pulga de determinada espécie/roedor hospedeiro) é a média aritmética do número de
+pulgas da espécie “x” pelo número de roedores hospedeiros, sendo o mais importante deles o da Xenopsylla.
+Dois índices de pulgas verificados empiricamente na rotina de captura são valiosos nos focos brasileiros:
+• Pulga/roedor sinantrópico comensal ou Xenopsylla cheopis/Rattus rattus;
+• Pulga silvestre/roedor silvestre ou Polygenis/roedor silvestre.
+8.2.7 Avaliação da sensibilidade aos inseticidas
+Uma questão capital é a determinação da sensibilidade das pulgas vetoras locais aos diferentes insetici-
+das. A informação deve ser atualizada periodicamente e devidamente divulgada. O conhecimento da resis-
+tência das pulgas permite escolher o inseticida apropriado para cada circunstância, os kits para os testes de
+sensibilidade são fornecidos pela OMS.
+8.3 Inquéritos sorológicos entre os carnívoros
+predadores de roedores. É indicado para estudos em grandes áreas, comprovação da existência da peste em
+roedores e suspeita de desaparecimento da peste no foco. A técnica é mais sensível, bem como menos one-
+rosa e complexa, que a pesquisa de anticorpos antipestosos ou da bactéria entre os roedores.
+O aumento da freqüência de animais positivos pode significar epizootia ou atividade recente nos roedo-
+res, o que representa risco aumentado para o homem. Devem-se, então, investigar as populações de roedo-
+res e suas pulgas e procurar seus cadáveres para pesquisar os sinais de existência de peste.
+A coleta de sangue dos cães e dos gatos é realizada nas patas dianteiras ou traseiras, com os animais de-
+vidamente contidos para evitar mordeduras e arranhões.
+58 Secretaria de Vigilância em Saúde • MS
+9 Controle
+O conhecimento da epidemiologia, da fisiopatogenia e da clínica da peste permite estabelecer uma pro-
+gramação ímpar, com vigilância permanente e intervenções eventuais sobre a cadeia de transmissão, enfa-
+tizando-se a luta contra roedores e pulgas e medidas de proteção ao homem. As atividades de controle têm
+como objetivos:
+• Evitar a infecção de humanos pelo controle dos focos naturais.
+• Reduzir a letalidade e impedir a ocorrência de epidemias.
+• Avaliar continuamente o risco de transmissão para humanos.
+• Impedir a reintrodução da peste urbana através de portos e aeroportos.
+9.1 Medidas preventivas
+Visam proteger a população, evitando que ela se submeta a situações de risco.
+9.2 Educação em saúde e mobilização social
+as comunidades a agir com seus próprios meios na prevenção da doença, proporcionando a elas conheci-
+mento sobre a gravidade da doença, seus aspectos epidemiológicos, econômico-sociais e da sua prevenção,
+adotando atitudes conducentes à saúde.
+No PCP essas atividades são executadas por profissionais capacitados e experientes, uma vez que reque-
+rem técnicas especiais. Deve-se enfatizar seu potencial epidêmico, a alta letalidade, a importância da parti-
+cipação no seu controle, inclusive a importância da notificação imediata de epizootias e de casos suspeitos.
+roedores às casas, aos armazéns e aos depósitos em busca de alimentos e abrigo, tornando imprópria a
+sobrevivência desses animais (Figura 23). Tais medidas são chamadas em seu conjunto de anti-ratização
+(Anexo A). Alguns outros tópicos também devem ser destacados, tais como evitar picadas de pulgas usando
+inseticidas e repelentes e durante as caçadas não acampar próximo a tocas de roedores, manter distância de
+animais mortos e de carcaças, usar luvas ao manipular os animais e informar às autoridades a existência de
+roedores doentes ou mortos. Os cães e os gatos devem ser despulizados periodicamente.
+trabalho do Programa: palestras em escolas, mensagens por meios de comunicação de massa e distribuição
+de material ilustrativo/informativo sobre a peste (cartilhas e folders). Na vigência de surtos, todos os meios
+de divulgação deverão ser acionados: rádio, TV, igrejas, farmácias, escolas, postos de saúde, associações de
+classe, sindicatos e lideranças informais.
+Figura 23. Condições para atrair roedores para as residências
+9.3 Controle dos roedores
+As populações devem ser mantidas sob controle. A desratização consiste na eliminação dos animais por
+diversos meios, mas não é eficaz e pode agravar a situação pela liberação das pulgas dos roedores mortos,
+aumentando a freqüência de casos humanos. Pode-se afirmar que a anti-ratização contínua associada a um
+manejo ambiental conseqüente é o único procedimento que pode controlar a população de roedores, en-
+quanto a desratização é onerosa e ineficaz.
+9.4 Vacinação
+Não há vacinas comercialmente disponíveis, mas novos produtos estão sob avaliação. O procedimento
+não é recomendado pela OMS.
+9.5 Busca ativa
+É a procura de casos suspeitos de peste humana ou de epizootias de roedores em determinada área, baseada
+em ocorrências anteriores à infecção. A tarefa é desenvolvida por agentes de saúde devidamente capacitados.
+é definida pelo núcleo de vigilância epidemiológica. O agente de saúde realiza mensal ou trimestralmente
+visitas aos domicílios e aos centros de informação (unidades de saúde, escolas, hospitais, cartórios, etc.)
+levantando ocorrências suspeitas (doença febril severa com ou sem bubão, óbitos e epizootias). Simultane-
+amente, deve desenvolver atividades educativas, enfatizando a importância da adoção dos procedimentos
+preventivos. Na vigência de surtos ela deve ser desencadeada imediatamente.
+60 Secretaria de Vigilância em Saúde • MS
+9.6 Definição de caso
+O conhecimento das definições de caso é requisito para o êxito da busca:
+• Paciente que apresentar quadro clínico de início súbito, febre alta, com ou sem linfadenite regional
+dolorosa e manifestações gerais graves em foco natural de peste.
+• Paciente procedente de área com ocorrência de peste pneumônica (de um a dez dias) que apresente
+febre e/ou outras manifestações clínicas da doença, especialmente respiratórias.
+É o caso suspeito que na investigação apresente:
+• Cultura isolada sensível ao bacteriófago antipestoso.
+• Duas amostras de soro com anticorpos aglutinantes contra o antígeno F1, com a segunda apresentando
+um título quatro vezes superior.
+• Uma única amostra de soro com título de anticorpos >1:128, sem antecedentes de peste nem de
+vacinação.
+Todo caso com quadro clínico de peste e confirmação laboratorial. É denominado caso positivo classe I.
+humana ou animal. É denominado caso positivo classe II.
+• Caso suspeito com diagnóstico laboratorial negativo.
+• Caso suspeito com história epidemiológica incompatível.
+Ao se identificar um suspeito devem-se coletar amostras para exames inespecíficos e específicos, antece-
+dendo o início do tratamento. Insistir na realização de hemogramas e provas bioquímicas (aminotransferases,
+uréia, creatinina, etc.). Especial ênfase deve ser conferida às hemoculturas em todas e quaisquer ocorrências.
+Para os exames bacteriológicos dispõe-se do meio de transporte de Cary-Blair. Todas as amostras devem
+obrigatoriamente ser acompanhadas pela respectiva Ficha de Investigação de Caso Humano de Peste.
+9.7 Investigação epidemiológica
+Toda ocorrência de caso suspeito de peste deve ser submetida a um processo de investigação cuja finali-
+a cada caso.
+A investigação pode variar em extensão e profundidade, em função da complexidade do evento a esclare-
+cer. Se a suspeita é de caso humano, a investigação deve ser conduzida com maior agilidade.
+9.7.1 Desencadeiam um processo de investigação de peste
+• Denúncia de ocorrência de casos suspeitos de peste (a notificação de um doente em prontuário hospi-
+talar ou ficha de ambulatório).
+• Denúncia de peste em roedores.
+• Diagnóstico laboratorial que confirme a circulação da Yersinia pestis.
+9.7.2 Quanto à ocorrência de caso humano
+• Atendimento clínico (em unidade de saúde ou em domicílio).
+• Avaliação criteriosa da história clínica e do exame físico.
+• Investigação sobre os dados epidemiológicos.
+• Coleta de material do paciente para diagnóstico laboratorial.
+• Busca ativa de outros casos suspeitos.
+• Busca ativa de indícios de peste entre roedores.
+• Coleta de espécimes para diagnóstico laboratorial (técnicas utilizadas pelos Lacens – sorologia para
+humanos, carnívoros e roedores).
+• Se o resultado for positivo, deve-se enviar a amostra imediatamente para laboratório de referência.
+Deverão ser efetuadas as provas de diagnóstico consideradas necessárias e adequadas para cada caso.
+Após o resultado das provas de diagnóstico, deve-se então criteriosamente classificar o caso e tomar todas
+as medidas necessárias para o controle da peste. Os aspectos clínicos, epidemiológicos e laboratoriais encon-
+trados devem sem utilizados para encerramento do caso e implantação das medidas de controle.
+9.7.3 Quanto à ocorrência de epizootias em roedores
+Da mesma maneira que os eventos que envolvem pessoas, as denúncias sobre epizootias de roedores
+devem ser objeto de investigação, visando a esclarecer sua etiologia e determinar seu potencial de acometi-
+mento humano.
+• Investigação epidemiológica de campo.
+• Busca ativa de casos humanos suspeitos associados.
+• Ampliação da busca de carcaças de roedores.
+• Coleta de espécimes para diagnóstico laboratorial.
+9.8 Notificação e medidas internacionais
+A peste é doença sujeita ao Regulamento Sanitário Internacional, o que implica:
+• Notificação imediata obrigatória às autoridades sanitárias locais, aos países limítrofes e à OMS, com
+descrição da área física e a localização exata da ocorrência. A informação deve ser dada preliminar-
+mente à Secretaria de Estado de Saúde (Portaria SVS nº 5 de 21/02/2006, Item I: todos os casos suspei-
+tos devem ser notificados imediatamente, no máximo em 24 horas), que prontamente (por telefone,
+fax ou e-mail) notificará ao Ministério da Saúde, a quem cabe informar à OMS. A notificação será
+complementada o mais cedo possível, mediante relatório contendo as seguintes informações:
+» data do primeiro caso notificado e o período em que foi realizada a investigação de campo;
+» mapeamento da área;
+» número e tipos de casos de peste notificados (casos suspeitos e confirmados de classes I e II);
+formas clínicas (bubônica, pneumônica, etc.); atributos dos casos e óbitos;
+» contatos de casos;
+62 Secretaria de Vigilância em Saúde • MS
+» resultados dos testes bacteriológicos e sorológicos;
+» tratamento dos casos;
+» quimioprofilaxia dos comunicantes;
+» população de hospedeiros vertebrados: identificação de roedores sinantrópicos comensais e sil-
+vestres e resultados dos testes laboratoriais para detecção da infecção;
+» população de pulgas: identificação das espécies, resultados de testes laboratoriais para detecção
+da infecção, resultados dos testes de resistência a inseticidas e medidas de controle aplicadas.
+• Notificação à OMS dos focos de peste silvestre recém-descobertos ou reativados.
+• Redução, por todos os meios possíveis, dos meios de transmissão. Mediante inquéritos sorológicos,
+capturas sistemáticas e exames regulares de roedores e seus ectoparasitas, os serviços de saúde devem
+infecção dos roedores, inclusive portos e aeroportos.
+• Nos portos e nos aeroportos o estado de alerta para a possibilidade de importação da peste deve ser
+mantido, e o trabalho é desenvolvido integradamente pelas Inspetorias de Portos, Aeroportos e Fron-
+teiras (Iispaf) e o MS, consistindo em:
+» vigilância de casos humanos suspeitos;
+» busca ativa de epizootia murina;
+» eventual coleta de espécimes na contingência de ocorrências suspeitas;
+» inquéritos sorológicos eventualmente;
+» acionamento de medidas ofensivas de controle nas situações de alarme ou de ocorrências suspei-
+tas de peste.
+• Observância das medidas regulamentares aplicáveis a navios, aviões e meios de transporte.
+• Inspeção rigorosa e desratização periódica dos navios.
+• Construção dos edifícios de portos e aeroportos à prova de roedores; aplicação de inseticidas apropria-
+dos de ação residual, quando indicada, e desratização com rodenticidas eficazes (BRASIL, 2002).
+• Vigilância e eventual quarentena de viajantes procedentes de zonas onde existe a infecção. Não é per-
+mitida a saída de um país de pessoas infectadas ou suspeitas. Antes de empreender uma viagem inter-
+nacional a partir de zona onde existe epidemia de peste pneumônica, as pessoas expostas à infecção
+devem ser isoladas por um período de seis dias a contar da data da última exposição ao contágio. Ao
+chegar ao seu destino, os viajantes devem ser mantidos sob vigilância durante o mesmo período a par-
+tir da data de chegada.
+país é uma exigência descabida e injustificável.
+A ocorrência de casos de peste pneumônica primária pode levar à suspeita de atentado. Na América Lati-
+na tal hipótese deve ser devidamente avaliada, pois é conjunturalmente improvável, ao contrário da situação
+dos EUA e da Europa, por exemplo.
+Figura 24. Fluxograma de notificação dos agravos sujeitos ao Regulamento Sanitário Internacional
+RSI 2005 – Fluxo para o Continente Americano
+Instrumento de decisão para avaliação e notificação de eventos que podem constituir-se
+Eventos detectados pelo Sistema Nacional de Vigilância, conforme Anexo I do Regulamento
+Sanitário Internacional de 2005 (WHA 58.3)
+doenças a seguir e que pode a saúde pública internacio- deverá conduzir à utilização
+ter grave impacto sobre a nal, incluindo aqueles de do algoritmo, porque elas
+saúde pública, devendo, causas ou origens desconhe- demonstraram capacidade
+portanto, ser notificado: ou cidas, bem como aqueles ou de causar um grave impacto
+•Varíola envolvendo eventos ou sobre a saúde pública e são
+•Poliomielite (poliovírus
+listados nas caixas ao lado, internacional:
+selvagem)
+devem conduzir à utilização •Cólera
+•Influenza humana por
+do algoritmo.
+novo subtipo (pandêmico) •Peste pneumônica
+•Síndrome Respiratória •Febre amarela
+Aguda Grave (Sars) •Febres hemorrágicas virais
+(Ebola, Lassa, Marburg)
+O impacto do evento sobre •Febre do Nilo Ocidental
+a saúde pública é grave?
+•Outros agravos de
+regional (exemplos: dengue,
+doenças meningocócicas).
+É um evento inusitado ou inesperado? É um evento inusitado ou inesperado?
+propagação internacional? propagação internacional?
+ou comércio internacional?
+Não notificar neste estágio.
+Notificar à OMS por meio da Organização Pan-americana da Saúde confome o Regulamento Internacional
+64 Secretaria de Vigilância em Saúde • MS
+9.9 Medidas em caso de epidemia
+As denúncias que devem desencadear um processo de investigação epidemiológica, principalmente
+quando se trata de área com histórico de peste, são os indícios de epizootia silvestre ou domiciliar, com
+queda de roedores do teto das casas sem o prévio uso de raticidas, e o aparecimento de casos suspeitos.
+À menor suspeita de um caso de peste deve-se analisar a situação, proceder a investigação epidemiológica
+no local das ocorrências, planejar e promover a execução das medidas de prevenção e controle indicadas,
+que serão desenvolvidas por tantas equipes de agentes de saúde quanto forem necessárias.
+imprensa e forneça aos serviços de saúde todos os informes necessários, inclusive a divulgação dos diversos
+aspectos do plano de contingência (fluxos, unidades de referência), bem como esclareça, com honestidade
+e segurança, a população acerca da situação, obtendo-se os apoios necessários e evitando-se o pânico. A
+participação das equipes de Educação em Saúde e Mobilização Social reforçará o processo, otimizando as
+diversas medidas de controle (Figura 25).
+• Cuidados pessoais: cumprir as normas de biossegurança para evitar infecção acidental. Exige-se o
+uso sistemático de repelentes.
+• Busca ativa: vide item 10.5.
+• A Quarentena e a vigilância de contatos devem ser mantidas durante sete dias, com desinfestação
+de todos os expostos. O risco de transmissão doméstica ou hospitalar da Y. pestis aos contatos de peste
+bubônica é mínimo. Os contactantes devem permanecer sob vigilância e suas temperaturas verificadas
+duas vezes ao dia por uma semana, instituindo-se o tratamento tão logo surjam febre e outras manifes-
+tações da doença. Se a quarentena não for aplicável, deve-se proceder à quimioprofilaxia. Um fato que
+deve ser considerado é que atualmente a quarentena é um procedimento de difícil execução na rotina,
+o que finda por implicar implantação imediata da quimioprofilaxia dos contatos.
+• Quimioprofilaxia de comunicantes de casos suspeitos com os antimicrobianos recomendados por
+sete dias. Deve-se limitar estritamente aos casos de exposição significativa, o que, no que concerne à
+pneumonia, corresponde a uma aproximação inferior a 2 m durante o período contagioso e às situ-
+ações nas quais a quarentena é impossível. Na peste bubônica a melhor opção é a doxiciclina, mas se
+não estiver disponível, as outras tetraciclinas podem ser utilizadas. O cotrimoxazol a cada 12 horas
+constitui uma segunda linha. Na forma pneumônica a doxiciclina, assim como as fluoroquinolonas e o
+cloranfenicol, são excelentes indicações.
+• Despulização dos pacientes, suas roupas e bagagens antes da internação, assim como dos contactan-
+tes (Anexo B).
+• Tratamento específico: vide os itens 6. 5, 6.5.1 e 6.5.2.
+• O isolamento dos pacientes de peste bubônica é desnecessário, mas o atendimento hospitalar é
+recomendado, pois facilita o tratamento, e se houver complicação pulmonar, que habitualmente surge
+nas primeiras 48 horas, as medidas necessárias serão tomadas tempestivamente. Na peste pneumô-
+nica o isolamento estrito por 48 horas após o início de tratamento eficaz, desde que o paciente esteja
+apresentando boa evolução, é essencial. Em situações excepcionais, avaliando riscos/benefícios, o tra-
+tamento domiciliar pode ser uma opção, o que é respaldado pela experiência do SNP e do DNERu. As
+pessoas que lidam com doentes de peste pulmonar devem usar máscara de proteção respiratória P3,
+óculos de proteção e avental.
+• Desinfecção concorrente do escarro, das secreções e dos fômites, com incineração, se possível. Todo
+o material mantido na enfermaria deverá ser descartável para também ser incinerado, mesmo se não
+utilizado.
+• Desinfecção terminal: os cadáveres, especialmente os de peste pulmonar, devem ser manipulados
+sob rigorosas medidas de biossegurança.
+• Desinsetização (Anexo B): deve ser implementada imediatamente por ser o procedimento mais efi-
+caz no controle da disseminação da infecção. Durante a epidemia, a redução da densidade da popula-
+ção de roedores determina um impacto insignificante em sua magnitude. Assim, deve-se investir na
+busca ativa, nas medidas de despulização e de anti-ratização.
+66 Secretaria de Vigilância em Saúde • MS
+Figura 25. Fluxograma de investigação de caso suspeito
+Roedor: carcaça, baço, fêmur e soro Humanos suspeitos: soro (fase aguda Cães e gatos: soro
+e fase convalescença); suco de bubão
+Encaminhar amostras para:
+•Centro de Pesquisas Aggeu Magalhães:
+» de casos humanos – suco de bubão;
+» de roedores – carcaça, fêmur, baço
+•Lacen: soro de roedores, de humanos suspeitos e de cães e gatos*
+*Deverão ser encaminhados ao CPqAM para contra-prova todos os resultados do Lacen
+que forem positivos e 10% dos resultados negativos
+Av. Prof. Moraes Rego s/n, Cidade Universitária, Recife/PE, Brasil
+CEP: 50670-420 Caixa Postal: 7472 • Tel.: (81) 2101-2500 / 2101-2600
+E-mail: imprensa@cpqam.fiocruz.br
+10 Vigilância e controle em áreas endemo-enzoóticas
+que a vigilância epidemiológica garanta um monitoramento contínuo, inclusive das áreas adjacentes. As
+roedores em tempo de desencadear as medidas preventivas, evitando o comprometimento humano. A vigi-
+lância revela o processo epizootiológico, sua extensão territorial e por meio de indicadores (presença de Y.
+pestis, densidade de roedores e de pulgas) avalia as possibilidades de epizootias, fornecendo elementos para
+que se possa determinar onde e quando serão aplicadas as medidas preventivas.
+10.1 Relevância da peste e conseqüente urgência
+epidemiológica: circunstâncias condicionantes
+• Já foi referido que a peste pode ocorrer clinicamente de três formas principais: bubônica, pneumônica
+e septicêmica. A peste bubônica é a mais freqüente e a de menor risco potencial para a comunidade.
+Seu risco potencial decorre de uma possível complicação para a forma pulmonar (daí porque é crucial
+o tratamento imediato e correto). A peste septicêmica é muito grave e também pode resultar em peste
+pulmonar. A peste pneumônica é um evento extremamente grave, de alto risco e com potencial para
+gerar surtos secundários. É indicado e imperativo, então, o estrito isolamento dos casos (quer sejam
+confirmados ou simplesmente suspeitos).
+• Além da forma clínica, outro fator que condiciona a relevância epidemiológica da peste é a localização
+das ocorrências. Mesmo sendo a peste um agravo eminentemente rural, as movimentações de pessoas
+e mercadorias podem propiciar condições para sua expansão, devendo-se ficar atento à possibilidade
+de ocorrência de casos suspeitos nos grandes centros urbanos, principalmente dos estados endêmicos.
+rural, até porque pode haver contato entre pessoas acometidas por peste que procuram os serviços das
+cidades mais próximas. A maioria dos focos situam-se em regiões ermas, onde o relativo isolamento
+geográfico reduz bastante o risco de disseminação. Porém, alguns se localizam próximo a importantes
+centros urbanos, com facilidades de acesso, o que lhes confere uma importância relativa maior, mesmo
+que somente estejam ocorrendo casos de peste bubônica ou circulação de peste animal.
+• Também deve ser levado em conta se os eventos de importância epidemiológica estão ocorrendo de
+forma isolada e esporádica ou em aglomerados.
+Portanto, os fatores que indicam relevância e maior risco decorrente da peste (e que requerem, conse-
+qüentemente, ações de controle rápidas) são:
+» ocorrência de peste pneumônica;
+» acessibilidade do foco natural;
+» intensidade e aglomerado das ocorrências.
+68 Secretaria de Vigilância em Saúde • MS
+10.2 Métodos de monitoramento epidemiológico
+Como apontado em outro capítulo do Manual, no Brasil a peste está assentada em determinadas áreas
+de foco em nove estados: PI, CE, RN, PB, PE, AL, BA, MG, RJ. Nesses focos naturais ela vem-se mantendo
+como enzootia, alternando períodos – usualmente longos – de aparente inatividade, com momentos de
+atividade, quando ocorrem epizootias de roedores e eventualmente casos humanos.
+10.2.1 Racional e diretriz geral
+Uma vez que: 1) a ocorrência de casos humanos é um evento que pode ser considerado raro, implicando
+que as pessoas e os serviços de saúde acabam se esquecendo da possibilidade dessa ocorrência; 2) a detecção
+do agente etiológico é difícil na maioria das vezes, pois a circulação se dá, na natureza, em baixos níveis de
+prevalência, a vigilância de rotina deve se basear nos métodos mais sensíveis, eficientes e práticos.
+Por conseguinte, a vigilância rotineira:
+a) para possibilitar uma resposta efetivamente imediata, deve ser feita primordialmente sobre base co-
+munitária e ambiental (tendo como objeto da vigilância eventos passíveis de observação pelas comu-
+nidades, ocorrendo no ambiente em que vivem as pessoas sob risco, com subseqüente confirmação
+observacional pelos agentes dos serviços de saúde);
+b) para incrementar as possibilidades de detecção e confirmação, deve ser feita, no que diz respeito ao uso
+da tecnologia moderna, com as técnicas laboratoriais de maior sensibilidade, aplicadas sobre amostras
+que revelem com maior eficiência a infecção pestosa.
+10.2.2 Indicações gerais dos métodos de vigilância e técnicas laboratoriais
+I. A primeira linha de atuação é a vigilância focada na detecção precoce de eventos de importância epide-
+miológica para peste: casos humanos suspeitos, indícios de epizootia de roedores, outras condições de
+risco (como infestações domiciliares por ratos e pulgas). A estratégia a utilizar é a informação sanitária
+específica às populações das áreas de risco e a realização simultânea de busca ativa desses eventos.
+prestam atenção básica de saúde diretamente às comunidades.
+II. A segunda linha de atuação é a vigilância com base laboratorial da circulação de Y. pestis:
+a) Vigilância de rotina: mediante coleta sistemática de amostras de sangue e exame por técnicas so-
+rológicas (que são bem mais sensíveis do que as técnicas bacteriológicas), usando como animais-
+sentinela os cães (pois tem sido sistematicamente observado que revelam anticorpos antipestosos
+com maior freqüência do que os roedores e mesmo do que outros carnívoros, como os gatos).
+b) Investigações contingenciais: são indicadas quando da ocorrência eventual de fatos de impor-
+tância epidemiológica. Atuação indicada nessas circunstâncias: ações de busca ativa e de coleta e
+exame de espécimes. Deve-se então coletar e examinar todas as amostras possíveis, lançando mão
+de todo o arsenal disponível de técnicas imunológicas/sorológicas e bacteriológicas.
+10.3 Estratégias de monitoramento epidemiológico e suas indicações
+10.3.1 Coleta e exame sorológico de amostras de sangue de cães
+O propósito principal é o monitoramento sistemático da circulação da peste enzoótica. Deve então ser
+feita regularmente (de seis em seis meses ou pelo menos uma vez ao ano), cobrindo a maior área possível
+dos focos geográficos, com prioridade para as áreas historicamente mais ativas.
+dados básicos para as ações preventivas. Empiricamente tem sido observado que taxas de positividade soro-
+lógica abaixo de 1% indicam uma situação epidemiológica de menor risco para a ocorrência de casos huma-
+nos. Ao mesmo tempo, taxas acima desse limiar (e quanto mais altas maior a correlação) indicam situações
+potencialmente perigosas e a necessidade de intervenção de controle. Portanto, nas áreas reconhecidamente
+ativas de peste, a vigilância sorológica deve ser usada para a verificação periódica dos índices entre animais-
+sentinela, com particular ênfase para a verificação de situações em que os índices se encontrem acima desse
+limiar, denotando assim um risco aumentado para as comunidades da área. Para detectar essa prevalência
+de 1%, o exame de trezentos cães de determinada área é suficiente.
+especiais para avaliação e caracterização de áreas focais antigas silentes. Teoricamente, é posto que taxas de
+positividade sorológica abaixo de 0,1% (ou seja, 1 por mil) apontam para uma situação epidemiológica em
+que a peste praticamente não teria relevância epidemiológica na área, caracterizando situações de risco quase
+nulo de transmissão (a exemplo das situações epidemiológicas em programas de eliminação de doenças). Para
+detectar essa prevalência de 0,1%, seria requerido o exame de pelo menos 3 mil cães de determinada área.
+10.3.2 Captura e exame de roedores e pulgas
+São dois os propósitos principais e as circunstâncias em que são indicadas essas atividades:
+1) Verificação periódica da composição e do perfil dos reservatórios e dos vetores (roedores e pulgas)
+existentes nas áreas focais. Normalmente, tal poderá ser feito de três em três anos, ou até mais (de cin-
+co em cinco), já que a composição populacional dos animais não parece mudar muito em períodos de
+poucos anos, a não ser em circunstâncias de alterações drásticas do meio ambiente.
+2) Coleta especial de amostras para exame, como parte de investigações complementares, na resposta
+da vigilância em face da ocorrência circunstancial de eventos de importância epidemiológica. Como
+o próprio termo sugere, essas não são atividades regulares de realização sistemática, pois dependem
+variabilidade, os quais deverão ser objeto da competente investigação.
+de estudos especiais para caracterização de áreas focais antigas silentes, ou de possíveis novas áreas. Obvia-
+mente esses estudos são realizados muito esporadicamente.
+70 Secretaria de Vigilância em Saúde • MS
+11 Avaliação epidemiológica
+Todos os casos suspeitos de peste devem ser notificados no Sinan e Cievs e, em seguida, investigados, não
+só para o correto diagnóstico dos pacientes, como também para orientar as medidas de controle a serem
+adotadas. O instrumento de coleta de dados, a ficha epidemiológica, disponível no Sinan (Anexo C), contém
+os elementos essenciais a serem coletados em uma investigação de rotina. Todos os campos da ficha devem
+ser criteriosamente preenchidos, mesmo quando a informação for negativa. Informações adicionais podem
+ser incluídas, conforme as necessidades e as peculiaridades de cada situação. De posse de todas as informa-
+ções, a gerência analisa a tendência da infecção, a morbidade e a mortalidade da doença.
+As medidas de controle poderão ser intensificadas, reduzidas ou transformadas ou revistos os grupos
+prioritários a partir da avaliação. Os principais indicadores derivados do trabalho rotineiro de monitora-
+mento de reservatórios e vetores são:
+• Índices de pulgas de roedores sinantrópicos comensais;
+• Índices de pulgas de roedores silvestres;
+• Índices de infestação domiciliar por pulgas;
+• Presença de X. cheopis livres nas habitações;
+• Densidades de roedores silvestres;
+• Infestação murina domiciliar;
+• Quedas bruscas nas densidades populacionais de roedores;
+• Encontro de roedores silvestres nos domicílios.
+Os indicadores que justificam o desencadeamento das medidas de controle são:
+• Ocorrência de casos humanos confirmados ou suspeitos;
+• Comprovação de peste animal (roedores, pulgas, carnívoros ou pequenos mamíferos).
+11.1 Logística
+A vigilância epidemiológica da peste em escala nacional comporta dois elementos essenciais:
+• Laboratórios dotados de recursos humanos e materiais que permitam a realização de provas bacterio-
+lógicas, sorológicas e moleculares para o diagnóstico da peste humana e animal; identificação e exame
+de vetores e hospedeiros vertebrados; realização de pesquisas sobre os diversos elos da cadeia epide-
+miológica, além de agrupar, analisar dados sobre os diversos focos do país e elaborar planilhas e mapas
+para definição do perfil epidemiológico.
+• Equipes móveis encarregadas de colher sangue de carnívoros, capturar roedores e suas pulgas para a
+pesquisa da infecção pestosa, assim como de pulgas livres nas habitações rurais para o estabelecimento
+de índices de alarme e, eventualmente, a pesquisa do bacilo pestoso, principalmente durante investiga-
+ção epidemiológica de casos humanos.
+Magalhães (CPqAM), em Recife-PE, o Serviço de Referência Nacional para a Peste (SRP). O SRP também
+tem como atribuições produzir insumos, assessorar a rede de laboratórios e capacitar recursos humanos.
+11.2 Fluxo de informações
+de vigilância e controle, incluindo operações de campo, atividades de laboratório e a investigação de casos huma-
+nos de peste. Os dados operacionais e epidemiológicos do PCP são coletados e processados em dois sistemas:
+• Sistema Nacional de Agravos de Notificação (Sinan) para os dados relativos aos casos humanos (ficha
+no Anexo C);
+• Sistema de Informação de Peste (Sispeste) para os demais dados gerados na execução das ações progra-
+máticas (fichas no Anexo D).
+11.3 Programação e acompanhamento
+(PAVS), de acordo com a Portaria SVS nº 64, de 30 de maio de 2008:
+• Ação Vigilância Entomológica – realizar coleta de pulgas em áreas focais de peste;
+• Ação de Vigilância de Hospedeiros e Reservatórios – realizar captura de roedores para vigilância em
+áreas focais; prover sorologia de material coletado em carnívoros e roedores para detecção de atividade
+pestosa e aplicar inseticidas intradomiciliarmente;
+• Busca ativa e orientação à população de risco.
+que envolvem aspectos epidemiológicos e operacionais.
+O PCP dispõe de um grande acervo de informações que pode ser utilizado na elaboração da programa-
+ção, favorecendo o planejamento. O planejamento deve conter:
+Os municípios devem ser minuciosamente descritos (características da área, meio ambiente, clima, loca-
+lidades, prédios, população, economia, etc.), devendo-se ressaltar as dimensões da área de risco e da área a
+ser trabalhada.
+» descrição sucinta da situação da peste na área jurisdicional;
+» objetivos;
+» metodologia e estratégias;
+» detalhamento das operações.
+» vigilância epidemiológica (coleta de espécimes e busca ativa);
+» profilaxia/controle;
+» atividades laboratoriais;
+» educação em saúde/divulgação/mobilização social.
+Devem ser definidos os recursos existentes e os necessários e/ou programados com base nas metas a
+serem atingidas.
+» pessoal;
+» equipamentos, insumos e meios de transporte;
+» orçamentários/financeiros.
+72 Secretaria de Vigilância em Saúde • MS
+12 A peste e a visão de controle multidoença e multissetorial
+• Visão e abordagem multidoença
+• Visão e abordagem multissetorial
+A vigilância e o controle da peste devem ser exercidos não mais de forma isolada, porém cada vez mais
+integrados em uma visão e abordagem mais gerais, multidoença e multissetor. Assim, a utilização dos re-
+cursos da saúde pública será feita de maneira a mais racional e produtiva possível, buscando-se a melhor
+relação custo–beneficio e tendo uma boa garantia de sustentabilidade no tempo.
+Em decorrência de a peste habitualmente apresentar longos períodos de inatividade e latência, a tendên-
+cia é que sua vigilância vá sendo gradativamente relaxada. A integração com a vigilância de outras doenças
+propicia melhores condições para que seja mantida, mesmo nos períodos de inatividade.
+Nas zonas rurais onde a peste se mantém como enzootia, outras zoonoses (hantavirose, febre maculosa,
+leptospirose) também podem ocorrer. O controle de roedores tem um efeito particularmente benéfico sobre
+várias dessas doenças. A vigilância e o controle devem então ser desenvolvidos de forma integrada, utilizan-
+do-se racionalmente os recursos de infra-estrutura e logística.
+Além das conseqüências diretas sobre a saúde, os roedores domésticos também são responsáveis por im-
+portantes perdas econômicas, ao atacarem os cereais armazenados ou contaminá-los com seus excrementos.
+Pequenos agricultores podem ter grandes perdas, com repercussão até em sua sobrevivência econômica.
+Destarte, o controle de roedores deve ser uma parte consistente dos projetos de desenvolvimento das econo-
+mias rurais, incluindo a melhoria de moradias à prova de ratos.
+13 Desenvolvimento e manutenção dos programas
+nacional, estaduais e municipais de controle da peste
+• Instância 1 – Reconhecimento de casos e atenção médica
+• Instância 2 – Investigação e pronto controle/articulação com o Cievs
+• Instância 3 – Vigilância e controle
+• Instância 4 – Gestão de longo prazo
+com uma visão ampla, abrangendo o curto e o longo prazos. As autoridades de saúde, os gestores e os técni-
+e mantido, valendo-se de uma visão estratégica apropriada que o problema requer. Autoridades, gestores
+e técnicos envolvidos devem pensar estrategicamente a vigilância da peste, qualquer que seja seu nível de
+atuação (municipal, microrregional, estadual, macrorregional ou nacional).
+A primeira instância ou fase engloba as atividades primárias – que são essenciais – de detecção de casos e
+seu competente manejo. Todos os casos suspeitos devem ser detectados, adequadamente notificados, inves-
+tigados e informados às autoridades sanitárias. Amostras devem ser coletadas e enviadas para diagnóstico.
+Todos os pacientes devem ser corretamente tratados, mesmo que apenas sob presunção inicial de etiologia
+pestosa. Casos de peste pneumônica devem receber uma atenção especialíssima, incluindo seu isolamento.
+Os comunicantes devem ser tratados profilaticamente.
+A segunda instância ou fase requer atividades de investigação – e provável controle – ambiental. Portan-
+to, requer estrutura e capacidade logística extramuros para uma atuação intensiva, abrangente e rápida. A
+favoráveis à disseminação da peste. O Programa deve dispor de equipes de investigação de campo e de res-
+posta rápida. Deve ser promovida uma integração estreita, permanente e produtiva com o Cievs.
+A terceira instância ou fase abrange os importantes aspectos de vigilância e controle duradouros abarcan-
+do reservatórios, vetores e populações de risco. Devem ser desenvolvidos estudos objetivando uma melhor
+compreensão dos aspectos paisagísticos locais e ecológicos envolvendo roedores e pulgas, determinantes
+da manutenção da peste nas regiões pestígenas, bem como das atividades humanas geradoras de risco de
+transmissão. As espécies locais de reservatórios e vetores da peste devem ser bem identificados, e seus há-
+bitos, bem estudados. Programas específicos de prevenção e controle, incluindo educação sanitária para as
+comunidades de risco, adequados às realidades locais, devem ser elaborados e aplicados.
+A quarta instância ou fase diz respeito à gestão de longo prazo. Não se pode perder de vista a realidade epi-
+demiológica da peste de que os focos naturais são permanentes ou pelo menos de muito longa duração. Até o
+momento, não há evidência de que algum foco rural no Brasil tenha se extinguido naturalmente. Pelo contrário,
+pesquisas realizadas em alguns focos com períodos de aparente inatividade ultrapassando quarenta anos mostra-
+ram que o agente etiológico continua circulando. Por conseguinte, a gestão de longo prazo se impõe. As espécies
+de hospedeiros e vetores de importância epidemiológica devem ser objeto de vigilância continuada. Epizootias
+devem ter respostas rápidas. A gestão ambiental, mediante melhorias sanitárias domiciliares apropriadas visan-
+do à prevenção da infestação por roedores e pulgas, deve ser promovida. Devem ser fomentadas também a inte-
+gração e a cooperação com a área agrícola, visando à proteção de colheitas, especialmente a proteção adequada
+de cereais armazenados dentro das casas. Programas educativos devem ser mantidos, tendo como alvo todas as
+comunidades das áreas enzoóticas. Técnicas e medidas de prevenção e controle devem ser objeto de investigação
+e estudo, incluindo os possíveis impactos sobre o ambiente decorrentes das intervenções sanitárias.
+74 Secretaria de Vigilância em Saúde • MS
+76 Secretaria de Vigilância em Saúde • MS
+ACHTMAN, M. et al. Microevolution and history of the plague bacillus, Yersinia pestis. Proceedings of the
+National Academy of Sciences of the United States of America, [S.l.], v. 101, p. 17837-42, 2004.
+ACHTMAN, M. et al. Yersinia pestis, the cause of plague, is a recently emerged clone of Yersinia pseudo-
+tuberculosis. Proceedings of the National Academy of Sciences of the United States of America, [S.l.], v. 96, p.
+14043-48, 1999.
+ALMEIDA, A. M. P. et al. Isolamento de Yersinia pestis nos focos pestosos do Nordeste do Brasil no período
+de 1966 a 1982. Revista do Instituto de Medicina Tropical de São Paulo, São Paulo, v. 27, p. 207-18, 1985.
+ALMEIDA, A. M. P. et al. Pesquisa de Yersinia pestis em roedores e outros pequenos mamíferos nos focos
+pestosos do Nordeste do Brasil no período de 1966 a 1982. Revista de Saúde Pública, São Paulo, v. 21, p.
+265-267, 1988.
+ALMEIDA, A. M. P. et al. Estudos bacteriológicos e sorológicos de um surto de peste no Estado da Paraíba,
+Brasil. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro, v. 84, p. 249-56, 1989.
+ALMEIDA, A. M. P. et al. Importância dos carnívoros domésticos (cães e gatos) na epidemiologia da peste
+nos focos do Nordeste do Brasil. Cadernos de Saúde Pública, Rio de Janeiro, v. 1, p. 49-55, 1988.
+ALMEIDA, A. M. P. et al. Manual de peste. Recife: CPqAM/Fiocruz, 2002. Disponível em: <http://www.
+cpqam.fiocruz.br/aggeu/doc/manual_peste.pdf>.
+ALMEIDA, A. M. P. et al. Plague surveillance in Brazil: 1983-1992. Revista do Instituto de Medicina Tropical
+de São Paulo, São Paulo, v. 37, p. 511-16, 1995.
+ALMEIDA, A. M. P.; FERREIRA, L. C. S. Evaluation of three sorological tests for the detection of human
+plague in Northeast Brazil. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro, v. 87, p. 87-92, 1992.
+ALMEIDA, A. M. P.; TAVARES, C.; LEAL-BALBINO, T. C. Peste. In: COURA JR. (Ed.). Dinâmica das
+doenças infecciosas e parasitarias. Rio de Janeiro: Guanabara Krogan, 2005. p. 1509-22.
+ANISIMOV, A. P.; LINDLER, L. E.; PIER, G. B. Intraspecific Diversity of Yersinia pestis. Clinical Microbiolo-
+gy Reviews, [S.l.], v. 17, p. 434-64, 2004.
+ARAGÃO, A. I. et al. Vigilância da peste no Estado do Ceará: 1990-1999. Revista da Sociedade Brasileira de
+Medicina Tropical, [S.l.], v. 35, p. 143-48, 2002.
+BALTAzARD, M. 4e rapport (mai 1970) – Progress report. Recherches sur la peste au Brésil. Bulletin de la
+Societe de Pathologie Exotique, [S.l.], v. 97, p. 93-117, 2004. Suppl.
+_______. Pesquisas sobre a peste no Brasil. Revista Brasileira de Malariologia e Doenças Tropicais, [S.l.], v. 20, p.
+371-90, 1968.
+BRASIL, D. et al. Pesquisa da infecção natural por Yersinia pestis em pulicídios provenientes de focos pestosos
+do Nordeste do Brasil. Revista da Sociedade Brasileira de Medicina Tropical, São Paulo, v. 22, p. 177-81, 1989.
+BRASIL. Ministério da Saúde. Manual de instrução para auxiliares em epidemiologia da peste. Brasília, 1973.
+(Campanha Contra a Peste, Sucam, 1973).
+_______. Ministério da Saúde. Fundação Nacional de Saúde. Manual de controle da peste: normas técnicas.
+Brasília, 1994.
+_______. Ministério da Saúde. Fundação Nacional de Saúde. Manual de controle de roedores. Brasília, 2002.
+_______. Ministério da Saúde. Fundação Nacional de Saúde. Peste: guia de vigilância epidemiológica. 5. ed.
+Brasília. 2002. v. 2.
+BRITO, M. E. F. et al. Emprego do teste de imunofluorescência no diagnóstico da peste (infecção pela Yersi-
+nia pestis) nos focos do Nordeste do Brasil. Revista de Microbiologia, São Paulo, v. 20, p. 446-51, 1989.
+CARNIEL, E. The Yersinia high-pathogenicity island: an iron-uptake island. Microbes and infection, [S.l.], v. 3,
+p. 561-69, 2001.
+CENTER FOR DISEASES CONTROL AND PREVENTION (CDC). Métodos para Trampeo y Muestreo de
+pequeños mamíferos para estudios virologicos. Washington. DC.: La Organización Panamericana de la Salud:
+1998. 66 p.
+CHU, M. Laboratory Manual of Plague Diagnostic Tests. Geneve: World Health Organization, 2000.
+COMISSÃO TÉCNICA DE BIOSSEGURANçA DA FIOCRUz (CTBio). Procedimentos para a manipula-
+ção de microorganismos patogênicos e/ou recombinantes na Fiocruz. Rio de Janeiro, 2006.
+CORNELIS, G. R. Molecular and cell biology aspects of plague. Proceedings of the National Academy of
+Sciences of the United States of America, [S.l.], v. 97, p. 8778-83. 2000.
+COURA JR. et al. Focos inveterados de peste no Brasil. Revista da Sociedade Brasileira de Medicina Tropical,
+São Paulo, v.1, p. 293-310, 1967.
+DENNIS, D. T.; HUGHES, J. M. Multidrug Resistance in Plague. The New England Journal of Medicine,
+[S.l.], v. 41, p. 149, 2004.
+DEODHAR, N. S.; YEMUL, V. L.; BANERJEE, K. Plague that never was: a review of the alleged plague
+outbreaks in India in 1994. Journal of Public Health Policy, [S.l.], v. 19, p. 184-89, 1998.
+FREITAS, C. A.; VALENçA-JUNIOR, J. V. Peste pneumônica em Pesqueira. Revista de Higiene e Saúde
+Pública, [S.l.], v. 4, p. 73-8, 1955.
+FREITAS, C. A. Histórias da peste e de outras endemias. Rio de Janeiro: PEC; Ensp, 1998.
+FRITz, C. L. et al. Surveillance for pneumonic plague in the United States during an international emergency:
+a model for control of imported emerging disease. Emerging Infectious Diseases, [S.l.], v. 2, p. 30-6, 1996.
+GAGE, K. L.; KOSOY, M. Y. Natural history of plague: pespectives from more than a century of research.
+Annual Review of Entomology, [S.l], v. 50, p. 505-28, 2005.
+GIRARD, J. M. et al. Differential plague-transmission dynamics determine Yersinia pestis population genetic
+structure on local, regional, and global scales. Proceedings of the National Academy of Sciences of the United
+States of America, [S.l.], v. 101, p. 8408-13, 2004.
+78 Secretaria de Vigilância em Saúde • MS
+GUIMARÃES, L. R. Contribuição à epidemiologia da peste endêmica no Nordeste do Brasil e Estado da
+Bahia. Estudo das pulgas encontradas nessa região. Revista Brasileira de Malariologia e Doenças Tropicais,
+[S.l.], v. 24, p. 96-163, 1972.
+GUIYOULE, A. et al. Plague pandemics investigated by ribotyping of Yersinia pestis strains. Journal of Cli-
+nical Microbiology, [S.l.], v. 32, p. 634-41, 1994.
+HINNEBUSCH, B. J. Transmission factors: Yersinia pestis genes required to infect the flea vector of plague.
+Advances in Experimental Medicine and Biology, [S.l.], v. 529, p. 55-62, 2003.
+INGLESBY, T. V. et al. Plague as a Biological Weapon. Medical and Public Health Management. Journal of
+the American Medical association, [S.l.], v. 283, p. 2281-90, 2000.
+KARIMI, Y. Diagnostic rapid de l’infection pesteuse au laboratoire. Bulletin de la Societe de Pathologie Exo-
+tique, [S.l.], v. 71, p. 45-8, 1978.
+LEAL, N. C. et al. A simple PCR-based procedure for plague diagnosis. Revista do Instituto de Medicina
+Tropical de São Paulo, São Paulo, v. 38, p. 371-5, 1996.
+LEAL, N. C. et al. Plasmid profils of Yersinia pestis strains isolated in Northeast Brazil. Revista de Microbio-
+logia, São Paulo, v. 28, p. 41-6, 1994.
+LEAL, N. C.; ALMEIDA, A. M. P. Diagnosis of plague and identification of virulence markers in Yersinia pestis
+by multiplex-PCR. Revista do Instituto de Medicina Tropical de São Paulo, São Paulo, v. 41, p. 339-42, 1994.
+LINARDI, P. M.; GUIMARÃES, L. R. Sifonápteros do Brasil. São Paulo: MzUSP, 2000. 291 p.
+LOIEz, C. et al. Detection of Yersinia pestis in sputum by Real-Time PCR. Journal of Clinical Microbiology,
+[S.l.], v. 40, p. 4873-75, 2003.
+LOWELL, J. L. et al. Identifying sources of human exposure to plague. Journal of Clinical Microbiology, [S.l.],
+v. 43, p. 650-56, 2005.
+MOOJEN, J. Captura e preparação de pequenos mamíferos para coleções de estudos. Rio de Janeiro: Manuais
+do Museu Nacional; Imprensa Nacional, 1943. (Série, n. 1).
+_______. Os roedores do Brasil. Rio de Janeiro: Biblioteca Científica Brasileira, 1952. (Série A-II).
+ORGANIzACIÓN PANAMERICANA DE LA SALUD (OMS). Hantavirus em las Américas: guia para el
+diagnóstico, el tratamiento, la prevención y el control. Washington, DC., 1999. (Cuaderno Técnico, n. 47).
+PERRY, R. D.; FETHERSTON, J. D. Yersinia pestis-etiologic agent of plague. Clinical Microbiology Review,
+[S.l.], v. 10, p. 35-66, 1997.
+POLLITzER, R. La Peste. Genève: Organização Mundial da Saúde, 1954. (Série Monographies, 22).
+SPLETTSTOESSER, W. D. Evaluation of a standardized F1 capsular antigen capture ELISA test kit for the
+rapid diagnosis of plague. FEMS Immunology and Medical Microbiology, [S.l.], v. 41, 2004.
+VIEIRA, J. B. F.; ALMEIDA, A. M. P.; ALMEIDA, C. R. Epidemiologia e controle da peste no Brasil. Revista
+da Sociedade Brasileira de Medicina Tropical, [S.l.], p. 51-8. 1994. Suplemento III.
+VIEIRA, J. B. F.; COELHO, G. E. Peste: aspectos epidemiológicos e de controle. Revista da Sociedade Brasi-
+leira de Medicina Tropical, [S.l.], v. 31, p. 112-9, 1998. Suplemento II.
+WORLD HEALTH ORGANIzATION (WHO). Plague Manual. Epidemiology, Distribution, Surveillance
+and Control. Geneve, 1999. Disponível em: <http://www.who.int/emc.>
+_______. Human plague in 2002 and 2003. Weekly Epidemiological Record, [S.l.], v. 79, p. 301-08, 2004.
+_______. International Meeting on Preventing and Controling Plague; the old calamity still has a future.
+Weekly Epidemiological Record, [S.l.] v. 81, p. 278-84. 2006.
+_______. Plague in the Americas. Scientif Publication, [S.l.], n. 115, p. 44-68, 1965.
+zHOU, D. et al. Genetics of Metabolic Variations between Yersinia pestis Biovars and the Proposal of a New
+Biovar, microtus. Journal of Bacteriology, [S.l.], v. 186, n. 15, p. 5147-5152, 2004.
+80 Secretaria de Vigilância em Saúde • MS
+82 Secretaria de Vigilância em Saúde • MS
+Controle dos reservatórios – Anti-ratização
+Anti-ratização
+A anti-ratização é a atividade que visa à modificação das características ambientais favoráveis à instalação
+e à proliferação de roedores. Basicamente, compreende a eliminação dos meios que propiciem aos roedores
+o acesso a alimentos, água e abrigo, bem como informação, orientação e esclarecimento às pessoas direta-
+mente afetadas pelo problema, aos escolares e ao público em geral.
+• Orientar os moradores das zonas rurais a respeito de técnicas de armazenamento do produto das co-
+lheitas. Em especial, evitar o armazenamento a granel dentro de casa.
+• Os silos e os paióis construídos rente ao piso são invariavelmente invadidos por roedores atraídos pelos
+cereais neles estocados. Eles devem ser construídos sobre estacas ou pilotis com altura mínima de 60
+cm, dotados de defensas ou rateiras metálicas, o que evita o acesso dos roedores. A soleira da porta
+deve ser protegida com uma folha de metal (zinco, por exemplo), que impede a abertura de passagens
+e orifícios de penetração dos roedores.
+• Promover a melhoria das habitações da zona rural, cimentando o piso de barro e construindo rodapés
+à prova de ratos.
+• Sensibilizar os moradores sobre a importância da limpeza das moradias e do peridomicílio na preven-
+ção da peste.
+• Realizar mutirões para desmatar e limpar pátios, quintais e terrenos baldios, afastar cercas e eliminar
+entulhos e pilhas de materiais, como telhas, madeiras e tijolos.
+• Remover adequadamente os resíduos sólidos.
+• Fornecer às famílias ratoeiras tipo guilhotina e/ou sanga ou mesmo, com supervisão, iscas raticidas.
+• Inspecionar rotineiramente todos os navios atracados e exigir que as medidas anti-rato sejam cum-
+pridas. Exigir o afastamento dos navios a pelo menos um metro do cais, vigilância e iluminação das
+pranchas à noite e, ainda, o uso de defensas afixadas a cada metro das amarras.
+Controle do vetor – Desinsetização
+A desinsetização é uma das medidas profiláticas mais eficazes no combate à peste. Nas epizootias verifica-
+se uma circulação intensa de Y. pestis entre os roedores, com grande mortandade. Para evitar que a infecção
+atinja as pessoas, cumpre eliminar as pulgas o mais precoce e rapidamente possível. O combate às pulgas
+deve preceder qualquer medida contra os roedores, o que evita a liberação dos ectoparasitos no ambiente.
+Com o surgimento de resistência das pulgas (Pulex, Ctenocephalides e Xenopsylla) aos compostos clora-
+dos (DDT, BHC e Dieldrin) passou-se a utilizar os carbamatos e os organofosforados.
+Atualmente dois grupos de inseticidas (piretróides e carbamatos) são empregados com sucesso no con-
+trole das pulgas.
+uso; permanecem eficazes; apresentam grau razoável de segurança (DL50 do Carbaryl®: 3.000) e seu custo é
+equivalente ao dos outros inseticidas.
+alto custo. Recomenda-se a realização de testes de campo para verificar sua ação sobre as pulgas (despuliza-
+ção – knock down – e efeito residual).
+Os organofosforados são uma terceira opção. São eficazes contra as pulgas, porém têm como inconve-
+nientes seu custo, o curto efeito residual e a exigência de maiores cuidados na aplicação.
+A resistência das pulgas aos inseticidas é um problema que exige a execução anual de testes de sensibili-
+dade a fim de garantir que as ações de controle tenham eficácia.
+O efeito residual dos carbamatos é aproximadamente de três meses, mas a exposição aos agentes físicos
+(luz solar, vento e umidade) pode influir consideravelmente na vida útil dos inseticidas. A varrição das casas
+antes do tempo previsto para a eliminação das pulgas também influencia a duração do efeito residual.
+A periodicidade das aplicações deve fundamentar-se nos índices de pulgas. Porém, quando surgem novos
+casos de peste humana ou indícios de epizootias em áreas trabalhadas, recomenda-se a aplicação imediata
+de novo tratamento com inseticida na localidade.
+às patas e ao pêlo dos animais ao passarem pelos locais polvilhados. O polvilhamento deve ser realizado prin-
+cipalmente nos rodapés das paredes, nas trilhas na junção das paredes com o teto e nas tocas. Deve-se, po-
+rém, cobrir todo o piso dos prédios em desinsetização. Outra alternativa são as caixas de iscas (bait boxes).
+As normas de manejo desses inseticidas e os cuidados contra eventuais intoxicações devem ser difundi-
+dos. Os inseticidas devem ser armazenados longe do alcance das crianças. As recomendações expressas nos
+rótulos com respeito à proteção dos alimentos expostos devem ser respeitadas. Os operadores devem usar
+regularmente o EPI. A observância dessas normas deve ser exigida por todos os profissionais envolvidos
+na atividade.
+84 Secretaria de Vigilância em Saúde • MS
+República Federativa do Brasil Nº
+| | | | | | | | |
+31Data da Investigação 32 Ocupação
+| || | | | | |
+CASO SUSPEITO: Paciente sintomático ganglionar (presença de bubões ou adenite dolorosa) ou respiratório (tosse, dispnéia, dor
+no peito, escarro muco-sanguinolento) com febre e um ou mais dos seguintes sintomas/sinais: calafrios, cefaléia, dores no corpo,
+fraqueza, anorexia, hipotensão e/ou pulso rápido/irregular, oriundo de zonas ativas de ocorrência de peste.
+33 A ocorrência cumpre condições básicas de risco? 34 O Caso está associado a eventos positivos de importância
+epidemiológica para Peste?
+1 - Sim 2 - Não 9 - Ignorado 1 - Sim 2 - Não 9 - Ignorado
+35Os Sinais e Sintomas são compatíveis com a 36Sintomatologia Específica 1 - Sim 2 - Não 9 - Ignorado definição de caso? Ganglionar Pulmonar
+1 Tipo de Notificação
+2 - Individual
+5 Município de Notificação
+6 Unidade de Saúde (ou outra fonte notificadora) 7 Data dos Primeiros Sintomas
+| | | | | | |
+8 Nome do Paciente 9 Data de Nascimento
+| | | | | | |
+siareGsodaD 2 Agravo/doença Código (CID10) 3 Data da Notificação PESTE A 2 0. 9 | | | | | | |
+4 UF Código (IBGE)
+| | | | | |
+| | | | | |
+10 (ou) Idade 1 2 3 - - - D M H i o ê a r s a 11 SexoM F - - F M e a m s i c n u in lin o o 12G 4 1 e - - 1 s Id º t T a a r d n im e t e e g s e t s re ta c io 2 n -2 a º l T I r g im no e r s a t d re a 5 - 3 N - ã 3 o ºT r i m 6 e - s N tre ão se aplica 1 1 3 -B R ra a nc ç a a / C 2 o -P r reta 3-Amarela
+| | 4 - Ano I - Ignorado 9-Ignorado 4-Parda 5-Indígena 9- Ignorado
+14Escolaridade
+0-Analfabeto 1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau) 2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª à 8ª série incompleta do EF (antigo ginásio ou 1º grau) 4-Ensino fundamental completo (antigo ginásio ou 1º grau) 5-Ensino médio incompleto (antigo colegial ou 2º grau )
+6-Ensino médio completo (antigo colegial ou 2º grau ) 7-Educação superior incompleta 8-Educação superior completa 9-Ignorado 10- Não se aplica
+15 Número do Cartão SUS 16 Nome da mãe
+| | | | | | | | | | | | | | |
+17UF 18MMuunniiccííppiioo ddee RReessiiddêênncciiaa CCóóddiiggoo ((IIBBGGEE)) 19 Distrito
+| || || || || ||
+20 Bairro 2211Logradouro (rua, avenida,...) Código
+|| || || || ||
+22 Número 23Complemento (apto., casa, ...) 24Geo campo 1
+25 Geo campo 2 26 Ponto de Referência 27 CEP
+| | | | - | |
+28 (DDD) Telefone 29Zona 1 - Urbana 2 - Rural 30País (se residente fora do Brasil)
+3 - Periurbana 9 - Ignorado
+1 - Sim 2 - Não 9 - Ignorado
+37 Exame Bacteriológico 38Data da coleta S1 40 Resultado da Sorologia para ELISA
+1 2 - - N Po e s g i a ti t v iv o o Hemocultura | | | | | | | 1 2 - - N R ã e o a - g R e e n a te gente SS11
+3 - Inconclusivo Esfregaço Direto 39 Data da coleta S2 3 - Inconclusivo S2
+4 - Não Realizado 4 - Não Realizado
+| | | | | | |
+41 Resultado da Hemoaglutinação
+1 - Reagente IgM Titulos IgG Titulos
+2 - Não-Reagente
+3 - Inconclusivo 1 : | | | 1 : | | |
+4 - Não Realizado
+Sinan NET SVS 01/06/2006
+42 Caso Tratado? 43 Instituído Controle Focal? 44Classificação Final 45Critério de Confirmação/Descarte
+1 - Sim 1 - Confirmado 2 - Descartado
+2 - Não 1 - Sim 2 - Não 9 - Ignorado
+9 - Ignorado
+46Classificação da Forma Clínica 47Gravidade
+1 - Forma Bubônica 2 - Forma Pneumônica 1 - Benigno/Ambulatorial 2 - Moderado 3 - Grave
+55 Evolução do Caso 56Data do Encerramento
+1 - Cura 2 - Óbito por peste 3 - Óbito por outras causas 9 - Ignorado | | | | | | |
+86 Secretaria de Vigilância em Saúde • MS
+3 -Septicêmica 4 - Outra
+48O m u c n a i s c o íp é io a d u e tó r c e t s o i n d e ê n d c o ia? 49UF 50 País 51Município
+1-Sim 2-Não 3-Indeterminado |
+53 Bairro 54 Doença Relacionada ao Trabalho
+1 - Sim 2 - Não 9 - Ignorado
+1 - Laboratório
+2 - Clínico-Epidemiológico
+3 - Clínico
+Código (IBGE)
+| | | | |
+52 Distrito
+Cód. da Unid. de Saúde Município/Unidade de Saúde
+| | | | | |
+Sinan NET SVS 01/06/2006
+SVS/MS
+88 Secretaria de Vigilância em Saúde • MS
+PROGRAMA DE CONTROLE DA PESTE-PCP
+DIÁRIODEBUSCAATIVA/DIVULGAÇÃOECAPTURADEROEDORESEPULGAS
+01-Nodecontrole:___________________
+02-UF................. :_______ 03-Município:____________________________________________________________________
+04-Localidade.. :_________________________________________________________05-Categoria..:__________________
+06-Datadaativ :______/_______/_______
+07-RegPestígena:____________________________________08-Zonaesp.vig.:_____________________________________
+Buscaativa/Orientçãoàpop.derisco(BA) Capturaderoedoresepulgas(CRP)
+Denúncias/ Númerodeeventosimportânciaepidemiol. Casa Campo PesteInvest. pestedetectados
+odahlabartoidérpoN-90
+edlaicepseatisiV-01
+-aicnâligiV/atsivertnE-11
+etseP/aixaliforP saossepoN-21 sadatsivertne
+mesartselapoN-31
+salocse osaC-41 onamuH aitoozipE-51 rodeor setneicaP-61 sotiepsus edsoidósipE-71 .deoR.zipe
+asac-81
+-91
+-sarieotaR-02 etion serodeoR-12 sodarutpac sagluP-22 .sarapotce sagluP-32 servil -sarieotaR-42 etion serodeoR-52 sodarutpac sagluP-62 .sarapotce
+29-Rr 34-Rr
+30-Ne.ls 35-Ne.ls
+27-BA 28-CRP
+31-O.sp 36-O.sp
+Convenções 32-Gsw 37-Gsw
+Visitaespecial:US=unidadedesaúde,F=farmácia,E=escola,P=PAVP(posto 33-Outr 38-Outr
+aux.vig.peste),AC=ag.comunit.
+Pendência:F=fechado,R=recusa 39–BA 41–BA
+BA=buscaativa,CRP=capturaderoedoresepulgas
+40–CRP 42–CRP
+Rr-Ratusratus;NeLs-Necromyslasiurus(Bolomyslasiurus);O.sp-Oryzomys;
+Gsw-Galeaspixiiwellsi;Outr-outros
+PCP-1 v.1.0 01/07/2008
+90 Secretaria de Vigilância em Saúde • MS

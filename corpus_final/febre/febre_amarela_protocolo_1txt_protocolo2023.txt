@@ -1,0 +1,2132 @@
+1.1 Instruções gerais
+Coleta, armazenamento e transporte de material biológico são etapas da maior
+importância no isolamento de microrganismos responsáveis por doenças infecciosas. Se
+etiológico e favorecer o desenvolvimento da flora contaminante, podendo conduzir a uma
+terapia incorreta. Portanto, procedimentos adequados de coleta, armazenamento e
+transporte devem ser adotados para evitar o isolamento de um “falso” agente etiológico,
+resultando numa orientação inadequada. A consideração dos seguintes tópicos ajudará a
+obter o máximo de informações diagnósticas:
+ Instruir claramente o paciente sobre o procedimento;
+ Obter material evitando contaminação com microbiota normal do paciente;
+ Realizar todo o procedimento de coleta usando rigorosas condições de assepsia;
+ Coletar amostras antes da administração da antibioticoterapia, sempre que possível;
+ Coletar do local onde o microrganismo suspeito tenha maior probabilidade de ser
+isolado, ou seja, coletar amostras representativas do processo infeccioso;
+ Usar recipientes estéreis e enviar imediatamente ao laboratório. Se isto não for
+possível, colocar o material em meio de transporte e temperatura adequada a cada tipo
+de amostra;
+ Considerar o estágio da doença na escolha do material. Patógenos entéricos,
+causadores de diarreia, estão presentes em maior quantidade e são facilmente isolados
+durante a fase aguda ou diarreica do processo infeccioso intestinal. Na suspeita de
+febre tifoide a fase da doença irá determinar o melhor local de coleta (sangue/fezes);
+ Quantidade suficiente de material deve ser coletada para permitir uma completa análise
+microbiológica. Caso a quantidade seja pequena, priorize os exames;
+ O pedido do exame deve ser devidamente identificado e acompanhado de requisição
+médica, onde deve constar: nome completo do paciente, idade, sexo, procedência, tipo
+de amostra, data da coleta, suspeita clínica, condições do paciente (doente,
+manipulador, contato ou portador), indicação do uso de antibióticos, assinatura e
+carimbo do médico e Ficha de Encaminhamento de Amostras Clínicas (Anexo A).
+02. ORIENTAÇÕES DE BIOSSEGURANÇA
+Ver MÓDULO I, item 6 deste Manual
+03. AMOSTRAS NÃO RECOMENDADAS PARA EXAMES MICROBIOLÓGICOS, POR
+Swab de amostras de queimaduras Processar biópsia, aspirado ou raspado de tecido
+profundo.
+Swab de úlcera de decúbito Processar biópsia, aspirado ou raspado de tecido profundo
+após desinfecção da superfície.
+Swab de abscesso peri-retal Processar biópsia ou aspirado
+Aspirado gástrico de recém-nascido Não processar
+04. CRITÉRIOS DE REJEIÇÃO DE AMOSTRAS CLÍNICAS ENVIADAS AO LABORÁTÓRIO DE
+uma melhor correlação clínico-laboratorial. Considerações que devem se utilizadas para
+rejeição das amostras:
+4.1. ERROS DE IDENTIFICAÇÃO
+ Discrepância entre a identificação da amostra e a solicitação médica;
+ Falta de identificação da amostra;
+ Origem da amostra ou tipo de amostra não identificada;
+ Teste a ser realizado não identificado ou não realizado pelo Lacen.
+4.2. AMOSTRAS INADEQUADAS
+ Material clínico recebido em solução de fixação (formalina);
+ Ponta de cateter de Foley;
+ Frascos não estéreis;
+ Swab seco;
+ Mais de uma amostra de fezes, escarro e feridas colhidas no mesmo dia e da mesma
+origem;
+ Swab único com múltiplas requisições de testes microbiológicos.
+Observações importantes: Em caso de dúvida, consultar o manual ou entrar em contato
+com o LACEN para maiores esclarecimentos sobre as condições da amostra.
+05. MODELO DE REQUISIÇÃO DE ANÁLISE MICROBIOLÓGICA E IDENTIFICAÇÃO DE
+devidamente preenchida com letra legível, com os itens abaixo:
+Requisição médica:
+a) Nome do paciente
+b) Idade
+c) Endereço
+d) Leito
+e) Médico requisitante (nome legível e carimbo)
+f) Tipo de amostra
+g) Exames solicitados
+h) Data e hora da coleta
+i) Início dos primeiros sintomas
+j) Suspeita clínica e se em uso de antimicrobiano.
+Etiqueta da amostra:
+a) Nome completo do paciente;
+b) Localização do paciente (leito) /Unidade solicitante;
+c) Tipo e topografia da amostra (Materiais identificados como: secreção ou pus deverão
+ser acompanhados da localização topográfica).
+Observação: O registro da hora da coleta é um dado extremamente importante para
+controle da qualidade e análise da viabilidade da amostra.
+06. TRANSPORTE DAS AMOSTRAS
+Transportar as amostras IMEDIATAMENTE ao laboratório com a finalidade de:
+ Evitar erros de interpretação nas culturas quantitativas.
+ Assegurar a sobrevivência e isolamento do microrganismo, pois o diagnóstico
+bacteriológico depende da viabilidade dos microrganismos na amostra;
+ Evitar multiplicação da microbiota original, o que prejudica o isolamento do agente
+infeccioso;
+ Evitar o contato prolongado dos microrganismos com anestésicos utilizados durante a
+coleta, pois os mesmos poderão exercer ação bactericida.
+07. EXAMES MICROBIOLÓGICOS REALIZADOS NO LACEN
+7.1 COPROCULTURA / PESQUISA SINDRÔMICA (DDA/ DTHA)
+Método: Pesquisa Sindrômica por PCR* Multiplex Nested (*Reação da Cadeia da
+Polimerase);
+Amostras: Fezes líquidas e/ou pastosas (coletas em swab)
+Meio de transporte: Tubo FecalSwab contendo meio de transporte (Cary Blair liquido)
+Swab: Swab próprio do Kit fornecido pelo LACEN
+Período da Coleta: Realizar a coleta preferencialmente, na fase aguda da doença (início
+dos sintomas) e antes do uso de antimicrobiano;
+Acondicionamento do Kit pré-coleta: O kit FecalSwab, deve ser armazenado em
+temperatura ambiente, em local seco e protegido de contaminação.
+Coleta:
+Fezes Pastosas: Utilizando o swab do kit, homogeneizar a amostra realizando movimentos
+circulares para embeber o swab com o material fecal. (Certifique-se que toda a área da
+ponta do swab está em contato como material fecal).
+Fezes liquidas: Transferir aproximadamente 0,5 mL da amostra para o tubo com o meio de
+transporte.
+Obs: Não exceder a linha de preenchimento máximo no tubo FecalSwab. Caso isso ocorra, o
+profissional deverá proceder com uma nova coleta utilizando um novo kit FecalSwab.
+Acondicionamento da amostra até envio ao LACEN:
+Portadores / Manipuladores: Coletar 03 amostras com intervalo de 48 horas;
+Critérios de Rejeição de Amostras: Amostra RETAL, Amostras enviadas sem meio de
+transporte; Amostras com volume excedido; Amostras em meio de transporte que não seja
+o Cary Blair líquido; Amostra sem identificação; Amostras com identificação divergente da
+requisição ou ilegível.
+Prazo de entrega dos resultados: 24 horas* após a chegada do material biológico no
+LACEN.
+*O resultado crítico é prontamente comunicado via telefone, logo que processado e obtido
+o resultado.
+Observações:
+* Importante o preenchimento completo do Formulário (FOR 548.057) para uso da
+metodologia, pois possui dados essenciais para análise do material.
+Método: Coprocultura convencional*
+*A metodologia de coprocultura convencional somente será realizada, nos casos em que na
+Reação da PCR Multiplex Nested, tenha tido detecção de agentes bacterianos, de condições
+de crescimento convencional (Salmonella spp.; Shigella spp.; cepas enteropatogênicas de
+Escherichia coli, Aeromonas spp. e Vibrio cholerae.)
+Amostras: Fezes líquidas e/ou Pastosas (Proveniente do tubo FecalSwab da Pesquisa
+Sindrômica)
+Meio de transporte: Tubo FecalSwab contendo meio de transporte (Cary Blair liquido)
+Swab: Swab próprio do Kit fornecido pelo LACEN
+Período da Coleta: Realizar a coleta preferencialmente, na fase aguda da doença (início
+dos sintomas) e antes do uso de antimicrobiano;
+Acondicionamento do Kit pré-coleta: O kit FecalSwab, deve ser armazenado em
+temperatura ambiente, em local seco e protegido de contaminação.
+Coleta:
+Fezes Pastosas: Utilizando o swab do kit, homogeneizar a amostra realizando movimentos
+circulares para embeber o swab com o material fecal. (Certifique-se que toda a área da
+ponta do swab está em contato como material fecal).
+Fezes líquidas: Transferir aproximadamente 0,5 mL da amostra para o tubo com o meio de
+transporte.
+Obs: Não exceder a linha de preenchimento máximo no tubo FecalSwab. Caso isso ocorra, o
+profissional deverá proceder com uma nova coleta utilizando um novo kit FecalSwab.
+Acondicionamento da amostra até envio ao Lacen:
+Critérios de Rejeição de Amostras: Amostra RETAL, Amostras enviadas sem meio de
+transporte; Amostras com volume excedido; Amostra em meio de transporte que não seja
+o Cary Blair liquido; Amostra sem identificação; Amostras com identificação divergente da
+requisição ou ilegível, Amostras enviadas sem o formulário específico para uso da
+metodologia (PCR Sindrômico).
+Prazo de entrega dos resultados: 7 dias, após a chegada do material biológico no LACEN.
+Portadores e Manipuladores: Coletar 03 amostras com intervalo de 48 horas.
+Em casos de surtos, coletar 10% dos acometidos (antes da antibioticoterapia);
+Quando o envio de material for superior a 10 amostras, comunicar previamente ao
+laboratório.
+7.2 HEMOCULTURA
+Método: Cultura
+Amostra: Sangue periférico (A coleta via cateter somente deve ser utilizada para o
+uma amostra de sangue periférico).
+Condições para coleta: Realizar a coleta imediatamente na ascensão da temperatura.
+Evitar o pico febril. Este é o momento de maior destruição microbiana prejudicando a
+recuperação do microrganismo na cultura. Colher antes da administração de
+antimicrobianos. Pacientes em uso de terapia antimicrobiana, colher imediatamente antes
+da próxima dose. Não se recomenda coleta de amostra única de hemocultura, exceto em
+recém-nascido, devido à dificuldade na interpretação de contaminação.
+Coleta: Fazer a antissepsia com clorexidine alcoólico 0,5% ou álcool l a 70% em círculos
+semiabertos a partir do ponto a ser puncionado. Secar por 30 segundos. Repetir o
+procedimento utilizando novo algodão ou gaze e esperar cerca de 30 segundos para secar;
+não tocar mais no local da punção. Se houver suspeita de contaminação da área repetir a
+antissepsia como descrito acima. Remova a tampa do frasco de hemocultura e desinfetar
+com álcool a 70%. Manter o algodão sobre o frasco até o momento da punção; coloca o
+garrote; colher a amostra com seringa e agulha descartáveis no volume adequado e
+transferir para frasco, sem trocar a agulha (a menos que haja contaminação da mesma); Ao
+retirar a agulha do local da punção, fazer compressão com algodão, sem flexionar o braço;
+Homogeneizar o frasco por inversão; Selecionar o sítio diferente para próxima punção.
+Número e volume de amostras: A sensibilidade e a positividade da hemocultura variam
+diretamente com o volume de sangue coletado, devendo-se respeitar a proporção
+recomendada entre o volume de sangue e meio de cultivo que é de 1:5 a 1:10 nos sistemas
+convencionais. Nos sistemas semi automatizados, os frascos contêm 25mL de meio e
+aceitam 10mL de sangue, fazendo uma proporção inferior a 1:5, sendo, portanto, mais
+eficientes.
+Adultos: 08 a 10 mL de sangue em cada punção (frasco adulto) – 02 a 03 amostras;
+Crianças: 1 a 6 anos de idade 1mL a 5 mL de sangue (frasco pediátrico) – 02 amostras;
+Recém-Nascidos: De 0,5mL a 1,0 mL de sangue (frasco pediátrico) – 01amostra.
+Transporte: As amostras devem ser enviadas ao laboratório, à temperatura ambiente.
+positividade, no equipamento de automação.
+Prazo de entrega dos resultados: Em até 5 dias após o material ter dado entrada no
+Lacen.
+Critérios de Rejeição de Amostras: Amostras sem identificação ou identificação ilegível;
+Amostras refrigeradas ou transportadas em refrigeração; Amostras de sangue semeadas
+em frascos de hemocultura vencidos.
+Recomendações de coleta: O estado clínico do paciente é que vai determinar o momento e
+Suspeita de bacteriemia ou fungemia (endocardite Colher 2-3 amostras, sequenciais, de diferentes
+infecciosa, meningite, osteomielite, artrite, pneumonia, sítios anatômicos, logo após o início dos
+pielonefrite, etc.). sintomas.
+Febre de origem indeterminada (ex. abscessos ocultos, Colher 2-3 amostras, sequenciais, de diferentes
+febre tifoide, brucelose) e endocardite. sítios anatômicos, inicialmente. Se negativas nas
+primeiras 24-48h de incubação, obter mais duas
+amostras, sequenciais, de diferentes sítios
+anatômicos.
+Sepse relacionada ao cateter venoso central 02 a 03 amostras de sangue periférico antes da
+retirada do cateter. Enviar também a ponta do
+imediatamente em recipiente estéril.
+hemoculturas persistentemente negativas. para recuperação de Micobactérias, fungos e
+microrganismos fastidiosos.
+Observação: A coleta é um momento crítico para a obtenção de resultados fidedignos.
+contaminante não relacionado ao processo infeccioso.
+7.3. CULTURA DE PONTA DE CATETER
+Método: Cultura
+Amostra: Cateter central, periférico, arterial, Swan-Ganz e Hickman + Sangue periférico (A
+ao dispositivo de deve sempre ser acompanhada de uma amostra de sangue periférico.
+Coleta: Remover o cateter e, assepticamente, cortar 05 cm da parte mais distal, ou seja, a
+que está mais profundamente introduzida na pele. Não usar tesouras embebidas em
+soluções antissépticas. Colocar o pedaço de cateter de forma asséptica num frasco estéril,
+laboratório evitando sua excessiva secagem (no máximo 1 hora após a coleta).
+Indicada nos casos de suspeita de infecção relacionada ao cateter. Deve vir sempre
+acompanhada de hemocultura de sangue periférico.
+a) Coleta e transporte
+ Cateteres são importantes fontes de bacteremia e fungemia, como também
+causadores de complicações infecciosas no local da inserção;
+ Tipos de cateteres nos quais é possível realizar a cultura: cateter central, periférico,
+arterial, Swan-Ganz e Hickman;
+ Usar os mesmos cuidados de antissepsia que foram usados no momento da inserção
+do cateter. Fazer uma rigorosa antissepsia da pele ao redor do cateter com álcool
+70%, clorexidina alcoólica a 0,5% ou PVPI para evitar contaminação com a
+microbiota da pele ao redor do ponto de inserção;
+ Remover o cateter e, assepticamente, cortar 05 cm da parte mais distal, ou seja, a
+que está mais profundamente introduzida na pele. Não usar tesouras embebidas em
+soluções antissépticas;
+ Colocar o pedaço de cateter de forma asséptica num frasco estéril, sem meio de
+evitando sua excessiva secagem (no máximo 1 hora após a coleta).
+Obs. Não há significado clínico estabelecido para cultura de ponta de cateter sem
+hemocultura simultânea.
+b) Critérios de rejeição
+ Cateter enviado em meio de cultura líquido ou de transporte;
+ Ponta de sonda vesical (Foley);
+ Cateter ressecado por demora no envio ao laboratório.
+c) Prazo de entrega dos resultados:
+O prazo de entrega dos resultados é de no máximo 15 dias após a chegada do
+material biológico ao LACEN.
+7.4 DIFTERIA
+Objetivo: Identificar a presença do Corynebacterium diphtheriae em casos suspeitos e
+comunicantes de difteria.
+Método: Cultura
+Amostra: Secreções de Nasofaringe e orofaringe
+Obs: outros materiais também podem ser utilizados para pesquisa: Conjuntiva, pele
+(quando manifestações sistêmicas), conduto auditivo, Vulva, e cordão umbilical.
+Meio de transporte: Tubos contendo o Ágar PAI.
+Swab: Utilizar swab de Rayon
+Período da Coleta: Realizar a coleta preferencialmente, na fase aguda da doença (início
+dos sintomas) e antes do uso do antimicrobiano (ou no máximo até 2 a 3 dias de uso)
+Acondicionamento pré-coleta: Antes da coleta, o ágar Carvão deverá ser armazenado em
+geladeira, em temperatura de 2º a 8ºC. Os swabs devem ser armazenados em temperatura
+ambiente, em local seco e protegido de contaminação.
+Pré-coleta: Retirar da geladeira, o tubo de ágar PAI, deixando-o na bancada por 30
+minutos para que atinja a temperatura ambiente. Limpar a narina com um swab estéril
+retirando as secreções das paredes laterais e posteriores.
+Coleta: Introduzir o swab em apenas uma narina até encontrar resistência na parede
+posterior da nasofaringe (Fig. 2), girando o swab por cerca de 10 segundos. Colocar o swab
+no tubo de transporte específico Regan Lowe - Ágar Carvão (Fig. 1), fornecido pelo LACEN.
+resistente a água. As amostras deverão ser colocadas em caixas (térmicas) de paredes
+rígidas, em temperatura ambiente até a chegada ao LACEN no prazo máximo de 24 horas.
+As amostras devem ser encaminhadas com SINAN Coqueluche devidamente preenchida.
+No tubo deve constar: o nome completo e legível do paciente, e informar se é doente ou
+comunicante.
+Critérios de Rejeição de Amostras: Amostras enviadas em meio de transporte que não
+seja o ágar carvão e/ou coletadas em Swab inadequado; Amostra sem identificação ou com
+identificação ilegível.
+Prazo de entrega dos resultados: 12 dias após a chegada do material biológico no LACEN.
+7.4.1. Meio de Transporte (Meio de PAI)
+Os meios com condições de uso devem apresentar as seguintes características:
+ Cor: amarelo pálido;
+ Consistência: firme;
+ Sem áreas liquefeitas ou ressecadas.
+7.4.2. Materiais
+Swabs descartáveis com haste metálica para 01
+Swabs descartáveis com haste plástica para 01
+Tubo com meio de cultura (meio PAI) 02
+Máscara e luva descartável 01 de cada
+Saco plástico para descarte de material 01
+Etiqueta para identificação dos tubos 02
+7.4.3. Armazenamento
+ Os meios de cultura (PAI) devem ser armazenados em sacos plásticos na geladeira à
+temperatura de 2 a 8ºC, evitando a sua colocação na porta;
+ Observar a data de validade do meio (3 meses);
+ Os swabs devem ser conservados à temperatura ambiente em local seco e protegido de
+contaminação, não devendo apresentar sinais de violação da embalagem, umidade ou
+qualquer anormalidade que possa indicar contaminação;
+ Antes da utilização, retirar os meios de transporte da geladeira para equilibrar a
+temperatura com a do ambiente colocando-os por 30 minutos na bancada ou na estufa
+(36±1).
+7.4.4. Procedimento para coleta de amostra:
+ A coleta de suspeitos não deverá ser realizada em domicílio, mas sim, no hospital e com
+acompanhamento médico;
+ Esclarecer o paciente sobre o procedimento;
+ A coleta deve ser feita, de preferência, antes da terapia antimicrobiana;
+ Identificar os tubos com o nome do paciente, sítio de coleta (nasofaringe), (garganta) e
+data da coleta, especificando se é paciente ou comunicante;
+ Lavar as mãos, colocar luvas e máscaras segundo as normas de biossegurança;
+ Para nasofaringe: introduzir o swab de haste metálica na narina do paciente até
+(Fig. 01). Usar o mesmo swab para as duas narinas;
+ Para a garganta: Fazer a coleta passando o swab de haste plástica pelas amídalas, úvula
+e toda a parede da garganta. Caso o paciente apresente pseudomembrana, passar o swab
+cuidadosamente ao redor para que não haja deslocamento ou remoção da mesma (Fig.02);
+ Uma coleta adequada evita grande número de contaminantes da microbiota normal,
+aumentando a positividade da cultura.
+ Após a coleta, proceder à semeadura no meio de PAI imediatamente.
+7.4.5. Semeadura
+Assepticamente, passar o swab em toda extensão (superfície) do meio, girando-o e
+fazendo movimento em zig-zag, começando da base até o ápice. Semear cada swab em um
+tubo diferente deixando o swab dentro.
+hospitalar.
+7.4.6. Encaminhamento da amostra
+ Os meios devidamente semeados e identificados deverão ser encaminhados ao
+LACEN imediatamente, em temperatura ambiente, acondicionados em caixa para
+acidental, juntamente com a ficha epidemiológica devidamente preenchida e o
+cadastro no Gal realizado;
+ Caso o envio imediato não seja possível, poderá ser conservado em estufa
+bacteriológica (36±1ºC), até o prazo máximo de 24 horas, sendo encaminhado em
+temperatura ambiente ao LACEN.
+7.4.7 Critérios de rejeição de amostras
+ Amostra sem identificação ou com identificação ilegível;
+ Amostra enviada em swab sem meio de transporte específico;
+ Amostras coletadas em meio de transporte com prazo de validade vencido;
+ Amostra apresentando vazamento devido à quebra do tubo ou tampa aberta;
+ Falta de correlação entre a identificação da ficha de investigação e/ou Formulário de
+Encaminhamento de Amostras de Difteria e a identificação da amostra.
+7.4.8. Prazo de entrega dos resultados
+O prazo máximo de entrega dos resultados é de 15 dias após a chegada do material
+biológico ao LACEN.
+7.5. COQUELUCHE (Sempre realizar a coleta da Cultura pareada a PCR)
+Objetivo: Identificar a presença da Bordetella pertussis em casos suspeitos e comunicantes
+Método: Cultura (Padrão ouro)
+Amostra: Swab nasofaringe
+Meio de transporte: Ágar carvão (Regan-Lowe – RL)
+Swab: Utilizar swab fino alginatado, dracon, ou Rayon, com haste flexível e estéril.
+Período da Coleta: Realizar a coleta preferencialmente, na fase aguda da doença (início
+dos sintomas) e antes do uso do antimicrobiano (ou no máximo até 2 a 3 dias de uso)
+Acondicionamento pré-coleta: Antes da coleta, o ágar Carvão deverá ser armazenado em
+geladeira, em temperatura de 2º a 8ºC. Os swabs devem ser armazenados em temperatura
+ambiente, em local seco e protegido de contaminação.
+Pré-coleta: Retirar da geladeira, o tubo de ágar carvão, deixando-o na bancada por 30
+minutos para que atinja a temperatura ambiente. Limpar a narina com um swab estéril
+retirando as secreções das paredes laterais e posteriores.
+Coleta: Introduzir o swab em apenas uma narina até encontrar resistência na parede
+posterior da nasofaringe (Fig. 2), girando o swab por cerca de 10 segundos. Colocar o swab
+no tubo de transporte específico Regan Lowe - Ágar Carvão (Fig. 1), fornecido pelo LACEN.
+resistente a água. As amostras deverão ser colocadas em caixas (térmicas) de paredes
+rígidas, em temperatura ambiente até a chegada ao LACEN no prazo máximo de 24 horas.
+As amostras devem ser encaminhadas com SINAN Coqueluche devidamente preenchida.
+No tubo deve constar: o nome completo e legível do paciente, e informar se é doente ou
+comunicante.
+Transporte: O material deverá ser encaminhado ao laboratório, imediatamente após a
+coleta, EM TEMPERATURA AMBIENTE (20-35ºC) e ao abrigo da luz;
+Critérios de Rejeição de Amostras: Amostras enviadas em meio de transporte que não
+seja o ágar carvão e/ou coletadas em Swab inadequado; Amostra sem identificação ou com
+identificação ilegível.
+Prazo de entrega dos resultados: 12 dias após a chegada do material biológico no LACEN.
+Fig.2. Coleta de secreção da nasofaringe.
+Figura1. Meio de Regan Lowe (RL) (Agar carvão)
+ O swab deve permanecer no interior do tubo (Fig.4).
+Observações adicionais:
+Se não for possível o transporte imediato ao LACEN:
+ Colocar em um depósito plástico o tubo de ágar carvão com a amostra e um copo
+com água até a metade para manter a umidade do meio. Tampar o depósito e
+colocá-lo na estufa a 36°C±1 por um período máximo de 48 horas (Fig.5).
+ Se o transporte do material que foi pré-incubado a 36°C±1 exceder a 4 horas, ou se a
+temperatura ambiente local for elevada (> 35º) recomenda-se enviar sob-
+refrigeração (4º). Usar essa opção somente após a Pré- incubação.
+Método: Pesquisa Sindrômica por PCR* Multiplex Nested (*Reação da Cadeia da
+Polimerase);
+Amostra: Swab nasofaringe
+Meio de transporte: Tubo contendo meio liquido com inibidores fúngicos e bacterianos
+Swab: Utilizar swab próprio do kit (fornecido pelo LACEN)
+Período da Coleta: Realizar a coleta paralelamente à cultura, na fase aguda da doença
+(início dos sintomas) e antes do uso do antimicrobiano (ou no máximo até 2 a 3 dias de
+uso)
+Coleta: Introduzir o swab em apenas uma narina até encontrar resistência na parede
+posterior da nasofaringe, girando o swab por cerca de 10 segundos. Colocar o swab no
+tubo de transporte específico, fornecido pelo LACEN. Identificar o tubo com nome
+completo do paciente de forma legível e com caneta resistente a água. As amostras devem
+ser encaminhadas com SINAN Coqueluche devidamente preenchida.
+Transporte: O material deverá ser encaminhado ao laboratório, imediatamente após a
+coleta, sob refrigeração. Caixa térmica com baterias de gelo.
+Critérios de Rejeição de Amostras: Amostras enviadas em meio de transporte que não
+seja o especifico para metodologia; Amostra sem identificação ou com identificação
+ilegível.
+Prazo de entrega dos resultados: Em até 24 horas* após a chegada do material biológico
+ao LACEN.
+*exceto feriados e finais de semana.
+7.6. MENINGITES BACTERIANAS
+Método: Cultura (Padrão ouro)
+Amostra: Líquor
+Meio de transporte: Ágar chocolate em tubo
+Período da Coleta: Realizar a punção preferencialmente, antes do uso do antimicrobiano
+(ou no máximo nas primeiras 24 horas de vigência do antimicrobiano)
+7.6.1 CULTURA DO LIQUOR
+A coleta do líquido cefalorraquidiano (LCR) é um procedimento médico que deve ser
+realizado em condições de assepsia rigorosas. Deve ser feita, de preferência, antes de
+iniciar a antibioticoterapia.
+auxiliar no diagnóstico (ver capítulo sobre coleta de sangue para hemocultura).
+a) Meio de transporte
+ O meio de transporte é o ágar chocolate em tubo inclinado fornecido pelo LACEN;
+ Deve ficar acondicionado em geladeira em sacos plásticos para evitar ressecamento;
+ Antes de usar, retirar o meio da geladeira, checar a validade e deixar por 30 minutos
+na bancada ou colocar na estufa a 36±1°C para a temperatura equilibrar com a do
+ambiente;
+ Identificar o tubo com o nome do paciente, material, data e hora da coleta.
+b) Procedimento de coleta
+ O ideal é semear o LCR no momento da punção, gotejando sobre o meio de
+transporte (ágar chocolate em tubo), aproximadamente 10-20 gotas de LCR (0,5 a
+1,0 mL), diretamente da agulha que se encontra introduzida no local da punção;
+ A demora na semeadura reduz as taxas de isolamento dos principais patógenos do
+agravo e a manipulação do material antes da análise bacteriológica, inviabiliza a
+cultura pela possibilidade de contaminação da amostra;
+ Amostras pós-morten devem ser coletadas em condições assépticas, colocadas em
+encaminhamento.
+c) Encaminhamento da amostra
+ O meio de cultura semeado deverá ser enviado ao laboratório, imediatamente, em
+caixa isotérmica SEM gelo, não devendo exceder o prazo de 3 horas. Caso não seja
+possível, mantê-lo em estufa à temperatura de 36±1°C em atmosfera de 5-10% de
+CO lata com vela acesa e algodão ou gaze umedecido) ou na Jarra de CO
+2 ( 2
+apropriada, até o envio ao laboratório, o que deve ser feito em temperatura
+ambiente e no prazo de 24 horas após a coleta e semeio;
+Obs. Jamais refrigere a amostra ou o tubo semeado. Os principais agentes de meningites
+bacterianas são fastidiosos e não resistem a baixas temperaturas.
+d) Critérios de rejeição
+ Amostras refrigeradas ou enviadas em recipiente com gelo;
+ Amostras enviadas sem meio de transporte com mais de 3 horas após a coleta;
+ Amostras em meio de transporte sem incubação e coletadas há mais de 3 horas.
+e) Prazo de entrega dos resultados
+O prazo máximo para a entrega dos resultados é de 10 dias após a chegada do
+material biológico ao LACEN.
+7.6.2. REAÇÃO EM CADEIA DA POLIMERASE EM TEMPO REAL – PCR-TR
+A reação em cadeia da polimerase (PCR) para diagnóstico das meningites bacterianas
+é um tríplex que detecta os seguintes agentes: Neisseria meningitidis, Streptococcus
+pneumoniae e Haemophilus influenzae em amostras de LCR e soro.
+a) Material
+ Coletar ou separar em frasco estéril, bem vedado com tampa de rosca 01 a 02 ml de
+LCR ou soro;
+ Aliquotar a amostra em cabine de segurança biológica longe de suspensões
+bacterianas utilizando ponteiras com bloqueio;
+ Manter o frasco na temperatura de 4ºC ou congelar até seu encaminhamento ao
+laboratório, que deve ocorrer até o período máximo de uma semana após a coleta.
+Transportar em caixa isotérmica sob-refrigeração.
+Obs. A reação de PCR não substitui a cultura para o diagnóstico das meningites bacterianas. A
+cultura é considerada padrão ouro. Além da PCR detectar somente os três principais
+agentes bacterianos citados, a cultura é importante porque possibilita o isolamento do
+patógeno, monitoramento da prevalência de sorogrupos, sorotipos e acompanhamento
+do perfil de resistência, informações de suma importância para a vigilância das meningites
+bacterianas e efetividade das medidas de prevenção e controle.
+b) Critérios de rejeição
+ Amostras enviadas em formol;
+ Amostras sem formulário de identificação ou com identificação ilegível;
+ Amostras com mais de uma semana de coleta e que não foram congeladas;
+ Amostras apresentando vazamento devido à quebra do tubo ou tampa aberta.
+Obs. Amostras com quantidade de volume insuficiente serão processadas, entretanto, o laudo
+poderá não expressar o resultado correto, nesse caso, uma observação referente ao
+volume inadequado recebido para a análise constará no laudo.
+c) Prazo de entrega dos resultados
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+7.7. CULTURA DE AMOSTRAS DO TRATO RESPIRATÓRIO SUPERIOR
+a) Material clínico
+Secreção de orofaringe, tonsilas, nasofaringe, punção de seios maxilares, raspado de
+lesão da boca, entre outros.
+b) Época da coleta:
+Fase aguda da doença e antes do uso de antimicrobianos. Caso já tenha iniciado,
+anotar o nome do antimicrobiano.
+ Coletar, de preferência, pela manhã antes de escovar os dentes, higienizar a boca e
+ingerir alimentos;
+ Retirar o meio de transporte da geladeira, verificar a validade e esperar 30 minutos
+a temperatura equilibrar com a do ambiente;
+ Solicitar ao paciente que engula a saliva, coloque a língua para fora e emita o som
+“AAA”, para elevar a úvula e ajudar a reduzir o refluxo da náusea;
+ Com auxílio de um abaixador de língua e boa iluminação, introduzir um swab estéril e
+friccioná-lo sobre a faringe posterior e amídalas, com moderada pressão,
+adjacentes aos pontos ou placas. Deve-se evitar tocar na língua, úvula, dentes e
+saliva para evitar contaminação com a microbiota normal da cavidade oral;
+ Imediatamente introduzir o swab no meio de transporte específico (Stuart ou
+Amies). Não refrigerar a amostra e encaminhar o mais breve possível ao laboratório.
+A amostra deve ser processada em até 8 horas a partir do meio de transporte;
+ Pode ser coletado outro swab para confecção de esfregaço para coloração de Gram
+e diferenciação entre faringite e Angina de Vincent.
+ Antes da coleta, limpar a narina retirando as secreções das paredes laterais e
+posteriores. Pode ser solicitado ao paciente que retire o excesso de secreção nasal,
+com auxílio de um lenço ou papel toalha;
+ Introduzir o swab fino em uma das narinas até encontrar resistência na parede
+posterior, girando o swab em contato com a nasofaringe por cerca de 10 segundos;
+ Imediatamente introduzir o swab no meio de transporte específico (Stuart ou
+Amies). Não refrigerar a amostra e encaminhar o mais breve possível ao laboratório.
+ O procedimento é realizado pelo médico e o material deve ser encaminhado em
+seringa, sem agulha, com vedação apropriada ou em tubo estéril.
+ Inserir o swab até 1cm nas narinas, fazendo movimentos rotatórios na mucosa nasal
+por 10 a 15 segundos;
+ Introduzir o swab em meio de transporte e enviar ao laboratório imediatamente.
+c) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+d) Critérios de Rejeição
+ Amostra refrigerada;
+ Amostra em swab sem meio de transporte;
+ Amostra em meio de transporte errado ou com validade expirada.
+7.8. CULTURA DE AMOSTRAS DO TRATO RESPIRATÓRIO INFERIOR
+a) Material clínico
+Secreções do trato respiratório inferior: cultura de escarro, aspirado traqueal,
+lavado bronco alveolar (LBA), lavado e escovado brônquico.
+ Orientar o paciente da importância da coleta do escarro e não, da saliva. As
+amostras de saliva são impróprias para análises bacteriológicas, pois não
+representam o processo infeccioso;
+ Colher de preferência, a primeira amostra da manhã, orientando o paciente para
+fazer a higienização prévia da boca, inclusive com gargarejo para remover a flora
+bacteriana superficial e colher amostra obtida de tosse profunda;
+ Respirar fundo, várias vezes e tossir profundamente, recolhendo a amostra em um
+frasco de boca larga com tampa de rosca. Se o material for escasso, coletar a
+amostra depois de nebulização;
+ Encaminhar imediatamente ao laboratório à temperatura ambiente dentro de no
+máximo 2 horas após a coleta.
+ A coleta deste material é obtida principalmente de pacientes internados em
+unidades de terapia intensiva e em uso de aparelhos de respiração mecânica;
+ Apesar de ser solicitado frequentemente por alguns clínicos, não é recomendado
+para cultura, devido à dificuldade de avaliação do patógeno principal. O resultado
+pode refletir colonização local, sendo a interpretação clínica complicada;
+ Nos casos a serem coletados, colher em tubo estéril e enviar imediatamente ao
+laboratório em temperatura ambiente no prazo máximo de 2 horas.
+ Utilizado para obtenção do agente etiológico das pneumonias associadas à
+ventilação mecânica e em pacientes imunodeprimidos, sendo considerado o método
+mais fidedigno para investigação microbiológica do trato respiratório inferior;
+ O material deverá ser obtido antes das biópsias e de escovados para se evitar
+excesso de sangue;
+ Procedimento realizado por equipe médica especializada;
+ Nesse procedimento são injetados aproximadamente 100 ml de solução fisiológica
+estéril utilizando o canal do broncoscópio. Após 03 a 05 minutos, é recuperado, por
+aspiração, um volume de no mínimo 40% do volume injetado;
+ Esta coleta pode ser feita em dois ou mais frascos estéreis. É importante que se
+anote nos frascos a ordem da obtenção das amostras;
+ O tempo de transporte da amostra é essencial devendo estar em torno de 30
+minutos, sendo o máximo aceitável de 2 horas em temperatura ambiente.
+ O material obtido e, geralmente a própria escova são enviados para análise no
+laboratório;
+ A amostra deve ser colocada em tubo contendo 1mL de solução fisiológica estéril e
+encaminhada imediatamente após a coleta para o laboratório.
+b) Critérios de Rejeição
+ Amostra de saliva enviada para cultura em geral;
+ Amostras enviadas com mais de 2 horas após a coleta;
+ Amostras coletadas em swab (exceto de orofaringe de pacientes com fibrose
+cística).
+Obs. Amostras refrigeradas e demora superior a 2 horas para o processamento, diminuem a
+viabilidade de microrganismos fastidiosos como S.pneumoniae, H.influenzae e N.
+meningitidis.
+c) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+7.9. CULTURA DE SECREÇÃO DA CONJUNTIVA
+Cultura da secreção ocular para diagnóstico de conjuntivite bacteriana.
+a) Coleta da Amostra
+ Coletar o material, de preferência, na fase aguda da doença, antes do uso de colírios,
+soluções e outros medicamentos e de preferência, antes do uso de antimicrobiano;
+ Anotar o nome caso o paciente já esteja em uso de antimicrobiano oral ou tópico;
+ O material deverá ser coletado em quantidade suficiente, sempre evitando
+contaminação com fluidos adjacentes, secreções ou microbiota da pele;
+ Fazer antissepsia com swab ou gaze estéril umedecido em solução fisiológica estéril,
+para retirar o material em excesso;
+ Com swab estéril, e em condições assépticas rigorosas, colher a amostra da região
+próxima ao saco conjuntival, no canto interno do olho. Sem realizar movimentos
+circulares, manter o swab por alguns segundos no saco conjuntival para promover o
+lacrimejamento e absorção da secreção pelo algodão;
+ Coletar dois swabs estéreis, sendo um para confecção de esfregaço em lâmina
+(Gram) e o outro, enviado em meio de transporte para a realização da cultura.
+b) Transporte
+Enviar à temperatura ambiente (20 à 25ºC), em até 2 horas, após a coleta.
+e) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+7.10 CULTURAS DE LÍQUIDOS ORGÂNICOS ESTÉREIS
+7.10.1 Líquidos: Pleural, Peritoneal, ascítico, sinovial, de diálise, pericárdio e amniótico.
+a) Coleta Amostras
+ Proceder à antissepsia no sítio da punção com álcool a 70% e com solução de iodo,
+que deverá ser removida, após o procedimento, com álcool a 70% para evitar
+queimadura ou reação alérgica;
+ Obter a amostra através de punção per cutânea ou cirúrgica. Quanto maior o volume
+da amostra, maior a probabilidade de isolamento do agente etiológico, já que o
+número de organismos presentes causadores de infecção pode ser muito baixo;
+ O líquido coletado deve ser encaminhado em tubo seco e estéril ou se acima de 1mL,
+inoculado diretamente em frascos de hemocultura;
+ No caso de bolsa de diálise; homogeneizar várias vezes a amostra contida na bolsa,
+fazer uma assepsia prévia no local que será aspirado. Puncionar a bolsa, de
+preferência, em local próximo à cânula de saída e transferir um volume mínimo de 20
+mL para dois frascos de hemocultura. É importante realizar apenas uma punção na
+bolsa para reduzir o risco de contaminação durante a manipulação.
+b) Transporte das amostras
+ Enviar os líquidos imediatamente ao laboratório à temperatura ambiente (20 a 25º
+C), no máximo até 02 horas após a coleta, com a orientação do tipo de cultura
+especificada no pedido médico;
+ Amostras inoculadas em frascos de hemocultura, transportar à temperatura
+ambiente em até 12 horas após a coleta.
+c) Critérios de rejeição
+ Líquidos em frascos não estéreis;
+ Amostras enviadas após o tempo recomendado.
+d) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+7.11. CULTURA DE PELE (ABSCESSOS E EXSUDATOS) E BIÓPSIAS
+A pele é uma região bastante exposta sofrendo, frequentemente, riscos de
+infecções que envolvem grande diversidade de microrganismos. Essas infecções podem
+ser causadas por um único microrganismo ou podem ser poli microbianas.
+ O material representativo é aquele obtido das margens e da profundidade da lesão e
+não, somente da parte purulenta ou exsudato superficial;
+ O termo secreção ou secreção de ferida não é adequado e sim, a descrição de sítio
+anatômico específico da infecção;
+ Nas culturas de lesões, é de extrema importância diferenciar, no momento da coleta,
+se é de ferida superficial ou profunda;
+ Realizar antissepsia prévia da região a ser coletada;
+ Coletar raspado das margens e base da lesão.
+b) Coleta
+ Descontaminar as margens e a superfície da lesão com solução fisiológica estéril,
+solução aquosa de clorexidina aquosa a 2% ou solução aquosa de PVPI a 10%;
+ Realizar nova limpeza com solução fisiológica estéril;
+ Coletar o material purulento localizado na parte mais profunda da lesão utilizando,
+de preferência, seringa e agulha. Se não for possível a coleta por punção, utilizar
+swab com meio de transporte;
+ Se possível, fazer debridamento da lesão para a coleta.
+Observação: Não é realizada no LACEN a cultura para a pesquisa de bactérias
+anaeróbias.
+ Não usar swab para coletar este material;
+ Fazer antissepsia com clorexidina aquosa a 2% ou álcool a 70%, e dependendo das
+condições externas observadas e da localização da lesão pode-se também utilizar
+solução de PVPI aquoso a 10%.
+ Proceder à nova limpeza com solução fisiológica estéril;
+ Aspirar o exsudato com agulha e seringa injetando a amostra em frasco estéril. Se
+não houver material suficiente para a aspiração, pode-se tentar o uso de um swab
+após a perfuração. Fazer cuidadosamente raspagem nas paredes internas do
+abscesso e colocar o swab em meio de transporte.
+ NÃO coletar na superfície da ferida, pois esta está sempre colonizada pela
+microbiota normal do paciente ou pelos microrganismos do ambiente;
+ A coleta de fragmento de tecido profundo (biópsia) é a técnica mais indicada para a
+cultura;
+ A coleta deve ser realizada após debridamento e descontaminação da lesão com
+solução aquosa de PVPI a 10% e solução fisiológica;
+ Deixar secar antes da coleta;
+ Coletar fragmentos de tecido (biópsia) de 1 a 2 cm de extensão na área com sinais
+estéril.
+ Selecionar uma pústula íntegra;
+ Fazer antissepsia com clorexidina aquosa a 2% ou álcool a 70% e puncionar. Se a
+lesão for seca, com crosta, sem vesícula ou pústula evidente, remover o material
+superficial após antissepsia e passar firmemente o swab estéril sobre a lesão.
+ Fazer antissepsia com clorexidina alcoólica ou solução de iodo 1% a 2% ou PVPI a
+10%. Remover com álcool a 70% para evitar queimadura ou reação alérgica;
+ Coletar de 1 a 2 cm do material que seja representativo da lesão em quantidade
+suficiente para a realização do exame microscópico e cultura. Colocar em frasco ou
+tubo estéril com 1 mL de solução fisiológica estéril.
+Obs. Quando for solicitada a bacterioscopia juntamente com a cultura, é recomendado coletar
+dois swabs. Um dos swabs deve ser utilizado imediatamente após a coleta para
+meio de transporte.
+b) Transporte das amostras
+ Swab em meio de transporte: Enviar ao Lacen à temperatura ambiente em até 8
+horas após a coleta;
+ Aspirado em seringa e agulha: enviar à temperatura ambiente em até 2 horas após a
+coleta ou se acima de 1mL, inocular a amostra em frasco para hemocultura e enviar
+em até 12 horas;
+ Biópsia: transportar o tubo estéril com 1mL de solução fisiológica em temperatura
+ambiente em até 2 horas após a coleta.
+c) Critérios de rejeição
+ Lesões secas ou crostas;
+ Swab de secreção de queimaduras;
+ Biópsia de pele ou fragmentos em formol.
+d) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do material
+biológico ao LACEN.
+7.12. CULTURA PARA GONOCOCO
+a) Amostras
+ Paciente do sexo masculino: Secreção uretral ou 1º jato urinário (< 10mL);
+ Paciente do sexo feminino: Secreção endocervical, uretral ou secreção do fundo do
+saco vaginal (em crianças e mulheres histerectomizadas);
+ Oftalmia gonocócica: Secreção ocular;
+ Outras amostras: Secreção anal e secreção orofaríngea (portadores).
+b) Tipos de swab
+ Secreção uretral: Algodão alginatado com haste de alumínio;
+ Secreção da endocérvice, ocular, anal e orofaríngea. – Algodão alginatado com haste
+plástica.
+Obs. O swab de algodão comum não tratado tem componentes que inativam os
+gonococos.
+c) Técnica para coleta de secreção masculina
+ A coleta de amostra de secreção uretral deve ser feita, de preferência, pela manhã,
+antes de o paciente urinar;
+ Caso não seja possível, esperar pelo menos 03 horas, após a última micção;
+ Coletar antes do uso de antimicrobiano ou 7 dias após o término do tratamento;
+ Não coletar a secreção emergente.
+ Solicite ao paciente para retrair o prepúcio;
+ Limpe a secreção emergente com gaze estéril;
+ Introduza o swab alginatado, cerca de 2 cm, no canal uretral, atravessando a fossa
+navicular;
+ Gire o swab, delicadamente, cerca de 8 a 10 vezes, para absorver a secreção;
+ Retire o swab e inocule a amostra em meio de transporte de Amies ou semeie no
+meio de cultura de Thayer-Martin modificado (ágar chocolate com fatores de
+crescimento e antimicrobianos para inibir a microbiota normal);
+ Com outro swab faça um esfregaço fino e homogêneo em lâmina.
+d) Técnicas para coleta de secreção feminina
+ A coleta da secreção feminina deve ser realizada antes de urinar ou 03 horas após a
+última micção;
+ A paciente não deve estar sob o efeito de tratamento com antibiótico. Caso esteja, a
+coleta só deverá ser realizada 07 dias após o término do tratamento;
+ Não utilizar espéculo lubrificado (o lubrificante inibe o gonococo); se necessário,
+utilize água morna para facilitar a introdução espéculo;
+ A coleta não deve ser feita no período menstrual e somente 48 horas após o uso de
+óvulos ou cremes vaginais;
+ Jamais utilize alça bacteriológica para fazer a coleta.
+ Introduza o espéculo;
+ Limpe, com gaze estéril, a secreção do fundo do saco vaginal e a que recobre o colo
+do útero;
+ Introduza o swab alginatado ou com carvão, cerca de 1 cm no canal endocervical,
+girando-o, delicadamente, de 08 a 10 vezes, para absorver a secreção. Cuidado para
+não tocar as paredes vaginais;
+ Retire o swab, sem tocar as paredes vaginais;
+ Inocule o material, imediatamente, em meio de transporte de Amies ou semeie
+diretamente no meio de cultura de Thayer-Martin modificado.
+Obs. A bacterioscopia pelo Gram na mulher não deve ser utilizada para o diagnóstico da
+gonorreia, pois a sensibilidade desta, na mulher, é inferior à 60%.
+Obs. Caso o swab utilizado na coleta da amostra para cultura de gonococo seja tratado com
+carvão, deve ser coletada antes a amostra para Chlamydia, caso esta tenha sido solicitada.
+e) Técnica para coleta de secreção ocular.
+ Limpe a secreção externa do olho com gaze estéril;
+ Afaste pálpebra e limpe a secreção acumulada nos cantos do olho;
+ Colete material dentro da conjuntiva, com auxílio do swab;
+ Inocule o material, imediatamente, em meio de transporte de Amies.
+Obs. Não colete a secreção acumulada no canto do olho.
+f) Técnica para coleta de secreção anal
+ Introduza o swab alginatado no reto, cerca de 2 cm;
+ Faça movimentos circulares junto à parede retal, raspando o material das criptas,
+por 30 segundos, para absorver a secreção;
+ Repita o procedimento com novo swab, caso este toque as fezes;
+ Inocule o material, imediatamente, em meio de transporte de Amies.
+g) Preparo da amostra:
+Utilize lâminas limpas, desengorduradas e novas, e siga os procedimentos abaixo:
+ Identifique corretamente as lâminas;
+ Prepare sempre duas lâminas para cada teste, sendo uma de reserva para caso de
+acidentes ou resultado insatisfatório da coleta;
+ Gire o swab, delicadamente, sobre a superfície central da lâmina; obedeça a margem
+da lâmina;
+ Não esfregue o swab sobre a lâmina, para não destruir as células, o que pode
+dificultar a diferenciação das estruturas;
+ Deixe o esfregaço secar em temperatura ambiente;
+ Jamais fixe o esfregaço em chama; o fixador está no corante Cristal violeta;
+ Core, pelo método de Gram, ou envie ao Laboratório, envolvida em papel alumínio.
+h) Semeadura e armazenamento
+ Semeie em meio Thayer-Martin modificado;
+ Assegure-se de que o meio está em condições adequadas de uso, hidratado, dentro
+da validade e à temperatura ambiente;
+ Faça no meio, uma estria em forma de “Z”. Gire o swab, delicadamente, sobre o meio,
+até completar a estria;
+ Estrie novamente no sentido inverso do “Z”, com uma alça bacteriológica estéril e
+resfriada;
+ Coloque as placas em posição de cultura (com a tampa para baixo), dentro da lata;
+ Coloque, no fundo da lata, um chumaço grande de algodão ou gaze embebido em
+água, para garantir a umidade exigida pelo gonococo;
+ Utilize o sistema da vela para obter uma atmosfera entre 5% e 10% de CO
+ Feche hermeticamente a lata, vedando-a com fita crepe ou esparadrapo.
+Obs. As placas de Thayer-Martin devem ser guardadas em sacos plásticos, bem vedados, e
+conservados sob refrigeração para evitar desidratação.
+i) Transporte de amostra:
+ As lâminas para bacterioscopia pelo método de Gram devem ser transportadas em
+temperatura ambiente; certifique-se de que as duas lâminas estão corretamente
+identificadas e embaladas em papel alumínio;
+ As placas de Thayer-Martin devem ser enviadas ao Laboratório dentro da lata
+vedada com tensão de CO e umidade no mesmo dia da coleta ou após 24 horas de
+incubação;
+ Jamais refrigere a amostra.
+j) Critérios de rejeição
+ Amostras refrigeradas;
+ Swab sem meio de transporte específico (AMIES);
+ Amostras coletadas com algodão não tratado;
+ Placas enviadas sem atmosfera de 5-10% de CO com tempo de transporte superior
+a 2 horas.
+j) Prazo de entrega dos resultados:
+O prazo máximo para a entrega dos resultados é de 15 dias após a chegada do
+material biológico ao LACEN.
+7.13. GENES DE RESISTÊNCIA EM GRAM NEGATIVOS
+Objetivo: Detecção dos genes bla bla , bla bla , bla em cepas bacterianas
+kpc, ndm imp-1, vim oxa-48
+Método: RT - PCR* Multiplex (*Reação da Cadeia da Polimerase em Tempo real)
+Amostras: Isolados bacterianos de GRAM negativos, com repiques recentes (24 horas de
+incubação), sem contaminação, vedadas com fita crepe ou parafilme.
+Obs: Sempre que possível a unidade de origem deve realizar/enviar os testes enzimáticos.
+Transporte: À temperatura ambiente.
+Critérios de Rejeição de Amostras: Cepas sem a completa identificação (etiqueta com
+nome legível e completo do paciente sobre a placa); cepas contaminadas e/ou culturas
+antigas e mortas; Cepas enviadas sem o laudo de identificação / antibiograma.
+Prazo de entrega dos resultados: 48 horas* após a chegada do material biológico no
+LACEN.
+*Exceto finais de semana e feriados.
+7.14. SOROLOGIA PARA LEPTOSPIROSE
+Objetivo: Detecção de anticorpos IgM anti-leptospira
+Método: Ensaio Imunoenzimático - ELISA
+Amostra: 1,0 ml de soro humano.
+Período da Coleta: Preferencialmente coletar a partir do 7º dia dos primeiros sintomas.
+Transporte da amostra: Sob-refrigeração
+Critérios de Rejeição de Amostras: soro lipêmico, hemolisado ou com evidências de
+contaminação microbiana, sangue total, líquor e fragmentos de tecidos.
+Prazo de entrega dos resultados: Em até 12 dias, após a chegada do material biológico ao
+Lacen.
+Obs: Enviar amostra com ficha epidemiológica e cadastro no GAL
+7.15 MELIOIDOSE
+Objetivo: Detecção dos genes específicos da Burkholderia pseudomallei
+Método: PCR* in house semiNestd e Nested (*Reação da Cadeia da Polimerase)
+Amostras: Isolados bacterianos (sangue, escarro, liquor, urina, LBA, secreções de feridas)
+recentes (24 horas de incubação), sem contaminação, vedadas com fita crepe ou parafilme,
+Obs: Enviar SINAN + laudo do laboratório local impresso.
+Transporte: Caixa de paredes rígidas à temperatura ambiente.
+Critérios de rejeição: Cepas contaminadas e/ou culturas antigas e mortas
+Prazo de entrega de resultados: 15 dias após a chegada do material biológico ao LACEN.
+7.16 CULTURA, IDENTIFICAÇÃO E TESTE DE SENSIBILIDADE PARA Micobacterium
+7.16.1 Condições gerais
+A amostra deve ser recebida em qualquer horário de funcionamento do laboratório,
+observando os seguintes itens:
+a) transporte e acondicionamento corretos;
+b) acompanhada da requisição, devidamente preenchida;
+c) amostra insuficiente ou inadequada será devolvida acompanhada do formulário de
+“Amostra Não Conforme” “Critérios de Rejeição para Amostra não Conforme” em duas vias,
+a 1ª via deve ser enviada ao solicitante/unidade de saúde e a 2ª via, deve ficar arquivada
+com a requisição dos exames.
+7.16.2. Orientações específicas de coleta e transporte
+Escarro:
+Uma boa amostra de escarro é a que provém da árvore brônquica, obtida após esforço de
+tosse, e não a que se obtém da faringe ou por aspiração de secreções nasais nem
+tampouco, a que contém somente saliva. O volume de 2,5 a 10 ml é o ideal.
+Ao despertar pela manhã, o paciente deve lavar bem a boca, inspirar profundamente, deter
+por um instante o ar nos pulmões e lançá-lo fora pelo esforço da tosse. Deve repetir a
+operação até obter três eliminações de escarro, evitando que escorra pela parede externa
+do pote. As amostras devem ser colhidas em local aberto, de preferência ao ar livre ou em
+sala bem ventilada;
+Nota: devem ser coletadas duas amostras de escarro de cada paciente, para aumentar as
+chances de se obter um resultado positivo. Essas amostras devem ser coletadas de acordo
+com o seguinte esquema:
+1ª amostra – coletada quando sintomático respiratório procura o atendimento na unidade
+de saúde, para aproveitar a presença dele e garantir a realização do exame laboratorial.
+Não é necessário estar em jejum;
+2ª amostra – coletada, na manhã do dia seguinte, assim que o paciente despertar. Essa
+amostra, em geral, tem uma quantidade maior de bacilos porque é composta da secreção
+acumulada na árvore brônquica por toda a noite.
+Observação: Se o envio ao laboratório for realizado no máximo em 24 horas, as amostras
+de escarro poderão ficar em temperatura ambiente, protegidas da luz solar.
+A obtenção desse espécime requer hospitalização, pois é colhido logo que o paciente
+acorda, antes mesmo de se levantar e comer. Adicionar carbonato de sódio 1mg/1ml de
+lavado para neutralizar o suco gástrico. Esse método é indicado para criança, pois essas
+deglutem o escarro. Deve-se colher pelo menos duas amostras em dias consecutivos, em
+recipiente limpo.
+Colhe-se toda a urina da primeira micção da manhã em frasco limpo, após higiene íntima
+com água. Utiliza-se um número mínimo de seis e no máximo de dez amostras colhidas em
+dias consecutivos;
+Recomenda-se que o material seja enviado imediatamente ao laboratório para que a
+semeadura seja feita para se obter maior positividade;
+Coletado assepticamente de abscessos não drenados com uma agulha estéril em seringa.
+Após a coleta, retirar a agulha com uma pinça e passar o material para um frasco estéril;
+Este deve ser umedecido em salina ou água estéril antes da coleta. Após a coleta, deve
+permanecer em um frasco estéril com salina suficiente para mantê-lo úmido até o
+procedimento do exame.
+Devem-se considerar três condições importantes: manter sob refrigeração, proteger da luz
+solar, e acondicionar de forma adequada para que não haja risco de derramamento; colocar
+depois dentro da caixa de transporte (figura 5). Se o transporte exceder 24 horas enviar
+sob refrigeração.
+Nota: Não são mais utilizadas as fezes para diagnóstico da tuberculose intestinal. Neste
+caso é indicada a biópsia.
+a) O tubo com a cultura do M. tuberculosis deve ter tampa rosqueável, à prova de
+vazamento;
+b) Para o transporte, este tubo deve ser envolvido com papel absorvente, ou papel bolha
+em quantidade suficiente para absorver o material e protegê-lo em caso de acidente
+(Figura 03);
+Figura 03 – Papel Poli bolha
+c) O tubo embalado deve ser colocado dentro de um recipiente de paredes rígidas, a prova
+de vazamentos e inquebrável (pode ser uma lata de leite em pó com tampa) contendo
+etiqueta com as características da amostra (Figuras 04);
+Figura 04 - Modelo do frasco com parede rígida
+d) Este recipiente deve ser colocado dentro de outra embalagem, podendo ser uma
+caixa de papelão, isopor ou polietileno, que deve conter o rótulo de material
+infectante ou de risco biológico (Figura 05) juntamente com o nome, telefone e
+endereço da pessoa que deve ser avisada em caso de acidente com a (s) cultura (s).
+Figura 05 - Modelo de caixa de transporte de amostras
+e) Completar o espaço da caixa com papel amassado ou poli bolha, para evitar o
+movimento do recipiente contendo a amostra;
+f) Colocar as requisições correspondentes, devidamente preenchidas, dentro de um saco
+plástico;
+g) Vedar bem o saco e fixá-lo na parte interna da tampa da caixa;
+h) Fechar e vedar bem a caixa;
+i) Identificar com destinatário, remetente;
+j) Enviar ao laboratório.
+Nota:
+Este transporte é realizado em temperatura ambiente.
+LACEN.
+Prazo de entrega dos resultados:
+40 a 60 dias após a chegada do material biológico no LACEN.
+9. REFERÊNCIAS BIBLIOGRÁFICAS
+BRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão
+Nacional de Laboratórios de Saúde Pública. Normas técnicas para o diagnóstico das
+meningites bacterianas. Brasília, DF; Centro de Documentação do Ministério da Saúde,
+1986.
+BRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão
+Nacional de Laboratórios de Saúde Pública. Normas, métodos e técnicas para o
+diagnóstico laboratorial de febre tifóide. Brasília, DF, 1986.
+BRASIL. Ministério da Saúde. Secretaria Nacional de Ações Básicas de Saúde. Divisão
+Nacional de Laboratórios de Saúde Pública. Normas, métodos e técnicas para isolamento
+e diagnóstico das enterobactérias. Brasília, DF, 1985.
+BRASIL. Ministério da Saúde. Secretaria Nacional de Assistência à Saúde. Programa
+Nacional de Controle de Doenças Sexualmente Transmissíveis/Aids. Manual para controle
+das doenças sexualmente transmissíveis. Brasília, DF, 1993.
+BRASIL. Ministério da Saúde. Secretaria Nacional de Assistência à Saúde. Programa
+Nacional de Controle de Doenças Sexualmente Transmissíveis/Aids. Manual de
+procedimentos básicos em microbiologia clínica para o controle da infecção hospitalar.
+Brasília, DF, 2001.
+BRASIL. Ministério da Saúde. Secretaria de Políticas de à Saúde. Coordenação Nacional de
+DST e Aids. Técnica para coleta de secreções. 2. ed. Brasília, DF, 1997.
+BRASIL. Ministério da Saúde/Fundação Nacional de Saúde/Centro de Referência Professor
+Hélio Fraga – Manual de Baciloscopia da Tuberculose, 1ª edição, Rio de Janeiro, 1998, 48
+p: il.
+BRASIL. Ministério da Saúde/Secretaria de Políticas de Saúde/Coordenação Nacional de
+Doenças Sexualmente Transmissíveis e Aids – Tuberculose – Diagnóstico Laboratorial –
+Baciloscopia. I. Série TELELAB. 2001. 72 p.: il.
+BRASIL, Ministério da Saúde, Fundação Nacional de Saúde. Guia de Vigilância
+Epidemiológica, Cap.4.
+BRASIL, Ministério da Saúde. Normas técnicas para diagnóstico das meningites
+bacterianas. Brasília, Gráfica Brasiliano, 1986.49 p.
+BRASIL. Ministério da Saúde. Secretaria de Políticas de à Saúde. Departamento de Atenção
+Básica. Guia de baciloscopia de hanseníase. Brasília, DF, 1993.
+BRASIL. Ministério da Saúde. Fundação Nacional de Saúde. Coordenação de Controle de
+Zoonoses e Animais Peçonhentos. Manual de Leptospirose. Brasília, DF, 1995.
+BRASIL. Ministério da Saúde. Fundação Nacional de Saúde. Guia de Vigilância
+Epidemiológica. 5. ed. Brasília, DF, 2002. vol I e II.
+EVANS, E.C.V.; RICHARDSON, M.D. Medical Mycology: A Practical Aproach. Oxford: Press,
+1989.
+FERREIRA, E.M.; CARNEIRO, J. C. O.; SILVA, G. A. C; CAVALCANTE, W. B. Coleta de material
+para exame microbiológico. Módulo Especial V. Laboratório de Microbiologia da Unidade
+de Patologia Clínica. Núcleo de Controle de Infecção Hospitalar. HRT, Revisão 2008
+OPLUSTIL, C. P. et al. Procedimentos básicos em Microbiologia Clínica. 2. ed. Ver. E ampl.
+São Paulo: Sarvier, 2004.
+OPUSTIL, C.P.; ZOCCOLI.C.M.; TOBAUTI, N.R.; Procedimentos básicos em microbiologia
+clínica.2.ed. São Paulo: Sorvier,2004.304 p.
+PILONETTO, M., PILONETTO, D. Manual de procedimentos laboratoriais em microbiologia.
+Pinhais. Microscience, 1998.
+SÃO PAULO (ESTADO). Secretaria de Estado da Saúde. Coordenação dos Institutos de
+Pesquisa. Instituto Adolfo Lutz. Centro de Vigilância Epidemiológica Prof. Alexandre
+Vranjac. Treinamento para coleta de secreção nasofaringe para cultura no diagnóstico
+laboratorial da coqueluche. São Paulo, [2000].
+10. ANEXOS
+Ficha do Gerenciador de Ambiente Laboratorial – GAL
+ORIENTAÇÃO PARA COLETA – DDA/DTHA
+ORIENTAÇÃO PARA COLETA – DDA/DTHA
+FORMULÁRIO DE PESQUISA SINDRÔMICA DDA/DTHA
+PESQUISA SINDRÔMICA DE DDA/DTHA
+ORIENTAÇÃO PARA COLETA – PESQUISA SINDRÔMICA COQUELUCHE
+ORIENTAÇÃO PARA COLETA – PESQUISA SINDRÔMICA COQUELUCHE
+PESQUISA SINDRÔMICA - SEPSE
+PESQUISA SINDRÔMICA - SEPSE
+PESQUISA SINDRÔMICA - MENINGITE / ENCEFALITE
+ORIENTAÇÕES PARA COLETA, ACONDICIONAMENTO E TRANSPORTE DE
+DA VIGILÂNCIA SANITÁRIA E AMBIENTAL.
+ANVISA: Agência Nacional de Vigilância Sanitária
+DECON: Programa Estadual de Proteção e Defesa do Consumidor
+DTA: Doença de Transmissão Alimentar
+DTHA: Doença de Transmissão Hídrica e Alimentar
+FOR: Formulário
+INCQS: Instituto Nacional de Controle de Qualidade em Saúde
+LR: Laboratório de Referência
+LA: Laudo de Análise
+LACEN/CE: Laboratório de Saúde pública do Ceará
+NUVEP: Núcleo de Vigilância Epidemiológica
+NUVIS: Núcleo de Vigilância Sanitária
+PROCON: Programa de Proteção e Defesa do Consumidor
+RT: Requisito Técnico
+TA: Temperatura ambiente
+TCA: Termo de Coleta de Amostra
+01. CONSIDERAÇÕES GERAIS
+O presente Manual tem como objetivo, orientar, estabelecer e divulgar as Normas de
+Procedimentos para coleta, quantidade ideal, acondicionamento, transporte e embalagem
+para encaminhamento das amostras ao LACEN/CE, de acordo com as disposições da
+legislação em vigor e com a finalidade de se obter resultados confiáveis.
+1.1. Definições
+1.1.1. Produtos
+Consideram-se bens e produtos submetidos ao controle e fiscalização sanitária:
+a) Medicamentos de uso humano, suas substâncias ativas e demais insumos, processos e
+tecnologias;
+b) Alimentos, inclusive bebidas, águas envasadas, seus insumos, suas embalagens,
+aditivos alimentares, limites de contaminantes orgânicos, resíduos de agrotóxicos e de
+medicamentos veterinários;
+c) Cosméticos, produtos de higiene pessoal e perfumes;
+d) Saneantes destinados à higienização, desinfecção ou desinfestação em ambientes
+domiciliares, hospitalares e coletivos;
+e) Produtos para saúde: equipamentos e materiais médico-hospitalares, odontológicos e
+hemoterápicos e de diagnóstico laboratorial e por imagem;
+f) Quaisquer produtos que envolvam a possibilidade de risco à saúde, obtidos por
+engenharia genética, por outro procedimento ou ainda submetida a fontes de radiação.
+1.1.2. Amostra
+É o conjunto de unidades amostrais, de um mesmo lote do produto, colhido para fins de
+análise fiscal ou de orientação.
+• Unidade amostral
+Porção ou embalagem individual do produto que compõe a amostra.
+• Amostra em triplicata
+É a amostra dividida em três partes iguais - prova; contraprova e testemunho composta
+por unidades amostrais, de mesmo lote, rótulo, apresentação e conteúdo líquido.
+• Amostra de prova
+Parte da amostra em triplicata, enviada ao laboratório, na qual é realizada a primeira
+análise.
+• Amostra de contraprova
+Parte da amostra em triplicata, mantida em poder do detentor, destinada à perícia de
+contraprova.
+• Amostra de testemunho
+Parte da amostra em triplicata, enviada ao laboratório junto com a amostra de prova
+contraprova (segundo exame da perícia de contraprova).
+• Amostra indicativa
+amostral constante na legislação específica.
+• Amostra única (fiscal)
+não permitir a coleta em triplicata.
+• Amostra representativa
+existente. No caso de produto a granel, é a quantidade tomada de diversos pontos do
+lote ou partida de grande volume, num único recipiente.
+1.1.3. Tipos de análises
+• Análise fiscal
+É a análise de uma amostra de um produto efetuada por um Laboratório Oficial, a qual é
+conformidade com a legislação. Para esta modalidade de análise pode ser colhida uma
+amostra em triplicata ou única.
+• Análise de perícia de contraprova
+parte do interessado. Esse processo pode incluir dois exames periciais, um na amostra de
+contraprova e outro na amostra testemunho. O resultado insatisfatório das análises fiscais
+constantes dos Laudos de Análise - LA emitido pelos laboratórios da Rede Nacional de
+Laboratórios de Controle de Qualidade em Saúde - RNLOCQS configura, em princípio,
+infração à legislação sanitária. Em princípio porque a legislação confere ao titular do
+produto o direito de defesa, direito este previsto na Constituição Federal e que poderá ser
+utilizado caso assim o queira. Desta forma, uma vez cumprido os requisitos legais serão
+realizados a análise de contraprova, correspondendo, ao menos, teoricamente, à repetição
+exata da análise fiscal cujo resultado foi contestado, realizada sobre outra alíquota de
+amostra idêntica.
+• Análise de desempate/testemunho
+Essa análise é um desdobramento da perícia de contraprova. É realizada quando há
+contraprova, e enseja recurso à autoridade competente, a qual determinará novo ensaio
+pericial a ser realizado na segunda amostra em poder do Laboratório (art. 27, Lei
+6.437/77).
+• Análise de orientação
+Essa modalidade de análise não está prevista na legislação, é realizada pelo laboratório em
+comum acordo com os órgãos fiscalizadores, com a finalidade de fornecer subsídio às
+ações pertinentes aos programas de verificação da qualidade dos produtos, cuja natureza
+amostras encaminhadas à VISA por denúncia de consumidores.
+1.1.4. Detentor
+VISA, incluindo a amostra de contraprova, para assegurar o direito ao contraditório.
+1.1.5. Perito
+laboratorial de produtos sujeitos à Vigilância Sanitária, habilitado e registrado em Conselho
+Profissional.
+1.1.6. Ata
+amostra única.
+1.1.7. Testemunha
+Pessoa que presencia a análise fiscal de amostra única, no caso de não comparecimento do
+perito da empresa.
+1.1.8. Laudo de análise
+Documento emitido pelo laboratório oficial, em que constam os resultados e a conclusão
+da análise fiscal/orientação, conforme disposto na legislação pertinente.
+1.1.9. Laboratório oficial
+Laboratório de saúde pública credenciado para a realização de análise fiscal de produtos.
+1.1.10. Amostragem
+É um procedimento definido pelo qual uma parte de uma substância, material ou produto é
+retirado para produzir uma amostra representativa do todo para análise. O processo de
+amostragem deve abranger os fatores a serem controlados (seleção, quantidade,
+acondicionamento e transporte) de forma a assegurar a validade dos resultados do ensaio.
+1.1.11. Doença de transmissão alimentar - DTA
+específico, ou pela toxina por ele produzida, por meio da transmissão desse agente ou de
+seu produto tóxico.
+1.1.12. Produto alterado ou deteriorado
+Produto que apresenta alteração ou deterioração física, química ou organoléptica, em
+decorrência da ação de microrganismo ou por reações químicas ou físicas.
+1.1.13. Produto perecível
+manutenção das características originais.
+1.2. Solicitação de análise
+epidemiológica, vigilância sanitária e vigilância ambiental nos âmbitos municipal, estadual e
+federal, com a finalidade de dar cumprimento às exigências legais com motivos de elevado
+risco a saúde dos usuários (ex. análise de água para hemodiálise). Para solicitação de
+análise ao LACEN-CE, o órgão solicitante deve seguir as exigências abaixo descritas:
+• Apresentar ofício de solicitação assinado e carimbado pelo responsável do órgão
+solicitante ou o TCA, para os órgãos de Vigilância sanitária;
+• Apresentar ficha de coleta (Água de consumo, Meio ambiente, Hemodiálise) e/ou
+termo de coleta de amostra (TCA) e/ou ficha epidemiológica de Doenças
+Transmitidas por Água (DTA).
+1.3. Modalidades de análises
+A Divisão de Produtos realiza análises com finalidade fiscal, de orientação e para instrução
+de inquérito policial.
+• Análise fiscal
+Para os alimentos, a análise fiscal é “efetuada sobre o alimento apreendido pela autoridade
+dispositivos deste Decreto-Lei e seus Regulamentos” (art. 2º, inciso XIX, Decreto-Lei
+nº986/69). Para os outros produtos submetidos ao regime de Vigilância Sanitária:
+medicamentos, insumos farmacêuticos, drogas, correlatos, cosméticos, produtos de
+higiene e saneantes, é definida como “Análise efetuada sobre os produtos submetidos ao
+sistema instituído por este Regulamento, em caráter de rotina, para apuração de infração
+ou verificação de ocorrência de desvio quanto à qualidade, segurança e eficácia dos
+produtos ou matérias-primas” (Inciso XXXV do art. 3º do Decreto nº 79.094/77). Nestes
+casos a apreensão de amostras será realizada em triplicata (uma vez que dela derivam às
+análises fiscais, contraprova e testemunho) ou em amostra única. O prazo de análise
+laboratorial é de 30 (trinta) dias a contar da data do recebimento da amostra, salvo
+algum contratempo técnico justificado pelo laboratório. De modo ideal, a coleta do
+existente, dividida em três partes, e tornada inviolável para que se assegurem as
+características de conservação e autenticidade. Uma delas, junto a uma via do TCA, será
+imediatamente encaminhadas ao laboratório, uma para a realização das análises fiscais e a
+outra para servir de testemunho, para ser utilizado em caso de discordância entre o
+resultado analítico da análise fiscal e de contraprova. Cada invólucro deverá conter
+quantidades iguais de unidades, do mesmo lote e suficientes para a realização das análises,
+obedecendo às quantidades mínimas recomendadas nas tabelas no item 9 (artigos 33 do
+Decreto-Lei n.º 986/69 e 27 da Lei n.º 6.437 /77). A apreensão de amostras para efeito de
+análise fiscal, não será acompanhada da interdição do produto (art.23, inciso I, Lei nº
+6.437/77). Em se tratando de produto sujeito ao controle sanitário, a apuração do ilícito
+dar-se-á mediante coleta da amostra para realização de análise fiscal e interdição, caso
+seja pertinente (art.10, inciso IV, Lei nº 6.437/77). Serão executados flagrantes os indícios
+de alteração ou adulteração do produto, hipótese em que a interdição terá caráter
+preventivo ou de medida cautelar e, ainda, a interdição do produto será obrigatória
+quando resultarem provadas, em análises laboratoriais ou no exame de processos, ações
+fraudulentas que impliquem em falsificação ou adulteração (art.10, inciso II e III, Lei nº
+6.437/77). O termo de coleta deve informar se o produto está interditado, a causa da
+interdição e a suspeita de irregularidades. Quanto ao tempo de duração da interdição do
+produto e do estabelecimento, a medida cautelar confere um espaço de tempo necessário
+à realização de testes, provas, análises ou outras providências requeridas, não podendo,
+em qualquer caso, exceder o prazo de 90 (noventa) dias, findo o qual o produto ou o
+estabelecimento será automaticamente liberado (art. 23, § 4.º, Lei n. º 6.437/77). No caso
+dos alimentos, o prazo de interdição não poderá exceder os 60 (sessenta) dias e, para os
+alimentos perecíveis, 48 horas (art.33,§ 4.º,Decreto-Lei n.º 986/69). O resultado
+insatisfatório das análises fiscais, constante no laudo de análise, configura uma infração
+sanitária. Portanto em posse do laudo condenatório, o órgão de Vigilância Sanitária deverá
+notificar o detentor ou o responsável do produto, enviando-lhe o laudo de análise.
+• Análise de contraprova
+produto, por solicitação do fabricante, no caso de o mesmo discordar do resultado da
+do produto junto com o laudo de análise (§ 4º e 5º do art.27º da Lei 6.437/1977). Esta deve
+ser requerida ao órgão fiscalizador, através de solicitação escrita, que deverá ser
+acompanhado da explicação dos motivos que o levaram a solicitação da contraprova, em
+um prazo máximo de 20 dias, após o recebimento da notificação (§ único do art.27º da Lei
+6.437/1977). O detentor do produto, na apresentação da defesa, deverá explicitar o
+motivo que o levou a requerer a contraprova, apresentar os laudos de controle de
+qualidade quando da sua liberação para consumo. Esta análise não será efetuada se
+houver indícios de violação da amostra. Caso o responsável pelo produto ou fabricante
+requerer a análise de contraprova, a Vigilância Sanitária deverá comunicar o laboratório.
+da análise. A perícia de contraprova será efetuada no laboratório oficial que realizou a
+análise fiscal, com repetição exata da análise, na presença do perito indicado pela empresa,
+do seu detentor ou do representante legal da empresa e será registrada em ata. Deverá
+ser utilizada a mesma metodologia analítica da análise fiscal, salvo se houver concordância
+dos peritos quanto à adoção de outra metodologia. Serão realizados aqueles ensaios sobre
+cujos resultados a empresa fabricante tenha apresentado discordância justificada. É de
+responsabilidade do detentor/fabricante/produtor o transporte da amostra de
+contraprova até o laboratório. A empresa deve indicar um perito devidamente identificado
+(carteira do conselho profissional) para acompanhar a contraprova. O não comparecimento
+do perito indicado pela parte interessada, no dia e hora marcados, sem motivo
+previamente justificado, acarretará no encerramento automático da perícia prevalecendo
+como definitivo o laudo condenatório. A cópia do laudo da análise de contraprova,
+acompanhada da respectiva ata, deverá ser enviada a cada um dos destinatários que
+receberam o laudo de análise fiscal que deu origem à perícia de contraprova. O LACEN
+adota os requisitos estabelecidos pela Lei n°6437/77 para a execução da perícia de
+contraprova. No processo de solicitação deve constar:
+1. Cópia da notificação à empresa pela vigilância;
+2. Ofício do fabricante solicitando à Vigilância a perícia de contraprova;
+3. Ofício da Vigilância ao LACEN agendando a data da perícia de contraprova;
+4. Xerox da carteira do conselho do responsável técnico pela empresa;
+5. O pagamento da taxa, prevista na Lei Nº 15.838, de 27/07/2015, através de DAE,
+retirado no site da Fazenda estadual www.sefaz.ce.gov.br (serviços online → DAE →
+emissão de DAE – taxas )
+• Análise de testemunho
+contraprova, e enseja recurso à autoridade competente, a qual determinará novo ensaio
+pericial, a ser realizado na segunda amostra em poder do laboratório.
+• Análise fiscal de amostra única
+natureza do produto, devido à sua perecibilidade, determinar um prazo de validade menor
+que 30 dias, será realizada a análise fiscal de amostra única (§1º do artigo 27 da Lei nº
+6.437/77). A Vigilância Sanitária terá a responsabilidade de notificar o responsável do
+estabelecimento onde a amostra for coletada e o fabricante do produto, quando o
+estabelecimento estiver localizado na sua área de competência. A data a ser colocada na
+Notificação, deverá obedecer à escala de programação agendada pelo laboratório. A
+apreensão será feita em apenas um (01) invólucro, respeitando-se as mesmas
+LACEN, para realização da análise fiscal, na presença do representante legal da empresa e
+do perito pela mesma indicada (art.33, §2.º, Decreto-Lei 986/69; art 27, §§ 1.º e 2.º, Lei n. º
+6.437/77). Na ausência do perito indicado pela empresa e do seu representante legal,
+desde que cientes da data e hora da análise marcada pelo laboratório, a análise fiscal em
+amostra única será realizada no dia e hora marcados, na presença de duas testemunhas e
+registrado em ata. No caso de conclusão insatisfatória, a empresa não terá direito a
+questionamento referente aos ensaios realizados. No caso de alimentos perecíveis, a
+análise fiscal será realizada em amostra única, em um prazo que não poderá ultrapassar 24
+(vinte e quatro) horas a contar da data do recebimento da amostra, salvo em casos de
+impedimento técnico justificado pelo laboratório. É importante que no Termo de Coleta de
+Amostras conste no campo de observações os dizeres: “AMOSTRA ÚNICA”, além do
+preenchimento de todos os outros campos pertinentes.
+• Análise de orientação
+É realizada pelo laboratório, em comum acordo com os órgãos fiscalizadores, para
+atender programas federal, municipais e estaduais, com a finalidade de fornecer subsídios
+nos casos de monitoramento de produtos de interesse à saúde. Também é utilizada para
+elucidação de surtos de doenças transmitidas por alimentos e água, assim como atender às
+reclamações de consumidores, quando colhidas pela Vigilância Sanitária e órgãos de defesa
+do consumidor. Nesta modalidade de análise a coleta de amostras proceder-se-á apenas
+em um envelope de devidamente lacrado, acompanhado do Termo de Coleta de amostras
+(anexo 01) e demais documentações necessárias para que a amostra seja aceita para
+análise. A análise para Instrução de inquérito policial é um tipo de análise de orientação
+Público, Promotoria e demais órgãos oficiais. Como estas análises não são encaminhadas
+através da Vigilância, não seguem algumas regras estabelecidas deste manual de coleta.
+triplicata. Neste caso, a coleta se dará em apenas 1 (um) invólucro que será encaminhado
+ao laboratório oficial para realização da análise de orientação. Esta análise, por sua
+natureza, deve ser feita na presença do detentor ou do representante legal da empresa e
+do perito pela mesma indicada e se estes não se apresentarem devem ser convocadas 2
+(duas) testemunhas para presenciar a análise (art.35, Decreto-Lei 986/69 art. 27, §§ 1.º e
+2.º, Lei n. º 6.437/77). A análise de orientação tem várias finalidades e nelas são efetuadas
+as determinações solicitadas pelo requerente. Resumindo podemos citar a seguir, alguns
+casos:
+• Análises de Alimentos envolvidos em toxinfecções;
+• Análises de águas de consumo e ambiental para programas de monitoramento ou
+denúncias e agravos;
+• Análises requeridas por hospitais solicitando a composição centesimal de dietas
+especiais, elaboradas para alimentar pacientes com problemas no aparelho digestivo
+(jejunostomia);
+• Análises requeridas pelo Programa de Proteção e Defesa do Consumidor - PROCON,
+ao receber denúncia sobre a qualidade dos produtos;
+• Análises requeridas pela Delegacia Especial do Consumidor – DECON, ao receber
+denúncia sobre a qualidade dos produtos, tem o mesmo valor que a análise fiscal
+quando a DECON transforma o inquérito policial em processo judicial.
+1.4. Ensaios a serem executados
+Em termos gerais, são executados ensaios de rotulagem, embalagem, microbiológicos,
+microscópicos, físico-químicos e químicos. É importante lembrar, entretanto, que no caso
+dos medicamentos, as monografias oficiais são consideradas como padrão mínimo de
+qualidade para a aceitação do produto, objetivando assegurar a eficácia e a segurança do
+mesmo. Significa dizer que, pelo menos os ensaios nelas inscritos, deverão ser realizados,
+denúncias de sinistros ou qualquer outra irregularidade. Obs: as análises seguem também
+os métodos estabelecidos em compêndios oficiais e/ou normas estabelecidas por órgão
+que expede regulamentos técnicos de qualidade para os produtos.
+1.5. Procedimentos de coleta de amostras
+1.5.1. Orientações gerais
+Realizar a coleta da (s) amostra (s) nos seguintes casos abaixo relacionados:
+• Suspeita de produto contaminado, adulterado ou fraudado;
+• Atendimento a reclamações/denúncias e solicitações oficiais;
+• Atendimento aos programas, municipais, estaduais e federais.
+e/ou parcialmente consumida, deve ser colhida amostra fechada do mesmo lote e relatar
+adequadamente o fato no TCA. Exceção é feita em caso de surto vinculado a doenças
+transmitidas por alimentos - DTA, para o rastreamento de microrganismos patogênicos ou
+toxinas, onde é desejável que a amostra corresponda àquela que foi parcialmente
+consumida.
+Para amostra de reclamação sanitária é necessário informar ao laboratório, através do
+TCA, se a amostra foi acondicionada adequadamente pelo consumidor. Tal informação é de
+vital importância, pois caso a amostra tenha sido acondicionada inadequadamente poderá
+ocasionar alterações das condições microbiológicas e/ou físico-químicas, levando a
+resultados analíticos inadequados. Neste caso, da não conformação das condições de
+acondicionamento, será melhor coletar a amostra de mesmo lote em um estabelecimento
+comercial, onde as condições de acondicionamento são evidenciadas.
+Para os casos em que há constatação visual por parte do fiscal, da presença de alteração
+do aspecto em uma ou mais unidades do produto. Em condições regulares, não seria
+necessária a coleta de amostra para envio ao laboratório, sendo suficiente a constatação
+da irregularidade pelo fiscal. Se por qualquer razão, for requerida uma análise laboratorial
+afetadas.
+• Quando Não Coletar a Amostra
+Não realizar a coleta da (s) amostra (s) nos seguintes casos abaixo relacionados:
+• Produto com o prazo de validade vencido;
+• Produto clandestino (quando não é possível identificar o produtor e/ou distribuidor);
+• Produto com embalagem rasgada, furada, amassada, enferrujada ou estufada;
+• Produto alimentar parcialmente consumido, salvo no caso de surto vinculado a
+doenças transmitidas por alimentos - DTA, para o rastreamento de microrganismos
+patogênicos ou toxinas;
+• Produto alimentar visivelmente adulterado ou deteriorado;
+• Produto armazenado fora das condições ideais da temperatura recomendada pelo
+fabricante ou que conste na embalagem.
+Em muitos casos, as intervenções legais e penalidades cabíveis não dependem das análises
+e laudos laboratoriais, cabendo à autoridade sanitária tomar medidas conforme legislação
+em vigor.
+2.0. ORIENTAÇÕES ESPECÍFICAS
+• Alimentos envolvidos em surtos de toxinfecções.
+rapidamente possível, para que se possa obter resultados dos agentes causadores do
+surto e o fechamento do mesmo. Caso não haja sobra dos alimentos envolvidos, pode-se
+tentar uma das seguintes alternativas:
+• Coletar os vasilhames que acondicionavam os alimentos suspeitos;
+• Coletar amostras do lote, de ingredientes e matéria-prima utilizados na preparação
+das refeições;
+• Coletar amostras de alimentos preparados no mesmo dia, local e pelos mesmos
+manipuladores.
+sob temperatura adequada, pois podem estar contaminados e o transporte e
+acondicionamento inadequados serão prejudiciais à investigação (quantificação do índice
+de contaminação). Neste caso é imprescindível que o fiscal sanitarista registre todas as
+informações solicitadas na Ficha epidemiológica (Anexo 02), principalmente os sinais e
+sintomas, a data e hora da ingestão dos alimentos suspeitos e a hora do início dos
+sintomas. A falta desses dados dificulta a realização das análises laboratoriais e a
+elucidação dos casos de suspeita de DTA.
+2.1. Amostras encaminhadas por outros órgãos
+Nos casos de amostras encaminhadas pelo Ministério Público, Poder Judiciário, Polícia
+Militar, DECON e PROCON, quando possível, as análises serão realizadas como de
+orientação.
+Os casos que estejam envolvidos em suspeitas de agravo ou risco à saúde, as análise serão
+realizadas com as quantidades apresentadas, mesmo que inferiores às quantidades
+solicitadas, desde que a metodologia a ser utilizada permita.
+2.2. Programas de monitoramento
+No caso de coleta de amostras para programas de monitoramento, é necessário seguir
+rigorosamente as instruções estabelecidas em cada programa, tais como: produto,
+quantidade de amostra, data da coleta. Em caso de dúvida, deve-se fazer contato, antes
+de efetuar a coleta de amostra, com o coordenador do programa e ou laboratório que
+receberá a amostra.
+3.0. AMOSTRAGEM
+De acordo com a NBR ISO/IEC 17.025/2017 a amostragem é um procedimento definido,
+pelo qual uma parte de uma substância, material ou produto é retirado para produzir uma
+amostra representativa do todo para o ensaio. O resultado obtido através da análise
+laboratorial é determinado em grande parte, pela primeira etapa do processo de análise
+que é a amostragem. Uma amostragem incorreta resultará em uma análise que não
+revelará a verdade sobre o produto amostrado, portanto, a amostra deve ser
+representativa de um todo. O laudo analítico, que é o resultado final da análise laboratorial,
+qualidade do produto analisado das unidades amostrais, que possibilitará, caso necessário,
+uma ação da Vigilância Sanitária.
+3.1. Cuidados na amostragem
+características originais. Para tanto, alguns cuidados devem ser observados no momento
+da coleta:
+• Colher a amostra de vários pontos do lote ou partida (parte superior, central e
+fundo) ou de vários recipientes quando o lote for composto por diversas
+embalagens;
+• Produtos não homogêneos devem ser cuidadosamente misturados antes da tomada
+da amostra;
+• Tomar precaução para que a amostra seja semelhante, em qualidade, na totalidade
+da mercadoria, após ser cuidadosamente homogeneizada;
+• Quanto maior for à partida ou o lote, tanto maior o número de pontos a serem
+amostrados;
+correspondente ao lote.
+3.2. Responsabilidade pela coleta e envio de amostras
+O Decreto nº 8077, de 14 de agosto de 2013 estabelece que os agentes a serviço da
+vigilância sanitária, em suas atividades de controle e monitoramento, terão entre outras
+atribuições e prerrogativas, coletar as amostras necessárias às análises de controle ou
+fiscal, lavrando os respectivos termos (Art. 13, III).
+3.3. Procedimento de coleta de amostra
+A apreensão de amostra é feita mediante lavratura de “Termo de coleta de Amostra”
+(Anexo 2), em quantidade representativa do estoque existente, dividida em três
+invólucros tornadas invioláveis, lacradas e conservadas adequadamente de modo a
+assegurar suas características originais. Uma delas fica em poder do detentor ou
+laboratório oficial juntamente com o “Termo de Coleta de Amostra”. No laboratório uma é
+submetida à análise, conforme prevê a Lei nº 6.437, de 20 de agosto de 1977. A
+temperatura da amostra deverá ser registrada no TCA, no momento da coleta.
+3.4. Acondicionamento e transporte das amostras
+• O acondicionamento impróprio das amostras coletadas é o principal fator que
+contribui para que um número considerável de análises não seja realizado, isto
+ocorre em virtude de avarias no transporte ou de embalagens inadequadas,
+particularmente para produtos envasados em frascos plásticos ou vidro, permitindo
+alterações do produto posteriores a sua coleta.
+• Após a coleta das amostras, as mesmas devem ser perfeitamente acondicionadas,
+para evitar quebras e contaminação; transportadas ao laboratório, no tempo
+necessário para que sua análise ocorra dentro do prazo de validade da preservação.
+proteção de invólucros. Para material de envase de vidro ou plásticos, recomenda-
+se colocar flocos de isopor, espuma ou pedaços de papel, de modo a evitar quebras
+por atrito ou empilhamento errado.
+• O transporte das amostras perecíveis deve ser realizado em caixas térmicas, que
+permitam o controle da temperatura e seu fechamento através de lacres (se
+possível numerado). Caso não seja possível o uso de caixas térmicas, pode ser
+utilizado caixa de isopor com gelo reciclável.
+• Colocar os frascos na caixa de amostras de tal modo que fiquem firmes durante o
+transporte;
+• Evitar a colocação de frascos de uma mesma amostra em caixas diferentes.
+Caso as amostras sejam enviadas por meio de transporte comercial, além dos
+procedimentos já listados, o técnico coletor deve tomar os seguintes cuidados
+complementares:
+• Prender firmemente a tampa da caixa que contem a amostras;
+• Identificar a amostra, pelo lado de fora, indicando sua procedência, destino, data de
+envio e outras datas que sejam importantes;
+• Indicações de “PARA CIMA”, “FRÁGIL” e “PERECÍVEL”, escritas de modo
+perfeitamente legível.
+• Enviar dentro da caixa, em envelope plástico lacrado, uma cópia da ficha de coleta
+das amostras enviadas. Como segurança, uma cópia das fichas de coleta deve ser
+retida com o técnico coletor.
+As amostras devem vir acompanhadas de toda a documentação necessária, incluindo o
+ofício de encaminhamento, o termo de coleta, assim como outros dados relativos ao
+motivo da coleta, visando nortear o direcionamento analítico em função do agravo à saúde
+detectado.
+3.5. Termo de coleta de amostra – TCA
+O TCA (Anexo 1) é o principal documento emitido quando da coleta de amostra, pois ele
+traz as informações que identificam o produto, acompanhando-o durante todo o processo
+de análise laboratorial.
+análise. Todos os campos do TCA devem ser obrigatoriamente preenchidos de forma
+legível e completa, sendo enviada 01 (uma) via ao laboratório junto com a amostra.
+4.0. ORIENTAÇÕES GERAIS PARA COLETA DE AMOSTRAS DE ÁGUA
+4.1. Frascos de coleta
+• Para análise microbiológica (Coliformes totais e fecais): frascos estéreis com
+capacidade de 100 a 200 mL, contendo tiossulfato de sódio, fornecidos pelo
+Laboratório, com prazo de validade de 02 (dois) meses. Não sendo usado nesse
+período deve retornar ao Laboratório para nova esterilização;
+• Para bacteriófagos fecais (hepatite A): frascos estéreis com capacidade de 500 mL,
+fornecidos pelo Laboratório;
+• Para Vibrio cholerae: frascos estéreis com capacidade de 1.000mL, fornecidos pelo
+Laboratório e/ou Swab de Moore;
+• Para Salmonella typhi: frascos estéreis com capacidade de 1.000mL, fornecidos pelo
+Laboratório;
+• Para água de hemodiálise: frascos estéreis com capacidade de 300 mL, fornecidos
+pelo Laboratório;
+• Para Bulkoderia pseudomallei: frascos estéreis com capacidade de 500 mL,
+fornecidos pelo Laboratório;
+• Para análise físico-química: garrafa de plástico com capacidade de 200 mL, lavada
+com água limpa, de preferência com a própria água a ser colhida, 2 a 3 vezes;
+• Para água de hemodiálise (ensaios fisico-químicos): garrafa de plástico com
+capacidade de 500 mL, contendo solução de ácido nítrico.
+4.2. Água para consumo humano:
+Vigilância em Saúde (PAVS) e demais ações de meio ambiente.
+4.2.1. Procedimento geral da coleta
+• Água tratada
+a) lavar as mãos e antebraços com água e sabão e fazer assepsia com álcool 70%, antes do
+início da coleta;
+b) adotar o uso de EPI's (luvas, avental, mascara, etc.) com vistas à proteção da amostra e
+também do próprio coletor no caso de águas suspeitas de contaminação;
+c) efetuar a limpeza da torneira, utilizando algodão embebido em álcool à 70% ou Solução
+de hipoclorito ± 10%, para eliminar qualquer tipo de contaminação externa;
+d) verificar o ponto de coleta que recebe água diretamente do sistema de distribuição, sem
+passar por caixas ou cisternas;
+e) no caso de coleta em torneira: abrir a torneira e deixar a água escorrer durante dois
+minutos, fechar e limpar com álcool a 70%, deixar escoar novamente de 1 a 2 minutos;
+f) remover a tampa do frasco junto com o papel protetor (não jogue o papel fora);
+g) segurar o frasco verticalmente próximo à base e efetuar o enchimento, deixando um
+espaço livre. Fechar o frasco imediatamente após a coleta, fixando bem o papel protetor
+ao redor do gargalo;
+h) identificar a amostra no frasco e na ficha de coleta com o mesmo número, com caneta
+esferográfica, para evitar a troca de amostras.
+• Água superficial (cisterna, rio e açude)
+a) identificar o frasco de acordo com a ficha de coleta, para evitar troca de amostras;
+b) lavar as mãos com água e sabão;
+c) retirar a tampa do frasco com o papel envoltório (não jogar fora o mesmo porque tem a
+finalidade de evitar a contaminação da água)
+d) com uma das mãos, segurar o frasco pela base, mergulhando-o rapidamente com a boca
+para baixo cerca de 15 a 30 cm abaixo da superfície da água, para evitar a introdução de
+contaminantes superficiais;
+e) direcionar o frasco, de modo que a boca fique em sentido contrário a correnteza e
+inclinado a 60º para baixo. Se o corpo de água for estático deverá ser criada uma corrente
+artificial, através da movimentação do frasco na direção horizontal (sempre para frente);
+f) após a retirada do frasco da água, desprezar uma pequena porção da amostra, deixando
+análise;
+g) fechar o frasco imediatamente, fixando o papel protetor ao redor do gargalo e
+identificar adequadamente a amostra no frasco e na ficha de coleta;
+h) Quantidade de amostra a ser colhida:
+Açude: colher de três (3) a quatro (4) pontos cruzados (dependendo do diâmetro e vazão
+do mesmo);
+Rio: colher em pontos equidistantes ao longo do percurso do mesmo.
+i) Observações para águas superficiais (rio, açude, lagoa):
+• Quando as amostras de água forem coletadas diretamente de um corpo de água
+receptor, selecionar pontos de amostragem bem representativos da amostra de
+água a ser examinada, evitando-se a coleta de amostras em áreas estagnadas ou em
+locais próximos à margem;
+• Em pequenos cursos d’água a coleta deve ser a montante (próximo à nascente) e a
+jusante (próximo à desembocadura);
+• Em grandes cursos d’água, considerar as distâncias requeridas para a mistura
+adequada dos lançamentos de poluentes no rio;
+• Na dúvida quanto à coleta da mistura no sentido lateral (de uma margem a outra),
+do ponto ajusante da fonte poluidora, fazer a coleta em pontos múltiplos do eixo
+transversal do rio.
+• Água subterrânea (cacimba ou poço)
+a) identificar a amostra no frasco de acordo com a ficha de coleta para evitar troca da
+mesma;
+b) lavar as mãos com água e sabão;
+• Poços freáticos com bomba de recalque:
+a) bombear a água durante ± 5 minutos;
+b) desinfetar a saída da bomba com álcool à 70% ou hipoclorito de sódio ± 10%;
+c) bombear a água novamente por ± 2 minutos e realizar a coletar;
+d) fazer as determinações de campo (residual de cloro e pH).
+• Poços freáticos sem bomba de recalque:
+a) coletar amostra diretamente do poço, utilizando equipamentos adequados e
+esterilizados (balde de inox especifico para esse fim), sem retirar amostras da camada
+superficial da água, evitando a contaminação com a espuma ou com o material das paredes
+do poço.
+Nota: Na falta desse material, amarrar um cordão limpo no gargalo do frasco e prender
+a um contrapeso. Descer cuidadosamente o frasco mais ou menos 30cm, sem tocar nas
+paredes da cacimba ou poço para encher ¾ (deixar acima da metade) do mesmo;
+b) retirar a tampa do frasco com o papel envoltório (não jogar fora o mesmo porque tem a
+finalidade de evitar a contaminação da água);
+c) recolher e tampar corretamente o frasco, com o cuidado de não tocar suas bordas e a
+parte interna da tampa com os dedos, conservando o papel de proteção que envolve a
+mesma.
+• Água de fonte
+a) identificar a amostra no frasco para evitar troca da mesma;
+b) lavar as mãos com água e sabão;
+c) retirar a tampa do frasco com o papel protetor (não jogar fora o mesmo porque tem a
+finalidade de evitar contaminação da água);
+d) fazer a desinfecção na saída da torneira com álcool a 70% ou hipoclorito de sódio ± 10%,
+se a fonte for canalizada;
+e) depois que a água escorrer da torneira o tempo necessário (1 a 2 min.) para a coluna de
+água da canalização, encher o frasco com ¾ (um pouco acima da metade) de água e
+tampar corretamente, com o cuidado de não tocar suas bordas e a parte interna da tampa
+com os dedos, conservando o papel de proteção que envolve a mesma;
+f) Caso a água da fonte não tenha canalização, proceder da mesma forma para coleta de
+água de cacimba ou poço.
+• Swab ambiental ou de Moore
+a) identificar a amostra no saco plástico para evitar troca do mesmo;
+b) lavar as mãos com água e sabão;
+c) desenrolar o swab e amarrar o cordão em arbustos, árvores ou cercas, longe dos
+curiosos;
+d) deixar os swabs por três (3) dias ou setenta e duas horas (72 h);
+e) após o prazo, colher em sacos plásticos individuais de primeiro uso.
+f) Em relação à quantidade de swabs colocados:
+Açude: colocar de três (3) a quatro (4) swabs em pontos cruzados (dependendo do
+diâmetro e vazão do mesmo);
+Rio: Colocar os swabs em pontos equidistantes ao longo do percurso do rio e próximo ao
+ponto ajusante de fonte poluidora.
+• Água de hemodiálise
+a) Nas unidades de hemodiálise devem ser coletadas três amostras para análise
+microbiológica:
+1. Água de abastecimento: água proveniente da rede pública ou poço artesiano;
+2. Água tratada para diálise: água utilizada no preparo da solução dialítica e na limpeza e
+desinfecção da máquina de hemodiálise e dos dialisadores. Coletar no ponto mais próximo
+da máquina de hemodiálise e no reuso (reprocessamento do dialisador), portanto duas
+amostras;
+3. Solução dialítica: água tratada mais o concentrado de sais. Esta amostra deve ser
+coletada ao final da sessão de hemodiálise.
+b) Identificar a amostra no frasco de acordo com a ficha de coleta, para evitar troca da
+mesma;
+c) Lavar as mãos com água e sabão;
+d) Retirar a tampa do frasco com o papel protetor (não jogar fora o mesmo porque tem a
+finalidade de evitar a contaminação da água);
+e) Depois que a água escorrer da torneira o tempo necessário (1 a 2 min.), encher o frasco
+com ¾ (deixar acima da metade) de água e tampar corretamente, com o cuidado de não
+tocar suas bordas e a parte interna da tampa com os dedos, conservando o papel de
+proteção que envolve a mesma;
+f) Após a coleta, a amostra deve ser enviada ao Laboratório no prazo máximo de 24 horas.
+Deve ser transportada sob-refrigeração (4º – 8ºC) e conservadas assim até o início da
+análise. Não congelar as amostras, em qualquer momento entre a coleta e a análise;
+g) Toda amostra deve ser encaminhada com a ficha de coleta (Anexo 01) e o ofício de
+solicitação da análise.
+4.3. Suspeita de surto (Portaria Nº 2914 de 12/12/2011-MS).
+Microbiologia: um volume de 500 a 1000 ml de água em frasco estéril.
+Físico-química: um volume de 500 ml de água em frasco estéril, sem tiossulfato de sódio.
+4.4. Água para pesquisa de vírus da hepatite a ou Norovírus.
+• Procedimentos de coleta: seguir a mesma orientação das análises microbiológicas;
+• Os frascos devem ser preparados para a coleta e fornecidos pelo laboratório;
+• A amostra deve ser transportada sob-refrigeração;
+• Para a pesquisa dos Vírus da Hepatite A e/ou Norovírus é necessário um volume de
+300 mL litros de água coletado em frasco estéril;
+4.5. Água para pesquisa de Víbrio cholerae
+4.5.1. Técnicas de coleta Víbrio cholerae -
+• Coleta de amostra de água de esgoto pela Técnica de Moore (mecha de gaze)
+• A mecha deverá ser instalada nos pontos de coleta, de forma que fique imersa no
+esgoto durante 3 dias. Esta mecha deverá está presa por um fio de náilon que fique
+firmemente preso em uma estrutura fixa no ponto de coleta.
+• Coletar a mecha de Moore que estava no esgoto e introduzi-la no recipiente
+adequado e estéril (frasco ou saco de plástico), contendo 300 mL do meio de
+transporte Cary Blair ou em APA dupla concentração. Fechar o saco plástico ou o
+recipiente de coleta e acondicionar em caixa apropriada para transporte.
+• Identificar as amostras, preenchendo corretamente a ficha de coleta: n° de amostra,
+data, local, chuva, hora, coletor (itens da ficha de coleta);
+• As amostras colhidas e transportadas em meio de Cary Blair devem ser processadas
+dentro do período de 24 a 72 horas.
+Nota 1: Em casos em que não foram instalados mecha, coletar diretamente 100 mL do
+esgoto e encaminhar diretamente para o laboratório em temperatura ambiente.
+Nota 2: Em caso de surto: Coletar: 500 mL e transportar de forma refrigerada até o LACEN
+e em caso de monitoramento de águas superficiais coletar 5 litros de água.
+4.6. Critérios de rejeição das amostras de água
+• Amostras de água congeladas;
+• Amostras que ultrapassarem 24h até a realização da análise;
+• Quantidade de amostra inferior ao recomendado;
+• Amostras com vazamento;
+• Amostras contaminadas com qualquer tipo de fita adesiva ou alfinete na bolsa ou
+com o derretimento do gelo da caixa de isopor;
+• Amostras sem identificação, com rasuras ou sem a Ficha de coleta de Água de
+Consumo Humano ou de água de superfície (Anexo 3);
+• Amostras em acondicionamento divergente ao padronizado ou sem a solicitação
+Ambiental/GAL.
+5.0. ORIENTAÇÕES GERAIS PARA COLETA DE PRODUTOS
+5.1. Alimentos em geral para análise fiscal e de orientação
+O Decreto Lei nº 986/1969 instituiu normas básicas sobre alimentos e estabelece os
+proteção da saúde individual e visando. A Resolução nº 12 de 02 de janeiro de 2001 da
+ANVISA, visando assegurar as boas práticas de fabricação aprovou o REGULAMENTO
+TÉCNICO SOBRE PADRÕES MICROBIOLÓGICOS PARA ALIMENTOS, onde são estabelecidos os
+destinados ao consumo humano. Baseada nestas legislações, o LACEN-CE instituiu as
+abrangência do MERCOSUL.
+5.1.1. Coleta
+• Para as coletas dos produtos referentes aos programas de monitoramento
+municipal, estadual ou federal a Vigilância Sanitária deve seguir rigorosamente os
+planos de amostragem (tipo e quantidade de amostra) estabelecidos em cada
+programa;
+• O TCA (anexo 01) tem a finalidade de dar subsídios aos agentes de Vigilância
+Sanitária para a coleta de amostras, segundo o tipo de alimento envolvido. A
+solicitação de análise deve estar de acordo com a denúncia e/ou suspeita do motivo
+da coleta;
+• Em situações em que uma embalagem não corresponda ao conteúdo especificado no
+TCA (Anexo 01), colher tantas embalagens quantas forem necessárias para
+completar o conteúdo mínimo determinado na tabela para cada Seção;
+• Os produtos deverão ser colhidos em sua embalagem original, aproximando-se o
+máximo possível das quantidades apresentadas nas respectivas tabelas. No caso de
+produtos a granel, a amostra deverá ser colhida de diversos pontos do lote ou
+partida;
+• As quantidades de amostras para análises microbiológicas referem-se a amostras
+indicativas. No caso de avaliação de lotes ou partidas a amostragem será realizada
+segundo a Resolução RDC 12/2001 da ANVISA;
+• A temperatura da amostra deverá ser registrada no TCA no momento da coleta;
+• As amostras de alimentos perecíveis serão canceladas quando estiverem em
+temperatura de refrigeração acima de 10ºC na coleta ou no recebimento pelo
+laboratório, salvo quando não interferir no procedimento analítico;
+• Os anexos 4,5, 6, 7, 8 apresentam as quantidades mínimas necessárias para a
+execução das análises e a temperatura de transporte das amostras. Observar que
+em se tratando de análise fiscal a amostra deverá ser coletada, multiplicando por
+três que é a quantidade do produto para cada setor. Se a modalidade de análise for
+fiscal de “amostra única”, coletar apenas a quantidade especificada na tabela, não
+havendo necessidade de coletar em triplicata;
+• Quando houver apenas solicitação de análise de rotulagem de alimentos, deve-se
+observar peso ou volume mínimo. Quando a finalidade for “fiscal”, colher três
+envelopes devidamente lacrados e identificados;
+• O anexo 5 mostra as quantidades mínimas e a temperatura de transporte de
+amostras de alimentos para uma análise fiscal de rotina. No caso de análise fiscal
+com interdição de lote, a mesma não será considerada. O requerente deve consultar
+o Manual de Coleta do LACEN para ser orientado quanto à quantidade da amostra.
+• A água é considera um alimento, assim aquelas que passam por processo de envase
+industrial devem estar sujeitos aos controles sanitários. A quantidade de amostras a
+serem coletadas está descrita no anexo 4.
+5.1.2. Alimentos envolvidos em caso de toxinfecções alimentares
+• Na elucidação de casos de DTA, coletar as sobras dos alimentos suspeitos e
+efetivamente consumidos pelos afetados o mais rápido possível. No caso de sobras
+dos alimentos suspeitos, aceitam-se quantidades menores de amostras, pois é
+significativa em qualquer quantidade. Porém sempre que possível respeitar a
+quantidade mínima de 200 g ou 200 mL;
+• Produtos perecíveis devem ser enviados sob-refrigeração, já as amostras
+congeladas em sua origem, devem ser enviadas mantidas congeladas com o uso de
+gelo reciclável. Para amostras envolvidas em casos de DTA é muito importante que
+se observem os cuidados com a assepsia, e que a coleta seja feita em sacos plásticos
+esterilizados ou de primeiro uso. Não coletar amostras que se encontram em estado
+de parcial deterioração, exceto em situações especiais;
+• As amostras deverão ser encaminhadas ao Laboratório em coletas individualizadas
+(cada amostra em um envelope lacrado), identificadas e acompanhadas dos
+respectivos TCA devidamente preenchidos um para cada amostra. Necessariamente
+preenchida com o maior número de informações possíveis tais como: modo de
+preparo do alimento, acondicionamento, período de incubação, número de pessoas
+envolvidas, agentes etiológicos suspeitos e demais informações que permitam
+direcionar a determinação analítica pertinente;
+• Quando não se dispuser das sobras das refeições suspeitas, podem-se tentar as
+seguintes alternativas:
+- Matéria-prima utilizada na produção do alimento suspeito;
+- Refeições similares realizadas nas mesmas condições do surto;
+- Amostra de controle armazenada pelo local de produção.
+• Enfatizamos que, o procedimento usado para contornar a não existência das sobras
+de alimentos (amostra de controle armazenada pelo local de produção), buscando-
+se colher aquelas amostras dos alimentos conservadas, pelos serviços de cozinha,
+por um período de até 5 dias, congeladas ou resfriadas, com a finalidade de
+encaminhamento para análise, caso ocorram.
+• Quando for solicitada a análise de Clostridium em produtos cárneos ou em alimentos
+com suspeita do microrganismo, a amostra deverá ser mantida sob refrigeração e
+não poderá ser congelada.
+• Em caso de suspeita de intoxicação alimentar por botulismo a amostra efetivamente
+SINAN, que pode ser acessada em http://dtr2004.saude.gov.br/sinanweb/ no Link
+Documentos, SinanNet que contém as fichas para os casos de DTA e uma ficha
+diferenciada para notificação de Botulismo além, da documentação já exigida para as
+situações de surto (TCA e relatório preliminar de surto);
+• Na ausência de restos do alimento efetivamente consumido a amostra colhida pode
+ser a própria embalagem vazia. A toxina botulínica pode estar presente nas paredes
+internas e ser retirada para análise por enxaguadura, pois outra unidade do mesmo
+lote pode não apresentar a toxina. O agente de saúde deverá manipular com
+(utilizando-se de EPI’s como, por exemplo, luvas) devido à toxicidade botulínica.
+Para acondicionamento das amostras, selecionar recipientes limpos e de preferência
+esterilizados, hermeticamente fechados. Caso seja amostra de alimento contida em
+uma embalagem, não transferir para outro recipiente, colher todo o conjunto. Vedar
+ou tampar o recipiente que contenha a amostra, garantindo que não ocorra
+vazamento. Conservar e transportar a amostra sob refrigeração. Esta atitude é
+indispensável, pois a toxina botulínica é termo lábil. Para o transporte, acondicionar
+a amostra protegida em caixa isotérmica, evitar o gelo comum, dando preferência a
+gelo reciclável;
+• O laboratório deve ser previamente avisado do envio da amostra, pois a mesma
+deverá ser recebida de imediato, inspecionada e armazenada de forma adequada no
+referência do Sistema Nacional de Laboratórios de Saúde Pública – SISLAB.
+5.1.3. Acondicionamento e transporte
+(temperatura ambiente, refrigerados ou congelados) e recebidas nas mesmas condições no
+laboratório.
+Os alimentos envolvidos em suspeita de surto deverão ser transportados refrigerados,
+para curtas distâncias, ou congelados, para longas distâncias e acondicionados em caixa
+térmica com gelox. As mesmas devem ser enviadas imediatamente para o LACEN.
+5.2. Cosméticos e saneantes domissanitários.
+5.2.1. Coleta
+De acordo com as legislações, Resolução nº 79/2000, Resolução nº 7/2015 e Resolução nº
+481/ 1999, que regem as análises de cosméticos e as Resoluções nº 55/2009 e Resolução
+nº 59/2010 que tratam sobres os saneantes domissanitários, além das legislações
+específicas, devem ser coletadas 03 amostras do mesmo lote, em suas embalagens
+originais não violadas, com rótulo legível e sem vazamentos.
+do LACEN precisam ser encaminhados por motivo de denúncia, onde sejam observados
+possíveis riscos à saúde pública, proceder com a seguir:
+• A Vigilância deve entrar em contato com o LACEN informando do produto
+denunciado;
+• O LACEN realiza contato com a Coordenação Geral de Laboratórios de Saúde Pública
+– GELAS, a qual irá referenciar o laboratório que poderá realizar as análises. O
+LACEN, de posse da resposta da GELAS, entrará em contato com a Vigilância para
+realizar os procedimentos.
+Nota: Tabela de Quantidade de Amostras: Cosméticos (Anexo 6) e Tabela de Quantidade de
+Amostras: Saneantes Domissanitários (Anexo 7);
+5.2.2. Acondicionamento e transporte
+Acondicionar em embalagens apropriadas, como caixa, envelope de papel ou plástico
+desde que esteja com lacre de segurança. Transportar em temperatura ambiente, sem
+vazamentos, acompanhado do preenchimento completo e correto do TCA e oficio de
+encaminhamento do produto (especificando o motivo da coleta), ambos em 02 vias.
+Observação: os valores constantes dessa tabela se referem à quantidade mínima de cada
+produto para análise. No caso da análise físico-química, deve-se notar que quando o
+número de unidades não for suficiente para atingir a quantidade em peso ou volume,
+deverão ser tomadas tantas unidades quantas forem necessárias para tal.
+5.3. Medicamentos
+5.3.1. Coleta
+• O Anexo 8 têm a finalidade de orientar os agentes de Vigilância Sanitária sobre a
+quantidade de amostra a ser colhida. A solicitação da análise deve estar de acordo
+com a denúncia e/ou suspeita do motivo da coleta.
+• No caso de análise fiscal, colher em triplicata, de modo que o conjunto de unidades
+amostrais, de cada modalidade de análise, seja multiplicado por três e
+acondicionadas em três invólucros (preferencialmente de material transparente)
+oficiais lacrados, íntegros e invioláveis, para cada seção a ser enviada. No caso de
+análise fiscal de “amostra única”, deve-se colher conforme descrito abaixo nas
+tabelas, acondicionadas em invólucro oficial lacrado, íntegro e inviolável;
+• Quando houver solicitação de análise de rotulagem de medicamentos, deve-se
+coletar uma embalagem com este propósito específico. Da mesma forma que para as
+demais análises, quando a finalidade for “fiscal”, deve se coletar três embalagens e
+proceder da mesma forma que qualquer outro medicamento.
+• Em situações especiais poderão ser coletadas quantidades inferiores às descritas
+nas tabelas abaixo, desde que devidamente justificado no TCA e sujeito à avaliação
+da seção sobre a viabilidade da análise.
+• As unidades amostrais que compõem a amostra deverão possuir a mesma
+identidade, origem, marca, classificação, lote, data de fabricação e validade (Anexo
+8).
+• Produtos não definidos nas tabelas, as quantidades dependem da avaliação da
+denúncia e modalidade da análise. Desta forma, antes da coleta, consultar
+diretamente a seção de saneantes, cosméticos e produtos para saúde ou a seção de
+medicamentos do LACEN.
+• Dependendo da complexidade e capacidade analítica, o LACEN redistribuirá o
+Saúde Pública - SISLAB. Portanto as quantidades informadas nas tabelas abaixo
+poderão sofrer modificações em suas quantidades.
+• Cuidados no momento da coleta:
+- Verificar a inviolabilidade das embalagens;
+- Não coletar produtos que estejam com prazo de validade expirado;
+- Manusear cuidadosamente as amostras para evitar possíveis danos;
+- Não transportar a amostra junto com outros produtos químicos.
+• O envelope ou caixa de coleta de amostra deve ser previamente identificado,
+constando obrigatoriamente: nome do produto, número do TCA, Regional de Saúde
+e Município responsável pela coleta. Posteriormente deve-se marcar o número do
+volume (1, 2 ou 3) do envelope.
+5.3.2. Acondicionamento e transporte
+• Acondicionar em embalagens apropriadas, como caixa, envelope de papel ou plástico
+desde que esteja com lacre de segurança. Transportar em temperatura ambiente,
+encaminhamento do medicamento, especificando o motivo da coleta, ambos em 02
+(duas) vias;
+• É necessário o uso de caixas de papelão rígido para o acondicionamento das
+amostras sob temperatura ambiente. Recomenda-se colocar flocos de isopor,
+espuma ou pedaços de papel, de modo a evitar movimentação das amostras dentro
+da embalagem.
+• Acondicionar amostras termos sensíveis em caixas térmicas e/ou isopor com gelox,
+não utilizar gelo solto. A chegada de amostra termos sensíveis ao laboratório não
+devem ultrapassar 24 horas da coleta.
+• Quando os produtos estiverem em embalagens muito grandes, que não possam ser
+transportadas, deve se transferir porções do produto para embalagens limpas e não
+reutilizáveis, de preferência do mesmo material da embalagem original, secas,
+estéreis, de tamanho apropriado, a fim de evitar vazamento, evitando-se ao máximo
+a manipulação e a exposição ambiental, mantendo-se o rótulo exigido (com exceção
+de produtos injetáveis).
+• Produtos como soluções parenterais de grande volume, desde que cada unidade
+tenha seu número de lote impresso na embalagem, podem ser encaminhados fora
+da caixa, porém, sempre que possível, enviar a embalagem externa do produto ou
+parte dela onde constem informações que permita rastrear o mesmo.
+• No caso de ampolas ou frascos que não possuam gravação de Número de lote,
+devem ser encaminhados dentro da caixa original do fabricante. Caso a embalagem
+não possa ser acondicionada no envelope de coleta, retira-se a quantidade
+necessária e recorta-se a embalagem onde constam os dizeres de rotulagem
+colocando-o dentro dos envelopes de coleta.
+• Para os produtos que acompanham diluentes (Ex.: suspensões injetáveis), colher nas
+mesmas quantidades dos frascos dos produtos.
+• As embalagens de alimentos coletadas para análise fiscal e de orientação, deverão
+estar integras e conservando as características do fabricante.
+6.0. CRITÉRIOS DE REJEIÇÃO
+Amostras não recebidas pelo laboratório (Alimentos, Cosméticos, Saneantes,
+Medicamentos)
+• Amostras termo sensíveis que chegarem ao LACEN-CE sem refrigeração e com prazo
+de recebimento (24 horas) expirado;
+• Amostras com prazo de validade vencido;
+• Amostras com unidades amostrais que não possuem a mesma marca, origem,
+número de lote, data de fabricação e validade;
+• Amostras com invólucros ou lacres que estejam violados ou amostras com frascos
+ou recipientes quebrados;
+• Amostra acompanhada de documentação incompleta, rasurada, ilegível ou com
+ausência do TCA;
+• Formulário de rejeição de amostras (anexo 09).
+7.0. ENCAMINHAMENTOS DE RESULTADOS
+7.1. Resultados satisfatórios
+• Análise realizada no LACEN
+Os Laudos de Análise serão expedidos em quatro (4) vias, sendo 01 (uma) via para o
+Núcleo de Vigilância Sanitária do Estado – NUVIS, 02 (duas) vias para o requerente e a
+última é arquivada no processo no LACEN.
+• Análises realizadas em laboratórios de referência (IAL/INCQS):
+O laboratório de referência expede ao LACEN 02 (duas vias originais): sendo 01 (uma)
+encaminhada ao NUVIS e a outra para o requerente. Desses originais é retirada 01(uma)
+cópia que fica arquivada no processo no LACEN.
+7.2. Resultados insatisfatórios
+• Empresa produtora localizada em Estado onde houve a coleta:
+Os Laudos de Análise serão expedidos em cinco (05) vias do, sendo 01 (uma) via para o
+Núcleo de Vigilância Sanitária do Estado – NUVIS, 2 (duas) vias para o requerente, 01 (uma)
+via remetida a SVS/MS e a última arquivada no processo no LACEN.
+• Empresa produtora localizada em Estado diferente onde houve a coleta:
+Serão expedidas 06 (seis) vias do Laudo de Análise, sendo 01 (uma) via para o Núcleo de
+Vigilância Sanitária do Estado - NUVIS, 02 (duas) vias para o requerente, 01 (uma) via
+remetida a VISA do Estado do produtor, 01 (uma) via enviada à SVS/MS, sendo a última
+arquivada no processo no LACEN.
+7.3. Prazo de liberação do laudo de análise da área de produtos do LACEN
+• O prazo máximo para liberação do LA é de 30 dias, a contar da data de recebimento
+para amostras analisadas no LACEN/CE;
+• No caso de amostra enviada para outros Laboratórios ou Laboratório de Referência
+dependendo da natureza do produto e da complexidade do ensaio, poderá sofrer
+alteração no prazo máximo de liberação;
+• Amostra oriunda de outros estados, referente aos programas de monitoramento
+nacional (ANVISA), poderá ter prazo de liberação do LA superior a 30 dias devido à
+complexidade dos ensaios, não ultrapassando o prazo de três meses;
+• No caso de amostra analisada no LACEN podem ocorrer situações de pendências
+técnicas tais como: falta de manutenção/calibração de equipamento, dificuldade de
+aquisição de reagente ou padrão de referência específico para realização do ensaio,
+podendo o prazo de liberação do LA se estender por mais de 30 dias;
+• Amostra de medicamento: na ausência de metodologia na Farmacopeia Brasileira ou
+Farmacopeias internacionais, será solicitado ao fabricante o método registrado na
+ANVISA, podendo interferir no prazo máximo de liberação do LA.
+8.0. ENTREGA DE AMOSTRAS NO LACEN
+Água: de 2ª a 5ª feira – de 07h00min as 16h00minh;
+Produtos: de 2ª a 6ª feira – de 07h00min as 16h00minh
+9.0. REFERÊNCIAS BIBLIOGRÁFICAS
+ABNT NBR ISO/IEC 17025:2005. Requisitos de Ensaio e Calibração
+DECRETO Nº 74.170, DE 10 DE JUNHO DE 1974. Regulamenta a Lei nº 5.991, de 17 de
+dezembro de 1973, que dispões sobre o controle sanitário do comércio de drogas,
+medicamentos, insumos farmacêuticos e correlatos. DOU de 11/06/1974 - Retificado no
+DOU de 21/06/1974
+DECRETO Nº 8.077, DE 14 DE AGOSTO DE 2013. Regulamenta as condições para o
+funcionamento de empresas sujeitas ao licenciamento sanitário, e o registro, controle e
+monitoramento, no âmbito da vigilância sanitária, dos produtos de que trata a Lei n 6.360,
+de 23 de setembro de 1976, e dá outras providências.
+DECRETO-LEI Nº 986, DE 21 DE OUTUBRO DE 1969 - Institui normas básicas sobre
+alimentos (...). DOU de 21/10/1969 - Retificado DOU de 11/11/1969.
+LEI Nº 5.991, DE 17 DE DEZEMBRO DE 1973. Dispõe sobre o Controle Sanitário do Comércio
+de Drogas, Medicamentos, Insumos farmacêuticos e Correlatos, e dá outras Providências.
+DOU de 19/12/1973- Retificada no DOU de 21/12/1973
+LEI Nº 6.360, DE 23 DE SETEMBRO DE 1976. Dispõe sobre a Vigilância Sanitária a que ficam
+sujeitos os Medicamentos, as Drogas, os Insumos Farmacêuticos e Correlatos, Cosméticos,
+Saneantes e Outros Produtos, e dá outras Providências. DOU de 24/09/1976
+LEI Nº 6.437, DE 20 DE AGOSTO DE 1977. Configura infrações à legislação sanitária federal,
+estabelece as sanções respectivas, e dá outras providências. DOU de 24/08/1977
+LEI Nº 8078, DE 11 DE SETEMBRO DE 1990. Dispõe sobre a proteção do consumidor e dá
+outras providências. DOU 12/09/1990- Suplemento.
+LEI Nº 9.782, DE 26 DE JANEIRO DE 1999. DOU de 27 de janeiro de 1999, define o Sistema
+Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras
+providências.
+PHARMACOPÉIA USP 31/2008.
+PORTARIA Nº 2914 DE 12/12/2011. Dispõe sobre os procedimentos de controle e de
+vigilância da qualidade da água para consumo humano e seu padrão de potabilidade.
+(D.O.U): 14/12/2011
+PORTARIA/MS Nº 2814, DE 29 DE MAIO DE 1998. (...)Art. 1° Estabelecer procedimentos a
+serem observados pelas empresas produtoras, importadoras, distribuidoras e do comércio
+farmacêutico, objetivando a comprovação, em caráter de urgência da identidade e
+qualidade de medicamento, objeto de denúncia sobre possível falsificação, adulteração e
+fraude, mediante: (...). D.O.U. de 18 de novembro de 1998-Versão Republicada
+RESOLUÇÃO - RDC N° 11 de 13 de março de 2014, dispõe sobre os Requisitos de Boas
+Práticas de Funcionamento para os Serviços de Diálise e dá outras providências,
+RESOLUÇÃO - RDC Nº 12 de 16 de fevereiro de 2012, dispõe sobre a Rede Brasileira de
+Laboratórios Analíticos em Saúde (REBLAS).
+RESOLUÇÃO - RDC Nº 481 de 23 de setembro de 1999., estabelece os parâmetros de
+controle microbiológico para os produtos de higiene pessoal, cosméticos e perfumes
+RESOLUÇÃO - RDC Nº 55 de 10 de novembro de 2009., dispõe sobre Regulamento Técnico
+Hipoclorito de Sódio ou Hipoclorito de Cálcio e dá outras providências. DOU Nº 217, de
+13/11/2009.
+RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC Nº 7 de 10 de fevereiro de 2015 – Dispõe
+sobre os sitos técnicos para a regularização de produtos de higiene pessoal, cosméticos e
+perfumes e dá outras providências.
+RESOLUÇÃO Nº 37 de 06 de julho de 2009 - ANVISA - Agência Nacional de Vigilância
+Sanitária. Trata da admissibilidade das Farmacopeias estrangeiras. (D.O.U. 08/07/2009).
+RESOLUÇÃO RDC Nº 79, de 28 de agosto de 2000. Dispões sobre a Definição e Classificação
+de Produtos de Higiene Pessoal, Cosméticos e Perfumes e outros com abrangência neste
+contexto (D.O.U. 31/08/00).
+RESOLUÇÃO-RDC N° 169, de 21 de agosto de 2006 DOU de 04/09/2006. (...)Art. 1° -
+Incluir a Farmacopéia Portuguesa na relação de compêndios de que trata o art.1° da
+Resolução da Diretoria Colegiada - RDC n° 79, de 11 de abril de 2003, republicada no DOU
+n° 72, Seção I, pág. 54, de 14 de abril de 2003. (…)
+LEI Nº 13.411, DE 28 DE DEZEMBRO DE 2016. Altera a Lei n 6.360, de 23 de setembro de
+1976, que dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as
+drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos,
+e dá outras providências, e a Lei n 9.782, de 26 de janeiro de 1999, que define o Sistema
+Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras
+providências, para dar transparência e previsibilidade ao processo de concessão e
+renovação de registro de medicamento e de alteração pós-registro.
+RESOLUÇÃO CONAMA Nº 274 de 29 de novembro de 2000 - Define os critérios de
+Balneabilidade em Águas Brasileiras". Publicação DOU nº 018, de 08/01/2001, págs. 70-71
+RESOLUÇÃO CONAMA Nº 430 de 13 de maio de 2011 - “Dispõe sobre condições e padrões
+de lançamento de efluentes, complementa e altera a Resolução Nº 357, de 17 de março de
+2005, do Conselho Nacional do Meio Ambiente – CONAMA” - Publicação D.O.U Nº 92, de
+16/05/2011, pág.89.
+10.0. ANEXOS
+ANEXO 01: TERMO DE COLETA DE AMOSTRA
+ANEXO 02: FICHA EPIDEMIOLÓGICA
+ANEXO 03: FICHA DE COLETA DE ÁGUA PARA CONSUMO HUMANO OU DE SUPERFÍCIE
+TÍTULO: FORMULÁRIO DE COLETA DE ÁGUA – ANÁLISE DE NÚMERO: FOR.410.006
+1. DADOS DO LACEN
+Data da entrada no LACEN: ______/______/_____ Hora de entrada:______________
+Nº do protocolo: Bacteriológico________________ Físico-químico:_______________
+Responsável pelo recebimento da amostra no LACEN ______________________________
+2. ENSAIOS SOLICITADOS:
+MICROBIOLÓGICO: ( ) FÍSICO-QUÍMICO: ( ) OUTROS: ( )
+3.INFORMAÇÕES GERAIS DA COLETA:
+Amostra Nº __________ Data _____/_____/_____ Hora da coleta:___________
+Pessoa de contato:____________________________________________________
+Endereço da coleta: ___________________________________________________
+Responsável pela coleta:________________________ Telefone de contato:______
+4. PONTO DE COLETA:
+TIPO DE ÁGUA: TRATADA ( ) NÃO TRATADA ( )
+CAGECE ( ) POÇO ( ) FONTE ( ) CACIMBA ( )
+RIO ( ) LAGOA ( ) AÇUDE ( ) CHUVA ( )
+5.OBSERVAÇÕES:_______________________________________________________________
+_______________________________________________________________________________
+ANEXO 4: QUANTIDADE MÍNIMA DE AMOSTRAS DE ALIMENTOS EM GERAL PARA ANÁLISE
+FISCAL (coletar em triplicata)
+FÍSICO- TEMPERATURA
+Achocolatado (UHT) 1 embalagem 1 embalagem 1 embalagem Minimo Ambiente
+Mínimo 1L Mínimo 1L 1L
+Água de coco 3 embalagens 1 embalagem 1 embalagem Ambiente
+Mínimo 1L Mínimo 100 mL Mínimo 100 mL
+Açúcar 1 emb alagem 1 embalagem 1 embalagem Ambiente
+Mínimo 1Kg Mínimo 1Kg Mínimo 1Kg
+5 embalagens
+1.500mL - - Ambiente
+5 embalagens 500
+Alimentos congelados Mínimo 2 50 g Mínimo 250 g Mínimo 250 g Congelado
+Alimentos infantis (Ex.: papinhas) 3 embal agens 1 embalagem 1 embalagem Min. Ambiente
+Min. 100g 100g
+Alimentos infantis a base de 1 embalagem 1 embalagem 1 embalagem Ambiente
+cereais (Ex.: Farinha Láctea e Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Sucrilhos)
+Alimentos infantis a base de leite 1 embalagem 1 embalagem 1 embalagem Refrigeração
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Alimentos para menores de 3 anos 1 embalagem 1 embalagem 1 embalagem Ambiente
+Amidos, farinhas, féculas, massas 1 embalagem 1 embalagem 1 embalagem Ambiente
+secas, cereais em flocos, inflados e Mínimo 250 g Mínimo 250 g Mínimo 250 g
+/ou laminados e farelos
+Balas, pirulitos, gomas e similares 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Batata Palha e outros salgadinhos 1 embalagem 1 embalagem 1 embalagem Ambiente
+industrializados prontos para Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Bebidas A lcoólicas - 1 embalagem 1 embalagem Ambiente
+Mínimo 500 mL Mínimo 500 mL
+Bebidas Alcoólicas fermentadas - 1 embalagem 1 embalagem Ambiente
+Mínimo 500 mL Mínimo 500 mL
+Bebidas energéticas 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 mL Mínimo 250 mL Mínimo 250 mL
+Bebidas lácteas (UHT) 1 embalagem 1 embalagem 1 embalagem Mínimo 1L Ambiente
+Mínimo 1L
+Bebidas lácteas em pó 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Biscoitos e bolachas em geral 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 200 g Mínimo 200 g Mínimo 200 g
+Café em grão - - Min. 500g Ambiente
+Café torrado e moído ou solúvel 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Carnes “in natura” resfriadas e/ou Mínimo 500g Mínimo 500g Mínimo 500g Refrigerado
+congeladas /
+Carnes dessecadas Mínimo 500g Mínimo 500g Mínimo 500g Ambiente
+Carnes e pescados em conserva 3 embalagens 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g cada Mínimo 250 g Mínimo 250 g
+Carnes e pescados enlatados 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Carnes preparadas embutidas 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Charque embalado 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Chás e produtos para infusão 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Chocolates e bombons 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Coco ralado 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Compotas ou frutas em caldas 3 embalagens 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g cada Mínimo 250 g Mínimo 250 g
+Condimentos, temperos e 1 embalagem 1 embalagem 1 embalagem Ambiente
+especiarias Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Conservas de frutas, legumes, 3 embalagens 1 embalagem 1 embalagem Ambiente
+verduras e outros Mínimo 250 g cada Mínimo 250 g Mínimo 250 g
+Creme de leite esterilizado 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Doces em pasta ou em barras 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Doces de confeitaria, bolos, tortas, Mínimo 250g Mínimo 250g Mínimo 250g Refrigerado
+Embutidos em geral 1 embalagem 1 embalagem 1 embalagem Ambiente/
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Extrato de tomate e similares 3 embalagens 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g cada Mínimo 250 g Mínimo 250 g
+Erva mate - - 1 embalagem Ambiente
+Minimo 500g
+Farinhas de trigo, mandioca e milho 1 embalagem embalagem 1 embalagem Ambiente
+Minimo1Kg Minimo1Kg Minimo1K
+Frutas, legumes e verduras “in - - Minimo1Kg Ambiente
+natura”
+Frutas, legumes e verduras 1 embalagem 1 embalagem 1 embalagem Refrigerado
+minimamente processadas. Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Frutas cristalizadas, glaceadas, 1 embalagem 1 embalagem 1 embalagem Ambiente
+secas e desidratadas Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Gelados comestíveis (Sorvete / 4 embalagens 4 embalagens 4 embalagens Congelado
+Picolé) Mínimo 250 g cada Mínimo 250 g cada Mínimo 250 g cada
+Grãos e cereais em geral - 1 embalagem 1 embalagem Mínimo Ambiente
+Mínimo 500g 500g
+Gelo para consumo 1 embalagem 1 embalagem 1 embalagem Congelado
+Mínimo 1Kg Mínimo 1Kg Mínimo 1Kg
+Gorduras comestíveis Mínimo 250g Mínimo 250g Mínimo 250g
+Leite (UHT) integral 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 1L Minimo 1L Mínimo 1L
+Leite condensado 1 embalagem 1 embalagem 1 embalagem Mínimo 1Kg Ambiente
+Mínimo 1Kg Mínimo 1Kg
+Leite de coco 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Leite em pó 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Leite fermentado e iogurte 1 embalagem 1 embalagem 1 embalagem Refrigerado
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Leite pasteurizado 1 embalagem 1 embalagem 1 embalagem Minimo1L Refrigerado
+minimo 1L minimo 1L
+Manteigas, margarinas, cremes 1 embalagem 1 embalagem 1 embalagem Refrigerado
+vegetais e similares Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Massas alimentícias frescas ou 1 embalagem 1 embalagem 1 embalagem Refrigerado
+cruas, semi-elaboradas e Mínimo 250 g Mínimo 250 g Mínimo 250 g / Congelado
+Mel de abel ha 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Melados (açúcar invertido) 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Mistura de cereais (granola) 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Mistura em pó para bolos, tortas, 1 embalagem 1 embalagem 1 embalagem Ambiente
+bolinhos, empadas, pizzas, pães e Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Mistura para sopas, caldos, purês, 1 embalagem 1 embalagem 1 embalagem Ambiente
+risotos e preparações para Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Mistura s em pó para sobremesas e 1 embalagem 1 embalagem 1 embalagem Ambiente
+gelatinas Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Mostarda de mesa, maionese 1 embalagem 1 embalagem 1 embalagem Ambiente
+industrializada, catchup e similares Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Óleos 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 mL Mínimo 250mL Minimo. 250mL
+Ovos 1 embalagem - - Refrigerado
+Mínimo 12 unidades
+Pães e produtos de panificação 1 embalagem 1 embalagem 1 embalagem Ambiente
+(roscas, farinha de roscas, torradas, Mínimo 250 g Mínimo 250 g Mínimo 250 g
+panetones, pães de Páscoa, bolos,
+Pescado pré-cozido e/ou empanado 1 embalagem 1 embalagem 1 embalagem Refrigerado
+e/ou congelado Mínimo 500g Mínimo 500g Mínimo 500g /Congelado
+Pescado s eco e/ou salgado e 1 embalagem 1 embalagem 1 embalagem Ambiente/
+defumado Mínimo 500g Mínimo 500g Mínimo 500g Refrigerado
+Pescados “in natura resfriados e/ou 1 embalagem 1 embalagem 1 embalagem Resfriado/o
+congelados” Mínimo 500g Mínimo 500g Mínimo 500g ugelado
+Pó para preparo de refrescos ou 1 embalagem 1 embalagem 1 embalagem Ambiente
+bebidas Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Polpa de frutas congeladas 1 embalagem 1 embalagem 1 embalagem Congelado
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Prato semi-elaborado e /ou pronto 1 embalagem 1 embalagem 1 embalagem Congelado
+congelado Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Pratos preparados e/ou prontos 1 embalagem 1 embalagem 1 embalagem Refrigerado
+para consumo Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Produtos a base de amendoim 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Produtos cárneos crus, refrigerados 1 embalagem 1 embalagem 1 embalagem Refrigerado
+ou congelados (hambúrgueres, Mínimo 250 g Mínimo 250 g Mínimo 250 g / Congelado
+lingüiças cruas, almôndegas, quibes
+e similares)
+Queijos em geral, ricota e requeijão. 1 embalagem 1 embalagem 1 embalagem Refrigerado
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Queijo ralado 1 embalagem 1 embalagem 1 embalagem Ambiente/
+Mínimo 250 g Mínimo 250 g Mínimo 250 g Refrigerado
+Raízes e tubérculos minimamente 1 embalagem - 1 embalagem Ambiente
+processados (cenoura, nabo, Mínimo 250 g Mínimo 250 g
+beterraba, batata, mandioca, etc)
+Rapadura 1 embalagem 1 embalagem 1 embalagem Ambiente
+Mínimo 250 g Mínimo 250 g Mínimo 250 g
+Sal de cozinha - 1 embalagem 1 embalagem Ambiente
+Mínimo 500g Mínimo 500g
+Temperos para saladas e pratos em 1 embalagem 1 embalagem 1 embalagem Ambiente
+geral (shoyu, aceto balsâmico, Mínimo 250mL Mínimo 250mL Mínimo 250mL
+misturas de vinagre e temperos, etc)
+Vinagre - 1 emba lagem 1 embalagem Ambiente
+Mínimo 500mL Mínimo 500mL
+ANEXO 5: QUANTIDADE MÍNIMA DE AMOSTRAS DE COSMÉTICOS PARA ANÁLISE FISCAL
+(coletar em triplicata)
+FQ MB TOTAL*
+Sabonetes 3 5 8
+Produtos de higiene dos cabelos e couro cabeludo 3 5 8
+Produtos para higiene bucal e dental 3 5 8
+Produtos desodorantes e/ou antitranspirantes 3 5 8
+Produtos de barbear com ou sem espuma 3 5 8
+Produtos para o pós barbear 3 5 8
+Produtos para os lábios 3 5 8
+Produtos para a área dos olhos 3 5 8
+Produtos antissolares 3 5 8
+Produtos para bronzear 3 5 8
+Produtos para tingimento de cabelos 3 5 8
+Produtos para clarear os cabelos 3 5 8
+Produtos para clarear os pelos do corpo 3 5 8
+Produtos para ondular os cabelos 3 5 8
+Produtos para alisar os cabelos 3 5 8
+Neutralizantes capilares 3 5 8
+Produtos para modelar e assentar os cabelos 3 5 8
+Produtos correlatos de higiene 3 5 8
+Pós-corporais 3 5 8
+Cremes de beleza 3 5 8
+Máscaras faciais 3 5 8
+Óleos 3 5 8
+Produtos para cuidados dos cabelos e couro cabeludo 3 5 8
+Depilatórios 3 5 8
+Produtos para unhas e cutículas 3 5 8
+Repelentes 3 5 8
+(*) O total acima se refere à quantidade de amostras por invólucro
+ANEXO 6: QUANTIDADE MÍNIMA DE AMOSTRAS DE SANEANTES DOMISSANITÁRIOS
+PARA ANÁLISE FISCAL (coletar em triplicata)
+PRODUTO APRESENTAÇÃO FÍSICO-QUÍMICO MICROBIOLÓGICO TOTAL( * )
+CERAS Líquida 500 mL - 500 mL
+Sólida 500 g - 500 g
+Líquida 1.000 mL 3.000 mL 4.000 mL
+DESINFETANTES DE Aerossol 1.000 mL 2.500 mL 3.500 mL
+Sólida 1.000 g 500 g 1.500 g
+SANEANTE Líquida 1.000 mL 4.000 mL 5.000 mL
+HOSPITALAR – para Sólida 1.000 g 500 g 1.500 g
+SANEANTE Líquida 1.000 mL 4.000 mL 5.000 mL
+HOSPITALAR – para Aerossol 1.000 mL 2.000 mL 3.000 mL
+Sólida 1.000 g 500 g 1.500 g
+Líquida 1.000 mL 2.500 mL 3.500 mL
+SANEANTE – para Aerossol 1.000 mL 2.000 mL 3.000 mL
+Sólida 1.000 g 500 g 1.500 g
+SANEANTE – para Líquida 1.000 mL 2.500 mL 3.500 mL
+SANEANTE – para Líquida 1.000 mL 1.000 mL 2.000 mL
+piscinas Sólida 1.000 g 500 g 1.500 g
+Líquida 1.000 mL 500 mL 1.500 mL
+DESODORIZANTE Aerossol 1.000 mL 500 mL 1.500 mL
+Sólida 500 g 200 g 700 g
+DETERGENTE e Líquida 1.000 mL 500 mL 1.500 mL
+congêneres – com Sólida 1.000 g 500 g 1.500 g
+DETERGENTE em pó –
+doméstico e Sólida 1.000 g 500 g 1.500 g
+DETERGENTE líquido –
+doméstico e Líquida 1.000 mL 500 mL 1.500 mL
+ESTERILIZANTE Líquida 1.000 mL 4.000 mL 5.000 mL
+SABÃO/SAPONÁCEO Líquida 1.000 mL - 1.000 mL
+Sólida 1.000 g - 1.000 g
+( * ) o total acima se refere à quantidade de amostras por invólucro.
+ANEXO 7: QUANTIDADE MÍNIMA DE AMOSTRAS DE MEDICAMENTOS PARA ANÁLISE
+FISCAL (coletar em triplicata)
+Referência: Farmacopeia Brasileira
+Legendas: FQ – Físico –Química; MB – Microbiológica.
+Obs: A quantidade expressa na tabela é referente à quantidade mínima necessária para a realização das
+análises (em cada envelope).
+( * ) O total acima se refere a quantidade de amostras por invólucro
+ANEXO 8: FORMULÁRIO DE REGISTRO DE OCORRÊNCIAS
+TÍTULO: FORMULÁRIO DE REGISTRO DE OCORRÊNCIAS NO NÚMERO:
+RECEBIMENTO DE AMOSTRAS DE ÁGUA E PRODUTOS FOR.410.001
+Data: Hora:
+GAL Nº:
+HARPYA Nº: TC Nº:
+Produto:
+Solicitante:
+TC: AMOSTRA:
+( ) Incompleto ( ) Amostra violada
+( ) Incorreto ( ) Acondicionamento inadequado
+( ) Ilegível ( ) Identificação incorreta
+( ) Quantidade/Volume insuficientes
+( ) Tempo de coleta excedido
+( ) Horário estipulado pelo LACEN ultrapassado
+( ) Prazo de validade vencido
+( ) Lotes diferentes
+( ) Outros motivos:
+______________________________________
+Responsável pela Responsável pela devolução da amostra:
+Laboratório:
+Assinatura: Data:

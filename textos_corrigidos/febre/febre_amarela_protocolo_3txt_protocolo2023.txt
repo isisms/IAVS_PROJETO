@@ -1,0 +1,1213 @@
+APRESENTAÇÃO 4
+1 INTRODUÇÃO 6
+2 OBJETIVOS 9
+3 COMPETÊNCIAS E ATRIBUIÇÕES NO NÍVEL FEDERAL 10
+4 GESTÃO DO RISCO: EMERGÊNCIAS EM SAÚDE PÚBLICA POR
+FEBRE AMARELA 13
+4.1 AÇÕES DE PREPARAÇÃO PARA O PERÍODO SAZONAL 16
+4.2 AVALIAÇÃO DE RISCO 20
+4.2.1 MODELO DE ÁREAS AFETADAS E AMPLIADAS 22
+4.2.2 MODELO DE CORREDORES ECOLÓGICOS 23
+5 CENÁRIOS DE RISCO E NÍVEIS DE ATIVAÇÃO E ORGANIZAÇÃO
+DA RESPOSTA 24
+5.1 NÍVEL 1 - DETECÇÃO E CONTROLE DE FOCO 25
+5.1.1 AÇÕES DE RESPOSTA 26
+5.2 NÍVEL 2 - SURTO REGIONAL E/OU FOCO COM RISCO DE
+DISPERSÃO NACIONAL/INTERNACIONAL 30
+5.2.1 AÇÕES DE RESPOSTA 31
+5.3 NÍVEL 3 - SURTO EM ÁREA DE ELEVADA VULNERABILIDADE
+E/OU COM GRANDE IMPACTO À SAÚDE PÚBLICA 37
+5.3.1 AÇÕES DE RESPOSTA 38
+6 ATIVAÇÃO DO CENTRO DE OPERAÇÕES DE EMERGÊNCIAS - COE 44
+REFERÊNCIAS 45
+A febre amarela (FA) é uma doença febril aguda causada por um arbovírus que se mantém na
+natureza por meio da transmissão entre mosquitos silvestres (vetores), principalmente dos
+gêneros Haemagogus e Sabethes, e primatas não humanos (PNH) [macacos], sobretudo no
+bioma amazônico, que compõe a região endêmica no Brasil. Atualmente, a FA é considerada uma
+zoonose silvestre, portanto de impossível eliminação. Nos últimos anos, após a reemergência
+extra-amazônica iniciada a partir de 2014 (BRASIL, 2015), surtos foram registrados nas Regiões
+Centro-Oeste, Nordeste, Sudeste e Sul do País. O vírus atingiu o bioma Mata Atlântica, onde
+causou o maior impacto à saúde pública na história da FA silvestre no Brasil, com milhares de
+casos e centenas de óbitos. Também foi elevado o impacto à biodiversidade de primatas, com
+registro de mais de 20 mil epizootias em PNH envolvendo milhares de animais mortos, incluindo
+espécies ameaçadas de extinção, de ocorrência restrita à Mata Atlântica (BRASIL, 2019a).
+A FA se mantém como importante ameaça à saúde pública, dado o elevado potencial epidêmico,
+principalmente em áreas com populações não vacinadas, densamente povoadas e infestadas
+por Aedes aegypti. Entretanto, a FA é uma doença imunoprevenível, cuja vacinação, atualmente,
+é recomendada à maior parte da população brasileira e em todo o território nacional. Ainda
+assim, historicamente são registrados surtos recorrentes, com extensão e magnitude variáveis
+e alta letalidade para as formas grave e maligna.
+Esses aspectos - associados à expansão da área de circulação viral nas últimas décadas, à
+infestação por Ae. aegypti e Ae. albopictus nos municípios brasileiros, e às baixas coberturas
+vacinais contra a FA em algumas regiões - impõem enorme desafio aos gestores de saúde pública
+para manter elevada sensibilidade das vigilâncias epidemiológica e ambiental, em especial a de
+epizootias em PNH, e desenvolver modelos de previsão e alerta de risco, aprimorando métodos
+para predição de emergências por FA, para o que a inclusão de novas tecnologias de captação
+de dados, como o Sistema de Informação em Saúde Silvestre (SISS-Geo), e de análise de risco
+(modelagem de dados; Grupo de Modelagem de Febre Amarela - Grumfa) (BRASIL, 2019b) são
+essenciais para aprimorar as estratégias de vigilância e resposta.
+caracterizam sua relevância epidemiológica no Brasil, e justificam a demanda por protocolos
+Contingência para direcionamento e integração das ações de vigilância, prevenção e controle
+entre os diferentes entes da Federação.
+4 Secretaria de Vigilância em Saúde | Ministério da Saúde
+As ações e estratégias de contenção contemplam atividades de vigilância (epidemiológica,
+de epizootias em primatas não humanos, entomológica e ambiental) (BRASIL, 2017a; BRASIL,
+2019c), imunização (BRASIL, 2014; BRASIL, 2020a), diagnóstico laboratorial, assistência à saúde
+(BRASIL, 2020b) e comunicação, as quais devem ser planejadas, gerenciadas e executadas de
+maneira integrada e coordenada. A resposta aos surtos por FA envolve diversos setores e atores,
+responsáveis pelo desenvolvimento e pela gestão de ações sistêmicas, intra e intersetorialmente
+articuladas, essenciais para a adequada redução do risco e controle de emergências.
+O Plano de Contingência para Resposta às Emergências em Saúde Pública: febre amarela
+(2ª edição) incorpora experiências e aprendizados históricos, bem como aqueles recentemente
+vividos durante a reemergência extra-amazônica entre 2014-2021, quando foram registrados
+os maiores surtos de FA silvestre da história do Brasil. Assim, constitui material de referência
+Pública (ESP) por FA, a serem adotadas em todos os níveis de gestão do Sistema Único de
+Saúde (SUS) (municipal, estadual e federal), com vistas à redução do risco de transmissão e da
+morbimortalidade pela doença no País.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 5
+Nas duas últimas décadas, recorrentes surtos de FA silvestre foram registrados além dos limites
+da área considerada endêmica no Brasil (grosso modo, região amazônica) (COSTA et al., 2011;
+ROMANO et al., 2014; BRASIL, 2019a). Casos humanos e epizootias em primatas não humanos
+(PNH), ocorridos na região extra-amazônica, representaram em torno de 95% dos registros
+de FA no período (Gráfico 1). A área de circulação viral expandiu nos sentidos leste e sul do
+País, atingindo áreas antes classificadas como indenes, onde o vírus não era registrado há
+décadas. Consequentemente, a Área Com Recomendação de Vacinação (ACRV) foi ampliada no
+País, passando de 1.300 municípios e 31,3 milhões de residentes (19,3% da população brasileira),
+em 1998, para todo o território brasileiro em 2020, com população estimada de 211,5 milhões
+de habitantes (BRASIL, 2021).
+Gráfico 1 • DISTRIBUIçãO DOS CASOS HUMANOS DE FEBRE AMARELA REGISTRADOS NO BRASIL,
+seGundo A reGião do loCAl Provável de inFeCção (lPi), AmAzôniCA ou extrA-AmAzôniCA,
+ENTRE OS PERíODOS DE MONITORAMENTO 1998/1999 E 2019/2020
+10000
+1000
+1998/1999/2000/2001/2002/2003/2004/2005/2006/2007/2008/2009/2010/2011/2012/2013/2014/2015/2016/2017/2018/2019/
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Amazônica 45 20 5 11 6 6 3 3 3 7 1 2 2 2 2 1 2 11 5 2
+Extra-Amazônica 6 95 33 1 64 2 42 49 2 6 5 767 1376 91 17
+Fonte: Coordenação-Geral de Vigilância das Arboviroses (Cgarb)/Departamento de Imunização e Doenças Transmissíveis (Deidt)/
+O padrão temporal de ocorrência da doença é sazonal, com a maior parte dos casos incidindo
+entre dezembro e maio, e com surtos que ocorrem com periodicidade irregular, quando o vírus
+encontra condições favoráveis para a transmissão (elevadas temperatura e pluviosidade; alta
+densidade de vetores e hospedeiros primários; presença de indivíduos suscetíveis; baixas
+coberturas vacinais; eventualmente, novas linhagens do vírus). O padrão de dispersão do vírus
+6 Secretaria de Vigilância em Saúde | Ministério da Saúde
+historicamente observado no Brasil é espaço-temporal, relacionado à circulação silvestre, na
+qual os PnH atuam como hospedeiros amplificadores, e mosquitos silvestres (Haemagogus
+e Sabethes) atuam como vetores reservatórios e dispersores do vírus na natureza.
+Nesse contexto, o homem desempenha papel pouco importante (ou nulo) como fonte de infecção
+para os mosquitos, apresentando-se como hospedeiro acidental. O ciclo urbano de transmissão
+do vírus, em que o homem é o hospedeiro principal e a fonte de infecção para o vetor urbano
+(Aedes aegypti), não é registrado no País desde 1942.
+A partir de 2014, uma reemergência sem precedentes na história da FA silvestre no Brasil
+afetou, até junho de 2020, 18 estados de todas as regiões (Figura 1), resultando em 2.283 casos
+humanos e 779 óbitos (letalidade de 34,1%), além de 1.810 epizootias em primatas não humanos
+confirmadas laboratorialmente, com pelo menos 2.216 animais mortos. os casos registrados
+nessa reemergência representam 84,7% dos casos da série histórica apresentada (Gráfico 1),
+e superam o número de casos confirmados desde a descrição do ciclo silvestre, em 1932, até
+2013 (BRASIL, 2019a).
+Figura 1 • DISTRIBUIçãO DOS MUNICíPIOS COM CASOS HUMANOS E/OU EPIZOOTIAS EM PNH
+ConFirmAdos durAnte reemerGênCiA extrA-AmAzôniCA dA FeBre AmArelA, Por Período de
+monitorAmento (julHo A junHo), 2014/2015 A 2019/2020, BrAsil
+Fonte: Coordenação-Geral de Vigilância das Arboviroses (Cgarb)/Departamento de Imunização e Doenças Transmissíveis (Deidt)/
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 7
+este Plano de Contingência define ações de vigilância (epidemiológica, de epizootias em primatas
+não humanos, entomológica e ambiental), imunização, diagnóstico laboratorial, assistência à
+saúde e comunicação a serem intensificadas na ocasião da ocorrência de epizootias, surtos e
+epidemias por FA, de modo a orientar a atuação coordenada dos setores envolvidos e estabelecer
+do Programa de Vigilância, Prevenção e Controle da Febre Amarela no Brasil, relacionados à
+resposta oportuna em eventos de relevância epidemiológica, principalmente para a manutenção
+da eliminação do ciclo urbano de transmissão (por Ae. aegypti), por meio da detecção precoce
+da circulação viral, da avaliação e da predição do risco e da resposta coordenada.
+8 Secretaria de Vigilância em Saúde | Ministério da Saúde
+O Plano de Contingência para Resposta às Emergências em Saúde Pública: febre amarela
+(2ª edição) define, em âmbito nacional, as ações de vigilância e resposta a serem adotadas por
+todos os entes que compõem o SUS e o Sistema Nacional de Vigilância Epidemiológica (SNVE),
+cujas atribuições se coadunam com o conjunto de políticas e estratégias de vigilância, prevenção
+e controle da FA em todas as esferas de gestão do SUS.
+À medida que a FA transcende os limites político-administrativos, incluindo fronteiras, este
+Plano orienta o planejamento e a execução de ações integradas, articuladas e coordenadas
+intra e intersetorialmente, considerando as políticas e normativas vigentes, as estratégias
+recomendadas e os compromissos internacionais. Nesse sentido, deve ser base para a
+elaboração de planos regionalizados de resposta, que levem em conta as especificidades
+do contexto epidemiológico e dos arranjos ambiental e sociodemográfico, incorporando
+experiências e iniciativas locais/regionais.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 9
+o regulamento sanitário internacional - rsi, 2005 - (AnvisA, 2009) define as diretrizes para
+prevenir, proteger, controlar e realizar ações de saúde pública contra a propagação internacional
+de doenças. Trata-se de instrumento jurídico internacional vinculativo e atribui, ao Ministério
+da saúde, entre outros, o papel de aplicar o instrumento/algoritmo de decisão e de notificar
+a Organização Mundial da Saúde (OMS) sobre todos os eventos em seu território que possam
+se constituir numa Emergência em Saúde Pública de Importância Internacional (Espii), bem
+como sobre qualquer medida de saúde implementada em resposta a tal evento, no prazo de
+24 horas. Nesse contexto, a atuação coordenada entre os entes federal, estaduais e municipais é
+internacionais dos quais o Brasil é signatário.
+A Portaria n.º 2.952 GM/MS, de 14 de dezembro de 2011 (BRASIL, 2011), regulamenta o
+Decreto n.º 7.616, de 17 de novembro de 2011, que dispõe sobre a declaração de Emergência
+em Saúde Pública de Importância Nacional (Espin) e institui a Força Nacional do Sistema Único
+de Saúde (FN-SUS). Conforme o art. 3º, a Espin será declarada em virtude da ocorrência de
+situações epidemiológicas, de desastres ou de desassistência à população. Consideram-se
+nacional, sejam produzidos por agentes infecciosos inesperados, representem a reintrodução
+de doença erradicada, apresentem gravidade elevada ou extrapolem a capacidade de resposta
+da direção estadual do SUS.
+A Portaria de Consolidação n.º 4 GM/MS, de 28 de setembro de 2017 (BRASIL, 2017b), que consolida
+as normas sobre os sistemas e os subsistemas do Sistema Único de Saúde, estabelece, no Anexo 5,
+o sistema nacional de vigilância epidemiológica, e define a compulsoriedade da notificação
+de gestão do SUS até 24 horas após a suspeita inicial. Estabelece, ainda, as competências da
+a coordenação nacional das ações de Vigilância em Saúde, com ênfase naquelas que exigem
+simultaneidade nacional ou regional;
+o apoio e a cooperação técnica junto aos estados, ao Distrito Federal e aos municípios para
+o fortalecimento da gestão;
+10 Secretaria de Vigilância em Saúde | Ministério da Saúde
+a coordenação dos sistemas nacionais de informação de interesse da vigilância em saúde,
+incluindo o estabelecimento de diretrizes, fluxos e prazos, a partir de negociação tripartite,
+para o envio dos dados para o nível nacional;
+a coordenação da preparação e resposta das ações de vigilância em saúde, nas emergências
+de saúde pública de importância nacional e internacional, bem como a cooperação com
+estados, Distrito Federal e municípios em emergências de saúde pública;
+a promoção e a implementação do desenvolvimento de estudos, pesquisas e transferência de
+tecnologias que contribuam para o aperfeiçoamento das ações e incorporação de inovações;
+a promoção e o fomento à participação social;
+a promoção da cooperação e do intercâmbio técnico-científico com organismos
+governamentais e não governamentais, de âmbito nacional e internacional;
+a gestão dos estoques nacionais de insumos estratégicos, inclusive o monitoramento e a
+distribuição aos estados e ao Distrito Federal, de acordo com as normas vigentes.
+A Política Nacional de Vigilância em Saúde (PNVS), estabelecida pela Resolução n.º 588, de 12 de
+junho de 2018, do Conselho nacional de saúde (BrAsil, 2018), define como responsabilidade da
+União e competência do Ministério da Saúde as ações de vigilância em saúde, nas emergências
+em saúde pública de importância nacional e internacional, em consonância com o Regulamento
+Sanitário Internacional, bem como a cooperação com estados, Distrito Federal e municípios em
+situações de emergência em saúde pública.
+Na esfera federal do SUS, a coordenação-Geral de Vigilância das Arboviroses (cgarb), do
+do Ministério da Saúde (Deidt/SVS/MS), é responsável pelas políticas de vigilância da FA, as
+quais envolvem o monitoramento de casos humanos, de epizootias em primatas não humanos
+e de populações de mosquitos; a definição de estratégias de vigilância, prevenção e controle
+da doença e de contenção de surtos; além de sua interface com componentes de imunização,
+laboratório, assistência e comunicação.
+A coordenação-Geral do Programa Nacional de imunizações (cGPNi), deidt/svs/ms, define e
+organiza o Calendário Nacional de Vacinação, o Calendário Nacional de Vacinação dos Povos
+Indígenas e as Campanhas Nacionais de Vacinação, com o objetivo de controlar, eliminar
+e/ou erradicar doenças imunopreveníveis. Ainda, é responsável pela normatização técnica, pela
+aquisição e distribuição de imunobiológicos às Secretarias de Saúde dos estados, do Distrito
+Federal e dos municípios, e pela vigilância dos eventos adversos pós-vacinação (EAPV).
+A coordenação-Geral de Laboratórios de Saúde Pública (cglab), vinculada ao Departamento de
+da Saúde (Daevs/SVS/MS), é responsável por coordenar a Rede Nacional de Laboratórios de
+Saúde Pública (RNLSP), formada pelos Laboratórios Centrais de Saúde Pública (Lacen) e sua
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 11
+respectiva Rede Descentralizada, localizados nos 26 estados e no Distrito Federal, além de contar
+com unidade sob gestão federal do Instituto Evandro Chagas (IEC). A Cglab é responsável pela
+estruturação e organização de rede de Laboratórios de Referência (LR) nacional e regional,
+pela aquisição e distribuição de insumos laboratoriais estratégicos para os Lacen e LR, pela
+padronização e controle de qualidade dos métodos diagnósticos, além da definição dos fluxos
+de amostras e de informações na RNLSP.
+A Secretaria de Atenção Primária à Saúde (Saps) é responsável pela principal porta de entrada
+no Sistema Único de Saúde, coordenando o cuidado e ordenando as ações e os serviços
+disponibilizados na rede. Além disso, suas ações devem abranger promoção, prevenção, proteção,
+diagnóstico, tratamento, reabilitação, redução de danos e vigilância em saúde com olhar voltado
+à população em território definido, sobre a qual as equipes assumem responsabilidade sanitária.
+As equipes de Atenção Primária (AP) devem atuar com base nos fluxos e protocolos assistenciais,
+de forma articulada com os demais pontos da rede de Atenção à saúde (rAs), a fim de qualificar
+e assegurar, sempre que necessário, encaminhamentos seguros e em tempo oportuno. A atuação
+dos agentes comunitários de saúde (ACS) e dos agentes de combate às endemias (ACE) é de
+suma importância, e ambos devem atuar de forma integrada e complementar nos domicílios
+e nos demais espaços da comunidade, fortalecendo o vínculo e a comunicação da população
+com os serviços de Atenção Primária, realizando as ações de vigilância e busca ativa de casos
+com base no perfil epidemiológico do território.
+A Secretaria de Atenção Especializada à Saúde (Saes) do Ministério da Saúde é responsável
+sus à população, além de identificar os serviços de referência para o estabelecimento de
+padrões técnicos no atendimento de urgência e emergência, atenção hospitalar e domiciliar
+e segurança do paciente. São, ainda, atribuições da Saes: a implementação da política de
+regulação assistencial do sus; a certificação das entidades beneficentes que prestam serviços
+complementares à rede de saúde pública, bem como o apoio ao desenvolvimento de mecanismos
+de governo; além das políticas de sangue e hemoderivados e da pessoa com deficiência.
+O Núcleo de eventos, cerimonial, agenda, comunicação e multimídia (Necom) da SVS e a
+Assessoria de comunicação (Ascom) do MS são responsáveis pela elaboração de campanhas
+publicitárias, pela divulgação de boletins epidemiológicos, peças publicitárias e materiais
+educativos veiculados nas redes de comunicação do MS e de parceiros, direcionadas à população
+em geral e a públicos e regiões prioritários. Além disso, monitora o fluxo de informações nas
+redes sociais e na mídia, a fim de esclarecer rumores, boatos e informações equivocadas.
+12 Secretaria de Vigilância em Saúde | Ministério da Saúde
+GESTÃO DO RISCO: EMERGÊNCIAS EM SAÚDE
+No contexto dos surtos de FA, as Emergências em Saúde Pública (ESP) são caracterizadas
+por eventos que apresentam gravidade elevada, risco de disseminação regional, nacional ou
+internacional, e/ou que extrapolam a capacidade de resposta do nível de gestão municipal
+ou estadual.
+Na gestão do risco de ESP por FA, a vacina é a principal ferramenta de prevenção à doença e de
+contenção de surtos, além de reduzir o risco de reurbanização da transmissão (por Ae. aegypti).
+A vacina é constituída por vírus vivo atenuado da cepa 17dd e apresenta elevada eficácia, com
+imunogenicidade superior a 95%, e longa duração. A produção de anticorpos atinge níveis
+protetivos entre o sétimo e o décimo dias após a primovacinação. A ocorrência de eventos
+adversos graves (EAG) é rara (cerca de 1 caso por 250 mil doses aplicadas), sendo considerada
+uma vacina segura. Ampliar as coberturas vacinais, principalmente nas populações expostas
+às condições e situações de maior risco, é elemento fundamental para a prevenção de surtos
+e óbitos pela doença (BRASIL, 2014; BRASIL, 2020a).
+No Brasil, a FA se apresenta como zoonose silvestre, portanto de impossível eliminação. O vírus
+se mantém na natureza entre populações de mosquitos silvestres e, possivelmente, de primatas
+não humanos, e pode infectar acidentalmente o homem, quando se expõe em ambientes onde
+o vírus ocorre, não imunizado. Nesse cenário, a detecção precoce da circulação viral, por meio
+das vigilâncias de epizootias em PNH e entomológica, constitui estratégia fundamental para o
+alerta de risco local, possibilita a aplicação de métodos de avaliação de risco, como os modelos
+de áreas afetadas e ampliadas e de corredores ecológicos, e o direcionamento de medidas
+preventivas às populações sob maior risco, visando evitar a ocorrência de casos, surtos e óbitos.
+Ainda, o monitoramento da doença em PNH permite dimensionar a magnitude da área afetada,
+conhecer as características epidemiológicas da transmissão, além de conferir maior acurácia
+aos modelos de risco e de predição de emergências (BRASIL, 2017a).
+A FA silvestre é endêmica na região amazônica, onde casos esporádicos são registrados anualmente,
+ocorre. Nessa região, em função do longo período de recomendação da vacinação e das elevadas
+coberturas vacinais, o registro de surtos de maior impacto à saúde pública é menos frequente,
+(não imunizados) na área endêmica possam promover condições favoráveis à ocorrência de eventos
+de relevância epidemiológica e, assim, expõem os esforços e desafios que os serviços de saúde
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 13
+cobertura vacinal nessas populações. Adicionalmente, em cenários com circulação ativa do vírus
+e com recomendação de vacinação seletiva de controle, devem ser monitorados os indicadores
+(i) de cobertura vacinal; (ii) de suspeitas de eventos adversos pós-vacinais (EAPV) graves; e (iii)
+de taxa de recusa em tomar a vacina, uma vez que têm sido registrados casos e óbitos devido à
+baixa credibilidade de parte da população na segurança e na qualidade da vacina (BRASIL, 2020c).
+Nas duas últimas décadas, questões relevantes envolvendo o componente entomológico
+emergiram, cujas implicações tornam clara a importância de fortalecer e intensificar as ações em
+torno desse eixo de atuação. mudanças no perfil epidemiológico da doença podem ser atribuídas,
+ao menos em parte, a diferenças nos hábitos das espécies envolvidas na transmissão. Nesse
+sentido, a dinâmica de transmissão seria modificada em função do vetor primário envolvido, ou
+pela participação de vetores secundários. Ainda, processos adaptativos do vírus a novas espécies
+de mosquitos constituem importantes ameaças, de modo que a identificação de possíveis vetores
+definição de novas estratégias de vigilância e para a avaliação e predição do risco.
+A reemergência do vírus na região extra-amazônica entre 2014 e 2021, com surtos explosivos
+em regiões metropolitanas de diversas capitais, trouxe à tona a preocupação com o risco de
+reurbanização da transmissão. A sobreposição de populações de mosquitos, primatas e humanos
+que o homem atue como hospedeiro principal. Embora não existam evidências de que isso tenha
+ocorrido nas últimas décadas, os eventos recentes promoveram as melhores condições para a
+adaptação do vírus a esse ciclo, de modo que a dinâmica de transmissão deve ser monitorada
+e mais bem compreendida. Nesse contexto, os serviços de vigilância em saúde têm papel
+fundamental, seja investigando oportuna e profundamente os eventos suspeitos, seja realizando
+pesquisas que busquem respostas às principais lacunas do conhecimento que ainda persistem.
+imunizados em áreas naturais, onde o vírus ocorre em seu ciclo natural (silvestre). A despeito
+da disponibilidade de vacina, alcançar coberturas vacinais (CVs) adequadas tem se mostrado
+um desafio ao longo dos anos. Contudo, ainda que as Cvs alcancem a meta estabelecida pelo
+Programa Nacional de Imunizações (PNI), convém reconhecer que, no contexto da FA silvestre,
+os mosquitos, a vacinação não confere imunidade de grupo, de modo que um indivíduo que
+reste não vacinado em uma área de risco pode adoecer e, eventualmente, morrer. Além disso,
+silvestre (zoonótica), de modo que é essencial monitorar a ocorrência da doença em PNH para
+alimentar os modelos de avaliação de risco e predição de emergências, para estimar as rotas
+favoráveis à dispersão, assim como as áreas prioritárias para intensificação das medidas de
+prevenção e controle, com ênfase na vacinação preventiva (BRASIL, 2019b).
+14 Secretaria de Vigilância em Saúde | Ministério da Saúde
+Paralelamente, a manutenção de estoque de vacina é elemento essencial para a contenção de
+surtos por FA. O consumo rápido dos estoques disponíveis na ocasião de surtos pela doença foi
+um fator que revelou ameaças e pontos de vulnerabilidade no passado recente, com potenciais
+implicações no controle da doença e, consequentemente, na magnitude da transmissão. A partir
+do período de monitoramento 2019/2020, a ACRV foi ampliada para todo o País. Contudo as áreas
+recentemente incluídas na ACRV ainda estão vulneráveis a eventos de maior magnitude, uma
+vez que não houve tempo hábil para que ampliassem as CVs até o nível preconizado (>95%).
+Nessas áreas, a vacinação de um elevado contingente populacional na ocasião de surtos pode
+consumir rapidamente os estoques disponíveis. Ainda, pode trazer impactos negativos aos
+estoques de sangue dos hemocentros, já que indivíduos recém-vacinados estão impedidos de
+fazer a doação por 30 dias (BRASIL, 2017c). Assim, a ampliação das CVs fora dos períodos de
+surto é a principal estratégia a ser adotada.
+flavivírus, especialmente os vírus da dengue, é essencial que os profissionais de saúde estejam
+cientes das limitações e dos desafios envolvidos na conclusão dos eventos suspeitos. nesse
+sentido, os profissionais da assistência devem incorporar elementos epidemiológicos à anamnese
+do paciente, relacionados principalmente ao estado vacinal e à exposição em áreas ou situações
+de risco, para a definição da suspeita. Além disso, a interpretação de exames laboratoriais deve
+levar em consideração as limitações inerentes a cada método, com possibilidade de reações
+cruzadas ou inespecíficas nas sorologias, e a eventual necessidade de tipificação viral nos
+exames biomoleculares. Assim, a classificação dos casos deve ser pautada por critérios clínicos,
+epidemiológicos e laboratoriais, de modo que a inconsistência entre esses elementos deve ser
+avaliada cuidadosamente, pois pode revelar falhas na investigação ou mesmo afastar a hipótese
+de FA. especial atenção deve ser dispensada à primeira confirmação da presença do vírus no
+território, cujas evidências devem preferencialmente estar suportadas por provas laboratoriais
+diretas (isolamento viral, biologia molecular) e por contexto epidemiológico coerente. A despeito
+disso, as ações de resposta não dependem necessariamente da confirmação, e podem ser
+intensificadas a partir de um acumulado de eventos suspeitos ou de um evento sugestivo de FA.
+embora não exista tratamento específico para a doença, o preparo da rede de assistência é
+determinante para a recuperação dos casos graves e para a redução dos óbitos. Entre as ações
+prioritárias no planejamento e na organização da oferta de assistência aos pacientes com FA,
+adequado, as unidades de referência definidas conforme os níveis de complexidade dos casos, o
+preparo da regulação e a capacitação dos profissionais das unidades de saúde (BrAsil, 2020b).
+Ademais, é essencial reconhecer a importância das ações de comunicação durante surtos, seja para
+orientar a população em geral sobre a doença e a vacinação, seja para orientar os profissionais de
+saúde sobre os protocolos e diretrizes estabelecidos. Ações de mobilização da população devem ser
+direcionadas para as áreas de risco, acompanhando o contexto e a dinâmica de transmissão. Nos sur-
+tos recentes, a avaliação do risco de transmissão e a predição das áreas de risco e rotas de dispersão
+foram elementos importantes para a orientação das ações de vigilância, imunização e comunicação.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 15
+4.1 AÇÕES DE PREPARAÇÃO PARA O PERÍODO SAZONAL
+À medida que a FA apresenta marcada sazonalidade no País, relacionada às condições ambientais
+situações de risco, o Sistema Nacional de Vigilância Epidemiológica estabelece três períodos
+epidemiológicos distintos (ROMANO et al., 2011), definidos a partir da análise da série histórica de
+casos humanos no País, sobretudo para efeito de priorização das ações de vigilância e resposta:
+Período de baixa ocorrência (junho a setembro): atualização e capacitação dos profissionais de
+saúde para aprimoramento da vigilância (epidemiológica, ambiental, entomológica, laboratórios
+de saúde pública), prevenção (imunização), assistência e controle (controle vetorial urbano, Aedes
+aegypti); análise da situação epidemiológica com a finalidade de avaliar, planejar, adequar e
+preparar o sistema de vigilância para o próximo período sazonal de transmissão.
+Período pré-sazonal (outubro a novembro): preparação para o período sazonal. Sensibilização
+dos entes e atores do SUS envolvidos, com articulação e integração das redes de vigilância,
+assistência, laboratórios de saúde pública, imunização, controle vetorial e comunicação
+em saúde.
+Período sazonal (dezembro a maio): atualização dos serviços de saúde sobre a situação
+epidemiológica da FA e os protocolos de vigilância/investigação, assistência, diagnóstico
+laboratorial e imunização. Mobilização local/regional para favorecer a rápida articulação entre
+os serviços de referência.
+sazonalidade da doença, com início em julho (durante o período de baixa ocorrência)
+e encerramento em junho do ano seguinte (e.g., 2019/2020). De maneira prática, inclui o
+segundo semestre de um ano e o primeiro semestre do ano consecutivo. Desse modo, evita-se
+que os dados sejam truncados durante o período sazonal (dezembro a maio), já que os
+de tra nsmissão e devem ser observados e analisados conjuntamente.
+em todo o território nacional. Assim, deve-se alertar e mobilizar previamente as redes de
+vigilância, de atenção e assistência à saúde, de laboratórios de saúde pública, assim como
+instituições parceiras, no sentido de ampliar a sensibilidade para a detecção de casos humanos
+e epizootias em PNH suspeitos de FA. A detecção precoce da circulação viral pode favorecer
+a tomada de decisão e o desprendimento oportuno das ações de prevenção e controle e,
+consequentemente, a redução do impacto da transmissão.
+16 Secretaria de Vigilância em Saúde | Ministério da Saúde
+As Ações de Preparação para o Monitoramento do Período Sazonal (Quadro 1) e o Inventário de
+Recursos (Quadro 2) devem ser tratados de maneira coordenada e articulada, complementados
+(se necessário) e revisados durante o período pré-sazonal, que antecede o início do período
+sazonal da doença. Caberá às áreas e aos setores envolvidos a organização e a condução dos
+elementos de discussão dispostos a seguir, em reunião técnica de periodicidade anual a ser
+realizada durante o período pré-sazonal (outubro a novembro). As ações recomendadas referem-se
+à avaliação, capacitação, sensibilização e alerta da rede de saúde para atuação nas ações de rotina
+e de emergência, no sentido de ampliar a capacidade de resposta do SNVE, ajustada à dinâmica
+espaço-temporal de ocorrência da doença. Assim, deverão ser incluídos nessa mobilização os
+entes estaduais que tiverem registro de circulação do vírus no período de monitoramento corrente,
+assim como aqueles que, a partir da avaliação de risco, tiverem previsão de serem afetados.
+QuADro 1 • AçõES DE PREPARAçãO PARA O MONITORAMENTO DO PERíODO SAZONAL DA FEBRE
+AMARELA NO BRASIL, A SEREM REALIZADAS PELOS ENTES FEDERAL, ESTADUAIS E MUNICIPAIS
+(identificar pontos positivos (fortalezas) e
+negativos (fragilidades), e definir prioridades
+qualidade da informação).
+FA (identificar pontos positivos (fortalezas) e
+negativos (fragilidades), e definir prioridades
+para a ampliação das coberturas vacinais,
+gerenciamento oportuno da rede de frio). Período de baixa ocorrência
+Analisar criticamente a estrutura da rede (junho a setembro).
+sazonal de monitoramento da FA (identificar
+pontos positivos (fortalezas) e negativos
+(fragilidades), e definir prioridades para o
+protocolo de manejo clínico).
+geradas/executadas durante o último período
+Avaliar e aprimorar a sazonal de monitoramento da FA (identificar
+Rede de Laboratórios pontos positivos (fortalezas) e negativos
+de Saúde Pública (fragilidades), e definir prioridades para a
+diagnóstico e da qualidade da informação).
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 17
+(vigilância, imunização, assistência,
+diagnóstico laboratorial, controle vetorial,
+comunicação) e intersetorial (instituições
+acadêmicas, de meio ambiente, entre outras)
+Intra e Intersetorial na (junho a setembro).
+FA (identificar pontos positivos (fortalezas) e
+negativos (fragilidades), e definir prioridades
+sistema de saúde e dos fluxos de informação).
+Avaliar e ampliar as coberturas vacinais,
+Avaliar e ampliar as de exposição (atividades e situações de risco),
+homogeneidade e os eventos adversos graves,
+de acordo com as recomendações da SVS/MS.
+Avaliar a necessidade, planejar e executar
+para a vigilância e resposta a surtos por FA,
+(vacina; insumos laboratoriais; veículos, Períodos de baixa
+equipamentos, materiais e equipamento de ocorrência e pré-sazonal
+proteção individual (EPI) para investigações (junho a novembro).
+de campo), e das estruturas logísticas
+relacionadas (almoxarifado, rede de frio,
+contrato para o transporte e a distribuição).
+Capacitar/atualizar os profissionais de
+vigilância em saúde (epidemiológica,
+ambiental, de epizootias e entomológica),
+de imunização, de laboratórios de saúde
+pública, de atenção e assistência à saúde, de
+relacionados à FA.
+Informar, por meio de campanha publicitária
+de veiculação nacional, nas diversas mídias
+e canais de comunicação do MS e parceiros,
+sobre a importância da vacinação, indicando
+o público-alvo a ser vacinado, atividades e
+situações de risco, principais sintomas da Período pré-sazonal
+doença, entre outras.
+(outubro a novembro).
+profissionais e articular a sazonal da doença, articulando os fluxos de
+rede de serviços de saúde informação e protocolos entre os setores, as
+instituições e os serviços envolvidos.
+18 Secretaria de Vigilância em Saúde | Ministério da Saúde
+Divulgar, por meio de informes e boletins
+epidemiológicos, os resultados das avaliações
+no período de monitoramento anterior,
+Período pré-sazonal
+e a avaliação de risco nos estados e no Brasil.
+(outubro a novembro).
+regional/nacional, com base no cenário
+monitoramento da FA, para predição das
+período sazonal.
+Fonte: Cgarb/SVS/MS.
+QuADro 2 • INVENTÁRIO DE RECURSOS PARA AS AçõES DE VIGILâNCIA E RESPOSTA DA FEBRE AMARELA
+NO BRASIL, A SEREM OBSERVADOS PELOS ENTES FEDERAL, ESTADUAIS E MUNICIPAIS
+(FN-SUS).
+especializados no planejamento, na Nacional para Investigação
+organização e na estruturação de ações de Arboviroses (Ernia).
+de eventos suspeitos (casos humanos, Equipe de referência para
+Recursos humanos epizootias em PNH, entomologia), à aplicação treinamento e incorporação
+de medidas de prevenção e controle da plataforma SISS-Geo.
+(imunização e controle vetorial urbano), ao
+diagnóstico laboratorial, ao manejo clínico de
+pacientes, à avaliação do risco de transmissão
+e à comunicação de risco.
+Amarela no Brasil (Grumfa).
+Vacinas.
+febre amarela (atenuada) para atendimento
+da demanda mensal de consumo (rotina) Seringas.
+e composição/manutenção de estoque
+Vacinadores/equipes
+estratégico (vacinas e seringas) para a
+volantes.
+Imunobiológico (vacina) intensificação vacinal e a contenção de
+Digitadores.
+surtos durante o período sazonal. Além disso,
+monitorar a adequação da Rede de Frio para Veículos.
+o armazenamento do estoque, bem como da
+para refrigeração.
+insumos às áreas com registro de emergência.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 19
+realização de investigações epidemiológicas de consumo.
+investigações de campo de FA, incluindo a colheita de amostras de
+individual (EPI).
+humanos, primatas não humanos e mosquitos
+para diagnóstico laboratorial. Veículos.
+Garantir a disponibilidade de insumos Equipamentos estratégicos.
+para a realização dos exames sorológicos,
+Insumos para diagnóstico imunohistoquímicos, biomoleculares e
+laboratorial.
+humanos, primatas não humanos e mosquitos. de amostras.
+Protocolos, guias
+Disponibilizar materiais de referência com e manuais.
+epidemiológicos.
+de surtos. Cursos de ensino a
+distância (EAD).
+Fonte: Cgarb/SVS/MS.
+4.2 AVALIAÇÃO DE RISCO
+Na vigilância epidemiológica, o processo de avaliação de risco compreende a caracterização dos
+potenciais efeitos à saúde decorrentes da exposição a agentes patogênicos ou riscos ambientais,
+seguida da comunicação do risco aos profissionais de saúde, aos gestores e ao público-alvo,
+de manejo do risco pertinentes.
+De maneira geral, o processo de avaliação do risco de FA pode ser descrito em quatro componentes:
+Avaliação da vulnerabilidade: baixas coberturas vacinais são o principal fator de risco para a
+ocorrência de acumulados de casos de FA. A existência de bolsões de suscetíveis numa área com
+circulação do vírus implica maior risco de surtos e óbitos pela doença. A baixa sensibilidade para
+snve, uma vez que a percepção da presença do vírus em humanos não oferece tempo suficiente
+para a adoção de medidas preventivas, podendo exigir, dos serviços de saúde, o máximo de
+esforço, com possibilidade de superação das capacidades de atendimento e diagnóstico. Fatores
+climáticos e ambientais também influenciam a vulnerabilidade à FA, uma vez que elevadas
+e fisiológicos associados à transmissão.
+Avaliação da receptividade: a presença de populações de mosquitos potencialmente vetores
+do vírus da FA, como os dos gêneros Haemagogus e Sabethes, é um elemento a ser ponderado
+na avaliação de risco, assim como a infestação por Ae. aegypti e Ae. albopictus em ambientes
+20 Secretaria de Vigilância em Saúde | Ministério da Saúde
+urbanos, embora não existam, no Brasil, evidências de sua participação na transmissão desde
+1942. Os meses mais quentes e chuvosos aumentam a disponibilidade de criadouros e aceleram o
+tempo de desenvolvimento das formas imaturas, aumentando a densidade vetorial. A circulação
+do vírus nas proximidades de áreas urbanas e periurbanas, onde populações de Ae. aegypti e
+de Ae. albopictus habitam, pode tornar o cenário ainda mais complicado, considerando o risco
+de reurbanização da transmissão. Assim, conhecer e monitorar as populações de mosquitos
+pode ser útil para avaliar o risco de transmissão. Adicionalmente, controlar as populações de
+Ae. aegypti pode ajudar a reduzir o risco de reurbanização.
+Identificação do risco: idealmente, a detecção da circulação do vírus deve se dar de maneira
+precoce, preferencialmente em PNH ou em potenciais vetores, antes que exista um acumulado
+de casos humanos ou óbitos por FA. A detecção do agente no ambiente implica risco imediato
+de transmissão às populações humanas expostas na localidade e adjacências, de modo que as
+ações de vigilância e imunização devem ser intensificadas, no sentido de ampliar a sensibilidade
+vacinados (por busca ativa no LPI), para avaliação da magnitude da transmissão, mapeamento
+do impacto à biodiversidade e redução do impacto à saúde pública.
+Avaliação da magnitude: a extensão da área de circulação viral, o tempo de persistência do vírus
+ser monitorados continuamente. Algumas áreas se revelam boas mantenedoras do vírus e servem
+como fonte de propagação durante um longo período de tempo, de modo que o monitoramento
+tomada de decisão. Além de subsidiar as ações de prevenção e controle, o monitoramento
+contínuo da circulação viral em humanos, PNH e mosquitos durante um surto pode ajudar a
+compreender melhor a dinâmica da transmissão, a identificar alterações no ciclo de transmissão
+e a desenvolver novas estratégias de vigilância e resposta para futuras ESP.
+A avaliação de risco pode levar em conta todos os componentes apresentados anteriormente.
+Contudo, quanto mais ampla a área considerada e maior a quantidade de indicadores utilizados,
+maior a necessidade de recursos humanos e computacionais. Ainda, a heterogeneidade da
+modelos de risco, de modo que sua interpretação deve sempre levar em conta essas limitações.
+Diversas abordagens e metodologias de avaliação de risco estão disponíveis, adequadas a
+diversas finalidades. no contexto da FA, a avaliação de risco pode ser aplicada para (i) definir
+áreas vulneráveis, com base em fatores de risco que podem favorecer a transmissão (p.e.,
+alta frequência de casos ou surtos, baixas coberturas vacinais, elevada receptividade), para a
+adoção de ações preventivas; (ii) estimar áreas para onde o vírus pode se dispersar, no sentido
+de antecipar as ações de vigilância e resposta; (iii) definir áreas prioritárias para aplicação
+imediata de medidas de controle, entre outras.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 21
+em andamento e são avaliadas continuamente no âmbito de atuação do Grumfa, que inclui
+parceiros nacionais e internacionais. Entre os métodos atualmente aplicados pelo Ministério
+da saúde para a definição de áreas de risco, estão: (i) o modelo de áreas afetadas e ampliadas;
+e (ii) o modelo de corredores ecológicos. Ambos os modelos são complementares entre si e
+partem da premissa de que o padrão de dispersão do vírus é espaço-temporal, i.e., sua dispersão
+para áreas circunvizinhas àquelas já afetadas é esperada, ainda que os fatores que orientam
+a dispersão não estejam completamente esclarecidos. A diferença entre os modelos utilizados
+neste Plano de Contingência é que o primeiro (áreas afetadas e ampliadas) estima as áreas de
+risco de maneira radial, ou seja, considera que a dispersão do vírus pode se dar em qualquer
+direção a partir da área afetada, e pode ser definido a partir de uma única ocorrência (foco);
+enquanto o segundo (corredores ecológicos) estima as áreas de risco de maneira vetorial,
+dos pontos de ocorrência. Contudo este último requer pelo menos dois pontos de ocorrência
+georreferenciados, além de informações de busca ativa de PNH e de epizootias, que ajudam a
+calibrar o modelo para maior acurácia.
+O uso desses modelos em conjunto com as Secretarias Estaduais de Saúde (SES) e Secretarias
+Municipais de Saúde (SMS) e com diversas instituições e pesquisadores colaboradores tem
+contribuído para o alerta e a adoção de medidas de vigilância e resposta oportunas. À época
+da elaboração deste documento, experiências de aplicação do modelo de corredores ecológicos
+foram construídas nas Regiões Sul e Centro-Oeste, com resultados importantes. A seguir, estão
+descritos os conceitos e as principais características dos métodos destacados.
+4.2.1 MODELO DE ÁREAS AFETADAS E AMPLIADAS
+Este modelo é utilizado no Brasil desde a reemergência extra-amazônica de 2007-2009, que, com
+base nos conceitos do RSI (ANVISA, 2009), procurou instrumentalizar a localização do evento,
+com área de expansão e alerta (circunvizinhos) a partir do município afetado. Foi idealizado
+para ser de fácil compreensão e aplicação, com baixa necessidade de recursos e expertise
+tecnológica e computacional, considerando as limitações da qualidade dos dados e das equipes
+multiprofissionais disponíveis em âmbito nacional. Assim, dados municipalizados são suficientes
+para aplicá-lo. Recomenda-se sua utilização em nível local, de maneira imediata, até que o apoio
+territórios que apresentam maior risco de transmissão esteja disponível.
+Assim, inicialmente, as áreas afetadas e ampliadas compõem as áreas de risco e são tratadas
+dentro de cada período de monitoramento (julho a junho). As áreas afetadas correspondem aos
+municípios com evidência recente (no período de monitoramento vigente) de transmissão do vírus
+da FA, e as áreas ampliadas são definidas pelos municípios contíguos àqueles afetados. Podem
+ser incluídos, na área ampliada, os municípios dispostos entre distintas áreas de risco. Além disso,
+esse modelo pode ser incorporado ou associado a outras metodologias de avaliação de risco.
+22 Secretaria de Vigilância em Saúde | Ministério da Saúde
+ser intensificadas, no sentido de prevenir a ocorrência de surtos e óbitos pela doença. esse
+modelo pode ser aplicado na detecção de focos de transmissão ou mesmo em surtos. Embora
+a extensão territorial das áreas de risco estimadas exemplificadas aqui seja baixa (apenas
+municípios limítrofes), pode-se aplicar essa metodologia em raios maiores, estendendo a área
+ampliada. Contudo deve-se ponderar as implicações dessa ampliação em áreas populosas e
+com baixas coberturas vacinais, sob risco de consumir rapidamente os estoques de vacina e
+prejudicar a resposta a um eventual surto de maior magnitude na região.
+4.2.2 MODELO DE CORREDORES ECOLÓGICOS
+Este modelo foi idealizado pelo pesquisador Adriano Pinter (Sucen/SP) e aplicado pela SES/SP
+de São Paulo, durante o monitoramento 2017/2018 (FIORAVANTI et al., 2018). À medida que,
+naquele contexto, o modelo de áreas afetadas e ampliadas incluía municípios muito populosos,
+recursos materiais e logísticos, inviabilizando sua realização de maneira oportuna. Assim, priorizar
+pela doença, considerando o elevado contingente populacional não imunizado. A partir de
+2018, um grupo de trabalho formado pelo MS, pelas Secretarias Estaduais de Saúde do Paraná,
+de Santa Catarina e do Rio Grande do Sul, pela Fundação Oswaldo Cruz (Fiocruz), e com a
+colaboração do pesquisador Adriano Pinter (Sucen/SP), adaptou a metodologia com incorporação
+à dispersão na região sul para identificação de áreas prioritárias para vacinação, intensificação
+das vigilâncias humana e animal, e controle vetorial (BRASIL, 2019b).
+esse método se baseia em dados de localização (coordenadas geográficas) das epizootias em
+PNH e dos casos humanos por FA, bem como em dados ambientais e climáticos, para estimar
+a velocidade e traçar as prováveis rotas de dispersão do vírus da FA, a partir de métricas de
+paisagem que identificam corredores favoráveis à sua disseminação. A exigência de dados
+precisos de localização dificulta a aplicação do modelo, uma vez que o registro das coordenadas
+geográficas não é uma realidade na maior parte do País. A despeito disso, a adoção do aplicativo
+tornou factível o georreferenciamento das mortes de PnH pelos profissionais de saúde, de
+qualidade dos dados for superada.
+dado o caráter dinâmico do modelo, novas confirmações influenciam as estimativas em novas
+áreas. nesse contexto, as atividades de busca ativa de populações de PnH e a identificação de
+maior número de epizootias favorece a capacidade de previsão e a precisão do modelo. Ainda,
+acordo com os padrões de ocorrência espaço-temporais.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 23
+A recente reemergência do vírus no Brasil, a partir de 2014, modificou os cenários de risco
+reconhecidos anteriormente. Áreas sem detecção do vírus há 80 anos registraram surtos
+expressivos, o que induziu a modificação da política de vacinação no País, antes pautada nas
+evidências de circulação do vírus durante as últimas décadas, entre outros critérios. A partir da
+ocorrência em Áreas Sem Recomendação de Vacinação (ASRV), onde o impacto da doença foi
+significativo, optou-se por estender, a partir de 2020, a área Com recomendação de vacinação
+(ACRV) para todo o País, incluindo a Região Nordeste, com registros nas duas últimas décadas
+apenas na Bahia. Essa inclusão se baseou na vulnerabilidade daquelas populações ao risco de
+infecção, caso o vírus afete a região, e na necessidade de prevenir surtos expressivos, como
+aqueles observados nas Regiões Sudeste e Sul. A despeito da recomendação de vacinação em
+todo o território nacional, a área recentemente incluída ainda se apresenta vulnerável, uma vez
+que não houve tempo hábil para que as coberturas vacinais atingissem os níveis preconizados.
+Assim, esse é um dos aspectos que compõem os critérios dos níveis de ativação deste Plano.
+outro aspecto levado em consideração refere-se à complexidade da resposta ao surto, definida,
+entre outros fatores, pelo número de instâncias e níveis de gestão envolvidos na resposta.
+Assim, um aglomerado de municípios em surto ou o registro do vírus em regiões de divisa entre
+entes municipais, além dos estaduais e federal. Em função do risco de dispersão para outras
+áreas, pode ultrapassar a esfera de governabilidade dos entes envolvidos, exigindo o alerta
+internacionais, caso o evento envolva risco de propagação internacional.
+Por fim, o risco de reurbanização da transmissão causa preocupação e exige monitoramento
+constante de possíveis processos adaptativos nessa direção. A ocorrência da doença nas
+proximidades de grandes centros urbanos deve induzir o máximo esforço de contingência, no
+distintas de monitoramento e resposta.
+24 Secretaria de Vigilância em Saúde | Ministério da Saúde
+5.1 NÍVEL 1 - DETECÇÃO E CONTROLE DE FOCO
+Cenário 1 - Foco primário de transmissão do vírus da Fa
+VíRUS EM MOSQUITOS, EM QUALQUER LOCAL DO TERRITóRIO NACIONAL.
+Fonte: Cgarb/Deidt/SVS/MS.
+DEScriÇÃo: considerando a gravidade, a elevada letalidade e o potencial epidêmico da FA,
+local e de dispersão para novas áreas, além de ensejar a adoção de medidas de prevenção e
+controle oportunas, a fim de prevenir surtos de maior magnitude e óbitos. À medida que o vírus
+é endêmico na região amazônica e reemerge de maneira imprevisível na região extra-amazônica,
+oportunidade da tomada de decisão e da adoção de medidas de prevenção e controle, a fim
+de reduzir os efeitos da transmissão nas populações humanas.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 25
+5.1.1 AÇÕES DE RESPOSTA
+notificar oportunamente o nível de gestão estadual sobre eventos suspeitos (em 24 horas
+após a suspeita inicial) e garantir a qualidade e a completude dos dados.
+(Sinan);
+» recomenda-se priorizar o levantamento e o registro de informações sobre o antecedente de
+vacinação, a atividade de exposição e o local provável de infecção, além dos sinais e sintomas,
+dos resultados dos exames complementares e da coleta de amostras para diagnóstico.
+» recomenda-se atualizar e complementar todas as informações da investigação junto aos
+sistemas oficiais de notificação e registro, assim que forem obtidas.
+Investigar oportunamente todos os eventos suspeitos de FA (epizootias em PNH e casos
+humanos) (em 48 horas após a suspeita inicial) e garantir a atualização das informações
+levantadas (conforme roteiros de investigação de casos humanos, de epizootias em PNH
+e entomológica);
+» em situações nas quais o caso refere/indica exposição (LPI) em outra unidade da Federação
+(município/estado), deve-se notificar imediatamente as diferentes esferas de gestão do sus
+envolvidas, para que os gestores dos estados e municípios afetados e/ou em risco possam ser
+informados com a maior brevidade possível e realizar a investigação de maneira oportuna;
+» registrar as coordenadas geográficas de todos os eventos suspeitos, assim como informações
+epidemiológicas referentes à exposição a situações de risco, ao histórico de deslocamentos
+e ao estado vacinal dos casos suspeitos;
+» registrar todos os eventos levantados durante a investigação focal nos sistemas/formulários
+específicos, incluindo indivíduos suspeitos e vacinados, animais amostrados e vetores
+capturados;
+» incluir os dados nos sistemas oficiais de informação e de apoio, além de enviar as informações
+levantadas em relatório preliminar sucinto à ses e ao ms, em até 30 dias após a notificação inicial.
+e ampliada.
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico à
+rede municipal de serviços de saúde.
+Realizar a busca ativa de indivíduos não vacinados e realizar a vacinação focal, e/ou
+referenciar a unidade de saúde apropriada e ampliar a área de alcance da vacinação, a
+partir do LPI e dos novos eventos suspeitos detectados.
+26 Secretaria de Vigilância em Saúde | Ministério da Saúde
+dos eventos suspeitos;
+» as amostras podem ser obtidas de indivíduos residentes ou visitantes do local provável de
+infecção que apresentaram sintomas de síndromes febris agudas, de casos suspeitos de FA
+e de PNH mortos ou doentes na área e nos arredores do LPI;
+» adicionalmente, populações humanas e animais (de PNH) expostas na área de transmissão
+podem apresentar indícios e/ou evidências da ocorrência recente da enfermidade na
+localidade, incluindo os mosquitos potencialmente vetores (principalmente em áreas de
+transição/sobreposição urbano-silvestre-rural), que podem permitir a pesquisa viral e apoiar
+os estudos genômicos e das principais espécies transmissoras no Brasil.
+Laboratorial (GAL), garantindo a qualidade e a completude das informações e o adequado
+armazenamento e transporte para o Lacen.
+Registrar oportunamente, no Sistema de Informação do Programa Nacional de Imunizações
+(SI-PNI), as doses de vacina aplicadas, e monitorar a cobertura vacinal.
+notificar e investigar os eventos adversos e óbitos temporalmente associados à vacinação.
+Revisar a organização da rede municipal para atenção aos pacientes suspeitos de FA.
+Realizar atividades de informação, educação e comunicação à comunidade do LPI, dos
+arredores e do município afetado, a fim de informar sobre a ocorrência local, os riscos à
+saúde pública, em especial aos indivíduos não vacinados, e as recomendações de prevenção
+e controle com ênfase na vacinação.
+Articular a participação dos agentes comunitários de saúde (ACS), dos agentes de combate
+às endemias (ACE) e das equipes da Estratégia Saúde da Família (ESF), nas ações integradas
+de investigação epidemiológica, busca ativa de não vacinados e de casos suspeitos,
+imunização, entre outras.
+Elaborar plano de ação para resposta a surtos por FA.
+Realizar a comunicação regional, principalmente aos municípios limítrofes e região do
+município afetado, para informar os riscos regionais e recomendar a intensificação da
+vigilância e investigação de casos e epizootias suspeitas, a fim de identificar e definir
+oportuna das medidas de prevenção e controle, com ênfase na vacinação.
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico,
+além de informes e boletins epidemiológicos, às redes municipais e estadual de serviços
+de saúde.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 27
+afetada e ampliada.
+Monitorar os eventos adversos e óbitos temporalmente associados à vacinação.
+Coordenar as ações de resposta que exigem simultaneidade regional.
+Cooperar, técnica e complementarmente, com os municípios na execução das ações de
+vigilância e resposta.
+organizar e coordenar os fluxos de informações e amostras na rede estadual de laboratórios,
+para o laboratório de referência.
+Coordenar a alimentação dos sistemas de informação pelos municípios, conforme diretrizes,
+fluxos e prazos estabelecidos, e avaliar criticamente a qualidade e a consistência dos dados.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo o armazenamento e o abastecimento
+aos municípios.
+recomendadas, e apoiá-lo quando solicitado, e/ou quando a capacidade local e regional for
+superada, e/ou na medida em que se fizer necessária.
+capacidades local, regional e de apoio do Estado forem superadas.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência locais,
+regionais e/ou estadual.
+Realizar a comunicação nacional, principalmente aos estados e municípios das regiões
+afetadas, para informar os riscos regionais e recomendar a intensificação da vigilância
+e investigação de casos e epizootias suspeitas, a fim de identificar e definir os caminhos
+medidas de prevenção e controle, com ênfase na vacinação.
+Apoiar e cooperar, técnica e complementarmente, com os estados e o Distrito Federal na
+humanos, para detecção de outros eventos que possam ocorrer na região, bem como das
+ações de vacinação.
+Orientar a rede de serviços de saúde sobre as diretrizes e os protocolos de vigilância,
+a colheita de amostras, a imunização e o manejo clínico, e divulgar informes e boletins
+epidemiológicos e cursos de educação a distância.
+28 Secretaria de Vigilância em Saúde | Ministério da Saúde
+Coordenar as ações de resposta que exigem simultaneidade regional ou nacional.
+Cooperar, técnica e complementarmente, com os estados e o Distrito Federal na execução
+das ações de vigilância e resposta.
+Coordenar os fluxos de informações e de amostras na rede de referência nacional, bem
+como a realização de análises laboratoriais pelos laboratórios de referência.
+Monitorar o registro das doses de vacina aplicadas e as coberturas vacinais, bem como os
+eventos adversos e óbitos temporalmente associados à vacinação.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo a aquisição e a distribuição aos
+estados e ao Distrito Federal.
+SUS, por meio da articulação e da coordenação das estratégias e atividades de vigilância,
+imunização, diagnóstico, atenção e assistência à saúde e comunicação, visando ao
+fortalecimento da rede de serviços e à ampliação da capacidade de resposta municipal.
+recomendadas, e apoiá-lo quando solicitado, e/ou quando as capacidades local e regional
+tenham sido superadas, e/ou na medida em que se fizer necessário.
+Realizar a comunicação de risco e orientações aos diversos setores do Ministério da Saúde,
+à Administração Pública Nacional, aos organismos internacionais de saúde e à sociedade
+em geral, quando o evento se apresentar como uma Espin e/ou Espii.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência estaduais e/
+ou regionais.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 29
+5.2 NÍVEL 2 - SURTO REGIONAL E/OU FOCO COM RISCO DE DISPERSÃO
+NACIONAL/INTERNACIONAL
+Cenário 2 - Surto regional ou focos múltiplos com risco de dispersão
+Fonte: Grumfa; Cgarb/Deidt/SVS/MS.
+DEScriÇÃo: a detecção do vírus em aglomerado de municípios, independentemente da área e do
+status epidemiológico, caracteriza a ocorrência de um surto regionalizado por FA, cujas ações de
+resposta devem ser integradas e coordenadas em nível regional. A despeito da recomendação
+de vacinação em todo o País, evidências de FA associadas espacial e temporalmente podem
+revelar bolsões de susceptíveis e/ou situações de risco de dispersão viral. Do mesmo modo, a
+a complexidade da resposta, na medida em que diferentes esferas de gestão devem atuar
+integrada e coordenadamente, demandando a comunicação oportuna entre diferentes entes da
+Federação e/ou com países vizinhos e representações internacionais de saúde, como a OMS e a
+opas. Assim, esse nível de ativação tem por finalidade delimitar a área afetada e a população sob
+risco, para alertar gestores de estados e países próximos às áreas de transmissão e minimizar
+o potencial impacto do evento.
+30 Secretaria de Vigilância em Saúde | Ministério da Saúde
+5.2.1 AÇÕES DE RESPOSTA
+revisar e reforçar os fluxos de informações entre as redes municipais e estadual de vigilância,
+laboratório, imunização e atenção e assistência à saúde, para articulação e integração da
+resposta aos eventos suspeitos, conforme orientação da articulação regional demandada
+pelo estado e pela União.
+Planejar e executar, com o nível estadual, a investigação entomológica nos locais prováveis
+de infecção dos eventos confirmados.
+notificar oportunamente o nível de gestão estadual sobre eventos suspeitos (em 24 horas
+após a suspeita inicial) e garantir a qualidade e a completude dos dados.
+Registrar todos os casos suspeitos no Sinan;
+» recomenda-se priorizar o levantamento e o registro de informações sobre o antecedente de
+vacinação, a atividade de exposição e o local provável de infecção, além dos sinais e sintomas,
+dos resultados dos exames complementares e da coleta de amostras para diagnóstico.
+» recomenda-se atualizar e complementar todas as informações da investigação junto aos
+sistemas oficiais de notificação e registro, assim que forem obtidas.
+Investigar oportunamente todos os eventos suspeitos de FA (epizootias em PNH e casos
+humanos) (em 48 horas após a suspeita inicial) e garantir a atualização das informações
+levantadas (conforme roteiros de investigação de casos humanos, de epizootias em PNH
+e entomológica);
+» em situações nas quais o caso refere/indica exposição (LPI) em outra unidade da Federação
+(município/estado), deve-se notificar imediatamente as diferentes esferas de gestão do sus
+envolvidas, para que os gestores dos estados e municípios afetados e/ou em risco possam ser
+informados com a maior brevidade possível e realizar a investigação de maneira oportuna.
+registrar as coordenadas geográficas de todos os eventos suspeitos, assim como informações
+epidemiológicas referentes à exposição a situações de risco, ao histórico de deslocamentos
+e ao estado vacinal dos casos suspeitos.
+registrar todos os eventos levantados durante a investigação focal nos formulários específicos,
+incluindo indivíduos suspeitos e vacinados, animais amostrados e vetores capturados.
+incluir os dados nos sistemas oficiais de informação e de apoio, além de enviar as
+informações levantadas em relatório preliminar sucinto à SES e ao MS, em até 30 dias
+após a notificação inicial.
+e ampliada.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 31
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico à
+rede municipal de serviços de saúde.
+Realizar a busca ativa de indivíduos não vacinados e realizar a vacinação focal, e/ou
+referenciar a unidade de saúde apropriada e ampliar a área de alcance da vacinação, a
+partir do LPI e dos novos eventos suspeitos detectados.
+eventos suspeitos;
+» as amostras podem ser obtidas de indivíduos residentes ou visitantes do local provável de
+infecção que apresentaram sintomas de síndromes febris agudas, de casos suspeitos de FA
+e de PNH mortos ou doentes na área e nos arredores do LPI;
+» adicionalmente, populações humanas e animais (de PNH) expostas na área de transmissão
+podem apresentar indícios e/ou evidências da ocorrência recente da enfermidade na
+localidade, incluindo os mosquitos potencialmente vetores (principalmente em áreas de
+transição/sobreposição urbano-silvestre-rural), que podem permitir a pesquisa viral e apoiar
+os estudos genômicos e das principais espécies transmissoras no Brasil.
+Registrar as amostras colhidas para diagnóstico laboratorial no GAL, garantindo a qualidade
+e a completude das informações e o adequado armazenamento e transporte para o Lacen.
+Registrar oportunamente, no SI-PNI, as doses de vacina aplicadas, e monitorar a cobertura
+vacinal.
+notificar e investigar os eventos adversos e óbitos temporalmente associados à vacinação.
+Revisar a organização da rede municipal para atenção aos pacientes suspeitos de FA.
+Realizar atividades de informação, educação e comunicação à comunidade do LPI, dos
+arredores e do município afetado, a fim de informar sobre a ocorrência local, os riscos à
+saúde pública, em especial aos indivíduos não vacinados, e as recomendações de prevenção
+e controle com ênfase na vacinação.
+Articular a participação dos agentes comunitários de saúde, dos agentes de combate às
+endemias e das equipes da ESF, nas ações integradas de investigação epidemiológica, busca
+ativa de não vacinados e de casos suspeitos, imunização, entre outras.
+Elaborar plano de ação para resposta a surtos por FA.
+revisar e reforçar os fluxos de informações entre as redes municipais e estadual de vigilância,
+laboratório, imunização e atenção e assistência à saúde, para articulação e integração da
+resposta aos eventos suspeitos, conforme orientação da articulação nacional demandada
+pela União (SVS/MS).
+32 Secretaria de Vigilância em Saúde | Ministério da Saúde
+oportuna, colheita de amostras para diagnóstico laboratorial e manejo clínico adequado
+dos casos suspeitos, incluindo aqueles de maior complexidade.
+ecoepidemiológica de eventos suspeitos e colheita de amostras para diagnóstico laboratorial.
+organizar e coordenar os fluxos de pacientes na rede de assistência, bem como avaliar
+emergência.
+possível aumento de pacientes graves por FA na rede especializada.
+e coordenação das ações de resposta.
+Realizar a comunicação regional, principalmente aos municípios limítrofes e região do
+município afetado, para informar os riscos regionais e recomendar a intensificação da
+vigilância e investigação de casos e epizootias suspeitas, a fim de identificar e definir
+oportuna das medidas de prevenção e controle, com ênfase na vacinação.
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico,
+além de informes e boletins epidemiológicos, às redes municipais e estadual de serviços
+de saúde.
+afetada e ampliada.
+Monitorar os eventos adversos e óbitos temporalmente associados à vacinação.
+Coordenar as ações de resposta que exigem simultaneidade regional.
+Cooperar, técnica e complementarmente, com os municípios na execução das ações de
+vigilância e resposta.
+organizar e coordenar os fluxos de informações e amostras na rede estadual de laboratórios,
+para o laboratório de referência.
+Coordenar a alimentação dos sistemas de informação pelos municípios, conforme diretrizes,
+fluxos e prazos estabelecidos, e avaliar criticamente a qualidade e a consistência dos dados.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo o armazenamento e o abastecimento
+aos municípios.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 33
+recomendadas, e apoiá-lo quando solicitado, e/ou quando a capacidade local e regional for
+superada, e/ou na medida em que se fizer necessário.
+capacidades local, regional e de apoio do Estado forem superadas.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência locais,
+regionais e/ou estadual.
+tomada de decisão.
+Coordenar os esforços para a avaliação do risco de transmissão em nível regional/nacional,
+níveis estadual e federal para predição das áreas de maior risco, bem como orientação das
+medidas de vigilância e resposta durante a emergência.
+corredores ecológicos favoráveis à dispersão, à classificação das áreas prioritárias, de risco
+e vulneráveis, além de outras análises necessárias.
+de epizootias, na articulação regional intersetorial (saúde e meio ambiente/conservação), no
+treinamento em serviço para investigação de campo, na busca de epizootias e de populações
+de PNH, na coleta de amostras de PNH e de vetores, na biossegurança em operações de
+campo e no registro de dados em formulários e sistemas oficiais e de apoio.
+Acionar o funcionamento do Grupo Multiplica SISS-Geo/SUS para apoiar estados e municípios
+na incorporação, na formação de rede de vigilância e de multiplicadores, no registro de
+eventos, no gerenciamento e na análise para vigilância com apoio do SISS-Geo.
+os fluxos de amostras para outros laboratórios de referência, se necessário.
+à rede de laboratórios.
+de vacina aplicadas e cálculo das coberturas vacinais em tempo oportuno.
+Divulgar estratégias da hemorrede para a doação de sangue e componentes, visando à
+manutenção do suporte transfusional local e regional.
+34 Secretaria de Vigilância em Saúde | Ministério da Saúde
+realização de ações de vigilância, imunização, diagnóstico, atenção e assistência à saúde e
+comunicação, incluindo: (i) a definição de fluxos e contrafluxos de informações e amostras
+intra e intersetorialmente e com outras esferas de gestão; (ii) a coordenação da regulação
+e de referências e contrarreferências de pacientes; (iii) a oportunidade na alimentação dos
+sistemas de informação e a qualidade e consistência dos dados; (iv) o gerenciamento e o
+monitoramento de insumos; (v) a disponibilidade de recursos humanos, materiais e logísticos.
+Avaliar a necessidade de envio de equipe de gestão da Força Nacional do SUS (FN-SUS)
+organização da rede de atenção especializada à saúde.
+Promover campanhas de comunicação de alerta do risco de transmissão, com base na
+dinâmica do cenário epidemiológico.
+Realizar a comunicação nacional, principalmente aos estados e municípios das regiões
+afetadas, para informar os riscos regionais e recomendar a intensificação da vigilância
+e investigação de casos e epizootias suspeitas, a fim de identificar e definir os caminhos
+medidas de prevenção e controle, com ênfase na vacinação.
+Apoiar e cooperar, técnica e complementarmente, com os estados e o Distrito Federal na
+humanos, para detecção de outros eventos que possam ocorrer na região, bem como das
+ações de vacinação.
+Orientar a rede de serviços de saúde sobre as diretrizes e os protocolos de vigilância,
+a colheita de amostras, a imunização e o manejo clínico, e divulgar informes e boletins
+epidemiológicos e cursos de educação a distância.
+Coordenar as ações de resposta que exigem simultaneidade regional ou nacional.
+Cooperar, técnica e complementarmente, com os estados e o Distrito Federal na execução
+das ações de vigilância e resposta.
+Coordenar os fluxos de informações e de amostras na rede de referência nacional, bem
+como a realização de análises laboratoriais pelos laboratórios de referência.
+Monitorar o registro das doses de vacina aplicadas e as coberturas vacinais, bem como os
+eventos adversos e óbitos temporalmente associados à vacinação.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo a aquisição e a distribuição aos
+estados e ao Distrito Federal.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 35
+SUS, por meio da articulação e da coordenação das estratégias e atividades de vigilância,
+imunização, diagnóstico, atenção e assistência à saúde e comunicação, visando ao
+fortalecimento da rede de serviços e à ampliação da capacidade de resposta municipal.
+recomendadas, e apoiá-lo quando solicitado, e/ou quando as capacidades local e regional
+tenham sido superadas, e/ou na medida em que se fizer necessário.
+Realizar a comunicação de risco e orientações aos diversos setores do Ministério da Saúde,
+à Administração Pública Nacional, aos organismos internacionais de saúde e à sociedade
+em geral, quando o evento se apresentar como uma Espin e/ou Espii.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência estaduais
+e/ou regionais.
+36 Secretaria de Vigilância em Saúde | Ministério da Saúde
+5.3 NÍVEL 3 - SURTO EM ÁREA DE ELEVADA VULNERABILIDADE E/OU
+Cenário 3 - Surto em área de elevada vulnerabilidade, com risco de maior
+Detecção Da Fa em município recém-incluíDo na acrV (a partir De 2016) e/ou com
+baixa cobertura Vacinal e/ou em região metropolitana (com risco De reurbanização
+Da transmissão).
+Fonte: CGPNI/Deidt/SVS/MS; Cgarb/Deidt/SVS/MS.
+DEScriÇÃo: a detecção do vírus em áreas com baixa cobertura vacinal ou com recomendação
+de vacinação recente, e que, portanto, podem apresentar coberturas vacinais menores do
+que aquelas preconizadas, caracteriza a maior vulnerabilidade das populações residentes, na
+medida em que o risco de ocorrência de surtos aumenta consideravelmente. No mesmo sentido,
+municípios dispostos em regiões metropolitanas, infestados por Aedes aegypti e com surtos
+frequentes de dengue, chikungunya e/ou zika, podem favorecer um processo de reurbanização
+da transmissão, a partir da adaptação do vírus a um ciclo urbano em que o homem atue como
+hospedeiro principal. Ambos os cenários requerem o máximo esforço do Sistema Único de
+Saúde para mitigar os danos às populações humanas e evitar que o ciclo urbano se restabeleça.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 37
+5.3.1 AÇÕES DE RESPOSTA
+Planejar e executar, com os níveis estadual e federal, a investigação entomológica nos locais
+prováveis de infecção dos eventos confirmados, incluindo a colheita de mosquitos em áreas
+urbanas e periurbanas, quando pertinente.
+Realizar o controle vetorial urbano, quando indicado, conforme protocolos vigentes.
+revisar e reforçar os fluxos de informações entre as redes municipais e estadual de vigilância,
+laboratório, imunização e atenção e assistência à saúde, para articulação e integração da
+resposta aos eventos suspeitos, conforme orientação da articulação regional demandada
+pelo estado e pela União.
+notificar oportunamente o nível de gestão estadual sobre eventos suspeitos (em 24 horas
+após a suspeita inicial) e garantir a qualidade e a completude dos dados.
+Registrar todos os casos suspeitos no Sinan;
+» recomenda-se priorizar o levantamento e o registro de informações sobre o antecedente
+de vacinação, a atividade de exposição e o local provável de infecção, além dos sinais e
+sintomas, dos resultados dos exames complementares e coleta de amostras para diagnóstico.
+» recomenda-se atualizar e complementar todas as informações da investigação junto aos
+sistemas oficiais de notificação e registro, assim que forem obtidas.
+Investigar oportunamente todos os eventos suspeitos de FA (epizootias em PNH e casos
+humanos) (em 48 horas após a suspeita inicial) e garantir a atualização das informações
+levantadas (conforme roteiros de investigação de casos humanos, de epizootias em PNH
+e entomológica);
+» em situações nas quais o caso refere/indica exposição (LPI) em outra unidade da Federação
+(município/estado), deve-se notificar imediatamente as diferentes esferas de gestão do sus
+envolvidas, para que os gestores dos estados e municípios afetados e/ou em risco possam ser
+informados com a maior brevidade possível e realizar a investigação de maneira oportuna.
+registrar as coordenadas geográficas de todos os eventos suspeitos, assim como informações
+epidemiológicas referentes à exposição a situações de risco, ao histórico de deslocamentos
+e ao estado vacinal dos casos suspeitos.
+registrar todos os eventos levantados durante a investigação focal nos formulários específicos,
+incluindo indivíduos suspeitos e vacinados, animais amostrados e vetores capturados.
+incluir os dados nos sistemas oficiais de informação e de apoio, além de enviar as
+informações levantadas em relatório preliminar sucinto à SES e ao MS, em até 30 dias
+após a notificação inicial.
+38 Secretaria de Vigilância em Saúde | Ministério da Saúde
+e ampliada.
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico à
+rede municipal de serviços de saúde.
+Realizar a busca ativa de indivíduos não vacinados e realizar a vacinação focal, e/ou
+referenciar a unidade de saúde apropriada e ampliar a área de alcance da vacinação, a
+partir do LPI e dos novos eventos suspeitos detectados.
+dos eventos suspeitos;
+» as amostras podem ser obtidas de indivíduos residentes ou visitantes do local provável de
+infecção que apresentaram sintomas de síndromes febris agudas, de casos suspeitos de FA
+e de PNH mortos ou doentes na área e nos arredores do LPI;
+» adicionalmente, populações humanas e animais (de PNH) expostas na área de transmissão
+podem apresentar indícios e/ou evidências da ocorrência recente da enfermidade na
+localidade, incluindo os mosquitos potencialmente vetores (principalmente em áreas de
+transição/sobreposição urbano-silvestre-rural), que podem permitir a pesquisa viral e apoiar
+os estudos genômicos e das principais espécies transmissoras no Brasil.
+Registrar as amostras colhidas para diagnóstico laboratorial no GAL, garantindo a qualidade
+e a completude das informações e o adequado armazenamento e transporte para o Lacen.
+Registrar oportunamente, no SI-PNI, as doses de vacina aplicadas, e monitorar a cobertura
+vacinal.
+notificar e investigar os eventos adversos e óbitos temporalmente associados à vacinação.
+Revisar a organização da rede municipal para atenção aos pacientes suspeitos de FA.
+Realizar atividades de informação, educação e comunicação à comunidade do LPI, dos
+arredores e do município afetado, a fim de informar sobre a ocorrência local, os riscos à
+saúde pública, em especial aos indivíduos não vacinados, e as recomendações de prevenção
+e controle com ênfase na vacinação.
+Articular a participação dos agentes comunitários de saúde, dos agentes de combate às
+endemias e das equipes da ESF, nas ações integradas de investigação epidemiológica, busca
+ativa de não vacinados e de casos suspeitos, imunização, entre outras.
+Elaborar plano de ação para resposta a surtos por FA.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 39
+Planejar e coordenar, com os níveis municipal e federal, as ações de investigação
+entomológica, incluindo a colheita de mosquitos em áreas urbanas e periurbanas e o
+controle vetorial, quando pertinentes.
+Buscar, junto a instituições e especialistas, apoio para condução e orientação ao cuidado
+dos casos graves, quando necessário.
+Ampliar a capacidade da rede de atenção especializada conforme o aumento de casos.
+Acionar os planos hospitalares para o fluxo aumentado de pacientes.
+revisar e reforçar os fluxos de informações entre as redes municipais e estadual de vigilância,
+laboratório, imunização e atenção e assistência à saúde, para articulação e integração da
+resposta aos eventos suspeitos, conforme orientação da articulação nacional demandada
+pela União (SVS/MS).
+oportuna, colheita de amostras para diagnóstico laboratorial e manejo clínico adequado
+dos casos suspeitos, incluindo aqueles de maior complexidade.
+ecoepidemiológica de eventos suspeitos e colheita de amostras para diagnóstico laboratorial.
+organizar e coordenar os fluxos de pacientes na rede de assistência, bem como avaliar
+e emergência.
+possível aumento de pacientes graves por FA na rede especializada.
+e coordenação das ações de resposta.
+Realizar a comunicação regional, principalmente aos municípios limítrofes e região do
+município afetado, para informar os riscos regionais e recomendar a intensificação da
+vigilância e investigação de casos e epizootias suspeitas, a fim de identificar e definir
+oportuna das medidas de prevenção e controle, com ênfase na vacinação.
+Divulgar os protocolos de vigilância, colheita de amostras, imunização e manejo clínico,
+além de informes e boletins epidemiológicos, às redes municipais e estadual de serviços
+de saúde.
+afetada e ampliada.
+Monitorar os eventos adversos e óbitos temporalmente associados à vacinação.
+Coordenar as ações de resposta que exigem simultaneidade regional.
+40 Secretaria de Vigilância em Saúde | Ministério da Saúde
+Cooperar, técnica e complementarmente, com os municípios na execução das ações de
+vigilância e resposta.
+organizar e coordenar os fluxos de informações e amostras na rede estadual de laboratórios,
+para o laboratório de referência.
+Coordenar a alimentação dos sistemas de informação pelos municípios, conforme diretrizes,
+fluxos e prazos estabelecidos, e avaliar criticamente a qualidade e a consistência dos dados.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo o armazenamento e o abastecimento
+aos municípios.
+recomendadas, e apoiá-lo quando solicitado, e/ou quando a capacidade local e regional for
+superada, e/ou na medida em que se fizer necessário.
+capacidades local, regional e de apoio do Estado forem superadas.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência locais,
+regionais e/ou estadual.
+Avaliar a necessidade de ativação do Centro de Operação de Emergências (COE), conforme
+critérios estabelecidos neste Plano.
+Planejar e coordenar, com os níveis municipal e estadual, as ações de investigação
+entomovirológica, incluindo a colheita de mosquitos em áreas urbanas e periurbanas e o
+controle vetorial, quando pertinentes.
+localidades para o tratamento de casos graves, quando necessário, após acionamento do
+Plano Nacional de Contingência do Sangue.
+Criar comitê de emergência, convocando instituições de saúde, ensino, pesquisa e do terceiro
+setor, além de pesquisadores, profissionais de saúde e das diversas áreas do conhecimento
+com notório saber, experiência e expertise, incluindo representações sociais, para atuar de
+modo articulado e integrado (ciência, saúde e sociedade).
+tomada de decisão.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 41
+Coordenar os esforços para a avaliação do risco de transmissão em nível regional/nacional,
+níveis estadual e federal, para predição das áreas de maior risco e orientação das medidas
+de vigilância e resposta durante a emergência.
+corredores ecológicos favoráveis à dispersão, à classificação das áreas prioritárias, de risco
+e vulneráveis, além de outras análises necessárias.
+de epizootias, na articulação regional intersetorial (saúde e meio ambiente/conservação), no
+treinamento em serviço para investigação de campo, na busca de epizootias e de populações
+de PNH, na coleta de amostras de PNH e de vetores, na biossegurança em operações de
+campo e no registro de dados em formulários e sistemas oficiais e de apoio.
+Acionar o funcionamento do Grupo Multiplica SISS-Geo/SUS para apoiar estados e municípios
+na incorporação, na formação de rede de vigilância e de multiplicadores, no registro de
+eventos, no gerenciamento e na análise para vigilância com apoio do SISS-Geo.
+pública para a realização de estudos genômicos dos vírus de FA detectados.
+os fluxos de amostras para outros laboratórios de referência, se necessário.
+à rede de laboratórios.
+de vacina aplicadas e cálculo das coberturas vacinais em tempo oportuno.
+Divulgar estratégias da hemorrede para a doação de sangue e componentes, visando à
+manutenção do suporte transfusional local e regional.
+realização de ações de vigilância, imunização, diagnóstico, atenção e assistência à saúde e
+comunicação, incluindo: (i) a definição de fluxos e contrafluxos de informações e amostras
+intra e intersetorialmente e com outras esferas de gestão; (ii) a coordenação da regulação
+e de referências e contrarreferências de pacientes; (iii) a oportunidade na alimentação dos
+sistemas de informação e a qualidade e consistência dos dados; (iv) o gerenciamento e o
+monitoramento de insumos; (v) a disponibilidade de recursos humanos, materiais e logísticos.
+Avaliar a necessidade de envio de equipe de gestão da FN-SUS para missão exploratória em
+especializada à saúde.
+Promover campanhas de comunicação de alerta do risco de transmissão, com base na
+dinâmica do cenário epidemiológico.
+42 Secretaria de Vigilância em Saúde | Ministério da Saúde Secretaria de Vigilância em Saúde | Ministério da Saúde 42
+Realizar a comunicação nacional, principalmente aos estados e municípios das regiões
+afetadas, para informar os riscos regionais e recomendar a intensificação da vigilância
+e investigação de casos e epizootias suspeitas, a fim de identificar e definir os caminhos
+medidas de prevenção e controle, com ênfase na vacinação.
+Apoiar e cooperar, técnica e complementarmente, com os estados e o Distrito Federal na
+humanos, para detecção de outros eventos que possam ocorrer na região, bem como das
+ações de vacinação.
+Orientar a rede de serviços de saúde sobre as diretrizes e os protocolos de vigilância,
+a colheita de amostras, a imunização e o manejo clínico, e divulgar informes e boletins
+epidemiológicos e cursos de educação a distância.
+Coordenar as ações de resposta que exigem simultaneidade regional ou nacional.
+Cooperar, técnica e complementarmente, com os estados e o Distrito Federal na execução
+das ações de vigilância e resposta.
+Coordenar os fluxos de informações e de amostras na rede de referência nacional, bem
+como a realização de análises laboratoriais pelos laboratórios de referência.
+Monitorar o registro das doses de vacina aplicadas e as coberturas vacinais, bem como os
+eventos adversos e óbitos temporalmente associados à vacinação.
+(materiais e equipamentos de campo, incluindo EPI), vacinação (vacinas, seringas e agulhas)
+e diagnóstico laboratorial (kits diagnósticos), incluindo a aquisição e a distribuição aos
+estados e ao Distrito Federal.
+SUS, por meio da articulação e da coordenação das estratégias e atividades de vigilância,
+imunização, diagnóstico, atenção e assistência à saúde e comunicação, visando ao
+fortalecimento da rede de serviços e à ampliação da capacidade de resposta municipal.
+recomendadas, e apoiá-lo quando solicitado, e/ou quando as capacidades local e regional
+tenham sido superadas, e/ou na medida em que se fizer necessário.
+Realizar a comunicação de risco e orientações aos diversos setores do Ministério da Saúde,
+à Administração Pública Nacional, aos organismos internacionais de saúde e à sociedade
+em geral, quando o evento se apresentar como uma Espin e/ou Espii.
+Apoiar a elaboração, a adequação e a qualificação dos planos de contingência estaduais
+e/ou regionais.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 43
+DE EMERGÊNCIAS - COE
+O Centro de Operações de Emergências (COE) é uma estratégia organizacional que tem como
+na resposta às ESP. Sua ativação visa aumentar a capacidade de resposta e subsidiar a tomada de
+decisão a partir da análise de situação de saúde, do levantamento e da mobilização de recursos
+necessários, e da definição e coordenação de estratégias e ações de resposta prioritárias.
+As ações descritas neste Plano de Contingência independem da ativação do COE, de modo que as
+diretrizes estabelecidas se aplicam às circunstâncias e aos contextos descritos na seção anterior,
+conforme os gatilhos de cada nível de ativação do Plano. Eventualmente, o COE poderá ser
+ativado no âmbito federal quando: (i) forem superadas as capacidades relacionadas à vigilância,
+à assistência, ao diagnóstico ou à imunização nas esferas municipal e/ou estadual; ou (ii) houver
+das ações de resposta.
+na resposta às ESP (vigilância, imunização, laboratórios, assistência e emergências), a partir
+de situações que configurem potencial risco à saúde pública, e recomendada ao secretário de
+Vigilância em Saúde, responsável pela tomada de decisão. A desativação, por sua vez, a depender
+dos critérios que motivaram a ativação, ocorrerá quando: (i) as capacidades locais/regionais
+forem restauradas; e/ou (ii) a ESP for controlada, com redução do risco de transmissão; ou, ainda,
+(iii) quando houver remissão da transmissão pela deterioração das condições epidemiológicas,
+ambientais e climáticas, que geralmente ocorre ao final do período sazonal.
+A partir da ativação do COE, poderá ser avaliada a recomendação de declaração de Emergência
+em Saúde Pública de Importância Nacional ao Ministro da Saúde, bem como de mobilização de
+recursos humanos, materiais e financeiros adicionais, incluindo apoio internacional especializado.
+44 Secretaria de Vigilância em Saúde | Ministério da Saúde
+AGÊNCIA NACIONAL DE VIGILâNCIA SANITÁRIA (Brasil). Decreto Legislativo n.º 395, de 9 de
+julho de 2009. Aprova o texto revisado do Regulamento Sanitário Internacional (RSI-2005),
+acordado na 58ª Assembleia Geral da Organização Mundial de Saúde, em 23 de maio de 2005.
+br/anvisa/pt-br/assuntos/paf/regulamento-sanitario-internacional/arquivos/7181json-file-1.
+Acesso em: 24 mar. 2021.
+BRASIL Ministério da Saúde. Gabinete do Ministro. Portaria n.º 2.952 GM/MS. Regulamenta,
+no âmbito do Sistema Único de Saúde (SUS), o Decreto n.º 7.616, de 17 de novembro de 2011,
+(ESPIN) e institui a Força Nacional do Sistema Único de Saúde (FN-SUS). Brasília, DF: MS, 2011.
+Acesso em: 25 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+das Doenças Transmissíveis. Manual de normas e procedimentos para vacinação. Brasília,
+procedimentos_vacinacao.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Reemergência da Febre
+Amarela Silvestre no Brasil, 2014/2015: situação epidemiológica e a importância da vacinação
+preventiva e da vigilância intensificada no período sazonal. Boletim Epidemiológico. v. 46,
+outubro/14/besvs-fa-v46-n29.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Guia de Vigilância de Epizootias em Primatas Não Humanos
+e Entomologia aplicada à Vigilância da febre Amarela. 2. ed. atualizada. Brasília, DF: MS,
+Epizootias_Febre_Amarela_2a_ed_atualizada_2017.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Gabinete do Ministro. Portaria de Consolidação n.º 4, de 28 de
+setembro de 2017. consolidação das normas sobre os sistemas e os subsistemas do Sistema
+saudelegis/gm/2017/prc0004_03_10_2017.html. Acesso em: 25 mar. 2021.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 45
+BRASIL. Ministério da Saúde; CONSELHO NACIONAL DE SAÚDE (Brasil). Nota Técnica conjunta
+ANViSA/SAS/MS n.º 011/2017. Critérios técnicos para triagem clínica de candidatos à doação
+de sangue para o vírus da febre amarela. Brasília, DF: MS, 2017c. Disponível em: https://
+portalarquivos.saude.gov.br/images/pdf/2017/fevereiro/21/Nota-Tecnica-Conjunta-011-2017-
+febre-amarela%20_versao-final.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise
+em Saúde e Vigilância de Doenças não Transmissíveis. Saúde Brasil 2019: uma análise da
+situação de saúde com enfoque nas doenças imunopreveníveis e na imunização. Brasília, DF:
+saude-brasil/saude-brasil-2019-analise-situacao-saude-enfoque-doencas-imunopreveniveis-
+imunizacao.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Imunização
+e Doenças Transmissíveis. Nota informativa n.º 169 de 2019 - cGArB/DEiDT/SVS/MS. Brasília,
+novembro/28/Nota-Informativa-CGARB-169-2019-Plano-de-acao-regiao-sul.pdf. Acesso em:
+26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância em Saúde:
+publicacoes/guia_vigilancia_saude_4ed.pdf. Acesso em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Imunizações e Doenças Transmissíveis. Manual de vigilância epidemiológica de eventos
+br/bvs/publicacoes/manual_vigilancia_epidemiologica_eventos_vacinacao_4ed.pdf. Acesso
+em: 26 mar. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Imunização
+e Doenças Transmissíveis. Manual de manejo clínico da febre amarela. Brasília, DF: MS, 2020b.
+amarela.pdf. Acesso em: 26 mar. 2021
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim Epidemiológico:
+situação epidemiológica da febre amarela no Monitoramento 2019/2020. Boletim
+media/pdf/2020/dezembro/09/boletim_epidemiologico_svs_46.pdf. Acesso em: 26 mar. 2021.
+CONSELHO NACIONAL DE SAÚDE (Brasil). resolução n.º 588, de 12 de junho de 2018. Institui a
+Política Nacional de Vigilância em Saúde (PNVS). Brasília, DF: MS, 2018. Disponível em: https://
+conselho.saude.gov.br/resolucoes/2018/Reso588_publicada.pdf. Acesso em: 25 mar. 2021.
+46 Secretaria de Vigilância em Saúde | Ministério da Saúde
+COSTA, Z. G. A. et al. Evolução histórica da vigilância epidemiológica e do controle da febre
+amarela no Brasil. revista Pan-Amazônica de Saúde, v. 2, n. 1, p. 11-26, 2011. Disponível em:
+FIORAVANTI, C. H. o combate à febre amarela no Estado de São Paulo: história, desafios e
+inovações. São Paulo: Secretaria de Estado da Saúde de São Paulo, 2018. Disponível em:
+Acesso em: 26 mar. 2021.
+IBGE. Projeções e estimativas da população do Brasil e das unidades da federação. Brasília,
+em: 26 mar. 2021.
+ROMANO, A. P. M. et al. Febre amarela no Brasil: recomendações para a vigilância, prevenção e
+controle. Epidemiologia e Serviços de Saúde, v. 20, n. 1, p. 101-106, 2011. Disponível em: http://
+scielo.iec.gov.br/pdf/ess/v20n1/v20n1a11.pdf. Acesso em: 26 mar. 2021.
+ROMANO, A. P. M. et al. Yellow Fever outbreaks in unvaccinated populations, Brazil, 2008-2009.
+org/10.1371/journal.pntd.0002740. Acesso em: 26 mar. 2021.
+Conte-nos o que pensa sobre esta publicação.
+clique aqui e responda a pesquisa.
+Plano de contingência para resposta às emergências em Saúde Pública: febre amarela 47
+bvsms.saude.gov.br

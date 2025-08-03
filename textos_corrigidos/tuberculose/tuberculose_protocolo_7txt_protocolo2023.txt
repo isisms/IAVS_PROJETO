@@ -1,0 +1,892 @@
+1 Pobreza, desnutrição, baixa escolaridade, moradias precárias, alta densidade populacional, dificuldade de acesso
+aosserviçosdesaúde,viveremáreasdealtaincidênciadeTB,usoabusivodeálcooleoutrasdrogas,migração,além
+de barreiras culturais e econômicas como determinantes sociais relacionados à ocorrência de TB.
+precoce dos casos de TB, a qual inclui a busca ativa de sintomáticos respiratórios
+e a busca passiva de casos, para investigação, diagnóstico e tratamento (e ou
+devido encaminhamento); 2) o fortalecimento da adesão terapêutica, a qual inclui
+o acolhimento, a implementação do TDO, a construção do Projeto Terapêutico
+Singular (PTS), o monitoramento dos casos e busca de faltosos (BRASIL, 2019a).
+Também está previsto na Carteira de Serviços da Atenção Primária à Saúde (BRASIL,
+2019b) a “Prevenção, rastreamento de sintomáticos respiratórios, diagnóstico,
+tratamento e acompanhamento da pessoa com tuberculose (tratamento com
+esquema básico, tratamento diretamente observado, rastreamento em
+pulmonar).”
+Podemos citar também, para além da assistência individual, a necessidade de
+em Saúde (VS). Tal integração colabora para que os profissionais de saúde reconheçam
+as particularidades do território, os determinantes e condicionantes da saúde individual e
+coletiva, as situações de risco sanitário e o contexto local das áreas de abrangência das
+Equipes de Saúde da Família (eSF) e das Equipes de Atenção Primária (eAP). A partir
+disso, diferentes processos de trabalho podem ser necessários, considerando as
+de cada território. Portanto, a sensibilização das equipes da APS, quanto a importância
+de direcionar suas ações também para o tratamento da TB, contribui para o
+planejamento de estratégias de promoção e proteção da saúde da população, de
+prevenção e controle de riscos, agravos e doenças (BRASIL, 2018a).
+No Brasil, assim como em vários países, a TB é considerada condição sensível
+(BRASIL, 2017a): “Prevenção e Cuidado Integrado Centrado no Paciente”. Portanto,
+fortalecimento da adesão e redução de situações de vulnerabilidade2, contribuindo para
+maior controle da doença. Dentre as ações realizadas na APS estão:
+- Identificar novos casos no território, através da busca ativa de sintomáticos
+respiratórios;
+2 A dificuldadedeacessoaosserviçosdesaúdeéumdeterminantesocialrelacionadoàTBevistoqueaAPSéaporta
+de entrada preconizada aos serviços do SUS, o atendimento desta doença neste nível de atenção torna-se uma
+potencialidade para o controle da doença.
+- Realizar diagnóstico oportuno dos usuários, diminuindo a chance de transmissão
+da tuberculose para seus contatos;
+- Iniciar o tratamento imediatamente, evitando que o paciente circule por vários
+serviços até receber o medicamento;
+- Realizar a investigação e controle dos contatos, tratando, quando indicado, a
+infecção latente e/ou a doença;
+- Organizar, implementar e supervisionar o TDO nas Unidades de Saúde,
+diminuindo a chance de abandono do uso da medicação pelo usuário;
+- Participar da construção de estratégias que visem fortalecer a comunicação entre
+os três níveis de atenção, de forma a estimular que aconteça a referência e
+contrarreferência dos casos de TB;
+- Participar da construção de planos compartilhados de cuidado com a rede
+intersetorial, para a promoção do cuidado de usuários em situação de
+vulnerabilidade social.
+APS, amplia-se a possibilidade de aumento dos índices de cura, a redução do abandono
+do tratamento, a redução de vulnerabilidades, a contribuição para o enfrentamento dos
+determinantes sociais relacionados à doença e, por consequência, o decréscimo da
+transmissão da tuberculose na população.
+2. OBJETIVO
+cuidado, frente às recomendações de controle da TB, as quais incluem o enfrentamento
+articulado em rede, além de definir critérios para o rastreamento, diagnóstico, tratamento
+e acompanhamento dos casos de tuberculose nas Unidades Básicas de Saúde (UBS),
+de forma a fortalecer e qualificar o cuidado ao indivíduo acometido por esta doença,
+garantindo a resolução prevista para esse ponto da Rede de Atenção à Saúde (RAS).
+3. DETECÇÃO DE CASOS SUSPEITOS DE TUBERCULOSE
+O controle da TB requer uma ação permanente, sustentada e organizada, com
+assistência qualificada no processo de acompanhamento (BRASIL, 2017a). O Ministério
+da Saúde estima que 1% da população seja composta por sintomáticos respiratórios
+(SR), definidos como indivíduos que apresentam tosse por três ou mais semanas. O
+tempo de três semanas de tosse é válido para a população geral, porém em populações
+específicas pode ser duas semanas ou a qualquer tempo (BRASIL, 2019).
+de atividades de todos os membros das equipes de saúde, tendo em vista que a
+Nacional de Controle da Tuberculose. O rastreamento de casos sintomáticos
+respiratórios pode ocorrer de duas formas:
+Busca Passiva: é aquela em que a equipe de saúde investiga os usuários que procuram
+espontaneamente o serviço de saúde; e
+Busca Ativa: é aquela em que a equipe estabelece ações fora da Unidade de Saúde, na
+comunidade.
+Quadro 1: Orientações para busca de SR em populações específicas:
+- Busca Passiva: a partir da demanda espontânea (quando a PPL
+demanda por serviço de saúde), a equipe de saúde deve investigar a
+prisional3
+TB;
+- Busca ativa de sintomático respiratório: deve ser realizada no
+momento do ingresso no sistema prisional (dentro de, no máximo, 7
+dias) e entre os contatos. Além da busca ativa através de entrevista,
+é indicado, quando possível, o exame radiológico como forma de
+triagem, para todas as PPL.
+Recomenda-se também o rastreamento em massa (“campanha”),
+idealmente duas vezes ao ano, o qual consiste em uma entrevista
+tosse, tratamento anterior de TB e infecção por HIV. Se apresentar
+tosse de qualquer tempo de duração, deve ser encaminhado
+para a realização de exames de diagnóstico.
+3Para mais informações acessarNota Informativa ConjuntaNº 01/2022 - Vigilância Epidemiológica da Tuberculose
+(TB) na Saúde Prisional.
+Em instituições fechadas na área dos serviços de APS, como
+Instituições de Longa Permanência e albergues, é desejável que a
+estratégia de busca ativa de SR seja realizada periodicamente. Essa
+organização operacional local. Se apresentar tosse de qualquer
+tempo de duração, deve ser encaminhado para a realização de
+exames de diagnóstico.
+Deve-se estabelecer uma rotina para a realização da busca ativa do
+SR, considerando o elevado risco de adoecimento dessa população.
+domiciliar e em eventos que ocorrem nas aldeias. Se apresentar
+tosse de qualquer tempo de duração, deve ser encaminhado
+para a realização de exames de diagnóstico.
+situação de rua em conjunto com equipes de assistência social,
+serviços itinerantes e consultórios na rua, para identificação dos
+casos e encaminhamento, com articulação entre unidades de saúde
+e abrigos, visando o cuidado compartilhado. Se apresentar tosse de
+qualquer tempo de duração, deve ser encaminhado para a
+realização de exames de diagnóstico.
+Se apresentar tosse de qualquer tempo de duração, deve ser
+- Contato de
+encaminhado para a realização de exames de diagnóstico.
+- Pessoas que
+- Imigrantes
+-Profissionais
+Se apresentar tempo de tosse de 2 semanas ou mais, deve ser
+encaminhado para a realização de exames de diagnóstico.
+Fonte: Brasil, 2019; Brasil, 2022b.
+O rastreamento, conforme Fluxograma dos Sintomáticos
+Respiratórios na APS (APÊNDICE I), deve ser realizado de forma compartilhada com
+população, consequentemente diminuindo a incidência de tuberculose no território.
+4. NOTIFICAÇÃO DOS CASOS DE TUBERCULOSE NO SISTEMA DE
+INFORMAÇÃO DE AGRAVOS DE NOTIFICAÇÃO (SINAN)
+Conforme Portaria Ministerial, a tuberculose é uma doença de notificação
+compulsória (Portaria nº 204, de 17 de fevereiro de 2016). Notifica-se apenas o caso
+confirmado de tuberculose (critério laboratorial ou clínico-radiológico/tratamento de
+prova). Mediante a confirmação de um caso de tuberculose, a Unidade de Saúde
+(pública ou privada) que identifica o caso é responsável pela sua notificação. Outros
+serviços podem notificar o caso, como por exemplo, os laboratórios.
+A notificação é feita por meio do preenchimento da “Ficha de
+notificação/Investigação de Tuberculose” (Anexo I). O caso de tuberculose deve ser
+acompanhamento gerado pelo SINAN (Anexo II). Estes dados devem ser inseridos
+mensalmente no SINAN, pela vigilância municipal.
+5. ORIENTAÇÕES PARA REGISTRO NO E-SUS APS
+O e-SUS APS é uma estratégia para reestruturar as informações da APS em nível
+nacional. O Ministério da Saúde disponibiliza gratuitamente os sistemas de software
+necessários à implementação da estratégia e-SUS APS: Coleta de Dados Simplificada
+(CDS) ou Prontuário Eletrônico do Cidadão (PEC). Os municípios ainda podem utilizar
+sistemas próprios/terceiros, com adequada integração ao Sistema de Informação em
+Saúde para Atenção Básica (SISAB). Cabe ressaltar que, a partir do novo modelo de
+financiamento da APS, os dados enviados ao SISAB serão fundamentais para o repasse
+financeiro às equipes, por meio da capitação ponderada e dos indicadores de
+desempenho. É imprescindível que os registros das ações relacionadas ao cuidado dos
+usuários, seja em consultas, visitas domiciliares ou em outro tipo de atendimento, sejam
+inseridos através das ferramentas de entrada de dados da Estratégia e-SUS APS. Isto é
+necessário para a realização adequada do monitoramento, avaliação e repasse
+financeiro referente às ações da tuberculose4.
+O correto registro das informações deve ser realizado observando:
+- O cadastro individual do usuário, o mais completo possível, com dados do CNS
+e/ou CPF atualizados;
+- O registro da condição "tuberculose" no prontuário eletrônico, por profissional
+médico ou enfermeiro, utilizando o campo “Problema e/ou condição detectada”,
+incluindo obrigatoriamente o CIAP2 ou CID10 correspondentes.
+Códigos CIAP2: Tuberculose código A70 (Figura 1).
+Principais códigos CID10: Z20.1; Z11.1; Z030; A15; A17; A18; A19. Tuberculose
+associada a outras doenças: N74.0; N74.1; B20.0; J65; O98.0; P37.0. Considerar febre
+(R50) e tosse (R05).
+- A transmissão mensal dos dados de produção da Atenção Primária para a base
+nacional do SISAB, até o décimo dia útil do mês subsequente à sua realização5.
+Figura 1: Registro da condição tuberculose no campo Problema e/ou condição
+Fonte: e-SUS APS
+4 Consultar Programa Estadual de Incentivos para Atenção Primária à Saúde (PIAPS).
+5PORTARIA Nº 4, DE 28 DE JANEIRO DE 2021
+6. DIAGNÓSTICO
+epidemiológico, em função da transmissão por via respiratória. Contudo, existem
+apresentações extrapulmonares, as quais têm seus sinais e sintomas dependentes dos
+órgãos ou sistemas acometidos (BRASIL, 2019). Quando há suspeita de tuberculose
+secundária ou terciária de acompanhamento de tuberculose, já os pacientes HIV
+soropositivos devem ser encaminhados para o Serviço de Atenção Especializada (SAE).
+Em relação à TB pulmonar, os métodos para o diagnóstico laboratorial são
+a baciloscopia, a cultura para micobactérias e o Teste Rápido Molecular/ GeneXpert
+(TRM-TB).
+Mycobacterium tuberculosis (CMTB) e das micobactérias não tuberculosas (MNT), para
+posterior realização do Teste de Sensibilidade às Drogas Antimicrobianas (TSA).
+Atentar para outros sinais e sintomas além da tosse, dentre os quais:
+febre vespertina, sudorese noturna, anorexia, astenia (cansaço e mal estar),
+emagrecimento, dor torácica, hemoptise e/ou escarro hemático.
+HIV. O diagnóstico precoce de infecção pelo HIV em pessoas com tuberculose tem
+indivíduo (Brasil, 2019).
+6.1 MÉTODOS DIAGNÓSTICOS
+6.1.1 Baciloscopia
+A pesquisa bacteriológica é de fundamental importância em adultos, tanto
+para o diagnóstico quanto para o controle de tratamento da TB. Por ser um método
+simples e seguro, deve ser realizado por todo laboratório público de saúde e pelos
+laboratórios privados conveniados e tecnicamente habilitados. A pesquisa do bacilo
+álcool-ácido resistente - BAAR, pelo método de Ziehl-Neelsen, é a técnica mais utilizada
+em nosso meio (BRASIL, 2019).
+A baciloscopia de escarro é indicada nas seguintes condições:
+- No sintomático respiratório, durante estratégia de busca ativa;
+- Em caso de suspeita clínica e/ou radiológica de TB pulmonar, independentemente do
+tempo de tosse; e
+- Para acompanhamento e controle de cura em casos pulmonares com confirmação
+laboratorial.
+amostras: uma por ocasião do primeiro contato com a pessoa que tosse e a outra
+preferencialmente no dia seguinte, com a coleta do material sendo feita ao despertar.
+Para garantir a qualidade da baciloscopia, a coleta das amostras deve seguir as
+Recomendações para o Controle da Tuberculose no Brasil (2019), pág. 62.
+Municípios e/ou serviços de saúde que fazem a busca ativa de SR devem
+planejar e monitorar essa atividade, levando em conta a população local. Conforme já
+mencionado, o número de sintomáticos respiratórios que se espera encontrar é de 1%
+da população geral (Brasil, 2019).
+6.1.2 Cultura para micobactérias, identificação e teste de sensibilidade:
+diagnóstico da TB. Tanto nas situações de retratamento (seja reingresso pós abandono
+ou recidiva), como nos casos de coinfecção com HIV, profissionais de saúde e situações
+de vulnerabilidade social (PSR, PPL, Albergues, Comunidades terapêuticas para
+usuários de álcool e outras drogas ou instituições de longa permanência, população
+indígena, imigrantes, dentre outros) a cultura com identificação e teste de sensibilidade,
+deve sempre ser solicitada.
+população privada de liberdade, a cultura e o TSA devem ser sempre realizados em
+todos os sintomáticos respiratórios identificados na população prisional, além da
+baciloscopia ou TRM-TB (BRASIL, 2019).
+Cabe ressaltar que, nos casos pulmonares com baciloscopia negativa, a
+cultura do escarro pode aumentar em até 30% o diagnóstico bacteriológico da doença.
+Idealmente, a cultura deve ser realizada independente do resultado da
+baciloscopia para todos os casos com suspeita de TB. O teste de sensibilidade deverá
+reduzem o tempo para o resultado do perfil de sensibilidade/resistência às principais
+drogas utilizadas no tratamento (BRASIL, 2019).
+cultura, sugerimos que seja questionado ao gestor municipal a disponibilidade local ou
+regional, bem como estimulada a contratualização/pactuação para a realização desses
+exames.
+6.1.3 Radiografía de tórax:
+Entre os métodos de imagem, a radiografia de tórax é o de escolha na
+avaliação inicial e no acompanhamento da TB pulmonar. Deve ser solicitada para todo o
+paciente com suspeita clínica de TB pulmonar. Juntamente com as radiografias de tórax,
+sempre devem ser realizados exames laboratoriais (baciloscopias, cultura com TSA e/ou
+teste rápido molecular) na tentativa de buscar o diagnóstico bacteriológico e acompanhar
+a evolução baciloscópica. O exame radiológico em pacientes com diagnóstico
+bacteriológico tem como principais objetivos excluir outra doença pulmonar associada,
+avaliar a extensão do acometimento e sua evolução radiológica durante o tratamento.
+Geralmente são realizadas duas radiografias, uma no diagnóstico e a segunda no final
+do tratamento (BRASIL, 2019).
+6.1.4 Teste Rápido Molecular (TRM-TB)
+O TRM-TB está indicado, prioritariamente, para o diagnóstico de novos
+adultos e adolescentes. Esse método não deve ser utilizado para diagnóstico em
+pessoas que já foram tratadas anteriormente para tuberculose, mas pode ser utilizado
+para avaliação de resistência à rifampicina nestes casos.
+Nos locais em que a máquina está disponível, também têm seu uso
+prioritário no diagnóstico. No RS, atualmente, estão disponíveis máquinas em 12
+municípios de alta carga de tuberculose e são eles: Alvorada, Canoas, Charqueadas,
+Gravataí, Pelotas, Porto Alegre, Passo Fundo, Rio Grande, Santa Maria, São Borja, São
+Leopoldo e Viamão.
+6.1.5 Prova Tuberculínica (PT)
+A prova tuberculínica (PT) é utilizada para diagnóstico da infecção latente
+por tuberculose (ILTB), e pode também auxiliar no diagnóstico de tuberculose ativa em
+crianças (WHO, 2015).
+de hipersensibilidade cutânea após a aplicação do PPD por via intradérmica, em que a
+leitura é realizada 48 a 72 horas após a aplicação, podendo ser estendido até 96 horas
+(BRASIL, 2014).
+diagnóstico de TB pulmonar ou extrapulmonar no adulto. Uma PT positiva não confirma
+o diagnóstico de TB ativa, assim como uma PT negativa não o exclui (BRASIL, 2019 -
+p.84).
+Assim, a PT é indicada para:
+- Identificar casos Infecção Latente da Tuberculose (ILTB) em adultos e crianças; e
+- Auxiliar no diagnóstico de TB ativa em crianças.
+A prova tuberculínica reativa, isoladamente, não é suficiente para o
+diagnóstico da tuberculose. Além disso, é um método complementar de diagnóstico, não
+excluindo os métodos tradicionais: avaliação clínica, radiológica e baciloscópica. Mesmo
+na ausência deste insumo, não se deve deixar de avaliar o paciente pelos métodos
+tradicionais.
+7. SIGILO
+A Lei n° 14.289/22 estabelece a obrigatoriedade de preservação do sigilo
+humana (HIV) e das hepatites crônicas (HBV e HCV) e de pessoa com hanseníase e
+com tuberculose (TB). Os serviços de saúde, públicos ou privados, e as operadoras de
+relativas a pessoas que vivem com as condições supracitadas, bem como a garantir o
+sigilo das informações que eventualmente permitam a identificação dessas condições.
+Ainda, segundo a NOTA INFORMATIVA Nº 3/2022-CGDR/.DCCI/SVS/MS,
+ressalta-se que as ações de vigilância e de atenção à TB não são alteradas pela Lei
+14.289/2022 (BRASIL, 2022c), ou seja, a lei não define que a assistência à pessoa em
+investigação para TB ou com TB confirmada deve mudar, o que deve ser adequado é o
+tratamento de seus dados pessoais sensíveis e a preservação do sigilo. A nota
+desdobramentos da Lei 14.289/2022 em situações rotineiras de serviços e programas de
+TB em estados e municípios.
+Isto posto, orienta-se que seja solicitado o consentimento à pessoa com TB
+ou seu responsável legal, onde será expresso a manifestação livre e informada na qual a
+relacionadas ao controle da doença (como controle de contatos, visita domiciliar, TDO,
+para o cuidado, por exemplo). Por isso, profissionais e serviços devem estar preparados
+privacidade. No Anexo III consta um modelo para o consentimento.
+8. ORGANIZAÇÃO A NÍVEL MUNICIPAL
+apresentadas no fluxograma a seguir.
+Figura 2: ações de controle da tuberculose a serem realizadas no âmbito municipal
+Fonte: produção própria da SES/RS (2020).
+Ressalta-se também, que compete à instância municipal, entre outras
+ações, assegurar a realização dos exames diagnósticos, conforme preconizado nas
+normas, identificar e organizar a rede de laboratórios locais e suas referências
+municipais, regionais e estaduais (BRASIL, 2019).
+farmacêutica, de modo a garantir o acesso aos medicamentos para tuberculose ativa e
+latente, através da definição dos locais de dispensação/fornecimento e cuidado
+farmacêutico (BRASIL, 2021a). A organização da assistência farmacêutica no âmbito da
+APS e o uso racional de medicamentos devem ser objeto de integração, trabalhando-se
+além do acesso aos medicamentos, a atenção farmacêutica, a facilitação das
+interconsultas, o uso de novos medicamentos e as ações de farmacovigilância da TB
+(BRASIL, 2022b). Recomenda-se ainda que haja registro periódico e sistematizado da
+dispensação/entrega dos medicamentos para cada paciente, uma vez que registros
+indireto de controle de adesão (BRASIL, 2013).
+Deste modo, recomenda-se promover capacitações periódicas de forma
+simples e objetiva, em todos os serviços do município, com o tema da tuberculose. É
+importante que participem dessas reuniões na unidade de saúde, desde o vigilante,
+recepcionista e agentes comunitários de saúde até a equipe de enfermagem,
+profissionais de laboratório, médicos, outras categorias de profissionais de saúde,
+equipes do programa saúde na escola e agentes de diferentes instituições, tais como:
+sistema prisional, aldeias indígenas e representantes dos conselhos de saúde, como os
+usuários conselheiros e outras instituições de longa permanência (BRASIL, 2022b).
+da Tuberculose implementado, com o auxílio das Coordenadorias Regionais de Saúde
+(CRS), deve-se identificar e pactuar fluxos para o serviço que será referência em
+atenção secundária, podendo ser um Serviço de Atenção Especializada (SAE) ou um
+especialista (por exemplo, infectologista ou pneumologista) no próprio município ou em
+um município próximo.
+9. TRATAMENTO
+A tuberculose é uma doença curável, em praticamente todos os casos, em
+pessoas com bacilos sensíveis aos medicamentos antituberculose (anti TB), quando o
+indicado é mantido sem interrupção até a sua conclusão. O profissional de saúde deve
+orientar o paciente de forma clara, atentando-se para identificar possíveis dificuldades
+à adesão ao tratamento, considerando as especificidades e necessidades de cada
+indivíduo.
+No Brasil, o esquema básico para tratamento da TB em adultos e adolescentes
+(ver quadro 2) é composto por quatro fármacos na fase intensiva e dois na fase de
+manutenção. Atualmente, contamos com apresentações farmacológicas em dose fixa
+combinada tanto para a fase de ataque quanto para a fase de manutenção. Estão
+disponíveis uma apresentação de RHZE (4 em 1), comprimidos de dose fixa combinada
+contendo 150mg de Rifampicina + 75mg de Isoniazida + 400mg de Pirazinamida + 275
+mg de Etambutol em cada comprimido, e duas apresentações de RH (2 em 1), uma
+contendo 150mg de Rifampicina + 75mg de Isoniazida em cada comprimidos e a
+segunda, incluída em 2022, contendo 300mg de Rifampicina + 150mg de Isoniazida em
+cada comprimido (BRASIL, 2022d). No quadro 2 são apresentadas as dosagens
+recomendadas considerando-se todas apresentações disponíveis no momento.
+Em todos os esquemas de tratamento, os medicamentos devem ser ingeridos
+diariamente e de uma única vez. O tratamento em regime ambulatorial,
+prioritariamente, deve ser realizado por meio da estratégia de Tratamento Diretamente
+Observado (TDO).
+Quadro 2: Esquema Básico para o tratamento da TB em adultos e adolescentes (≥ 10
+anos de idade):
+Esquema Faixas de peso Unidade/Dose Duração
+RHZE 20 a 35 Kg 2 comprimidos 2 meses (fase
+150/75/400/275 mg intensiva)
+36 a 50 Kg 3 comprimidos
+(comprimidos em
+51 a 70 Kg 4 comprimidos
+combinadas)
+Acima de 70 Kg 5 comprimidos
+RH 300/150 mg 20 a 35 Kg 1 comp 300/150 mg 4 meses (fase
+OU 2 comp 150/75 mg manutenção)
+RH 150/75 mg 36 a 50 Kg 1 comp 300/150 mg + 1
+comp de 150/75 mg
+(comprimidos em ou
+doses fixas 3 comp 150/75 mg
+combinadas)*
+51 a 70 Kg 2 comp 300/150 mg
+4 comp 150/75 mg
+Acima de 70 Kg 2 comp 300/150 mg + 1
+comp de 150/75 mg
+5 comp 150/75 mg
+*Atenção para a dosagem do medicamento ao fornecer para os usuários.
+Fonte: Brasil, 2019.
+Para o tratamento de esquema básico em crianças <10 anos de idade (ver
+quadro 3 e 4), estão disponíveis comprimidos de dose fixa combinada ou com fármacos
+individualizados, a depender do peso do paciente. É composto por três fármacos na fase
+intensiva (Rifampicina, Isoniazida e Pirazinamida), e dois fármacos na fase de
+manutenção (Rifampicina e Isoniazida). Os comprimidos de dose fixa combinada são
+dispersíveis. Cada comprimido de RHZ dispersível contém 75mg de Rifampicina + 50mg
+de Isoniazida + 150mg de Pirazinamida (3 fármacos em 1 comprimido) e cada
+comprimido de RH dispersível contém 75mg de Rifampicina + 50mg de Isoniazida (2
+fármaco em 1 comprimido). Também estão disponíveis para o tratamento da tuberculose
+ativa em crianças <10 anos de idade, as seguintes apresentações de fármacos
+individualizados: Rifampicina 20mg/ml (20%) suspensão oral, Isoniazida comprimidos de
+100mg, Pirazinamida 500mg comprimidos e Pirazinamida 150mg comprimidos
+dispersíveis. Os quadros 3 e 4 apresentam as recomendações de uso das diferentes
+apresentações disponíveis.
+Quadro 3- Esquema Básico para o tratamento da tuberculose pulmonar em
+crianças menores de 10 anos de idade e com peso inferior a 25Kg.
+Quadro 4 - Esquema básico para o tratamento da TB pulmonar em crianças
+menores de 10 anos de idade com peso igual ou superior a 25Kg
+realizado com consultas médicas e de enfermagem mensais, nas quais será
+reavaliada a adesão ao tratamento, o número de doses tomadas, a evolução clínica, a
+forem necessários.
+Quadro 5: Consultas clínicas e exames de seguimento do tratamento da TB adultos:
+Procedimentos 1ºmês 2ºmês 3ºmês 4ºmês 5ºmes 6ºmês OBS
+(médico e critério clínico
+enfermeiro)
+o HIV (se possível no
+possível realizar primeiro mês,
+rápidos, sífilis e tratamento
+hepatites virais)
+Glicemia, função x No início e repetir a
+Fonte: Adaptado de Brasil, 2019.
+9.1 Reações adversas
+As reações adversas podem ser divididas em dois grandes grupos: reações
+adversas “menores” (Quadro 5), em que normalmente não é necessária a suspensão
+dos medicamentos, e reações adversas “maiores”, que normalmente causam a
+suspensão do tratamento,e nestes casos o paciente deverá ser encaminhado para a
+referência secundária para TB.
+Quadro 6: Reações adversas menores aos fármacos do Esquema Básico*
+Efeitos adversos Provável(eis) fármaco(s) Condutas
+responsável(eis)
+Intolerância digestiva Etambutol/ Isoniazida/ Reformular o horário da
+(náusea e vômito) e Pirazinamida/ Rifampicina administração dos
+epigastralgia medicamentos (duas horas
+após o café da manhã).
+medicação sintomática.
+Avaliar a função hepática.
+Suor/urina de cor Rifampicina Orientar.
+Prurido e exantema leve Isoniazida/ Rifampicina Medicar com
+anti-histamínico.
+Dor articular Isoniazida /Pirazinamida Medicar com analgésicos
+hormonais.
+Neuropatia periférica Etambutol (incomum) Medicar com piridoxina
+Isoniazida (comum) (vitamina B6) na dosagem
+de 50mg/dia e avaliar a
+evolução.
+Hiperuricemia (com ou sem Etambutol/ Pirazinamida Orientar dieta hipopurínica
+sintomas) e medicar com alopurinol
+ou colchicina, se
+necessário.
+Cefaleia e mudança de Isoniazida Orientar.
+comportamento (euforia,
+insônia, depressão leve,
+ansiedade e sonolência)
+Febre Isoniazida/ Rifampicina Orientar e medicar com
+antitérmico.
+Fonte: Adaptado de Brasil, 2011.
+*Observações:
+- Não há necessidade de alteração da composição do esquema em reações
+adversas menores;
+- As reações adversas menores devem ser manejadas na própria APS; e
+- Como parte importante da farmacovigilância, recomenda-se que as reações
+adversas aos medicamentos antiTB sejam notificadas à Anvisa, pelo sistema
+VigiMed, para o monitoramento da sua frequência.
+10. TRATAMENTO DIRETAMENTE OBSERVADO (TDO)
+profissionais de saúde (BRASIL, 2019). Tal ação inclui a construção do vínculo e a
+observação da ingestão dos medicamentos, que deve ser realizada, idealmente, todos
+os dias da semana por profissional de saúde ou outros profissionais capacitados, desde
+que supervisionados por profissionais de saúde. Será considerado TDO se a observação
+da tomada ocorrer no mínimo três vezes por semana durante todo o tratamento (24
+doses na fase intensiva e 48 doses na fase de manutenção em casos de tratamento
+padronizado por 6 meses). A observação das tomadas de medicação realizadas de
+segunda-feira a sexta-feira, ou pelo menos três vezes na semana, devem ser registradas
+no cartão de TDO.
+Centro POP, abrigos institucionais, Centros de Atenção Psicossocial - CAPS e outros
+parceiros, desde que supervisionados (e/ou capacitados) por um profissional de saúde
+(BRASIL, 2011). O TDO realizado nestes outros serviços pode potencializar a adesão ao
+tratamento pelo usuário, uma vez que se considera os vínculos estabelecidos por eles
+nos diferentes pontos da rede de cuidado e proteção.
+Na APS, a realização do TDO faz parte das atribuições dos ACS e deve-se
+usuário e operacionalização da estratégia. O ACS deve fazer a observação das tomadas
+de medicação de segunda-feira a sexta-feira. Caso isso não seja possível, no mínimo
+três vezes por semana, supervisionado semanalmente por um profissional de nível
+superior (BRASIL, 2017c).
+da construção de um PTS como uma ação de fortalecimento da adesão ao tratamento.
+inclusão do suporte familiar e as redes de apoio do indivíduo em tratamento. É um
+dispositivo de cuidado que deve ser acionado nas situações mais complexas, que no
+caso da TB são bastante recorrentes. Tais situações, em partes se configuram pela
+presença de determinantes sociais relacionados a não adesão ao tratamento: cenários
+de instabilidade financeira, de extrema pobreza, iniquidades de acesso a bens e
+serviços, bem como fatores culturais, étnico-raciais e comportamentais frente ao
+tratamento de uma doença (BRASIL, 2019).
+O PTS, nesse sentido, contribui para que a equipe, ao discutir o caso, entre os
+profissionais e com o usuário, identifique necessidades e potencialidades do mesmo, o
+aspectos do seu contexto de vida. A partir disso, torna-se possível construir estratégias
+de cuidado de modo dialogado, que vão ao encontro da realidade do sujeito e façam
+sentido para o mesmo, o que pode contribuir para a adesão ao tratamento.
+Deste modo, pensando na integração das ações da tuberculose na APS, a
+Políticas de Saúde, instituiu em 2021 o Programa Estadual de Incentivos para Atenção
+Primária à Saúde (PIAPS) o qual visa à qualificação da Atenção Primária à Saúde, por
+meio de repasse de recursos financeiros aos municípios, para fins de custeio e
+trabalho da APS no âmbito municipal.
+O PIAPS é constituído dos seguintes componentes:
+I - sociodemográfico;
+II - incentivo para equipes da Atenção Primária à Saúde;
+III - incentivo à Promoção da Equidade em Saúde;
+IV - incentivo ao Primeira Infância Melhor; e
+V - estratégico de incentivo à qualificação da Atenção Primária à Saúde: Rede Bem
+Cuidar RS (RBC/RS).
+Dentro do componente II, estão previstos o atingimento de cinco indicadores,
+para tuberculose.
+Para saber mais sobre a meta e forma de cálculo deste e dos demais indicadores,
+11. CONTROLE DE CONTATOS
+os casos de TB, bem como para identificação de indivíduos recém-infectados pelo
+Mycobacterium tuberculosis no âmbito dos programas de controle da tuberculose. Para o
+diagnóstico precoce da TB além da busca de SR, é necessário que a APS realize
+investigação dos contatos de caso de TB. Denomina-se “contato de caso de TB” - toda
+pessoa que foi exposta ao caso índice ou caso fonte, no momento da descoberta do
+caso de tuberculose. Esse convívio pode ocorrer em casa, em ambientes de trabalho,
+em instituições de longa permanência, em escolas, dentre outros (BRASIL, 2019).
+A investigação de contatos, conforme Fluxograma de Investigação de
+Contatos (Anexos IV e V), envolve a avaliação clínica com o objetivo de identificar a
+possibilidade de doença ativa ou ILTB.
+Recém-nascidos (RN) expostos a casos TB pulmonar ou laríngea podem ser
+infectados pelo M. tuberculosis (MTB) e desenvolver formas graves da doença. Nessas
+situações recomenda-se postergar a vacinação pela BCG e, após descartado
+tuberculose ativa, iniciar a quimioprofilaxia primária, conforme fluxograma abaixo:
+Fonte: Brasil, 2019
+OBS: É importante lembrar que, antes de se iniciar o tratamento da ILTB, deve-se
+sempre investigar e descartar sinais e sintomas clínicos sugestivos de TB ativa.
+Caso o RN tenha sido inadvertidamente vacinado com BCG, recomenda-se o
+uso de H por seis meses e não está indicada a realização da PT. Avaliar individualmente
+a necessidade de revacinar para BCG após esse período, já que a H é bactericida e
+pode interferir na resposta imune aos bacilos da BCG efetuada (BRASIL, 2019).
+12. INFECÇÃO LATENTE DA TUBERCULOSE (ILTB)
+Mycobacterium tuberculosis, sem manifestação da doença ativa. Em geral, as pessoas
+infectadas permanecem saudáveis por muitos anos, sem transmitir o bacilo. Estima-se
+(BRASIL, 2017a)
+Quando uma pessoa saudável é exposta ao bacilo da TB, tem 30% de
+chance de infectar-se, dependendo do grau de exposição (proximidade, condições do
+ambiente e tempo de convivência), da infectividade do caso índice (quantidade de
+bacilos eliminados, presença de caverna na radiografia de tórax) e de fatores
+imunológicos individuais (BRASIL, 2018b).
+(pulmonar/laríngea ou extrapulmonar). O diagnóstico da ILTB deve ser realizado
+prioritariamente na atenção primária, ou nas referências secundária e terciária, com
+especial atenção às populações sob maior risco de adoecimento. O diagnóstico da ILTB
+deve ser realizado por meio dos testes da PT ou do IGRA6 (ensaio de detecção de
+interferon-gama em amostras de sangue) (BRASIL, 2022a).
+A indicação do tratamento da ILTB depende de vários fatores, a saber: o
+resultado da PT ou do IGRA, a idade da pessoa, a probabilidade de ILTB e o risco para o
+desenvolvimento de TB ativa. Para ver critérios de indicação de tratamento consultar
+pág. 15 do Protocolo de vigilância da infecção latente pelo Mycobacterium tuberculosis
+no Brasil.
+Atualmente estão disponíveis três regimes de tratamento para ILTB, conforme
+demonstra o quadro 7.
+O esquema 3HP é o esquema preferencial para o tratamento da ILTB em
+adultos (exceto gestantes) e crianças a partir de 2 anos de idade, segundo
+recomendação do MS e respeitadas as considerações da Nota Informativa N° 05/2021 -
+CGDR/.DCCI/SVS/MS (BRASIL, 2021b). Possui a vantagem da comodidade posológica
+para o paciente, uma vez que os medicamentos Rifapentina 150mg (P) e Isoniazida (H)
+300mg são tomados em doses semanais durante 3 meses (12 doses), favorecendo a
+adesão e sendo mais seguro do que os esquemas de 6 ou 9 meses com Isoniazida
+isolada.
+6O IGRA não está disponível nos serviços públicos no RS, está sendo implantado aos poucos no País. Até o presente
+momento na rede pública do RS há disponível somente a PT.
+Além do esquema HP, estão disponíveis os tratamentos com Isoniazida 100mg
+e Rifampicina 300mg cápsulas. O uso de Rifampicina 300mg cápsulas está indicado
+para indivíduos com mais de 50 anos, hepatopatas, contatos de pessoas com TB
+resistente a H e intolerância a H.
+No momento, a utilização de Rifampicina 20mg/ml suspensão oral não está
+disponível para o tratamento da ILTB em crianças, pois o medicamento encontra-se em
+risco de desabastecimento. Para pediatria, deve-se considerar o uso do esquema 3 HP
+(a partir dos 2 anos de idade) ou com Isoniazida 100 mg comprimidos.
+A apresentação de isoniazida 300mg comprimidos é restrita ao uso em
+associação com Rifapentina 150mg na composição do esquema 3 HP.
+Quadro 7: Esquemas de tratamento da infecção latente pelo Mycobacterium tuberculosis
+disponíveis no Sistema Único de Saúde (SUS).
+Fonte: Brasil, 2022a.
+O tratamento de ILTB, quando indicado, deve ser realizado na APS. Os
+30 dias, no máximo 60 dias, nas quais devem ser realizadas as avaliações clínicas de
+efeitos adversos, bem como o surgimento de qualquer sinal ou sintoma de tuberculose.
+No caso dos tratamentos com o esquema novo HP (Rifapentina 150mg + Isoniazida
+300mg), as consultas devem ser no mínimo mensais. Não se recomenda repetir o
+completo de tratamento da ILTB, exceto em situações especiais sob indicação médica
+(ex: PVHA em contato com caso fonte bacilífero) (BRASIL 2019; BRASIL, 2020).
+O acesso aos medicamentos que constam no quadro 7 deve ser garantido
+pela definição dos locais de dispensação/fornecimento e cuidado farmacêutico, a
+exemplo do que deve ocorrer com os medicamentos do esquema básico. Os registros de
+fornecimento/dispensação para cada paciente, pode ser utilizado como método indireto
+de controle de adesão, bem como método auxiliar no controle do número de doses
+diárias administradas uma vez que, para os tratamentos de ILTB, o número de doses
+tratamento (BRASIL, 2018b).
+Como parte importante da farmacovigilância, recomendamos que as reações
+adversas aos medicamentos para ILTB sejam notificadas à Anvisa, pelo sistema VigiMed
+(VigiMed - Saiba mais — Português (Brasil) (www.gov.br)), para o monitoramento da sua
+frequência.
+no sistema de informação para notificação das pessoas em tratamento de ILTB (Anexo
+VI). Para mais informações acesse o Protocolo de vigilância da infecção latente pelo
+Mycobacterium tuberculosis no Brasil.
+13. O ACOMPANHAMENTO DA PESSOA COM TB NA ATENÇÃO PRIMÁRIA
+potencial de interferir positivamente na adesão ao tratamento. Esta ação, juntamente
+com a detecção dos casos da doença, diagnóstico e tratamento por meio do TDO,
+construção de PTS, se configuram como parte do cuidado integral e longitudinal às
+pessoas com TB e suas famílias.
+Esse cuidado envolve outros profissionais, além do médico e do enfermeiro
+(BRASIL, 2017b). Neste sentido é importante salientar que os Agentes Comunitários de
+Saúde (ACS) e os Agentes de Combate à Endemias (ACE) são membros da equipe que
+possuem vínculo estratégico com as famílias e território (BRASIL, 2018a; BRASIL,
+2017b).
+Embora o cuidado integral às pessoas com TB esteja, na maioria dos municípios,
+centralizado na unidade de referência (PMCT), cabe ressaltar que, a APS deve ser
+capaz de realizar: diagnóstico de tuberculose, tratamento com esquema básico
+de casos de tuberculose pulmonar e laríngea bacilíferos, implementação e
+realização do TDO, acompanhamento e monitoramento dos casos em tratamento e
+avaliação de contatos, conforme normas técnicas do Ministério da Saúde (BRASIL,
+2019).
+Assim sendo, recomendamos que o processo de descentralização seja
+estimulado de forma segura. Inicialmente com a busca ativa de SR, realização de TDO e
+a avaliação de contatos de pacientes com tuberculose pulmonar, sempre
+compartilhando estas ações com o PMCT. Contatos que forem classificados com
+infecção latente por tuberculose (ILTB), no âmbito da APS, também podem iniciar o
+tratamento neste local, lembrando sempre de descartar tuberculose ativa.
+Sugere-se como material complementar: Manual de Recomendações para o
+Controle da Tuberculose no Brasil (2019).
+do cuidado da tuberculose para APS, o Ministério da Saúde publicou em 2022 o
+documento “Tuberculose na Atenção Primária à Saúde: Protocolo de Enfermagem”. O
+gestor municipal. Deste modo os municípios podem utilizar este documento para
+elaborar seu protocolo municipal (podendo utilizá-lo na íntegra, mediante adequada
+citação) e respaldar a atuação dos enfermeiros no cuidado do usuário com tuberculose
+no âmbito da APS.
+Os protocolos de enfermagem elaborados pelos municípios, podem ser
+encaminhados ao Coren-RS (através do e-mail:
+protocoloenfermagem@portalcoren-rs.gov.br), para análise técnica e homologação do
+Plenário, objetivando que o documento esteja em conformidade com as diretrizes do
+APS.
+14. TUBERCULOSE NA REDE DE ATENÇÃO À SAÚDE (RAS)
+Na RAS, o serviço de Atenção Primária à Saúde é a porta de entrada preferencial
+no atendimento da pessoa, da família e da comunidade. No contexto do cuidado à
+pessoa com tuberculose, é fundamental que as equipes de APS e as referências
+especializadas realizem acompanhamento qualificado e integral, desde a suspeita de
+casos até o diagnóstico e tratamento, inclusive após o seu desfecho, coordenando o
+cuidado na ação multiprofissional da equipe de saúde, nas articulações com outros
+níveis de atenção e também nos espaços intersetoriais (BRASIL, 2021a).
+Para isso, é essencial que os profissionais e gestores municipais, conheçam as
+atribuições de cada nível de atenção acerca do cuidado à TB, promovendo ações e
+organizando a RAS para o enfrentamento da tuberculose.
+Quadro 8: atribuições da Atenção Primária à Saúde no cuidado à tuberculose
+Realizar Vacina BCG - monitorar cobertura vacinal;
+Investigar os Sintomáticos Respiratórios (conforme Manual TB, 2019 - pag.193);
+Identificar pessoas com suspeita de tuberculose em situaçõesespeciaisedevulnerabilidade(HIV,situaçãoderua,
+privados de liberdade, indígenas, em instituições de longa permanência, entre outros)
+Solicitar Cultura e Teste de Sensibilidade quando necessário;
+Solicitar exames Complementares ( RX, Exames laboratoriais);
+Indicar e prescrever o esquema básico (conforme Manual de TB - pág.95 ), nos casos com baciloscopia positiva:
+Caso Novo, Recidiva após cura, Reingressoapósabandono.Paraoscasoscomfortesuspeitaclínico-radiológicae
+com baciloscopias e/ou TRM-TB negativos, indica-se, sempre que possível, encaminhar para elucidação
+diagnóstica nas referências secundárias;
+Preencher os instrumentos de vigilância preconizados pelo programa nacional: Ficha de Notificação/Investigação
+Tuberculose (SINAN); Livro de Registro de Sintomáticos Respiratórios; Livro de Acompanhamento de Casos;
+Acompanhar o caso de TB do início do tratamento até o encerramento do caso, com baciloscopias de controle;
+Realizar controle dos faltosos, utilizando contato telefônico e Visita Domiciliar (VD) além de auxiliar a referência
+secundária ou terciária na busca de faltosos sempre que necessário;
+Realizar Teste Rápido para HIV e demais testes rápidos se disponíveis, (teste rápido para HIV com resultado-
+não reagente, permanece acompanhando na APS);
+Investigar os contatos de pessoas com tuberculose e tratar ILTB quando indicado ( Conforme ManualTB,2019-
+pág. 213);
+Tratar quimioprofilaxia primária do Recém- Nascido (conforme Manual TB, 2019 - pág.163/164);
+Realizar Tratamento Diretamente Observado (TDO);
+Realizar o tratamento diretamente observado compartilhado juntamente com a referência (secundária ou terciária)
+que acompanha o caso;
+Manter acompanhamento dos casos de TB do seu município que estão tratando em outras instâncias(Referência
+Secundária e Referência Terciária);
+Tratar efeitos adversos menores (conforme Manual TB, 2019 - pag. 128);
+outros setores, procurando garantia de direitos para melhor qualidade de vida dos usuários e remover obstáculos
+que dificultem a adesão dos doentes ao tratamento;
+Utilizarferramentasdisponíveisparaaprestaçãodocuidadointegral,PTS7,clínicaampliada,articulaçãocomoutros
+serviços e setores (articular rede intersetorial);
+Realizar diagnóstico situacional do território;
+Promovereducaçãopermanenteàcomunidadesobreadoençaesuatransmissão;prevalêncianalocalidade;oque
+fazer caso esteja ou conheçaalguémquepossaestardoente;mostraraimportânciadacontinuidadedotratamento
+e darealizaçãodeexamesentrepessoascontatodepessoacomdiagnósticodetuberculose;desmitificaroestigma
+e a descriminação.
+Fonte: Elaboração SES/RS, 2022.
+Quadro 9: atribuições da Atenção Secundária no cuidado à tuberculose
+Solicitar Cultura e Teste de Sensibilidade quando necessário;
+Preencher os instrumentos de vigilância preconizados pelo programa nacional: Ficha de Notificação/Investigação
+Tuberculose (SINAN); Livro de Acompanhamento de Casos;
+Solicitar exames Complementares ( RX, Exames laboratoriais);
+Acompanhar o casodeTB,decompetênciadareferência,doiníciodotratamentoatéoencerramentodocaso, com
+baciloscopias de controle;
+Toxicidade, intolerância ou impedimento ao uso do esquema básico e avaliação inicial de falência terapêutica;
+Após manejo em hospital, realização do tratamento para tuberculose meningoencefálica e osteoarticular com
+esquema básico;
+Realizar controle dos faltosos, utilizando estratégias para contato;
+Realizar Teste Rápido para HIV e demais testes rápidos se disponíveis;
+Investigar os contatos, diretamente ou em parceria com AB ( Conforme Manual TB, 2019 - pág. 213);
+Realizar o tratamento diretamente observado compartilhado (TDO) juntamente com a referência da APS
+correspondente do usuário;
+Elucidação diagnóstica - para pessoas com suspeita de TB pulmonar com baciloscopia negativa e/ou com
+apresentação radiológica atípica;
+Tratamento de paciente com coinfecção TB/HIV*;
+Avaliação e acompanhamento de pacientes com TB com evolução clínica desfavorável;
+Tratamento de casos de TB com esquema especial;
+Efeitos adversos maiores (conforme Manual TB, 2019 - pag. 129);
+Avaliação e acompanhamento de casos de TB extra pulmonar;
+Realizar matriciamento da APS em relação aos casos complexos de tuberculose e demais dúvidas.
+Tratamento de TB em menores de 10 anos;
+Avaliação em casos suspeitos de falência do terapêutica.
+* Em caso do profissional médico estar devidamente capacitado e apto, o atendimento destes agravos pode ser realizado na APS.
+Fonte: Elaboração SES/RS, 2022.
+7Para saber mais acesso oGuia Projeto TerapêuticoSingular para equipes da APS, disponível em:Educaçãona Saúde
+- Atenção Básica do RS (saude.rs.gov.br)
+Quadro 10: atribuições da Atenção Terciária no cuidado à tuberculose
+Preencher os instrumentos de vigilância preconizados pelo programa nacional: Ficha de Notificação/Investigação
+Tuberculose (SINAN); Livro de Acompanhamento de Casos;
+Acompanhar o caso de TB, de competência da referência, do início do tratamento até o encerramento do caso,
+com baciloscopias de controle;
+Realizar controle dos faltosos, utilizando estratégias para contato;
+Realizar Teste Rápido para HIV e demais testes rápidos se disponíveis;
+Investigar os contatos diretamente ou em parceria com AB (Conforme Manual TB, 2019 - pág. 213);
+Realizar o tratamento diretamente observado compartilhado (TDO) juntamente com a referência da APS
+correspondente do usuário;
+usuário;
+Casos de falência Terapêutica por provável resistência e resistência comprovada;
+Micobactérias não Tuberculosas (MNT);
+Manter o acompanhamento clínico e encaminhar os casos de monorresistência, polirresistência, TB MDR e TB
+XDR, para a realização do TDO compartilhado na unidade básica, enviando o cartão do TDO (a ser registrado pela
+unidade básica) e orientações que se fizerem necessárias (regime prescrito, efeitos adversos relacionados ao
+esquema especial, solicitação de baciloscopia etc.);
+Realizar matriciamento da APS em relação aos casos complexos de tuberculose e demais dúvidas.
+Fonte: Elaboração SES/RS, 2022.
+Quadro 11: pontos da rede de apoio intersetorial
+Socioassistenciais:acesso da pessoa com tuberculoseà segurança alimentar e outros programas de proteção
+social (Cadastro Único, Benefício de Prestação Continuada, Benefícios Eventuais, entre outros) para viabilizar
+suporte às pessoas com tuberculose em situação de vulnerabilidade. Alguns serviços disponíveis: Centro de
+Referência de Assistência Social (CRAS); Centro de Referência Especializado de Assistência Social (CREAS);
+Referência Especializada para a População em Situação de Rua (Centro POP);
+Conselho Tutelar: Orientação à família caso o direito da criança e/ ou do adolescente com tuberculose seja
+violado. Serviço disponível: Conselho Tutelar - integrante da administração pública local;
+Previdência Social: acesso da pessoa com tuberculose aos procedimentos para aquisição de auxílio doença, e
+aposentadoria por invalidez e outros benefícios, conforme diretrizes da Previdência;
+Organizações da Sociedade Civil: articulação com as organizações da sociedade civil e controle social para
+viabilizarofertadeações,alémdasaúdeparapessoascomtuberculoseemvulnerabilidade.Algumasferramentase
+serviços disponíveis: Conselhos de Saúde; Comitês de Tuberculose; Comitês de Pessoas em Situação de Rua;
+Pastoral da Criança e do Adolescente; Organizações Não Governamentais; Centros Comunitários; Igrejas;
+Direitos Humanos: articulação ou orientação para atividades voltadas à promoção, garantia e defesadosdireitos
+humanos de pessoas com tuberculose em situação de vulnerabilidade social. Algumas ferramentas e serviços
+disponíveis: Fundação Nacional do Índio (Funai); Articulação ou orientação caso o direito do indígena com
+tuberculose seja violado. Coordenações RegionaisdaFunai;Imigração:atendimentoàpessoacomtuberculoseem
+condição de imigração; Departamento Penitenciário: articulação em caso de pessoa privada de liberdade com
+tuberculose;
+Dispositivos para habitação: aluguel social para a pessoa com tuberculose, entreoutrasferramentas/estratégias
+que possam estar disponíveis no território;
+Mobilidade urbana:transporteparaarealizaçãodotratamentodatuberculoseentreoutrasferramentas/estratégias
+que possam estar disponíveis no território.
+Fonte: Adaptado de Brasil, 2021a.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância Epidemiológica. Tratamento diretamente observado (TDO) da tuberculose
+na atenção básica : protocolo de enfermagem / Ministério da Saúde, Secretaria de
+Vigilância em Saúde, Departamento de Vigilância Epidemiológica. - Brasília :
+Brasil. Ministério da Saúde. Secretaria-Executiva.Recomendações para o manejo da
+coinfecção TB-HIV em serviços de atenção especializada a pessoas vivendo com
+HIV/AIDS / Ministério da Saúde.Secretaria-Executiva - Brasília : Ministério da Saúde,
+2013.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância das Doenças Transmissíveis. Técnicas de aplicação e leitura da prova
+tuberculínica Brasília:Ministério da Saúde, 2014
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Programa Nacional de
+Controle da Tuberculose. Guia de Orientação para Coleta de Escarro / Ministério da
+Saúde, Brasília-2016.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância das Doenças Transmissíveis. Brasil Livre da Tuberculose: Plano Nacional
+pelo Fim da Tuberculose como Problema de Saúde Pública / Ministério da Saúde,
+Transmissíveis. - Brasília: Ministério da Saúde, 2017a.
+Brasil. Ministério da Saúde. Grupo Hospitalar Conceição Tuberculose na atenção
+primária à saúde / organização de Sandra Rejane Soares Ferreira [et al]. 4. ed. --
+Porto Alegre : Hospital Nossa Senhora da Conceição, 2017b.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância das Doenças Transmissíveis. Cartilha para o Agente Comunitário de Saúde
+: tuberculose / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento
+de Vigilância das Doenças Transmissíveis. - Brasília: Ministério da Saúde, 2017c.
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Secretaria e Vigilância em
+Saúde. Guia Política Nacional de Atenção Básica - Módulo 1 : Integração Atenção
+Básica e Vigilância em Saúde [recurso eletrônico] / Ministério da Saúde, Secretaria de
+Atenção à Saúde, Secretaria de Vigilância em Saúde. - Brasília : Ministério da Saúde,
+2018a.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância das Doenças Transmissíveis. Manual de Recomendações para o Controle da
+Tuberculose no Brasil / Ministério da Saúde, Secretaria de Vigilância em Saúde,
+Saúde, 2018b.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância das Doenças Transmissíveis. Coordenação Geral do Programa Nacional de
+Controle da Tuberculose. Manual de Recomendações para o Controle da Tuberculose
+no Brasil. Brasília, 2019.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. OFÍCIO
+CIRCULAR Nº 3/2020. Assunto: Orientação sobre o uso das doses fixas pediátricas
+RHZ (rifampicina 75mg, isoniazida 50mg e pirazinamida 150mg) e RH (rifampicina
+75mg e isoniazida 50mg) comprimidos dispersíveis para o tratamento da tuberculose
+pediátrica. - Brasília : Ministério da Saúde, 2020.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Linha de
+cuidado da tuberculose : orientações para gestores e profissionais de saúde / Ministério
+da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. - Brasília : Ministério da
+Saúde, 2021a.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. NOTA
+INFORMATIVA Nº 5/2021. Dispõe sobre atualização das Recomendações do
+disponibilização da rifapentina. - Brasília : Ministério da Saúde, 2021b.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo
+de vigilância da infecção latente pelo Mycobacterium tuberculosis no Brasil / Ministério
+da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. - 2. ed. - Brasília:
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis.
+Tuberculose na atenção primária: protocolo de enfermagem / Ministério da Saúde,
+e Infecções Sexualmente Transmissíveis. - Brasília : Ministério da Saúde, 2022b.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. NOTA
+INFORMATIVA Nº 3/2022. Dispõe acerca de orientações às coordenações dos
+programas estaduais e municipais de tuberculose (TB) sobre a Lei no. 14.289 de 3 de
+janeiro de 2022, que trata da preservação do sigilo sobre a condição da pessoa com
+TB. - Brasília : Ministério da Saúde, 2022c.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. NI N°
+1/2022 . Disponibilidade da rifapentina para o Tratamento da Infecção Latente pelo
+Mycobacterium Tuberculosis. - Brasília : Ministério da Saúde, 2022.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Of. N°
+18/2022 . Informações sobre a disponibilidade do medicamento Rifampicina 300 mg +
+Isoniazida 150mg (2x1 dose plena), comprimido, para tratamento da Tuberculose (TB).
+- Brasília : Ministério da Saúde, 2022.
+World Health Organization. Global Tuberculosis Report, care and control after 2015.
+[Internet]. Geneva: WHO; 2013. [cited 2020 Jun 19]. Available from:
+-report-2020
+WORLD HEALTH ORGANIZATION (WHO). Global tuberculosis report 2021. Geneva:
+Acesso em: 31 Ago. 2022.
+World Health Organization. The Stop TB Strategy: building on and enhancing DOTS to
+meet the TB-related Millennium Development Goals. [Internet]. Geneva: WHO; 2006.
+[cited 2020 Jun 19]. Available from:
+.pdf;jsessionid=D5DFB739A9BEA26015DF7BEA8BC0399A?sequence=1
+World Health Organization. Global strategy and targets for tuberculosis prevention, care
+and control after 2015. [Internet]. Geneva: WHO; 2013. [cited 2020 Jun 19]. Available
+APÊNDICE I - Fluxograma dos Sintomáticos Respiratórios na APS
+Fonte: Elaboração própria, 2020.
+ANEXO I - Ficha de Notificação/Investigação Tuberculose
+ANEXO II - Boletim de Acompanhamento - SINAN
+ANEXO III: Modelo de termo de consentimento livre esclarecido
+ANEXO IV - Fluxograma para investigação de contato crianças (< 10 anos
+de idade)
+Fonte: Adaptado de, Brasil, 2019.
+ANEXO V - Fluxograma para investigação de contatos adultos e
+adolescentes (≥10 anos de idade)
+Fonte: Adaptado de, Brasil, 2019.
+ANEXO VI - Ficha de notificação da Infecção Latente da Tuberculose (ILTB)
+ANEXO VI - Ficha de notificação da Infecção Latente da Tuberculose (ILTB)
+ANEXO VII: PARÂMETROS PARA DIAGNÓSTICO E ACOMPANHAMENTO DA
+TUBERCULOSE: ESTIMATIVA DE NECESSIDADES E EXAMES AO ANO
+POPULAÇÕES-ALVO Sintomáticos respiratórios OU casos suspeitos de
+tuberculose: 1% da população geral - estimativa
+nacional.
+AÇÕES Busca Ativa/diagnóstico
+PROCEDIMENTOS Consulta médica/Enfermagem Exames complementares
+PARÂMETROS PROPOSTOS -01 Consulta médica/enfermagem de rastreamento/ano
+-02 baciloscopia de escarro/01 cultura com teste de
+sensibilidade (TSA)/caso/ano ou 01 TRM-TB (Teste
+Rápido Molecular para Tuberculose)/ 01 cultura caso
+TRM-TB positivo com TS/caso/ano
+-01 Radiografia de tórax /caso suspeito de
+tuberculose/ano + (01 Radiografia de tórax para
+população ingressa no sistema prisional)
+-01 Teste diagnóstico HIV /Caso confirmado/ano
+-01 Cultura para micobactéria com TSA /Caso de
+retratamento TB ou Suspeita em Pop. Vulneráveis
+(População que vive com HIV/Aids, população privada
+de liberdade, população em situação de rua, Indígenas e
+profissionais de saúde).
+POPULAÇÕES-ALVO Sintomáticos respiratórios OU casos suspeitos de
+tuberculose: 1% da população geral - estimativa
+nacional.
+AÇÕES Busca Ativa/diagnóstico
+NÍVEIS DE ATENÇÃO AAE/AH
+PARÂMETROS PROPOSTOS -1 broncoscopia/caso suspeito de tuberculose que não
+-01 cultura com teste de sensibilidade (TSA) /ano
+POPULAÇÕES-ALVO Pessoas com tuberculose: 0,01% da população geral -
+NÍVEIS DE ATENÇÃO AB/AAE/AH
+PARÂMETROS PROPOSTOS -01 tratamento com esquema básico OU 01 tratamento
+com esquema especial (quando necessário) / caso
+confirmado/ano
+-05 TDO (tratamento diretamente observado) durante
+todo o tratamento/caso/semana
+POPULAÇÕES-ALVO Pessoas com tuberculose: 0,01% da população geral -
+NÍVEIS DE ATENÇÃO AB/AAE
+PROCEDIMENTOS Consulta médica/enfermagem Exames
+PARÂMETROS PROPOSTOS -06 Consultas médicas e/ou de enfermagem/caso TB/ano(01
+consulta/mês)
+-06 Baciloscopias/caso TB/ano (01 exame/mês)
+-01 Cultura micobactéria com TSA/com baciloscopia
+positiva no 2º mês de tratamento
+-01 Raio X tórax/caso TB/ano
+-01 Visita domiciliar/ caso TB/ano
+POPULAÇÕES-ALVO Pessoas com tuberculose: 0,01% da população geral -
+NÍVEIS DE ATENÇÃO AAE/AH
+PROCEDIMENTOS Consulta médica/enfermagemExames complementares
+PARÂMETROS PROPOSTOS -12 Consultas médicas e/ou de enfermagem/casos especiais de
+TB/ano (01 consulta/mês)
+-01 Cultura micobactéria com TSA/ casos especiais de TB
+/ano
+-18 Consultas médicas e de enfermagem/caso tuberculose
+resistente /ano (01 consulta/mês)
+-10 Culturas micobactéria com TSA/caso de tuberculose
+resistente /ano para casos (1 exame a cada dois meses)
+-02 Raio X tórax/caso de TB/ano (ao início e fim do
+tratamento, mais exames podem ser necessários durante
+seguimento conforme indicação médica)
+-01 tomografia/ caso de tuberculose com complicações/ano
+Consulta médica com cirurgião torácico -01 consulta/caso de tuberculose drogarresistente com
+indicação cirúrgica/ano
+POPULAÇÕES-ALVO Contatos (4/caso TB)
+PROCEDIMENTOS Consulta médica/enfermagem / Exames
+PARÂMETROS PROPOSTOS -01 Consulta médica ou de enfermagem/Contato
+-02 Baciloscopias + 1 radiografia de tórax/Contato suspeito
+-01 Cultura para micobactéria com TSA /Caso de contato com
+-01 Prova tuberculínica/Contato assintomático para
+-01 Radiografia de tórax/Contato
+assintomático com PPD≥5mm
+Tratamento 01 Tratamento da ILTB/Caso de ILTB entre os contatos
+Consulta médica/Enfermagem 08 Consulta médica ou de enfermagem /Tratamento da
+ILTB/ano (01 consulta a cada 3 meses)
+POPULAÇÕES-ALVO Menores 1 ano
+Imunização - PNI
+PARÂMETROS PROPOSTOS 01 dose BCG/criança/ano
+Fonte : Brasil, 2015.

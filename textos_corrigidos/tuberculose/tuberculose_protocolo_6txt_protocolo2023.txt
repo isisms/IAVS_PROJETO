@@ -1,0 +1,565 @@
+1 TUBERCULOSE EM PROFISSIONAIS DE SAÚDE:
+A TB é uma doença infecciosa e transmissível, que possui elevado coeficiente de incidência
+e mortalidade em várias regiões do mundo (WHO, 2019). No Brasil, em 2019, houve cerca de 74 mil
+casos novos e 4,5 mil óbitos por TB (BRASIL, 2020b).
+Em 2019, o Brasil apresentou um coeficiente de incidência de 35,0 casos para cada 100
+mil habitantes e, em 2018, um coeficiente de mortalidade de 2,2 óbitos por TB para cada 100 mil
+habitantes (BRASIL, 2020b). No entanto, há uma variação dos coeficientes entre os estados
+e municípios, dada a diversidade de organização, processos e ambientes de trabalho nos
+serviços de saúde, além das questões socioeconômicas e demográficas, tais como a grande
+(PELISSARI et al., 2018).
+Como forma de enfrentamento da TB no país, o Ministério da Saúde publicou, em 2017, o “Plano
+Nacional pelo Fim da Tuberculose como problema de Saúde Pública - Brasil Livre da Tuberculose”,
+com a meta de reduzir a incidência da doença para menos de dez casos para cada 100 mil habitantes
+e menos de um óbito para cada 100 mil habitantes até 2035 (BRASIL, 2017c).
+Entre as estratégias para o enfrentamento da doença contidas no Plano, destacam-se:
+promover ações que viabilizem o acesso ao diagnóstico de TB nas populações mais vulneráveis,
+incluindo trabalhadores e profissionais de saúde; intensificar a busca ativa de pessoas com sintomas
+respiratórios, consideradas as particularidades das populações mais vulneráveis nos territórios;
+doença no país; e implementar as medidas de controle de infecção nos serviços de saúde.
+Essas estratégias, quando realizadas no setor saúde, contribuem particularmente para a
+de trabalho, dada a maior exposição desses trabalhadores em tais locais (HIJJAR; OLIVEIRA;
+TEIXEIRA, 2001).
+1.1 Risco de adoecimento por tuberculose e perfil dos profissionais de
+estabelecimentos de assistência e vigilância à saúde, sejam eles hospitais, clínicas, ambulatórios
+e outros locais. Essa definição compreende tanto os profissionais de saúde (médicos, enfermeiros,
+técnicos de enfermagem, nutricionistas, fisioterapeutas, farmacêuticos, psicólogos, docentes
+e estudantes da saúde inseridos nos serviços de saúde) quanto os trabalhadores de apoio
+(recepcionistas, seguranças, pessoal da limpeza e cozinheiros, entre outros), ou seja, aqueles que
+trabalham nos serviços de saúde, mas que não prestam serviços diretos de assistência à saúde das
+pessoas (WHO, 2017).
+Estima-se que um quarto da população mundial esteja infectada pelo M. tuberculosis.
+Entretanto, estudos apontam que em profissionais de saúde essa prevalência pode ultrapassar
+o valor de 30% (BORGES et al., 2014; ROGÉRIO et al., 2015; LACERDA et al., 2017; UDEN et al.,
+2017). Além disso, o risco de adoecimento nesse grupo pode chegar a quase três vezes o risco
+da população geral (UDEN et al., 2017). Em 2014, foi incluído, na ficha de investigação/notificação
+da TB do Sistema de Informação de Agravos de Notificação (Sinan), um campo referente às
+populações especiais, em que consta uma categoria para profissional de saúde, permitindo assim
+o monitoramento do número de casos novos de TB nessas pessoas (Quadro 1).
+Quadro 1 - Casos novos de tuberculose em profissionais de saúde
+segundo os anos de diagnóstico. Brasil, 2015 a 2019
+Ano 2015 2016 2017 2018 2019
+837 995 950 1106 1032
+tabcgi.exe?sinannet/cnv/tubercms.def. Acesso em: 22 abr. 2021.
+Quanto ao perfil desses profissionais, em 2018, houve um predomínio do sexo feminino
+(63%); raça/cor branca (47%) e negra (45%); faixa etária entre 25 e 50 anos (76%); e forma clínica
+pulmonar (73%).
+com a população geral. Em 2018, foi registrada cura em 87,7% dos casos diagnosticados entre
+profissionais de saúde; já o abandono do tratamento representou 3,9% desses casos. Na população
+geral, por sua vez, observou-se, para o mesmo período, um percentual de cura equivalente a 71,9%
+e uma proporção de abandono de 11,6%. Além disso, foi ofertado teste diagnóstico para HIV a 84%
+dos profissionais de saúde notificados com TB, sendo observada coinfecção TB-HIV em 6% deles
+(BRASIL, 2020b).
+Nesse contexto, mesmo com melhores desfechos, os números de TB em profissionais
+de saúde ainda são altos. Sendo assim, ressalta-se a importância da implementação de medidas
+coletivas, individuais, administrativas e organizacionais de saúde e segurança no trabalho com
+relação à prevenção da exposição ao M. tuberculosis e à prevenção da TB, incluindo a realização
+do diagnóstico precoce e rastreamento por meio de exames ocupacionais (no ingresso e
+periodicamente) de profissionais e trabalhadores de saúde, docentes e alunos da área da saúde em
+todos os níveis de formação, a fim de identificar a infecção pelo M. tuberculosis em suas formas
+latente e ativa.
+2 SAÚDE DO TRABALHADOR: LEGISLAÇÃO E ATRIBUIÇÕES
+De acordo com a Lei Orgânica do SUS (Lei nº 8.080, de 19 de setembro de 1990), em seu art.
+6º, parágrafo 3º, a Saúde do Trabalhador é
+[...] um conjunto de atividades que se destina, através das ações de vigilância
+epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos
+trabalhadores, assim como visa à recuperação e reabilitação da saúde dos
+trabalho. (BRASIL, 1990).
+O Anexo LI do Decreto nº 10.088, de 5 de novembro de 2019, reproduz as decisões da
+Convenção nº 155, de 22 de junho de 1981, da Organização Internacional do Trabalho (OIT), a qual
+determina, em seu art. 7º, que
+[...] a situação em matéria de segurança e saúde dos trabalhadores e meio
+ambiente de trabalho deverá ser examinada, em intervalos adequados,
+globalmente ou com relação a setores determinados, com a finalidade de se
+identificar os principais problemas, elaborar meios eficazes para resolvê-los,
+os resultados. (BRASIL, 2019a).
+A Política Nacional de Segurança e Saúde no Trabalho (PNSST), publicada por meio do Decreto nº
+7.602, de 7 de novembro de 2011, também está em consonância com a citada Convenção nº 155/1981
+da OIT, quando esta, no art. 4º da Parte II (Princípio de uma Política Nacional), estabelece que
+[...] todo membro deverá, em consulta com as organizações mais
+representativas de empregadores e de trabalhadores, e levando em conta
+as condições e as práticas nacionais, formular, pôr em prática e reexaminar
+saúde dos trabalhadores e o meio-ambiente de trabalho. (BRASIL, 2011a).
+Além disso, A Constituição Federal do Brasil, em seu art. 7º, inciso XXII, vai ao encontro dessas
+normativas ao definir como um direito dos trabalhadores a “redução de riscos inerentes ao trabalho,
+por meio de normas de saúde, higiene e segurança” (BRASIL, [2021]).
+Integral à Saúde dos Trabalhadores (Renast), composta por todos os serviços da RAS que executam
+ações de vigilância e assistência à saúde dos trabalhadores. A Saúde do Trabalhador tem como
+objetivo garantir a integralidade do cuidado, o acesso universal e a equidade da atenção, tendo os
+Centros de Referência em Saúde do Trabalhador (Cerest), estaduais e municipais, como polos e
+referências especializadas no território, conforme define a Portaria de Consolidação nº 3, de 28 de
+setembro de 2017 (BRASIL, 2017a). Essas instâncias prestam suporte técnico às ações de Vigilância
+em Saúde em ambientes de trabalho, de forma integrada com as equipes e serviços de vigilância
+municipal e estadual. Além disso, os Cerest são atores importantes na implantação de ações de
+Vigilância em Saúde do Trabalhador (Visat) em articulação com as outras áreas da Vigilância em
+Saúde, quais sejam: Vigilância Epidemiológica, Vigilância Ambiental e Vigilância Sanitária, que
+compõem a Portaria de Consolidação nº 3/2017, conforme define a Política Nacional de Saúde do
+Trabalhador e da Trabalhadora (PNSTT).
+Enquanto forma de subsidiar as ações de diagnóstico, tratamento, vigilância em saúde e o
+estabelecimento da relação de doenças com o trabalho e das condutas decorrentes, o Ministério
+da Saúde instituiu a Lista de Doenças Relacionadas ao Trabalho, a ser adotada como referência dos
+agravos originados nos processos de trabalho no SUS, para uso clínico e epidemiológico, conforme a
+Portaria de Consolidação nº 5, de 28 de setembro de 2017 (BRASIL, 2017b).
+promoção à saúde a todos os trabalhadores, sejam eles empregados, terceirizados ou pertencentes
+a outras modalidades de vínculos.
+seguidas pelas empresas privadas, órgãos públicos da administração direta e indireta, incluindo
+os órgãos dos Poderes Legislativo e Judiciário. Entre essas legislações, destacam-se as Normas
+Regulamentadoras (NR) do Ministério da Economia. As NR são disposições complementares ao
+Capítulo V (Da Segurança e da Medicina do Trabalho) do Título II da Consolidação das Leis do Trabalho
+(CLT), com redação dada pela Lei nº 6.514, de 22 de dezembro de 1977. Consistem em obrigações,
+trabalho seguro e sadio, prevenindo a ocorrência de doenças e acidentes de trabalho. Entre as NR,
+destacam-se as de nºs 7, 9 e 32.
+A NR nº 7 orienta a elaboração e a implementação do Programa de Controle Médico de
+Saúde Ocupacional (PCMSO), visando a “promoção e preservação da saúde do conjunto dos seus
+trabalhadores”, devendo incluir, obrigatoriamente, exames médicos admissionais, periódicos,
+de retorno ao trabalho, de mudança de função e demissionais, com enfoque em avaliação clínica,
+abrangendo anamnese ocupacional, exame físico e mental e exames complementares (BRASIL, 1994).
+A NR nº 9 estabelece a obrigatoriedade da elaboração e implementação do Programa de
+Prevenção de Riscos Ambientais (PPRA), visando à preservação da saúde e da integridade dos
+trabalhadores, por meio da antecipação, reconhecimento, avaliação e consequente controle da
+ocorrência de riscos ambientais existentes ou que venham a existir no ambiente de trabalho, tendo
+em consideração a proteção do meio ambiente e dos recursos naturais. Portanto, levando em conta
+os riscos à saúde, são criadas estratégias voltadas à prevenção, tornando, assim, a rotina diária dos
+trabalhadores mais segura (BRASIL, 2020c).
+Por sua vez, a NR nº 32 estabelece as diretrizes básicas para a implementação de medidas de
+proteção à segurança e à saúde dos trabalhadores dos serviços de saúde, bem como daqueles que
+exercem atividades de promoção e assistência à saúde em geral, principalmente sob exposição a
+riscos biológicos (BRASIL, 2005).
+De modo complementar à saúde e segurança dos trabalhadores, também se deve ter
+preocupação com a disseminação de patógenos, conforme orienta a Resolução da Diretoria
+Colegiada (RDC) nº 222, da Agência Nacional de Vigilância Sanitária (Anvisa), que “[r]egulamenta
+as Boas Práticas de Gerenciamento de Resíduos de Serviços de Saúde e dá outras providências”
+(BRASIL, 2018). Essa norma, além de contribuir com a segurança e saúde dos profissionais e
+trabalhadores de saúde, assegura a preservação do meio ambiente e a segurança e saúde de outros
+trabalhadores envolvidos no descarte dos resíduos hospitalares e a população geral.
+Ademais, a RDC nº 63 corrobora as questões de segurança e saúde dos trabalhadores
+quando aponta, no art. 44, que “[o] serviço de saúde deve garantir que os trabalhadores sejam
+avaliados periodicamente em relação à saúde ocupacional, mantendo registros desta avaliação”;
+no art. 47, que “[o] serviço de saúde deve garantir mecanismos de prevenção dos riscos de
+acidentes de trabalho, incluindo o fornecimento de Equipamentos de Proteção Individual (EPI),
+em número suficiente e compatível com as atividades desenvolvidas pelos trabalhadores”; no
+art. 49, que “[e]m serviço de saúde com mais de vinte trabalhadores é obrigatória à instituição
+da Comissão Interna de Prevenção de Acidentes (CIPA)”; e, no art. 50, que “[o] Serviço de Saúde
+deve manter disponível a todos os trabalhadores: I - Normas de condutas de segurança biológica,
+química, física, ocupacional e ambiental; II - Instruções para uso dos Equipamentos de Proteção
+Individual - EPI; [...]” (BRASIL, 2011b).
+Figura 1 - Responsabilidades dos serviços de saúde em relação à proteção
+Fonte: adaptado de Brasil, 2011b.
+de saúde, bem como as questões relativas às condições adequadas para o atendimento às pessoas
+com suspeita ou diagnóstico de TB. Uma das medidas a serem observadas, por exemplo, é a
+ventilação adequada nos locais de atendimento às pessoas no serviço de saúde. A organização dos
+serviços para diminuir o risco de transmissão do M. tuberculosis é fundamental para a prevenção da
+doença entre trabalhadores e usuários.
+desses trabalhadores na gestão da atenção à sua saúde. Os profissionais precisam estar informados,
+treinados, conscientizados e mobilizados para as ações de proteção e prevenção necessárias. É
+compatíveis com suas atividades, tanto de rotina como excepcionais.
+precoce e rastreamento de TB latente ou ativa nos trabalhadores, descritas a seguir:
+• Implementação de políticas não punitivas, a fim de permitir que o profissional de saúde
+que apresente sintomas de infecção respiratória seja afastado do trabalho;
+• Afastamento de trabalhadores doentes e sensibilização para que fiquem em isolamento
+domiciliar. Essa medida não deve implicar prejuízos trabalhistas aos profissionais;
+• Monitoramento da ocorrência de transmissão interna de TB em pacientes e trabalhadores,
+por meio da adoção de medidas apropriadas para controle e mitigação da transmissão.
+transparente entre a gestão e as equipes dos serviços de saúde;
+• Planejamento e custeio de todos os procedimentos (exames, consultas e outros)
+relacionados aos exames médicos ocupacionais do empregado, de acordo com a NR nº 7;
+• Emissão, pelo médico, de Atestado de Saúde Ocupacional (ASO) para cada exame clínico
+ocupacional realizado, a ser comprovadamente disponibilizado ao empregado, inclusive
+em meio físico, quando solicitado, também de acordo com a NR nº 7;
+• Entrega, ao trabalhador, do resultado de exames complementares mesmo que não tenha
+ocorrido exame clínico, com recibo de entrega, inclusive em meio físico, quando solicitado;
+• Orientação sobre o significado de exames alterados e condutas necessárias ao
+empregado submetido a exames médicos ocupacionais;
+• Registro dos dados dos exames clínicos e complementares em prontuário médico
+individual, a cargo do médico responsável pelo exame;
+• Arquivamento do prontuário dos trabalhadores pelos prazos previstos em legislações
+específicas.
+3 TRANSMISSÃO DO M. TUBERCULOSIS ENTRE TRABALHADORES
+Proteger os trabalhadores, profissionais de saúde, docentes e estudantes que atuam nos
+serviços de saúde contra a infecção pelo M. tuberculosis e o adoecimento no ambiente de trabalho
+deve ser uma atividade integrada à gestão dos riscos ocupacionais, sendo de responsabilidade dos
+empregadores.
+A maioria dos trabalhadores de saúde que atua no atendimento direto (face a face) ao
+público terá maior chance de contato com pessoas que têm TB e, consequentemente, de infecção.
+Isso dependerá de múltiplos fatores, como: atividade executada, duração da jornada de trabalho,
+trabalho (em função da permanência de usuários e da ventilação local), além do uso de Equipamentos
+de Proteção Individual (EPI), incluindo a paramentação, retirada, higienização (quando não forem
+descartáveis) e descarte correto desses equipamentos. Outro ponto importante é a formação desses
+trabalhadores sobre aspectos de segurança e saúde relativos ao ambiente de trabalho, habilitando-
+os a realizar suas atividades de modo a cuidar da sua saúde e da saúde dos outros. Além desses
+aspectos básicos, há que se garantir jornadas de trabalho e número de profissionais compatíveis
+com a demanda psíquica e física da função, além de adequado monitoramento. Muitos profissionais
+extrapolam a jornada formal e vão além para poder oferecer serviços médicos assistenciais, mas é
+fundamental as que paradas entre turnos ou jornadas sejam mantidas e realizadas.
+A transmissão do M. tuberculosis ocorre principalmente por meio de aerossóis respiratórios,
+produzidos quando uma pessoa infectada tosse ou espirra, assim como acontece com outros
+patógenos respiratórios. Além disso, é possível a transmissão por aerossóis em pessoas submetidas
+a procedimentos de vias aéreas, como o escarro induzido, a espirometria, a intubação orotraqueal
+ou aspiração de vias aéreas.
+Quanto às categorias de profissionais de saúde e a respectiva estimativa de infecção pelo M.
+tuberculosis em comparação com a população geral, a literatura mostra um risco 3 a 20 vezes maior
+entre a equipe de enfermagem; 6 a 11 vezes maior entre os patologistas clínicos; seis vezes maior
+entre os tisiopneumologistas; quatro a oito vezes maior entre estudantes (enfermagem, fisioterapia
+e medicina); e duas a nove vezes maior entre técnicos de laboratório de bacteriologia (MENZIES et
+al., 1995; SEPKOWITZ, 1995; SILVA; CUNHA; KRITSKI, 2002; BRASIL, 2019b).
+Estudos realizados em ambientes hospitalares (PAULA et al., 2015; PRADO et al., 2008)
+mostram que os profissionais da equipe de enfermagem são os que mais adoecem por TB; no
+entanto, também apontam uma alta prevalência da doença entre outras categorias profissionais,
+como auxiliares de saúde e trabalhadores da manutenção (PAULA et al., 2015), técnicos de
+radiologia, farmacêuticos, fisioterapeutas, nutricionistas, estudantes de medicina, agentes
+comunitários de saúde e técnicos de necropsia (PRADO et al., 2008).
+Diante disso, evidencia-se a importância da adoção de medidas de prevenção específicas
+para cada local de serviço de saúde, bem como para os trabalhadores e profissionais que transitam
+na instituição. A literatura mostra que o tempo prolongado de internação ou de permanência na
+unidade de saúde, ventilação ambiente e iluminação inapropriadas, diagnóstico tardio e tratamento
+inadequado são alguns dos fatores de maior risco para infecção pelo M. tuberculosis nesses
+ambientes (ARAÚJO; SILVA; SILVA, 2016).
+Nessa lógica, as medidas administrativas, ambientais e de proteção individual para o
+controle da infecção causada por esse patógeno são consideradas as mais efetivas (CDC, 2005). O
+“Manual de Recomendações para o Controle da Tuberculose no Brasil” orienta sobre as condutas
+em ambientes com grande fluxo de pessoas, como albergues e asilos, entre outros ambientes
+(BRASIL, 2019b).
+3.1 Rastreamento de profissionais de saúde para infecção latente da
+o exame admissional e de forma periódica (anual), bem como nas situações de retorno ao trabalho,
+de mudança de riscos ocupacionais e de demissão, como forma de identificação precoce da ILTB e
+instituição da terapia preventiva, quando necessário, ou tratamento da TB se diagnosticada.
+Docentes, estudantes e estagiários, antes e durante o desenvolvimento de atividades em
+serviços de saúde, bem como em ambientes com risco de infecção e adoecimento por TB, também
+devem realizar o rastreamento para ILTB e TB se apresentarem sinais e sintomas de doença ativa.
+Medidas apropriadas de controle de infecção, dentre elas a investigação periódica de ILTB e
+sinais e sintomas de TB, são importantes para prevenir a transmissão nosocomial da TB entre os
+profissionais de saúde, as pessoas que frequentam os serviços e seus respectivos familiares.
+4 INVESTIGAÇÃO DA INFECÇÃO LATENTE PELO M. TUBERCULOSIS
+Segundo a OMS, 5% a 20% das pessoas com ILTB irão desenvolver a doença ativa em algum
+momento da vida, a maioria dentro de dois a cinco anos da infecção inicial (WHO, 2013). Por isso a
+da prova tuberculínica (PT) ou da positividade do Interferon Gama Release Assay (IGRA), para que
+seja avaliada a necessidade de indicação do tratamento para a ILTB. É importante enfatizar que
+com a realização do tratamento da ILTB o risco de adoecimento por TB é reduzido em 60% a 90%
+(MAZUREK et al., 2010).
+Ressalta-se que, durante a investigação da ILTB, é fundamental descartar a possibilidade de
+TB ativa por meio de avaliação clínica, realização de exames laboratoriais (baciloscopia, teste rápido
+molecular para tuberculose - TRM-TB), radiografia de tórax e demais exames quando necessário
+(imagem, biópsia e outros).
+4.1 Prova tuberculínica
+A investigação da ILTB com a PT deve ser realizada nos exames admissionais (Figura 2), de
+retorno ao trabalho e de mudança de riscos ocupacionais, além de periodicamente (anual) e em
+situação demissional (Figura 2):
+Figura 2 - Fluxograma para avaliação da infecção latente da tuberculose
+em profissionais de saúde no momento de admissão ao trabalho, de
+Fonte: Brasil, 2019b.
+Legenda: PT - prova tuberculínica; ILTB - infecção latente da tuberculose.
+1 O efeito booster representa a reativação da resposta tuberculínica pelas células de memória (BCG ou infecção remota por M. tuberculosis).
+Está presente em cerca de 6% dos profissionais de saúde e é definido quando o resultado da segunda PT for maior ou igual a 10mm, com
+incremento de pelo menos 6mm em relação ao primeiro teste. Nessas pessoas, não há indicação de tratamento da ILTB, pois o risco
+de adoecimento é muito baixo. Essa segunda aplicação da tuberculina é utilizada apenas para excluir uma falsa conversão, no futuro,
+daquelas pessoas testadas de forma seriada. Se o resultado da segunda aplicação for igual a 10mm, mesmo sem incremento de 6mm em
+relação à primeira, a PT não deve ser repetida futuramente.
+Nas situações em que a PT for menor que 10mm, o teste deve ser repetido em uma a três
+semanas para avaliação do efeito booster (MENZIES, 1999; TRAJMAN; TEIXEIRA; STEFFEN, 2009;
+BRASIL, 2019b). Em caso de efeito booster positivo, a PT não deve mais ser repetida.
+Figura 3 - Fluxograma para avaliação da infecção latente da tuberculose
+Fonte: Brasil, 2019b.
+Legenda: PT - prova tuberculínica; ILTB - infecção latente da tuberculose.
+1 Não há a necessidade de repetir posteriormente a prova tuberculínica.
+2 É necessário afastar tuberculose ativa, considerando exame clínico e radiografia de tórax.
+Nas situações em que o resultado da prova tuberculínica permanecer menor que 10mm, o
+teste deve ser repetido a cada 12 meses (uma vez ao ano), quando o trabalhador ou profissional de
+saúde atuar em locais de elevado risco de transmissão do M. tuberculosis.
+4.1.1 Quem deve realizar a técnica para a aplicação e leitura da
+prova tuberculínica?
+A PT deve ser realizada por profissionais multiplicadores, geralmente enfermeiros e técnicos
+de enfermagem capacitados nas técnicas de aplicação e leitura da PT.
+4.1.2 Como realizar a aplicação da prova tuberculínica?
+A PT deve ser aplicada por meio de injeção intradérmica na dose de 0,1 mL (2 unidades de
+tuberculina) de PPD (Purified Protein Derivative) RT23 (Renset Tuberkulin), na face anterior do terço
+médio do antebraço esquerdo (RUFFINO-NETO, 1979; ATS/CDC, 2000; BRASIL, 2019b).
+4.1.3 Como realizar a leitura da prova tuberculínica?
+A leitura deve ser realizada no período de 48h a 72h após a aplicação do teste (RUFFINO-
+NETTO, 1979; BRASIL, 2019b), prazo que pode ser estendido para até 96h nos casos em que a pessoa
+não possa comparecer à Unidade de Saúde para a leitura (WHO, 1955; BRASIL, 2019b). Nos serviços
+de saúde, recomenda-se que a leitura seja realizada 72h após a aplicação.
+A leitura é feita com uma régua milimetrada transparente, considerando o maior diâmetro
+transverso da área de endurecimento (palpável), e o resultado deve ser registrado em milímetros.
+Quando não houver enduração, o resultado do teste deve ser registrado como “zero (0) mm”
+(BRASIL, 2019b).
+4.1.4 Como interpretar a prova tuberculínica em profissionais
+de saúde?
+Para profissionais de saúde, considera-se o resultado da PT positivo quando a enduração
+for maior ou igual a 10mm, exceto quando houver outras comorbidades que impliquem um maior
+risco de TB, como HIV, diabetes e uso de imunobiológicos, dentre outras. Nessas situações, o corte
+da PT é maior ou igual a 5mm. A PT é considerada negativa quando o resultado for menor que
+10mm quando dos exames periódicos (ver Figura 2), e quando se mantém menor que 10mm após
+repetição em uma a três semanas em exames admissionais (ver Figura 1). A conversão da PT, ou
+seja, o resultado superior a 10mm, com incremento de pelo menos 6mm em relação ao resultado
+encontrado no primeiro teste realizado (admissional), é considerado positivo e representa infeção
+(ILTB) recente. Nessa situação, o tratamento deve ser considerado conforme as recomendações
+nacionais (BRASIL, 2019b).
+Se o resultado do teste for maior ou igual a 10mm em pessoas que realizaram a PT
+anteriormente e que possuíam resultado documentado, não é necessário repetir a PT, mesmo
+que se considere uma situação de reexposição da pessoa ao M. tuberculosis (BRASIL, 2019b). Isso
+porque esse teste busca a resposta imunológica (células de memória); portanto, uma vez que tenha
+havido contato com o bacilo e produção de anticorpos, o resultado se manterá positivo. Ressalta-
+se, ainda, que só se recomenda investigar a ILTB caso exista a intenção de tratar (infecção recente);
+dessa forma, a história pregressa de PT positiva e/ou registro de positividade, tratamento prévio da
+ILTB e TB ativa tratada no passado eliminam a necessidade de investigações futuras.
+4.1.5 Quais as limitações da prova tuberculínica?
+A PT apresenta alta especificidade, 97%, ou seja, 3% de resultados falso-positivos (pessoas
+com resultado positivo e sem ILTB), principalmente se a vacina BCG (bacilo Calmette Guérin) for
+aplicada no primeiro ano de vida, como ocorre no Brasil.
+A sensibilidade da PT é de 77%, isto é, reações falso-negativas (pessoas com resultado
+negativo e ILTB) podem ocorrer em até 23% dos indivíduos que realizam o teste.
+As condições associadas aos resultados falso-positivos e negativos da PT estão descritas
+no “Manual de Recomendações para o Controle da Tuberculose no Brasil” (BRASIL, 2019b).
+4.2 Interferon-Gamma Release Assays (IGRA)
+4.2.1 Como avaliar a infecção latente pelo M. tuberculosis em
+trabalhadores e profissionais de saúde, a partir da realização
+do IGRA?
+Atualmente, não existe padrão ouro para o diagnóstico de ILTB. Portanto, a acurácia, a
+características conhecidas (PAI et al., 2014). Nesse contexto, o teste IGRA foi desenvolvido como
+uma alternativa diagnóstica à PT, para, sobretudo, aprimorar o diagnóstico da ILTB - uma vez que o
+IGRA não é capaz de substituir a PT em todas as populações por nem sempre se apresentar custo-
+efetivo (MAZUREK et al., 2010; WHO, 2011).
+O IGRA é um teste utilizado para diagnosticar a ILTB in vitro, por meio da dosagem de IFN-y
+liberado por linfócitos T frente à estimulação feita por antígenos do M. tuberculosis (CFP-10, ESAT-
+6, TB7.7). O resultado é gerado em 24 horas e depende de ambiente laboratorial para sua execução
+(WHO, 2011).
+No caso de positividade do IGRA, o tratamento para ILTB deve ser considerado, conforme
+orientações presentes no “Manual de Recomendações para o Controle da Tuberculose no Brasil”
+(BRASIL, 2019b).
+4.2.2 Quem deve realizar a técnica do IGRA?
+A realização do IGRA necessita de ambiente laboratorial, com pessoas capacitadas para a sua
+execução da técnica.
+4.2.3 Quais são os procedimentos para a realização do IGRA?
+conservação e encaminhamento ao laboratório executor em até 16h. Idealmente, as amostras
+clínicas devem ser recebidas e processadas pelo laboratório imediatamente após a coleta.
+A análise da amostra é realizada por um técnico de laboratório habilitado, por ser baseada em
+ensaios imunoenzimáticos (ELISA), testados em sangue total, que quantificam o nível de interferon
+gama liberado pelas células T de memória (QIAGEN, 2013; BRASIL, 2019b).
+4.2.4 Como interpretar o resultado do IGRA?
+São três os possíveis resultados do IGRA: 1) positivo - infecção latente pelo M. tuberculosis
+provável; 2) negativo - infecção latente pelo M. tuberculosis pouco provável; e 3) indeterminado -
+necessidade de repetir o teste, visto que o resultado inconclusivo pode ser decorrente de falhas
+na técnica de coleta, transporte e/ou análise da amostra. No entanto, é fundamental considerar a
+possibilidade de outras hipóteses diagnósticas, de acordo com as queixas e antecedentes individuais
+(BRASIL, 2019b).
+4.2.5 Qual é indicação de uso do IGRA?
+(BRASIL, 2020a):
+1) Pessoas vivendo com HIV/aids com CD4+ >350 células/mm³;
+2) Pessoas em uso de imunossupressores (ex.: inibidores de TNF-α; corticosteroides; pré-
+transplante de órgãos);
+3) Crianças contatos de adultos com TB.
+5 RASTREAMENTO DE PROFISSIONAIS DE SAÚDE PARA
+risco de infecção pelo M. tuberculosis e de desenvolvimento da doença ativa, o rastreamento para
+tempo de duração da tosse e do prazo para a realização do próximo exame ocupacional.
+A indicação é de que a busca ativa seja realizada, também, em docentes e estudantes que
+da rede de atenção à saúde, laboratórios e em locais como albergues e asilos, entre outros
+(BRASIL, 2019b).
+nas suas formas ativa e passiva. A vigilância ativa é feita por meio de exames médicos dirigidos
+que incluam, além daqueles previstos em um PCMSO, por exemplo, a coleta de dados sobre sinais
+e sintomas de TB. Por sua vez, a vigilância passiva da saúde ocupacional é realizada a partir da
+demanda espontânea de trabalhadores que procuram serviços médicos do empregador, relatando
+quadros sintomáticos (SR). Dessa forma, é necessário o desenvolvimento de espaços e canais de
+comunicação para que os trabalhadores possam relatar seu estado de saúde.
+Quando há a identificação de um profissional ou trabalhador de saúde, docentes e estudantes
+com sintomas respiratórios, recomenda-se realizar o exame de escarro para diagnóstico da TB por
+meio do TRM-TB ou baciloscopia.
+O diagnóstico de casos novos de TB pulmonar e laríngea deve ser feito, preferencialmente,
+com TRM-TB, conforme o algoritmo recomendado pelo Ministério da Saúde.
+Nos locais onde não há a disponibilidade do TRM-TB, o diagnóstico deve ser realizado por
+meio da baciloscopia. Para isso, faz-se necessária a coleta de duas amostras de escarro, uma no
+primeiro contato e a outra no dia seguinte.
+Os procedimentos para a coleta de escarro e os algoritmos para o diagnóstico da TB, assim
+diagnóstico de TB, estão disponíveis no “Manual de Recomendações para o Controle da Tuberculose
+no Brasil” (BRASIL, 2019b).
+6 AVALIAÇÃO, GESTÃO E ACOMPANHAMENTO DE PROFISSIONAIS
+do trabalhador, devem ser adotados os procedimentos a seguir:
+• Avaliação médica quanto à necessidade de afastamento do trabalhador durante o período
+de tratamento;
+• Comunicação do caso, pela Unidade de Saúde em que o trabalhador estiver sendo
+atendido, à Vigilância Epidemiológica (VE) da Tuberculose, à Vigilância em Saúde do
+Trabalhador (Visat) e ao Centro de Referência em Saúde do Trabalhador Regional (Cerest)
+- ou, na ausência deste último, ao Cerest Estadual;
+• Monitoramento do trabalhador pelo empregador até que o doente possa retornar às suas
+atividades laborais;
+• Notificação do caso no Sinan, na Ficha de Tuberculose e na Ficha de Acidente de Trabalho
+com Exposição a Material Biológico, quando for o caso;
+• Inspeção, pelas equipes de Visat, VE ou da Vigilância Sanitária, dos ambientes e processos
+de trabalho do serviço de saúde em que o trabalhador estiver inserido, com o objetivo de
+intervir nos fatores determinantes da TB;
+• Emissão de Comunicação de Acidente de Trabalho (CAT) para os casos de TB relacionados
+ao trabalho ocorridos com trabalhadores em regime CLT;
+• Acompanhamento da evolução do caso, pela VE e Visat, registrando o agravamento
+da situação clínica e relacionando-a, se for o caso, ao retorno do trabalhador às suas
+atividades laborais ou não, conforme decisão médica e de acordo com as orientações do
+próximo item.
+Os trabalhadores de saúde com TB devem ser autorizados a retornar ao trabalho quando:
+• Tiverem dois resultados negativos de baciloscopia coletados com 24h de intervalo, entre
+15 e 30 dias do início do tratamento;
+• Responderem ao tratamento da tuberculose com melhora clínica e bacteriológica e
+radiológica, conforme avaliação clínica; e
+• Estiverem em condições clínicas adequadas e fora do período de transmissibilidade.
+7 EDUCAÇÃO SOBRE TUBERCULOSE ENTRE TRABALHADORES E
+os riscos de transmissão do M. tuberculosis nos ambientes de trabalho referem-se ao controle
+ambiental, à proteção individual (como o uso de EPI adequados e lavagem correta e frequente das
+mãos) e à organização dos serviços de saúde, como adequação de salas de espera e ventilação
+ambiente, dentre outras (ARAÚJO; SILVA; SILVA, 2016). É importante identificar os locais onde o uso
+de EPI é necessário.
+serviços de saúde, tendo como resultado o entendimento, por parte de profissionais de saúde, de
+quanto à transmissão (PINHEIRO, 2007). Sabe-se, entretanto, que as medidas administrativas
+associadas ao uso de EPI são consideradas mais efetivas (ARAÚJO; SILVA; SILVA, 2016), como:
+serviços de saúde, priorização do atendimento, estímulo e oferta de máscara facial para proteção
+em caso de tosse, educação e informação sobre sinais, sintomas, transmissibilidade e medidas de
+prevenção da TB, realização de exames ocupacionais (admissionais e periódicos) em profissionais
+de saúde e trabalhadores, dentre outras.
+Foi demonstrado que, em ambientes hospitalares, há falta de conhecimento, por parte
+de muitos profissionais de saúde, sobre a importância do rastreamento e o significado da prova
+tuberculínica para o diagnóstico da ILTB enquanto medida de biossegurança (PINHEIRO, 2007).
+Por outro lado, constatou-se que os trabalhadores do setor saúde reconhecem a importância
+da educação permanente como forma de atualização, não somente para aprender, mas também
+para implementar as medidas necessárias à prevenção da TB no cotidiano do trabalho (ARAÚJO;
+SILVA; SILVA, 2016).
+Sendo assim, é de fundamental importância para os trabalhadores e profissionais de saúde
+conhecer as recomendações e ferramentas de atualização disponíveis, como cursos a distância e
+semipresenciais gratuitos, além de multiplicar e compartilhar o conhecimento adquirido. Também
+país para tratar do tema.
+Por fim, ressalta-se aos gestores a importância de ações de educação permanente com a
+de saúde, tais como a realização de treinamentos sobre a avaliação admissional e periódica da ILTB,
+infecção, a fim de minimizar o risco da disseminação e adoecimento por TB entre profissionais de
+saúde e trabalhadores.
+AMERICAN THORACIC SOCIETY. Centers for Disease Control and Prevention. Diagnostic Standards
+and Classification of Tuberculosis in Adults and Children. American Journal of Respiratory and
+Critical Care Medicine, New York, v. 161, n. 4, p. 1376-95, 1 abr. 2000. Disponível em: https://
+www.atsjournals.org/doi/full/10.1164/ajrccm.161.4.16141?url_ver=Z39.88-2003&rfr_
+id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed. Acesso em: 12 abr. 2021.
+ARAÚJO, M. R. S.; SILVA, H. P.; SILVA, A. K. L. S. Avaliação situacional de biossegurança em
+tuberculose em Unidades Básicas de Saúde na Amazônia. Revista Brasileira de Saúde Ocupacional,
+rbso-41-e21.pdf. Acesso em: 12 abr. 2021.
+BORGES, T. S. et al. Prevalence of latent Mycobacterium tuberculosis infection among professionals
+of the primary healthcare network. Brazilian Journal in Health Promotion, Fortaleza, v.27, n. 2, p.
+269-75, 2014.
+BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil de 1988. Brasília,
+constituicao/constituicao.htm. Acesso em: 12 abr. 2021.
+BRASIL. Decreto nº 10.088, de 5 de novembro de 2019. Consolida atos normativos editados pelo
+Organização Internacional do Trabalho - OIT ratificadas pela República Federativa do Brasil. Brasília,
+10.088-de-5-de-novembro-de-2019-231356812. Acesso em: 22 abr. 2021.
+BRASIL. Decreto nº 7.602, de 7 de novembro de 2011. Dispõe sobre a Política Nacional de Segurança
+br/ccivil_03/_ato2011-2014/2011/decreto/d7602.htm. Acesso em: 22 abr. 2021.
+BRASIL. Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção
+e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras
+gov.br/images/pdf/2015/setembro/30/Lei-8080.pdf. Acesso em: 12 abr. 2021.
+BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução nº 222, de 28
+de março de 2018. Regulamenta as Boas Práticas de Gerenciamento de Resíduos de Serviços
+de Saúde e dá outras providências. Brasília, DF: Ministério da Saúde, 2018. Disponível em: http://
+bvsms.saude.gov.br/bvs/saudelegis/anvisa/2018/rdc0222_28_03_2018.pdf. Acesso em: 22
+abr. 2021.
+BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução nº 63, de 25
+de novembro de 2011. Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os
+gov.br/bvs/saudelegis/anvisa/2011/rdc0063_25_11_2011.html. Acesso em: 22 abr. 2021.
+BRASIL. Ministério da Saúde. Portaria de Consolidação nº 3, de 28 de setembro de 2017.
+Consolidação das normas sobre as redes do Sistema Único de Saúde. Brasília, DF: Ministério
+prc0003_03_10_2017.html. Acesso em: 22 abr. 2021.
+BRASIL. Ministério da Saúde. Portaria de Consolidação nº 5, de 28 de setembro de 2017.
+Consolidação das normas sobre as ações e os serviços de saúde do Sistema Único de Saúde.
+br/images/pdf/2018/marco/29/PRC-5-Portaria-de-Consolida----o-n---5--de-28-
+desetembro-de-2017.pdf. Acesso em: 12 abr. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos
+em Saúde. Departamento de Gestão e Incorporação de Tecnologias e Inovação em Saúde. Teste de
+liberação interferon-gama (interferon gamma release assay - IGRA) para detecção de tuberculose
+latente em pacientes imunocomprometidos. Relatório de recomendação nº 573. Brasília, DF:
+Relatorios/2020/20201113_Relatorio_de_Recomendacao_573_IGRA.pdf. Acesso em: 13 abr. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das
+Doenças Transmissíveis. Manual de Recomendações para o Controle da Tuberculose no Brasil.
+bvs/publicacoes/manual_recomendacoes_controle_tuberculose_brasil_2_ed.pdf. Acesso em:
+13 abr. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância das
+Doenças Transmissíveis. Brasil Livre da Tuberculose: Plano Nacional pelo Fim da Tuberculose como
+Problema de Saúde Pública. Brasília, DF: Ministério da Saúde, 2017c. 52 p. Disponível em: https://
+portalarquivos2.saude.gov.br/images/pdf/2017/junho/29/plano_nacional_tb_web.pdf.
+Acesso em: 13 abr. 2021.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. Boletim Epidemiológico Tuberculose
+pub/2020/boletim-epidemiologico-de-turbeculose-2020. Acesso em: 13 abr. 2021.
+BRASIL. Ministério do Trabalho. Secretaria de Segurança e Saúde do Trabalho. Portaria nº 24, de
+29 de dezembro de 1994. Aprova novo texto da Norma Regulamentadora nº 7 - Exames Médicos.
+Diário Oficial da União: Seção 1, Brasília, DF, n. 248, p. 21.278-21.280, 30 dez. 1994.
+BRASIL. Ministério do Trabalho. Secretaria de Segurança e Saúde do Trabalho. Portaria nº
+485, de 11 de novembro de 2005. Aprova a Norma Regulamentadora nº 32 - Segurança
+e Saúde no Trabalho em Estabelecimentos de Saúde. Brasília, DF: Ministério do
+mostrarintegra;jsessionid=A0DFC9671C271F924ED67242202671FC.node2?codteor=726447&fi
+lename=LegislacaoCitada+-PL+6626/2009. Acesso em: 8 out. 2021.
+BRASIL. Ministério do Trabalho. Secretaria de Segurança e Saúde do Trabalho. Portaria nº 6.735,
+de 10 de março de 2020. Aprova a nova redação da Norma Regulamentadora nº 9 - Avaliação
+e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos. Brasília, DF:
+n-6.735-de-10-de-marco-de-2020-247539132. Acesso em: 8 out. 2021.
+CENTERS FOR DISEASE CONTROL AND PREVENTION. Guidelines for Preventing the Transmission
+of Mycobacterium tuberculosis in Health-Care Facilities. MMWR. Morbidity and mortality weekly
+Portals/1/Documents/2300/MMWR05.pdf. Acesso em: 13 abr. 2021.
+HIJJAR, M. A.; OLIVEIRA, M. J. P. R.; TEIXEIRA, G. M. A tuberculose no Brasil e no mundo. Boletim de
+br/scielo.php?script=sci_arttext&pid=S0103-460X2001000200003. Acesso em: 13 abr. 2021.
+LACERDA, T. C. et al. Infecção por tuberculose entre profissionais de saúde da atenção básica.
+Jornal brasileiro de pneumologia, Brasília, DF, v. 43, n. 6, p. 416-423, 2017. Disponível em: https://
+www.scielo.br/scielo.php?pid=S1806-37132017000600416&script=sci_arttext&tlng=pt. Acesso
+em: 13 abr. 2021.
+MAZUREK, G. et al. Updated guidelines for using Interferon Gamma Release Assays to detect
+Mycobacterium tuberculosis infection - United States, 2010. MMWR. Morbidity and mortality
+mmwr/preview/mmwrhtml/rr5905a1.htm. Acesso em: 13 abr. 2021.
+MENZIES, D. Interpretation of repeated tuberculin tests. Boosting, conversion, and reversion.
+American Journal of Respiratory and Critical Care Medicine, New York, v. 159, p. 15-21, jan.
+ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed. Acesso em: 13
+abr. 2021.
+MENZIES, D. et al. Tuberculosis among health care workers. New England Journal of Medicine,
+NEJM199501123320206. Acesso em: 13 abr. 2021.
+PAI, M. et al. Gamma Interferon Release Assays for detection of Mycobacterium tuberculosis
+Infection. Clinical Microbiology Reviews, Washington, DC, v. 27, n. 1, p. 3, 2014.
+PAULA, D. G. P. et al. Tuberculose ocupacional: análise documental de um hospital universitário no
+Rio de Janeiro. Revista Cubana de Enfermería, Habana, v. 31, n. 4, dez. 2015. Disponível em: http://
+www.revenfermeria.sld.cu/index.php/enf/article/view/537/135. Acesso em: 13 abr. 2021.
+PELISSARI, D. M. et al. Identifying socioeconomic, epidemiological and operational scenarios for
+tuberculosis control in Brazil: an ecological study. BMJ Open, England, v. 8, p. e018545, 2018.
+PINHEIRO, M. C. A. C. Estudo descritivo do tratamento da infecção latente por tuberculose do
+Programa de Controle da Tuberculose Hospitalar da Universidade Federal do Rio de Janeiro.
+2007. Dissertação (Mestrado) - Programa de Pós-Graduação em Clínica Médica da Faculdade de
+Medicina da Universidade Federal do Rio de Janeiro. Rio de Janeiro, RJ: UFRJ, 2007.
+PRADO, T. N. et al. Epidemiological profile of tuberculosis cases reported among health care
+workers at the University Hospital in Vitoria, Brazil. Jornal Brasileiro de Pneumologia, Brasília, DF, v.
+34, n. 8, p. 607-613, 2008.
+QIAGEN. QuantiFERON®-TB Gold (QFT®) ELISA. Hilden (Germany): Qiagen GmbH,
+o_1b2vd080mcmg16nh1c3gg8v1hsd9.pdf. Acesso em: 26 abr. 2021.
+ROGÉRIO, W. P. et al. Prevalence of infection with Mycobacterium tuberculosis and associated
+factors in community health workers in Brazil based on the tuberculin skin test [Article in
+Portuguese]. Caderno de Saúde Pública, Rio de Janeiro, RJ, v. 31, n. 10, p. 2199-210, 2015.
+RUFFINO-NETO, A. Prova tuberculínica. Revista da Associação Médica Brasileira, São Paulo, v. 25,
+p. 257-9, 1979.
+SEPKOWITZ, K. A. Aids, tuberculosis, and the health care worker. Clinical Infectious Diseases,
+stract/20/2/232/376708?redirectedFrom=fulltext. Acesso em: 13 abr. 2021.
+SILVA, V. M.; CUNHA, A. J. L. A.; KRITSKI, A. L. Tuberculin skin test conversion among medical
+students at a teaching hospital in Rio de Janeiro, Brazil. Infection Control and Hospital
+nih.gov/12400888/. Acesso em: 13 abr. 2021.
+TRAJMAN, A.; TEIXEIRA, G.; STEFFEN, R. E. The tuberculin booster phenomenon prevalence: a met
+analysis. American Journal of Respiratory and Critical Care Medicine, New York, v. 179, p. A5929, 2009.
+WORLD HEALTH ORGANIZATION. Use of tuberculosis interferon-gamma release assays (IGRAs) in
+low- and middle-income countries: policy statement. Geneva: WHO, 2011.
+WORLD HEALTH ORGANIZATION. Global Tuberculosis Report 2019. Geneva: WHO, 2019. Disponível
+abr. 2021.
+WORLD HEALTH ORGANIZATION. Global tuberculosis report 2013. Geneva: WHO, 2013. Disponível
+WORLD HEALTH ORGANIZATION. Tuberculin reaction size on five consecutive days. Bulletin World
+pmc/articles/PMC2542340/. Acesso em: 13 abr. 2021.
+WORLD HEALTH ORGANIZATION. Counting health workers: definitions, data, methods and global
+health_workers.pdf. Acesso em: 13 abr. 2021.
+UDEN, L. et al. Risk of Tuberculosis Infection and Disease for Health Care Workers: An Updated
+Meta-Analysis. Open Forum Infectious Diseases, Oxford, v. 4, n. 3, p. ofx137, 29 ago. 2017.
+CONTE-NOS O QUE PENSA SOBRE ESTA PUBLICAÇÃO.
+CLIQUE AQUI E RESPONDA A PESQUISA.
+Capa:
+Formato: 210mm x 297mm (larg x alt) - 4 pg
+Cor: 4/4
+Papel: Supremo 320 g
+Encadernação: canoa
+Acabamento: BOPP
+Miolo:
+Formato: 210mm x 297mm (larg x alt) - 32 pg
+Cor: 4/4
+Papel: Couchê fosco 90 g/m²
+Tiragem: 1000
+bvsms.saude.gov.br
+Brasília - DF

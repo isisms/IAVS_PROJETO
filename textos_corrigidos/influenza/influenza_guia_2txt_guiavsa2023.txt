@@ -1,0 +1,888 @@
+1 a 3 anos 98 a 140 80 a 120
+Pré-escolar 80 a 120 65 a 100
+Escolar 75 a 118 58 a 90
+Adolescente 60 a 100 50 a 90
+Fonte: American Heart Association, 2021.
+*Sempre considerar o estado clínico normal do paciente. A FC geralmente aumenta com a febre ou em
+situações de estresse.
+IDADE FREQUÊNCIA | respirações/min
+Bebê 30 a 53
+1ª infância 22 a 37
+Pré-escolar 20 a 28
+Escolar 18 a 25
+Adolescente 12 a 20
+Fonte: American Heart Association, 2021.
+*Sempre considerar o estado clínico normal do paciente. A FR geralmente aumenta com a febre ou em
+situações de estresse. Em recém-nascidos considerar o valor normal de FR: 40 a 60irpm (SBP, 2021).
+Em crianças com sinais de agravamento, outro parâmetro a ser avaliado é a
+pressão arterial. A tabela a seguir mostra os valores de hipotensão em crianças
+e adolescentes por faixa etária.
+Recém-nascido a termo (0-28 dias) < 60
+Lactentes (1-12 meses) < 70
+Crianças 1 -10 anos < 70 + (2x idade em anos)
+Crianças maiores que 10 anos < 90
+Fonte: American Heart Association, 2021.
+*Manguito adequado: a parte interna de borracha (não a parte externa de tecido) deve cobrir pelo menos 2/3
+do comprimento do braço e envolver 80% a 100% de sua circunferência.
+Manguitos pequenos resultam em valores falsamente elevados.
+13 Guia de Manejo e Tratamento de Influenza | 2023
+14 Ministério da Saúde | Secretaria de Vigilância em Saúde
+SÍNDROME GRIPAL - SG
+Indivíduo que apresente febre de início súbito, mesmo que referida,
+sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico
+específico.
+Em crianças com menos de 2 anos de idade, considera-se também como
+caso de síndrome gripal: febre de início súbito (mesmo que referida)
+e sintomas respiratórios (tosse, coriza e obstrução nasal), na ausência de
+outro diagnóstico específico.
+SÍNDROME RESPIRATÓRIA AGUDA GRAVE - SRAG
+Indivíduo de qualquer idade, com síndrome gripal (conforme definição
+mencionada) e que apresente dispneia ou os seguintes sinais de gravidade:
+◼ Saturação de SpO < ou =94% em ar ambiente.
+◼ Sinais de desconforto respiratório ou aumento da frequência respiratória
+avaliada de acordo com a idade.
+◼ Piora nas condições clínicas de doença de base.
+◼ Hipotensão em relação à pressão arterial habitual do paciente.
+◼ Indivíduo de qualquer idade com quadro de insuficiência respiratória aguda,
+durante período sazonal.
+Em crianças: além dos itens anteriores, observar os batimentos de asa de
+nariz, cianose, tiragem intercostal, desidratação e inapetência.
+prescrição do medicamento.
+e radiológicas listadas a seguir:
+◼ Hemograma (leucocitose, leucopenia ou neutrofilia).
+◼ Bioquímica do sangue (alterações de CPK, TGO, TGP, bilirrubinas, DHL;
+ureia e creatinina).
+◼ Presença de alteração (infiltrado intersticial localizado ou difuso ou
+presença de área de condensação). Ressalta que essas alterações podem
+estar presentes em casos de infecção por outros vírus respiratórios,
+inclusive covid-19.
+Influenza, covid-19 e outros vírus respiratórios
+Além dos vírus influenza, as infecções respiratórias agudas podem
+estar associadas a diferentes patógenos, como o SARS-CoV-2, vírus
+sincicial respiratório (VSR), rinovírus, adenovírus, parainfluenza (1, 2, 3 e 4),
+metapneumovírus, entre outros. Entretanto, independentemente da etiologia,
+essas infecções virais apresentam sinais e sintomas respiratórios, de modo
+que a confirmação da identificação etiológica baseia-se em diagnóstico
+laboratorial.
+pandemia é a covid-19. As pessoas infectadas pelo SARS-CoV-2 podem levar
+maior. Ambas infecções podem ter diversos graus de manifestações clínicas,
+podendo variar desde um quadro assintomático a grave.
+Não há como diferenciar influenza e covid-19 apenas pelo quadro clínico,
+por isso é importante passar pela avaliação de um profissional médico, que
+avaliará e indicará a melhor conduta, de acordo com cada caso.
+Ainda para o correto manejo clínico da influenza, é preciso considerar
+e diferenciar os casos de síndrome gripal (SG) e síndrome respiratória aguda
+grave (Srag).
+16 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Atualmente, o uso do antiviral (fosfato de oseltamivir) está indicado para todos
+fatores de risco para complicações por influenza (vide tópico na página
+seguinte).
+Considerando que a manifestação de sintomas iniciais da covid-19 tende
+a ser muito semelhante à de um quadro de influenza (gripe), é importante
+o tratamento de covid-19.
+Além dos medicamentos sintomáticos e da hidratação, está indicado o uso
+e fatores de risco para complicações, independentemente da situação
+vacinal, mesmo em atendimento ambulatorial.
+proporciona, tanto na redução da duração dos sintomas quanto na ocorrência
+de complicações da infecção pelos vírus da influenza, em pacientes com
+condições e fatores de risco para complicações.
+■ Todos os pacientes com síndrome gripal e com condições/fatores
+de agravamento.
+■ Em pacientes com condições e fatores de risco para complicações
+e com Srag, o antiviral ainda apresenta benefícios, mesmo se iniciado
+até cinco dias do início dos sintomas.
+◼ Gestantes em qualquer idade gestacional, puérperas até duas semanas
+após o parto (incluindo as que tiveram aborto ou perda fetal).
+◼ Adultos ≥60 anos.
+◼ Crianças <5 anos (sendo que o maior risco de hospitalização é em menores
+de 2 anos, especialmente as menores de 6 meses que possuem maior
+taxa de mortalidade).
+◼ População indígena aldeada ou com dificuldade de acesso.
+◼ Indivíduos menores de 19 anos de idade em uso prolongado de ácido
+acetilsalicílico (risco de síndrome de Reye).
+◼ Indivíduos que apresentem:
+◆ pneumopatias (incluindo asma);
+◆ pacientes com tuberculose de todas as formas (há evidências de
+maior complicação e possibilidade de reativação);
+◆ cardiovasculopatias (excluindo hipertensão arterial sistêmica);
+◆ nefropatias;
+◆ hepatopatias;
+◆ doenças hematológicas (incluindo anemia falciforme);
+◆ distúrbios metabólicos (incluindo diabetes mellitus);
+◆ transtornos neurológicos e do desenvolvimento que podem
+aspiração (disfunção cognitiva, lesão medular, epilepsia, paralisia
+cerebral, síndrome de Down, acidente vascular encefálico - AVE
+ou doenças neuromusculares);
+◆ imunossupressão associada a medicamentos, (corticoide >20mg/
+dia prednisona por mais de duas semanas, quimioterápicos, inibi-
+dores de TNF-alfa) neoplasias, HIV/aids ou outros;
+◆ obesidade (especialmente aqueles com índice de massa corporal
+- IMC ≥ 40 em adultos).
+18 Ministério da Saúde | Secretaria de Vigilância em Saúde
+julgamento clínico, preferencialmente nas primeiras 48 horas após o início
+da doença, além dos medicamentos sintomáticos e da hidratação.
+se surgirem sinais de agravamento do quadro (vide sinais de agravamento).
+receber de imediato o tratamento com o fosfato de oseltamivir.
+SÍNDROME RESPIRATÓRIA AGUDA GRAVE - SRAG
+Para os pacientes com quadro de Srag, recomenda-se:
+◼ Indicar internação hospitalar.
+◼ Realizar avaliação clínica minuciosa e, de acordo com a indicação, iniciar
+terapêutica imediata de suporte, incluindo hidratação venosa e oxigeno-
+terapia, mantendo monitoramento clínico.
+◼ A avaliação inicial deve incluir no mínimo aferição dos sinais vitais (pressão
+arterial, frequência cardíaca, frequência respiratória e temperatura axilar),
+exame cardiorrespiratório e oximetria de pulso; esta avaliação deve
+ser frequente (2-4 aferições no prazo de 4 horas) e definir nesse prazo
+a necessidade de suporte de Unidade de Terapia Intensiva (UTI) (vide
+tópico na página seguinte).
+◼ Iniciar imediatamente o tratamento com o fosfato de oseltamivir após
+a suspeita clínica, independentemente da coleta de material para exame
+laboratorial.
+◼ Coletar amostras de secreções respiratórias para exame laboratorial,
+preferencialmente antes do início do tratamento.
+◼ Para orientações sobre coleta de amostras acesse o Guia para a Rede
+Laboratorial de Vigilância de Influenza no Brasil no link:
+influenza_vigilancia_influenza_brasil.pdf.
+19 Guia de Manejo e Tratamento de Influenza | 2023
+DE TERAPIA INTENSIVA - UTI
+Instabilidade hemodinâmica persistente: pressão arterial que não
+respondeu à reposição volêmica (30 mL/kg nas primeiras 3 horas),
+indicando uso de amina vasoativa (exemplo: noradrenalina, dopamina,
+adrenalina).
+Sinais e sintomas de insuficiência respiratória, incluindo hipoxemia
+(PaO abaixo de 60 mmHg) com necessidade de suplementação de
+oxigênio para manter saturação arterial de oxigênio acima de 90%.
+(ANEXO A: Orientações para tratamento da insuficiência respiratória
+aguda grave).
+Evolução para outras disfunções orgânicas, como insuficiência renal
+aguda e disfunção neurológica.
+às complicações por infecções respiratórias, fato evidenciado pela maior
+de influenza em 2009.
+e fatores de risco para complicações por influenza.
+Para esse grupo, recomenda-se:
+◼ Durante a consulta médica, deve ser realizado o exame físico, incluindo
+ausculta e frequência respiratória, assim como os demais sinais vitais
+e a aferição da oximetria de pulso. São considerados sinais de alarme
+em gestantes valores de frequência respiratória >20 rpm e frequência
+cardíaca >100 bpm.
+◼ Mesmo podendo representar manifestação fisiológica da gravidez, a queixa
+de dispneia deve ser valorizada na presença de síndrome gripal.
+20 Ministério da Saúde | Secretaria de Vigilância em Saúde
+◼ Em pacientes com sinais de agravamento, incluindo SpO <94%, con-
+si derar o início imediato de oxigenoterapia, monitorização contínua e
+internação hospitalar.
+◼ Gestantes e puérperas, mesmo vacinadas, devem ser tratadas com
+antiviral, fosfato de oseltamivir, na dose habitual para adultos, indicado na
+síndrome gripal, independentemente de sinais de agravamento, visando
+à redução da morbimortalidade materna.
+◼ Não se deve protelar a realização de exame radiológico em qualquer
+diagnóstica de pneumonia. A tomografia computadorizada (TC) de tórax
+pode ser realizada em casos selecionados.
+◼ A elevação da temperatura na gestante deve ser sempre controlada
+com antitérmico, uma vez que a hipertermia materna determina lesões
+no feto. A melhor opção é o paracetamol.
+◼ Devem ser tomadas precauções com o recém-nascido no puerpério
+(ver item que trata sobre o Manejo do Recém-Nascido - RN de mãe com
+influenza ou suspeita clínica.
+Todas as gestantes e puérperas com síndrome gripal, mesmo não
+complicadas, devem ser tratadas com antiviral. O tratamento com
+fosfato de oseltamivir não é contraindicado na gestação (categoria C)
+e sua segurança foi comprovada.
+21 Guia de Manejo e Tratamento de Influenza | 2023
+22 Ministério da Saúde | Secretaria de Vigilância em Saúde
+contra o vírus influenza, é um medicamento inibidor potente e seletivo da
+neuraminidase, uma glicoproteína essencial presente na superfície viral
+de infecção nas células hospedeiras (MCAULEY, 2019; MCCLELLAN; PERRY,
+2001; KRAMMER et al., 2018).
+O tratamento com o antiviral, de maneira precoce, pode reduzir a duração
+dos sintomas e, principalmente, a redução da ocorrência de complicações
+da infecção pelo vírus influenza.
+48 horas do início dos sintomas (MUTHURI et al., 2014).
+Entretanto, alguns estudos sugerem que o fosfato de oseltamivir pode ainda
+após o início do quadro clínico.
+No caso de pacientes gestantes, em qualquer trimestre, com infecção por
+influenza, o maior benefício em prevenir falência respiratória e óbito foi
+demonstrado nos casos que receberam tratamento até 72 horas, porém
+dos sintomas, quando comparado com casos que receberam o antiviral após
+cinco dias do início do quadro clínico.
+avaliados em estudos clínicos randomizados controlados duplo-cego,
+incluindo placebo, uma vez que a maior parte dos estudos clínicos anteriores
+gripal. Segundo as agências internacionais, os inibidores de neuraminidase são
+para pacientes com influenza hospitalizados.
+Ressalta-se que o início do tratamento com fosfato de oseltamivir não deve ser
+postergado caso o resultado do teste laboratorial ainda não esteja disponível.
+Para a prescrição desse medicamento é usado o receituário simples.
+O Ministério da Saúde (MS) disponibiliza esse medicamento no Sistema
+Único de Saúde (SUS).
+O zanamivir é um medicamento antiviral inibidor da neuraminidase,
+contudo, segundo a OMS não está mais indicado para indivíduos com
+hospitalização admissão em UTI/ventilação mecânica e mortalidade.
+Adulto 75 mg, 12/12h, 5 dias
+≤ 15 kg 30 mg, 12/12h, 5 dias
+> 15 kg a 23 kg 45 mg, 12/12h, 5 dias
+Fosfato de de 1 ano de idade
+> 23 kg a 40 kg 60 mg, 12/12h, 5 dias
+> 40 kg 75 mg, 12/12h, 5 dias
+0 a 8 meses 3 mg/kg, 12/12h, 5 dias
+de 1 ano de idade
+9 a 11 meses 3,5 mg/kg, 12/12h, 5 dias
+Fonte: CDC, 2022 adaptado.
+24 Ministério da Saúde | Secretaria de Vigilância em Saúde
+DOSE PARA TRATAMENTO EM RECÉM-NASCIDOS
+◼ 1 mg/kg/dose 12/12 horas em RN <38 semanas de idade gestacional.
+◼ 1,5 mg/kg/dose 12/12 horas em RN de 38 a 40 semanas de idade gestacional.
+◼ 3 mg/kg/dose de 12/12 horas em RN >40 semanas de idade gestacional.
+Obs.: tratamento durante cinco dias.
+Dose de oseltamivir para prematuros: a dose baseada no peso para os
+prematuros é menor do que para os recém-nascidos a termo devido ao menor
+clearance de osetalmivir ocasionada pela imaturidade renal (COMMITTEE..., 2019).
+Caso o pó para suspensão oral não esteja disponível, o responsável pela
+utilizando o conteúdo das cápsulas diluído em água, o conteúdo poderá ser
+misturado com alimentos açucarados. As orientações sobre a correta diluição
+do medicamento, encontram-se no Anexo B.
+A dose deve ser ajustada no caso de insuficiência renal, com base no clearance
+COMPROMETIMENTO RENAL/
+TRATAMENTO 5 DIAS PROFILAXIA 10 DIAS
+75 mg 12/12h 75 mg 1 vez ao dia
+clearance >60-90 ml/min
+30 mg 12/12h 30 mg 1 vez ao dia
+clearance >30-60 ml/min
+30 mg 1 vez ao dia 30 mg em dias alternados
+clearance >10-30 ml/min
+Pacientes em hemodiálise 30 mg após cada sessão 30 mg após cada sessão
+clearance ≤10 ml/min de hemodiálise*. alternada de hemodiálise.
+Única dose de 30 mg 30 mg 1 vez por semana
+ambulatorial - dPCa
+após troca da diálise. da diálise**
+clearance ≤10 ml/min
+Fonte: CDC, 2022 adaptado.
+*Serão apenas três doses (em vez de cinco) após cada sessão de hemodiálise, considerando-se que, num
+período de cinco dias, serão realizadas três sessões.
+**Serão duas doses de 30 mg cada, considerando-se os dez dias, onde ocorrerão apenas dois sessões de diálise.
+25 Guia de Manejo e Tratamento de Influenza | 2023
+Em hemodiálise a dose deve ser 30 mg após cada sessão e em diálise
+peritoneal a dose deverá ser de 30 mg, uma vez por semana.
+(pacientes com diálise em regime de três vezes por semana), ou seja, total
+de três doses de 30 mg de oseltamivir equivaleria ao tratamento total
+de insuficiência renal crônica.
+Recomendado apenas uma dose uma vez por semana, a qual equivaleria
+ao tratamento completo. E para profilaxia uma dose uma vez por semana,
+durante duas semanas.
+Recomenda-se que os médicos sigam as indicações dos protocolos/
+consensos divulgados pelas sociedades médicas.
+Não há evidência de benefícios da administração de antimicrobianos, em
+pacientes com influenza, exceto na forte suspeita de coinfecção bacteriana.
+Informações adicionais:
+◼ Os tratamentos mais longos podem ser necessários em pacientes imuno-
+comprometidos, os quais podem apresentar replicação viral prolongada.
+Esses pacientes apresentam risco de desenvolver resistência. Para os
+pacientes que vomitam até uma hora após a ingestão do medicamento,
+deve ser administrada uma dose adicional.
+26 Ministério da Saúde | Secretaria de Vigilância em Saúde
+O surgimento de resistência a fármacos é uma preocupação global.
+Em especial, para medicamentos como o fosfato de oseltamivir que, devido
+a sua importância, foi incluído na lista de medicamentos essenciais da
+Organização Mundial da Saúde (OMS).
+clínica, os casos identificados estão principalmente relacionados a pacientes
+imunocomprometidos (LAMPEJO, 2020; KRAMMER et al., 2018).
+Diante da gama de vírus que podem causar síndrome gripal, o uso racional
+o impacto de potenciais resistências ao tratamento. Quando usado contra vírus
+suscetíveis e de forma correta, o fármaco é eficaz e pode reduzir a duração
+dos sintomas. A não realização do tratamento completo, além de menor
+efetividade, pode conduzir à resistência. O antiviral fosfato de oseltamivir
+é específico para o vírus influenza, não devendo ser utilizado para o tratamento
+de infecções por outros vírus.
+27 Guia de Manejo e Tratamento de Influenza | 2023
+28 Ministério da Saúde | Secretaria de Vigilância em Saúde
+prevenção da transmissão entre pacientes e profissionais de saúde, e deve ser
+adotada no cuidado de todos os pacientes, independentemente dos fatores
+de risco ou doença de base. A precaução padrão compreende:
+◼ Higienização das mãos antes e após contato com o paciente.
+◼ Uso de equipamentos de proteção individual (EPI) - avental e luvas -
+ao contato com sangue e secreções.
+◼ Uso de óculos e máscara se houver risco de respingos.
+◼ Fazer o descarte adequado de resíduos, segundo o regulamento técnico
+saude.gov.br/bvs/saudelegis/anvisa/2018/rdc0222_28_03_2018.pdf
+Além da precaução padrão, devem ser implantadas as precauções para
+gotículas, que devem ser utilizadas para pacientes com suspeita ou
+confirmação de infecção por influenza. As gotículas respiratórias que têm
+cerca de >5 µm de tamanho, provocadas por tosse, espirro ou fala, não se
+propagam por mais de 1 metro da fonte, e relacionam-se à transmissão de
+susceptível. Recomenda-se:
+◼ Uso de máscara cirúrgica ao entrar no quarto, a menos de 1 metro do
+paciente - substituí-la a cada contato com o paciente.
+◼ Higienização das mãos antes e depois de cada contato com o paciente
+(água e sabão ou álcool em gel).
+◼ Uso de máscara cirúrgica no paciente durante transporte.
+◼ Limitar procedimentos indutores de aerossóis (intubação, sucção, nebu-
+lização).
+◼ Uso de dispositivos de sucção fechados.
+◼ Manter paciente preferencialmente em quarto privativo por sete dias
+após o início dos sintomas ou até por 24 horas após o desaparecimento
+da febre e sintomas respiratórios, desde que o paciente esteja sem o uso
+de antitérmico.
+◼ Quando em enfermaria, respeitar a distância mínima de 1 metro entre
+os leitos durante o tratamento com fosfato de oseltamivir.
+No caso de procedimentos que gerem aerossóis - partículas <5 µm, que
+podem ficar suspensas no ar por longos períodos (exemplo: intubação, sucção,
+nebulização), recomenda-se:
+◼ Uso de EPI - avental e luvas, óculos e máscara [respirador] tipo N95,
+N99, PFF2 ou PFF3 pelo profissional de saúde durante o procedimento
+de assistência ao paciente.
+◼ Manter paciente preferencialmente em quarto privativo.
+◼ Uso de máscara (respirador) tipo N95, N99, PFF2 ou PFF3 pelo profissional
+de saúde ao entrar no quarto.
+◼ Uso de máscara cirúrgica pelo paciente durante transporte.
+◼ Remoção de sujidades com água e sabão ou detergente.
+◼ Limpeza com solução de hipoclorito de sódio em pisos e superfícies dos
+banheiros.
+◼ Fricção de outras superfícies e objetos com álcool a 70%.
+◼ Uso de EPI adequado.
+◼ Fazer descarte adequado de resíduos, segundo o regulamento técnico para
+de Vigilância Sanitária (Anvisa). Acesse o documento no link: https://
+www.in.gov.br/web/guest/materia/-/asset_publisher/Kujrw0TZC2Mb/
+content/id/8436198/do1-2018-03-29-resolucao-rdc-n-222-de-28-de-
+marco-de-2018-8436194.
+30 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Afastamento do trabalho até 24 horas após cessar a febre e considerar
+o afastamento ou realocação por sete dias, no caso de profissional de saúde
+que trabalha em contato direto com pacientes.
+internos do serviço.
+31 Guia de Manejo e Tratamento de Influenza | 2023
+32 Ministério da Saúde | Secretaria de Vigilância em Saúde
+MANEJO DO RECÉM-NASCIDO - RN FILHO DE
+◼ Manter preferencialmente o binômio em quarto privativo.
+◼ Manter distância mínima do berço do RN e mãe de 1 metro.
+◼ Orientar a realizar etiqueta respiratória.
+◼ Orientar a higienização das mãos imediatamente após tocar nariz, boca
+e sempre antes do cuidado com o RN.
+◼ Orientar o uso de máscara cirúrgica durante o cuidado e a amamentação
+do RN.
+◼ Profissional de saúde ao atender a puérpera e RN deve seguir as orien-
+tações de precaução padrão e gotículas.
+◼ Acompanhante da puérpera e RN deve seguir as orientações de
+precaução padrão e gotículas.
+◼ Caso a puérpera precise circular em áreas comuns do hospital, utilizar
+máscara cirúrgica.
+◼ As precauções padrão e de gotículas devem ser continuadas por até
+sete dias do início da doença ou até 24 horas após a resolução da febre
+e sintomas respiratórios, o que for mais longo e enquanto a paciente
+estiver internada.
+◼ Utilizar preferencialmente quarto privativo ou distância mínima entre
+leitos de 1 metro.
+◼ Em unidade neonatal o quarto privativo poderá ser substituído pelo uso
+de incubadora, mantendo as demais orientações quanto à distância entre
+da saúde.
+◼ Orientar pais ou acompanhantes a higienizar as mãos antes e após tocar
+na criança ou após tocar no espaço perileito.
+◼ Caso o acompanhante apresente sintomas respiratórios, orientar etiqueta
+respiratória, com higienização das mãos e utilização de máscara cirúrgica
+em áreas compartilhadas por outros pacientes ou profissionais da saúde.
+◼ Frequente higienização das mãos, principalmente antes de consumir
+algum alimento.
+◼ Utilizar lenço descartável para higiene nasal.
+◼ Cobrir nariz e boca quando espirrar ou tossir.
+◼ Evitar tocar mucosas de olhos, nariz e boca.
+◼ Higienizar as mãos após tossir ou espirrar.
+◼ Não compartilhar objetos de uso pessoal, como talheres, pratos, copos
+ou garrafas.
+◼ Manter os ambientes bem ventilados.
+◼ Evitar contato próximo a pessoas que apresentem sinais ou sintomas de
+influenza.
+◼ Evitar sair de casa em período de transmissão da doença.
+◼ Evitar aglomerações e ambientes fechados (procurar manter os ambientes
+ventilados).
+◼ Adotar hábitos saudáveis, como alimentação balanceada e ingestão de
+líquidos.
+◼ Orientar o afastamento temporário (trabalho, escola etc.) até 24 horas após
+cessar a febre.
+34 Ministério da Saúde | Secretaria de Vigilância em Saúde
+quimioprofilaxia:
+Essa diretriz não recomenda a quimioprofilaxia, exceto nas seguintes situações:
+◼ Adultos, adolescentes e crianças com graves deficiências imunológicas
+ou em uso de drogas imunossupressoras, após contato com pessoas
+com infecção.
+◼ Residentes de alto risco em instituições de longa permanência, durante
+surtos na instituição, deverão receber quimioprofilaxia se tiverem comor-
+bidades.
+exposição* a uma pessoa com infecção pelo vírus for maior que 48 horas.
+Para que a quimioprofilaxia seja efetiva, o antiviral deve ser administrado
+sete dias após a última exposição conhecida.
+*Considera se exposição a pessoa que teve contato com caso suspeito
+ou confirmado para influenza até 48 horas.
+INSTITUIÇÕES DE LONGA PERMANÊNCIA - ILP
+A influenza pode se disseminar rapidamente entre as populações,
+especialmente as que vivem em ambientes restritos ou fechados, podendo
+causar morbidade considerável e interrupção das atividades diárias. Por isso,
+é importante que, mediante situações de surto ou epidemia, sejam adotadas
+medidas específicas para a interrupção.
+Definição de surto em instituições fechadas ou hospitais de longa permanência:
+epidemiológico em um período de até 72 horas.
+e fatores de risco para complicações. No caso de surto suspeito ou confir-
+mado indica-se:
+◼ É recomendável a quimioprofilaxia com antiviral na instituição por no
+do último caso.
+Adulto 75 mg/dia, Vo / 10 dias
+≤ 15 kg 30 mg/dia, Vo / 10 dias
+Fosfato de maiores ou igual >15 kg a 23 kg 45 mg/dia, Vo / 10 dias
+a 1 ano de idade
+oseltamivir >23 kg a 40 kg 60 mg/dia, Vo / 10 dias
+(tamiflu®)
+>40 kg 75 mg/dia, Vo / 10 dias
+0 a 8 meses 3 mg/kg ao dia, 10 dias
+1 ano de idade
+9 a 11 meses 3,5 mg/kg ao dia, 10 dias
+Fonte: CDC, 2022 adaptado.
+1 ANO DE IDADE
+◼ Menos de 3 meses - não é recomendado a menos que a situação seja
+julgada crítica.
+◼ 0-8 meses = 3 mg/kg, uma vez ao dia.
+◼ 8-11 meses = 3,5 mg/kg, uma vez ao dia
+◼ 1 ano ou mais - dose varia de acordo com o peso:
+◆ <15 kg, 30 mg uma vez ao dia.
+◆ >15 a 23 kg, 45 mg uma vez ao dia.
+◆ >23 a 40 kg, 60 mg uma vez ao dia.
+◆ >40 kg, 75 mg uma vez ao dia.
+Obs.: tratamento durante dez dias.
+<www.cdc.gov/mmwr/pdf/rr/rr6001.pdf>
+36 Ministério da Saúde | Secretaria de Vigilância em Saúde
+◼ Vacinar anualmente todos os residentes e funcionários.
+◼ Realizar coleta de amostra para diagnóstico de influenza em caso
+suspeito, até que se tenham no mínimo dois casos confirmados.
+◼ Realizar busca ativa diária até pelo menos uma semana após a identi-
+ficação do último caso.
+◼ Implementar medidas de prevenção - precaução padrão e precaução
+de gotículas e aerossóis - para todos os residentes e internados com
+sintomas ou até por 24 horas após o desaparecimento da febre e sintomas
+respiratórios, desde que o paciente esteja sem o uso de antitérmico.
+◼ Isolamento em quarto privativo ou, quando não disponível, isolamento
+de coorte. o mesmo diagnóstico
+◼ Embora a covid-19 e a Influenza sejam doenças para as quais se
+implementa medidas de precaução semelhantes, não se deve colocar
+na mesma coorte, pacientes com covid-19 e pacientes com influenza,
+para evitar a disseminação das diferentes doenças entre os pacientes.
+◼ Evitar visitas. Caso ocorram, usar EPI de acordo com a situação.
+◼ Residentes sintomáticos devem ser mantidos, na medida do possível,
+em seus quartos. Caso circulem, usar máscara cirúrgica.
+◼ Limitar aglomeração, considerando a possibilidade de servir refeição
+no quarto.
+◼ Restringir a movimentação dos profissionais que atuam em áreas onde
+há doentes para áreas não atingidas pelo surto.
+◼ Evitar novas admissões ou transferência de sintomáticos.
+◼ Considerar no cenário pós-pandêmico a possibilidade de cocirculação de
+SARS-CoV-2, atentar para diagnóstico e recomendações de tratamento
+de pacientes de risco.
+37 Guia de Manejo e Tratamento de Influenza | 2023
+38 Ministério da Saúde | Secretaria de Vigilância em Saúde
+ambiente extra-hospitalar
+Alunos, professores e demais funcionários que adoecerem devem permanecer
+em afastamento temporário na suspeita clínica de influenza, podendo ser
+liberado o retorno à escola se clinicamente estável, sem uso de antitérmico
+e sem febre por 24 horas.
+Ao retornar à escola, manter cuidados de etiqueta respiratória durante
+a permanência dos sintomas respiratórios.
+surto de influenza como medida de prevenção e controle de infecção.
+Recomenda-se a vacinação anual de professores do ensino básico e superior,
+desse profissional.
+◼ Cobrir o nariz e a boca com lenço, ao tossir ou espirrar, e descartar
+o lenço no lixo após uso.
+◼ Lavar as mãos com água e sabão após tossir ou espirrar.
+◼ No caso de não haver disponibilidade de água e sabão, usar álcool em gel.
+◼ Evitar tocar olhos, nariz ou boca.
+◼ Usar máscara cirúrgica, quando apresentar sintomas gripais (controle
+da fonte).
+◼ Vacinar anualmente a população privada de liberdade.
+◼ Não há indicação de quimioprofilaxia para a população privada de liber-
+dade em caso de surto, por esta não se tratar de população de risco de
+complicação para influenza.
+◼ O caso suspeito ou confirmado se possível deverá ser mantido em
+ambiente individual.
+◼ Evitar trânsito de profissionais entre alas com e sem doentes.
+◼ Realizar busca ativa diária até pelo menos uma semana após a identi-
+ficação do último caso.
+◼ Devem ser orientados à prática das seguintes medidas preventivas:
+◆ cobrir o nariz e a boca com lenço, ao tossir ou espirrar, e descartar
+o lenço no lixo após uso;
+◆ lavar as mãos com água e sabão após tossir ou espirrar;
+◆ no caso de não haver disponibilidade de água e sabão, usar álcool
+em gel;
+◆ evitar tocar olhos, nariz ou boca.
+40 Ministério da Saúde | Secretaria de Vigilância em Saúde
+O controle da influenza requer vigilância qualificada, somada às ações de
+imunização anuais, direcionadas especificamente aos grupos de maior
+vulnerabilidade e com maior risco para desenvolver complicações.
+prevenir a doença, porque pode ser administrada antes da exposição ao vírus
+do vírus influenza reduzindo o agravamento da doença.
+É recomendada a vacinação anual contra influenza para os grupos-alvos
+definidos pelo Ministério da Saúde, mesmo que já tenham recebido a vacina
+na temporada anterior, pois se observa queda progressiva na quantidade
+de anticorpos protetores (WHO, 2018). Essa recomendação é válida mesmo
+quando a vacina indicada contém as mesmas cepas utilizadas no ano anterior.
+Atualmente, a vacina encontra-se indicada para as crianças de 6 meses
+a menores de 5 anos de idade (4 anos, 11 meses e 29 dias), gestantes,
+puérperas, povos indígenas, trabalhadores da saúde, idosos com 60 anos
+ou mais, professores das escolas públicas e privadas, pessoas portadoras de
+doenças crônicas não transmissíveis e outras condições clínicas especiais,
+pessoas com deficiência permanente, profissionais das forças de segurança
+e salvamento e das forças armadas, caminhoneiros, trabalhadores de
+transporte coletivo rodoviário de passageiros urbano e de longo curso,
+trabalhadores portuários, funcionários do sistema prisional, adolescentes
+e jovens de 12 a 21 anos de idade sob medidas socioeducativas e população
+privada de liberdade. O público-alvo, portanto, representa aproximadamente
+80 milhões de pessoas. A meta é vacinar pelo menos 90% dos grupos elegíveis
+(BRASIL, 2022).
+nos grupos prioritários para vacinação, não apenas para sua proteção
+individual, mas também para evitar a transmissão dos vírus aos pacientes
+de alto risco.
+de Vacinação contra a Influenza, que se encontra disponível no link:
+nacional-de-vacinacao/arquivos/informe-da-24a-campanha-nacional-de-
+vacinacao-contra-a-influenza.pdf.
+42 Ministério da Saúde | Secretaria de Vigilância em Saúde
+vigilância, notificação
+pela vigilância sentinela de síndrome gripal (SG) e a vigilância de síndrome
+respiratória aguda grave (Srag) em pacientes hospitalizados e óbitos por Srag.
+vírus respiratórios de importância em saúde pública, em unidades de saúde
+selecionadas (intituladas unidades sentinelas), para que sirvam como um
+alerta precoce ao sistema de vigilância. As unidades sentinelas são definidas
+por características e critérios epidemiológicos, juntamente com os respectivos
+gestores dos municípios, dos estados e do Distrito Federal.
+VIGILÂNCIA SENTINELA DE SÍNDROME GRIPAL - SG
+distribuídas em todas as unidades federadas e regiões geográficas do País,
+em saúde pública, circulantes ou sazonais. Por ser uma vigilância sentinela,
+preconiza-se a coleta de amostras clínicas nasofaríngea, por semana
+epidemiológica, de casos de SG atendidos em cada unidade sentinela, para
+realização do diagnóstico e também de estudos complementares (isolamento,
+resistência, sequenciamento e outros) dos vírus identificados, como influenza,
+SARS-CoV-2 e vírus sincicial respiratório.
+O registro dos resultados de diagnósticos laboratoriais, dos casos captados
+em unidades sentinelas, devem ser inseridos no Sistema de Informação
+da Vigilância Epidemiológica da Gripe (Sivep-Gripe), conforme os fluxos
+locais estabelecidos.
+muito oportunos para sinalizar início de sazonalidade, epidemias e surtos
+pelos vírus respiratórios de importância em saúde pública. E, assim, fortalecer
+os gestores na tomada de decisão, para organização da rede de assistência
+à saúde.
+No atual contexto epidemiológico, os casos de SG suspeitos de covid-19, captados
+fora das unidades sentinelas, devem ser notificados no sistema e-SUS Notifica.
+Após investigação laboratorial, se confirmado para influenza e descartado
+para covid-19, o caso deve ser encerrado como “descartado”, não havendo
+a necessidade de notificar o resultado referente a influenza.
+AGUDA GRAVE - SRAG
+A vigilância de Srag monitora os casos hospitalizados e óbitos por Srag, com
+federadas.
+Os dados clínico-epidemiológicos são coletados por meio de formulários
+padronizados e inseridos no Sivep-Gripe. A partir da pandemia de covid-19,
+a vigilância de Srag tem caráter universal, ou seja, todos os casos de Srag
+devem ser obrigatoriamente notificados.
+Sivep-Gripe são importantes para o monitoramento da situação epide-
+miológica e tomada de decisão, voltada às medidas de prevenção e controle
+da influenza.
+Demais informações técnicas, recomendações e atualizações sobre a
+na página de A a Z da Secretaria de Vigilância em Saúde e Ambiente (SVSA)
+do Ministério da Saúde (MS).
+44 Ministério da Saúde | Secretaria de Vigilância em Saúde
+AMERICAN HEART ASSOCIATION. PALS - Pediatric Advenced Life
+Support: provider manual. Texas: American Heart Association, 2015.
+AMERICAN HEART ASSOCIATION. Suporte avançado de vida em pediatria:
+manual do profissional. Texas: American Heart Association, 2021.
+BRASIL. Ministério da Saúde Secretaria de Vigilância em Saúde. Departamento
+de Vigilância das Doenças Transmissíveis. Guia para a Rede Laboratorial de
+Vigilância de Influenza no Brasil. Brasília, DF: MS, 2016. Disponível em: http://
+bvsms.saude.gov.br/bvs/publicacoes/guia_laboratorial_influenza_vigilancia_
+influenza_brasil.pdf. Acesso em: 18 jan. 2023.
+BRASIL. Ministério da Saúde. AGÊNCIA NACIONAL DE VIGILÂNCIA
+SANITÁRIA. Resolução RDC n.º 306, de 7 de dezembro de 2004. Dispõe
+saude.gov.br/bvs/saudelegis/anvisa/2004/res0306_07_12_2004.html.
+Acesso em: 3 nov. 2022.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Informe Técnico da 24ª Campanha Nacional de Vacinação contra a
+saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-
+vacinacao/arquivos/informe-da-24a-campanha-nacional-de-vacinacao-
+contra-a-influenza.pdf. Acesso em: 18 jan. 2023.
+CENTERS FOR DISEASES CONTROL AND PREVENTION. Flu Treatment.
+html. Acesso em: 3 nov. 2022.
+COMMITTEE ON INFECTIOUS DISEASES. Recommendations for Prevention
+and Control of Influenza in Children, 2019-2020. Pediatrics, v. 144, n. 4,
+p. e20192478, 2019.
+KRAMMER, F. et al. Influenza. Nat. Rev. Dis. Primers, v. 4, n. 1, p. 3, 2018.
+LAMPEJO, T. Influenza and antiviral resistance: an overview. Eur. J. Clin.
+Microbiol. Infect. Dis., v. 39, n. 7, p. 1201-1208, 2020.
+MCAULEY, J. L. et al. Influenza Virus Neuraminidase Structure and Functions.
+Front Microbiol., v. 10, p. 39, 2019.
+MCCLELLAN, K.; PERRY, C. M. Oseltamivir: a review of its use in influenza.
+Drugs., v. 61, n. 2, p. 263-283, 2001.
+MUTHURI, S. G. et al. Effectiveness of neuraminidase inhibitors in reducing
+mortality in patients admitted to hospital with influenza A H1N1pdm09
+virus infection: a meta-analysis of individual participant data. Lancet Respir.
+Med., v. 2, n. 5, p. 395-404, 2014.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Cuidados pós-reanimação
+neonatal. Rio de Janeiro: SBP, 2021.
+UYEKI, T. M. et al. Clinical Practice Guidelines by the Infectious
+Diseases Society of America: 2018 Update on Diagnosis, Treatment,
+Chemoprophylaxis, and Institutional Outbreak Management of Seasonal
+Influenzaa. Clin. Infect. Dis., v. 68, n. 6, p. 895-902, 2019.
+WORLD HEALTH ORGANIZATION. Influenza Seasonal. 6 Nov. 2018.
+influenza-(seasonal). Acesso em: 14 out. 2022.
+46 Ministério da Saúde | Secretaria de Vigilância em Saúde
+ANTONELLI, M. et al. Predictors of failure of noninvasive positive pressure
+ventilation in patients with acute hypoxemic respiratory failure: a multi-
+center study. Intensive Care Med, v. 27, n. 11, p. 1718-1728, 2001.
+ASTHMA AND LUNG UK. Breathing and lung function tests. Tests to
+measure your oxygen levels. London: Asthma and Lung UK, 2022.
+tests-measure-oxygen-levels. Acesso em: 23 nov. 2022.
+BAILLARD, C. et al. Noninvasive ventilation improves preoxygenation before
+intubation of hypoxic patients. Am. J. Respir. Crit. Care Med., v. 174, n. 2,
+p. 171-177, 2006.
+BAUE, A. E. MOF, MODS, and SIRS: what is in a name or na acronym?
+Shock, v. 26, n. 5, p. 438-449, 2006.
+BEAU, A. B. et al. Safety of oseltamivir during pregnancy: a comparative
+study using the EFEMERIS database. BJOG, v. 121, n. 7, p. 895-900, 2014.
+BRASIL. Ministério da Saúde. AGÊNCIA NACIONAL DE VIGILÂNCIA
+SANITÁRIA. Resolução RDC n.º 67, de 8 de outubro de 2007. Dispõe sobre
+Uso Humano em farmácias. Brasília, DF: MS, 2007. Disponível em: https://
+bvsms.saude.gov.br/bvs/saudelegis/anvisa/2007/rdc0067_08_10_2007.
+html. Acesso em: 3 nov. 2022.
+BROWER, R. G. et al. Ventilation with lower tidal volumes as compared
+distress syndrome. The Acute Respiratory Distress Syndrome Network.
+N. Engl. J. Med., v. 342, p. 1301-1308, 2000.
+DIXIT, R. et al. A randomized study of standard versus double dose
+oseltamivir for treating influenza in the community. Antivir Ther, v. 20, n. 7,
+p. 689-698, 2015.
+EUROPEAN CENTRE FOR DISEASE PREVENTION AND CONTROL. Expert
+of influenza - review of recent systematic reviews and meta-analyses.
+publications-data/expert-opinion-neuraminidase-inhibitors-prevention-
+and-treatment-influenza-review. Acesso em: 21 nov. 2022.
+FOOD AND DRUG ADMINISTRATION. Pulse Oximeter Accuracy and
+Limitations: FDA Safety Communication. [S. l.]: FDA, 2022. Disponível em:
+oximeter-accuracy-and-limitations-fda-safety-communication. Acesso em:
+21 nov. 2022.
+PRIMARY CARE RESPIRATORY SOCIETY. Inspiring best practice in
+respiratory care. London: Primary Care Respiratory Society, 2022.
+MAS, A.; MASIP, J. Noninvasive ventilation in acute respiratory failure.
+Int. J. Chron. Obstruct. Pulmon. Dis., v. 9, p. 837-852, 2014.
+NATIONAL INSTITUTES OF HEALTH. COVID-19 Treatment Guidelines.
+General Management of Nonhospitalized Patients With Acute COVID-19.
+nih.gov/. Acesso em: 17 nov. 2022.
+NOEL, Z. R. et al. Comparison of High-Dose Versus Standard Dose
+Oseltamivir in Critically Ill Patients With Influenza. J. Intensive Care Med.,
+v. 32, n. 10, p. 574-577, 2016.
+PAULES, C.; SUBBARAO, K. Influenza. The Lancet, v. 390, n. 10095, p. 697-
+708, 2017.
+RODRIGO, C. et al. Corticosteroids as adjunctive therapy in the treatment
+of influenza. Cochrane Database Syst Rev, v. 3, p. CD010406, 2016.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Cuidados pós-reanimação
+neonatal. Rio de Janeiro: SBP, 2021.
+SOUTH EAST ASIA INFECTIOUS DISEASE CLINICAL RESEARCH NETWORK.
+children and adults admitted to hospital with severe influenza: double blind
+randomised controlled trial. BMJ, v. 346, p. f3039, 2013.
+WORLD HEALTH ORGANIZATION. Guidelines for the clinical
+management of severe illness from influenza virus infections. [S. l.]:
+le/10665/352453/9789240040816-eng.pdf?sequence=1&isAllowed=y.
+Acesso em: 4 nov. 2022.
+48 Ministério da Saúde | Secretaria de Vigilância em Saúde
+49 Guia de Manejo e Tratamento de Influenza | 2023
+Na maioria das situações, a causa de insuficiência respiratória aguda
+é a hipoxemia, portanto, o primeiro passo para o alívio é a suplementação de
+oxigênio. Deve-se oferecer O para manter a SpO acima de 90% em pacientes
+sem antecedente de doenças pulmonares crônicas. Pode ser usado cateter
+nasal ou máscara de Hudson. Idealmente, naqueles que a necessidade de
+suplementação de O for menor que 3 L/min, use cateter nasal de baixo
+fluxo, enquanto nos indivíduos que há necessidade de mais que 3 litros,
+use máscara de Hudson. Em situações que haja necessidade de O mais de
+5 L/min, quando disponível, sugere-se usar máscara de venturi que permite
+melhor ajuste de fluxo e de concentração de O . Lembrar que oxigênio é um
+medicamento e a hiperóxia também é danosa.
+Se não houver melhora sintomática em 20-30 minutos, deve-se tentar
+ventilação mecânica, que pode ser realizada de maneira não invasiva (sem
+intubação traqueal) ou invasiva (com intubação traqueal).
+A ventilação não invasiva (VNI) pode ser usada em pacientes selecionados.
+Há contraindicações para esse tipo de ventilação: redução da consciência,
+quantidade abundante de secreção respiratória, choque (hipotensão que
+necessita de amina vasoativa), hemorragia digestiva alta, vômitos incoercíveis,
+deformidades faciais ou de via aérea superior. O objetivo da ventilação não
+invasiva deve ser melhorar a hipoxemia em período máximo de 2 horas com
+meta de atingir PaO maior que 70 mmHg às custas de fração inspirada de
+O (FiO ) máximo de 40%. As modalidades de ventilação não invasiva são:
+pressão positiva contínua nas vias aéreas (CPAP) ou pressão positiva em dois
+níveis nas vias aéreas (BiPAP); existem diferentes interfaces de máscaras
+para acoplamento do paciente-ventilador, como oro-nasal, facial total e
+tipo capacete - a escolha vai depender da resposta de conforto do próprio
+paciente. De acordo com as alterações da parênquima pulmonar, muitas vezes
+o paciente pode ter benefício com maiores níveis de pressão expirada positiva,
+sem necessidade de grandes suportes de oxigênio. A ventilação não invasiva
+da intubação traqueal e ventilação invasiva.
+50 Ministério da Saúde | Secretaria de Vigilância em Saúde
+fluxo (Cnaf), um dispositivo que geralmente traz mais conforto ao paciente,
+permite promoção de pressão expirado positiva por meio de ajuste de fluxo,
+e controle melhor de FiO . As metas de Cnaf são iguais às de VNI e, quando
+há necessidade e paciente conseguir, facilita estratégia de pronação em
+indivíduos acordados e não intubados.
+respiratória (redução da consciência ou agitação, respiração paradoxal,
+tiragem intercostal, cianose de extremidades) denota a necessidade de
+ventilação mecânica invasiva, com intubação traqueal.
+Logo após a intubação orotraqueal, oferecer FiO de 100% e coletar
+gasometria arterial após 20 minutos para checar a gravidade da hipoxemia
+e ajustar volume minuto para evitar acidose respiratória. A presença de
+hipoxemia grave, mesmo com necessidade de O em altas doses, define
+a síndrome de angústia respiratória aguda (Sara) ou síndrome de desconforto
+respiratório agudo (SDRA): início agudo, acometimento bilateral, ausência de
+congestão pulmonar e/ou disfunção cardíaca e relação entre PaO e fração
+inspirada de O (PaO /FiO ) abaixo de 300. A estratégia de ventilação com
+2 2 2
+menores volumes correntes (entre 4 e 6 ml/kg de peso ideal) e titulação da
+pressão expiratória positiva final (PEEP) para reduzir FiO e manter SpO entre
+88 e 95%, denomina-se ventilação protetora. Essa modalidade de ventilação
+ventilação invasiva.
+represente a melhor complacência estática, sem provocar a hiperdistensão
+alveolar. Em algumas condições de infiltrado pulmonar, o paciente pode se
+beneficiar com níveis altos de PEEP enquanto em outras condições, os altos
+níveis de PEEP podem ser danosos. Em situações que o profissional não está
+habituado a realizar a titulação, adoção de “Tabela de titulação de PEEP (PEEP
+table)” pode auxiliar no manejo da ventilação mecânica.
+51 Guia de Manejo e Tratamento de Influenza | 2023
+FIO 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1,0
+PEEP baixa/FiO alta 5 5-8 8-10 10 10-14 14 14-18 18-24
+PEEP baixa/FiO baixa 5-14 14-16 16-18 20 20 20-22 22 22-24
+graves, mesmo quando administrado por via sonda gastroenteral. As doses de
+75 mg ou 150 mg, administradas duas vezes por dia, apresentam resultados
+semelhantes em relação à melhora de sintomas, clearance viral de vias
+aéreas, tempo de permanência na UTI, tempo de uso de oxigenioterapia ou
+ventilação mecânica e mortalidade hospitalar. A única exceção é a utilização
+em pacientes imunocomprometidos, que foram excluídos de estudos
+avaliando a dose de oseltamivir em pacientes graves.
+pacientes com insuficiência respiratória e ventilação mecânica, uma vez
+de infecções bacterianas secundárias e a mortalidade. A única exceção
+é o paciente com choque séptico, no qual o uso de corticoide pode reduzir
+o tempo de uso de aminas vasoativas.
+Condições respiratórias são a principal causa de PCR em crianças. O objetivo
+principal do tratamento é restaurar a oxigenação e a ventilação adequada.
+Se o paciente apresentar sinais de desconforto ou insuficiência respiratória,
+devem ser instituídas as intervenções adequadas, conforme a tabela a seguir:
+52 Ministério da Saúde | Secretaria de Vigilância em Saúde
+QUADRO 1 Tratamento inicial de desconforto e insuficiência respiratória em pediatria
+A ■ Desobstrua a via aérea (aspire nariz e boca se indicado) e deixe que
+Vias aéreas a criança assuma uma posição de conforto se possível.
+■ Monitore a saturação de O (oximetria de pulso) administre O
+(umidificado se possível) administre medicação inalada
+B (salbutamol/adrenalina) conforme achados na ausculta pulmonar
+Respiração e indicações.
+■ Avalie necessidade de ventilação não invasiva e/ou entubação
+orotraqueal com ventilação mecânica.
+■ Monitore frequência e ritmo cardíaco, pressão arterial e tempo de
+enchimento capilar.
+■ Estabeleça acesso vascular.
+■ Diurese: acima de 1 ml/kg/hora (recém-nascidos e lactentes)
+e 12 ml/m2/hora em crianças.
+D ■ Avalie irritabilidade intensa e/ou apatia.
+Disfunção ■ Glicoteste (dexto ou HGT).
+E ■ Hipertermia e hipotermia.
+Exposição ■ Lesões de pele.
+Fonte: American Heart Association. PALS - Pediatric Advenced Life Support - Provider Manual 2021.
+Obs.: administre tratamento com antibióticos e reduza a demanda metabólica controlando a temperatura.
+53 Guia de Manejo e Tratamento de Influenza | 2023
+TRATAMENTO DE INFLUENZA - ORIENTAÇÕES
+◼ Abrir a cápsula imediatamente antes do preparo, cortando a ponta superior
+com uma tesoura limpa.
+◼ Usar um recipiente de vidro limpo e água potável.
+◼ Não é necessário retirar qualquer pó branco não dissolvido, por ser exci-
+piente inerte.
+Cápsulas de 30, 45 e 75 mgem pacientes sem condições de engolir
+cápsulas pode-se proceder a diluição de todo o conteúdo da mesma em
+2 ml de água e adicionar uma pequena quantidade de alimento adocicado
+apropriado (máximo 1 colher de chá) à mistura, a fim de mascarar o gosto
+amargo. Agite essa mistura e administre todo o conteúdo para o paciente.
+Essa mistura deve ser administrada imediatamente após o preparo. Repita
+esse procedimento para cada dose que será administrada.
+Solução oral a partir do fosfato de oseltamivir 75 mgadicione todo o
+adicione 5 ml de água. Misture bem o pó com a água.
+A concentração da suspensão preparada a partir da cápsula de 75 mg é de
+15 mg/ml. Aspire com a seringa a quantidade prescrita ao paciente, de acordo
+com a receita médica.
+CRIANÇAS MENORES DE 1 ANO
+0 a 8 meses 3 mg/kg/dose 12/12h, 5 dias
+9 a 11 meses 3,5 mg/kg/dose 12/12h, 5 dias
+RECÉM-NASCIDOS
+RN <38 semanas de idade gestacional 1 mg/kg/dose 12/12h, 5 dias
+RN de 38 a 40 semanas de idade gestacional 1,5 mg/kg/dose 12/12h, 5 dias
+RN >40 semanas de idade gestacional 3 mg/kg/dose 12/12h, 5 dias
+54 Ministério da Saúde | Secretaria de Vigilância em Saúde
+Dose de oseltamivir para prematurosa dose baseada no peso para os prematuros
+é menor do que para os recém-nascidos a termo devido ao menor clearance de
+osetalmivir ocasionada pela imaturidade renal. As doses foram recomendadas por
+dados limitados do National Institute of Allergy and Infections Diseases Collaborative.1
+1COMMITTEE ON INFECTIOUS DISEASES. Recommendations for Prevention and Control of Influenza in Children,
+2019-2020. Pediatrics, v. 144, n. 4, p. e20192478, 2019.
+55 Guia de Manejo e Tratamento de Influenza | 2023
+SÍNDROME GRIPAL/SRAG
+Na ausência de outro diagnóstico específico, considerar o paciente com febre,
+de início súbito, mesmo que referida, acompanhada de tosse ou dor de garganta,
+e pelo menos um dos sintomas: mialgia, cefaleia ou artralgia.
+OBS.: em crianças com menos de 2 anos de idade considerar, na ausência de outro
+diagnóstico específico, febre de início súbito, mesmo que referida, e sintomas respiratórios:
+tosse, coriza e obstrução nasal.
+Paciente tem sinais de gravidade?
+■ Dispneia
+■ Desconforto respiratório
+■ Saturação de O ≤ 94%, ou
+■ Exacerbação de doença preexistente
+Síndrome Gripal/SG Síndrome Respiratória Aguda Grave/SRAG
+Paciente tem indicação para internação em UTI?
+■ Choque
+fator de risco* ou
+■ Disfunção de órgãos vitais
+■ Insuficiência respiratória ou
+do estado clínico**?
+■ Instabilidade hemodinâmica
+■ Oseltamivir. ■ Oseltamivir. ■ Oseltamivir.
+■ Sintomáticos. ■ Antibioticoterapia. ■ Antibioticoterapia.
+■ Exames radiográficos ■ Hidratação venosa. ■ Hidratação venosa.
+■ Sintomáticos e
+(inclusive gestantes) ■ Exames radiográficos ■ Exames radiográficos
+■ Aumentar* a
+ou outros na (inclusive gestantes). (inclusive gestantes).
+presença de sinais ■ Oxigenioterapia ■ Oxigenioterapia
+líquidos orais.
+de agramamento. sob monitoramento. sob monitoramento.
+■ Aumentar a ingestão ■ Exames ■ Exames
+de líquidos orais. complementares. complementares.
+Em 48h ou
+56 Ministério da Saúde | Secretaria de Vigilância em Saúde
+*Fatores de risco: população indígena aldeada ou com dificuldade de acesso; gestantes;
+puérperas (até duas semanas após o parto); crianças < 5 anos (sendo que o maior risco de
+hospitalização é em menores de 2 anos, especialmente as menores de 6 meses com maior
+taxa de mortalidade); adultos (≥ 60 anos); pneumopatias (incluindo asma); cardiovasculopatias
+(excluindo hipertensão arterial sistêmica); doenças hematológicas (incluindo anemia
+falciforme); distúrbios metabólicos (incluindo diabetes mellitus); transtornos neurológicos
+de aspiração (disfunção congênita, lesões medulares, epilepsia, paralisia cerebral, síndrome
+de Down, AVC ou doenças neuromusculares); imunossupressão (medicamentos, neoplasias,
+HIV/aids); nefropatias e hepatopatias; obesidade (especialmente aqueles com índice de massa
+corporal - IMC ≥ 40 em adultos); pacientes com tuberculose de todas as formas.
+**Sinais de piora do estado clínico: aparecimento de dispneia ou taquipneia. Persistência ou
+aumento da febre por mais de três dias ou retorno após 48 horas de período afebril. Alteração
+do sensório (confusão mental, sonolência, letargia). Hipotensão arterial. Diurese abaixo de
+400 ml em 24 horas. Desidratação. Exacerbação de doença preexistente. Miosite comprovada
+por creatinofosfoquinase - CPK (≥ 2 a 3 vezes). Elevação da creatinina sérica acima de 2,0 mg/dL.
+Exacerbação dos sintomas gastrointestinais em crianças.
+Adulto 75 mg, 12/12h, 5 dias
+≤ 15 kg 30 mg, 12/12h, 5 dias
+Fosfato de Criança maior >15 kg a 23 kg 45 mg, 12/12h, 5 dias
+oseltamivir de 1 ano de idade >23 kg a 40 kg 60 mg, 12/12h, 5 dias
+(tamiflu®)
+>40 kg 75 mg, 12/12h, 5 dias
+0 a 8 meses 3 mg/kg, 12/12h, 5 dias
+de 1 ano de idade
+9 a 11 meses 3,5 mg/kg, 12/12h, 5 dias
+Fonte: CDC, 2022 adaptado.
+Dose para tratamento em recém-nascidos
+RN <38 semanas de idade gestacional 1 mg/kg/dose 12/12h, 5 dias
+RN de 38 a 40 semanas de idade gestacional 1,5 mg/kg/dose 12/12h, 5 dias
+RN >40 semanas de idade gestacional 3 mg/kg/dose 12/12h, 5 dias
+Dose de oseltamivir para prematurosa dose baseada no peso para os prematuros
+é menor do que para os recém-nascidos a termo devido ao menor clearance de
+osetalmivir ocasionada pela imaturidade renal. As doses foram recomendadas por
+dados limitados do National Institute of Allergy and Infections Diseases Collaborative.1
+1ANTIVIRAL STUDY GROUP. Pediatrics. v. 138, n. 4, Oct. 2016. (table 5, pág. 13).
+57 Guia de Manejo e Tratamento de Influenza | 2023
+Conte-nos o que pensa sobre esta publicação.
+CLIQUE AQUI E RESPONDA A PESQUISA.
+bvsms.saude.gov.br

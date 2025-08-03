@@ -1,0 +1,933 @@
+1.Febre Amarela 2.Manejo Clínico 3.Vigilância Epidemiológica. I. Título
+CDU 616.98:578.833(036)
+Título para indexação:
+Figura 3 – Estágios de infecção por febre amarela, mostrando as principais
+Quadro 1 – Orientações para coleta, acondicionamento e transporte de material
+6 QUADRO clíNIcO E cARAcTERíSTIcAS lAbORATORIAIS
+Anexo C – Critérios de definição e classificação
+No triênio de 2017 a 2019, vivemos no Brasil a maior epidemia de febre amarela desde a dé-
+cada de 40 do século anterior. Quando os primeiros casos começaram a ocorrer no nordeste de
+Minas Gerais, assustaram pela escala e, em especial, pela velocidade com que aquela doença es-
+tranha, ainda não identificada, se espalhava e matava. Vem daí a primeira experiência a ser compar-
+tilhada dessa vivência da epidemia: a febre amarela tem contornos dramáticos, tanto pela rapidez
+do ataque na população como pela velocidade em cada indivíduo. Não são infrequentes os relatos
+que estavam mortos algumas horas após. Essas equipes calejadas, acostumadas com pacientes
+que agravam quadros de comorbidades prévias indo a óbito, assustavam-se e comoviam-se com
+filme do que da vida real.
+Para fazer frente a epidemia, foi necessário deslocar equipes a campo, mobilizar recursos,
+centralizar os pacientes, estabelecer parcerias e reorganizar fluxos, tudo isso capitaneado pela vi-
+gilância, que rapidamente compreendeu que havia ali uma emergência em saúde publica. Como
+parte desse esforço, era necessário que se construísse um protocolo de atendimento: afinal de
+contas, o que fazer quando a prevenção falhou e o paciente adoeceu? Não restam dúvidas de que
+a imunização é a ferramenta ideal nesta velha batalha contra a febre amarela, mas o que fica claro
+depois destes últimos três anos é que sempre haverá o indivíduo que, por diversas razoes, não
+está protegido. Este manual é o herdeiro direto desse esforço.
+Ocorre que, quando da construção deste documento, ficou também claro que o que havia
+doença. Mais do que isso, a doença descrita em artigos e livros-texto não era exatamente a doen-
+ça que se apresentava: não havia período de remissão, pacientes apresentavam icterícia progres-
+siva semanas depois de, sinal de Faget sem febre e assim por diante. Tão pouco tínhamos pistas
+pra perguntas básicas de suporte clínico: deveríamos manejar aqueles pacientes como tendo algo
+semelhante a dengue ou a uma hepatite fulminante?
+Coube a essas equipes envolvidas nesse contato, algo inédito entre medicina moderna e a
+febre amarela, aprender com a doença e buscar formas de reduzir a letalidade assombrosa. O resul-
+tado desse trabalho, essencialmente empírico, foi uma enorme redução desta letalidade, embora
+ainda muito elevada. Muito dessa resposta se deve a cooperação entre os centros de referência, o
+conhecimento não ficou estanque em um hospital, laboratório ou ente federado, a rede criada para
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 7
+permitir o suporte agilizou diagnostico, permitiu novas intervenções e fomentou pesquisa. Soli-
+dariedade e cooperação foram genuinamente a tônica, equipes iam e vinham de outros países e
+estados para ajudar e aprender.
+A nossa nação e peculiar neste aspecto, somos pobres o suficiente para que nossas mazelas
+resultem em epidemias como essa que vivenciamos, mas também ricos o suficiente para respon-
+der, reagir e aprender com ela. Acreditamos que esta seja uma responsabilidade nossa, frente a
+países que, de um lado, não padecem de males semelhantes e por outros que, quando acometidos,
+tem poucas ferramentas para reagir.
+O guia está dividido em 10 (dez) capítulos que detalham todas as etapas do manejo do pa-
+ciente, desde a suspeição, abordagem diagnóstica e terapêutica até as medidas adequadas de se-
+guimento ambulatorial pós alta.
+O Ministério da Saúde, ao disponibilizar a primeira edição do Guia de Manejo Clínico da Febre
+Amarela, cumpre seu papel de normatização e pretende que essa iniciativa possa efetivamente
+e, com isso, reduzir a letalidade da doença no País.
+A febre amarela (FA) é uma doença infecciosa febril causada por um vírus do gênero Flavivirus,
+família Flaviviridae transmitido ao homem por meio da picada de fêmeas de mosquitos vetores.
+Nas Américas são descritos dois ciclos de transmissão, sendo predominante o ciclo sil-
+vestre,onde os primatas não humanos (PNH) são os hospedeiros amplifi cadores, os mosquitos,
+principalmente dos gêneros Haemagogus e Sabethes, os principais vetores e o homem um hos-
+pedeiro acidental.
+No Brasil, a FA silvestre é uma doença endêmica na região amazônica, sendo que na região
+extra-amazônica são registrados ocasionalmente períodos epizoóticos/epidêmicos, caracteri-
+zando as reemergências do vírus no País. A ocorrência é sazonal, de maior incidência entre de-
+zembro e maio, embora haja registros em todos os meses na série histórica. Surtos podem ocorrer,
+com periodicidade irregular, quando existem condições favoráveis para a transmissão, como ele-
+vadas temperatura e pluviosidade, alta densidade de vetores e hospedeiros primários, presença
+de bolsões de suscetíveis e baixas coberturas vacinais. A vacinação FA é a principal ferramenta de
+proteção contra a doença, com efi cácia acima de 95%. A vacina é disponibilizada gratuitamente nos
+serviços de vacinação de todo País.
+Nas últimas décadas, foram registrados surtos de febre amarela silvestre além dos limites
+da área considerada endêmica (região amazônica) – na Bahia, em Minas Gerais, em São Paulo, no
+Paraná e no Rio Grande do Sul – o que caracterizou uma expansão recorrente da área de circulação
+viral. Entre os anos de 2016 e 2018, foram confi rmados mais de 2.000 casos humanos e aproxi-
+madamente 750 óbitos, além de cerca de 2.300 epizootias em PNH. O vírus alcançou a costa leste
+brasileira, na região do bioma Mata Atlântica, que abriga ampla diversidade de PNH e vetores sil-
+vestres. Nessa região, há grandes centros urbanos, densamente povoados e infestados por Aedes
+aegypti e Ae. albopictus, aumentando o potencial de risco para a transmissão urbana.
+prévio de casos, grandes desafi os apresentam-se aos profi ssionais de saúde, entre eles: oferecer
+assistência ambulatorial e hospitalar aos pacientes, vacinar, em curto espaço de tempo, grande
+número de pessoas não vacinadas e controlar assim a infecção, evitando a expansão para áreas
+urbanas infestadas com Ae. aegypti e com baixa cobertura para a vacina ou baixa homogeneidade
+de cobertura vacinal para a febre amarela.
+Diante do exposto, verificou-se a necessidade da elaboração de um documento com o ob-
+jetivo de auxiliar os profissionais de saúde, que atuam nos diferentes níveis de complexidades do
+SUS, na identificação e no manejo clínico de casos suspeitos de infecção por FA ou de eventos ad-
+versos pós-vacinação (EAPV).
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 11
+O potencial epidêmico do vírus amarílico; a frequência de surtos e epidemias de febre ama-
+rela ao longo da série histórica nacional; a elevada letalidade da doença nas suas formas graves; a
+recente expansão da área de circulação viral no País; o elevado número de municípios infestados
+por Aedes aegypti; o elevado contingente populacional não vacinado contra a FA; o grande fl uxo
+urbano e com baixas coberturas vacinais (e vice-versa) trazem grandes desafi os aos profi ssio-
+nais de saúde no que diz respeito, principalmente, à identifi cação oportuna e ao manejo correto
+de casos suspeitos, a fi m de reduzir a morbimortalidade pela febre amarela no Brasil. Dessa forma,
+justifi ca-se a elaboração de um guia que ofereça orientações aos profi ssionais de saúde sobre o
+emergências de FA.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 13
+FA, incluindo a abordagem diagnóstica e terapêutica, nos diferentes níveis de atenção.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 15
+4.1 Características gerais
+Doença infecciosa febril aguda, imunoprevenível, de evolução abrupta e gravidade variável,
+com elevada letalidade nas suas formas graves. O agente etiológico é transmitido por artrópodes
+(vetores), da família Culicidae, habitualmente conhecidos como mosquitos e pernilongos. A impor-
+tância epidemiológica decorre da gravidade clínica, da elevada letalidade e do potencial de dissemi-
+nação e impacto, sobretudo quando a transmissão for urbana, por Ae. aegypti.
+4.2 Agente etiológico
+O vírus da febre amarela (FA) é um arbovírus (vírus transmitido por artrópode-vetores) do
+gênero Flavivirus, protótipo da família Flaviviridae.
+4.3 Vetores reservatórios
+Os mosquitos são reconhecidos como os verdadeiros reservatórios do vírus da febre amare-
+la, podendo transmiti-lo durante toda a vida após a infecção. No ciclo silvestre, as principais espé-
+cies de mosquitos implicadas na transmissão são Haemagogus janthinomys e Hg. leucocelaenus,
+além de outras espécies dos gêneros Haemagogus e Sabethes, que desempenham papel secun-
+dário. No ciclo urbano (últimos registros no Brasil em 1942), o Ae. aegypti é o vetor primário.
+4.4 Hospedeiros
+No ciclo silvestre da FA, os primatas não humanos (PNH) são os principais hospedeiros e
+atuam como amplifi cadores do vírus, produzindo elevada viremia. Esses animais são vítimas da
+doença, assim como o homem, que neste ciclo se apresenta como hospedeiro acidental. No ciclo
+urbano, o homem é o principal hospedeiro com importância epidemiológica, pois atua como fonte
+de infecção para Ae. aegypti, que pode produzir um ciclo homem – mosquito – homem (urbano).
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 17
+4.5 Modo de transmissão
+Não há transmissão de pessoa a pessoa. O vírus é transmitido pela picada dos mosquitos
+transmissores infectados. Apenas as fêmeas transmitem o vírus ao buscar o repasto sanguíneo
+que provê nutrientes essenciais para a maturação dos ovos e, consequentemente, para a comple-
+tude do ciclo gonotrófico. Nos mosquitos, a transmissão também pode ocorrer de forma vertical,
+na qual as fêmeas transferem o vírus para a sua prole e constitui um dos mecanismos de manuten-
+ção do vírus na natureza.
+A febre amarela é considerada uma zoonose silvestre. O homem, não imunizado, infecta-se
+acidentalmente quando se expõe em áreas de mata rurais e silvestres onde o vírus está disponível.
+Embora o vírus da FA tenha sido detectado nas maiores regiões metropolitanas nos últimos anos,
+com elevado número de casos confirmados, nenhuma evidência de um processo de reurbanização
+foi documentada. Embora o termo “silvestre” se aplique em oposição ao ciclo urbano, em que o ho-
+mem seria a principal fonte de infecção e o Ae. aegypti seria o vetor primário, não contempla toda
+a diversidade de cenários e situações em que a transmissão tem sido observada. Fragmentos de
+mata em matrizes urbanas têm criado corredores funcionais de dispersão e possibilitou a introdu-
+ção do vírus, de modo que, atualmente, ambientes com características “silvestres” podem ser en-
+contrados em matrizes urbanas, densamente povoadas, onde também são encontrados primatas
+não humanos e mosquitos de hábitos silvestres, incomuns à fauna urbana (Figura 1).
+Figura 1 – Ciclos epidemiológicos (silvestre e urbano) da febre amarela no Brasil
+Fonte: SVS/MS.
+Nota: Nas últimas décadas, a combinação progressiva de vários fatores contribuiu para expandir gradualmente a sobreposição de
+ecossistemas silvestres e antrópicos e ecótonos, além da sobreposição do ciclo do vírus da FA transmitido por Haemagogus com
+o território de espécies sinantrópicas, facilitando a expansão do vírus e infecções humanas e cada vez mais expondo o perigo da
+reemergência da transmissão do vírus pelo Aedes em área urbana. Entre esses fatores estão: (a) o aumento de áreas com condições
+ambientais e ecológicas que favorecem a diversidade de mosquitos e primatas não humanos (PNH) e o crescimento populacional de PNH
+devido ao sucesso das recentes políticas ambientais; (b) a perda de alguns habitats naturais que forçam os PNH a explorarem ecótonos
+e ambientes modificados, favorecendo sua superpopulação em fragmentos florestais remanescentes; (c) adoção de novos estilos
+de vida e práticas pelo homem contemporâneo, levando a uma crescente aproximação dos ambientes florestais; d) deslocamentos
+humanos rápidos e intensos; (e) a flexibilidade ecológica dos vetores, especialmente a habilidade de Haemagogus em percorrer longas
+distâncias além dos limites da floresta, e do Ae. albopictus em sair do ambiente modificado para colonizar o ecossistema silvestre; (f) as
+taxas crescentes de infestação por Ae. aegypti nas áreas urbanas e periurbanas próximas ao ciclo silvático onde o vírus é transmitido
+por Haemagogus.
+4.6 Período de incubação
+Compreende dois ciclos: um intrínseco e outro extrínseco. A incubação intrínseca ocorre no
+hospedeiro, tanto no homem como no PNH (macaco), e corresponde ao período entre a infecção
+viral dada no momento da picada pelo mosquito infectado até o início dos sintomas. No homem, o
+período de incubação geralmente varia de 3 a 6 dias (similar nos PNHs) e, em situações esporádi-
+cas, considera-se que pode se estender por até 15 dias.
+A incubação extrínseca ocorre nos vetores (mosquitos) e corresponde ao período entre a
+salivares, quando passa a transmiti-lo a um novo hospedeiro pela picada. Esse período varia de 8
+a 12 dias. A partir desse momento, as fêmeas de mosquitos são capazes de transmitir o vírus por
+toda sua vida que pode durar entre seis e oito semanas, aproximadamente.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 19
+4.7 Período de transmissibilidade
+No homem, a viremia dura aproximadamente 5-7 dias. Inicia-se entre 24 e 48 horas antes do
+aparecimento dos primeiros sintomas e se estende até 3 a 5 dias após o início da doença, período
+em que o homem pode servir como fonte de infecção para mosquitos transmissores. Nos PNH, a
+viremia pode ser mais intensa dependendo da espécie afetada, mas o período de transmissibilida-
+de é semelhante ao do homem. Nos mosquitos, após o período de incubação, a fêmea é capaz de
+transmitir o vírus até o final de sua vida, que pode variar entre 6 e 8 semanas, aproximadamente.
+4.8 Suscetibilidade e imunidade
+A suscetibilidade é universal e a infecção confere imunidade duradoura, podendo se estender
+por toda a vida. Os filhos de mães imunes podem apresentar imunidade passiva e transitória du-
+rante os seis primeiros meses de vida.
+A suscetibilidade também parece ser universal para os PNH, considerando-se a similaridade
+da infecção com os humanos. Todos os gêneros de PNH do novo mundo, testados das Américas,
+foram susceptíveis à infecção. Assim como nos humanos, a imunidade é duradoura também para
+os PNH.
+4.9 Vigilância epidemiológica
+4.9.1 Objetivos
+y Detectar precocemente a circulação viral, preferencialmente ainda no ciclo enzoótico,
+para aplicação oportuna das medidas de prevenção e controle.
+y Reduzir o risco de transmissão da febre amarela silvestre à população humana.
+y Reduzir o risco da transmissão urbana.
+4.9.2 Definição clássica de caso humano suspeito
+Indivíduo não vacinado contra febre amarela ou com estado vacinal ignorado, que apresen-
+tou quadro infecioso febril agudo (geralmente até sete dias), de início súbito, acompanhado de ic-
+terícia e/ou manifestações hemorrágicas, com exposição nos últimos 15 dias em área de risco e/
+ou em Área Com Recomendação de Vacinação (ACRV) e/ou em locais com recente ocorrência de
+epizootia em PNH; e/ou de áreas recém-afetadas e suas proximidades.
+4.9.2.1 Em situações de surto
+Em situações de surto, recomenda-se adequar a definição de caso suspeito, tornando-a
+mais sensível para detectar maior número de casos. Uma definição de caso bastante sensível é
+indicada em nível focal/local, pois existem enfermidades, como outras arboviroses de transmissão
+urbana, de maior incidência e prevalência, que, além da similaridade clínica com a febre amarela,
+ainda podem apresentar reações cruzadas ou respostas inespecíficas em parte dos métodos dis-
+poníveis para o diagnóstico etiológico.
+A informação sobre o estado vacinal da FA deve ser coletada, pois é imprescindível para fins
+de vigilância e controle. A data da vacina é essencial para diferenciar os casos em suspeitos de
+febre amarela pelo vírus selvagem (incluindo falha vacinal) ou suspeitos de evento adverso pós-
+-vacinação (EAPV), uma vez que a ficha de notificação e as ações de controle são diferenciadas.
+Porém, não há diferença no manejo clínico dos pacientes, sejam eles suspeitos de infecção pelo
+vírus selvagem ou EAPV, dessa forma, para fins de conduta clínica do paciente, deve-se utilizar as
+definições de caso do item 8.1.
+4.9.3 Notificação
+A doença é de notificação compulsória e imediata, portanto, todo caso suspeito deve ser
+comunicado por telefone, fax ou e-mail às autoridades, por se tratar de doença grave com risco de
+dispersão para outras áreas do território nacional e internacional. A notificação deve ser registrada
+em ficha de Investigação da Febre Amarela, disponível em: http://portalsinan.saude.gov.br/ima-
+ges/documentos/Agravos/Febre%20Amarela/Febre_Amarela_v5.pdf e inserida no Sistema de
+Informação de Agravos de Notificação (Sinan).
+A obrigatoriedade da notificação imediata à Organização Pan-Americana da Saúde (Opas)
+sofreu alteração com o Regulamento Sanitário Internacional-2005 (RSI-2005). Nesse contexto,
+a notificação às autoridades internacionais ocorre a partir de uma avaliação de risco, por meio de
+instrumento de decisão aplicado pelo Ministério da Saúde. O instrumento pode classificar o evento
+em emergência de saúde pública de importância nacional ou internacional, e determinar a necessi-
+dade de notificar aos órgãos internacionais de saúde.
+4.9.4 Investigação
+Imediatamente após a notificação de um ou mais casos de febre amarela, deve-se iniciar
+a investigação epidemiológica, pois um caso pode indicar a existência de um surto, o que requer
+adoção das medidas de prevenção e controle, em tempo oportuno. Maiores informações sobre a
+notificação e a investigação podem ser obtidas junto ao capítulo Febre Amarela, Guia de Vigilância
+em Saúde, do Ministério da Saúde, disponível em: http://bvsms.saude.gov.br/bvs/publicacoes/
+guia_vigilancia_saude_3ed.pdf.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 21
+pode causar falência orgânica múltipla. Os casos graves da doença são caracterizados por insufi -
+ciência hepática e renal, coagulopatia e choque.
+Após a transmissão, ocorre a replicação do vírus no sítio de inoculação e sua disseminação
+para linfonodos e, posteriormente, tecidos e órgãos. Nos órgãos (principalmente baço e fígado), o
+vírus multiplica-se e espalha através da corrente sanguínea e vasos linfáticos para outros órgãos
+e tecidos. Neste período de viremia (3º a 6º dia após a infecção), o vírus pode ser transmitido para
+mosquitos hematófagos.
+No fígado, pode ocorrer disfunção hepática e, nos casos graves, insufi ciência hepática ful-
+minante. A insufi ciência hepática é a principal causa de óbito nos pacientes graves e se manifesta
+principalmente com icterícia e com diferentes graus de encefalopatia hepática. A insufi ciência he-
+pática contribui para o distúrbio de coagulação e, consequentemente, para a diátese hemorrágica
+(II, V, VII, IX e X).
+O comprometimento dos rins por suposta lesão direta do vírus promove lesão tubular renal,
+proteinúria e elevação das escórias renais. Nos casos graves, a insufi ciência renal aguda pode reque-
+rer hemodiálise e, com a insufi ciência hepática, também pode ocorrer a síndrome hepatorrenal.
+O distúrbio de coagulação é provocado principalmente pela diminuição na produção de fato-
+res de coagulação hepáticos II, V, VII, IX e X. Também contribuem para discrasia sanguínea: plaque-
+topenia, disfunção plaquetária e redução dos níveis de fi brinogênio.
+O comprometimento cardíaco associa-se frequentemente à bradicardia e, em alguns casos,
+à arritmia. Essas alterações cardíacas podem contribuir para a hipotensão, má perfusão tecidual e
+acidose metabólica. Há relatos de morte tardia atribuída a arritmia cardíaca e a cardiomegalia agu-
+da durante o curso da infecção (miocardite aguda).
+O acometimento ocular até então descrito nos casos de FA limitava-se à presença de hi-
+peremia conjuntival e icterícia. Por outro lado, diversas complicações oculares têm sido descritas
+em associação à vacinação contra o vírus, incluindo quadros supostamente reacionais de neu-
+rite óptica, coroidite multifocal, síndrome dos múltiplos pontos brancos evanescentes e mesmo
+oclusão arteriolar.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 23
+Essas disfunções orgânicas, principalmente a insuficiência hepática, estão associadas a uma
+exacerbada resposta inflamatória sistêmica com liberação de várias substâncias pró-inflamatórias
+e citocinas (TNF, IL-1, IL-2, IL-6, IL-8, IL-12, IL-16, óxido nítrico). Essa “tempestade de citocinas”
+desencadeia uma série de eventos como lesões endoteliais, fibrinólise, distúrbios de coagulação,
+aumento da permeabilidade capilar e o extravasamento plasmático, tornando-se a principal causa
+da hipotensão e choque hemodinâmico da forma grave da FA, que se assemelha clinicamente ao
+choque séptico. Essas alterações, somadas às disfunções cardíaca, renal, da coagulação e princi-
+palmente hepática, vão levar à falência de múltiplos órgãos e a um choque hemodinâmico refratá-
+rio à reposição de fluidos e vasopressores (Figura 2).
+Figura 2 – Fisiopatologia da febre amarela
+Vírus Icterícia, hipoglicemia e
+Bradicardia, arritmia e
+Resposta inflamatória Hemorragia,
+(tempestade de citocinas) choque
+Fonte: Adaptado de Monath e Barrett, 2003.
+Nota: A partir da inoculação do vírus pelo inseto vetor, há comprometimento dos linfonodos e disseminação hematogênica.
+Posteriormente, o vírus compromete direta e indiretamente e provoca disfunção principalmente no fígado, rins, coração e vasos
+sanguíneos. Na forma grave da FA, essas disfunções orgânicas se associam a uma exacerbada resposta inflamatória sistêmica
+(“tempestade de citocinas”), contribuindo para o aumento da permeabilidade capilar, extravasamento plasmático, hipotensão e choque.
+Dessa forma, o paciente com a forma grave da FA pode apresentar as seguintes complica-
+ções: choque distributivo, choque hemorrágico com exteriorização ou não de sangramento, cho-
+hepática aguda, choque séptico devido à infecção concomitante e ao choque cardiogênico devido
+a acometimento cardíaco (arritmias ou miocardite). A doença grave tipicamente leva à morte em
+7-14 dias depois do início dos sintomas.
+fatais. As formas leves ou infecções assintomáticas representam a maioria dos casos (40% a 60%).
+O quadro clínico clássico caracteriza-se pelo início súbito de febre alta, cefaleia intensa e duradoura,
+inapetência, náuseas e mialgia. O sinal de Faget (bradicardia acompanhando febre alta) pode ou não
+estar presente. Nas formas leves e moderadas, que representam entre 20% e 60% dos casos, os
+sinais e os sintomas duram entre 2 e 4 dias, que geralmente são aliviados com tratamento sinto-
+mático, antitérmicos e analgésicos. As formas graves e malignas representam aproximadamente
+de 20% a 40% dos casos, para os quais a evolução para o óbito pode ocorrer entre 20% e 50%
+dos registros. Nas formas graves, cefaleia e mialgia ocorrem com maior intensidade e podem estar
+acompanhadas de náuseas e vômitos frequentes, icterícia, oligúria e manifestações hemorrágicas
+como: epistaxe, hematêmese e metrorragia.
+Classicamente, são descritos três estágios da doença (período de infecção, remissão e toxê-
+mico) seguidos por um período de convalescença (Figura 3). A maioria dos pacientes segue a cro-
+nologia dos estágios (período de infecção => toxêmico), mas o paciente já pode iniciar os sintomas
+sintomas, o que faz com que o acompanhamento estreito dos pacientes oligossintomáticos seja
+necessário até pelo menos o sétimo dia de início dos sintomas (período máximo em que o paciente
+pode iniciar os sinais de gravidade).
+y Período de infecção – dura cerca de 3-6 dias; tem início súbito e sintomas inespecífi cos,
+como febre, calafrios, cefaleia, lombalgia, mialgias generalizadas, prostração, mal-estar,
+tonturas, náuseas e vômitos, pode ocorrer infecção conjuntival e bradicardia.
+y Período de remissão – ocorre declínio da temperatura e diminuição da intensidade dos
+sintomas, provocando sensação de melhora no paciente. Dura de poucas horas até, no
+máximo, dois dias.
+y Periodo toxêmico – caracterizado por resposta infl amatória exacerbada associada a co-
+lapso hemodinâmico. Reaparece a febre, a diarreia e os vômitos têm aspecto de borra
+de café, também pode ocorrer dor abdominal intensa. Instala-se quadro de insufi ciência
+hepatorrenal caracterizado por icterícia, oligúria, anúria e albuminúria, acompanhado de
+manifestações hemorrágicas: gengivorragias, epistaxe, otorragia, hematêmese, mele-
+na, hematúria, petéquias, equimoses, hematomas, hemorragia conjuntival, hemoptise,
+hemoperitônio, sangramentos em locais de punção venosa e prostração intensa, além
+de comprometimento do sensório, com obnubilação mental e torpor, havendo evolução
+para coma e morte. O pulso torna-se mais lento, apesar da temperatura elevada. Essa
+dissociação pulso-temperatura é conhecida como sinal de Faget.
+É uma doença dinâmica com possibilidade de piora importante em período de horas ou dias.
+A evolução para o óbito ocorre em 7-14 dias, na grande maioria dos casos, deve-se a insuficiência
+hepática fulminante. Sepse bacteriana e fúngica, hemorragias e arritmias cardíacas podem ocorrer.
+Portanto, também pode haver óbito devido a choque distributivo séptico, choque hipovolêmico de-
+vido a hemorragias, choque cardiogênico devido a miocardite e arritmias ou choque misto com mais
+de uma forma simultaneamente. Há relatos de morte súbita tardia atribuída a complicação cardíaca.
+São características laboratoriais da doença: ausência de leucocitose e proteína reativa C bai-
+xa. A suspeita do diagnóstico de FA enfraquece na presença de proteína reativa C elevada e leuco-
+citose. Na presença de PCR elevada e/ou, leucocitose deve-se suspeitar de outro diagnóstico ou
+de complicação bacteriana superposta ao quadro de FA. Hemorragias de grande vulto podem cau-
+sar leucocitose devido à resposta medular. TGO extremamente elevada (podendo chegar a valo-
+res de 25.000-50.000) é uma característica da doença grave, e sua elevação acima da TGP ocorre
+devido à lesão muscular cardíaca e esquelética, além de aumento da permeabilidade mitocondrial
+associada à apoptose celular. O aumento da transaminase é proporcional à gravidade da doença e
+níveis muito altos indicam um mau prognóstico.
+erro de diluição do exame. Nesses casos, deve-se fazer avaliação do equipamento utilizado pelo
+laboratório e, se necessário, fazer a diluição das transaminases manualmente.
+LDH também chega a níveis extremamente elevados (70.000) nos casos graves devido ao
+dano hepático e tecidual dos outros órgãos acometidos pelo vírus da FA. A proteinúria é comum e
+notada já nos primeiros dias de início dos sintomas; somente parte dos pacientes que apresenta
+proteinúria vai evoluir com insuficiência renal.
+Sinais clínicos/laboratoriais – caracterizada pela ausência de sinais de alarme e
+gravidade.
+TGO ou TGP<500, Cr<1,3. RNI<1,5
+Caracterizada pela presença de pelo menos um dos achados abaixo (sinais de alarme)
+sem a presença de sinais de gravidade:
+Sinais clínicos/laboratoriais de alarme – vômitos, diarreia e dor abdominal
+TGO ≥ 500 e Cr ≥ 1,3.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 27
+Caracterizada pela presença de pelo menos um dos achados abaixo (sinais de gravidade):
+Sinais clínicos/laboratoriais de gravidade – oligúria, sonolência, confusão mental,
+torpor, coma, convulsão, sangramento, dificuldade respiratória, hipotensão, sinais de
+má perfusão, icterícia, TGO ou TGP≥2.000, Cr≥2, RNI≥1,5, Plaqueta<50.000.
+Figura 3 – Estágios de infecção por febre amarela, mostrando as principais características clínicas e
+3-6 dias
+(virêmico)
+42-2
+3-8 dias
+,sanames
+4-2 Recuperação
+Náuseas Não percebido na Mal-estar nessa fase mesmo
+Mal-estar maioria dos casos Icterícia sem ter ocorrido nos
+Prostração Oligúria anúria primeiros 14 dias de
+Tonturas doença.
+Infecção conjuntival Hipotensão choque Icterícia Persistente
+Língua branca, vermelha na ponta Torpor coma Progressiva (ver
+Bradicardia (sinal de Faget) texto)
+Encefalopatia Desfecho benigno –
+Leucopenia Leucocitose normalizam após 1
+Proteína reativa C – baixa de tratamento
+AST>ALT
+AST>ALT Proteinúria Ocorrem oscilações
+Hepatite Tardia – Nova
+convalescença em 16%
+Desfecho benigno (ver
+texto)
+Fonte: Adaptado de Monath, 2001.
+Os exames laboratoriais específi cos para o diagnóstico da FA, em amostras de sangue, soro,
+LCR, urina ou de tecidos são:
+y Sorologia com captura de anticorpos IgM da classe pela técnica ELISA.
+C6/36; vero e/ou em camundongos recém-nascidos.
+da polimerase de (RT-PCR), podendo ser feita em amostras de sangue, soro ou tecidos.
+y Pesquisa de antígeno viral que consiste na detecção de antígeno viral pela técnica de imu-
+no-histoquímica. Pode ser realizada em amostras de tecidos (principalmente do fígado e,
+adicionalmente, do baço, pulmão, rins, coração e cérebro, coletadas, preferencialmente,
+até 24 horas após óbito). A pesquisa do antígeno viral deve ser acompanhada do exame
+histopatológico do fígado e de outros tecidos coletados, em que se espera a apresenta-
+ção das lesões sugestivas de infecção recente por febre amarela.
+Orientações sobre coleta, acondicionamento e transporte de amostras biológicas para o
+diagnóstico laboratorial da FA estão disponíveis no Quadro 1.
+As formas leve e moderada da febre amarela são de difícil diagnóstico diferencial, pois podem
+ser confundidas com outras doenças infecciosas que atingem os sistemas respiratório, digestivo e
+urinário, tais como: malária, dengue, mononucleose infecciosa, infl uenza, hepatites virais, rickett-
+sioses, zika, Chikungunya, febre tifoide e outra síndromes febris agudas.
+As formas graves, com quadro clínico clássico ou fulminante, devem ser diferenciadas de
+malária por Plasmodium falciparum, leptospirose, além de formas fulminantes de hepatites, febres
+hemorrágicas de etiologia viral, como dengue hemorrágica, sepse e outras doenças com curso
+íctero-hemorrágico.
+Quadro 1 – Orientações para coleta, acondicionamento e transporte de material para diagnóstico
+Diagnóstico Procedimento de coleta Obs.
+(Humano)
+7º dia do início dos sintomas devidamente identificado individualizado dentro e epidemiológicos
+Soro1
+(e preferencialmente até 30 e conservado em de outro saco plástico. do paciente.
+dias). Separar no mínimo 3 freezer a -20°C. Transportar em caixa de
+LCR2
+mL do soro para sorologia. transporte de amostra
+Coletar LCR 3 mL se for biológica com gelo
+adulto e 1 mL criança. comum ou reciclável.
+anticoagulante entre 1 e resistente à temperatura individualizado dentro com dados clínicos
+7 dias (ideal até 5°) após ultrabaixa (criotubo), de outro saco plástico. e epidemiológicos
+o início dos sintomas. capacidade de 2 mL com Transportar em caixa de do paciente. No
+Sangue/
+Reservar 1 mL de sangue ou tampa de rosca e anel de transporte de amostras caso de óbito
+separar 2 mL de soro para vedação, devidamente biológicas com gelo seco. puncionar o sangue
+isolamento viral e RT-PCR. identificado. Conservar direto do coração.
+LCR2
+em freezer a -70°C
+Coletar 5 mL de urina até o 15°
+dia após o início dos sintomas.
+Coletar LCR 3 ml se for
+adulto e 1 mL criança.
+(8-10 g) do fígado, baço, rim, com tampa de rosca individualizado dentro fragmento
+coração, pulmão e cérebro resistente a temperatura de outro saco plástico. individualmente em
+até 24 horas após o óbito. ultrabaixa, devidamente Transportar em caixa de frascos separados
+identificado. Capacidade transporte de amostras e devidamente
+de 15 mL. Conservar biológicas com gelo seco. identificados
+em freezer a -70°C. (paciente, data da
+coleta e vísceras).
+anticoagulante entre 1 e temperatura ultrabaixa plástico individualizado ficha com dados
+10 dias após o início dos (criotubo), capacidade dentro de uma canaleta do paciente
+sintomas. Separar no mínimo de 2 mL com tampa identificada no botijão
+3 mL de soro para PCR. de rosca e anel de de nitrogênio líquido ou
+vedação, devidamente caixa de transporte de
+Coletar 5 mL de urina até o 15° identificado. Conservar amostras biológicas
+dia após o início dos sintomas. em freezer a -70°C. com gelo seco.
+pequenos (2 a 3 cm3) de de víscera em frasco caixa de transporte de tamponada a
+cérebro, fígado, rins, coração, estéril com tampa boca amostra biológica, SEM 10%, com volume
+baço, pulmão, sinóvia, larga e de rosca contendo GELO. Conservar em 10 vezes maior
+Vísceras musculoesquelético e demais formalina tamponada temperatura ambiente. que o volume
+tecidos que apresentem 10% com volume 10 NUNCA CONGELAR. dos fragmentos.
+até 48 horas após o óbito. volume dos fragmentos, ficha com dados
+devidamente identificado. do paciente.
+Fonte: SVS/MS.
+1 Para obter amostras pareadas para pesquisa de anticorpos deve-se fazer a primeira coleta de sangue na fase aguda (1º ao 10º dia
+após o início dos sintomas) e a segunda na fase convalescente (15º ao 30º dia após o início dos sintomas).
+2 Coletar em quadros com comprometimento neurológico.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 31
+8.1 Defi nições de caso para o manejo clínico
+A conduta clínica do paciente independe do estado vacinal, uma vez que o manejo do caso
+será o mesmo para paciente suspeito de infecção pelo o vírus selvagem ou vírus vacinal (EAPV).
+Cabe relembrar que a informação sobre o estado vacinal da FA deve ser coletada, pois é im-
+prescindível para fi ns de vigilância e controle; é essencial para diferenciar os casos em suspeitos de
+febre amarela pelo vírus selvagem (incluindo falha vacinal) ou suspeitos de evento adverso pós-
+-vacinação (EAPV), uma vez que a fi cha de notifi cação e as ações de controle são diferenciadas em
+cada situação. Porém, não há diferença no manejo clínico dos pacientes, sejam eles suspeitos de
+infecção pelo vírus selvagem ou EAPV.
+8.1.1 Em área sem evidência de circulação viral
+Indivíduo com quadro infecioso febril agudo (geralmente até sete dias), de início súbito,
+acompanhado de icterícia e/ou manifestações hemorrágicas, com exposição nos últimos 15 dias
+em área de risco e/ou em Área Com Recomendação de Vacinação (ACRV) e/ou em locais com re-
+cente ocorrência de epizootia em PNH; independentemente do estado vacinal.
+8.1.2 Em áreas de surto
+Indivíduo com até sete dias de quadro febril agudo (febre relatada ou aferida),
+acompanhada de dois ou mais dos seguintes sinais e sintomas: cefaleia, mialgia,
+lombalgia, mal-estar, calafrios, náuseas, tonturas, dor abdominal, icterícia, manifestações
+hemorrágicas, elevação de transaminases com exposição em área recentemente afetada
+(em surto) ou em ambientes rurais destas, independentemente do estado vacinal.
+8.2 Avaliação clínica inicial
+Atenção especial à aferição de sinais vitais (pressão arterial, frequência cardíaca, frequência res-
+piratória e temperatura), estado de hidratação (turgor e elasticidade cutânea diminuída, ressecamento
+de mucosas, sede e diminuição do volume urinário), nível de consciência e sinais de sangramento.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 33
+8.3 Exames laboratoriais iniciais a serem solicitados
+A partir da suspeita clínica, para apoiar na classificação de risco, é necessário solicitar, para
+todos os pacientes, pelo menos, transaminases, creatinina, RNI e hemograma completo.
+Para pacientes internados, formas moderadas/graves, considerar: ECG, EAS, raio-X de
+tórax, plaquetas, glicemia, gasometria venosa ou arterial (a última somente se indicação),
+TGO, TGP, GAMA GT, LDH, CK total, bilirrubinas total e frações, amilase, lipase, proteínas
+totais e frações, TAP + RNI e TTPA, lactato, ureia, creatinina, íons, PCR (proteína reativa
+C), hemograma, ecocardiograma. Caso disponível, dosar a amônia arterial nos casos
+moderados e graves. A amônia arterial >70 mcg se mostrou fator de risco independente
+para encefalopatia hepática de alto grau.
+E somente nas formas graves, acrescentar aos exames acima os seguintes: fibrinogênio,
+hemocultura duas amostras para bactéria e fungo e dosagem de fator V e tromboelastografia,
+se disponível. Avaliar a periodicidade da coleta de acordo com resultados anteriores, de
+acordo com a evolução clínica e o número de dias de sintoma.
+8.4 Classificação de risco
+y Paciente com sinal de gravidade – forma grave – oligúria, sonolência, confusão mental,
+torpor, coma, convulsão, sangramento, dificuldade respiratória, hipotensão, sinais de má
+perfusão e/ou TGO ou TGP≥2.000, CR≥2, RNI≥1,5, plaquetas <50.000.
+y Paciente com sinal de alarme – forma moderada – vômitos, diarreia, dor abdominal e/ou
+2.000 >TGO ≥500; CR ≥1,3.
+y Paciente com forma leve – sem a presença de sinais de alarme ou gravidade.
+8.5 Manejo clínico forma leve em adultos
+y Realizar hidratação: via oral (60 ml/kg/dia) de acordo com a aceitação dos pacientes. Em
+caso de intolerância da hidratação por via oral, utilizar 30 ml/kg/dia de cristaloides (soro
+fisiológico 0,9% ou Ringer lactato) por via venosa.
+y Prescrever sintomáticos: para o manejo da dor e febre, não usar o ácido acetilsalissílico
+(AAS) e anti-inflamatórios não esteroides (Aines). No caso de uso de paracetamol, evitar
+uso de doses superiores a 3,0 gramas por dia. Podem-se utilizar medidas de resfriamen-
+to físico para a diminuição da temperatura corporal.
+y Repetir, pelo menos, os exames de transaminases, creatinina, RNI e hemograma completo
+com intervalo máximo de 24 horas até o paciente completar 48 horas de remissão da febre.
+y Atenção a pacientes com transaminases baixas e sinais de gravidade. Essa dissociação
+clínica/laboratorial pode representar erro de diluição das transaminases. No caso de
+suspeita de erro na diluição das transaminases, o laboratório deve ser alertado para que
+refaça o exame e avalie fazer a diluição manualmente, se necessário.
+y Manter o paciente em monitoramento clínico e laboratorial por até 48 horas após a re-
+missão da febre. Realizar busca ativa em caso do não comparecimento do paciente para
+reavaliação no período máximo de 24 horas.
+forma leve, manejá-los como forma moderada.
+y Realizar notificação.
+y Realizar vacina febre amarela logo após a alta, nos casos não confirmados.
+8.6 Manejo clínico – forma moderada em adultos
+y Internar todos os casos suspeitos.
+y Realizar hidratação: manter a euvolemia. Iniciar hidratação por via oral de acordo com a
+aceitação do paciente. Em caso de intolerância da hidratação por via oral, instituir hidrata-
+ção venosa com cristaloides (soro fisiológico 0,9% ou ringer lactato). Pacientes desidra-
+tados devem receber expansão volêmica de 20 ml/kg/h com reavaliação de parâmetros
+hemodinâmicos e urinários após a primeira hora. Caso o paciente permaneça oligúrico
+ou hipotenso, já considerar encaminhar para a UTI e repetir a infusão de 20 ml/kg/h até
+estabilidade destes parâmetros. Deve-se manter vigilância para evitar hiperidratação.
+y Prescrever sintomáticos: para o manejo da dor e febre, não usar o ácido acetilsalissílico (AAS)
+e anti-inflamatórios não esteroides (Aines). Suspender AAS e Aines no caso de uso crônico.
+No caso de uso de paracetamol, evitar uso de doses superiores a 3,0 gramas por dia. Podem-
+-se utilizar medidas de resfriamento físico para a diminuição da temperatura corporal.
+y Fazer a reavaliação clínica/reclassificação a cada 4 horas e revisão laboratorial no mínimo
+de 12 em 12 horas.
+y Sempre investigar a presença de hemorragia. Avaliar transfusões, conforme anexo e se
+necessária transfusão, encaminhar para a UTI.
+y Coletar exame específico de acordo com orientações do item 8.3.
+y Realizar notificação.
+y Realizar vacina febre amarela após a melhora clínica do paciente, logo após a alta, nos
+casos não confirmados.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 35
+8.7 Manejo clínico – forma grave em adultos
+y Internar em Unidade de Terapia Intensiva.
+y Realizar notificação.
+terapia intensiva, conforme a aceitação do paciente.
+y Manter cabeceira elevada entre 30° e 45°.
+y Administrar inibidor de bomba de prótons (Omeprazol 40 mg EV de 12 em 12 horas).
+y Controlar temperatura corporal – evitar paracetamol.
+y Monitorar a diurese e demais dados vitais continuamente. Balanço hídrico (BH) 12/12 ho-
+ras com o objetivo de mantê-lo próximo a zero, se paciente euvolêmico (evitar BH com
+balanço muito positivo).
+y Realizar hidratação venosa com cristaloides para manutenção da euvolemia. Lembrar
+hemocomponentes. Caso haja disponibilidade de aparelho de ultrassonografia à beira-
+-leito avaliar status volêmico.
+y Realizar medidas de prevenção de lesão por pressão, com mudança de decúbito de 3/3
+horas.
+y Monitorizar e prevenir a hipoglicemia.
+y Nos casos em que se fizer necessário o uso de analgésicos ou sedativos de infusão ve-
+nosa contínua em pacientes com intubação orotraqueal, administrar em doses mínimas
+suficientes para o conforto do paciente.
+y Indicar diálise se nível de bicarbonato sérico menor do que 18 meq/L e/ou hipervolemia
+e/ou hipercalemia e/ou oliguria (mesmo que o paciente seja classificado como AKIN I
+e II (vide anexo C). Pacientes com FA grave, mesmo com insuficiência renal grave, não
+apresentam habitualmente níveis elevados de ureia. Na passagem do cateter de diálise,
+utilizar o dilatador somente na pele e subcutâneo, evitando a dilatação da veia.
+y Quando o paciente estiver euvolêmico, iniciar noradrenalina se pressão arterial média for
+menor do que 65 mmHg.
+y Corrigir distúrbios hidroeletrolíticos e ácido-básicos.
+y Considerar monitorização invasiva de pressão arterial (PIA), evitando punção de artéria
+femoral.
+y Em caso de pacientes intubados, utilizar estratégia de ventilação protetora com atenção
+para hipertensão intracraniana.
+y Monitorar sinais de hipertensão intracraniana (manifesta pelos sinais de bradicardia, de-
+pressão respiratória e hipertensão arterial). Caso haja ultrassonografia disponível a bei-
+ra-leito, aferir medida da bainha óptica. Caso bainha óptica acima de 56 mm, realizar to-
+mografia de crânio (se houver condições clínicas para transporte). Não colocar cateter de
+PIC, devido ao risco de sangramento.
+y Medidas clínicas para manejo de hipertensão intracraniana: cabeceira 30°, ventilar o pa-
+ciente com pressões menores possíveis no ventilador mecânico, administrar preferen-
+cialmente solução de salina hipertônica NaCl 20%, 20 ml em bolus (Manitol 0,5-1 g/kg é
+uma opção, porém deve-se ficar atento a distúrbios hidroeletrolíticos associados). Evitar
+hipertermia e distúrbios hidroeletrolíticos. Considerar sedação venosa contínua. Manter
+pressão arterial sistêmica média maior ou igual a 100 mmHg.
+y Instituir precocemente o tratamento de encefalopatia hepática: manitol 250 ml em duas
+horas via oral ou enteral (ou lactulose 20 ml via oral ou enteral 8/8 horas) com bisacodil
+10 mg 12/12 horas; se não houver resposta, usar clister glicerinado retal (12% – mínimo
+de 250 ml até 1.000 ml/dia), com o objetivo de manter três a cinco evacuações diárias.
+y Para profilaxia de crises convulsivas em pacientes com encefalopatia hepática de qual-
+quer grau: optar por levetiracetam via oral ou enteral, se disponível (ataque 2.000 mg,
+manutenção 500 mg 12/12 horas), alternativa fenitoína 100 mg via oral, enteral ou endo-
+venosa de 8/8 horas.
+y Controle da crise convulsiva: diazepam na dose 0,15 mg/kg IV seguido de fenitoína en-
+dovenosa na dose de ataque de 18-20 mg/kg (deixando dose de manutenção de 100 mg
+EV 8/8 horas) e, se necessária, infusão contínua de midazolam em caso de status com
+dose de ataque de 0,2 mg/kg IV bolus seguido de infusão contínua com 2 mg/kg/h até
+supressão de crise.
+y Antibioticoterapia: ainda não há consenso sobre a utilização do antibiótico, recomenda-
+-se intensificar a vigilância de infecções secundárias. Havendo a opção pela antibiotico-
+terapia, recomenda-se iniciar cefotaxima 2 g Ev de 8/8 horas +, ou ceftriaxona 1 g EV de
+12/12 horas.
+y Transfusão de sangue e componentes: avaliar a necessidade de transfusão de hemo-
+componentes e hemoderivados de acordo com as orientações do Guia de Uso de He-
+mocomponentes do Ministério da Saúde (2ª edição, 2015). O manejo das reações trans-
+Hemovigilância da Anvisa (2016) (Anexo D).
+y Ácido tranexâmico: em pacientes com coagulopatia ou plaquetopenia <90.000/mm3, inde-
+pendentemente da presença de sangramento, administrar ácido tranexâmico endovenoso
+10 mg/kg 8/8 horas, até melhora da plaquetopenia ou interrupção do sangramento.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 37
+y Troca plasmática: há séries de casos (dados ainda não publicados) demonstrando a me-
+lhora da sobrevida em pacientes com a forma grave de FA com a realização da troca plas-
+mática. A troca plasmática é a opção considerada promissora para tratamento de pa-
+cientes com FA grave nas seguintes Indicações:
+ Bicarbonato <18 meq/L em hemodiálise e/ou
+ Redução de 30% do valor normal do fator V e/ou
+ Amônia arterial >70 mmol/L e/ou
+ Qualquer grau de encefalopatia e/ou
+ Choque hemodinâmico.
+Pode ser realizada das seguintes formas, conforme a estrutura do serviço:
+1. Uma sessão ao dia com volume de plasma de 10%-15% do peso corporal em plasmafiltro na
+velocidade de 1 L/hora. Não utilizar citrato. A suspensão imediata da troca plasmática deve
+ocorrer após a melhora dos mesmos critérios utilizados na indicação do procedimento.
+2. Duas sessões ao dia (manhã e tarde) com troca de uma volemia sanguínea por sessão
+com reposição de plasma fresco congelado. No período noturno, fazer a reposição de
+plasma fresco congelado de 10 ml/kg. Não utilizar citrato. A interrupção da troca plas-
+procedimento. Com a redução progressiva dos procedimentos, sugere-se a substituição
+suspensão completa da troca plasmática e da reposição do plasma fresco congelado.
+Estima-se a realização de 8 a 12 sessões.
+Recomenda-se que pacientes graves sejam referenciados para locais onde haja possibilida-
+de de realização de troca plasmática. Estar atento a reações adversas em relação a transfusão de
+plasma fresco e a hipocalcemia. Recomenda-se a administração de dose extra de antibiótico após
+este procedimento. Os exames laboratoriais de controle da evolução devem ser colhidos imediata-
+mente antes do procedimento de troca plasmática. Contraindicações: paciente em choque hemo-
+ou ao procedimento de troca plasmática.
+y Transplante hepático: esta alternativa terapêutica deve ser considerada com reserva, fren-
+te a outras opções terapêuticas como a troca plasmática. Casos transplantados no ano de
+2018 indicam sua utilização como possível forma de tratamento para parte dos pacientes
+com a forma grave, embora ainda se aguarde a publicação de dados com análise da sobre-
+vida dos casos submetidos a este procedimento. Recomenda-se que os casos sejam dis-
+cutidos individualmente com a equipe de transplante hepático de referência. Para se avaliar
+transplante hepático, os pacientes devem preencher critérios de Clichy, modificado con-
+forme recomendações do Ministério da Saúde, Portaria GM n.° 2.117, de 11 de julho de 2018.
+8.8 Fluxograma para manejo clínico dos casos
+Figura 4 – Fluxograma para manejo clínico da febre amarela
+Fonte: SVS/MS.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 39
+a) Paciente 48 horas afebril, com melhora dos sintomas, sem manifestações hemorrági-
+cas, coagulograma normal ou em melhora, aminotransferases com valores menores que
+1.000 UI/L e em queda. Função renal em melhora.
+b) Sem alterações cardíacas sintomáticas; acompanhar de perto os assintomáticos e com
+fatores de risco.
+a) Forma leve: paciente 48 horas afebril, sem manifestações de alterações clínicas e
+laboratoriais.
+b) Forma moderada: paciente afebril há pelo menos sete dias do início dos sintomas e
+com melhora clínica e laboratorial há pelo menos 72 horas.
+c) Forma grave: considerar o quadro clínico do paciente e somente evoluirá para alta
+em enfermaria.
+Observação: icterícia não é um bom parâmetro de melhora após os sete dias de doença (bilir-
+rubinas – Bb pode aumentar com melhora da função hepática – icterícia persistente e progressiva).
+Orientar retorno em caso de piora dos sinais e sintomas, principalmente retorno da febre,
+sangramentos espontâneos ou rebaixamento do nível de consciência.
+9.1 Icterícia persistente progressiva
+Durante os surtos ocorridos no estado de Minas Gerais no período sazonal 2017/2018, foi
+transição do período de intoxicação para convalescença ou logo no início da convalescença, após
+apresentar a forma grave da doença. Os níveis de bilirrubinas (Bb) elevam-se, a despeito da melhora
+clínica e laboratorial. Apesar de melhora da função hepática (RNI e albumina), os níveis de Bb con-
+tinuam a subir continuamente. Os níveis de Bb total chegam a 25-30 mg/dl em alguns pacientes,
+permanecendo elevado cerca de 14-21 dias. Os pacientes não apresentam obstrução na colangio-
+ressonância ou ultrassom, não positivam anticorpos autoimunes, têm propedêutica infecciosa e in-
+fl amatória negativa e desfecho de caráter benigno. Por essa complicação ocorrer em pacientes com
+a forma grave, logo no início da convalescença e após o período de intoxicação, há um grande receio
+do médico assistente ao acompanhar o paciente, gerando propedêutica desnecessária e prolonga-
+mento da internação. Esses pacientes evoluem com redução dos níveis de Bb cerca de 14-21 dias
+depois (sem receber nenhuma intervenção) e apresentam melhora clínica nos meses subsequentes
+com normalização completa dos exames de perfil hepático avaliados ambulatoriamente. Portanto,
+caso os pacientes apresentem a icterícia persistente progressiva, mas apresentem os critérios de
+alta e ultrassom de abdome sem outra complicação que justifique a elevação de Bb, eles poderão
+normalizem. Após a normalização das Bb, o acompanhamento ambulatorial pode ser feito da mesma
+forma dos outros pacientes, conforme descrito na seção “Seguimento ambulatorial”.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 42
+Todos os pacientes devem ser acompanhados ambulatoriamente (Figura 5), especialmente
+nos primeiros 90 dias após o início dos sintomas, quando complicações tardias poderão ocorrer.
+Vários pacientes mantêm alterações de transaminases por meses, em declínio ou com leve au-
+mento (oscilações habituais), porém com melhora lenta e progressiva. Uma parte dos pacientes se
+queixa de fadiga crônica e alguns demoram em torno de dez meses para normalizar a função he-
+pática. Esses pacientes devem ser acompanhados e investigados para outras doenças hepáticas
+concomitantes, conforme a seguir.
+Acompanhar por no mínimo 90 dias após a alta com exames RNI, PTTa, albumina, hemogra-
+ma, TGO, TGP, FA, GGT, Bb, ureia e creatinina.
+Retornos a cada 30 dias nos primeiros três meses de acordo com sintomatologia e altera-
+ções laboratoriais. Após 90 dias do início dos sintomas, podem-se espaçar as consultas e acom-
+panhar os pacientes consoante avaliação clínica. Caso TGO, TGP e Bb não normalizem em 90 dias,
+acompanhar até a normalização e afastar outras doenças concomitantes (hepatites virais crôni-
+cas, esteato-hepatite, doença de Wilson, hemocromatose, hepatopatia esquistossomótica e me-
+dicamentosa). Alguns pacientes demoram cerca de dez meses para normalizar as transaminases.
+Alta ambulatorial: veja critérios no item 10.1.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 44
+Figura 5 – Acompanhamento ambulatorial
+SOLICITAR EXAMES E RETORNO PARA 7-21 DIAS
+TGO , TGP, BILIRRUBINAS, UREIA , CREATININA, RNI, ALBUMINA
+EM 7-21 DIAS
+RNI EM MELHORA OU NORMAL* TRANS MENOR RNI EM MELHORA OU NORMAL*
+EXAMES ALTERADOS E EM OU IGUAL A 500 EXAMES EM ELEVAÇÃO
+MENOR QUE 500 MAIOR QUE 500
+RETORNO MENSAL ATÉ ATÉ TRANS MENOR OU IGUAL A 500
+90 DIAS DA ALTA E INICIAR RASTREAMENTO PARA
+OUTRAS CONDIÇÕES CLÍNICAS*
+ALTERAÇÕES SOROLOGIA PARA HEP B, C, US ABD, HIV E AVALIAR
+OUTRAS CONDIÇÕES CLÍNICAS* SE MANTIVER ALTERAÇÕES
+SOROLOGIA PARA HEP B, C, US ABD, HIV SIM NÃO
+DO INÍCIO DOS SINTOMAS,
+Fonte: Adaptado de SES/MG, 2017.
+10.1 Critérios para alta ambulatorial
+1. Assintomático ou astenia persistente com propedêutica hepática e cardiológica negativa.
+2. Transaminases normais em dois exames com intervalo de 90 dias.
+3. RNI normal ou estável (nos hepatopatas crônicos).
+4. Ausência de icterícia.
+10.2 Complicações tardias
+10.2.1 Hepatite tardia
+Pequena parcela dos pacientes (cerca de 16%) pode apresentar, próximo a 60 dias após o
+início dos sintomas, nova piora das transaminases, e uma menor parte pode apresentar icterícia
+(mesmo que não tenha apresentado icterícia nos primeiros 15 dias de doença). Esse novo aumen-
+to de transaminases difere das oscilações habituais de pacientes na fase de convalescença da FA.
+Os níveis de TGO/TGP podem chegar a 2.000 e superar os níveis atingidos nos primeiros dias de
+doença, momento em que se pensava que ocorria o maior dano hepático. Essa nova ascensão de
+transaminases foi chamada de hepatite tardia, para facilitar a identificação desta complicação e
+a comunicação entre os profissionais de saúde. Esse fenômeno foi observado em pacientes do
+estado de Minas Gerais durante os surtos de 2017/2018, e todos os pacientes apresentaram des-
+fecho benigno e normalizaram as transaminases.
+10.2.1.1 Critérios de hepatite tardia
+1. Começa entre 40-70 dias do início dos sintomas.
+2. Aminotransferase >500 após melhora clínica e laboratorial inicial.
+3. Redução inicial das transaminases em níveis bem abaixo do apresentado nos primeiros
+15 dias de doença.
+4. ALT > AST (todos os pacientes apresentaram ALT > AST ao contrário dos primeiros 15 dias
+de doença).
+O tempo médio para a normalização dos exames após a hepatite tardia é, de uma forma geral,
+de 120 dias. A astenia é uma queixa frequente, mas vários pacientes permanecem assintomáticos.
+Toda a propedêutica para doenças hepáticas concomitantes mostrou-se negativa e todos os pacien-
+tes evoluíram sem ou com leve alteração dos fatores de síntese hepáticos (RNI e albumina), sem com-
+plicações como ascite e encefalopatia. A biopsia hepática destes pacientes, após 60 dias de sintomas,
+mostrou resultado do anatomopatológico compatível com FA e imuno-histoquímica positiva para o
+vírus da FA. Há relato de PCR RNA positivo para FA em fragmento de biopsia depois de 70 dias do início
+dos sintomas. Esses achados sugerem que o recrudescimento de transaminases pode ser causado
+por uma reação inflamatória tardia com a presença do vírus viável ou não no tecido hepático. Porém,
+essa reação inflamatória tem caráter transitório e desfecho benigno e não necessita de tratamento,
+apenas de acompanhamento médico mais estreito. Os pacientes que apresentaram a hepatite tardia
+evoluíram com melhora clínica e laboratorial sem necessidade de tratamento.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 46
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Resolução da Diretoria Colegiada RDC nº
+10, de 23 de janeiro de 2004. Aprova as diretrizes para uso de Plasma Fresco Congelado – PFC e
+de Plasma Vírus Inativo. Diário Ofi cial da União: seção 1, Brasília, DF, p. 28, 26 jan. 2004.
+BERNAL, W.; WENDON, J. Acute liver failure. N. Engl. J. Med., v. 26, n. 369, p. 2525-2534, 2016.
+BRASIL. Ministério da Saúde. Febre amarela: guia para profi ssionais de saúde. 1. ed. atual. Brasília,
+DF: Ministério da Saúde, 2018.
+BRASIL. Ministério da Saúde. Gabinete do Ministro. Portaria nº 204, de 17 de fevereiro de 2016.
+Defi ne a Lista Nacional de Notifi cação Compulsória de Doenças, Agravos e Eventos de Saúde
+Pública nos serviços de saúde públicos e privados em todo o território nacional. Diário Ofi cial da
+União: seção 1, Brasília, DF, p. 23, 18 nov. 2016.
+BRASIL. Ministério da Saúde. Gabinete do Ministro. Portaria nº 2117, de 11 de julho de 2018. Institui
+no âmbito do Sistema Único de Saúde- SUS, a estratégia para assistência emergencial em casos
+de Insufi ciência Hepática Hiperaguda relacionada a Febre Amarela-IHHFA, por meio da análise e
+acompanhamento específi cos dos transplantes de fígado. Diário Ofi cial da União: seção 1, Brasília,
+DF, p. 43, 16 jul. 2018.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de Vigilância em Saúde.
+3. ed. Brasília, DF: Ministério da Saúde, 2019. Disponível em: http://bvsms.saude.gov.br/bvs/
+publicacoes/guia_vigilancia_saude_3ed.pdf. Acesso em: 8 out. 2019.
+BRASIL. Ministério da Saúde. Plano de contingência para resposta às emergências em saúde
+pública: febre amarela. Brasília, DF: Ministério da Saúde, 2016. Disponível em: http://bvsms.saude.
+gov.br/bvs/publicacoes/plano_contingencia_emergencias_febre_amarela.pdf. Acesso em: 10 jul.
+2019.
+CHALASANI, N. et al. Th e prevalence and signifi cance of leukocytosis in upper gastrointestinal
+bleeding. Am. J. Med. Sci., v. 4, n. 315, p. 233-236, 1998.
+CLAASSEN, J. et al. Treatment of refractory status epilepticus with pentobarbital, propofol, or
+midazolam: a systematic review. Epilepsia, v. 2, n. 43, p. 146-153, 2002.
+EUROPEAN ASSOCIATION FOR THE STUDY OF THE LIVER. Clinical Practical Guidelines on the
+management of acute (fulminant) liver failure. J. Hepatol., v. 5, n. 66, p. 1047-1081, 2017.
+ESTCOURT, L. J. et al. Guidelines for the Use of Platelet Transfusions A British Society for
+Haematology Guideline. British Society for Haematology, 2014. Disponível em: https://b-s-h.org.
+uk/media/2641/bcsh_platelet_guideline_08_08_16_v2.pdf. Acesso em: 2 mar. 2017.
+FISHER, N. C. et al. Fungal colonisation and fluconazole therapy in acute liver disease. Liver, v. 5, n.
+18, p. 320-325, 1998.
+GARDNER, C. L.; RYMAN, K. D. Yellow Fever: a reemerging threat. Clin. Lab. Med., v. 1, n. 30, p. 237-
+260, 2010.
+HÉBERT, P. C. et al. A multicenter, randomized, controlled clinical trial of transfusion requirements
+in critical care. N. Engl. J. Med., v. 6, n. 340, p. 409-4017, 1999.
+KAUR, P.; KAUR, G. Transfusion support in patients with dengue fever. Int. J. Appl. Basic Med. Res.,
+v. 4, p. S8-S12, 2014. suppl. 1.
+KHAN ASSIR, M. Z. et al. Effectiveness of platelet transfusion in dengue Fever: a randomized
+controlled trial. Transfus. Med. Hemother., v. 5, n. 40, p. 362-368, 2013.
+KURUKULARATNE, C. et al. When less is more: can we abandon prophylactic platelet transfusion
+in Dengue fever? Ann Acad Med Singapore, v. 12, n. 40, p. 539-545, 2011.
+LARSEN, F. S. et al. High-volume plasma exchange in patients with acute liver failure: An open
+randomised controlled trial. J. Hepatol., v. 1, n. 64, p. 69-78, 2016.
+LEE, W. M.; LARSON, A. M.; STRAVITZ, R. T. American Association for the Study of Liver
+Diseases Position Paper: The Management of Acute Liver Failure: Update 2011. AASLD
+Position Paper, 2011. Disponível em: https://www.aasld.org/sites/default/files/201906/
+AcuteLiverFailureUpdate201journalformat1.pdf. Acesso em: 10 fev. 2017.
+LEE, W. M.; STRAVITZ, R. T.; LARSON, A. M. Introduction to the Revised American Association for
+the Study of Liver Diseases Position Paper on Acute Liver Failure 2011. Hepatopalogy, v. 3, n. 55,
+p. 965-967, 2012.
+MINAS GERAIS. Governo do Estado. Secretaria de Estado de Saúde de Minas Gerais. Manejo
+Clínico Febre amarela. Belo Horizonte: SES, 2017. Disponível em: www.saude.mg.gov.br/
+febreamarela. Acesso em: 10 jul. 2019.
+MONATH, T. P.; BARRETT, A. D. Pathogenesis and pathophysiology of yellow fever. Adv. Virus Res.,
+n. 60, p. 343-395, 2003.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 48
+MONATH, T. P. Yellow fever: an update. Lancet Infectious Diseases, v. 1, n. 1, p. 11-20, 2001.
+POSSAS, C. et al. Yellow fever outbreak in Brazil: the puzzle of rapid viral spread and challenges for
+immunization. Mem. Inst. Oswaldo Cruz, Rio de Janeiro, v. 113, n. 10, 2018. Disponível em: http://
+www.scielo.br/scielo.php?script=sci_arttext&pid=S0074-02762018001000200&lng=en&nrm=i
+so. Acesso em: 5 nov. 2018.
+ROLANDO, N. et al. Prospective study of bacterial infection in acute liver failure: an analysis of fifty
+patients. Hepatology, v. 1, n. 11, p. 49-53, 1990.
+ROLANDO, N. et al. The systemic inflammatory response syndrome in acute liver failure.
+Hepatology, v. 4, pt. 1, n. 32, p. 734-739, 2000.
+SOCIEDADE BRASILEIRA DE NEFROLOGIA. Comitê de Insuficiência Renal Aguda. Diretrizes da
+Associação Médica Brasileira da SBN para Insuficiência Renal Aguda. São Paulo, 2007. Disponível
+em: http://sbn.org.br/app/uploads/Diretrizes_Insuficiencia_Renal_Aguda.pdf. Acesso em: 20 jan.
+2017.
+SOUZA, G. F.; MOURA, A.; SILVA, B. M. Febre Amarela Silvestre: estudo de 13 casos atendidos
+no Hospital Eduardo de Menezes em Belo Horizonte/MG. Sessão de pôster In: CONGRESSO
+MINEIRO DE INFECTOLOGIA, 1., 2004, Belo Horizonte, MG. Anais [...]. Belo Horizonte, 2004. p. 75.
+TAUIL, P.L.; SANTOS, J. B.; MORAES, M. A. P. Febre Amarela. In: COURA, J. R. (org.). Dinâmica das
+Doenças Infecciosas e Parasitárias. 2. ed. Rio de Janeiro: Guanabara Koogan, 2013. p. 1765-1775.
+TAVARES, Walter; MARINHO, Luiz Alberto Carneiro. Rotinas de diagnóstico e tratamento das
+doenças infecciosas e parasitárias. São Paulo: Atheneu, 2005.
+TREIMAN, D. M. A comparison of four treatments for generalized convulsive status epilepticus. N.
+Engl. J. Med., v. 12, n. 339, p. 792-798, 1998.
+TUBOI, S. H. et al. Clinical and epidemiologic characteristics of yellow fever in Brazil: analysis of
+reported cases, 1998-2002. Trans. R. Soc. Trop. Med. Hyg., v. 2, n. 101, p. 169-175, 2007.
+VASCONCELOS, P. F. da C. Febre amarela. Revista da Sociedade Brasileira de Medicina Tropical, v.
+2, n. 36, p. 275-293, 2003.
+VERDAL, J. C. R. et al. Recomendações para o manejo de pacientes com formas graves de dengue.
+Rev. Bras. Ter. Intensiva, v. 23, n. 2, p. 125-133, 2011.
+WORLD HEALTH ORGANIZATION. Handbook for Clinical Management of Dengue. Geneva: WHO,
+2012. Disponível em: <enhttp://www.wpro.who.int/mvp/documents/handbook_for_clinical_
+management_of_dgue.pdf>. Acesso em 25 jan. 2017.
+Anexo A – Ficha Sinan – Frente
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 50
+Anexo B – Ficha Sinan – Verso
+Anexo C – Critérios de Definição e Classificação de Insuficiência Renal Aguda – IRA
+Quadro 1 - Critérios de Definição e Classificação de Insuficiência Renal Aguda (IRA)
+Estágio 1 Aumento de 0,3 mg/dl ou aumento de 150-200% do valor basal (1,5 a 2 vezes) < 0,5 ml/kg/h por 6 horas
+Estágio 2 Aumento >200-300% do valor basal (>2- 3 vezes) < 0,5 ml/kg/h por > 12 horas
+Aumento >300% do valor basal (>3 vezes ou Cr sérica ≥ 4,0 mg/dl com < 0,3 ml/kg/h por 24 horas ou
+Estágio 3
+aumento agudo de pelo menos 0,5 mg/dl) anúria por 12 horas
+Fonte: SBN, 2007.
+Anexo D – Transfusão de hemocomponentes
+TRANSFUSÃO DE CONCENTRADO DE HEMÁCIAS (CH)
+Concentrado de hemácias (CH) para manter dosagem de hemoglobina (HB) > 7,0 g/dL
+de 10 a 15 mL/kg/dose de CH. Infusão deve ocorrer duas a quatro horas em acesso exclusivo.
+No choque hemorrágico, além do suporte de CH, deve-se considerar a possibilidade de coa-
+gulopatia dilucional. Nessas situações, considerar a transfusão de CH e plasma fresco congelado
+(PFC) numa proporção de CH:PFC = 1:1 ou 1,5:1 ou de acordo com o protocolo de transfusão maciça
+do serviço. Essa reposição deve ser avaliada sempre utilizando parâmetros laboratoriais.
+TRANSFUSÃO DE CONCENTRADO DE PLAQUETAS (CP)
+Em geral, não há indicação de transfusão profilática na FA, mesmo com contagens plaque-
+tárias abaixo de 30.000/mm3, uma vez que a transfusão não resulta em incremento plaquetário
+satisfatório, dada a natureza imune ou de consumo da plaquetopenia.
+Quadro 1 – Indicação de transfusão plaquetária em pacientes com arboviroses
+Inferior a 100.000/mm3 Sangramento ou suspeita de sangramento em sistema nervoso central (SNC) e/ou retiniano.
+Sangramento ativo importante (exceto em SNC) ou preparo para procedimentos invasivos (cirurgias,
+Inferior a 50.000/mm3
+cateter, punção lombar, paracentese)
+Inferior a 20.000/mm3 Caso tenha risco de sangramento aumentado (Ex.: febre, presença de esplenomegalia).
+>10.000 Apesar de não haver benefício na transfusão profilática, a transfusão deve ser avaliada caso a caso.
+Fonte: SAS, 2015 e Anvisa, 2015.
+Existem estudos recentes disponíveis demonstrando ausência de efeito benéfico da trans-
+fusão de CP em pacientes portadores de outras arboviroses com plaquetopenias graves, portanto
+a transfusão de CP deve ser criteriosa e sempre na presença de sangramentos e/ou necessidade
+de realização de procedimentos invasivos.
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 52
+PRODUTOS PLAQUETÁRIOS DISPONÍVEIS NOS SERVIÇOS DE HEMOTERAPIA (SH)
+y Plaquetas randômicas obtidas de sangue total: volume médio de 50 mL. Conteúdo de no
+mínimo 5.5x10^10/unidade. A dose no paciente adulto deve conter no mínimo 3.0x10^11/
+unidade, portanto a dose terapêutica deve conter no mínimo 6 U de CP randômicas.
+y Pool de plaquetas obtidas de ST: volume médio de 250 mL. Dose: um pool para um adulto
+de 70-80 kg.
+y CP obtidos por aférese (CP-AF): volume de 250 a 300 mL. Uma unidade contendo no mí-
+nimo 3.0x10^11 para um adulto de 70-80 kg, portanto uma unidade corresponde a dose
+terapêutica.
+y Crianças: 5 a 10 mL/kg/dose de CP randômicas ou CP-AF (crianças até 30 kg).
+Como o baixo rendimento a transfusão é relativamente comum nesses pacientes, a trans-
+fusão deve ocorrer preferencialmente com plaquetas do mesmo grupo sanguíneo do paciente. Na
+ausência da CP isogrupo, a utilização de outros grupos sanguíneos pode ser realizada.
+Transfusão pode ser repetida até de 8/8 ou de 6/6 horas nos casos de sangramento grave
+ativo com o objetivo de manter plaquetas, como recomendado no Quadro 2. A infusão pode ser
+realizada em até duas horas. O controle laboratorial deve ser frequente para acompanhar o rendi-
+mento das transfusões.
+Em situações complexas de baixo rendimento das transfusões de CPs, solicitar ajuda do
+especialista.
+TRANSFUSÃO DE CONCENTRADO DE PLASMA FRESCO CONGELADO (PFC) E
+CRIOPRECIPTADO (CRIO)
+A transfusão de PFC e CRIO deve ser utilizada na falência hepática aguda grave, quando há
+menor produção dos fatores de coagulação, associada ou não ao consumo deles. A transfusão
+está indicada em caso de sangramento grave, nas transfusões maciças ou necessidade de proce-
+dimentos invasivos nos pacientes com alteração significativa no coagulograma.
+A transfusão deve ser preferencialmente isogrupo, no entanto, se não houver o produto dispo-
+nível, podem ser utilizados outros grupos sanguíneos, respeitando a compatibilidade do sistema ABO.
+Quadro 2 – Indicação e dose de transfusão de plasma fresco congelado
+Dose no adulto:10 a 20 mL/kg de peso/dose, infusão em até uma hora.
+Dose na criança: 10 mL/kg de peso/dose, infusão em até uma hora.
+Transfundir plasma somente • Atividade de Leve 24/24 horas
+de procedimentos invasivos <60% ou INR# Moderado 12/12 horas
+na vigência de alteração no >1,5 – 1,6
+coagulograma. • PTTa/ Grave Até de 6/6 horas (dose diária não
+ControleΩ >1,5 superior a 30 mL/kg de peso/dia)
+Fonte: SAS, 2015 e Anvisa, 2015.
+#Índice Normatizado Internacional.
+ΩRelação PTTa/Controle do dia.
+y A transfusão de crioprecipitado (Crio) deve ser realizada para ofertar principalmente fibrinogê-
+nio, quando ele se encontra baixo na falência hepática em que há uma menor produção de fi-
+brinogênio, na coagulação intravascular disseminada e no choque hemorrágico com reposição
+sanguínea volumosa (transfusão maciça) quando há um consumo e diluição dessa proteína.
+O objetivo da transfusão é manter o fibrinogênio >100-150 mg/dL em adultos e crianças.
+Em gestantes e puérperas imediatas manter o fibrinogênio >200 mg/dL.
+y Transfusão de crioprecipitado (Crio) – Dose no adulto: 1 a 1,5U a cada 7 a 10 kg de peso.
+Caso fibrinogênio <100-150 mg/dL para paciente com sangramento ativo ou que fará al-
+gum procedimento invasivo. Cada unidade possui 10 a 15 mL e deve ser infundida livre,
+não excedendo uma hora.
+y Crianças: 10 mL/kg infusão livre, não podendo exceder uma hora.
+Como em toda transfusão de hemocomponentes, podem ocorrer reações transfusionais
+imediatas como: febril não hemolítica e alérgicas, sendo algumas graves e com altas taxas de mor-
+talidade como as reações hemolíticas, o Trali (Lesão Pulmonar Aguda Relacionada à Transfusão), o
+Taco (Sobrecarga Volêmica Associado à Transfusão) e as reações alérgicas graves. Podem ocorrer
+reações tardias como aloimunizações e transmissão de doenças infecciosas (raras). Então, toda
+transfusão deve ser acompanhada pela equipe assistente, e, em caso de reação, o paciente deve
+ser prontamente atendido e os órgãos sanitários notificados.
+y Nos casos críticos em que não há resposta clínico-laboratorial esperada ou em caso de dú-
+vidas, consultar o hematologista/hemoterapeuta da instituição ou da Agência Transfusional.
+y Eventos adversos (reações transfusionais) devem ser prontamente diagnosticados,
+tratados, investigados, comunicados e notificados, conforme previsto pelo Sistema
+Nacional de Hemovigilância).
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 54
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). Marco conceitual e operacional de
+hemovigilância: guia para a hemovigilância no Brasil. Brasília, DF: ANVISA, 2015. Disponível em:
+e+Hemovigil%C3%A2ncia+-+Guia+para+a+Hemovigil%C3%A2ncia+no+Brasil/495fd617-5156-
+447d-ad22-7211cdbab8a7. Acesso em: 8 out. 2019.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Guia para o uso de
+hemocomponentes. 2. ed. Brasília, DF: Ministério da Saúde, 2015. Disponível em: http://bvsms.
+saude.gov.br/bvs/publicacoes/guia_uso_hemocomponentes_2ed.pdf. Acesso em: 8 out. 2019.
+BRASIL. Ministério da Saúde. Sistema de Informação de Agravos de Notifi cação. Ficha de
+notifi cação/investigação de casos suspeitos de Febre Amarela. Brasília, DF: Ministério da Saúde,
+2001. Disponível em: http://portalsinan.saude.gov.br/images/documentos/Agravos/Febre%20
+Amarela/Febre_Amarela_v5.pdf. Acesso em: 13 nov. 2019.
+SOCIEDADE BRASILEIRA DE NEFROLOGIA. Comitê de Insufi ciência Renal Aguda. Diretrizes da
+Associação Médica Brasileira da SBN para Insufi ciência Renal Aguda. São Paulo, 2007. Disponível
+em: http://sbn.org.br/app/uploads/Diretrizes_Insufi ciencia_Renal_Aguda.pdf. Acesso em: 20
+jan. 2017.
+www.saude.gov.br/bvs
+MANUAL DE MANEJO CLÍNICO DA FEBRE AMARELA 56

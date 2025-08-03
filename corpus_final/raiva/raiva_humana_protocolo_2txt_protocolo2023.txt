@@ -1,0 +1,81 @@
+1 3- - S Ú e n m ic o fe r i m e n t o 2 9 - - M Ig ú n l o ti r p a l d o o 1 - Sim 2 - Não 9-Ignorado Profundo Superficial Dilacerante
+36Data da Exposição 37Tem Antecedentes de Tratamento Anti-Rábico ?
+| | | | | | | 1 - Sim 2 - Não 9 - Ignorado Pré-Exposição Pós-Exposição
+38Se Houve, quando foi concluído? 39Nº de Doses Aplicadas
+1 - Até 90 dias 2 - Após 90 dias
+40 Espécie do Animal Agressor1 - Canina 2 - Felina 3 - Quiróptera (Morcego) 4 - Primata (Macaco)
+5 - Raposa 6 - Herbívoro doméstico (especificar)_____________7 - Outra ____________________
+41 Condição do Animal para Fins de Conduta do Tratamento
+1 - Sadio 2 - Suspeito3 - Raivoso4 - Morto/ Desaparecido
+Atendimento Anti-Rabico Humano SVS 27/09/2005
+FICHA DE INVESTIGAÇÃO ATENDIMENTO ANTI-RÁBICO
+ATENDIMENTO ANTI-RÁBICO HUMANO
+42 Animal Passível de Observação ? (Somente para Cão ou Gato)
+1 - Sim 2 - Não
+43Tratamento Indicado
+1 - Pré Exposição 2 - Dispensa de Tratamento 3 - Observação do animal (se cão ou gato)
+4 - Observação + Vacina 5 - Vacina 6 - Soro + Vacina 7 - Esquema de Reexposição
+44Laboratório Produtor Vacina
+1 - Instituto Butantan 2 - Instituto Vital Brasil 3 - Aventis Pasteur 4- Outro Especificar)___________________
+45 Número do Lote 46 Data do Vencimento
+| | | | |
+1 Tipo de Notificação 2 - Individual
+2 Agravo/doença 3 Data da Notificação
+| | | | | | |
+5 Município de Notificação
+6 Unidade de Saúde (ou outra fonte notificadora) 7 Data do Atendimento
+| | | | | | |
+8 Nome do Paciente 9 Data de Nascimento
+| | | | | | |
+(FICHA DE ATENDIMENTO
+ANTIRRÁBICO HUMANO – Sinan)
+Código (CID10)
+W 64
+4 UF Código (IBGE)
+| | | | | |
+| | | | | |
+10 ( o | u ) I d | ade 1 2 3 4 - - - - D M H An i o ê a o r s a 11 SexoM F I - - - I F g M e n a m o s r c i a n u d in l o in o o 12G 4 9 1 e - - - I 1 s I g d º t n T a a o r d n i r m e a t d e e g o s e t s re ta c io 2 n -2 a º l T I r g im no e r s a t d re a 5 - 3 N - ã 3 o ºT r i m 6 e - s N tre ão se aplica 13 1 4 - - B P R r a a a r n d ç c a a a / C o 2 5 - - r P In r d e í t g a e n a 3 9 -A - m Ig a n r o e r l a a do
+14Escolaridade
+0-Analfabeto 1-1ª a 4ª série incompleta do EF (antigo primário ou 1º grau) 2-4ª série completa do EF (antigo primário ou 1º grau)
+3-5ª à 8ª série incompleta do EF (antigo ginásio ou 1º grau) 4-Ensino fundamental completo (antigo ginásio ou 1º grau) 5-Ensino médio incompleto (antigo colegial ou 2º grau )
+6-Ensino médio completo (antigo colegial ou 2º grau ) 7-Educação superior incompleta 8-Educação superior completa 9-Ignorado 10- Não se aplica
+15 Número do Cartão SUS 16Nome da mãe
+| | | | | | | | | | | | | | |
+17UF 18MMuunniiccííppiioo ddee RReessiiddêênncciiaa CCóóddiiggoo ((IIBBGGEE)) 19 Distrito
+| || || || || ||
+20 Bairro 2211Logradouro (rua, avenida,...) Código
+|| || || || ||
+22 Número 23Complemento (apto., casa, ...) 24Geo campo 1
+25Geo campo 2 26Ponto de Referência 27 CEP
+| | | | - | |
+28 (DDD) Telefone 29Zona 1 - Urbana 2 - Rural 30País (se residente fora do Brasil)
+3 - Periurbana 9 - Ignorado
+31 Ocupação
+(continua)
+Observações:
+60 Secretaria de Vigilância em Saúde/MS
+Indicação do Soro Anti-Rábico
+1 - Instituto Butantan 2 - Instituto Vital Brasil
+3 - Aventis Pasteur 4 - Outro (Especificar) _________
+Município/Unidade de Saúde Cód. da Unid. de Saúde
+| | | | | |
+(continuação)
+47 Datas das Aplicações da Vacina (dia e mês)
+Data da 1a dose Data da 2a dose Data da 3a dose Data da 4a dose Data da 5a dose
+48 Condição Final do Animal (após período de observação)
+1 - Negativo para Raiva (Clínica) 2 - Negativo para Raiva (Laboratório) 3 - Positivo para Raiva
+(Clínica) 4 - Positivo para Raiva (Laboratório) 5 - Morto/ Sacrificado/ Sem Diagnóstico 9 - Ignorado
+49 50 Qual o Motivo da Interrupção
+1 - Sim 2 - Não 1 - Indicação da Unidade de Saúde 2 - Abandono 3 - Transferência
+51 Se houve Abandono do Tratamento, a Unidade de Saúde Procurou o Paciente 52 Evento Adverso à Vacina
+1 - Sim 2 - Não 9 - Ignorado
+1 - Sim 2 - Não
+53 54 Peso do Paciente 55 Quantidade de Soro Aplicada
+1 - Sim 2 - Não 9 - Ignorado | | Kg. | | ml 1 - Heterólogo 2 - Homólogo
+56 Infriltração de Soro no(s) Local(is) do(s) Ferimento(s) 57 Laborátorio Produtor do Soro Anti-Rábico
+1 - Sim 2 - Não Total Parcial
+58 Número da Partida 59 Evento Adverso ao Soro Anti-Rábico 60Data do Encerramento do Caso
+| | | | | | | | | | 1 - Sim 2 - Não 9 - Ignorado | | | | | | |
+Atendimento Anti-Rabico Humano Sinan Net SVS 27/09/2005
+www.saude.gov.br/bvs
+4 Secretaria de Vigilância em Saúde/MS

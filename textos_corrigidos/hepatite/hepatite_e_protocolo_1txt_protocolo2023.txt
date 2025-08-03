@@ -1,0 +1,2162 @@
+APRESENTAÇÃO DA 2ª EDIÇÃO
+A Portaria SVS/MS n° 25, de 1º de dezembro de 2015, que aprova este Manual
+Técnico para o Diagnóstico das Hepatites Virais, estabelece que o manual seja revisto
+profissionais de notório saber.
+ações de atenção à hepatite B no Brasil, as atualizações desta edi ção tornam mais ágil
+o diagnóstico das hepatites B e C, fazendo melhor uso das tec nologias disponibilizadas
+pelo Ministério da Saúde, com destaque para a ampliação do acesso ao diagnóstico
+utilizando testes rápidos.
+› Os testes rápidos agora podem ser utilizados como testes para investigação
+inicial nos fluxogramas de diagnóstico das hepatites B e C;
+› A complementação diagnóstica após um resultado reagente para detecção
+do HBsAg ou para anti-HCV pode ser feita utilizando um teste molecular.
+APRESENTAÇÃO DA 1ª EDIÇÃO
+no Brasil e no mundo - distribuindo-se de maneira universal, atingindo vários segmen-
+de saúde como o Sistema Único de Saúde (SUS).
+e impacta diretamente a qualidade de vida do indivíduo, sendo ainda um poderoso
+instrumento de prevenção de complicações mais frequentes, como cirrose avançada e
+câncer hepático.
+Sendo assim, o Departamento de Vigilância, Prevenção e Controle das Infecções
+Sexualmente Transmissíveis, do HIV/Aids e das Hepatites Virais do Ministério da Saúde
+elaborou este manual técnico, com o intuito de ampliar as possibilidades de diagnóstico
+e, em especial, orientar os profissionais de saúde nos passos necessários à realização do
+diagnóstico das hepatites virais.
+A avaliação clínica é de extrema importância para guiar o médico quanto ao exa-
+me a ser solicitado, de modo que o diagnóstico seja correto, de acordo com o tipo de
+hepatite: se A, B, C, D ou E. Hoje, entretanto, sabemos que isso não ocorre em muitas
+solicitações médicas, levando à realização de exames sem a indicação apropriada ou
+relação com a história clínica dos pacientes - o que gera desperdício de recursos pú-
+blicos e privados. Este manual visa, portanto, a orientar os profissionais que realizam
+testes diagnósticos das hepatites virais, sejam laboratoriais ou testes rápidos, quanto à
+escolha do marcador a ser utilizado ao receber solicitações genéricas, como “sorologia
+para hepatite” ou afins.
+A publicação restringe-se à indicação de algoritmos (fluxogramas) a ser seguidos
+para o diagnóstico seguro e eficiente das infecções causadas pelos vírus das hepatites;
+assim, não se abordam os aspectos clínicos dessas infecções. São apresentados oito al-
+situações e localidades em que a infraestrutura laboratorial está ou não presente, permi-
+tindo o atendimento ideal a todos os cidadãos que buscam esse serviço.
+Por fim, os algoritmos aqui propostos destinam-se exclusivamente ao diagnóstico
+das infecções, não sendo recomendados para estudos epidemiológicos ou para o mo-
+nitoramento de pacientes já com diagnóstico estabelecido de qualquer uma das hepa-
+tites virais.
+Desejamos sucesso a todos e colocamo-nos à disposição para esclarecer quaisquer
+dúvidas por meio do endereço eletrônico clab@aids.gov.br.
+1. INTRODUÇÃO ÀS HEPATITES VIRAIS
+As hepatites virais agudas e crônicas são doenças provocadas por diferentes agen-
+tes etiológicos, com tropismoG primário pelo tecido hepático, apresentando caracte-
+rísticas epidemiológicas, clínicas e laboratoriais semelhantes, porém com importantes
+particularidades.
+As hepatites virais são causadas por cinco vírus: o vírus da hepatite A (HAV, do inglês
+hepatitis A virus), o vírus da hepatite B (HBV, do inglês hepatitis B virus), o vírus da hepatite
+C (HCV, do inglês hepatitis C virus), o vírus da hepatite D (HDV, do inglês hepatitis D virus)
+e o vírus da hepatite E (HEV, do inglês hepatitis E virus) (LEMON, 1997). Essas infecções
+têm um amplo espectro clínico, que varia desde formas assintomáticas, anictéricasG e
+ictéricasG típicas, até a insuficiência hepática aguda grave (fulminante). A maioria das
+hepatites virais agudas é assintomática, independentemente do tipo de vírus. Quando
+apresentam sintomatologia, são caracterizadas por fadiga, mal-estar, náuseas, dor ab-
+dominal, anorexiaG e icteríciaG. A hepatite crônica, em geral, cursa de forma assintomá-
+tica. As manifestações clínicas aparecem quando a doença está em estágio avançado,
+com relato de fadiga, ou, ainda, cirroseG. O diagnóstico inclui a realização de exames em
+ambiente laboratorial e testes rápidos, a fim de caracterizar o agente infeccioso e sua
+gravidade (BRASIL, 2009).
+A distribuição das hepatites virais é universal, sendo que a magnitude dos diferen-
+tes tipos varia de região para região. No Brasil, também há grande variação regional na
+prevalência de cada tipo de hepatite (PEREIRA; XIMENES; MOREIRA, 2010).
+2. NOTIFICAÇÃO
+As hepatites virais são doenças de notificação obrigatória, conforme Portaria vigen-
+te. Para a vigilância epidemiológica, devem-se seguir as orientações de definição de ca-
+sos do “Guia de Vigilância em Saúde” e suas atualizações (BRASIL, 2017a).
+3. SISTEMAS DE INFORMAÇÃO
+As ferramentas informatizadas de informação são utilizadas com o objetivo de aces-
+sar e analisar de maneira ágil dados em saúde pública, subsidiando a tomada de deci-
+sões nos diversos níveis da administração pública. Também são úteis para o ambiente
+laboratorial, facilitando o gerenciamento de amostras e exames no laboratório e em
+seus pontos de coleta.
+Desde 2014, o DIAHV recomenda o Gerenciador de Ambiente Laboratorial - GAL
+mento dos testes laboratoriais para as hepatites virais (Ofício Circular nº 98/2014).
+4. DIAGNÓSTICO CLÍNICO
+Os quadros clínicos agudos das hepatites virais são muito diversificados, variando
+desde formas assintomáticas até formas de insuficiência hepática aguda grave. A maio-
+ria dos casos subclínicos cursam com predominância de fadiga, anorexia, náuseas e mal-
+-estar geral. Nos pacientes sintomáticos, o período de doença aguda pode se caracteri-
+zar pela presença de urina escura (colúria), fezes esbranquiçadas e icterícia.
+A hepatite crônica é assintomática na maioria dos casos. De modo geral, as mani-
+festações clínicas aparecem apenas em fases adiantadas de acometimento hepático, e
+podem incluir fibrose, cirrose hepática, carcinoma hepatocelular e comprometimento
+de outros órgãos. Muitas vezes, o diagnóstico é feito ao acaso, a partir de alterações
+esporádicas de exames de avaliação de rotina ou da triagem em bancos de sangue. O
+diagnóstico das hepatites virais, principalmente os tipos B e C, ocorre na maioria das
+vezes durante a fase crônica dessas doenças. É importante que o clínico esteja atento a
+esse fato para então definir o melhor seguimento do paciente, conforme os protocolos
+clínicos e diretrizes terapêuticas das hepatites B e C. Os referidos protocolos clínicos
+As aminotransferasesG - alanina aminotransferase ou transaminase glutâmico-
+-pirúvica (ALT ou TGP) e aspartato aminotransferase ou transaminase glutâmico-oxa-
+lacética (AST ou TGO) - são marcadores sensíveis para detecção de lesão do parênqui-
+maG hepático, porém não são específicas para nenhum tipo de hepatite. Níveis mais
+elevados de ALT/TGP, quando presentes, não guardam correlação direta com a gravida-
+de da doença. As aminotransferases, na fase mais aguda da hepatite, podem elevar-se
+dez vezes acima do limite superior da normalidade. Também são encontradas outras
+alterações inespecíficas, como elevação de bilirrubinasG, fosfatase alcalinaG e discre-
+ta linfocitoseG. Embora não sejam marcadores específicos para os casos de hepatites
+virais, as alterações nos testes de função hepática indicam a necessidade de investigar
+a origem dessas alterações, que, entre outras possibilidades, podem ser causadas pelos
+vírus das hepatites A, B, C, D ou E.
+Vale ressaltar que, nas hepatites B e C, a definição de suas formas crônicas se dá pela
+presença de replicação viral persistente por mais de seis meses.
+Não existem manifestações clínicas ou padrões de evolução dos diferentes agentes.
+O diagnóstico etiológicoG só é possível por meio de exames sorológicos e/ou de biolo-
+gia molecular.
+5. METODOLOGIAS DE DIAGNÓSTICO DAS HEPATITES VIRAIS
+no sangue, soro, plasma ou fluido oralG da pessoa infectada, por meio de imunoen-
+saiosG, e/ou na detecção do ácido nucleicoG viral, empregando técnicas de biologia
+molecular. O constante avanço tecnológico na área de diagnóstico permitiu o desenvol-
+vimento de técnicas avançadas de imunoensaios, incluindo o de fluxo lateral, que são
+atualmente empregadas na fabricação de testes rápidos (TR).
+A seguir, são descritas as principais metodologias utilizadas no diagnóstico das he-
+patites virais.
+5.1 Imunoensaios
+As técnicas de imunoensaioG são baseadas na detecção do antígenoG viral e/ou
+anticorposG específicos, como as imunoglobulinas da classe M (IgM), que são as primei-
+ras a aparecer e caracterizam, portanto, uma infecção aguda, e as imunoglobulinas da
+classe G (IgG), que surgem após as IgM e podem permanecer indefinidamente, servindo
+como marcador de infecção passada - que caracteriza o contato prévio com o vírus - ou
+de resposta vacinal.
+A seguir, são descritos os principais imunoensaios utilizados para o diagnóstico das
+hepatites virais.
+5.1.1 Ensaios imunoenzimáticos
+Incluem os ensaios do tipo ELISA (do inglês enzyme-linked immunosorbent assay)
+e ELFA (do inglês enzyme-linked fluorescent assay), sendo utilizados no diagnóstico das
+infecções virais por meio da detecção de antígenos e/ou anticorpos específicos contra o
+patógeno, isoladamente ou de forma combinada.
+Em um teste ELISA, para a detecção de anticorpos, um antígeno é imobilizado em
+uma superfície sólida. O anticorpo presente na amostra do paciente se liga ao antígeno,
+ficando preso na superfície sólida. Acrescenta-se ao sistema um conjugado (anticorpo
+ligado a uma enzima), que irá se ligar ao anticorpo preso ao antígeno. A detecção ocorre
+por meio da incubação desse complexo enzimático (antígeno + anticorpo + anticorpo-
+-enzima) com um substrato que, ao ser consumido pela enzima, resultará em um produ-
+to detectável (colorido ou insolúvel). O principal elemento para a estratégia de detecção
+é uma interação antígeno-anticorpo altamente específica.
+O teste ELFA segue o mesmo princípio do ELISA, com a diferença de utilizar um
+substrato que gera um sinal fluorescente, ao invés de colorido ou insolúvel. A fluores-
+cência pode ser detectada em concentrações menores que as de produtos coloridos, o
+que garante maior sensibilidade clínicaG ao teste (YOLKEN; STOPA, 1979).
+antígenos e anticorpos no plasma ou no soro humano, permitindo a detecção precoce
+da infecção por combinar em uma única reação a detecção de dois marcadores.
+5.1.2 Ensaios luminescentes
+nos quais o evento excitatório é provocado por uma reação química ou eletroquímica,
+respectivamente. O evento físico de emissão de luz na quimioluminescência e na eletro-
+quimioluminescência é semelhante ao da fluorescência. A emissão de luz ocorre a partir
+de um elétron em estado excitado que retorna ao seu estado fundamental, emitindo
+um fóton.
+Ensaio de quimioluminescência: Os ensaios de quimioluminescência podem ser
+qualitativos ou quantitativos. Esses ensaios envolvem o uso de uma substância lumines-
+cente para detecção da reação antígeno-anticorpo e anticorpo-antígeno. O resultado
+é definido pela emissão de luz, que é captada e analisada em equipamento próprio. O
+sistema de detecção por quimioluminescência é muito sensível e específico, mas exige
+equipamentos especiais e ainda tem custo elevado. No entanto, existem soluções de
+automação que aumentam a confiabilidade do ensaio e reduzem seu custo, quando
+este é utilizado em larga escala.
+Ensaio de eletroquimioluminescência: A eletroquimioluminescência é um pro-
+cesso no qual a aplicação de uma corrente elétrica induz uma emissão quimiolumines-
+cente a partir dos complexos imunológicos (antígeno-anticorpo ou anticorpo-antíge-
+no), contendo espécies químicasG altamente reativas presentes em um eletrodo. Essas
+espécies reagem entre si, produzindo luz. A vantagem do emprego de uma corrente
+(MATHEW; BIJU; THAPALIA, 2005).
+A vantagem desse processo consiste na simplicidade de preparação, na alta estabi-
+lidade dos reagentes e em uma grande sensibilidade.
+5.1.3 Testes rápidos
+Os testes rápidos (TR) constituem imunoensaios cromatográficos de execução sim-
+ples, que podem ser realizados em até 30 minutos e que não necessitam de estrutu-
+ra laboratorial. Os TR são fundamentais para a ampliação do acesso ao diagnóstico e
+aumentam a resolutividade do sistema. A ampliação do diagnóstico por meio do uso
+de TR permite a detecção precoce dos vírus causadores das hepatites B e C, possibili-
+diagnóstico.
+Esses testes são recomendados primariamente para testagens presenciais. Podem
+ser realizados com fluido crevicular gengivalG - mais conhecido como fluido oral (FO)
+-, soro, plasma ou sangue total (o que permite o uso de amostras obtidas por punção
+digital). A simplicidade de execução dos testes rápidos os transforma em ferramentas
+fundamentais na expansão do diagnóstico das hepatites virais B e C. O Ministério da
+Saúde esclarece que qualquer pessoa capacitada, presencialmente ou à distância, pode
+executar um teste rápido.
+soa interessada em executar os TR pode se capacitar pela plataforma, que dispõe de vi-
+deoaulas e manuais. Ao se inscrever no Telelab e realizar as avaliações do curso, o aluno
+poderá obter certificado mediante aprovação em uma avaliação on-line e estará apto a
+executar os TR.
+infecciosos para os quais foram projetados. Caso o teste se destine à pesquisa de anti-
+corpos, haverá antígenos (geralmente, proteínas sintéticas) imobilizados na membrana
+de nitrocelulose para a captura dos anticorpos presentes na amostra. Caso a pesquisa
+seja para antígenos, haverá anticorpos imobilizados para a captura dos antígenos pre-
+sentes na amostra.
+Os testes rápidos utilizados para o diagnóstico das hepatites B e C baseiam-se na
+tecnologia de imunocromatografia de fluxo lateral. O teste para hepatite B permite a
+detecção do antígeno de superfície do HBV (HBsAg) no soro, plasma ou sangue total.
+Para a hepatite C, o teste detecta o anticorpo anti-HCV no soro, plasma, sangue total ou
+fluido oral.
+No Brasil, a utilização de TR em populações-chave na busca de infecções ativas tem
+demonstrado elevada sensibilidade (>97%) nos portadores crônicos de hepatites B (da-
+dos não publicados, Fiocruz) e C (DA ROSA et al., 2013; SCALIONI et al., 2014), além de
+oferecer as vantagens da simplicidade de execução e resultados imediatos. O uso dos TR
+constitui uma ferramenta importante no cenário epidemiológico brasileiro, pois a maior
+parte dos indivíduos é diagnosticada na fase crônica da doença.
+A seguir, estão listadas as situações e locais em que o Departamento de Vigilância,
+Prevenção e Controle das IST, do HIV/Aids e das Hepatites Virais (DIAHV) recomenda a
+utilização de TR:
+› Serviços de saúde sem infraestrutura laboratorial ou localizados em regiões
+de difícil acesso;
+› Instituições da Atenção Primária à Saúde (ex: UBS) e outras instituições per-
+tencentes a Programas do Ministério da Saúde, tais como Rede Cegonha, Pro-
+grama de Saúde da Família, Consultório na Rua, Quero Fazer, dentre outros
+programas;
+› Centro de Testagem e Aconselhamento (CTA), Unidade de Testagem Móvel
+(UTM), Centro de Atenção Psicossocial (Caps), serviços de atendimento de
+emergência, pronto-socorro, hospitais e maternidades;
+› Segmentos populacionais flutuantes;
+› Populações vulneráveisG:
+» Hepatite B: homens que fazem sexo com homens, profissionais do
+sexo, pessoas que usam drogas, pessoas privadas de liberdade, indi-
+víduos em situação de rua, indígenas, quilombolas, indivíduos nasci-
+dos em áreas endêmicasG;
+» Hepatite C: indivíduos com 40 anos de idade ou mais, indivíduos que
+realizaram transfusão, transplante, indivíduos em situação de com-
+partilhamento de material de injeção.
+› ComunicantesG de pessoas vivendo com hepatites virais;
+› Acidentes biológicos ocupacionais;
+› Gestantes durante o pré-natal, parturientes e puérperas;
+› Situação de abortamento espontâneo, independentemente da idade gesta-
+cional;
+› Laboratórios que realizam pequenas rotinas (rotinas com até cinco amostras
+diárias para diagnóstico da infecção pela hepatite B ou C);
+› Pessoas em situação de violência sexual;
+› Outras situações especiais definidas pelo DIAHV para ações de vigilância,
+prevenção e controle das infecções sexualmente transmissíveis (IST), do HIV
+aids e das hepatites virais.
+Federação. A solicitação de testes é feita pelo Sisloglab.
+Sisloglab - Sistema de Controle Logístico de Insumos Laboratoriais
+municipal, estadual e federal para o planejamento da programação, aquisição,
+distribuição e uso de kits.
+Comunique-se com a coordenação de IST, HIV/Aids e Hepatites Virais local para
+receber login e senha de acesso ao SISLOGLAB.
+Desde 1988, a Organização Mundial da Saúde (OMS) realiza avaliações de qualidade
+dos conjuntos diagnósticos disponíveis comercialmente para hepatite B, hepatite C e
+outros agravos. Atualmente, os produtos que atendem aos critérios mínimos de seleção
+who.int/diagnostics_laboratory/publications/evaluations/en/.
+(OMS)
+Sensibilidade: 100%
+Especificidade: ≥98%
+HBsAg1
+Variabilidade entre leituras: ≤5%
+Taxa de inválidos: ≤5%
+Sensibilidade: ≥98%
+Especificidade: ≥97%
+Anti-HCV2
+Variabilidade entre leituras: ≤5%
+Taxa de inválidos: ≤5%
+Fonte: WHO, 2013.
+1Antígeno de superfície do vírus da hepatite B.
+2Anticorpo contra o vírus da hepatite C.
+O Ministério da Saúde adquire e distribui testes rápidos para as hepatites virais des-
+de 2011. Além disso, estabelece os critérios mínimos de sensibilidade e especificidade
+Especificidade clínicaG 99,4% 99,4%
+Sensibilidade clínicaG 99,5% 99,4%
+Fonte: DIAHV/SVS/MS.
+5.1.4 Avaliação Externa da Qualidade dos testes rápidos
+Para garantir a qualidade da execução dos testes rápidos nas unidades de saú-
+de atendidas pelo SUS, o Ministério da Saúde conta com um programa de Avaliação
+Externa da Qualidade. Inscreva sua instituição no programa para avaliar a qualidade da
+ufsc.br/.
+É considerada intercorrência com testes rápidos qualquer observação de ava-
+ria no kit ou a apresentação de resultados falsos. Entende-se por avaria a falta de
+insumos no kit, a mudança de coloração dos reagentes desde que não prevista em
+b ula ou qualquer outra situação inusitada. Conclui-se que um resultado é falso no TR
+na testagem rápida. Portanto, fique atento. Toda intercorrência com os TR deverá ser
+pub/2017/formulario-de-notificacao-de-nao-conformidade-de-teste-rapido-0
+IST/HIV, HIV e Hepatites Virais do seu estado. Caberá a essa coordenação a pri-
+Atendimento ao Cliente - SAC da empresa. Recomenda-se que o fluxo de infor-
+imediato ao diagnóstico do paciente, se necessário, até que a investigação da in-
+tercorrência seja elucidada pelo fabricante.
+5.2 Teste molecular
+A reação em cadeia da polimerase (PCR, do inglês polymerase chain reaction) é uma
+das técnicas mais utilizadas no diagnóstico molecular laboratorial. Por meio dessa téc-
+nica, é possível amplificar uma região de interesse em uma molécula de DNA utilizan-
+do um par de sequências curtas de nucleotídeos (oligonucleotídeos iniciadores) que
+se localizam nos flancos dessa região, em conjunto com uma enzima DNA polimerase
+termorresistente. Dessa forma, podem-se produzir múltiplas cópias dessa região de in-
+teresse. A reação acontece em ciclos, marcados por variações de temperatura que deter-
+minam os eventos da reação: desnaturação, anelamento e polimerização. Na desnatura-
+ção, a alta temperatura (entre 90°C e 95°C) separa as fitas complementares da molécula
+de DNA alvo. O anelamento ocorre a uma temperatura menor (por volta de 55°C) e, nes-
+sa essa fase, os oligonucleotídeos iniciadores se ligam às suas regiões complementares
+nas fitas de DNA alvo. Finalmente, na polimerização (que acontece a 75°C), a DNA poli-
+novas fitas a partir do molde. Cada ciclo será repetido de 40 a 50 vezes e durante cada
+repetição a quantidade de cópias da região alvo irá ser duplicada. A partir daí, o material
+amplificado poderá ser visualizado por meio de diversas técnicas, como eletroforese em
+géis de agarose (NETTO; SAAD; DYSERT, 2003).
+Na PCR em tempo real, podem ser utilizadas sondas ou marcações fluorescentes
+nos próprios oligonucleotídeos; a cada ciclo, a fluorescência liberada é detectada por
+um equipamento específico, capaz de identificar e/ou estimar o quantitativo inicial do
+DNA alvo na reação. O desenvolvimento dessa metodologia foi um grande avanço no
+laboratório clínico de biologia molecular, influenciando áreas como a oncologia e a in-
+fectologia (CHEVALIEZ; RODRIGUEZ; PAWLOTSKY, 2012).
+Na escolha de um teste molecular, deve-se levar em consideração a diversidade
+genética do agente patogênico circulante na população. Esse conhecimento é funda-
+localidade, evitando assim a não detecção de certas populações virais.
+6. PERÍODO DE INCUBAÇÃO E JANELA DIAGNÓSTICA
+Cada um dos vírus hepatotrópicos possui características infecciosas diferenciadas,
+incluindo patogênese e período de incubação. As Tabelas 3 e 4 descrevem o período de
+os testes disponíveis no Brasil para o diagnóstico das hepatites virais, respectivamente.
+5% a 10% em menores
+HAV 15 a 45 dias de 6 anos; Não existem relatos de
+70% a 80% em adultos
+90% em recém-nascidos;
+HBV 30 a 180 dias 30% 5% a 10% após 5 anos de
+HCV 15 a 150 dias Cerca de 20% 70% a 85%
+hepatite B, porém menor
+na superinfecção: 15 a
+56 dias
+15 a 60 dias apenas em indivíduos
+(média de 42 dias) imunossuprimidos/
+Fonte: DIAHV/SVS/MS.
+HAV1 5 a 10 dias1 - -
+HBV2 30 a 60 dias 30 dias (HBsAg) 25 dias
+HCV3 33 a 129 dias2 22 a 30 dias 22 dias
+HDV4 84 dias - -
+HEV5 14 dias - -
+Fonte: DIAHV/SVS/MS.
+1Os anticorpos IgM anti-HAV podem se tornar indetectáveis após a fase aguda.
+2Janela referente aos ensaios de segunda geração; os ensaios de terceira e quarta geração podem apresentar período
+menor de janela.
+7. FLUXOGRAMAS PARA O DIAGNÓSTICO LABORATORIAL DAS
+Um algoritmoG é composto por uma sequência de instruções bem definidas a se-
+rem executadas para que se possa completar uma tarefa. Graficamente, o algoritmo pode
+ser representado por um fluxogramaG, constituído de formas geométricas e linhas que
+demonstram a transição de tarefas e informações entre os elementos que o compõem.
+claras as orientações para o diagnóstico e tratamento de doenças ou infecções.
+O diagnóstico sorológico das doenças infecciosas pode ser realizado com, pelo
+menos, dois testes, um para triagem e um segundo confirmatório. Dois ou mais testes
+combinados, formando um fluxograma, têm o objetivo de aumentar o valor preditivo
+positivoG (VPP) de um resultado reagente no teste inicial. Na maioria das situações, o
+fluxograma mais comumente utilizado inclui o emprego de testes em série ou sequen-
+ciais (fluxograma em série). Por outro lado, ao definirmos o fluxograma como “um mé-
+todo para resolver um problema utilizando um número definido de etapas”, fica claro
+confirmação da infecção pelas hepatites virais, nas diferentes configurações de testes e
+perfis de pacientes que esse diagnóstico requer.
+Nos fluxogramas de diagnóstico, a conclusão do fluxograma como não reagente é
+liberada com base no resultado de um único teste. Entretanto, caso persista a suspeita da
+infecção, uma nova amostra deverá ser coletada 30 dias após a data da coleta da primeira
+amostra. A conclusão do fluxograma como reagente, no caso das hepatites virais B e C, só
+deverá ser liberada com base no resultado de, pelo menos, dois testes sequenciais.
+No caso de resultados discordantes, os testes devem ser repetidos e, permanecen-
+do a discordância, a pessoa deve ser testada após aproximadamente 30 dias para confir-
+mar ou descartar a infecção. Finalmente, é importante selecionar a correta combinação
+de testes para garantir o diagnóstico preciso.
+Neste Manual Técnico serão apresentados oito fluxogramas para a testagem das he-
+patites virais, considerando a melhor relação custo-efetividadeG para as diversas situa-
+ções nas quais se faz necessária a realização do diagnóstico da infecção, e suas respec-
+tivas fundamentações técnicas. Por esse motivo, são indicados pelo DIAHV como sendo
+os de primeira escolha nas situações para as quais está recomendada a sua aplicação.
+A orientação para o diagnóstico da infecção pelo HAV e os Fluxogramas 2 e
+5 são os preferenciais para serem adotados pelos serviços quando estes se depa-
+ram com pedidos médicos que solicitam “sorologia de hepatite”, sem explicitar
+quais os marcadores a serem investigados. Esses fluxogramas agilizam o diagnós-
+tico da infecção e também apresentam a melhor resolutividade.
+8. VÍRUS DA HEPATITE A (HAV)
+A principal via de contágio do HAV é a fecal-oral, por contato inter-humano ou por
+meio de água e alimentos contaminados. Contribuem para a transmissão a estabilida-
+indivíduos infectados. A transmissão por via parenteralG é rara, mas pode ocorrer se o
+doador estiver na fase de viremia do período de incubação. A disseminação está rela-
+higiene praticadas. Nas regiões com mais problemas de infraestrutura de saneamento
+básico e de tratamento da água, as pessoas são expostas ao HAV em idades mais pre-
+coces, apresentando formas subclínicas ou anictéricas da doença. Na maioria dos casos,
+a hepatite A é autolimitada e de caráter benigno, sendo que a insuficiência hepática
+aguda grave ocorre em menos de 1% dos casos. Esse percentual é maior em pacien-
+tes idosos. Normalmente, os pacientes mais velhos apresentam a forma sintomática da
+doença, com resolução lenta.
+Pessoas que já tiveram hepatite A apresentam imunidade para essa doença, mas
+permanecem susceptíveis às outras hepatites virais (BRASIL, 2009).
+Embora a transmissão sexual do HAV não seja comum, foram reportados surtos de
+hepatite A relacionados à transmissão sexual nas Américas e na Europa. A existência
+desses eventos indica a necessidade de atenção por parte da vigilância epidemiológica,
+principalmente junto a populações-chave para IST (ECDC, 2017; WHO, 2017a).
+8.1 Partícula viral
+O HAV pertence à família Picornaviridae, sendo representante único do gênero
+Hepatovirus (ICTV, 2014). O HAV é formado por um capsídeo de formato icosaédrico
+composto pelas proteínas estruturais VP1, VP2 e VP3, o qual envolve o genoma viral
+(GASPAR; VITRAL; DE OLIVEIRA, 2013) (Figura 1).
+Figura 1. Estrutura da partícula do vírus da hepatite A (HAV)
+Fonte: BRASIL, 2014.
+O genoma do HAV é constituído por uma molécula de RNA de fita simples, com
+polaridade positiva, que também funciona como RNA mensageiro, com aproximada-
+mente 7,5 kilobases (kb). O genoma viral apresenta uma única fase de leitura aberta
+(ORFG, do inglês open reading frame), com três regiões distintas (P1, P2 e P3), flanqueada
+por regiões não traduzidas (NT): a região 3´NT e a 5´NT. A ORF é traduzida em uma única
+poliproteína com, aproximadamente, 2.225 aminoácidos. Seguindo a região 5´NT, a re-
+gião P1 codifica as três principais proteínas estruturais do capsídeo, VP1, VP2 e VP3. Uma
+quarta proteína viral do capsídeo, a VP4, que é essencial para a formação do vírionG, não
+é detectada nas partículas virais maduras. As proteínas não estruturais necessárias para
+replicação viral são codificadas pelas regiões P2 (2A, 2B, 2C) e P3 (3A, 3B, 3Cpro, 3Dpol)
+(Figura 2). O processamento da poliproteína ocorre simultaneamente à tradução, sob a
+atividade da protease viral 3Cpro (GASPAR; VITRAL; DE OLIVEIRA, 2013; LEMON, 1997;
+NAINAN et al., 2006).
+Figura 2. Representação esquemática da organização genômica do vírus da hepatite A (HAV)
+Fonte: Adaptado de DOMINGO; PARRISH, HOLLAND, 2008.
+8.2 Ciclo replicativo
+Após o contato inicial com as células do fígado, o vírus é internalizado por meio de
+vesículas. Uma vez no citoplasma, ocorre uma alteração no pH do interior dessas vesí-
+culas, que irão conduzir a liberação do RNA do vírus no citoplasma. A partir daí o ma-
+quinário celular irá produzir a poliproteína viral a partir do RNA viral. Para a replicação
+do genoma, o HAV sintetiza uma cópia de RNA complementar de polaridade negativa
+(intermediário replicativo), a qual servirá de molde para a síntese de novas fitas de po-
+laridade positiva. A síntese das fitas positivas ocorre dentro do retículo endoplasmático
+liso e é auxiliada pelas proteínas não estruturais recém-formadas. Essas novas moléculas
+de RNA positivas podem ser traduzidas para a síntese de novas proteínas virais, servir
+de molde para a síntese de outras proteínas virais ou, ainda, ser empacotadas para a
+formação de novas partículas virais.
+A última etapa do ciclo replicativo consiste na montagem da partícula viral. As três
+proteínas do capsídeo, VP1, VP2 e VP3, são montadas em uma estrutura icosaédrica,
+contendo 60 cópias de cada proteína (GASPAR; VITRAL; DE OLIVEIRA, 2013).
+A Figura 3 ilustra as principais etapas do ciclo replicativo do HAV.
+Figura 3. Ciclo replicativo do vírus da hepatite A (HAV)
+Fonte: BRASIL, 2014.
+8.3 Variabilidade genética
+Estudos de variabilidade genética do HAV permitiram sua classificação em seis ge-
+nótipos: três de origem humana (I, II e III) e três de origem símia (IV, V e VI) (GASPAR;
+VITRAL; DE OLIVEIRA, 2013; NAINAN et al., 2006).
+A distribuição geográfica dos genótipos do HAV é variável. O genótipo I apresenta
+distribuição global. Na América do Norte, China, Japão e diversos países da Europa, os
+subgenótipos IA e IB são os mais frequentes. Já na América do Sul, observa-se a circula-
+ção exclusiva do subgenótipo IA (GASPAR; VITRAL; DE OLIVEIRA, 2013). Diferentemente
+do restante da América do Sul, no Brasil é possível identificar os genótipos IA e IB em
+circulação (VILLAR et al., 2006).
+8.4 História natural da doença
+A manifestação da hepatite A é abrupta e os sintomas da doença incluem: indispo-
+sição, fadiga, anorexia, náuseas, vômito, desconforto abdominal, febre, urina escura, fe-
+zes pálidas e icterícia do recobrimento conjuntival da esclera (LEMON, 1997; MATHENY;
+KINGERY, 2012; NAINAN et al., 2006). Pode ainda ocorrer diarreia em cerca de metade
+das crianças infectadas, o que, entretanto, é incomum em adultos (LEMON, 1997).
+Por causa da sua capacidade de resistir ao pH ácido, o HAV passa pelo estôma-
+go, replicando-se no trato digestivo, e atravessa o epitélio intestinal, chegando às vias
+mesentéricas e ao fígado pelo sistema porta. O vírus se replica no hepatócito e é ex-
+cretado pelos canais biliares, atingindo o intestino por meio da bile, onde, finalmente,
+é eliminado nas fezes (NAINAN et al., 2006). Apesar da possibilidade de existência de
+replicação extra-hepática, o vírus da hepatite A é órgão-específico, e a patologia rela-
+cionada à infecção está praticamente restrita ao fígado (GASPAR; VITRAL; DE OLIVEIRA,
+2013; NAINAN et al., 2006).
+A idade na qual se dá o contato com o vírus exerce importante influência na evolu-
+ção clínica. A infecção, quando ocorre em crianças menores de seis anos, está, frequen-
+temente, associada a quadro clínico pouco sintomático ou assintomático. Já a infecção
+em indivíduos com mais de 50 anos evolui de forma mais grave e sintomática, ocorren-
+do icterícia em mais de 70% dos pacientes. O período de incubação é, em média, de 28
+dias, podendo variar de 15 a 50 dias. Não existem relatos de infecção por HAV levando
+a hepatite crônica ou hepatocarcinoma. No entanto, existem casos de evolução para
+hepatite fulminante (GASPAR; VITRAL; DE OLIVEIRA, 2013).
+Durante a fase aguda, ocorre replicação viral inicial, acompanhada de eliminação
+fecal do vírus. A fase de transmissão da infecção pode acontecer a partir de duas sema-
+nas antes, até pelo menos uma semana após o início da icterícia, de outros sintomas
+clínicos ou da elevação dos níveis das enzimas hepáticas. O vírus pode ser detectado nas
+fezes após cerca de uma a duas semanas após a exposição ao HAV e persiste, em mé-
+dia, por 79 dias após o pico de ALT (GASPAR; VITRAL; DE OLIVEIRA, 2013; NAINAN et al.,
+2006). O período total da viremia é, em média, de 79 dias (variando de 36 a 391 dias). A
+concentração viral no soro é de duas a três unidades logarítmicas (log ) menor que nas
+fezes. O vírus também é liberado na saliva da maioria dos pacientes, mas nenhum dado
+HAV (NAINAN et al., 2006).
+A infecção por HAV, tradicionalmente, é dividida em duas fases. A primeira consiste
+na fase não citopática, durante a qual a replicação viral ocorre exclusivamente no cito-
+plasma do hepatócito. A segunda corresponde à fase citopática, a qual apresenta infil-
+tração no tecido hepático. O dano hepatocelular não é resultado de um efeito citopático
+direto do HAV, mas de um processo mediado pela resposta imune do hospedeiro. Uma
+resposta imunológica forte, que que se reflete em uma redução acentuada do RNA viral
+durante a infecção aguda, está associada com a hepatite aguda e, eventualmente, com
+a forma fulminante da doença (DA CONCEIÇÃO; SICILIANO; FOCACCIA, 2013).
+8.5 Resposta imune contra o HAV
+As respostas imunes humorais e celulares costumam manifestar-se pouco antes da
+elevação das transaminases (Figura 4). A imunoglobulina da classe IgM anti-HAV pode
+cerca de três a seis meses, tornando-se indetectável pelos testes diagnósticos comerciais
+disponíveis. A imunoglobulina da classe IgG anti-HAV surge logo após o aparecimento
+da IgM e pode persistir indefinidamente, conferindo imunidade ao indivíduo. Dessa for-
+ma, na fase aguda de infecção, são encontradas ambas IgM e IgG. Em indivíduos previa-
+mente infectados, encontra-se somente a IgG (DA CONCEIÇÃO; SICILIANO; FOCACCIA,
+2013).
+Figura 4. Curso natural da infecção pelo vírus da hepatite A (HAV)
+Fonte: MATHENY; KINGERY, 2012.
+Os anticorpos neutralizantes representam o principal mecanismo de proteção con-
+tra o vírus. Estes podem ser adquiridos após uma infecção resolvida ou por vacinação
+(CUTHBERT, 2001).
+8.6 Diagnóstico
+O diagnóstico da infecção pelo vírus da hepatite A é realizado por meio de imu-
+noensaios que detectam anticorpos contra o vírus em amostras de soro. A detecção de
+anticorpos do tipo IgM sugere uma infecção recente. Esses testes são capazes de detec-
+tar o anti-HAV IgM entre cinco e dez dias após a infecção. A detectabilidade se mantém
+por um período entre quatro e seis meses após o contato com o vírus, quando os títu-
+los desses anticorpos caem a níveis indetectáveis. Os imunoensaios para IgM anti-HAV
+apresentam sensibilidade de 100%, especificidade de 99% e valor preditivo positivo de
+88%. Resultados falso-reagentes podem ocorrer e, portanto, o teste sorológico deve ser
+realizado apenas em indivíduos sintomáticos.
+Os testes para anti-HAV total (IgM e IgG) ou para o anti-HAV IgG permanecem rea-
+gentes após a infecção ou imunização durante toda a vida do paciente, sendo úteis ape-
+nas para identificar indivíduos em risco por não terem sido previamente imunizados.
+infectados enquanto houver viremia (CUTHBERT, 2001; MATHENY; KINGERY, 2012).
+Os anticorpos IgG anti-HAV podem ser detectados no fluido oral (FO), soro, urina e
+fezes. Os testes que utilizam FO são indicados como uma alternativa ao teste sorológico
+convencional, devido à simplicidade da coleta de amostra. Estudos já demonstraram
+de surtos e em estudos epidemiológicos. A sensibilidade de detecção do anti-HAV IgG
+no FO é de uma a três unidades logarítmicas menores que no soro, e, entretanto, essa
+sensibilidade ainda é aceitável para utilização nas situações acima (NAINAN et al., 2006).
+8.7 Orientações para o diagnóstico da infecção pelo vírus da hepatite A (HAV)
+Conforme o “Boletim Epidemiológico de Hepatites Virais” (BRASIL, 2017b), a maior
+parte dos casos de infecção pelo HAV se concentram na faixa etária de 0 a 14 anos.
+A infecção pelo HAV é um agravo imunoprevenível, e todas as pessoas não vacinadas
+são susceptíveis à infecção. Aqueles que conseguem se recuperar da infecção adquirem
+imunidade duradoura contra o HAV. Os casos de infecção estão, na maior parte das ve-
+zes, associados a condições precárias de saneamento básico e higiene. Também já foram
+relatados casos de transmissão sexual do HAV. Dada a natureza aguda e autolimitante
+da infecção, recomenda-se que a investigação seja realizada utilizando a pesquisa pelo
+anticorpo IgM contra o HAV (anti-HAV IgM).
+Deve-se utilizar a pesquisa por esse marcador quando houver uma solicitação para
+“sorologia da hepatite A”, “diagnóstico de HAV” ou termos afins.
+A pesquisa pelo anti-HAV IgM deve ser realizada em conjunto com os Fluxogramas
+2 e 5, indicados para o diagnóstico da infecção pelo HBV e pelo HCV, quando houver
+uma solicitação para “sorologia de hepatite” sem explicitar quais os marcadores a
+ser investigados.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com resultado não reagente no imunoensaio para IgM anti-HAV será de-
+finida como: “Amostra não reagente para HAV IgM”.
+A amostra com resultado reagente no imunoensaio para IgM anti-HAV será definida
+como: “Amostra reagente para HAV IgM”. O laudo deverá ser emitido com a seguinte
+ressalva: “O resultado reagente para o HAV IgM indica infecção aguda pelo vírus da
+hepatite A”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, o ponto de corte (CO, do inglês cut-off) e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+› As orientações acima destinam-se à investigação de uma infecção aguda
+pelo HAV. Caso o indivíduo não esteja na fase aguda da infecção, o resultado
+do anti-HAV IgM poderá ser não reagente.
+› O resultado reagente em uma amostra na pesquisa pelo anticorpo IgM anti-
+HAV sugere exposição recente ao HAV.
+› Os resultados dos testes devem ser avaliados com cuidado quando se tratar
+de investigação da infecção pelo HAV em indivíduos imunossuprimidos/
+imunodeprimidosG.
+9. VÍRUS DA HEPATITE B (HBV)
+A transmissão do HBV se dá por via parenteral e, sobretudo, pela via sexual, sendo
+a hepatite B considerada uma IST. Dessa forma, o HBV pode ser transmitido por solução
+de continuidade (pele e mucosa), relações sexuais desprotegidas e por via parenteral
+(compartilhamento de agulhas e seringas, tatuagens, piercings, procedimentos odonto-
+lógicos ou cirúrgicos, etc.). Outros líquidos orgânicos, como sêmen, secreção vaginal e
+leite materno podem igualmente conter o vírus e constituir fontes de infecção. A trans-
+missão vertical (de mãe para filho) também é causa frequente de disseminação do HBV
+em regiões de alta endemicidade. De maneira semelhante às outras hepatites, as infec-
+ções causadas pelo HBV são habitualmente anictéricas. A cronificação da doença, ou
+seja, a persistência do vírus por mais de seis meses, ocorre em, aproximadamente, 5% a
+10% dos indivíduos adultos infectados. Caso a infecção ocorra por transmissão vertical,
+o risco de cronificação dos recém-nascidos de gestantes com evidências de replicação
+viral (HBeAg reagente e/ou HBV DNA >104) é de cerca de 70% a 90%, e de 10% a 40%
+nos casos sem evidências de replicação do vírus. Cerca de 70% a 90% das infecções
+ocorridas em menores de cinco anos se cronificam, e 20% a 25% dos casos crônicos
+com evidências de replicação viral evoluem para doença hepática avançada (cirrose e
+hepatocarcinoma). Uma particularidade dessa infecção viral crônica é a possibilidade de
+evolução para câncer hepático, independentemente da ocorrência de cirrose, fato con-
+siderado pré-requisito nos casos de surgimento de carcinoma hepatocelular nas demais
+infecções virais crônicas, como a hepatite C.
+9.1 Partícula viral
+O HBV pertence à família Hepadnaviridae (vírus de DNA hepatotrópicos), que inclui
+vírus capazes de infectar diferentes animais. A partícula viral infecciosa do HBV (Figura
+5) tem, aproximadamente, 42nm e inclui um nucleocapsídeo proteico (HBcAg) de apro-
+ximadamente 27nm. A partícula viral é envolta por um envelope lipoproteico originado
+da última célula infectada pelo vírus, contendo as três formas do antígeno de superfície
+viral (HBsAg). Ainda dentro da partícula, está presente a enzima DNA polimerase viral,
+que irá completar o genoma do vírus durante a infecção (FIELDS; KNIPE; HOWLEY, 2007).
+Figura 5. Estrutura da partícula do vírus da hepatite B (HBV)
+Fonte: BRASIL, 2014.
+O genoma do HBV (Figura 6) é composto por uma molécula de DNA parcialmente
+duplicada de, aproximadamente, 3.200 pares de bases (3,2kb). O genoma viral possui
+quatro fases de leitura aberta (ORF) para a produção das proteínas virais: capsídeo, en-
+velope, DNA polimerase e proteína regulatória X. A tradução do produto da ORF que
+codifica a proteína de envelope pode produzir as três formas dessa proteína: pequena
+(pré-S1), média (pré-S2) e grande (S). As três formas da proteína de envelope do vírus da
+hepatite B dão origem ao antígeno “s” do vírus da hepatite B (HBsAg). A ORF da proteína
+de capsídeo pode ser traduzida tanto na região pré-core (PréC) quanto na região do
+capsídeo (ou core). Os produtos de PréC são processados no retículo endoplasmático e
+um dos produtos de processamento é secretado da célula, dando origem ao antígeno
+“e” do vírus da hepatite B (HBeAg) (FIELDS; KNIPE; HOWLEY, 2007; LIANG, 2009).
+9.2 Variabilidade genética
+Apesar de o HBV ser um vírus de DNA, a ausência de atividade revisora da DNA
+polimerase viral (que também tem função de transcriptase reversa) lhe confere uma
+grande diversidade genética. O genoma viral é complexo, contando com quatro fases
+de leitura aberta sobrepostas que codificam as proteínas virais (Figura 6). São identifi-
+cados oito genótipos do vírus, denominados pelas letras de A até J, com distribuição
+geográfica distinta, podendo apresentar uma divergência de 8% ou mais em relação às
+suas sequências nucleotídicas completas (MELLO et al., 2007; SABLON; SHAPIRO, 2005;
+TATEMATSU et al., 2009; TRAN; TRINH; ABE, 2008).
+Figura 6. Representação esquemática da organização genômica do vírus da hepatite B (HBV)
+Fonte: BRASIL, 2014.
+Nota: o esquema mostra as fases de leitura aberta (open reading frames - ORF) existentes.
+A história evolutiva do HBV ainda não foi totalmente elucidada, mas estudos basea-
+dos em reconstruções filogenéticas do vírus estimam que a divergência entre os sub-
+tipos tenha ocorrido há menos de 6.000 anos. Ainda são necessárias análises extensas
+para que as divergências evolutivas do vírus sejam identificadas (GÜNTHER, 2006).
+Segundo estimativas baseadas em doadores de sangue, a distribuição dos genóti-
+pos no Brasil é variada, com circulação predominante dos genótipos A, D e F (ARAÚJO
+et al., 2004; MELLO et al., 2007).
+9.3 Ciclo replicativo
+O HBV é capaz de infectar, primariamente, células hepáticas. Os receptores de mem-
+brana usados pelo vírus ainda não estão completamente elucidados. O ciclo replicativo
+viral encontra-se esquematicamente representado na Figura 7. Após o reconhecimento
+dos receptores, a partícula viral é internalizada por endocitose, o envelope viral é remo-
+vido e o capsídeo é liberado no citoplasma. Após ser transportado para o poro nuclear,
+o capsídeo libera o genoma no interior do núcleo celular. Uma vez no núcleo, o genoma
+covalentemente fechado (cccDNA, do inglês circular covalently closed DNA). Essas molé-
+culas se mantêm de forma epissômica no núcleo celular e são usadas pela RNA polime-
+rase II celular para transcrever RNA mensageiros pré-genômicos e subgenômicos, que
+são transportados ao citoplasma para ser traduzidos em proteínas virais. Essas últimas
+são usadas para a produção de novas partículas virais, ou são encapsuladas nas partícu-
+las nascentes junto à polimerase viral para, então, serem submetidas a retrotranscrição,
+gerando assim novos genomas virais (FIELDS; KNIPE; HOWLEY, 2007).
+Figura 7. Ciclo replicativo do vírus da hepatite B (HBV)
+Fonte: Adaptado de GERLICH, 2013.
+Os capsídeos virais montados podem migrar novamente para o núcleo, liberando
+novos genomas virais no nucleoplasma, ou podem ser usados para a montagem de
+novos vírions em corpos multivesiculares, que serão liberados no meio extracelular.
+Adicionalmente, partículas subvirais são liberadas pela via trans-Golgi. Tais partículas
+podem ser filamentosas ou esféricas e, diferentemente da partícula de Dane (partícula
+viral completa), não são infecciosas (Figura 8). Essas partículas subvirais correspondem
+HBV (GERLICH, 2013; LEE; AHN, 2011).
+Figura 8. Representação esquemática da estrutura das partículas virais e subvirais do vírus da
+hepatite B (HBV)
+Fonte: Adaptado de LEE; AHN, 2011.
+9.4 História natural da doença
+A hepatite B pode se apresentar de forma aguda ou crônica nos indivíduos infec-
+tados. As hepatites agudas benignas costumam ser identificadas pelo aumento dos
+níveis séricos das aminotransferases, o que leva o indivíduo a apresentar sintomas de
+uma infecção viral inespecífica, com leves alterações gastrintestinais. Após essa fase ini-
+cial, pode ocorrer a forma ictérica da doença, seguida de uma fase de convalescença,
+com melhora progressiva do quadro clínico do indivíduo (GONÇALVES JUNIOR, 2013).
+Tipicamente, durante a hepatite B aguda, o DNA viral pode ser detectado no sangue
+com o uso de técnicas moleculares durante um período de um mês a partir da infecção.
+No entanto, por um período de seis semanas, esses níveis serão relativamente baixos -
+102 a 104 cópias de genoma viral por mililitro. Os picos de detecção para o DNA do HBV
+e dos antígenos virais (HBeAg e HBsAg) acontecem após esse período de seis semanas. A
+presença dos antígenos virais é variável e, dependendo da fase da doença, eles poderão
+não ser detectados (ASPINALL et al., 2011). A primeira resposta humoral, normalmente,
+ocorre contra o antígeno core do HBV (HBcAg) e os anticorpos IgM surgem precoce-
+mente. Mais tardiamente, surgem os anticorpos IgG-Anti-HBc, que persistem por toda a
+vida do paciente, independentemente do curso da infecção. Entre 10 e 15 semanas após
+a infecção, os níveis séricos de ALT e AST começam a se elevar, indicando dano hepático
+mediado por resposta a células T. Experimentos em animais demonstraram que o DNA
+atingido (GUIDOTTI et al., 1999). No entanto, técnicas moleculares modernas são capa-
+zes de detectar uma carga viralG abaixo de 100 cópias de genomas virais por mililitro
+de sangue (SILVA et al., 2004). Mais de 90% dos adultos infectados conseguem reverter
+circulantes, que garantem proteção de longo prazo contra a doença. Apesar da recupe-
+ração clínica, o DNA do HBV ainda pode ser detectado em níveis basais e sua expressão
+é controlada pela imunidade humoral e celular (FIELDS; KNIPE; HOWLEY, 2007). No caso
+da ocorrência de mutantes nas regiões pré-core e core basal, a expressão do HBeAg será
+alterada e esse marcador pode não ser detectado, assim como não ocorrerá a sorocon-
+versão para o anti-HBe (SITNIK; PINHO, 2004).
+A infecção crônica pelo HBV ocorre, primariamente, por transmissão vertical ou pela
+infecção na infância. A infecção do feto ou do neonato pelo HBV é dependente do esta-
+do imune e da carga viral da mãe. Situações que levam à mistura do sangue da mãe e do
+feto também possibilitam a infecção (JONAS, 2009). Para mais informações, consultar o
+“Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de
+HIV, Sífilis e Hepatites Virais” (BRASIL, 2017e).
+indivíduo por um período de seis meses ou mais. Durante o curso da infecção, podem
+ocorrer integrações de parte do genoma do HBV ao genoma do hospedeiro; é possível
+haver indivíduos com HBsAg circulante, mesmo com replicação viral mínima ou inexis-
+tente no fígado. Por isso, o critério de definição da infecção crônica com base na pre-
+(ASPINALL et al., 2011; BRASIL, 2016; SEEGER; MASON, 2000).
+vírus da hepatite B (HBsAg) detectável é denominada de infecção oculta pelo vírus da
+hepatite B (IOBG). Estudos afirmam que a prevalência desse tipo de infecção é reduzi-
+da na população geral, sendo mais presente entre pessoas que usam drogas injetáveis,
+pessoas imunossuprimidas e pessoas que fazem hemodiálise (FERREIRA et al., 2009;
+MATOS et al., 2013; OCANA et al., 2011; SILVA et al., 2004).
+De forma geral, a infecção crônica pelo HBV pode ser dividida em quatro fases
+(BRASIL, 2017c):
+› Imunotolerância: ocorre elevada replicação viral, com tolerância do sistema
+imune e sem evidência de agressão hepatocelular (transaminases normais
+ou próximas do normal);
+› Imunorreação: com o esgotamento da tolerância imunológica, ocorre agres-
+são aos hepatócitos, nos quais ocorre a replicação viral, gerando elevação das
+transaminases;
+› Portador inativo: essa fase é caracterizada por níveis baixos ou indetectáveis
+de replicação viral, com normalização das transaminases e, habitualmente,
+soroconversão para anti-HBe. O escape viral pode ocorrer por integração do
+imunológica do hospedeiro, seja por meio de mutações virais, seja por tratar-
+-se de pacientes imunodeprimidos;
+› Reativação: em seguida à fase do portador inativo, pode ocorrer reativação
+viral, com retorno da replicação.
+A hepatite B é uma doença imunoprevenível; a vacina, altamente eficiente, é dispo-
+nibilizada pelo governo brasileiro em seus serviços de saúde, fazendo parte do calen-
+dário de vacinações infantis. Qualquer indivíduo que se enquadre nos critérios estabe-
+lecidos pelo Ministério da Saúde tem acesso à vacina. Para mais informações, consultar
+campanhas/pni/) e o “Manual dos Centros de Referência em Imunobiológicos Especiais”
+Listam-se a seguir outras formas de prevenir a infecção:
+› Adotar práticas sexuais mais seguras, com o uso de preservativo;
+› Não compartilhar objetos de uso pessoal, como lâminas de barbear e depilar,
+escovas de dente, material de manicure e pedicure;
+› Não compartilhar agulhas e seringas;
+› Não reutilizar material para confecção de tatuagem e colocação de piercings.
+9.5 Resposta imune
+A infecção pelo HBV pode ser espontaneamente curada (desaparecimento viral) an-
+tes do desenvolvimento de uma resposta imune humoral. O papel da resposta imune
+inata na resolução da infecção pelo HBV ainda não está totalmente elucidado. No entan-
+to, esta não pode ser descartada, em virtude de observações laboratoriais em que o HBV
+imune adaptativa (GUIDOTTI et al., 1999). Os efeitos antivirais dos interferonsG de tipo
+I (IFN-α e IFN-β) já foram demonstrados em laboratório. Nesses modelos laboratoriais,
+o IFN-α e o IFN-β foram capazes de induzir um mecanismo de inibição na formação de
+novos capsídeos do HBV, bem como de desestabilizar os capsídeos existentes e degra-
+dar RNA do HBV recentemente sintetizado (MCCLARY et al., 2000). Adicionalmente, a
+inibição da replicação do HBV pode também ser mediada pela ação do IFN-γ, que é pro-
+duzido por células NK e por células T ativadas (BARON et al., 2002; KAKIMI et al., 2001).
+Pacientes capazes de recuperar-se espontaneamente da infecção pelo HBV, normal-
+mente, apresentam uma resposta imunológica vigorosa e multi-epitopo, mediada por
+células T CD4+ e CD8+ detectáveis no sangue circulante. Essa resposta de CD8+ é deter-
+minante na recuperação do paciente (KAKIMI et al., 2001; THIMME et al., 2003).
+Anticorpos específicos contra o HBV, juntamente com a pesquisa por antígenos e
+ácidos nucleicos virais, são importantes indicadores para estágios específicos da doença
+(Figura 9). A IgM anti-HBc é um marcador do início da infecção, enquanto que anticor-
+infecção (FUNG et al., 2014; MARUYAMA et al., 1993) . Estudos recentes mostram que a
+doença hepática causada pelo HBV (GONÇALVES JUNIOR, 2013; NGUYEN; KEEFFE, 2008;
+NGUYEN; LOCARNINI, 2009). Os anticorpos anti-HBs são neutralizantes e capazes de me-
+diar imunidade preventiva, sendo induzidos pela vacinação. Os anticorpos anti-HBc e
+anti-HBs persistem por longos períodos no indivíduo, sendo que o anticorpo anti-HBs
+confere proteção contra o vírus (MARUYAMA et al., 1993).
+Figura 9. Evolução dos marcadores do vírus da hepatite B (HBV) nas infecções agudas e crônicas
+Fonte: Adaptado de SABLON; SHAPIRO, 2005.
+Apesar da ação protetora da imunidade adquirida por meio da infecção pelo HBV,
+traços do vírus podem ser detectados na corrente sanguínea de alguns indivíduos, indi-
+cando manutenção da replicação viral. Essa viremia seria controlada pela resposta imu-
+ne celular e humoral. Um fato que corrobora essa hipótese é a observação de reativação
+do HBV em alguns indivíduos imunossuprimidos/imunodeprimidosG em virtude de
+quimioterapia (KAWATANI et al., 2001; LAU, 2002). Essa viremia residual pode estar en-
+volvida na manutenção da imunidade específica ao HBV em indivíduos que se recupe-
+ram da infecção (REHERMANN et al., 1996).
+Durante o curso da infecção, podem ser selecionadas variantes do HBV que pos-
+suem mutações nos epítopos imunogênicos virais. Apesar de estarem predominante-
+mente relacionadas ao escape da imunidade induzida por vacinação, essas variantes
+se mantêm em baixos títulos, não afetando, necessariamente, a recuperação clínica do
+paciente. Mesmo na hepatite B crônica, tais variantes não são comuns, sendo observa-
+das apenas nos indivíduos que apresentam respostas imunes vigorosas e direcionadas,
+o que pode exercer uma forte pressão seletiva sobre essas populações virais, possibili-
+tando a sua emergência (GUIDOTTI et al., 1996; REHERMANN et al., 1995).
+9.6 Diagnóstico
+indicar diferentes estágios da infecção pelo HBV: infecção aguda, infecção crônica, res-
+suspeita de infecção pelo vírus B, o Ministério da Saúde recomenda a execução dos flu-
+xogramas de diagnóstico ilustrados nos itens 9.7.1, 9.7.2 ou 9.7.3 a fim de tornar rápi-
+do o encaminhamento do paciente a um especialista, quando necessário. A solicitação
+pelo “Protocolo Clínico e Diretrizes Terapêuticas para Hepatite B e Coinfecções” (BRASIL,
+2017c). Quando da solicitação de marcadores da infecção, é preciso sempre ponderar o
+critério para definição de hepatite B crônica, que é a detecção do HBsAg em dois exames
+consecutivos, executados em um espaço de pelo menos seis meses.
+Anti-HBc IgM Não reagente Ausência de contato prévio com o HBV
+Anti-HBc total Não reagente Susceptível à infecção pelo HBV
+Anti-HBs Não reagente
+Anti-HBc IgM Não reagente
+Anti-HBc total Reagente
+Anti-HBs Reagente
+Anti-HBc IgM Não reagente
+Anti-HBc total Não reagente
+Anti-HBs Reagente
+HBsAg1 Reagente
+Anti-HBc IgM Reagente Infecção recente pelo HBV (menos de seis
+Anti-HBc total Reagente/Não reagent meses)
+Anti-HBs Não reagente
+HBsAg1 Reagente
+Anti-HBc IgM Não reagente
+Anti-HBc total Reagente/Não reagent
+Anti-HBs Não reagente
+Fonte: DA CONCEIÇÃO; SICILIANO; FOCACCIA, 2013.
+1A hepatite B crônica é definida pela presença continuada do HBsAg no sangue por um período superior a seis meses.
+Os marcadores sorológicos circulantes podem ser detectados no soro, plasma ou
+sangue de pacientes infectados, por meio de imunoensaios que apresentam, em média,
+especificidade acima de 99% e sensibilidade acima de 98%. O HBsAg também pode ser
+detectado por meio de testes rápidos (TR), que usam a tecnologia de imunocromato-
+grafia de fluxo lateral.
+HBsAg, enquanto o anti-HBc é detectado apenas por imunoensaio laboratorial. Com
+raras exceções, ambos os marcadores estão presentes em todas as fases da infecção
+pelo HBV.
+No curso da infecção pelo HBV, o HBsAg é produzido em grandes quantidades e
+pode ser detectado no sangue da maioria dos indivíduos infectados cerca de 30 dias
+após a infecção. A cronificação da infecção é definida pela persistência do vírus, ou seja,
+pela presença do HBsAg por mais de seis meses, detectada por meio de testes labo-
+ratoriais ou TR. O anti-HBc total, isoladamente, indica contato prévio com o vírus. Por
+isso, o resultado reagente desse marcador não pode ser interpretado sem a realização
+de outros marcadores diretos da presença do vírus. Além disso, a janela imunológicaG
+para os anticorpos contra o core viral é de aproximadamente 45 dias, posterior ao apa-
+recimento do HBsAg.
+Além dos imunoensaios laboratoriais e dos TR, os testes moleculares oferecem uma
+alternativa para a detecção cada vez mais precoce da infecção pelo HBV. Esses ensaios
+também servem para a confirmação de casos de hepatite B em que o HBsAg não é de-
+tectado, como, por exemplo, nos casos de infecção oculta pelo HBV.
+real, que possuem limite de detecção médio de 10 UI/mL de plasma ou soro e especifi-
+cidade acima de 99% (CALIENDO et al., 2011; ISMAIL et al., 2011).
+Conforme a Portaria MS nº 158, de 4 de fevereiro de 2016 (DOU 05/02/2016, nº 25,
+seção 1, pág. 37), amostras de banco de sangue devem ser investigadas utilizando testes
+de ácidos nucleicos (NAT). Indivíduos com amostras reagentes para ambos os marcado-
+ser avaliado. Amostras reagentes para apenas um dos marcadores devem também ser
+encaminhadas ao serviço de saúde para confirmação diagnóstica, usando um dos fluxo-
+gramas disponíveis e avaliando a necessidade de vacinação do indivíduo.
+Diante da suspeita de infecção pelo vírus da hepatite B, o Ministério da Saúde
+recomenda a execução dos fluxogramas de diagnóstico ilustrados nos itens 9.7.1,
+9.7.2 ou 9.7.3 deste Manual Técnico, a fim de tornar rápido o encaminhamento do
+paciente a um especialista, quando necessário.
+A solicitação de marcadores para o estadiamento da doença deve ser fei-
+ta conforme preconizado pelo “Protocolo Clínico e Diretrizes Terapêuticas para
+Hepatite B e Coinfecções” (BRASIL, 2017c). Marcadores como o HBeAg e anti-HBe
+tem relevância para avaliar o desfecho da infecção no indivíduo. Não é recomen-
+pelo HBV ainda não foi confirmado.
+9.7 Fluxogramas para o diagnóstico da infecção pelo vírus da hepatite B (HBV)
+Os fluxogramas propostos a seguir incorporam as considerações acima descritas,
+com o intuito de propiciar, o mais precocemente possível, a detecção da infecção pelo
+HBV em indivíduos com doença crônica e aguda e, consequentemente, o seu encami-
+nhamento ao serviço de assistência médica. A proposta de vários fluxogramas tem o in-
+tuito de oferecer opções que possam ser selecionadas de acordo com a realidade local,
+a capacidade do laboratório e o contexto clínico envolvido.
+9.7.1 Fluxograma 1 - Investigação inicial da infecção pelo HBV usando testes
+Os TR são ferramentas importantes para a ampliação das possibilidades de diag-
+nóstico para diversos agravos. Quando houver a possibilidade de testagem presencial
+em unidades de saúde, esses testes permitem identificar oportunamente o indivíduo
+diagnóstica e para a vinculação da pessoa ao serviço de saúde. O Fluxograma 1 (Figura
+10) emprega um teste rápido capaz de detectar o HBsAg em amostras de sangue total
+obtidas preferencialmente por punção digital. Esse fluxograma é indicado para uso em
+(cid:30)(cid:5)(cid:15)(cid:26)(cid:7)(cid:3)(cid:8)(cid:31)(cid:32)(cid:33)(cid:8)(cid:30)(cid:4)(cid:26)(cid:34)(cid:21)(cid:15)(cid:7)(cid:3)(cid:23)(cid:3)(cid:8)(cid:31)(cid:8)(cid:35)(cid:8)(cid:36)(cid:25)(cid:37)(cid:2)(cid:13)(cid:24)(cid:5)(cid:15)(cid:3)(cid:38)(cid:27)(cid:21)(cid:8)(cid:5)(cid:25)(cid:5)(cid:41)(cid:5)(cid:3)(cid:4)(cid:8)(cid:20)(cid:3)(cid:8)(cid:5)(cid:25)(cid:42)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:29)(cid:2)(cid:4)(cid:21)(cid:8)(cid:11)(cid:12)(cid:17)(cid:8)(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)
+serviços de saúde e assistência, permitindo a investigação inicial da infecção pelo HBV.
+(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:13)(cid:8)(cid:7)(cid:18)(cid:29)(cid:5)(cid:20)(cid:21)(cid:13)(cid:8)(cid:10)(cid:9)(cid:1)(cid:8)(cid:43)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16)(cid:33)
+Figura 10. Fluxograma 1 - Investigação inicial da infecção pelo HBV utilizando testes rápidos (TR - HBsAg)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)
+(cid:10)(cid:13)(cid:3)(cid:25)(cid:15)(cid:26)(cid:2)(cid:16)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:9)(cid:1)(cid:8)
+(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16)
+(cid:17)(cid:18)(cid:4)(cid:5)(cid:20)(cid:21)(cid:22) (cid:6)(cid:7)(cid:8)
+(cid:44)(cid:21)(cid:4)(cid:2)(cid:24)(cid:3)(cid:7)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:21)(cid:26)(cid:8)
+(cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:2)(cid:25)(cid:41)(cid:3)(cid:23)(cid:5)(cid:25)(cid:46)(cid:3)(cid:7)(cid:8)(cid:29)(cid:3)(cid:41)(cid:5)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)
+(cid:1)(cid:2)(cid:5) (cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:41)(cid:21)(cid:23)(cid:29)(cid:4)(cid:2)(cid:23)(cid:2)(cid:25)(cid:24)(cid:3)(cid:7)(cid:8)(cid:21)(cid:8)(cid:20)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)(cid:8)
+(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)
+(cid:1)(cid:2)(cid:29)(cid:2)(cid:24)(cid:5)(cid:7)(cid:8)(cid:9)(cid:1)(cid:8) (cid:1)(cid:2)(cid:5)
+(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16) (cid:6)(cid:7)(cid:8)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)
+(cid:17)(cid:18)(cid:4)(cid:5)(cid:20)(cid:21)(cid:22)
+(cid:1)(cid:2)(cid:5)
+(cid:44)(cid:21)(cid:4)(cid:2)(cid:24)(cid:3)(cid:7)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)
+(cid:5)(cid:25)(cid:37)(cid:2)(cid:13)(cid:24)(cid:5)(cid:15)(cid:3)(cid:38)(cid:27)(cid:21)(cid:8)(cid:4)(cid:3)(cid:45)(cid:21)(cid:7)(cid:3)(cid:24)(cid:21)(cid:7)(cid:5)(cid:3)(cid:4)
+Fonte: DIAHV/SVS/MS.
+(cid:30)(cid:21)(cid:25)(cid:24)(cid:2)(cid:48)(cid:8)(cid:49)(cid:36)(cid:14)(cid:11)(cid:17)(cid:50)(cid:51)(cid:17)(cid:51)(cid:50)(cid:52)(cid:51)(cid:33)
+O Fluxograma 1 é indicado para as situações previstas no item 5.1.3 deste Manual, e
+permite iniciar a investigação da infecção pelo HBV em unidades de saúde que usem TR.
+› Esse fluxograma pode ser utilizado em gestantes e em indivíduos menores
+de 18 meses.
+› A detecção do HBsAg é sugestiva de infecção ativa pelo HBV.
+› Após a detecção do HBsAg por meio de TR, a complementação do diagnósti-
+co deve ser feita utilizando testes laboratoriais conforme os Fluxogramas 2 e
+3. Não há necessidade de repetir a pesquisa de HBsAg.
+› Em caso de resultado não reagente, permanecendo a suspeita de infecção,
+deve-se coletar uma nova amostra após 30 dias e repetir o fluxograma.
+Na testagem rápida, a coleta da amostra pode ser realizada por punção da polpa
+digital ou punção venosa. A maioria dos TR também permite a utilização de soro ou
+plasma como amostra para a realização do teste. Contudo, esse fluxograma é proposto
+para quando a testagem rápida ocorre, preferencialmente, na presença do paciente. A
+testagem presencial reduz o risco de troca de amostras e garante segurança para o indi-
+víduo que está sendo testado e para o profissional que executa o teste.
+Leia atentamente as instruções de uso que acompanham o conjunto diag-
+nóstico antes da seleção da amostra a ser testada e da execução do teste.
+Um TR só pode ter seu resultado interpretado se for considerado um teste válido.
+Para o teste ser considerado válido, é necessária a presença de uma linha ou ponto na
+região controle (C) do teste. Caso o resultado do TR seja inválido, deve-se repetir o teste,
+se possível, com um conjunto diagnóstico de lote distinto do que foi utilizado inicial-
+mente. Persistindo o resultado inválido, uma amostra deverá ser coletada por punção
+venosa e encaminhada para teste com um dos fluxogramas definidos para laboratório.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com resultado não reagente no TR será definida como: “Amostra não
+reagente para o antígeno de superfície do vírus da hepatite B (HBsAg)”. Na amostra
+com resultado não reagente no TR, o laudo deverá ser liberado com a seguinte ressalva:
+“Em caso de suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada
+30 dias após a data da coleta desta amostra, para a realização de um novo teste”.
+Essa é uma informação relevante, pois a presença dos antígenos virais varia em função
+do tempo de infecção e do estágio da doença na qual o indivíduo se encontra.
+A amostra com resultado reagente no TR será definida como: “Amostra reagente
+para o antígeno de superfície do vírus da hepatite B (HBsAg)”. O laudo deverá ser
+emitido com a seguinte ressalva: “Realizar confirmação do diagnóstico da infecção
+pelo HBV utilizando teste molecular”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, o ponto de corte (CO, do inglês cut-off) e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O Fluxograma 1, com a utilização de um TR, permite uma testagem rápida e a am-
+pliação das oportunidades de diagnóstico, principalmente entre as populações-chave.
+A pessoa com resultado reagente pode ser oportunamente encaminhada para a com-
+plementação diagnóstica e vinculada ao serviço de saúde.
+evidência direta da infecção pelo HBV. Esse resultado deverá ser complementado com a
+utilização de um teste molecular para detecção de material genético viral.
+O TR usado para detecção do HBsAg, por detectar antígenos virais, não possui res-
+trições de uso com relação à idade do indivíduo e ao seu estado imunológico.
+No entanto, o TR poderá não ser capaz de detectar uma infecção pelo HBV nas si-
+tuações descritas a seguir:
+› Nos casos de hepatite oculta, que ocorrem em aproximadamente 2,7% da
+população geral, em 12% das pessoas que usam drogas injetáveis, em 33%
+dos indivíduos com coinfecção HBV-HCV e em 58% dos hemodialisados.
+› Nos casos de cepas virais com mutações no HBsAg.
+9.7.2 Fluxograma 2 - Diagnóstico da infecção pelo vírus da hepatite B (HBV)
+aguda ou crônica da doença, salvo nas situações definidas no item 9.7.4. O Fluxograma
+2 (Figura 11) se inicia com um imunoensaio apto a detectar o HBsAg, como teste inicial,
+e um teste molecular como teste confirmatório, usados sequencialmente. O imunoen-
+saio pode ser um TR ou um ensaio laboratorial convencional. Uma discordância entre
+o primeiro e o segundo testes pode se dar em virtude de um resultado falso-reagente
+detecção da metodologia.
+(cid:30)(cid:5)(cid:15)(cid:26)(cid:7)(cid:3)(cid:8)(cid:31)(cid:31)(cid:33)(cid:8)(cid:30)(cid:4)(cid:26)(cid:34)(cid:21)(cid:15)(cid:7)(cid:3)(cid:23)(cid:3)(cid:8)(cid:55)(cid:8)(cid:35)(cid:8)(cid:49)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)(cid:8)(cid:20)(cid:3)(cid:8)(cid:5)(cid:25)(cid:42)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:29)(cid:2)(cid:4)(cid:21)(cid:8)(cid:11)(cid:12)(cid:17)(cid:8)(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)
+(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:8)(cid:2)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)(cid:8)(cid:10)(cid:11)(cid:12)(cid:17)(cid:35)(cid:49)(cid:54)(cid:14)(cid:16)(cid:33)
+Figura 11. Fluxograma 2 - Diagnóstico da infecção pelo HBV utilizando teste HBsAg e teste
+molecular (HBV-DNA)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)
+(cid:10)(cid:13)(cid:3)(cid:25)(cid:15)(cid:26)(cid:2)(cid:53)(cid:8)
+(cid:13)(cid:21)(cid:7)(cid:21)(cid:8)(cid:21)(cid:26)(cid:8)
+(cid:29)(cid:4)(cid:3)(cid:13)(cid:23)(cid:3)(cid:16)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)
+(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)
+(cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8) (cid:11)(cid:12)(cid:17)(cid:35)(cid:49)(cid:54)(cid:14) (cid:6)(cid:7)(cid:8) (cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7) (cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:24)(cid:18)(cid:37)(cid:2)(cid:4)(cid:22) (cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:17)
+(cid:1)(cid:2)(cid:5) (cid:1)(cid:2)(cid:5)
+(cid:8)(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8) (cid:8)(cid:11)(cid:12)(cid:17)(cid:35)(cid:49)(cid:54)(cid:14)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:24)(cid:18)(cid:37)(cid:2)(cid:4)(cid:8)
+(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15) (cid:25)(cid:3)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)
+Fon(cid:30)te(cid:21)(cid:25): (cid:24)D(cid:2)(cid:48)I(cid:8)A(cid:49)(cid:36)H(cid:14)(cid:11)V(cid:17)/S(cid:50)(cid:51)V(cid:17)S(cid:51)/(cid:50)M(cid:52)(cid:51)S(cid:33).
+O Fluxograma 2 deve ser utilizado quando houver uma solicitação para “sorologia da
+hepatite B” ou “diagnóstico de HBV”, ou mesmo “sorologia de hepatite”. O mesmo fluxo-
+HAV e o Fluxograma 5 em caso de suspeita de infecção pelos vírus causadores de hepatite.
+› Esse fluxograma é capaz de identificar infecções ativas pelo HBV em adultos
+e em indivíduos menores de 18 meses.
+› Em caso de resultado não reagente no primeiro teste, ou discordância entre o
+primeiro e o segundo testes, permanecendo a suspeita de infecção, deve-se
+coletar uma nova amostra após 30 dias e para repetir o fluxograma.
+Quando o teste inicial for um imunoensaio laboratorial, considere que o
+pelo MS pode ser executado também com amostras de soro; portanto,
+uma alíquota da amostra do paciente pode ser separada em caso de ne-
+cessidade da complementação do diagnóstico usando o teste molecular.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+definida como: “Amostra não reagente para o antígeno de superfície do vírus da
+hepatite B (HBsAg)”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso de
+suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada 30 dias após
+a data da coleta desta amostra para a realização de um novo teste”.
+A amostra com resultado reagente no imunoensaio para detectar o HBsAg será de-
+finida como: “Amostra reagente para o antígeno de superfície do vírus da hepatite
+B (HBsAg)”. A amostra com carga viral indetectável será definida como: “HBV-DNA não
+detectado na amostra”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso
+de suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada 30 dias
+após a data da coleta desta amostra para a realização de um novo teste”.
+A amostra com carga viral detectável será definida como: “Amostra com HBV-DNA
+detectável”. O laudo com resultado reagente para o HBsAg e com carga viral detectável
+deverá ser emitido com a seguinte ressalva: “A presença do HBsAg e do HBV-DNA é
+indicativa de infecção ativa pelo HBV”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, incluindo valores de cut-off e carga viral, e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O Fluxograma 2 é capaz de detectar a infecção pelo HBV, seja ela aguda ou crônica.
+No caso da necessidade de complementação diagnóstica, caberá ao médico definir o
+encaminhamento do paciente, conforme o “Protocolo Clínico e Diretrizes Terapêuticas
+para Hepatite B e Coinfecções” (BRASIL, 2017c).
+descritas a seguir:
+› Nos casos de hepatite oculta, que ocorrem em aproximadamente 2,7% da
+população geral, em 12% das pessoas que usam drogas injetáveis, em 33%
+dos indivíduos com coinfecção HBV-HCV e em 58% dos hemodialisados.
+› Nos casos de cepas virais com mutações no antígeno HBsAg.
+9.7.3 Fluxograma 3 - Diagnóstico da infecção pelo vírus da hepatite B (HBV)
+usando a detecção de HBsAg e anti-HBc total
+aguda ou crônica da doença, salvo nas situações definidas mais à frente. O Fluxograma 3
+(Figura 12) se inicia com um imunoensaio capaz de detectar o HBsAg, como teste inicial,
+e um imunoensaio para a detecção do anti-HBc total como teste complementar, usados
+sequencialmente.
+(cid:30)(cid:5)(cid:15)(cid:26)(cid:7)(cid:3)(cid:8)(cid:31)(cid:55)(cid:33)(cid:8)(cid:30)(cid:4)(cid:26)(cid:34)(cid:21)(cid:15)(cid:7)(cid:3)(cid:23)(cid:3)(cid:8)(cid:56)(cid:8)(cid:35)(cid:8)(cid:49)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)(cid:8)(cid:20)(cid:3)(cid:8)(cid:5)(cid:25)(cid:42)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:29)(cid:2)(cid:4)(cid:21)(cid:8)(cid:37)(cid:57)(cid:7)(cid:26)(cid:13)(cid:8)(cid:20)(cid:3)(cid:8)(cid:46)(cid:2)(cid:29)(cid:3)(cid:24)(cid:5)(cid:24)(cid:2)(cid:8)(cid:12)(cid:8)
+(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:8)(cid:2)(cid:8)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:12)(cid:41)(cid:8)(cid:24)(cid:21)(cid:24)(cid:3)(cid:4)(cid:33)
+Figura 12. Fluxograma 3 - Diagnóstico da infecção pelo vírus da hepatite B utilizando teste HBsAg e
+anti-HBc total
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)
+(cid:10)(cid:13)(cid:3)(cid:25)(cid:15)(cid:26)(cid:2)(cid:53)(cid:8)
+(cid:13)(cid:21)(cid:7)(cid:21)(cid:8)(cid:21)(cid:26)(cid:8)
+(cid:29)(cid:4)(cid:3)(cid:13)(cid:23)(cid:3)(cid:16)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)
+(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)
+(cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8) (cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:12)(cid:41)(cid:8)(cid:24)(cid:21)(cid:24)(cid:3)(cid:4) (cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:17)
+(cid:1)(cid:2)(cid:5) (cid:1)(cid:2)(cid:5)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)
+(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15) (cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)
+(cid:11)(cid:12)(cid:17)(cid:35)(cid:49)(cid:54)(cid:14)(cid:8) (cid:6)(cid:7)(cid:8) (cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:24)(cid:18)(cid:37)(cid:2)(cid:4)(cid:22) (cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:12)(cid:17)
+(cid:1)(cid:2)(cid:5)
+(cid:8)(cid:11)(cid:12)(cid:17)(cid:35)(cid:49)(cid:54)(cid:14)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:24)(cid:18)(cid:37)(cid:2)(cid:4)(cid:8)
+(cid:25)(cid:3)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)
+(cid:30)(cid:21)(cid:25)(cid:24)(cid:2)(cid:48)(cid:8)(cid:49)(cid:36)(cid:14)(cid:11)(cid:17)(cid:50)(cid:51)(cid:17)(cid:51)(cid:50)(cid:52)(cid:51)(cid:33)
+Fonte: DIAHV/SVS/MS.
+O Fluxograma 3 deve ser utilizado quando houver uma solicitação para “sorologia da
+hepatite B” ou “diagnóstico de HBV”, ou mesmo “sorologia de hepatite”. O mesmo fluxo-
+HAV e o Fluxograma 5 em caso de suspeita de infecção pelos vírus causadores de hepatite.
+› Por fazer uso de testes que detectam anticorpos totais, esse fluxograma não
+deve ser usado em indivíduos menores de 18 meses de idade, e os resultados
+devem ser avaliados com cuidado em indivíduos imunossuprimidos/imuno-
+deprimidos.
+› Esse fluxograma é capaz de identificar infecções ativas pelo HBV.
+› Em caso de resultado não reagente no primeiro teste, ou discordância entre
+o primeiro e o segundo testes, permanecendo a suspeita de infecção, coletar
+uma nova amostra após 30 dias e repetir o fluxograma.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+definida como: “Amostra não reagente para o antígeno de superfície do vírus da
+hepatite B (HBsAg)”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso de
+suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada 30 dias após
+a data da coleta desta amostra para a realização de um novo teste”.
+A amostra com resultado reagente no imunoensaio para detectar o HBsAg será de-
+finida como: “Amostra reagente para o antígeno de superfície do vírus da hepatite
+B (HBsAg)”. A amostra com resultado reagente no imunoensaio para a detecção do
+anti-HBc total será definida como: “Amostra reagente para o anti-HBc total”. O laudo
+com resultado reagente para o HBsAg e para o anti-HBc total deverá ser emitido com a
+seguinte ressalva: “A detecção do HBsAg e do anti-HBc total é indicativa de infecção
+ativa pelo HBV”.
+A amostra com resultado não reagente no imunoensaio para a detecção do anti-
+-HBc total será definida como: “Amostra não reagente para o anti-HBc total”.
+Se o HBV-DNA não for detectado na amostra, o laudo será liberado como: “HBV-
+DNA não detectável na amostra”. O laudo também deverá ser emitido com a seguinte
+ressalva: “Em caso de suspeita de infecção pelo HBV, uma nova amostra deverá ser
+coletada 30 dias após a data da coleta desta amostra para a realização de um novo
+teste”.
+A amostra com carga viral detectável será definida como: “Amostra com HBV-DNA
+detectável”. O laudo com resultado reagente para o HBsAg e com carga viral detectável
+deverá ser emitido com a seguinte ressalva: “A presença do HBsAg e do HBV-DNA é
+indicativa de infecção ativa pelo HBV”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, incluindo valores de cut-off e carga viral, e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O Fluxograma 3 é capaz de detectar a infecção pelo HBV, seja ela aguda ou crônica.
+No caso de confirmação diagnóstica, caberá ao médico definir o encaminhamento do
+paciente, conforme o “Protocolo Clínico e Diretrizes Terapêuticas para para Hepatite B e
+Coinfecções” (BRASIL, 2017c).
+O Fluxograma 3 não será capaz de detectar uma infecção pelo HBV nas situações
+descritas a seguir:
+› Nos casos de hepatite oculta, que ocorrem em aproximadamente 2,7% da
+população geral, em 12% das pessoas que usam drogas injetáveis, em 33%
+dos indivíduos com coinfecção HBV-HCV e em 58% dos hemodialisados.
+› Nos casos de cepas virais com mutações no antígeno HBsAg.
+9.7.4 Orientações para o diagnóstico laboratorial da infecção oculta pelo HBV (IOB)
+nos testes que detectam o HBsAg, é recomendada a utilização de um teste molecular de
+alta sensibilidade (capacidade de detecção de pelo menos 100 UI/mL) para a confirma-
+ção diagnóstica de um caso de IOB. Os indivíduos com maior probabilidade de apresen-
+tarem IOB são pessoas que usam drogas injetáveis, portadores de HCV, hemodialisados
+o HBsAg não reagente.
+Devem-se utilizar essas orientações quando houver uma solicitação para “sorologia
+da hepatite B oculta”, “diagnóstico de HBV oculto”, “pesquisa para hepatite B oculta” ou
+termos afins.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com carga viral detectável será definida como: “Amostra com HBV-DNA
+detectável”. O laudo também deverá conter a seguinte ressalva: “A detecção do HBV-
+DNA é indicativa de infecção pelo vírus da hepatite B”.
+A amostra com carga viral indetectável será definida como: “HBV-DNA não detec-
+tável na amostra”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso de
+suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada 30 dias após
+a data da coleta desta amostra para a realização de um novo teste”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, incluindo valores de cut-off e carga viral, e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O uso do teste molecular permite identificar a infecção oculta pelo HBV e o encami-
+nhamento desses pacientes ao serviço de saúde. As presentes orientações são indicadas
+reagente para HBsAg.
+10. VÍRUS DA HEPATITE C (HCV)
+O HCV foi identificado por Choo e colaboradores, em 1989, nos Estados Unidos,
+sendo o principal agente etiológico da hepatite crônica, anteriormente denominada
+“hepatite Não A Não B”. Sua transmissão ocorre, principalmente, por via parenteral. É
+importante ressaltar que, em um percentual significativo de casos, não é possível iden-
+tificar a via de infecção. São consideradas populações de risco acrescido para a infecção
+pelo HCV por via parenteral: indivíduos que receberam transfusão de sangue e/ou he-
+moderivados antes de 1993; pessoas que usam drogas injetáveis (cocaína, anabolizan-
+tes e complexos vitamínicos), inaláveis (cocaína) ou pipadas (crack), e que compartilham
+os respectivos equipamentos de uso; pessoas com tatuagem, piercings ou que apresen-
+tem outras formas de exposição percutânea (por exemplo, consultórios odontológicos,
+clínicas de podologia, salões de beleza, etc., que não obedecem às normas de biosse-
+gurança). A transmissão sexual é pouco frequente - menos de 1% em parceiros estáveis
+- e ocorre, principalmente, em pessoas com múltiplos parceiros e com prática sexual
+de risco (sem uso de preservativo), sendo que a coexistência de alguma IST, inclusive o
+vírus da imunodeficiência humana (HIV, do inglês human immunodeficiency virus), cons-
+titui um importante facilitador dessa transmissão. A transmissão vertical da hepatite C
+é rara quando comparada à da hepatite B. Entretanto, já se demonstrou que gestan-
+de transmissão da doença para os recém-nascidos. A cronificação da doença ocorre de
+70% a 85% dos casos, sendo que, em média, entre um quarto e um terço destes podem
+evoluir para formas histológicas graves ou cirrose, no período de 20 anos, caso não haja
+intervenção terapêutica. O restante dos pacientes evoluem de forma mais lenta e talvez
+nunca desenvolvam hepatopatia grave. É importante destacar que a infecção pelo HCV
+já é a maior responsável por cirrose e transplante hepático no mundo ocidental.
+10.1 Partícula viral
+A hepatite C é causada pelo HCV. Esse vírus foi o primeiro membro do gênero
+Hepacivirus, da família Flaviridae. A partícula viral (Figura 13) possui, aproximadamente,
+65nm e é dotada de um envelope lipoproteico, contendo as duas glicoproteínas de en-
+velope (E1 e E2), e um capsídeo proteico, composto pela proteína de capsídeo (C), que
+envolve o genoma viral (FIELDS; KNIPE; HOWLEY, 2007).
+Figura 13. Estrutura da partícula do vírus da hepatite C (HCV)
+Fonte: BRASIL, 2014.
+de polaridade positiva, que possui, aproximadamente, 9.600 bases (9,6kb). Esse RNA
+é composto por uma região 5’ não traduzida (NTR, do inglês non translated region), a
+qual inclui um sítio interno de entrada do ribossomo (IRES, do inglês internal ribosome
+entry site), que é capaz de direcionar a tradução do genoma viral independentemente
+do capG, e codifica uma única ORF de 3006-3037 códons. Na porção final 3’ do genoma
+há uma NTR (Figura 14).
+O genoma viral é traduzido via IRES para produzir uma poliproteína, que é clivada
+durante e após a tradução por proteases celulares e virais em dez produtos gênicos. A
+região amino-terminal codifica as proteínas estruturais, que são aquelas incorporadas
+na partícula viral: a proteína do capsídeo (C) e as glicoproteínas de envelope (E1 e E2).
+Os dois terços carboxi-terminais da poliproteína codificam as proteínas não estruturais:
+p7, NS2, NS3, NS4A, NS4B, NS5A e NS5B. Por definição, as proteínas não estruturais são
+expressas nas células infectadas, mas não são incorporadas na partícula viral. Elas ser-
+vem para coordenar os aspectos intracelulares da replicação do HCV, incluindo a sín-
+tese de RNA, modulação dos mecanismos de defesa do hospedeiro e montagem da
+partícula viral. A porção N-terminal da NS3 codifica a serino-protease, responsável pelo
+processamento da poliproteína do HCV. A replicação do RNA viral é catalisada pela NS5B
+(RNA polimerase dependente de RNA). Tanto a protease quanto a RNA polimerase são
+o desenvolvimento de medicamentos (LINDENBACH; RICE, 2013).
+Figura 14. Representação esquemática da organização genômica do vírus da hepatite C (HCV)
+Fonte: Adaptado de RICE, 2011.
+Nota: O esquema mostra as proteínas estruturais e não estruturais do vírus após o processamento.
+10.2 Variabilidade genética
+A RNA polimerase dependente de RNA do HCV não possui atividade revisora; por
+isso, os isolados do HCV possuem grande variabilidade genética, podendo ser classifi-
+cados em genótipos e subtipos. Existem sete genótipos principais, que possuem uma
+variabilidade de 30% a 35% entre si e são nomeados por números de 1 a 7 (JACKA et al.,
+2013). Cada genótipo pode ser dividido em subtipos, que são identificados por letras
+(a, b, c, e assim sucessivamente). Existem 67 subtipos confirmados e 20 subtipos prová-
+veis, que diferem entre si de 15% a 25% de suas sequências nucleotídicas (MESSINA et
+al., 2015; SMITH et al., 2014). A eficácia da terapia antiviral contra o HCV é dependente
+do genótipo viral; por isso, no âmbito do SUS, esta é definida pelo “Protocolo Clínico e
+Diretrizes Terapêuticas para Hepatite C e Coinfecções” (BRASIL, 2017d).
+10.3 Ciclo replicativo
+O modo de entrada do HCV na célula não está completamente elucidado, mas é um
+processo complexo que requer a ação coordenada de diversas proteínas do hospedeiro,
+incluindo as glicosaminoglicanas (GAG), o receptor de lipoproteína de baixa densida-
+de (LDLR, do inglês low-density lipoprotein receptor), o receptor de lipoproteína de alta
+densidade SR-BI, CD81, e duas proteínas de junção, a claudina-1 (CLDN1) e a ocludina
+(OCLN). É provável que o vírion utilize esses fatores de forma sequencial (BARTOSCH et
+al., 2003; EVANS; HAHN; TSCHERNE, 2007; PILERI et al., 1998; PLOSS et al., 2009). Um gru-
+po de receptores é, provavelmente, responsável por mediar interações iniciais de baixa
+afinidade, necessárias à entrada do HCV (KOUTSOUDAKIS et al., 2006; MONAZAHIAN et
+al., 1999; ZEISEL et al., 2007). A proteína de envelope (E2) se liga à CD81. Em seguida,
+eventos de sinalização são necessários para o recrutamento da CLDN1. O receptor de
+fator de crescimento epidérmico (EGFR, do inglês epidermal growth factor receptor) e
+o receptor de efrina A2 (EphA2, do inglês ephrin type-A receptor 2) modulam a associa-
+ção CD81-CLDN1. Após a ligação CD81-CLDN1, o complexo HCV-receptor interage com
+a OCLN e é internalizado nas junções celulares, via endocitose mediada por clatrina.
+O desencapsidamento ocorre em endossomos acidificados (BLANCHARD et al., 2006;
+LUPBERGER et al., 2011).
+A poliproteína do HCV é traduzida na membrana do retículo endoplasmático rugo-
+so, com a fita positiva de RNA servindo de molde. A tradução é iniciada de maneira inde-
+pendente do cap, por meio do IRES localizado na 5’NTR. É produzida uma poliproteína
+precursora de, aproximadamente, 3.000 aminoácidos, que é posteriormente processada
+por proteases celulares (ex.: peptidases de sinal) e virais (NS2 e NS3) para gerar as dez pro-
+teínas virais: core, E1 e E2, p7, NS2, NS3, NS4A, NS4B, NS5A e NS5B (KIM; CHANG, 2013).
+O genoma viral é replicado pela NS5B; a proteína NS5A tem papel regulatório na re-
+plicação do vírus e a proteína NS3 possui uma porção com função helicase, que também
+é importante para a replicação do genoma viral. Finalmente, a NS4B é uma proteína com
+papel significativo no rearranjo de membranas da célula, levando à formação da chama-
+da “teia membranosa” (ou complexo de replicação) que suporta e compartimentaliza a
+replicação do HCV. Esse complexo se associa a proteínas virais, componentes celulares
+do hospedeiro e fitas nascentes de RNA (CHEVALIEZ; PAWLOTSKY, 2012).
+Os estágios tardios do ciclo do HCV não estão completamente elucidados. No en-
+tanto, sabe-se que a montagem e a liberação da partícula são processos firmemente
+regulados com a síntese de lipídios da célula hospedeira. Após a clivagem pelas prote-
+ases celulares, a proteína do core se realoca na membrana do retículo endoplasmático
+em gotículas de lipídios (SCHEEL; RICE, 2013). Acredita-se que o RNA viral é conduzido
+ao core pela NS5B, além de ocorrer uma interação com NS5A. A interação NS5A-core
+aciona a formação do nucleocapsídeo. Os capsídeos recém-formados brotam do lúmen
+do retículo endoplasmático em um processo ligado à síntese de VLDL. Dessa forma,
+(BARTENSCHLAGER; COSSET; LOHMANN, 2010). O ciclo replicativo do HCV encontra-se
+representado esquematicamente na Figura 15.
+Figura 15. Ciclo replicativo do vírus da hepatite C (HCV)
+Fonte: Adaptado de MORADPOUR; PENIN; RICE, 2007.
+Notas: (a) Contato de internalização do vírion na célula; (b) liberação do RNA viral no citoplasma; (c)
+tradução e processamento da poliproteína viral; (d) replicação do RNA viral; (e) empacotamento do RNA
+viral e montagem da partícula; (f) maturação do vírion e liberação.
+10.4 História natural da doença
+A transmissão do HCV ocorre, primariamente, por via parenteral. Desde o advento
+da testagem das bolsas de sangue, a transmissão por meio do sangue e seus derivados
+foi praticamente eliminada em países desenvolvidos. Hoje, a epidemia continua se es-
+palhando, principalmente, entre as pessoas que compartilham seringas, agulhas e ou-
+tros instrumentos para uso de drogas. Sob algumas condições, as transmissões iatrogê-
+nicaG, nosocomial, sexual e vertical podem ocorrer (DUSTIN; RICE, 2007).
+De modo geral, a hepatite C aguda apresenta evolução subclínica, com cerca de 80%
+de casos assintomáticos e anictéricos, dificultando o diagnóstico. Aproximadamente,
+20% a 30% dos casos podem apresentar icterícia e 10% a 20% apresentam sintomas ines-
+pecíficos, como anorexia, astenia, mal-estar e dor abdominal. Quando presente, o quadro
+clínico é semelhante àquele decorrente de outros agentes que causam hepatites virais, e
+anticorpos específicos, antígenos virais ou material genético viral (BRASIL, 2017d).
+genética do vírus, que permitiria ao vírus escapar à resposta imune do hospedeiro. A via
+de contaminação também é um fator importante para definir a história natural da do-
+ença. Pacientes infectados por transfusão sanguínea evoluiriam mais frequentemente
+para as formas crônicas da doença do que aqueles infectados por outras vias. A infecção
+crônica se desenvolve ao longo de anos ou décadas. Acredita-se que a evolução para
+cirrose e carcinoma hepatocelular (HCC, do inglês hepatocellular carcinoma) dependa
+de fatores como carga viral e genótipo, mas ainda há discussão sobre o assunto. O dano
+celular causado pelo HCV é pequeno; por isso, supõe-se que o dano hepático ocorra,
+primariamente, por ação de mecanismos imunológicos (STRAUSS, 2013).
+10.5 Resposta imune
+O HCV pode induzir uma forte resposta imune inata, uma vez que a infecção causa
+a ativação de genes de resposta ao interferon. No entanto, o vírus é capaz de resistir aos
+efeitos da terapia e estabelecer infecções crônicas (REHERMANN; NASCIMBENI, 2005).
+Os pacientes que se recuperam espontaneamente da infecção pelo HCV são aque-
+les que estabelecem respostas imunes fortes, as quais podem ser prontamente detec-
+tadas no sangue. Pacientes que desenvolvem doenças crônicas apresentam respostas
+imunes localizadas ou transientes, baseadas em células T. Os anticorpos contra as pro-
+teínas de envelope podem estar associados à modulação dos níveis circulantes de vírus.
+No entanto, ainda não foi possível relacionar esses anticorpos a algum tipo de imunida-
+de protetora, embora existam estudos indicando que os pacientes que se recuperam da
+infecção podem ser resistentes a novas exposições ao vírus (ASHFAQ et al., 2011; MEHTA
+et al., 2002; REHERMANN; NASCIMBENI, 2005).
+10.6 Diagnóstico
+A triagem de amostras de sangue total, soro, plasma ou FO é feita com a utilização
+de imunoensaios. Amostras com resultados reagentes nessa etapa têm seu resultado
+confirmado por meio de outros testes, que visam à detecção direta do vírus.
+Os imunoensaios empregados estritamente em laboratório e os TR detectam o an-
+ticorpo anti-HCV, que indica contato com o vírus da hepatite C. O antígeno core do HCV
+ativa, podendo ser utilizado para confirmar o resultado da pesquisa de anticorpos.
+Além dos imunoensaios laboratoriais e dos TR, o teste molecular oferece uma al-
+a confirmação dos casos anti-HCV reagentes. Os fluxogramas propostos com testes uti-
+lizados em laboratório incorporaram essas considerações, e oferecem opções que po-
+dem ser selecionadas dependendo da capacidade do laboratório e do contexto clínico.
+de genomas virais circulantes em um paciente. As metodologias disponíveis hoje são
+similares no que se refere à sensibilidade (aproximadamente 10 UI/mL) e especificidade
+(>99%) (BELD et al., 2002; DREXLER et al., 2012; FRANCISCUS; HIGHLEYMAN, 2014).
+10.7 Fluxogramas para o diagnóstico da infecção pelo vírus da hepatite C
+(HCV)
+Os fluxogramas propostos a seguir incorporaram as considerações acima descritas,
+com o intuito de propiciar, o mais precocemente possível, a detecção da infecção pelo
+HCV em indivíduos com doença crônica e aguda e, consequentemente, o seu encami-
+nhamento ao serviço de assistência médica.
+10.8 Fluxograma 4 - Investigação inicial da infecção pelo HCV usando testes
+rápidos para detecção do anti-HCV
+Os TR são ferramentas importantes para a ampliação das possibilidades de diag-
+nóstico para diversos agravos. Quando houver a possibilidade de testagem presencial
+em unidades de saúde, esses testes permitem identificar oportunamente o indivíduo
+portador de hepatite C e fazer os devidos encaminhamentos para a confirmação diag-
+nóstica e para a vinculação da pessoa ao serviço de saúde. O Fluxograma 4 (Figura 16)
+emprega um teste rápido capaz de detectar o anti-HCV em amostras de sangue total
+obtidas preferencialmente por punção digital. Esse fluxograma é indicado para uso em
+serviços de saúde e assistência, permitindo a investigação inicial da infecção pelo HCV.
+(cid:30)(cid:5)(cid:15)(cid:26)(cid:7)(cid:3)(cid:8)(cid:31)(cid:59)(cid:33)(cid:8)(cid:30)(cid:4)(cid:26)(cid:34)(cid:21)(cid:15)(cid:7)(cid:3)(cid:23)(cid:3)(cid:8)(cid:60)(cid:8)(cid:35)(cid:8)(cid:36)(cid:25)(cid:37)(cid:2)(cid:13)(cid:24)(cid:5)(cid:15)(cid:3)(cid:38)(cid:27)(cid:21)(cid:8)(cid:5)(cid:25)(cid:5)(cid:41)(cid:5)(cid:3)(cid:4)(cid:8)(cid:20)(cid:3)(cid:8)(cid:5)(cid:25)(cid:42)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:29)(cid:2)(cid:4)(cid:21)(cid:8)(cid:11)(cid:44)(cid:17)(cid:8)(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)
+(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:13)(cid:8)(cid:7)(cid:18)(cid:29)(cid:5)(cid:20)(cid:21)(cid:13)(cid:8)(cid:10)(cid:9)(cid:1)(cid:8)(cid:43)(cid:8)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)(cid:16)(cid:33)
+Figura 16. Fluxograma 4 - Investigação inicial da infecção pelo HCV utilizando testes rápidos (TR
+anti-HCV)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)
+(cid:10)(cid:13)(cid:3)(cid:25)(cid:15)(cid:26)(cid:2)(cid:16)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:9)(cid:1)(cid:8)
+(cid:10)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)(cid:16)
+(cid:17)(cid:18)(cid:4)(cid:5)(cid:20)(cid:21)(cid:22) (cid:6)(cid:7)(cid:8)
+(cid:44)(cid:21)(cid:4)(cid:2)(cid:24)(cid:3)(cid:7)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:21)(cid:26)(cid:8)
+(cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:2)(cid:25)(cid:41)(cid:3)(cid:23)(cid:5)(cid:25)(cid:46)(cid:3)(cid:7)(cid:8)(cid:29)(cid:3)(cid:41)(cid:5)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)
+(cid:1)(cid:2)(cid:5) (cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:41)(cid:21)(cid:23)(cid:29)(cid:4)(cid:2)(cid:23)(cid:2)(cid:25)(cid:24)(cid:3)(cid:7)(cid:8)(cid:21)(cid:8)(cid:20)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)(cid:8)
+(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)
+(cid:1)(cid:2)(cid:29)(cid:2)(cid:24)(cid:5)(cid:7)(cid:8)(cid:9)(cid:1)(cid:8) (cid:1)(cid:2)(cid:5)
+(cid:10)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)(cid:16) (cid:6)(cid:7)(cid:8)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)
+(cid:17)(cid:18)(cid:4)(cid:5)(cid:20)(cid:21)(cid:22)
+(cid:1)(cid:2)(cid:5)
+(cid:44)(cid:21)(cid:4)(cid:2)(cid:24)(cid:3)(cid:7)(cid:8)(cid:3)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)
+(cid:5)(cid:25)(cid:37)(cid:2)(cid:13)(cid:24)(cid:5)(cid:15)(cid:3)(cid:38)(cid:27)(cid:21)(cid:8)(cid:4)(cid:3)(cid:45)(cid:21)(cid:7)(cid:3)(cid:24)(cid:21)(cid:7)(cid:5)(cid:3)(cid:4)
+(cid:30)(cid:21)(cid:25)(cid:24)(cid:2)(cid:48)(cid:8)(cid:49)(cid:36)(cid:14)(cid:11)(cid:17)(cid:50)(cid:51)(cid:17)(cid:51)(cid:50)(cid:52)(cid:51)(cid:33)
+Fonte: DIAHV/SVS/MS.
+O Fluxograma 4 é indicado para as situações previstas no item 5.1.3 deste Manual, e
+permite iniciar a investigação da infecção pelo HCV em unidades de saúde que usem TR.
+› Pode ser utilizado em gestantes.
+› O resultado reagente no teste de detecção do anti-HCV indica contato prévio
+com o HCV. É necessário complementar o diagnóstico por meio de testes de
+detecção direta do vírus (teste molecular ou teste de antígeno).
+› Em caso de resultado não reagente, permanecendo a suspeita de infecção,
+coletar uma nova amostra após 30 dias e repetir a testagem.
+Na testagem rápida, a coleta da amostra pode ser realizada por punção da polpa
+digital ou punção venosa. A maioria dos TR também permite a utilização de soro ou
+plasma como amostra para a realização do teste. Contudo, esse fluxograma é proposto
+para quando a testagem rápida ocorre, preferencialmente, na presença do paciente. A
+testagem presencial reduz o risco de troca de amostras e garante segurança para o indi-
+víduo que está sendo testado e para o profissional executa o teste.
+Leia atentamente as instruções de uso que acompanham o conjunto diag-
+nóstico antes da seleção da amostra a ser testada e da execução do teste.
+Um TR só pode ter seu resultado interpretado se for considerado um teste válido.
+Para o teste ser considerado válido, é necessária a presença de uma linha ou ponto na
+região controle (C) do teste. Caso o resultado do TR seja inválido, deve-se repetir o teste,
+se possível, com um conjunto diagnóstico de lote distinto do que foi utilizado inicial-
+mente. Persistindo o resultado inválido, uma amostra deverá ser coletada por punção
+venosa e encaminhada para teste com o fluxograma definido para laboratório.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com resultado não reagente no TR será definida como: “Amostra não
+reagente para o anticorpo contra o vírus da hepatite C (anti-HCV)”. Na amostra com
+resultado não reagente no TR, o laudo deverá ser emitido com a seguinte ressalva: “Em
+caso de suspeita de infecção pelo HCV, uma nova amostra deverá ser coletada 30
+dias após a data da coleta desta amostra para a realização de um novo teste”. Essa
+é uma informação relevante, pois a presença dos anticorpos virais varia dependendo do
+tempo de infecção do indivíduo.
+A amostra com resultado reagente no TR será definida como: “Amostra reagente
+para o anticorpo contra o vírus da hepatite C (anti-HCV)”. O laudo deverá ser emitido
+com a seguinte ressalva: “Realizar confirmação do diagnóstico da infecção pelo HCV
+utilizando um teste de detecção direta do vírus (HCV-RNA ou HCV-Ag)”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, o ponto de corte (CO, do inglês cut-off) e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O Fluxograma 4, com a utilização de um TR, permite uma testagem rápida e a am-
+pliação das oportunidades de diagnóstico, principalmente entre as populações-chave.
+da infecção e oportunamente vinculada ao serviço de saúde.
+O resultado reagente na pesquisa pelo anti-HCV em uma amostra representa uma
+evidência de contato prévio com o HCV. Sabe-se que cerca de 80% dos infectados pelo
+HCV se tornarão portadores crônicos da infecção. Por esse motivo, o resultado da pes-
+quisa pelo anti-HCV deverá ser complementado com a utilização de um teste para de-
+tecção direta do agente viral (HCV-RNA ou HCV-Ag).
+O uso do TR para detecção do anti-HCV, por detectar anticorpos totais, não deve ser
+utilizado em indivíduos menores de 18 meses, e seu uso em indivíduos imunossuprimi-
+dos/imunodeprimidos necessita ser avaliado com cuidado, em virtude da possibilidade
+de resultados falsos não-reagentes.
+10.9 Fluxograma 5 - Diagnóstico da infecção pelo vírus da hepatite C (HCV)
+O Fluxograma 5 (Figura 17) emprega um imunoensaio capaz de detectar o anticor-
+po contra o HCV, como teste de triagem, e um teste de detecção direta do HCV (HCV-
+RNA ou HCV-Ag), como teste complementar, usados sequencialmente.
+(cid:30)(cid:5)(cid:15)(cid:26)(cid:7)(cid:3)(cid:8)(cid:31)(cid:61)(cid:33)(cid:8)(cid:30)(cid:4)(cid:26)(cid:34)(cid:21)(cid:15)(cid:7)(cid:3)(cid:23)(cid:3)(cid:8)(cid:62)(cid:8)(cid:35)(cid:8)(cid:49)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)(cid:8)(cid:20)(cid:3)(cid:8)(cid:5)(cid:25)(cid:42)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:29)(cid:2)(cid:4)(cid:21)(cid:8)(cid:37)(cid:57)(cid:7)(cid:26)(cid:13)(cid:8)(cid:20)(cid:3)(cid:8)(cid:46)(cid:2)(cid:29)(cid:3)(cid:24)(cid:5)(cid:24)(cid:2)(cid:8)(cid:44)(cid:8)
+(cid:26)(cid:24)(cid:5)(cid:4)(cid:5)(cid:6)(cid:3)(cid:25)(cid:20)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:38)(cid:27)(cid:21)(cid:8)(cid:20)(cid:21)(cid:8)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)(cid:8)(cid:2)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)(cid:8)(cid:10)(cid:11)(cid:44)(cid:17)(cid:35)(cid:1)(cid:54)(cid:14)(cid:16)(cid:33)
+Figura 17. Fluxograma 5 - Diagnóstico da infecção pelo vírus da hepatite C utilizando teste para
+detecção do anti-HCV e teste molecular (HCV-RNA)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)
+(cid:10)(cid:13)(cid:3)(cid:25)(cid:15)(cid:26)(cid:2)(cid:53)(cid:8)
+(cid:13)(cid:21)(cid:7)(cid:21)(cid:8)(cid:21)(cid:26)(cid:8)
+(cid:29)(cid:4)(cid:3)(cid:13)(cid:23)(cid:3)(cid:16)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)
+(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17)
+(cid:1)(cid:2)(cid:13)(cid:26)(cid:4)(cid:24)(cid:3)(cid:20)(cid:21)(cid:8) (cid:6)(cid:7)(cid:8) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8) (cid:11)(cid:44)(cid:17)(cid:35)(cid:1)(cid:54)(cid:14) (cid:6)(cid:7)(cid:8) (cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8)
+(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:22) (cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7) (cid:20)(cid:2)(cid:24)(cid:2)(cid:41)(cid:24)(cid:18)(cid:37)(cid:2)(cid:4)(cid:22) (cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:11)(cid:44)(cid:17)
+(cid:1)(cid:2)(cid:5) (cid:1)(cid:2)(cid:5)
+(cid:14)(cid:23)(cid:21)(cid:13)(cid:24)(cid:7)(cid:3)(cid:8)(cid:25)(cid:27)(cid:21)(cid:8)(cid:7)(cid:2)(cid:3)(cid:15)(cid:2)(cid:25)(cid:24)(cid:2)(cid:8) (cid:1)(cid:2)(cid:29)(cid:2)(cid:24)(cid:5)(cid:7)(cid:8)(cid:21)(cid:8)(cid:24)(cid:2)(cid:13)(cid:24)(cid:2)(cid:8)(cid:23)(cid:21)(cid:4)(cid:2)(cid:41)(cid:26)(cid:4)(cid:3)(cid:7)(cid:8)
+(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)(cid:3)(cid:25)(cid:24)(cid:5)(cid:35)(cid:11)(cid:44)(cid:17) (cid:3)(cid:29)(cid:47)(cid:13)(cid:8)(cid:24)(cid:7)(cid:63)(cid:13)(cid:8)(cid:2)(cid:8)(cid:13)(cid:2)(cid:5)(cid:13)(cid:8)(cid:23)(cid:2)(cid:13)(cid:2)(cid:13)(cid:8)(cid:29)(cid:3)(cid:7)(cid:3)(cid:8)
+(cid:41)(cid:21)(cid:25)(cid:42)(cid:5)(cid:7)(cid:23)(cid:3)(cid:38)(cid:27)(cid:21)(cid:8)(cid:20)(cid:21)(cid:8)(cid:20)(cid:5)(cid:3)(cid:15)(cid:25)(cid:47)(cid:13)(cid:24)(cid:5)(cid:41)(cid:21)
+Fonte: D(cid:30)I(cid:21)A(cid:25)H(cid:24)(cid:2)(cid:48)V(cid:8)(cid:49)/(cid:36)S(cid:14)V(cid:11)(cid:17)S(cid:50)/(cid:51)M(cid:17)(cid:51)S(cid:50).(cid:52)(cid:51)(cid:33)
+O Fluxograma 5 deve ser utilizado quando houver uma solicitação para “sorologia
+da hepatite C” ou “diagnóstico de HCV”, ou mesmo “sorologia de hepatite”. Esse fluxogra-
+Fluxogramas 2 ou 3 em caso de suspeita de infecção pelos vírus causadores de hepatite.
+Amostras reagentes no primeiro teste indicam contato com o HCV, salvo em casos
+de falso-positivos. Uma discordância entre o primeiro e o segundo testes pode se dar
+em virtude de uma resolução natural da doença.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com resultado não reagente no imunoensaio para detectar o anti-HCV
+será definida como: “Amostra não reagente para o anticorpo contra o vírus da he-
+patite C (anti-HCV)”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso de
+suspeita de infecção pelo HCV, uma nova amostra deverá ser coletada 30 dias após
+a data da coleta desta amostra para a realização de um novo teste”.
+A amostra com resultado reagente no imunoensaio para detectar o anti-HCV será
+definida como: “Amostra reagente para o anticorpo contra o vírus da hepatite C
+(anti-HCV)”. A amostra com carga viral indetectável será definida como “HCV-RNA não
+detectado na amostra”. O laudo deverá ser emitido com a seguinte ressalva: “Repetir
+o teste molecular após três e seis meses para confirmação do diagnóstico”.
+A amostra com carga viral detectável será definida como: “Amostra com HCV-RNA
+detectável”. O laudo com resultado reagente para o anti-HCV e com carga viral detec-
+tável deverá ser emitido com a seguinte ressalva: “A presença do anti-HCV e do HCV-
+RNA é indicativa de infecção ativa pelo HCV”.
+Além das informações citadas anteriormente, os laudos devem conter os resulta-
+dos de todos os testes realizados, incluindo valores de cut-off e carga viral, e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+O Fluxograma 5 é capaz de detectar a infecção crônica pelo HCV. No caso de confir-
+mação diagnóstica, caberá ao médico definir o encaminhamento do paciente conforme
+o “Protocolo Clínico e Diretrizes Terapêuticas para Hepatite C e Coinfecções” (BRASIL,
+2017d).
+› O Fluxograma 5, por detectar anticorpos totais contra o vírus, não é indicado
+para indivíduos menores de 18 meses.
+› Esse fluxograma pode ser utilizado no diagnóstico em gestantes.
+› O mesmo fluxograma não será capaz de identificar indivíduos infectados no
+período de janela imunológica ou imunossuprimidos.
+10.10 Orientações para o diagnóstico da infecção pelo vírus da hepatite C
+(HCV) em indivíduos menores de 18 meses
+A transmissão vertical, apesar de ser um evento raro, é a forma mais comum de in-
+fecção pelo HCV em recém-nascidos. Considera-se que a infecção durante o parto seja
+a via mais frequente de transmissão; no entanto a transmissão intrauterina também é
+possível (GOLDBERG; CHOPRA; O’DONOVAN, 2017; MACK et al., 2012; BRASIL, 2017e).
+durante a gravidez ou no momento do parto, a coinfecção HCV/HIV e a infecção de
+células mononucleadas periféricas do sangue (PBMC, do inglês peripheral blood mono-
+nuclear cell). Mães com carga viral suprimida tem chances mínimas de transmitir o vírus
+(GOLDBERG; CHOPRA; O’DONOVAN, 2017).
+A infecção em recém-nascidos normalmente tem curso assintomático, e boa parte
+dos infectados apresentam níveis apenas levemente elevados de aminotransferases. Por
+isso, indica-se que todos aqueles nascidos de mães sabidamente infectadas pelo HCV
+sejam testados. Normalmente, a triagem para a infecção pelo HCV é feita pela detecção
+do anticorpo contra o vírus (anti-HCV); no entanto, anticorpos da classe IgG atravessam
+a barreira placentária, o que pode levar a resultados reagentes em crianças não neces-
+sariamente infectadas (GOLDBERG; CHOPRA; O’DONOVAN, 2017; MACK et al., 2012). Por
+isso, a orientação é de que o diagnóstico da infecção pelo HCV em indivíduos menores
+de 18 meses seja feito por meio de teste molecular. A detecção do HCV-RNA em duas
+testagens diferentes confirma a infecção. É recomendado que o primeiro teste seja fei-
+to a partir dos três meses de idade, com um intervalo de 6 a 12 meses para a segunda
+testagem. Após os 18 meses, recomenda-se realizar o teste para a detecção do anti-HCV
+(BRASIL, 2017e).
+Essas orientações devem ser utilizadas quando houver solicitação para “sorologia
+da hepatite C”, “diagnóstico de HCV” ou termos afins, em indivíduos menores de 18 me-
+ses nascidos de mães sabidamente infectadas pelo HCV.
+nº 302/Anvisa, de 13 de outubro de 2005, suas alterações, ou outro instrumento legal
+que venha a substituí-la.
+A amostra com carga viral detectável será definida como: “Amostra com HCV-RNA
+detectável”. O laudo também deverá conter a seguinte ressalva: “A detecção do HCV-
+RNA é indicativa de infecção pelo vírus da hepatite C”.
+A amostra com carga viral indetectável será definida como: “HCV-RNA não detec-
+tado na amostra”. O laudo deverá ser emitido com a seguinte ressalva: “Em caso de
+suspeita de infecção pelo HCV, uma nova amostra deverá ser coletada 30 dias após
+a data da coleta desta amostra para a realização de um novo teste”.
+Além das informações citadas anteriormente, os laudos devem conter os resultados
+de todos os testes realizados, incluindo valores de cut-off e a carga viral, e a unidade
+de medição do método utilizado, excetuando-se os resultados obtidos por testes cuja
+leitura é visual.
+No campo de observações, deverão ser incluídos os seguintes avisos:
+› “A vacina contra a hepatite A faz parte do calendário de vacinação do SUS
+gov.br/campanhas/pni/). Além disso, ela está disponível nos Crie, sendo in-
+Imunobiológicos Especiais”.
+› “A vacina contra a hepatite B faz parte do calendário de vacinação da crian-
+disponível nas salas de vacina do Sistema Único de Saúde (SUS) para todas as
+pessoas, independentemente de idade e/ou condições de vulnerabilidade, e
+para as situações previstas no Manual dos Centros de Referência para Imuno-
+biológicos Especiais”.
+› Essas orientações são indicadas apenas para indivíduos menores de 18 me-
+ses nascidos de mães sabidamente portadoras do HCV. O diagnóstico infantil
+também pode ser realizado utilizando um imunoensaio HCV-Ag, capaz de
+detectar e quantificar antígenos virais do HCV.
+› Um resultado indetectável para HCV-RNA no primeiro teste deverá ser con-
+seis meses da coleta da primeira amostra.
+› A documentação da soroconversão da criança deve ser feita com a realização
+de sorologia anti-HCV após os 18 meses de idade da criança.
+11. VÍRUS DA HEPATITE D (HDV)
+A hepatite D é causada pelo vírus da hepatite D (HDV, anteriormente conhecido
+como agente Delta), podendo apresentar-se como infecção assintomática, sintomática
+ou de formas graves. O HDV é um vírus defectivo, satélite do HBV, que precisa do HBsAg
+para realizar sua infecção. A infecção Delta crônica é a principal causa de cirrose hepáti-
+ca em crianças e adultos jovens em áreas endêmicas na Itália, na Inglaterra e na região
+amazônica do Brasil. Devido à sua dependência funcional em relação ao HBV, o vírus
+Delta tem mecanismos de transmissão idênticos aos do HBV. Os portadores crônicos
+inativos do vírus B são reservatórios importantes para a disseminação do vírus da hepa-
+tite Delta em áreas de alta endemicidade de infecção pelo HBV.
+11.1 Partícula viral
+O HDV é o único membro da família Deltaviridae, gênero Deltavirus, sendo um vírus
+considerado similar aos viroides, vírus de RNA que infectam plantas. O vírion é compos-
+to por uma partícula esférica de, aproximadamente, 36nm de diâmetro, que apresenta,
+em sua porção mais externa, um envelope bilipídico contendo as três formas do HBsAg,
+do qual o HDV depende para conseguir infectar novas células (Figura 18). O nucleocap-
+sídeo é composto por uma molécula de RNA circular de fita simples (em formado de
+“rodo” ou “bastonete”) que contém 1.679 nucleotídeos e, aproximadamente, 200 cópias
+do antígeno do vírus da hepatite D (HDV-Ag) por genoma. A única proteína codificada
+pelo genoma viral é o HDV-Ag. A estrutura do genoma viral, bem como sua composição
+nucleotídica, permite relacionar o HDV com os viroides vegetais. O RNA viral é uma ribo-
+zima, ou seja, uma molécula de ácido nucleico com capacidade catalítica (GHAMARI et
+al., 2013; HUGHES; WEDEMEYER; HARRISON, 2011).
+11.2 Variabilidade genética
+Foram identificados, até o momento, oito genótipos do HDV, denominados por
+números (de 1 a 8), os quais possuem divergências de até 16% entre as sequências nu-
+cleotídicas dentro do mesmo genótipo e de 20% a 40% entre os diferentes genótipos.
+O genótipo 1 é o mais presente no mundo, e existem evidências de que pode haver
+subtipos dentro desse genótipo. O genótipo 2 foi, originalmente, identificado no Japão,
+sendo encontrado, predominantemente, em Taiwan. Esse genótipo está associado a
+uma doença menos agressiva do que a decorrente do genótipo 1. Os outros genótipos,
+em especial o genótipo 3, foram identificados em surtos ocorridos em diferentes locais
+do mundo, principalmente nos continentes americano e africano (ABBAS; AFZAL, 2013;
+HADZIYANNIS, 1997).
+11.3 Ciclo replicativo
+O vírion se liga ao hepatócito por interação entre o L-HBsAg e um receptor de mem-
+brana ainda não identificado; o material genético viral é então desnudado no citoplas-
+ma da célula. A ribonucleoproteínaG viral é direcionada ao núcleo, onde é transcrita na
+forma de RNA antigenômico, que é o molde para a replicação de novas transcrições do
+RNA circular viral. Os RNA mensageiros produzidos são transportados ao retículo endo-
+plasmático, onde são traduzidos sob a forma de novas moléculas do HDV-Ag, as quais
+complexos ribonucleoproteicos. Os complexos são exportados para o citoplasma e se
+associam às proteínas de envelope do HBV presentes no complexo golgiense, forman-
+do novas partículas virais, que são exocitadas pela via trans-Golgi. A Figura 18 mostra a
+(HUGHES; WEDEMEYER; HARRISON, 2011).
+Figura 18. Ciclo replicativo do vírus da hepatite D (HDV)
+Fonte: Adaptado de HUGHES; WEDEMEYER; HARRISON, 2011.
+11.4 História natural da doença
+A infecção pelo HDV é dependente de uma infecção pelo HBV associada. A evolu-
+ção da doença está relacionada ao contato inicial com os vírus. Caso a infecção pelo HBV
+e pelo HDV seja simultânea, é denominada coinfecção. Caso uma pessoa, cronicamente
+infectada com o HBV, seja, posteriormente, infectada com o HDV, ocorre o fenômeno da
+superinfecção (ALVARADO-MORA et al., 2013; WHO, 2017b).
+O resultado da coinfecção é um estado agudo das hepatites B e D. O tempo de incu-
+bação é dependente do título do inóculo inicial e, normalmente, a coinfecção é um esta-
+do autolimitado. Menos de 5% das pessoas coinfectadas desenvolvem a forma crônica
+da doença. Os sintomas surgem entre três a sete dias após a infecção e incluem fadiga,
+anorexia, náuseas e icterícia. Os níveis de transaminases sofrem alteração durante esse
+período. Nos pacientes que não desenvolvem a forma crônica da doença, os sintomas
+clínicos desaparecem após esse intervalo de tempo.
+A superinfecção causa um quadro de hepatite aguda grave, com um período de in-
+cubação curto, que leva à cronificação da hepatite D em 80% dos casos. A superinfecção
+é associada a casos de hepatite fulminante e a hepatite crônica severa, frequentemente
+evoluindo para cirrose hepática. A hepatite D crônica, normalmente, inicia-se com um
+quadro clínico semelhante ao da infecção aguda. Os sintomas clínicos são mais leves
+que na doença aguda, enquanto os níveis de transaminases sofrem elevação. Na hepa-
+tite D crônica, os marcadores do HBV podem ser inibidos. A evolução para cirrose costu-
+ma ocorrer em um período de dois anos após a infecção e, aproximadamente, 70% dos
+pacientes crônicos desenvolvem essa condição. A mortalidade nas infecções pelo HDV
+varia entre 2% e 20%, sendo cerca de dez vezes maior que na hepatite B isoladamente
+(WHO, 2017b).
+11.5 Resposta imune
+A resposta imune durante a infecção pelo vírus da hepatite D ainda não foi total-
+mente compreendida. A patogenia é mediada pelo sistema imune, o qual é responsável
+pelos efeitos citotóxicos no fígado do infectado. O HDV-Ag é capaz de estimular uma
+resposta humoral IgM e IgG. Estudos em chimpanzés demonstram que a infecção resol-
+vida pelo HDV é capaz de conferir proteção contra uma reinfecção precoce. O escape
+imunológico do vírus se dá em virtude de sua grande variabilidade genética (SMEDILE
+et al., 2013).
+11.6 Diagnóstico
+anti-HDV quanto pela pesquisa de marcadores diretos, como o antígeno do HDV, e pela
+detecção do genoma viral circulante (CIANCIO; RIZZETTO, 2014; SMEDILE et al., 2013).
+A hepatite D deve ser investigada em indivíduos que apresentem resultados rea-
+gentes em imunoensaios para o HBsAg e que residam ou tenham estado em áreas en-
+dêmicas para esse agravo.
+12. VÍRUS DA HEPATITE E (HEV)
+O HEV é um vírus de transmissão fecal-oral. Essa via de transmissão favorece a dis-
+seminação da infecção nos países em desenvolvimento, nos quais a contaminação dos
+reservatórios de água mantém a cadeia de transmissão da doença. A transmissão inter-
+pessoal não é comum. Em alguns casos, os fatores de risco não puderam ser identifica-
+dos. A doença é autolimitada e pode apresentar formas clínicas graves, principalmente
+em gestantes. Essa forma de hepatite viral é mais comum em países na Ásia e África,
+principalmente na Índia (BRASIL, 2009).
+12.1 Partícula viral
+O HEV pertence ao gênero Hepevirus, família Hepeviridae (ICTV, 2014). O HEV é um
+vírus pequeno, não envelopado, com capsídeo icosaédrico de, aproximadamente, 27-
+34nm de diâmetro (Figura 19) (MIRAZO et al., 2014; FOCCACIA, 2007).
+O genoma é formado por uma fita simples de RNA positiva, com cerca de 7.200 nu-
+cleotídeos, que apresenta três fases de leitura aberta (ORF) descontínuas e parcialmente
+sobrepostas. A ORF1 codifica as sete proteínas não estruturais e está envolvida na repli-
+cação viral e no processamento de proteínas virais, incluindo a codificação de uma RNA
+helicase, uma RNA polimerase dependente do RNA (RpRd), uma metiltransferase, uma
+cisteína protease e uma guanilil protease. A ORF2 codifica as proteínas do capsídeo viral
+(pORF2) e contém epitoposG importantes, que podem induzir a produção de anticor-
+pos neutralizantes. A ORF3 se sobrepõe às duas outras ORF e codifica uma fosfoproteína
+(pORF3), que é expressa intracelularmente e é capaz de se ligar ao citoesqueleto das
+células hepáticas, servindo como um âncora à qual a pORF2 e o RNA podem se ligar para
+iniciar o processo de estruturação do nucleocapsídeo viral (PARVEZ, 2013).
+Figura 19. Representação esquemática da estrutura da partícula do vírus da hepatite E (HEV)
+Fonte: BRASIL, 2014.
+12.2 Variabilidade genética
+englobando as regiões ORF1 e ORF2, o HEV pode ser classificado em um único sorotipo,
+o qual, por sua vez, pode ser dividido em quatro genótipos principais. Os genótipos 1 e 2
+podem ainda ser subclassificados em subtipos, de acordo com cinco reconstruções filo-
+genéticas: 5’ ORF1, 3’ ORF1, 5’ ORF2, 3’ ORF2 e genoma completo. O genótipo 1 pode ser
+dividido em cinco subtipos (1a-e); o genótipo 2, em dois subtipos (2a-b); o genótipo 3,
+em 10 subtipos (3a-j) e o genótipo 4, em sete subtipos (4a-g) (GONÇALES, 2013; MIRAZO
+et al., 2014; PARVEZ, 2013).
+A infecção pelos genótipos 1 e 2 do HEV é considerada uma antroponose, classe
+de doenças em que o ser humano é o único reservatório, suscetível e hospedeiro. Já a
+infecção pelo genótipo 3 é uma enzoonose, doença infecciosa de animais de uma área
+específica ou constantemente presente nesta; e a infecção pelo genótipo 4 é uma zoo-
+nose, doença que pode ser transmitida aos seres humanos pelos animais (GONÇALES,
+2013; PARVEZ, 2013).
+O genótipo 1 é encontrado na Ásia e no norte da África e está associado, nessas re-
+giões, a surtos com grande contaminação do suprimento de água. Também se relataram
+pequenos surtos de HEV em Cuba e casos esporádicos na Venezuela e no Uruguai. O
+genótipo 2 foi caracterizado em uma única cepa isolada de fezes coletadas durante um
+surto de hepatite “Não A Não B” no México, em 1986, e na África. O genótipo 3 apresenta
+alta prevalência em rebanhos suínos dos Estados Unidos, Canadá, México, Europa, Nova
+Zelândia, Coreia do Sul, Japão e Tailândia. O HEV pode ser a causa de casos raros e espo-
+rádicos de hepatite aguda por ingestão de alimentos de origem animal. Acredita-se que
+os suínos sejam o reservatório natural do vírus, ou que humanos e suínos compartilhem
+outro reservatório comum. O genótipo 4 é encontrado na China, Japão, Índia, Indonésia
+e Vietnã, sendo identificados em humanos, suínos e outros animais. Nessas regiões, ca-
+origem animal, mas sua presença em surtos por contaminação de suprimento água ain-
+da permanece desconhecida. Esse genótipo também já foi identificado em alguns paí-
+ses da Europa Central (Figura 20) (GONÇALES, 2013; MIRAZO et al., 2014; PARVEZ, 2013).
+Figura 20. Distribuição geográfica dos principais genótipos do vírus da hepatite E (HEV)
+Fonte: Adaptado de MIRAZO et al., 2014.
+12.3 Ciclo replicativo
+No citoplasma celular, o RNA genômico de fita positiva é traduzido para produzir as
+proteínas não estruturais codificadas pela ORF1. O RNA complementar ao RNA genômi-
+co é, então, transcrito em RNA genômico e RNA subgenômico. Acredita-se que o RNA
+pelas ORF2 e ORF3. Essas proteínas podem encapsular o RNA genômico, resultando em
+uma partícula viral progenitora. Ainda não está ainda bem definido o modo como a
+partícula viral deixa a célula infectada (Figura 21) (CAO; MENG, 2012; GONÇALES, 2013).
+Figura 21. Ciclo replicativo do vírus da hepatite E (HEV)
+Fonte: Adaptado de CAO; MENG, 2012.
+O HEV é um importante agente causador de surtos epidêmicos, ocorrendo, princi-
+palmente, em áreas tropicais e subtropicais. As principais vias de transmissão são: reser-
+vatórios de água potável contaminada (transmissão fecal-oral); ingestão de carne crua
+ou mal cozida de animais selvagens, como javalis e cervos, e animais domésticos, como
+porcos e galinhas (transmissão alimentar-zoonótica); pelo sangue (transmissão parente-
+ral) e da mãe para o filho (transmissão vertical perinatal).
+A maioria dos casos de hepatite E aguda é silenciosa e se resolve rapidamente. O
+quadro sintomático aparece em, aproximadamente, 20% dos indivíduos infectados e é
+observado, principalmente, em jovens e adultos de 14 a 40 anos. Além do quadro ictéri-
+co característico de doença, são relatados, frequentemente, colúria, prurido e sintomas
+gastrointestinais, como dor epigástrica, náuseas, vômitos e hipocolia fecal. Metade dos
+pacientes infectados relatam manifestação de febre e dois terços apresentam artralgias.
+Além disso, 85% dos indivíduos que desenvolvem quadro ictérico apresentam hepato-
+megalia. A forma crônica da infecção pelo HEV é rara, apenas tendo sido reportada em
+indivíduos imunossuprimidos. Após a entrada do HEV no hospedeiro, habitualmente
+por via oral (pela ingestão de água e alimentos contaminados), o vírus atinge o fígado e
+se replica no citoplasma dos hepatócitos (GONÇALES, 2013).
+A detecção da imunoglobulina da classe IgM anti-HEV ocorre no período inicial da
+fase aguda de infecção, nas primeiras duas semanas após o início dos sintomas, poden-
+do persistir até cinco meses (KHUDYAKOV; KAMILI, 2011). A imunoglobulina da classe
+IgG anti-HEV surge imediatamente após o aparecimento da IgM e persiste por períodos
+mais longos. A literatura demonstra que menos de 50% dos indivíduos infectados con-
+seguem manter níveis detectáveis de IgG por longos períodos, ao contrário do IgG anti-
+-HAV, que pode persistir indefinidamente. O IgG anti-HEV detectável após 30 anos é raro
+(KHUDYAKOV; KAMILI, 2011; KHUROO, 2011).
+Os anticorpos neutralizantes representam o principal mecanismo de proteção con-
+tra o vírus e são, normalmente, direcionados contra proteínas do capsídeo viral, em espe-
+cial da região codificada pelo ORF2. A proteína ORF2 tem elevada imunogenicidade. Os
+na produção de vacinas. A vacinação está indicada para indivíduos suscetíveis, inclusive
+IgG, pois a reinfecção pode ocorrer. Cabe ressaltar que a vacina nesse momento ainda
+não é recomendada pela OMS, e tem seu uso restrito à China (KHUDYAKOV; KAMILI,
+2011; ZHANG et al., 2012).
+12.4 Diagnóstico
+O imunoensaio é o método laboratorial mais utilizado no diagnóstico de HEV. Os
+antígenos-alvo para o imunoensaio são as proteínas recombinantes, peptídeos sintéti-
+cos que correspondem aos epitopos imunodominantes das proteínas estruturais (ORF2
+e ORF3). Entretanto, é importante considerar o fato de que a heterogeneidade genética
+expressa em relação aos aminoácidos das proteínas da ORF3 é maior que a da ORF2; os
+anticorpos derivados das proteínas da ORF3 têm uma vida média menor do que aque-
+les derivados da ORF2; e as proteínas derivadas da ORF2 estimulam anticorpos neu-
+tralizantes, enquanto as proteínas derivadas da ORF3 não os estimulam. Dessa forma,
+as proteínas derivadas da ORF2 são suficientes para a produção de ensaios sensíveis e
+específicos para a detecção do HEV (ECHEVARRÍA, 2014; GONÇALES, 2013).
+O teste para a pesquisa de anticorpos IgM anti-HEV pode ser usado para o diag-
+nóstico da infecção recente pelo HEV. Anticorpos IgG anti-HEV são encontrados desde
+o início da infecção, com pico entre 30 e 40 dias após a fase aguda da doença, e podem
+persistir por até 14 anos (GONÇALES, 2013; MIRAZO et al., 2014).
+A detecção da viremia em amostras de fezes por transcrição reversa seguida de rea-
+ção em cadeia da polimerase (RT-PCR) tem auxiliado no diagnóstico dos casos agudos
+de hepatite E (MIRAZO et al., 2014). O HEV pode ser detectado nas fezes, aproximada-
+mente, uma semana antes do início dos sintomas da doença e costuma persistir por
+mais duas semanas, podendo, em alguns casos, ser detectado em até 52 dias após o iní-
+cio da infecção. No soro, o RNA viral pode ser detectado, na maioria dos pacientes, duas
+semanas após o início da doença; em alguns casos, a reatividade chega a se prolongar
+por 4 a 16 semanas.
+A suspeita diagnóstica de HEV em áreas não endêmicas deve basear-se na exclusão
+dos agentes das hepatites A, B e C, além dos vírus Epstein-Barr e citomegalovírus. O his-
+tórico de viagens, a procedência de regiões endêmicas para o HEV e a ocorrência de epi-
+demias que têm como fonte de contágio os reservatórios de água devem ser interpre-
+tados como indícios importantes de aquisição de infecção por HEV (GONÇALES, 2013).
+A Figura 22 mostra a dinâmica dos principais marcadores utilizados no diagnóstico
+da infecção pelo HEV.
+Figura 22. Dinâmica dos principais marcadores utilizados no diagnóstico da infecção pelo vírus da
+hepatite E (HEV)
+Fonte: GONÇALVES, 2013.
+13. SISTEMATIZAÇÃO DO DIAGNÓSTICO DAS HEPATITES VIRAIS
+“Sorologia de hepatite” (sem explicitar quais os
+Realizar diagnóstico das hepatites A, B e C
+marcadores a serem pesquisados)
+“Sorologia (ou diagnóstico) de HAV” Realizar diagnóstico da hepatite A
+Realizar diagnóstico da hepatite B (Fluxogramas 2
+“Sorologia (ou diagnóstico) de HBV”
+ou 3)
+“Sorologia (ou diagnóstico) de hepatite B oculta” Seguir as orientações para o diagnóstico de IOB
+“Sorologia (ou diagnóstico) de hepatite B em
+Realizar Fluxograma 2
+menores de 18 meses”
+“Sorologia (ou diagnóstico) de HCV” Realizar diagnóstico da hepatite C (Fluxograma 5)
+“Sorologia (ou diagnóstico) de hepatite C em Seguir as orientações para o diagnóstico da
+menores de 18 meses” infecção pelo HCV em menores de 18 meses
+Fonte: DIAHV/SVS/MS.
+14. SITUAÇÕES ESPECIAIS NO DIAGNÓSTICO DAS HEPATITES
+Hepatite C Suspeita de hepatite C aguda Realizar teste molecular1
+Realizar pesquisa de anticorpos anti-
+Hepatite D Suspeita de hepatite D (ou Delta)
+Realizar pesquisa de anticorpos anti-
+referência em hepatites virais1
+Fonte: DIAHV/SVS/MS.
+1O diagnóstico somente será confirmado após soroconversão para anti-HCV, a qual irá depender da janela
+imunológica (período de até 90 dias).
+Em caso de suspeita de infecção pelo HEV, a unidade solicitante deverá en-
+trar em contato com o DIAHV pelo e-mail clab@aids.gov.br para a definição
+de solicitação, na qual deverá ser confirmada a exclusão de outros agentes
+infecciosos (citados no item 12.4).
+15. TECNOVIGILÂNCIA
+A Tecnovigilância, da Agência Nacional de Vigilância Sanitária (Anvisa), do Ministério
+da Saúde, tem por objetivo monitorar e, quando apropriado, verificar a segurança sani-
+tária e o desempenho de produtos para saúde na etapa pós-comercialização (equipa-
+mentos, materiais, artigos médico-hospitalares, implantes e produtos para diagnóstico
+de uso in-vitro), com vistas a identificar eventos e desvios da qualidade que produzam
+ou, potencialmente, possam produzir resultados inesperados ou indesejáveis, afetando
+a segurança do paciente. Consiste em um sistema de vigilância de eventos adversos (EA)
+e queixas técnicas (QT) em relação a esses produtos e recomenda a adoção de medi-
+das que garantam a proteção e a promoção da saúde da população. Considera-se EA o
+evento que causou dano à saúde de um indivíduo. Se, até o momento da notificação, o
+problema observado no produto ainda não tiver acarretado nenhum dano à saúde, este
+deverá ser notificado como QT.
+Outro objetivo importante da Tecnovigilância é a coordenação nacional dessas ati-
+vidades de monitoramento. As diversas competências dessa área da Anvisa estão des-
+critas na Portaria nº 593, de 25 de agosto de 2000, atualizada pela Portaria nº 406, de 14
+de outubro de 2005.
+Os EA e as QT de produtos para a saúde, na fase de pós-comercialização, podem
+ser notificados à Tecnovigilância/Anvisa/Ministério da Saúde pelo Notivisa. Trata-se de
+um sistema informatizado em plataforma web, previsto pela Portaria n° 1.660, de 22 de
+julho de 2009, do Ministério da Saúde.
+Podem utilizar o Notivisa os profissionais de serviços de saúde; a Anvisa; as
+Vigilâncias Sanitárias Estaduais e Municipais; as Secretarias Estaduais e Municipais de
+Saúde; Laboratórios de Saúde Pública; Universidades/Centros de Pesquisa; profissionais
+que atuam em drogarias, farmácias e em empresas detentoras de registro de produtos
+sob vigilância sanitária (fabricantes, importadores e distribuidores) e os profissionais de
+saúde liberais. Para acessar o sistema, é preciso se cadastrar de acordo com a categoria
+do notificante. Por exemplo, o profissional liberal deve se cadastrar como profissional
+de saúde, mas se for um profissional vinculado a alguma instituição/empresa, deve pro-
+videnciar o cadastro institucional. Os cidadãos poderão notificar EA e QT por meio dos
+formulários próprios de notificação.
+notificacaoavulsa1.asp.
+16. REFERÊNCIAS
+ABBAS, Z.; AFZAL, R. Life cycle and pathogenesis of hepatitis D virus: A review. World
+journal of hepatology, [S.l.], v. 5, n. 12, p. 666-75, 27 dez. 2013. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3879688/>. Acesso em: 29 maio 2018.
+ALVARADO-MORA, M. V. et al. An update on HDV: Virology, pathogenesis and treatment.
+medpress.com/serveFile.cfm?sUID=68afc346-72f4-482e-b40b-2b14cbf5c37d>. Acesso
+em: 29 maio 2018.
+ARAÚJO, N. M. et al. High proportion of subgroup A’ (genotype A) among Brazilian iso-
+lates of Hepatitis B virus. Archives of virology, [S.l.], v. 149, n. 7, p. 1383-95, jul. 2004.
+em: 29 maio 2018.
+ASHFAQ, U. A et al. An overview of HCV molecular biology, replication and immune res-
+ncbi.nlm.nih.gov/pubmed/21477382>. Acesso em: 29 maio 2018.
+ASPINALL, E. J. et al. Hepatitis B prevention, diagnosis, treatment and care: a review.
+Occupational medicine, [S.l.], v. 61, n. 8, p. 531-40, dez. 2011. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/22114089>. Acesso em: 29 maio 2018.
+BARON, J. L. et al. Activation of a Nonclassical NKT Cell Subset in a Transgenic Mouse
+Model of Hepatitis B Virus Infection. Immunity, [S.l.], v. 16, n. 4, p. 583-594, 4 abr. 2002.
+em: 29 maio 2018.
+BARTENSCHLAGER, R.; COSSET, F.-L.; LOHMANN, V. Hepatitis C virus replication cycle.
+Journal of hepatology, [S.l.], v. 53, n. 3, p. 583-585, set. 2010. Disponível em: <https://
+www.journal-of-hepatology.eu/article/S0168-8278(10)00474-5/abstract>. Acesso em:
+29 maio 2018.
+BARTOSCH, B. et al. Cell Entry of Hepatitis C Virus Requires a Set of Co-receptors that
+Include the CD81 Tetraspanin and the SR-B1 Scavenger Receptor. Journal of Biological
+nlm.nih.gov/pubmed/12913001>. Acesso em: 29 maio 2018.
+BELD, M. et al. Performance of the New Bayer VERSANT HCV RNA 3.0 Assay for
+Quantitation of Hepatitis C Virus RNA in Plasma and Serum: Conversion to International
+Units and Comparison with the Roche COBAS Amplicor HCV Monitor, Version 2.0, Assay.
+Journal of Clinical Microbiology, [S.l.], v. 40, n. 3, p. 788-793, 1 mar. 2002. Disponível
+BLANCHARD, E. et al. Hepatitis C virus entry depends on clathrin-mediated endocytosis.
+Journal of virology, [S.l.], v. 80, n. 14, p. 6964-72, jul. 2006. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC1489042/>. Acesso em: 29 maio 2018.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Coordenação-Geral de
+Desenvolvimento da Epidemiologia em Serviços. Guia de Vigilância em Saúde. 2. ed.
+Brasília: Ministério da Saúde, 2017a.
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância Epidemiológica. Hepatites virais: o Brasil está atento. 3. ed. Brasília:
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids
+e das Hepatites Virais. Boletim Epidemiológico de Hepatites Virais. Brasília: Ministério
+da Saúde, 2017b.
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids
+e das Hepatites Virais. Protocolo Clínico e Diretrizes Terapêuticas para Hepatite B e
+Coinfecções. Brasília: Ministério da Saúde, 2017c.
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids
+e das Hepatites Virais. Protocolo Clínico e Diretrizes Terapêuticas para Hepatite C e
+Coinfecções. Brasília: Ministério da Saúde, 2017d.
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids
+e das Hepatites Virais. Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da
+Transmissão Vertical de HIV, Sífilis e Hepatites Virais. Brasília: Ministério da Saúde,
+2017e.
+_. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância, Prevenção e Controle das IST, do HIV/Aids e das Hepatites Virais. Telelab -
+Diagnóstico de Hepatites Virais. Brasília: Ministério da Saúde, 2014.
+CALIENDO, A. M. et al. Multilaboratory evaluation of real-time PCR tests for hepatitis B
+virus DNA quantification. Journal of clinical microbiology, [S.l.], v. 49, n. 8, p. 2854-8,
+Acesso em: 29 maio 2018.
+CAO, D.; MENG, X.-J. Molecular biology and replication of hepatitis E virus. Emerging
+Microbes & Infections, [S.l.], v. 1, n. 8, p. e17, 22 ago. 2012. Disponível em: <https://
+www.nature.com/articles/emi20127>. Acesso em: 29 maio 2018.
+CHEVALIEZ, S.; PAWLOTSKY, J.-M. Virology of hepatitis C virus infection. Best Pract Res
+nlm.nih.gov/pubmed/23199498>. Acesso em: 29 maio 2018.
+CHEVALIEZ, S.; RODRIGUEZ, C.; PAWLOTSKY, J.-M. New Virologic Tools for Management
+of Chronic Hepatitis B and C. Gastroenterology, [S.l.], v. 142, n. 6, p. 1303-13.e1, maio
+29 maio 2018.
+CIANCIO, A.; RIZZETTO, M. Chronic hepatitis D at a standstill: where do we go from here?
+Nat Rev Gastroenterol Hepatol, [S.l.], v. 11, n. 1, p. 68-71, 10 jan. 2014. Disponível em:
+CUTHBERT, J. A. Hepatitis A: old and new. Clinical Microbiology Reviews, [S.l.], v. 14, n. 1,
+Acesso em: 29 maio 2018.
+DA CONCEIÇÃO, O. J. G.; SICILIANO, R. F.; FOCACCIA, R. Hepatite A: Patogenia. In:
+FOCACCIA, R. (Ed.). Tratado de Hepatites Virais e Doenças Associadas. 3. ed. São
+Paulo: Editora Atheneu, 2013. p. 245-247.
+DA ROSA, L. et al. Diagnostic Performance of Two Point-of-Care Tests for Anti-HCV
+Detection. Hepatitis monthly, [S.l.], v. 13, n. 9, p. e12274, jan. 2013. Disponível em: <htt-
+ps://www.ncbi.nlm.nih.gov/pubmed/24282422>. Acesso em: 29 maio 2018.
+DOMINGO, E.; PARRISH, C. R.; HOLLAND, J. J. Origin and Evolution of Viruses. [S.l.]:
+Elsevier Science, 2008.
+DREXLER, J. F. et al. Performance of the novel Qiagen artus QS-RGQ viral load assays com-
+pared to that of the Abbott RealTime system with genetically diversified HIV and hepati-
+tis C Virus plasma specimens. Journal of clinical microbiology, [S.l.], v. 50, n. 6, p. 2114-
+Acesso em: 29 maio 2018.
+DUSTIN, L. B.; RICE, C. M. Flying under the radar: the immunobiology of hepatitis C.
+Annual review of immunology, [S.l.], v. 25, p. 71-99, jan. 2007. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/17067278>. Acesso em: 29 maio 2018.
+ECDC (European Centre for Disease Prevention and Control). Hepatitis A outbreaks in
+the EU/EEA mostly affecting men who have sex with men [on-line]. 19 maio 2017.
+-hepatitis-outbreaks-eueea-mostly-affecting-men-who-have-0>. Acesso em: 17 abr.
+2018.
+ECHEVARRÍA, J.-M. Light and Darkness: Prevalence of Hepatitis E Virus Infection among
+the General Population. Scientifica, [S.l.], v. 2014, p. 481016, jan. 2014. Disponível em:
+EVANS, M.; HAHN, T. VON; TSCHERNE, D. Claudin-1 is a hepatitis C virus co-receptor re-
+quired for a late step in entry. Nature, [S.l.], v. 446, n. 7137, p. 801-5, abr. 2007. Disponível
+FERREIRA, R. C. et al. Prevalence of hepatitis B virus and risk factors in Brazilian non-
+-injecting drug users. Journal of medical virology, [S.l.], v. 81, n. 4, p. 602-9, abr. 2009.
+maio 2018.
+FIELDS, B. N.; KNIPE, D. M.; HOWLEY, P. M. Fields’ Virology. 5. ed. [S.l.]: Wolters Kluwer
+Health/Lippincott Williams & Wilkins, 2007.
+FRANCISCUS, A.; HIGHLEYMAN, L. HCV diagnostic tools: HCV Viral Load Tests. HCSP Fact
+pdf/viralload.pdf>. Acesso em: 29 maio 2018.
+FUNG, J. et al. Hepatitis B Surface Antigen Seroclearance: Relationship to Hepatitis B e-
+-Antigen Seroclearance and Hepatitis B e-Antigen-Negative Hepatitis. The American
+journal of gastroenterology, [S.l.], v. 109, n. 11, p. 1764-70, nov. 2014. Disponível em:
+GASPAR, A. M. C.; VITRAL, C. LA.; DE OLIVEIRA, J. M. Biologia Molecular do Vírus da
+Hepatite A. In: FOCCACIA, R. (Ed.). Tratado de Hepatites Virais e Doenças Associadas.
+3. ed. ed. São Paulo: Editora Atheneu, 2013. p. 249-55.
+GERLICH, W. H. Medical virology of hepatitis B: how it began and where we are now.
+nlm.nih.gov/pubmed/23870415>. Acesso em: 29 maio 2018.
+GHAMARI, S. et al. Prevalence of hepatitis delta virus (HDV) infection in chronic hepatitis
+B patients with unusual clinical pictures. Hepatitis monthly, [S.l.], v. 13, n. 8, p. e6731,
+29 maio 2018.
+GOLDBERG, E.; CHOPRA, S.; O’DONOVAN, D. J. Vertical transmission of hepatitis C
+virus. Up To Date [on-line]. Última atualização: 29 nov. 2017. Disponível em: <https://
+www.uptodate.com/contents/vertical-transmission-of-hepatitis-c-virus>. Acesso em:
+17 abr. 2018.
+GONÇALES, N. S. L. Vírus da Hepatite E: Virologia Molecular, Quadro Clínico, Diagnóstico,
+Transmissão e Prevenção. In: FOCACCIA, R. (Ed.). Tratado de Hepatites Virais e Doenças
+Associadas. 3. ed. São Paulo: Editora Atheneu, 2013. p. 973-85.
+GONÇALVES JUNIOR, F. L. Hepatite por Vírus B: História Natural da Infecção. In: FOCACCIA,
+R. (Ed.). Tratado de Hepatites Virais e Doenças Associadas. 3. ed. São Paulo: Editora
+Atheneu, 2013. p. 327-39.
+GUIDOTTI, L. G. et al. Intracellular Inactivation of the Hepatitis B Virus by Cytotoxic T
+Lymphocytes. Immunity, [S.l.], v. 4, n. 1, p. 25-36, 1 jan. 1996. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/8574849>. Acesso em: 29 maio 2018.
+_. Viral clearance without destruction of infected cells during acute HBV infection.
+nlm.nih.gov/pubmed/10221919>. Acesso em: 29 maio 2018.
+GÜNTHER, S. Genetic variation in HBV infection: genotypes and mutants. Journal of
+nlm.nih.gov/pubmed/16831690>. Acesso em: 29 maio 2018.
+HADZIYANNIS, S. J. Review: hepatitis delta. J Gastroenterol Hepatol, [S.l.], v. 12, n. 4, p.
+Acesso em: 29 maio 2018.
+HUGHES, S. A.; WEDEMEYER, H.; HARRISON, P. M. Hepatitis delta virus. The Lancet, [S.l.],
+med/21511329>. Acesso em: 29 maio 2018.
+ISMAIL, A. M. et al. Performance characteristics and comparison of Abbott and artus real-
+-time systems for hepatitis B virus DNA quantification. Journal of clinical microbio-
+gov/pubmed/21795507>. Acesso em: 29 maio 2018.
+JACKA, B. et al. Sequencing of the Hepatitis C Virus: A Systematic Review. PloS one, [S.l.],
+articles/PMC3694929/>. Acesso em: 29 maio 2018.
+JONAS, M. M. Hepatitis B and pregnancy: an underestimated issue. Liver international,
+pubmed/19207977>. Acesso em: 29 maio 2018.
+KAKIMI, K. et al. Cutting Edge: Inhibition of Hepatitis B Virus Replication by Activated
+NK T Cells Does Not Require Inflammatory Cell Recruitment to the Liver. The Journal of
+ncbi.nlm.nih.gov/pubmed/11739482>. Acesso em: 29 maio 2018.
+KAWATANI, T. et al. Incidence of hepatitis virus infection and severe liver dysfunction in
+patients receiving chemotherapy for hematologic malignancies. European Journal of
+nlm.nih.gov/pubmed/11553266>. Acesso em: 29 maio 2018.
+KHUDYAKOV, Y.; KAMILI, S. Serological diagnostics of hepatitis E virus infection. Virus
+nih.gov/pubmed/21704091>. Acesso em: 29 maio 2018.
+KHUROO, M. S. Discovery of hepatitis E: The epidemic non-A, non-B hepatitis 30 years
+down the memory lane. Virus Research, [S.l.], v. 161, n. 1, p. 3-14, out. 2011. Disponível
+KIM, C. W.; CHANG, K.-M. Hepatitis C virus: virology and life cycle. Clinical and molecular
+nih.gov/pubmed/23593605>. Acesso em: 29 maio 2018.
+KOUTSOUDAKIS, G. et al. Characterization of the early steps of hepatitis C virus infection
+by using luciferase reporter viruses. Journal of virology, [S.l.], v. 80, n. 11, p. 5308-20,
+em: 29 maio 2018.
+LAU, G. K. K. High hepatitis B virus (HBV) DNA viral load as the most important risk factor
+for HBV reactivation in patients positive for HBV surface antigen undergoing autolo-
+gous hematopoietic cell transplantation. Blood, [S.l.], v. 99, n. 7, p. 2324-30, 1 abr. 2002.
+maio 2018.
+LEE, J. M.; AHN, S. H. Quantification of HBsAg: basic virology for clinical practice. World
+journal of gastroenterology, [S.l.], v. 17, n. 3, p. 283-9, 21 jan. 2011. Disponível em: <ht-
+tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022287/>. Acesso em: 29 maio 2018.
+LEMON, S. M. Type A viral hepatitis: epidemiology, diagnosis, and prevention. Clinical
+nlm.nih.gov/pubmed/9265900>. Acesso em: 29 maio 2018.
+LIANG, T. J. Hepatitis B: the virus and disease. Hepatology, [S.l.], v. 49, n. 5, p. S13-21, maio
+29 maio 2018.
+LINDENBACH, B. D.; RICE, C. M. The ins and outs of hepatitis C virus entry and assembly.
+Nature reviews Microbiology, [S.l.], v. 11, n. 10, p. 688-700, 10 set. 2013. Disponível em:
+LUPBERGER, J. et al. EGFR and EphA2 are host factors for hepatitis C virus entry and
+possible targets for antiviral therapy. Nature medicine, [S.l.], v. 17, n. 5, p. 589-95, maio
+29 maio 2018.
+MACK, C. L. et al. NASPGHAN practice guidelines: Diagnosis and management of hepati-
+tis C infection in infants, children, and adolescents. Journal of pediatric gastroentero-
+ncbi.nlm.nih.gov/pubmed/22487950>. Acesso em: 29 maio 2018.
+MARUYAMA, T. et al. The serology of chronic hepatitis B infection revisited. The Journal
+of clinical investigation, [S.l.], v. 91, n. 6, p. 2586-95, jun. 1993. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/8514870>. Acesso em: 29 maio 2018.
+MATHENY, S. C.; KINGERY, J. E. Hepatitis A. American family physician, [S.l.], v. 86,
+med/23198670>. Acesso em: 29 maio 2018.
+MATHEW, B. C.; BIJU, R. S.; THAPALIA, N. An overview of electrochemiluminescent
+(ECL) technology in laboratory investigations. Kathmandu University medical jour-
+med/16401954>. Acesso em: 29 maio 2018.
+MATOS, M. A. D. DE et al. Occult hepatitis B virus infection among injecting drug users in
+the Central-West Region of Brazil. Memórias do Instituto Oswaldo Cruz, [S.l.], v. 108, n.
+text&pid=S0074-02762013000300386>. Acesso em: 29 maio 2018.
+MCCLARY, H. et al. Relative Sensitivity of Hepatitis B Virus and Other Hepatotropic Viruses
+to the Antiviral Effects of Cytokines. Journal of Virology, [S.l.], v. 74, n. 5, p. 2255-64, 1
+em: 29 maio 2018.
+MEHTA, S. H. et al. Protection against persistence of hepatitis C. Lancet, [S.l.], v. 359,
+med/11988247>. Acesso em: 29 maio 2018.
+MELLO, F. C. A. et al. Hepatitis B virus genotypes circulating in Brazil: molecular charac-
+terization of genotype F isolates. BMC microbiology, [S.l.], v. 7, p. 103, 2007. Disponível
+MESSINA, J. P. et al. Global distribution and prevalence of hepatitis C virus genotypes.
+nih.gov/pubmed/25069599>. Acesso em: 29 maio 2018.
+MIRAZO, S. et al. Transmission, diagnosis, and management of hepatitis E: an update.
+Hepatic Medicine Evidence and Research, [S.l.], v. 6, p. 45-59, jan. 2014. Disponível em:
+MONAZAHIAN, M. et al. Low density lipoprotein receptor as a candidate receptor for
+hepatitis C virus. Journal of medical virology, [S.l.], v. 57, n. 3, p. 223-9, mar. 1999.
+maio 2018.
+MORADPOUR, D.; PENIN, F.; RICE, C. M. Replication of hepatitis C virus. Nature reviews
+nlm.nih.gov/pubmed/17487147>. Acesso em: 29 maio 2018.
+NAINAN, O. V et al. Diagnosis of hepatitis A virus infection: A molecular approach.
+Clinical Microbiology Reviews, [S.l.], v. 19, n. 1, p. 63-79. jan. 2006. Disponível em: <htt-
+ps://www.ncbi.nlm.nih.gov/pubmed/16418523>. Acesso em: 29 maio 2018.
+NETTO, G. J.; SAAD, R. D.; DYSERT, P. A. Diagnostic molecular pathology: current techni-
+ques and clinical applications, part I. Proceedings (Baylor University Medical Center),
+articles/PMC1214554/>. Acesso em: 29 maio 2018.
+NGUYEN, M. H.; KEEFFE, E. B. Are hepatitis B e antigen (HBeAg)-positive chronic hepatitis
+B and HBeAg-negative chronic hepatitis B distinct diseases? Clinical infectious disea-
+gov/pubmed/18840075>. Acesso em: 29 maio 2018.
+NGUYEN, T.; LOCARNINI, S. Hepatitis: Monitoring drug therapy for hepatitis B—a global
+challenge? Nature Reviews Gastroenterology & Hepatology, [S.l.], v. 6, n. 10, p. 565-
+em: 29 maio 2018.
+OCANA, S. et al. Diagnostic strategy for occult hepatitis B virus infection. World journal
+of gastroenterology, [S.l.], v. 17, n. 12, p. 1553-7, 28 mar. 2011. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/21472120>. Acesso em: 29 maio 2018.
+PARVEZ, M. K. Chronic hepatitis E infection: risks and controls. Intervirology, [S.l.],
+FullText/349888>. Acesso em: 29 maio 2018.
+PEREIRA, L. M. B.; XIMENES, R. A. DE A.; MOREIRA, R. C. Estudo de prevalência de base
+populacional das infecções pelos vírus das hepatites A, B e C nas capitais do Brasil.
+Recife: Universidade de Pernambuco, 2010.
+PILERI, P. et al. Binding of hepatitis C virus to CD81. Science, New York, v. 282, n. 5390, p.
+Acesso em: 29 maio 2018.
+PLOSS, A. et al. Human occludin is a hepatitis C virus entry factor required for infection
+of mouse cells. Nature, [S.l.], v. 457, n. 7231, p. 882-6, fev. 2009. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/19182773>. Acesso em: 29 maio 2018.
+REHERMANN, B. et al. Hepatitis B virus (HBV) sequence variation of cytotoxic T lym-
+phocyte epitopes is not common in patients with chronic HBV infection. The Journal
+of clinical investigation, [S.l.], v. 96, n. 3, p. 1527-34, set. 1995. Disponível em: <https://
+www.ncbi.nlm.nih.gov/pubmed/7544809>. Acesso em: 29 maio 2018.
+_. The hepatitis B virus persists for decades after patients’ recovery from acute viral
+hepatitis despite active maintenance of a cytotoxic T-lymphocyte response. Nature me-
+gov/pubmed/8837608>. Acesso em: 29 maio 2018.
+REHERMANN, B.; NASCIMBENI, M. Immunology of hepatitis B virus and hepatitis C virus
+infection. Nature reviews Immunology, [S.l.], v. 5, n. 3, p. 215-29, mar. 2005. Disponível
+RICE, C. M. New insights into HCV replication: potential antiviral targets. Topics in anti-
+nih.gov/pubmed/21946389>. Acesso em: 29 maio 2018.
+SABLON, E.; SHAPIRO, F. Advances in molecular diagnosis of HBV infection and drug
+resistance. International journal of medical sciences, [S.l.], v. 2, n. 1, p. 8-16, 2005.
+em: 29 maio 2018.
+SCALIONI, L. DE P. et al. Performance of rapid hepatitis C virus antibody assays among
+high- and low-risk populations. Journal of clinical virology, [S.l.], v. 60, n. 3, p. 200-5, 1
+em: 29 maio 2018.
+SCHEEL, T. K. H.; RICE, C. M. Understanding the hepatitis C virus life cycle paves the way
+for highly effective therapies. Nature medicine, [S.l.], v. 19, n. 7, p. 837-49, jul. 2013.
+maio 2018.
+SEEGER, C.; MASON, W. S. Hepatitis B Virus Biology. Microbiology and Molecular
+ncbi.nlm.nih.gov/pubmed/10704474>. Acesso em: 29 maio 2018.
+SILVA, C. et al. The influence of occult infection with hepatitis B virus on liver histology
+and response to interferon treatment in chronic hepatitis C patients. The Brazilian
+Journal of Infectious Diseases, [S.l.], v. 8, p. 431-439, 2004. Disponível em: <http://
+www.scielo.br/scielo.php?script=sci_abstract&pid=S1413-86702004000600007&lng=e
+n&nrm=iso>. Acesso em: 29 maio 2018.
+SITNIK, R.; PINHO, J. R. R. Hepatitis B virus genotypes and precore and core mutants in
+Brazilian patients. Journal of Clinical Microbiology, [S.l.], v. 42, n. 6, p. 2455-60, 2004.
+maio 2018.
+SMEDILE, A. et al. Hepatite Delta: Historia Natural - Transmissão - Imunodiagnóstico.
+In: FOCACCIA, R. (Ed.). Tratado de Hepatites Virais e Doenças Associadas. 3. ed. São
+Paulo: Editora Atheneu, 2013. p. 939-955.
+SMITH, D. B. et al. Expanded classification of hepatitis C virus into 7 genotypes and 67
+subtypes: updated criteria and genotype assignment web resource. Hepatology, [S.l.],
+med/24115039>. Acesso em: 29 maio 2018.
+STRAUSS, E. História Natural da Hepatite C - Fatores de Progressão. Avaliação Prognóstica
+da Hepatite C Crônica. In: FOCCACIA, R. (Ed.). Tratado de Hepatites Virais e Doenças
+Associadas. 3. ed. São Paulo: Editora Atheneu, 2013. p. 453-470.
+TATEMATSU, K. et al. A genetic variant of hepatitis B virus divergent from known human
+genotype J. Journal of virology, [S.l.], v. 83, n. 20, p. 10538-47, out. 2009. Disponível em:
+THIMME, R. et al. CD8+ T Cells Mediate Viral Clearance and Disease Pathogenesis during
+Acute Hepatitis B Virus Infection. Journal of Virology, [S.l.], v. 77, n. 1, p. 68-76, 1 jan.
+29 maio 2018.
+TRAN, T. T. H.; TRINH, T. N.; ABE, K. New complex recombinant genotype of hepatitis B
+virus identified in Vietnam. Journal of virology, [S.l.], v. 82, n. 11, p. 5657-63, jun. 2008.
+maio 2018.
+VILLAR, L. M. et al. Co-circulation of genotypes IA and IB of hepatitis A virus in Northeast
+Brazil. Brazilian Journal of Medical and Biological Research, [S.l.], v. 39, n. 7, p. 873-81,
+29 maio 2018.
+WHO (WORLD HEALTH ORGANIZATION). Hepatitis A outbreaks mostly affecting men
+who have sex with men: European Region and the Americas. 7 jun. 2017. [On-line].
+Acesso em: 18 abr. 2018.
+_. Hepatitis Delta Fact sheet. Reviewed July 2017 [On-line]. 2017b. Disponível
+18 abr. 2018.
+_. List of diagnostics eligible to tender for procurement by WHO in 2013 (in-
+diagnostics_laboratory/procurement/130723_eligible_hiv_products_for_procure-
+ment_2013.pdf>. Acesso em: 27 abr. 2018.
+YOLKEN, R. H.; STOPA, P. J. Enzyme-linked fluorescence assay: ultrasensitive solid-phase
+assay for detection of human rotavirus. Journal of Clinical Microbiology, [S.l.], v. 10,
+Acesso em: 29 maio 2018.
+ZEISEL, M. B. et al. Scavenger receptor class B type I is a key host factor for hepatitis
+C virus infection required for an entry step closely linked to CD81. Hepatology, [S.l.],
+med/18000990>. Acesso em: 29 maio 2018.
+ZHANG, J. et al. Hepatitis E virus: Neutralizing sites, diagnosis, and protective immunity.
+Reviews in Medical Virology, [S.l.], v. 22, n. 5, p. 339-49, set. 2012. Disponível em: <ht-
+tps://www.ncbi.nlm.nih.gov/pubmed/22645002> Acesso em: 29 maio 2018.
+17. GLOSSÁRIO
+em negrito, com a letra G sobrescrita.
+Ácido nucleico. Macromoléculas formadas por unidades monoméricas denominadas
+nucleotídeos. São as moléculas em que estão armazenadas as informações genéticas.
+Algoritmo. Sequência de procedimentos utilizados para a resolução de problemas.
+Aminotransferases. Enzimas essenciais envolvidas no metabolismo. São liberadas na
+corrente sanguínea quando ocorre dano na membrana dos hepatócitos.
+Anictérico. Indivíduo com pele de aspecto normal, sem presença de Icterícia ou sinal
+de bilirrubina na pele.
+Anorexia. Distúrbio alimentar que provoca perda de peso acima do que é considerado
+saudável, considerando parâmetros como idade e peso.
+Anticorpo. Proteína (imunoglobulina) produzida por linfócitos B, que se liga especifica-
+mente a uma substância reconhecida como estranha pelo organismo.
+Antígeno. Qualquer substância ou material que possa estimular a produção de anticor-
+pos em um organismo.
+Área endêmica. Espaço ou região onde existe a ocorrência de um grande número de
+casos de uma doença, de forma contínua.
+Bilirrubinas. Pigmentos resultantes da quebra de grupamentos químicos, principal-
+mente provenientes do grupamento heme. Normalmente circulam no plasma sanguí-
+neo, sendo absorvidas pelas células do fígado e secretadas na bílis.
+Cap. Estrutura típica do mRNA eucariótico. Sua função é de proteção contra a de-
+ribossomos.
+Carga viral. Quantificação das partículas virais no plasma (HBV-DNA ou HCV-RNA). É
+conhecida também como teste molecular quantitativo.
+Cirrose. Doença crônica do fígado que se caracteriza pela presença de fibrose e a forma-
+ção de nódulos que impedem a circulação sanguínea.
+Comunicantes. Contatos intradomiciliares ou sexuais ou qualquer outro indivíduo que
+compartilhe objetos de uso pessoal do portador das hepatites virais (escova de den-
+te, lâmina de barbear e outros objetos de uso pessoal). No caso de pessoas que usam
+drogas, estão incluídos aqueles que compartilham quaisquer materiais para o uso de
+substâncias (seringas, agulhas, canudos, cachimbos etc).
+Custo-efetividade. Melhor resultado em uma avaliação econômica que considera dis-
+tintas intervenções de saúde, tendo seus resultados expressos em unidades monetárias
+e seus efeitos em unidades clínico-epidemiológicas.
+Diagnóstico etiológico. Diagnóstico realizado por médico em relação a uma determi-
+nada doença, a partir da comprovação de sua causa, seja por meio de método clínico ou
+por exames laboratoriais.
+Epitopo. Também conhecido como determinante antigênico, é a parte de um antígeno
+reconhecida pelo sistema imune.
+Espécie química. Termo que se refere às diversas formas pelas quais elementos ou
+substâncias químicas existem na natureza ou em uma reação. Podem ser átomos, íons,
+moléculas ou radicais.
+Especificidade clínica ou especificidade diagnóstica. Capacidade de um ensaio de
+uma desordem clínica ou doença.
+Fase de leitura aberta. Sequência de DNA que pode ser traduzida em proteína após ser
+reconhecida por ribossomos.
+Fluido crevicular gengival. Líquido encontrado no sulco gengival, contendo proteínas
+plasmáticas e anticorpos. É obtido pressionando a gengiva acima dos dentes.
+Fluido oral. Denominação popular para o fluido crevicular gengival.
+Fluxograma. Diagrama que pode ser entendido como uma representação esquemática
+de um processo.
+Fosfatase alcalina. Enzima hepática cujos níveis circulantes podem se elevar, entre ou-
+tros, nos casos de doença hepática.
+Iatrogênica. Reação adversa por uso de medicamento.
+Ictérica. Pessoa com coloração amarelada na pele e mucosas devido ao aumento dos
+níveis de bilirrubina no sangue.
+Imunoensaio. Método que detecta a presença de um complexo antígeno-anticorpo
+em uma amostra biológica.
+Imunossuprimidos/imunodeprimidos. Indivíduos nos quais ocorre a redução das rea-
+ções imunitárias no organismo. A origem pode ser o tratamento terapêutico com medi-
+camentos imunossupressores, a infecção por agentes etiológicos (como o vírus causa-
+dor da aids, o HIV) ou ainda o tratamento quimioterápico para o câncer.
+IOB (Infecção Oculta pelo Vírus da Hepatite B). Detecção do DNA do HBV no soro ou no
+tecido hepático de pacientes negativos para o HBsAg.
+Interferons. Proteínas da família das citocinas. Estimulam a resposta imune contra pa-
+tógenos como vírus, bactérias, parasitas e células tumorais.
+Janela diagnóstica. Conceito mais amplo que o de janela imunológica. O período de
+de um marcador da infecção, seja ele DNA viral, RNA viral, antígeno ou anticorpo. A du-
+ração desse período depende do tipo do teste, da sensibilidade do teste e do método
+utilizado para detectar o marcador.
+Janela imunológica. Duração do período entre uma infecção até a primeira detecção
+de anticorpos contra o agente infeccioso.
+Linfocitose. Aumento do número de linfócitos no sangue.
+ORF. Do inglês Open Reading Frame, o mesmo que Fase Aberta de Leitura.
+Parênquima. Tecido que desempenha a função principal de um determinado órgão.
+Populações vulneráveis. Pessoas e grupos mais susceptíveis às infecções e adoecimen-
+tos do que outras, uma vez que dispõem de menos possibilidades de se proteger e se
+prevenir, ou cujo comportamento as expõe a fontes de infecção.
+Ribonucleoproteína. Complexo contendo proteínas e ácido ribonucleico (RNA).
+Sensibilidade clínica ou sensibilidade diagnóstica. Refere-se à capacidade de um en-
+desordem clínica ou doença.
+Serviço de saúde. Conjunto de instituições prestadoras de serviços de saúde no nível
+municipal, estadual e federal. Deve-se observar a estrutura do sistema de saúde local
+para um laboratório com infraestrutura suficiente para confirmar o diagnóstico.
+Tropismo. Propensão de um vírus possui a infectar determinado tipo de célula. Está
+virais.
+Valor preditivo positivo. Proporção de indivíduos com um resultado positivo em um
+teste e que apresentam a doença ou condição de interesse. Esse valor, normalmente, é
+informado em porcentagem.
+Via parenteral. Administração de fármacos ou nutrição por meios injetáveis, sejam eles
+intradérmicos, subcutâneos, intramusculares ou endovenosos.
+Vírion. Partícula viral completa, estruturalmente intacta e infecciosa.
+Capa:
+Formato: A4 - 4 pg
+Cor: 4/4
+Papel: Supremo Couchê Fosco 320 g
+Encadernação: Lombada quadrada
+Acabamento: BOPP
+Miolo:
+Formato: A4 - 216 pg
+Cor: 4/4
+Papel: Off set 90 g/m²
+Gráfica:
+Tiragem: 2.000
+www.saude.gov.br/bvs
